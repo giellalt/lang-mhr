@@ -1,0 +1,109 @@
+! Mari twol file
+
+Alphabet
+
+! Letters of the alphabet
+А Б Ц Д Е Ф Г Х И Й К Л М Н О П Р С Т У В Х Ӱ З Я Ч Э Щ Ҥ Ӧ Ш Ю Ӓ Ӱ Ӹ Ж    
+а б ц д е ф г х и й к л м н о п р с т у в х ӱ з я ч э щ ҥ ӧ ш ю ӓ ӱ ӹ ж ь ъ 
+  a b v g d e Z z i j k l m n N o O p r s t u y f x c C S 9 Y
+  8 E U A
+
+! other symbols
+   %- !0
+
+! Archiphonemes for vowels
+  е1:е а1:а и1:и у1:у ы1:ы
+
+! Boundary symbols
+! old !  +  /  {  _  $  }  @  ~  &  #
+! new X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2
+
+X1:0 X2:0 X3:0 X4:0 X5:0 X6:0 X7:0 X8:0 X9:0 Z1:0 Z2:0
+ ;
+
+
+
+Sets
+!V =    a e i o O u y Y ;
+V =    а е и о ӧ у ы ӹ е1 а1 у1 ы1 ; ! same as small V set?
+Vo =   о у ;
+VO =   ӧ ы ;
+Ve =   а е и ;
+Cons = б в г д ж з к л м н ҥ п р с т ф х ц ч ш ;
+Cst =  к п т ф х ц ч ш с ;
+all =  а б в г д е ж щ и й к л м н ҥ о ӧ п р с т у ы ф х ц ч ш 
+       9 ӹ 8 э ю я %- ; ! O ;
+V1 =   е1 а1 и1 у1 ы1 ;
+Dummy =  X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2 ;
+alllw =  а б в г д е ж з и й к л м н ҥ о ӧ п р с т у ф ц ч ш
+         9 ы 8 э ю я е1 а1 и1 у1 ы1 X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 %- Z2 ;
+
+Definitions
+!Defaults = [X2:0 | X3:0 | X4:0 | Z2:0 | X6:0 | X7:0 | X8:0 | X9:0 | Z1:0 | X1:0] ;
+
+CorVs =     [all:V | all:Cons]* ;
+CorYs =     [all:ӹ | all:Cons | X1:0]* ;
+!C/V* =     ([=:V | =:Cons])* ;
+!C/Y* =     ([=:ӹ | =:Cons | X1:0])* ;
+
+Rules
+
+"s-1a"
+    X:0  /<= X:0 (all:alllw)* _ ;
+             where X in (X2 X3 X4 X5) ;
+
+"s-1b"
+    X:0  /<= X:0 (all:alllw)* _ ;
+             where X in (X6 X7 X8) ;
+
+"s-1c"
+    X:0  /<= X:0 (all:alllw)* _ ;
+             where X in (X9 Z1 Z2) ;
+ 
+"s-2"
+    X4:0  /<= X3:0 (all:alllw)* _ ;
+
+"s-3"
+    X4:0  /<= X:0 (all:alllw)* _ ;
+             where X in (X7 X6) ;
+
+"s-4"
+    X3:0  /<= X:0 (all:alllw)* _ ;
+             where X in (X7 X8) ;
+
+"s-5"
+    X9:0  <=> X8:0 [S:S | m:m] Y:Y (X5:0 CorVs) _ ;
+
+"s-6"
+    X:ӹ  <=> _ (X1:0) Dummy:0 all:Cons ;
+             where X in V1 ;
+
+"s-7a"
+    е1:о  <=> all:Vo  CorYs   (all:8) _ [(X1:0) Z2:0 | %-:%-] ;
+
+
+"s-7b"
+    е1:ӧ  <=> all:VO CorYs (all:8) _ [(X1:0) Z2:0 | %-:%-] ;
+
+"s-7c"
+    е1:е  <= all:Ve CorYs (all:8) _ [(X1:0) Z2:0 | %-:%-] ;
+
+"s-8abcd"
+    [а1:а | и1:и | у1:у | ы1:ы]  <=>  _ [Z2:0 | %-:%-] ;
+
+"s-9"
+    x:0  <=>  _ Dummy:0 all:V ;
+              where x in V1 ;
+
+"s-10"
+    X1:ы  <=> all:Cons _ Dummy:0 all:Cons [Z2:0 | all:Cons] ;
+
+"s-11"
+    X:0  <=>  _ Dummy:0 X:alllw ;
+              where X in (а е) ;
+
+"s-12"
+    [з:с | ж:ш]  <=>  [all:Cst | all:V all:д] (X1:0) Dummy:0 _ ;
+
+"s-13"
+    8:0  <=>  _ X2:0 е1:е ;
