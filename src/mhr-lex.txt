@@ -10,12 +10,12 @@ Multichar_Symbols
 +Pl +Sg +Pl-SamYC +Pl-la +Pl-mYt
 +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
 
-
+е1 а1 и1 у1 ӱ1 X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2 %-
 
 
 LEXICON Root
 words ;
-
+Pronoun ;
 
 ! ############# !
 ! CONTINUATIONS !
@@ -160,7 +160,7 @@ LEXICON S1
 
 LEXICON S2
 +Ill:X1X3ш S-VS "ILL";
-+Ill.X1X3шке1 S "ILL";
++Ill:X1X3шке1 S "ILL";
 +Ine:X1X3ште1 S "IN" ;
 
 LEXICON S3
@@ -179,9 +179,9 @@ LEXICON S6
 
 LEXICON L
 +Pl:X4-влак L "PL";
-+Pl:X4-шамYC L "PL-SamYC";
++Pl:X4-шамыш L "PL-SamYC";
 +Pl:X4ла L-a "PL-la";
-+Pl:X4мӱт L "PL-mYt";
++Pl:X4мыт L "PL-mYt";
 
 LEXICON P1
 +PxSg1:X1X5м P "PX-SG-1";
@@ -192,35 +192,36 @@ LEXICON P2
 +PxSg2:X5ет P "PX-SG-2";
 
 LEXICON P3
-+PxSg3:X5YZе1 P "PX-SG-3";
++PxSg3:X5Yже1 P "PX-SG-3";
 
 LEXICON P4
-+PxSg3:X5Zе1 P "PX-SG-3";
++PxSg3:X5же1 P "PX-SG-3";
 
 LEXICON P5
-+PxSg3:X1X5Z P-Z "PX-SG-3";
++PxSg3:X1X5ж P-Z "PX-SG-3";
 +PxPl1:X5на P-a "PX-PL-1";
 +PxPl2:X5да P-a "PX-PL-2";
 +PxPl3:X1X5шт P "PX-PL-3";
-+PxSg3:X5Zдене K0 "PX-SG-3+dene";
-+PxSg3:X5Zдеке K0 "PX-SG-3+deke";
-+PxSg3:X5Zдеч K0 "PX-SG-3+deC";
++PxSg3:X5ждене K0 "PX-SG-3+dene";
++PxSg3:X5ждеке K0 "PX-SG-3+deke";
++PxSg3:X5ждеч K0 "PX-SG-3+deC";
 
 LEXICON z-C
-zаш+Inf:з Vv- "";
-Cаш+Inf:ч Vc-/# "";
+zаш+Inf:з Vv- " " ;
+Cаш+Inf:ч Vc-/# " ";
 
 LEXICON t-0
-tаш+Inf:т Vv- "";
-!Lex0 Vc-/# "";
+tаш+Inf:т Vv- " ";
+!Lex0 Vc-/# " ";
 
 LEXICON k-0
 kаш+Inf:к Vv- "";
 !Lex0 Vc-/# "";
 
 LEXICON nC-C
-nаш+Inf:нч Vv- "";
-Cаш+Inf:ч Vc-/# "";
+nаш+Inf:нч Vv- " ";
+Cаш+Inf:ч Vc-/# " ";
+
 
 LEXICON V0
 +Imp+Sg2:X2X1 K0 "IMP-SG-2";
@@ -230,9 +231,9 @@ LEXICON V1
 +Ind+Prs+Sg:X2ам K0 "IND-PREES-SG-1";
 +Ind+Prs+Sg:X2ат K0 "IND-PREES-SG-2";
 +Ind+Prs+Sg:X2еш K0 "IND-PREES-SG-3";
-+Ind+Prs+Pl:X2ӱна K0 "IND-PREES-PL-1";
-+Ind+Prs+Pl:X2ӱда K0 "IND-PREES-PL-2";
-+Ind+Prs+Pl:X2ӱт K0 "IND-PREES-PL-3";
++Ind+Prs+Pl:X2ына K0 "IND-PREES-PL-1";
++Ind+Prs+Pl:X2ыда K0 "IND-PREES-PL-2";
++Ind+Prs+Pl:X2ыт K0 "IND-PREES-PL-3";
 
 LEXICON V2
 +Ind+Prs+Sg:X2ем K0 "IND-PREES-SG-1";
@@ -243,21 +244,21 @@ LEXICON V2
 +Ind+Prs+Pl:X2ат  K0 "IND-PREES-PL-3";
 
 LEXICON V3
-8 V5 "";
+8 V5 " " ;
 
 LEXICON V4
 +Ind+Prt+Pl:X2на K0 "IND-1-PRET-PL-1";
 +Ind+Prt+Pl:X2да K0 "IND-1-PRET-PL-2";
 
 LEXICON V5
-+Ind+Prt+Sg:X2ӱм K0 "IND-1-PRET-SG-1";
-+Ind+Prt+Sg:X2ӱч K0 "IND-1-PRET-SG-2";
++Ind+Prt+Sg:X2ым K0 "IND-1-PRET-SG-1";
++Ind+Prt+Sg:X2ыч K0 "IND-1-PRET-SG-2";
 +Ind+Prt+Sg:X2е1 K0 "IND-1-PRET-SG-3";
-+Ind+Prt+Pl:X2ӱч K0 "IND-1-PRET-PL-3";
++Ind+Prt+Pl:X2ыч K0 "IND-1-PRET-PL-3";
 
 LEXICON V6
-+Ind+Prt+Sg:X2шӱм K0 "IND-1-PRET-SG-1";
-+Ind+Prt+Sg:X2шӱч K0 "IND-1-PRET-SG-2";
++Ind+Prt+Sg:X2шым K0 "IND-1-PRET-SG-1";
++Ind+Prt+Sg:X2шыч K0 "IND-1-PRET-SG-2";
 +Ind+Prt+Sg:X2ш K0 "IND-1-PRET-SG-3";
 +Ind+Prt+Pl:X2шна K0 "IND-1-PRET-PL-1";
 +Ind+Prt+Pl:X2шда K0 "IND-1-PRET-PL-2";
@@ -275,7 +276,7 @@ LEXICON V9
 +Ind+Prt+Sg:X2X1 K0 "IND-2-PRET-SG-3";
 +Ind+Prt+Pl:X2на K0 "IND-2-PRET-PL-1";
 +Ind+Prt+Pl:X2да K0 "IND-2-PRET-PL-2";
-+Ind+Prt+Pl:X2ӱт K0 "IND-2-PRET-PL-3";
++Ind+Prt+Pl:X2ыт K0 "IND-2-PRET-PL-3";
 
 LEXICON V10
 +Imp+Sg3:X2же1 K0 "IMP-SG-3";
@@ -301,20 +302,20 @@ LEXICON W2
 +Ptc+Act:$ше1 W "PART-AKT";
 +Ptc+Pas:$ме1 W "PART-PASS";
 +Ptc+Fut:$шаш W "PART-FUT";
-+Ptc+Neg:$дӱме1 W "PART-NEG";
++Ptc+Neg:$дыме1 W "PART-NEG";
 +Ger+Instr+Neg:X7де S-a "GER-INSTR-NEG";
 +Ger:X7меке S-a "GER-AIKAIS";
 +Ger:X7меш S "GER-MY=99H-mеш";
 +Ger:X7мешке S-a "GER-MY=99H-mешke";
-+Ger:X7шӱн S "GER-SAMANAIK-SYn";
-+Ger:@шӱ W-la "GER-SAMANAIK-SYla";
-+Ger:@мӱ W-la "GER-SAMANAIK-mYla";
++Ger:X7шын S "GER-SAMANAIK-SYn";
++Ger:@шы W-la "GER-SAMANAIK-SYla";
++Ger:@мы W-la "GER-SAMANAIK-mYla";
 
 LEXICON W3
 +Ger+Instr:X7ен S "GER-INSTR";
 
 LEXICON W4
-+Ger+Instr:X7ӱн S "GER-INSTR";
++Ger+Instr:X7ын S "GER-INSTR";
 
 LEXICON W5
 ~ла K0 "";
@@ -329,7 +330,7 @@ LEXICON K
 &-йан Lex0 "-jan";
 &-але Lex0 "-ale";
 &-с Lex0 "-s";
-&-ӱс Lex0 "-Ys" ;
+&-ыс Lex0 "-Ys" ;
 
 LEXICON KO
 # ;
@@ -396,8 +397,8 @@ LEXICON A-VS
  # ;
 LEXICON KvO
  # ;
-LEXICON X
- # ;
+!LEXICON X
+! # ;
 LEXICON A-a/e
  # ;
 LEXICON Pmuu
