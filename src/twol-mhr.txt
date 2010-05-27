@@ -12,7 +12,7 @@ Alphabet
    %- !0
 
 ! Archiphonemes for vowels
-  е1:е а1:а и1:и у1:у ы1:ы
+  е1:е а1:а и1:и у1:у  ӱ1:ӱ
 
 ! Boundary symbols
 ! old !  +  /  {  _  $  }  @  ~  &  #
@@ -25,24 +25,25 @@ X1:0 X2:0 X3:0 X4:0 X5:0 X6:0 X7:0 X8:0 X9:0 Z1:0 Z2:0
 
 Sets
 !V =    a e i o O u y Y ;
-V =    а е и о ӧ у ы ӹ е1 а1 у1 ы1 ; ! same as small V set?
+V =    а е и о ӧ у ӱ ы е1 а1 и1 у1 ӱ1 ; ! same as small V set?
 Vo =   о у ;
-VO =   ӧ ы ;
+VO =   ӧ ӱ ;
 Ve =   а е и ;
 Cons = б в г д ж з к л м н ҥ п р с т ф х ц ч ш ;
 Cst =  к п т ф х ц ч ш с ;
-all =  а б в г д е ж щ и й к л м н ҥ о ӧ п р с т у ы ф х ц ч ш 
-       9 ӹ 8 э ю я %- ; ! O ;
-V1 =   е1 а1 и1 у1 ы1 ;
-Dummy =  X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2 ;
-alllw =  а б в г д е ж з и й к л м н ҥ о ӧ п р с т у ф ц ч ш
-         9 ы 8 э ю я е1 а1 и1 у1 ы1 X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 %- Z2 ;
+all =  а б в г д е ж щ и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш 
+       9 ы 8 э ю я %- ; ! O ;
+V1 =   е1 а1 и1 у1 ӱ1 ;
+!Dummy =  X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2 ;
+Dummy =  X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2 ;
+alllw =  а б в г д е ж з и й к л м н ҥ о ӧ п р с т у ӱ ф ц ч ш
+         9 ы 8 э ю я е1 а1 и1 у1 ӱ1 X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 %- Z2 ;
 
 Definitions
 !Defaults = [X2:0 | X3:0 | X4:0 | Z2:0 | X6:0 | X7:0 | X8:0 | X9:0 | Z1:0 | X1:0] ;
 
 CorVs =     [all:V | all:Cons]* ;
-CorYs =     [all:ӹ | all:Cons | X1:0]* ;
+CorYs =     [all:ӱ | all:Cons | X1:0]* ;
 !C/V* =     ([=:V | =:Cons])* ;
 !C/Y* =     ([=:ӹ | =:Cons | X1:0])* ;
 
@@ -75,7 +76,7 @@ Rules
     X9:0  <=> X8:0 [S:S | m:m] Y:Y (X5:0 CorVs) _ ;
 
 "s-6"
-    X:ӹ  <=> _ (X1:0) Dummy:0 all:Cons ;
+    X:ы  <=> _ (X1:0) Dummy:0 all:Cons ;
              where X in V1 ;
 
 "s-7a"
@@ -89,7 +90,7 @@ Rules
     е1:е  <= all:Ve CorYs (all:8) _ [(X1:0) Z2:0 | %-:%-] ;
 
 "s-8abcd"
-    [а1:а | и1:и | у1:у | ы1:ы]  <=>  _ [Z2:0 | %-:%-] ;
+    [а1:а | и1:и | у1:у | ӱ1:ӱ]  <=>  _ [Z2:0 | %-:%-] ;
 
 "s-9"
     x:0  <=>  _ Dummy:0 all:V ;
