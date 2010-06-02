@@ -4,10 +4,9 @@
 # The second goal is to build mhr.save
 # This goal depends on twol-mhr.bin and a bunch of lexicon files
 
-XFST = xfst #-utf8
-#XFST = fst #-utf8
-LEXC = lexc #-utf8
-TWOLC = twolc #-utf8
+XFST = xfst 
+LEXC = lexc
+TWOLC = twolc
 
 ifeq (victorio.uit.no, $(shell hostname))
 XFST = /opt/sami/xerox/c-fsm/ix86-linux2.6-gcc3.4/bin/fst -utf8
@@ -18,12 +17,6 @@ endif
 LEX = mhr-lex.txt \
 	noun-mhr-lex.txt \
 	pron-mhr-lex.txt
-
-ifeq (victorio.uit.no, $(shell hostname))
-XFST = /opt/sami/xerox/c-fsm/ix86-linux2.6-gcc3.4/bin/fst -utf8
-LEXC = /opt/sami/xerox/bin/lexc -utf8
-TWOLC = /opt/sami/xerox/bin/twolc -utf8
-endif
 
 
 all: imhr.fst
