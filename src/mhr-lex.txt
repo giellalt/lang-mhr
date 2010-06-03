@@ -1,6 +1,7 @@
 Multichar_Symbols
+
 +N +A +V
-+Prop +Adv
++Prop +Adv +Po +Pron
 +Nom +Gen +Acc +Com +Ill +Ine +Lat +Dat +Cmp
 +Ind +Imp +Des +Prs +1Prt +2Prt +Ger +Inf +Ptc
 +Act +Pass +Ins +Neg +Necess +Fut +Neg
@@ -10,12 +11,19 @@ Multichar_Symbols
 +Pl +Sg +Pl-SamYC +Pl-la +Pl-mYt
 +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
 
-е1 а1 и1 у1 ӱ1 X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2 %-
++Des +Fut  +Instr  +Nec  +Prt 
+ 
+е1 а1 и1 у1 ӱ1 
+
+X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2 %-
 
 
 LEXICON Root
+
 words ;
 Pronoun ;
+Postposition ;
+
 
 ! ############# !
 ! CONTINUATIONS !
@@ -390,8 +398,6 @@ LEXICON a
 LEXICON KvKoll
  # ;
 LEXICON KvInd
- # ;
-LEXICON Po
  # ;
 LEXICON A-VS
  # ;
