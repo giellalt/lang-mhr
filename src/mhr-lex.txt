@@ -49,7 +49,7 @@ N-a/e ;
 LEXICON Puh ! XXX do not know
 N ;
 
-LEXICON  N
+LEXICON N
 +N: N-continuation ;
 
 LEXICON N-continuation 
@@ -186,10 +186,10 @@ LEXICON S6
 +Cmp:X3ла S-a "KOMP";
 
 LEXICON L
-+Pl:X4-влак L "PL";
-+Pl:X4-шамыш L "PL-SamYC";
++Pl:X4-влак Lx "PL"; ! earlier L
++Pl:X4-шамыш Lx "PL-SamYC"; ! earlier L
 +Pl:X4ла L-a "PL-la";
-+Pl:X4мыт L "PL-mYt";
++Pl:X4мыт Lx "PL-mYt"; ! earlier L
 
 LEXICON P1
 +PxSg1:X1X5м P "PX-SG-1";
