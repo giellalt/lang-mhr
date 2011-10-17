@@ -28,9 +28,10 @@ all: imhr.fst
 
 imhr.fst: ../bin/imhr.fst
 ../bin/imhr.fst: ../bin/mhr.save \
-				 ../bin/mhr.fst \
-#				 ../bin/tok.fst \
-#				 ../bin/abbr.txt \
+				../bin/mhr.fst \
+				../bin/mhr-num.fst \
+#				../bin/tok.fst \
+#				../bin/abbr.txt \
 #            	 ../bin/allcaps.fst \
 #            	 ../bin/mhr-dis.bin \
 #            	 ../bin/mhr-dep.bin \
@@ -102,6 +103,19 @@ inituppercase.fst: ../bin/inituppercase.fst
 	$(XFST) -e "read regex < $< " \
 			-e "save stack   $@ " \
 			-stop
+
+
+
+mhr-num.fst: ../bin/mhr-num.fst
+../bin/mhr-num.fst: mhr-num.txt
+	@echo
+	@echo "*** Building $(notdir $@) ***" ;
+	@echo
+	$(XFST) -e "read lexc < $< " \
+		-e "save stack   $@ " \
+		-stop
+
+
 
 # "make clean" is there to remove the binary files at will.
 
