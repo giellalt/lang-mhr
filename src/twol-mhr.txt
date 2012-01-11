@@ -113,3 +113,8 @@ Rules
 
 "s-13"
     ь:0  <=>  _ X2:0 е1:е ;
+
+"Verb Stem Vowel Deletion Before Vowel Intial Suffix"
+    е1:0 <=> _ X7:0 ;
+    
+    
