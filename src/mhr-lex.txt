@@ -28,6 +28,7 @@ X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2 %-
 LEXICON Root
 
 words ;
+Verb ;
 Pronoun ;
 Postposition ;
 Punctuation ;
@@ -115,25 +116,25 @@ S6 ; W5 ;
 ! ========================== !
 
 LEXICON Vem
-еш+Inf: Vem-continuation ;
++V: Vem-continuation ;
 
 LEXICON Vam
-аш+Inf: Vam-continuation ;
++V: Vam-continuation ;
 
 LEXICON Vam-n/l
-аш+Inf: Vam-n/l-continuation ;
++V: Vam-n/l-continuation ;
 
 LEXICON Vam-to-1t
-аш+Inf: Vam-to-1t-continuation ;
++V: Vam-to-1t-continuation ;
 
 LEXICON Vam--1t ! originally Vam->1t, assuming "->" is "to", tt100526
-аш+Inf: Vam-to-1t-continuation ;
++V: Vam-to-1t-continuation ;
 
 LEXICON Vam-n/l-to-1t
-аш+Inf: Vam-n/l-to-1t-continuation ;
++V: Vam-n/l-to-1t-continuation ;
 
 LEXICON Vam-n/l--1t ! originally Vam-n/l->1t , assuming "->" is "to", tt100526
-аш+Inf: Vam-n/l-to-1t-continuation ;
++V: Vam-n/l-to-1t-continuation ;
 
 
 ! Redirecting to verbal sublexica
@@ -255,20 +256,20 @@ LEXICON P5
 ! ---------------
 
 LEXICON z-C
-zаш+Inf:з Vv- " " ;
-Cаш+Inf:ч Vc-/# " " ;
+z+Inf:з Vv- " " ;
+C+Inf:ч Vc-/# " " ;
 
 LEXICON t-0
-tаш+Inf:т Vv- " " ;
+t+Inf:т Vv- " " ;
 !Lex0 Vc-/# " " ;
 
 LEXICON k-0
-kаш+Inf:к Vv- "xxx" ;
+k+Inf:к Vv- "xxx" ;
 !Lex0 Vc-/# "xxx" ;
 
 LEXICON nC-C
-nаш+Inf:нч Vv- " " ;
-Cаш+Inf:ч Vc-/# " " ;
+n+Inf:нч Vv- " " ;
+C+Inf:ч Vc-/# " " ;
 
 
 LEXICON V0
