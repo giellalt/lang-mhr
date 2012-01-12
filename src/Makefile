@@ -18,6 +18,7 @@ LEX = mhr-lex.txt \
 	noun-mhr-lex.txt \
 	pron-mhr-lex.txt \
 	pp-mhr-lex.txt \
+	verb-mhr-lex.txt \
 	punct-mhr-lex.txt
 
 
