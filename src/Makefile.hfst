@@ -1,0 +1,63 @@
+# *************************************************************** #
+# This is a makefile that builds the Kven morphological parser    #
+# using the HFST tools.                                           #
+# *************************************************************** #
+
+LEX = fkv-lex.txt \
+	  noun-fkv-lex.txt \
+	  noun-fkv-morph.txt \
+	  adj-fkv-lex.txt \
+#	  adj-fkv-morph.txt \
+	  verb-fkv-lex.txt \
+	  verb-fkv-morph.txt \
+	  adv-fkv-lex.txt \
+	  abbr-fkv-lex.txt \
+#	  acro-fkv-lex.txt \
+#	  pron-fkv-lex.txt \
+	  punct-fkv-lex.txt \
+#	  numeral-fkv-lex.txt \
+	  pp-fkv-lex.txt 
+#	  cc-fkv-lex.txt \
+#	  cs-fkv-lex.txt \
+#	  interj-fkv-lex.txt \
+#	  det-fkv-lex.txt
+
+#	  propernoun-fkv-lex.txt 
+#	  propernoun-fkv-morph.txt 
+
+all: ../bin/fkv.hfst
+
+lexc-fkv.bin: ../bin/lexc-fkv.bin
+../bin/lexc-fkv.bin: $(LEX)
+	@echo
+	@echo "*** Building $(notdir $@) ***" ;
+	@echo
+	hfst-lexc $^ -o $@
+
+twol-fkv.bin: ../bin/twol-fkv.bin
+../bin/twol-fkv.bin: twol-fkv.txt
+	@echo
+	@echo "*** Building $(notdir $@) ***" ;
+	@echo
+	hfst-twolc $< -o $@ 
+
+fkv-gen.hfst: ../bin/fkv-gen.hfst 
+../bin/fkv-gen.hfst: ../bin/lexc-fkv.bin ../bin/twol-fkv.bin
+	@echo
+	@echo "*** Building $(notdir $@) ***" ;
+	@echo
+	hfst-compose-intersect -l $+ -o $@
+
+fkv.hfst: ../bin/fkv.hfst
+../bin/fkv.hfst: ../bin/fkv-gen.hfst
+	@echo
+	@echo "*** Building $(notdir $@) ***" ;
+	@echo
+	hfst-invert $< -o $@
+	@echo
+	@echo "*** Building lookup-optimized $(notdir $@).ol ***" ;
+	@echo
+	hfst-lookup-optimize $@ -o $@.ol
+
+clean:
+	rm -f ../bin/* ../tmp/*
