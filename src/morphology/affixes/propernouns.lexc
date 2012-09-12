@@ -7,10 +7,10 @@ LEXICON Prop
 +N+Prop: N-continuation ;
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
-    PropTag ;
-:%: PropTag ;
-:%- PropTag ;
-:%' PropTag ;
+    Prop ;
+:%: Prop ;
+:%- Prop ;
+:%' Prop ;
 
 
 
