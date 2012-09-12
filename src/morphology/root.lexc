@@ -35,6 +35,9 @@ Multichar_Symbols
  +Use/Sub   
  +Use/-Spell 
 
+!!! pair verbs that do not occur independently get this marker.
+ +Depend
+
 !! The nominals are inflected in the following Case and Number
  +Sg +Pl
 +Nom +Gen +Acc +Com +Ill +Ine +Lat +Dat +Cmp
@@ -144,6 +147,17 @@ LEXICON CS
 LEXICON Adv
 +Adv: K ;
 
+LEXICON AD-A
++Adv: # ;
+
+LEXICON Po
++Po: # ;
+
+LEXICON Postp
+ Po ;
+
+
+
 LEXICON Puh-a/e ! XXX do not know
 N-a/e ;
 
@@ -165,6 +179,7 @@ N ;
 LEXICON Vam-n/l1t
  # ;
 
+
 LEXICON PronRes
 +Pron: # ;
 
@@ -182,6 +197,9 @@ LEXICON PronIR
 
 LEXICON PronInd
 +Pron+Ind: # ;
+
+LEXICON PronDem
++Pron+Dem: # ;
 
 LEXICON KvMurt
  # ;

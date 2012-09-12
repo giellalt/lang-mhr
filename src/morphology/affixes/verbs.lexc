@@ -7,6 +7,12 @@
 ! Verbal continuation lexica !
 ! ========================== !
 
+LEXICON Vam-dependent
++Depend: Vam	;
+
+LEXICON Vem-dependent
++Depend: Vem	;
+
 LEXICON Vem
 +V: Vem-continuation ;
 

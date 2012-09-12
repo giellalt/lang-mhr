@@ -2,8 +2,8 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<entry><lg><l>тудо</l><stg><st Contlex="PronTag">тудо</st></stg></lg><pos>PRON</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e></entry>
-<entry><lg><l>тиде</l><stg><st Contlex="PronTag">тиде</st></stg></lg><pos>PRON</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e></entry>
+<entry><lg><l>тудо</l><stg><st Contlex="PronDem">тудо</st></stg></lg><pos>PRON</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e></entry>
+<entry><lg><l>тиде</l><stg><st Contlex="PronDem">тиде</st></stg></lg><pos>PRON</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t></t></tg><tg lang="fin"><t/></tg></mg></e></entry>
 <entry><lg><l>ала-могай</l><stg><st Contlex="PronInd">ала-могай</st></stg></lg><pos>PRON</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t>jonkinlainen, eräänlainen PronInd</t></tg><tg lang="fin"><t/></tg></mg></e></entry>
 <entry><lg><l>ала-кӧ</l><stg><st Contlex="PronInd">ала-кӧ</st></stg></lg><pos>PRON</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t>joku, eräs PronInd</t></tg><tg lang="fin"><t/></tg></mg></e></entry>
 <entry><lg><l>ала-кузе</l><stg><st Contlex="PronInd">ала-кузе</st></stg></lg><pos>PRON</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t>jotenkin PronInd</t></tg><tg lang="fin"><t/></tg></mg></e></entry>
