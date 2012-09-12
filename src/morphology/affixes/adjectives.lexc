@@ -1,0 +1,20 @@
+!! Adjective inflection
+!! --------------------
+!! Meadow Mari ??adjectives compare.
+
+!! LEXICON Comparisons
+!! +A+pos:0        Cases   ;
+!! +A+cmp:er       Cases   ;
+!! +A+sup:est      Cases   ;
+
+LEXICON A
++A: K ; ! missing comparative
++А+Comp:рак # ;
+
+LEXICON A/S-a/e ! XXX do not know
+A ;
+
+
+
+! vim: set ft=xfst-lexc:
+

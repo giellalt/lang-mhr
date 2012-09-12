@@ -36,11 +36,11 @@ Multichar_Symbols
  +Use/-Spell 
 
 !! The nominals are inflected in the following Case and Number
- +Sg +Du +Pl
- +Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh
+ +Sg +Pl
++Nom +Gen +Acc +Com +Ill +Ine +Lat +Dat +Cmp
 
 !! The possession is marked as such:
- +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3
+ +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
 !! The comparative forms are:
  +Comp +Superl
 !! Numerals are classified under:
@@ -99,9 +99,11 @@ Multichar_Symbols
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
  {aä} {oö} {uü}
+е1 а1 и1 у1 ӱ1
 
 !! And following triggers to control variation
  {front} {back}
+X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2 %-
 
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:
@@ -110,11 +112,187 @@ Multichar_Symbols
 LEXICON Root
 !! The word forms in UNDEFINED language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-0   Nouns   ;
-0   Verbs   ;
-0   Adjectives  ;
-0   Pronouns    ;
-0   Numerals    ;
-0   Prefixes    ;
+0   adjectives  ;
+0   adverbs  ;
+0   conjunctions  ;
+0   dependents   ;
+0   interjections   ;
+0   nouns   ;
+0   particles   ;
+0   postpositions	;
+0   pronouns    ;
+0   propernouns    ;
+0   quantifiers    ;
+0   verbs   ;
+
+Abbreviation	;
+Acronym		;
+Punctuation	;
+wordToNumeral	;
+
+
+! ############# !
+! CONTINUATIONS !
+! ############# !
+
+LEXICON CC
++CC: # ;
+
+LEXICON CS
++CS: # ;
+
+LEXICON Adv
++Adv: K ;
+
+LEXICON Puh-a/e ! XXX do not know
+N-a/e ;
+
+
+LEXICON Puh ! XXX do not know
+N ;
+
+
+
+! ####### !
+! AFFIXES !
+! ####### !
+
+
+
+! First aid lexica, these are not defined.
+! They are either typos or unfinished work.
+
+LEXICON Vam-n/l1t
+ # ;
+
+LEXICON PronRes
++Pron: # ;
+
+LEXICON N-A7e
+ # ;
+
+LEXICON PromInd
++Pron: # ;
+
+LEXICON PronI
++Pron: # ;
+
+LEXICON PronIR
++Pron+Interr: # ;
+
+LEXICON PronInd
++Pron+Ind: # ;
+
+LEXICON KvMurt
+ # ;
+
+LEXICON KvK
+ # ;
+
+LEXICON PronP
+ # ;
+
+LEXICON PronD
+ # ;
+
+LEXICON Vkielt
++V+Neg: # ;
+
+LEXICON V
+ # ;
+
+LEXICON N-e/a
+ # ;
+
+LEXICON Pimp
+ # ;
+
+LEXICON I
+ # ;
+
+LEXICON Ruotsi
+ # ;
+
+LEXICON N-Vs
+ # ;
+
+LEXICON PronRef
+ # ;
+
+LEXICON a
+ # ;
+
+LEXICON KvKoll
+ # ;
+
+LEXICON KvInd
+ # ;
+
+LEXICON A-VS
+ # ;
+
+LEXICON KvO
+ # ;
+
+!LEXICON X
+! # ;
+
+LEXICON A-a/e
+ # ;
+
+LEXICON Pmuu
++Interj: # ; ! Several Pmuu do not belong here
+
+LEXICON A/S
+ # ;
+
+LEXICON A/S-VS
+ # ;
+
+LEXICON Kv-a/e
+ # ;
+
+LEXICON Vem-jykte1
+ # ;
+
+LEXICON Pron
++Pron # ;
+
+LEXICON Vem--Vam-n/l
+ # ;
+
+LEXICON Vam-1t
+ # ;
+
+LEXICON VKielt
++V+Neg: # ;
+
+LEXICON Vem-Syle1
+ # ;
+
+LEXICON Saxmatistka1
+ # ;
+
+LEXICON ymbaCYn
+ # ;
+
+LEXICON ymbaC
+ # ;
+
+LEXICON utYktare1
+ # ;
+
+LEXICON tYgutlашte1
+ # ;
+
+LEXICON tYgudешte1
+ # ;
+
+LEXICON X
+ # ;
+
+LEXICON S-a/e
+ # ;
+
 
 ! vim: set ft=xfst-lexc:

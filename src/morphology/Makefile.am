@@ -22,29 +22,44 @@ GT_LEXC_ROOT=root.lexc
 GT_LEXC_SRCS=\
 			 stems/abbr.lexc \
 			 stems/acro.lexc \
-			 stems/adj.lexc \
-			 stems/adv.lexc \
-			 stems/cc.lexc \
-			 stems/cs.lexc \
-			 stems/det.lexc \
-			 stems/interj.lexc \
-			 stems/noun.lexc \
-			 stems/numeral.lexc \
-			 stems/pp.lexc \
-			 stems/pron.lexc \
-			 stems/propernoun.lexc \
 			 stems/punct.lexc \
-			 stems/verb.lexc \
+			 stems/wordToNumeral.lexc \
 			 affixes/adjectives.lexc \
 			 affixes/nouns.lexc \
 			 affixes/propernouns.lexc \
 			 affixes/verbs.lexc
 
 # Set this to the names of all generated lexc files, if any
-GENERATED_LEXC_SRCS=
+GENERATED_LEXC_SRCS=\
+			 stems/adjectives.lexc \
+			 stems/adverbs.lexc \
+			 stems/conjunctions.lexc \
+			 stems/dependents.lexc \
+			 stems/interjections.lexc \
+			 stems/nouns.lexc \
+			 stems/particles.lexc \
+			 stems/postpositions.lexc \
+			 stems/pronouns.lexc \
+			 stems/propernouns.lexc \
+			 stems/quantifiers.lexc \
+			 stems/verbs.lexc
+
 
 # Set this to the names of all source xml files, if any
-GT_XML_SRCS=
+GT_XML_SRCS=\
+			 stems/adjectives.xml \
+			 stems/adverbs.xml \
+			 stems/conjunctions.xml \
+			 stems/dependents.xml \
+			 stems/interjections.xml \
+			 stems/nouns.xml \
+			 stems/particles.xml \
+			 stems/postpositions.xml \
+			 stems/pronouns.xml \
+			 stems/propernouns.xml \
+			 stems/quantifiers.xml \
+			 stems/verbs.xml
+
 
 include $(top_srcdir)/am-shared/lexc-include.am
 
