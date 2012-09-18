@@ -40,7 +40,7 @@ Multichar_Symbols
 
 !! The nominals are inflected in the following Case and Number
  +Sg +Pl
-+Nom +Gen +Acc +Com +Ill +Ine +Lat +Dat +Cmp
++Nom +Gen +Acc +Com +Ill +Ine +Lat +Dat +Cmp +Abe
 
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
@@ -69,7 +69,8 @@ Multichar_Symbols
 
 !! Question and Focus particles:
  +Qst +Foc
-
+! -ат/-ят, -ак/-як, -с/-ыс
++Foc/Ат +Foc/Ак +Foc/Ыс
 
 !! Semantics are classified with
  +Mal +Fem +Sur 
