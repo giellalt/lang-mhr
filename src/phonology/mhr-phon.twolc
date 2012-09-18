@@ -12,12 +12,18 @@ Alphabet
 ! Archiphonemes for vowels
   е1:е а1:а и1:и у1:у ӱ1:ӱ
   Е1:Е А1:А И1:И У1:У Ӱ1:Ӱ
+!JMR 2012-09-18
+  Е2:е Е2:0 Ы1:ы Ы1:0 Ы2:ы Ы2:0 А2:а А2:я
 
 ! Boundary symbols
 ! old !  +  /  {  _  $  }  @  ~  &  #
 ! new X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2
 
 X1:0 X2:0 X3:0 X4:0 X5:0 X6:0 X7:0 X8:0 X9:0 Z1:0 Z2:0
+
+! JMR 2012-09-18
+%>:0
+
  ;
 
 
@@ -43,6 +49,9 @@ alllw =  а б в г д е ж з и й к л м н ҥ о ӧ п р с т у ӱ ф
          А Б В Г Д Е Ж Щ И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш 
          ъ ы ь э ю я е1 а1 и1 у1 ӱ1 X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 %- Z2 
            Ы   Э Ю Я Е1 А1 И1 У1 Ӱ1                                     ;
+
+! JMR 2012-09-18
+Vws = Vo VO Ve ;
 
 Definitions
 !Defaults = [X2:0 | X3:0 | X4:0 | Z2:0 | X6:0 | X7:0 | X8:0 | X9:0 | Z1:0 | X1:0] ;
@@ -115,8 +124,36 @@ Rules
 
 "s-13"
     ь:0  <=>  _ X2:0 е1:е ;
+   ! JMR 2012-09-18
+        _ %> А2: ;
 
 "Verb Stem Vowel Deletion Before Vowel Intial Suffix"
     е1:0 <=> _ X7:0 ;
     
     
+! JMR 2012-09-18
+"Onset vowel loss in suffix"
+   Vx:0 <=> :Vws %>:0 _ ;
+        where Vx in (Е2 Ы1) ;
+
+"Onset vowel realized in suffix"
+  Vx:Vy <=> Cons %>:0 _ ;
+        where Vx in (Е2 Ы1) 
+              Vy in (е ы) matched ;
+
+"suffix-final vowel loss after stem-final vowel"
+  Ы2:0 <=> Vws %>:0 ж _ %>:0 [ л | г | ш | д | е | А2: ] ;
+           Cons %>:0 ж _ %>:0 [ е ш | А2: ] ;
+
+"suffix-final vowel realized after stem-final consonant"
+  Ы2:ы <=> Cons %>:0 ж _ %>:0 [ л | г | ш | д | Ы1: ] ;
+
+"suffix-final vowel realized in word-final position"
+  Ы2:е <=> Cons %>:0 ж _ ~[ all ] ;
+
+"Clitics in At and Ak take onset glide"
+  А2:я <=> ь:0 %>:0 _ [ т | к ] ;
+
+"Clitics in At and Ak take onset glide"
+  А2:а <=> [ Cons ( Ы2:0 ) | :Vws ] %>:0 _ [ т | к ] ;
+

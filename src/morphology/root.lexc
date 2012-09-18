@@ -39,9 +39,9 @@ Multichar_Symbols
  +Depend
 
 !! The nominals are inflected in the following Case and Number
- +Sg +Pl
+ +Sg +Pl +AssocPl
 +Nom +Gen +Acc +Com +Ill +Ine +Lat +Dat +Cmp +Abe
-
++Voc 
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
 !! The comparative forms are:
@@ -104,10 +104,14 @@ Multichar_Symbols
 !! symbols in the lexicon files:
  {aä} {oö} {uü}
 е1 а1 и1 у1 ӱ1
-
+! JMR 2012-09-18
+Е2 А2 Ы1 Ы2
+%>
++TEST
 !! And following triggers to control variation
  {front} {back}
 X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2 %-
+
 
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:

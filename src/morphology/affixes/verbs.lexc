@@ -212,6 +212,11 @@ LEXICON K
 LEXICON KO
 # ;
 
+LEXICON Clt
+# ;
++Foc/Ак:%>А2к # ;
++Foc/Ат:%>А2т # ;
++Foc/Ыс:%>ыс # ;
 
 ! vim: set ft=xfst-lexc:
 

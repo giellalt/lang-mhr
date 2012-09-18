@@ -2,6 +2,45 @@
 !! ---------------
 !! Meadow Mari nouns inflect in cases.
 
+LEXICON N-ava
++N: N-ava_NB ;
++N+Voc:%>й # ;
++N+Voc+PxSg1:%>ем # ; 
++N+Sg+Nom+PxSg1:%>м # ;
+
+LEXICON N-ava_NB
++Sg: N-ava_Cx ;
++Pl:%>%-влак N-ava_Cx ;
++Pl:%>%-шамыч N-ava_Cx ;
++AssocPl:%>мыт N-ava_Cx ;
++Sg: N-ava_Px ;
++Pl:%>%-влак N-ava_Px ;
++Pl:%>%-шамыч N-ava_Px ;
+
+LEXICON N-ava_Px
++PxSg1:%>Е2м N-ava_Cx ; ! Е2:0, Е2:е
++PxSg2:%>Е2т N-ava_Cx ; ! Е2:0, Е2:е
++PxSg3:%>же N-ava_Cx ; 
++PxPl1:%>на N-ava_Cx ;
++PxPl2:%>да N-ava_Cx ;
++PxPl3:%>Ы1шт N-ava_Cx ; ! Ы1:0, Ы1:ы
+
+LEXICON N-ava_Cx
++Nom: Clt ;
++Gen:%>Ы1н Clt ; ! Ы1:0, Ы1:ы
++Dat:%>лан Clt ;
++Acc:%>Ы1м Clt ; ! Ы1:0, Ы1:ы
++Comp:%>ла Clt ;
++Com:%>ге Clt ;
++Ine:%>Ы1ште Clt ; ! Ы1:0, Ы1:ы
++Ill:%>Ы1шке Clt ; ! Ы1:0, Ы1:ы
++Lat:%>еш Clt ;
++Abe:%>де Clt ;
+
+
+
+
+
 LEXICON N
 +N: N-continuation ;
 
