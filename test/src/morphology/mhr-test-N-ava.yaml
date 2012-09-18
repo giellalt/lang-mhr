@@ -41,16 +41,16 @@ Tests:
      ава+N+Sg+Lat: аваеш # не употребляется
      ава+N+Sg+Abe: аваде
 
-     ава+N+Sg+AssocPl+Nom: авамыт
-     ава+N+Sg+AssocPl+Gen: авамытын
-     ава+N+Sg+AssocPl+Dat: авамытлан
-     ава+N+Sg+AssocPl+Acc: авамытым
-     ава+N+Sg+AssocPl+Comp: авамытла
-     ава+N+Sg+AssocPl+Com: авамытге
-     ава+N+Sg+AssocPl+Ine: авамытыште # не употребляется
-     ава+N+Sg+AssocPl+Ill: авамытышке # не употребляется
-     ава+N+Sg+AssocPl+Lat: авамытеш # не употребляется
-     ава+N+Sg+AssocPl+Abe: авамытде
+     ава+N+AssocPl+Nom: авамыт
+     ава+N+AssocPl+Gen: авамытын
+     ава+N+AssocPl+Dat: авамытлан
+     ава+N+AssocPl+Acc: авамытым
+     ава+N+AssocPl+Comp: авамытла
+     ава+N+AssocPl+Com: авамытге
+     ава+N+AssocPl+Ine: авамытыште # не употребляется
+     ава+N+AssocPl+Ill: авамытышке # не употребляется
+     ава+N+AssocPl+Lat: авамытеш # не употребляется
+     ава+N+AssocPl+Abe: авамытде
 
      ава+N+Pl+Nom: [ава-влак, ава-шамыч]
      ава+N+Pl+Gen: [ава-влакын, ава-шамычын]
@@ -63,7 +63,7 @@ Tests:
      ава+N+Pl+Lat: [ава-влакеш, ава-шамычеш] # не употребляется
      ава+N+Pl+Abe: [ава-влакде, ава-шамычде]
 
-     ава+N+Sg+Nom+PxSg1: [авам, аваем]
+     ава+N+Sg+Nom+PxSg1: авам
      ава+N+Sg+Gen+PxSg1: авамын
      ава+N+Sg+Dat+PxSg1: авамлан
      ава+N+Sg+Acc+PxSg1: авамым
