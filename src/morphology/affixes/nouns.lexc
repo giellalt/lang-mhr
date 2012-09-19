@@ -10,12 +10,12 @@ LEXICON N-ava
 
 LEXICON N-ava_NB
 +Sg: N-ava_Cx ;
-+Pl:%>%-влак N-ava_Cx ;
-+Pl:%>%-шамыч N-ava_Cx ;
++Pl:%-влак N-ava_Cx ;
++Pl:%-шамыч N-ava_Cx ;
 +AssocPl:%>мыт N-ava_Cx ;
 +Sg: N-ava_Px ;
-+Pl:%>%-влак N-ava_Px ;
-+Pl:%>%-шамыч N-ava_Px ;
++Pl:%-влак N-ava_Px ;
++Pl:%-шамыч N-ava_Px ;
 
 LEXICON N-ava_Px
 +PxSg1:%>Е2м N-ava_Cx ; ! Е2:0, Е2:е
@@ -47,12 +47,12 @@ LEXICON N
 
 LEXICON N_NB_Nb-Px-Cx
 +Sg: N_Cx_Nb-Px-Cx ;
-+Pl:%>%-влак N_Cx_Nb-Px-Cx ;
-+Pl:%>%-шамыч N_Cx_Nb-Px-Cx ;
++Pl:%-влак N_Cx_Nb-Px-Cx ;
++Pl:%-шамыч N_Cx_Nb-Px-Cx ;
 +AssocPl:%>мыт N_Cx_Nb-Px-Cx ;
 +Sg: N_Px_Nb-Px-Cx ;
-+Pl:%>%-влак N_Px_Nb-Px-Cx ;
-+Pl:%>%-шамыч N_Px_Nb-Px-Cx ;
++Pl:%-влак N_Px_Nb-Px-Cx ;
++Pl:%-шамыч N_Px_Nb-Px-Cx ;
 
 LEXICON N_Px_Nb-Px-Cx
 +PxSg1:%>Е2м N_Cx_Nb-Px-Cx ; ! Е2:0, Е2:е
@@ -83,8 +83,8 @@ LEXICON N_Px_Px-Nb-Cx
 +PxPl3:%>Ы1шт N_Nb_Px-Nb-Cx ; ! Ы1:0, Ы1:ы
 
 LEXICON N_Nb_Px-Nb-Cx
-+Pl:%>%-влак N_Cx_Px-Nb-Cx ;
-+Pl:%>%-шамыч N_Cx_Px-Nb-Cx ;
++Pl:%-влак N_Cx_Px-Nb-Cx ;
++Pl:%-шамыч N_Cx_Px-Nb-Cx ;
 
 LEXICON N_Cx_Px-Nb-Cx
  N_Cx_Nb-Px-Cx ;
