@@ -86,7 +86,7 @@ Rules
 "suffix-final vowel realized as +Back +Round in word-final position"
   Ы2:о <=> Vo [ Cns | ы | %>:0 ж Ы2:0 ]* %>:0 [ Ы1: ш [ т | к ] | ж: ] _ [ #: | %- ] ;
 
-"suffix-final vowel realized as +Back +Round in word-final position"
+"suffix-final vowel realized as +Front +Round in word-final position"
   Ы2:ӧ <=> VO [ Cns | ы | %>:0 ж Ы2:0 ]* %>:0 [ Ы1: ш [ т | к ] | ж: ] _ [ #: | %- ] ;
 
 "Clitics in At and Ak take onset glide"
