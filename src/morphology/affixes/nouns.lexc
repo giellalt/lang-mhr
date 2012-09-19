@@ -6,7 +6,7 @@ LEXICON N-ava
 +N: N-ava_NB ;
 +N+Voc:%>й # ;
 +N+Voc+PxSg1:%>ем # ; 
-+N+Sg+Nom+PxSg1:%>м # ;
+
 
 LEXICON N-ava_NB
 +Sg: N-ava_Cx ;
@@ -20,7 +20,7 @@ LEXICON N-ava_NB
 LEXICON N-ava_Px
 +PxSg1:%>Е2м N-ava_Cx ; ! Е2:0, Е2:е
 +PxSg2:%>Е2т N-ava_Cx ; ! Е2:0, Е2:е
-+PxSg3:%>же N-ava_Cx ; 
++PxSg3:%>жЫ2 N-ava_Cx ; 
 +PxPl1:%>на N-ava_Cx ;
 +PxPl2:%>да N-ava_Cx ;
 +PxPl3:%>Ы1шт N-ava_Cx ; ! Ы1:0, Ы1:ы
@@ -32,9 +32,9 @@ LEXICON N-ava_Cx
 +Acc:%>Ы1м Clt ; ! Ы1:0, Ы1:ы
 +Comp:%>ла Clt ;
 +Com:%>ге Clt ;
-+Ine:%>Ы1ште Clt ; ! Ы1:0, Ы1:ы
-+Ill:%>Ы1шке Clt ; ! Ы1:0, Ы1:ы
-+Lat:%>еш Clt ;
++Ine:%>Ы1штЫ2 Clt ; ! Ы1:0, Ы1:ы
++Ill:%>Ы1шкЫ2 Clt ; ! Ы1:0, Ы1:ы
++Lat:%>Е2ш Clt ;
 +Abe:%>де Clt ;
 
 
@@ -42,117 +42,86 @@ LEXICON N-ava_Cx
 
 
 LEXICON N
-+N: N-continuation ;
++N: N_NB_Nb-Px-Cx ;
++N: N_Px_Px-Nb-Cx ;
 
-LEXICON N-continuation 
-!Lex0 ; 
-K ; C ; S1 ; S2 ; S5 ; S6 ; P2 ; P4 ; P5 ; L ;
+LEXICON N_NB_Nb-Px-Cx
++Sg: N_Cx_Nb-Px-Cx ;
++Pl:%>%-влак N_Cx_Nb-Px-Cx ;
++Pl:%>%-шамыч N_Cx_Nb-Px-Cx ;
++AssocPl:%>мыт N_Cx_Nb-Px-Cx ;
++Sg: N_Px_Nb-Px-Cx ;
++Pl:%>%-влак N_Px_Nb-Px-Cx ;
++Pl:%>%-шамыч N_Px_Nb-Px-Cx ;
+
+LEXICON N_Px_Nb-Px-Cx
++PxSg1:%>Е2м N_Cx_Nb-Px-Cx ; ! Е2:0, Е2:е
++PxSg2:%>Е2т N_Cx_Nb-Px-Cx ; ! Е2:0, Е2:е
++PxSg3:%>жЫ2 N_Cx_Nb-Px-Cx ; 
++PxPl1:%>на N_Cx_Nb-Px-Cx ;
++PxPl2:%>да N_Cx_Nb-Px-Cx ;
++PxPl3:%>Ы1шт N_Cx_Nb-Px-Cx ; ! Ы1:0, Ы1:ы
+
+LEXICON N_Cx_Nb-Px-Cx
++Nom: Clt ;
++Gen:%>Ы1н Clt ; ! Ы1:0, Ы1:ы
++Dat:%>лан Clt ;
++Acc:%>Ы1м Clt ; ! Ы1:0, Ы1:ы
++Comp:%>ла Clt ;
++Com:%>ге Clt ;
++Ine:%>Ы1штЫ2 Clt ; ! Ы1:0, Ы1:ы
++Ill:%>Ы1шкЫ2 Clt ; ! Ы1:0, Ы1:ы
++Lat:%>Е2ш Clt ;
++Abe:%>де Clt ;
+
+LEXICON N_Px_Px-Nb-Cx
++PxSg1:%>Е2м N_Nb_Px-Nb-Cx ; ! Е2:0, Е2:е
++PxSg2:%>Е2т N_Nb_Px-Nb-Cx ; ! Е2:0, Е2:е
++PxSg3:%>жЫ2 N_Nb_Px-Nb-Cx ; 
++PxPl1:%>на N_Nb_Px-Nb-Cx ;
++PxPl2:%>да N_Nb_Px-Nb-Cx ;
++PxPl3:%>Ы1шт N_Nb_Px-Nb-Cx ; ! Ы1:0, Ы1:ы
+
+LEXICON N_Nb_Px-Nb-Cx
++Pl:%>%-влак N_Cx_Px-Nb-Cx ;
++Pl:%>%-шамыч N_Cx_Px-Nb-Cx ;
+
+LEXICON N_Cx_Px-Nb-Cx
+ N_Cx_Nb-Px-Cx ;
 
 LEXICON N-a/e
-+N: N-a/e-continuation ;
-
-LEXICON N-a/e-continuation
-!Lex0 ; 
-K ; C ; S1 ; S2 ; S4 ; S6 ; P1 ; P4 ; P5 ; L ;
+ N ;
 
 LEXICON N-VS
-+N: N-VS-continuation ;
-
-LEXICON N-VS-continuation
-!Lex0 ; 
-K ; C ; S1 ; S2 ; S3 ; S5 ; S6 ; P2 ; P3 ; P4 ; P5 ; L ;
+ N ;
 
 LEXICON S  
-Lex0 ; K ; C ; P2 ; P4 ; P5 ;
+ N ;
+LEXICON P  
+ N ;
+LEXICON N-continuation
+ N ;
+LEXICON S1
+ N ;
+LEXICON S2
+ N ;
+LEXICON S5
+ N ;
+LEXICON S6
+ N ;
 
 LEXICON S-a  
-Lex0 ; K ; C ; P1 ; P4 ; P5 ;
-
-LEXICON S-VS
-Lex0 ; K ; C ; P2 ; P3 ; P5 ;
-
-LEXICON Lx  
-Lex0 ; K ; C ; S1 ; S2 ; S5 ; S6 ; P2 ; P4 ; P5 ;
-
-LEXICON L-a 
-Lex0 ; K ; C ; S1 ; S2 ; S4 ; S6 ; P1 ; P4 ; P5 ;
-
-LEXICON P 
-Lex0 ; K ; C ; S1 ; S2 ; S5 ; S6 ; L ; W5 ;
-
-LEXICON P-a
-Lex0 ; K ; C ; S1 ; S2 ; S4 ; S6 ; L ; W5 ;
-
-LEXICON P-Z
-S6 ; W5 ;
-
-
-! Nominal affixes
-! ----------------
-
-! Case
-
-LEXICON S1
-+Nom: KO ;
-+Gen:X1X3н K0 "GEN" ;
-+Acc:X1X3м K0 "AKK" ;
-+Com:X3ге K0 "KOM" ;
-
-LEXICON S2
-+Ill:X1X3ш S-VS "ILL" ;
-+Ill:X1X3шке1 S "ILL" ;
-+Ine:X1X3ште1 S "IN" ;
-
-LEXICON S3
-+Ill:X3ке1 S "ILL" ;
-+Ine:X3те1 S "IN" ;
-
-LEXICON S4
-+Lat:X3ш S-VS "LAT" ;
-
-LEXICON S5
-+Lat:X3еш S-VS "LAT" ;
-
-LEXICON S6
-+Dat:X3лан S "DAT" ;
-+Cmp:X3ла S-a "KOMP" ;
-
-
-! Number
-
-LEXICON L
-+Pl:X4-влак Lx "PL" ; ! earlier L
-+Pl:X4-шамыш Lx "PL-SamYC" ; ! earlier L
-+Pl:X4ла L-a "PL-la" ;
-+Pl:X4мыт Lx "PL-mYt" ; ! earlier L
-
-
-! Possessive Person
-
+ N ;
 LEXICON P1
-+PxSg1:X1X5м P "PX-SG-1" ;
-+PxSg2:X1X5т P "PX-SG-2" ;
-
+ N ;
 LEXICON P2
-+PxSg1:X5ем P "PX-SG-1" ;
-+PxSg2:X5ет P "PX-SG-2" ;
-
+ N ;
 LEXICON P3
-+PxSg3:X5Yже1 P "PX-SG-3" ;
-
+ N ;
 LEXICON P4
-+PxSg3:X5же1 P "PX-SG-3" ;
-
+ N ;
 LEXICON P5
-+PxSg3:X1X5ж P-Z "PX-SG-3" ;
-+PxPl1:X5на P-a "PX-PL-1" ;
-+PxPl2:X5да P-a "PX-PL-2" ;
-+PxPl3:X1X5шт P "PX-PL-3" ;
-+PxSg3:X5ждене K0 "PX-SG-3+dene" ;
-+PxSg3:X5ждеке K0 "PX-SG-3+deke" ;
-+PxSg3:X5ждеч K0 "PX-SG-3+deC" ;
-
-
+ N ;
 
 ! vim: set ft=xfst-lexc:
 
