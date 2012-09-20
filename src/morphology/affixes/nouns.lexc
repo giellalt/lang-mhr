@@ -30,7 +30,7 @@ LEXICON N-ava_Cx
 +Gen:%>Ы1н Clt ; ! Ы1:0, Ы1:ы
 +Dat:%>лан Clt ;
 +Acc:%>Ы1м Clt ; ! Ы1:0, Ы1:ы
-+Comp:%>ла Clt ;
++Cmp:%>ла Clt ;
 +Com:%>ге Clt ;
 +Ine:%>Ы1штЫ2 Clt ; ! Ы1:0, Ы1:ы
 +Ill:%>Ы1шкЫ2 Clt ; ! Ы1:0, Ы1:ы
@@ -67,7 +67,7 @@ LEXICON N_Cx_Nb-Px-Cx
 +Gen:%>Ы1н Clt ; ! Ы1:0, Ы1:ы
 +Dat:%>лан Clt ;
 +Acc:%>Ы1м Clt ; ! Ы1:0, Ы1:ы
-+Comp:%>ла Clt ;
++Cmp:%>ла Clt ;
 +Com:%>ге Clt ;
 +Ine:%>Ы1штЫ2 Clt ; ! Ы1:0, Ы1:ы
 +Ill:%>Ы1шкЫ2 Clt ; ! Ы1:0, Ы1:ы

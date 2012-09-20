@@ -66,10 +66,12 @@ Rules
            %>:0 ж Ы2: %>:0 _  ;
         where Vx in (Е2 Ы1) ;
 
-"Onset vowel realized in suffix"
-  Vx:Vy <=> Cns %>:0 _ ;
-        where Vx in (Е2 Ы1) 
-              Vy in (е ы) matched ;
+"Onset vowel Е2 realized in suffix"
+  Е2:е <=> Cns %>:0 _ ;
+
+"Onset vowel Ы1 realized in suffix"
+  Ы1:ы <=> [ Cns | й ] %>:0 _ ;
+
 
 "suffix-final vowel loss after stem-final vowel"
   Ы2:0 <=> Vws %>:0 [ Ы1: ш [ т | к ] | ж: ] _ %>:0 [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;

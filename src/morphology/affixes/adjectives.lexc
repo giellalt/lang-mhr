@@ -9,7 +9,9 @@
 
 LEXICON A
 +A: K ; ! missing comparative
-+А+Comp:рак # ;
++А+Comp:%>рак # ;
++Der/MWN: N ;
+
 
 LEXICON A/S-a/e ! XXX do not know
 A ;
