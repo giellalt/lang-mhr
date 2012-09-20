@@ -13,11 +13,152 @@ LEXICON Vam-dependent
 LEXICON Vem-dependent
 +Depend: Vem	;
 
+
+
 LEXICON Vem
-+V: Vem-continuation ;
++V: Vem-Mood ;
+! Действительное причастие:
++V+Act+Prc:%>ышЫ2 Clt ;
+! Страдательное причастие:
++V+Pas+Prc:%>ымЫ2 Clt ;
+! Причастие будущего времени:
++V+Prc+Fut:%>ышаш Clt ;
+! Отрицательное причастие:
++V+Prc+Neg:%>ыдымӧ Clt ;
+! Деепричастие образа действия:
++V+Ger+Gen:%>ын Clt ;
+! Отрицательная форма деепричастия образа действия:
++V+Ger+Abe:%>ыде Clt ;
+! Деепричастие времени (показывают время, предшествующее времени глагола):
++V+Ger+Prf:%>ымеке Clt ;
+! Деепричастие времени (показывает время, последующее за поясняемым действием):
++V+Ger+Imprf:%>ымешке Clt ;
+! Деепричастие времени (добавочное действие, происходящее одновременно с поясняемым действием):
++V+Ger:%>шыла Clt ;
++V+Der/mO:%>ымЫ2 N ;
+
+LEXICON Vem-Mood
++Ind: Vem-Ind ;
++Imp: Vem-Imp ;
++Des: Vem-Des ;
+
+LEXICON Vem-Ind
++NonPst+Sg1:%>ем Clt ;
++NonPst+Sg2:%>ет Clt ;
++NonPst+Sg3:%>а Clt ;
++NonPst+Pl1:%>ена Clt ;
++NonPst+Pl2:%>еда Clt ;
++NonPst+Pl3:%>ат Clt ;
++NonPst+ConNeg: Clt ;
+! Первое прошедшее время:
++Prt1+Sg1:%>ышым Clt ;
++Prt1+Sg2:%>ышыч Clt ;
++Prt1+Sg3:%>ыш Clt ;
++Prt1+Pl1:%>ышна Clt ;
++Prt1+Pl2:%>ышта Clt ;
++Prt1+Pl3:%>ышт Clt ;
++Prt1+ConNeg: Clt ;
+! Второе прошедшее время:
++Prt2+Sg1:%>енам Clt ;
++Prt2+Sg2:%>енат Clt ;
++Prt2+Sg3:%>ен Clt ;
++Prt2+Pl1:%>енна Clt ;
++Prt2+Pl2:%>енда Clt ;
++Prt2+Pl3:%>еныт Clt ;
++Prt2+ConNeg:%>ен Clt ;
+
+LEXICON Vem-Imp
+! Повелительное наклонение:
++Sg2: Clt ;
++Sg3:%>ыжЫ2 Clt ;
++Pl2:%>ыза Clt ;
++Pl3:%>ышт Clt ;
++ConNeg: Clt ;
+
+LEXICON Vem-Des
+! Желательное наклонение:
++NonPst+Sg1:%>ынем Clt ;
++NonPst+Sg2:%>ынет Clt ;
++NonPst+Sg3:%>ынеже Clt ;
++NonPst+Pl1:%>ынена Clt ;
++NonPst+Pl2:%>ынеда Clt ;
++NonPst+Pl3:%>ынешт Clt ;
++ConNeg: Clt ;
+
 
 LEXICON Vam
-+V: Vam-continuation ;
++V: Vam-Mood ;
+! Действительное причастие:
++V+Act+Prc:%>шЫ2 Clt ;
+! Страдательное причастие:
++V+Pas+Prc:%>мЫ2 Clt ;
+! Причастие будущего времени:
++V+Prc+Fut:%>шаш Clt ;
+! Отрицательное причастие:
++V+Prc+Neg:%>дымӧ Clt ;
+! Деепричастие образа действия:
++V+Ger+Gen:%>ын Clt ;
+! Отрицательная форма деепричастия образа действия:
++V+Ger+Abe:%>де Clt ;
+! Деепричастие времени (показывают время, предшествующее времени глагола):
++V+Ger+Prf:%>меке Clt ;
+! Деепричастие времени (показывает время, последующее за поясняемым действием):
++V+Ger+Imprf:%>мешке Clt ;
+! Деепричастие времени (добавочное действие, происходящее одновременно с поясняемым действием):
++V+Ger:%>шыла Clt ;
++V+Der/mO:%>мЫ2 N ;
+
+LEXICON Vam-Mood
++Ind: Vam-Ind ;
++Imp: Vam-Imp ;
++Des: Vam-Des ;
+
+LEXICON Vam-Ind
++NonPst+Sg1:%>А2м Clt ;
++NonPst+Sg2:%>А2т Clt ;
++NonPst+Sg3:%>еш Clt ;
++NonPst+Pl1:%>ына Clt ;
++NonPst+Pl2:%>ыда Clt ;
++NonPst+Pl3:%>ыт Clt ;
++NonPst+ConNeg: Clt ;
+! Первое прошедшее время:
++Prt1+Sg1:%>ым Clt ;
++Prt1+Sg2:%>ыч Clt ;
++Prt1+Sg3:%>Ы2 Clt ;
++Prt1+Pl1:%>на Clt ;
++Prt1+Pl2:%>да Clt ;
++Prt1+Pl3:%>ыч Clt ;
++Prt1+ConNeg: Clt ;
+! Второе прошедшее время:
++Prt2+Sg1:%>ынам Clt ;
++Prt2+Sg2:%>ынат Clt ;
++Prt2+Sg3:%>ын Clt ;
++Prt2+Pl1:%>ынна Clt ;
++Prt2+Pl2:%>ында Clt ;
++Prt2+Pl3:%>ыныт Clt ;
++Prt2+ConNeg:%>ын Clt ;
+
+LEXICON Vam-Imp
+! Повелительное наклонение:
++Sg2: Clt ;
++Sg3:%>жЫ2 Clt ;
++Pl2:%>за Clt ;
++Pl3:%>ышт Clt ;
++ConNeg: Clt ;
+
+LEXICON Vam-Des
+! Желательное наклонение:
++NonPst+Sg1:%>нем Clt ;
++NonPst+Sg2:%>нет Clt ;
++NonPst+Sg3:%>неже Clt ;
++NonPst+Pl1:%>нена Clt ;
++NonPst+Pl2:%>неда Clt ;
++NonPst+Pl3:%>нешт Clt ;
++ConNeg: Clt ;
+
+
+
+
 
 LEXICON Vam-n/l
 +V: Vam-n/l-continuation ;
