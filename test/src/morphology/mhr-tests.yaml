@@ -1,10 +1,11 @@
 Config:
   hfst:
-    Gen: sma/bin/isma.hfstol
-    Morph: sma/bin/sma.hfstol
+    Gen: ../../../src/generator.gt.hfst
+    Morph: ../../../src/analyser.gt.hfst
   xerox:
-    Gen: sma/bin/isma-norm.fst
-    Morph: sma/bin/sma-norm.fst
+    Gen: ../../../src/generator.gt.xfst
+    Morph: ../../../src/analyser.gt.xfst
+    App: lookup
 
 Tests:
   Noun - олма: # -а
