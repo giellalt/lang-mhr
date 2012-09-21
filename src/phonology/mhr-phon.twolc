@@ -83,13 +83,13 @@ Rules
 !            %>:0  Ы1: ш [ т | к ]  _ %>:0 Ы1: ;
 
 "suffix-final vowel realized as -Round in word-final position"
-  Ы2:е <=> Ve [ Cns | ы | %>:0 ж Ы2:0 ]* %>:0 [ Ы1: ш [ т | к ] | ж: ] _ [ #: | %- ] ;
+  Ы2:е <=> Ve [ Cns | ы ]* %>:0 ( ( ж Ы2:0 %>:0 ) Ы1: ш [ т | к ] | ж: | ш | м ) _ [ #: | %- ] ;
 
 "suffix-final vowel realized as +Back +Round in word-final position"
-  Ы2:о <=> Vo [ Cns | ы | %>:0 ж Ы2:0 ]* %>:0 [ Ы1: ш [ т | к ] | ж: ] _ [ #: | %- ] ;
+  Ы2:о <=> Vo [ Cns | ы ]* %>:0 ( ( ж Ы2:0 %>:0 ) Ы1: ш [ т | к ] | ж: | ш | м ) _ [ #: | %- ] ;
 
 "suffix-final vowel realized as +Front +Round in word-final position"
-  Ы2:ӧ <=> VO [ Cns | ы | %>:0 ж Ы2:0 ]* %>:0 [ Ы1: ш [ т | к ] | ж: ] _ [ #: | %- ] ;
+  Ы2:ӧ <=> VO [ Cns | ы ]* %>:0 ( ( ж Ы2:0 %>:0 ) Ы1: ш [ т | к ] | ж: | ш | м ) _ [ #: | %- ] ;
 
 ! Retaining stem-final _е1_ in adjectives and nouns
 ! It has been removed from Vem stems
@@ -110,10 +110,10 @@ Rules
 
  
 "Clitics in At and Ak take onset glide"
-  А2:я <=> ь:0 %>:0 _ [ т | к ] ;
+  А2:я <=> ь:0 %>:0 _ [ т | к | м | ш ] ;
 
 "Clitics in At and Ak take onset glide"
-  А2:а <=> [ Cns ( Ы2:0 ) | :Vws ] %>:0 _ [ т | к ] ;
+  А2:а <=> [ Cns ( Ы2:0 ) | :Vws ] %>:0 _ [ т | к | м | ш ] ;
 
 ! Devoicing
 "Onset consonant devoicing"
