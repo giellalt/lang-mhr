@@ -48970,4 +48970,27 @@
          </mg>
       </e>
    </entry>
+   <entry>
+      <lg>
+         <l>форматлаш</l>
+         <stg>
+            <st Contlex="Vem">форматл</st>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <tCtn><t pos="V">alustaa, formatoida</t><re>levy</re></tCtn>
+            </tg>
+         </mg>
+      </e>
+   </entry>
 </r>

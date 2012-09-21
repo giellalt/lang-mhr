@@ -26,16 +26,16 @@ LEXICON N-ava_Px
 +PxPl3:%>Ы1шт N-ava_Cx ; ! Ы1:0, Ы1:ы
 
 LEXICON N-ava_Cx
-+Nom: Clt ;
-+Gen:%>Ы1н Clt ; ! Ы1:0, Ы1:ы
-+Dat:%>лан Clt ;
-+Acc:%>Ы1м Clt ; ! Ы1:0, Ы1:ы
-+Cmp:%>ла Clt ;
-+Com:%>ге Clt ;
-+Ine:%>Ы1штЫ2 Clt ; ! Ы1:0, Ы1:ы
-+Ill:%>Ы1шкЫ2 Clt ; ! Ы1:0, Ы1:ы
-+Lat:%>Е2ш Clt ;
-+Abe:%>де Clt ;
++Nom: K ;
++Gen:%>Ы1н K ; ! Ы1:0, Ы1:ы
++Dat:%>лан K ;
++Acc:%>Ы1м K ; ! Ы1:0, Ы1:ы
++Cmp:%>ла K ;
++Com:%>ге K ;
++Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
++Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
++Lat:%>Е2ш K ;
++Abe:%>де K ;
 
 
 
@@ -63,16 +63,16 @@ LEXICON N_Px_Nb-Px-Cx
 +PxPl3:%>Ы1шт N_Cx_Nb-Px-Cx ; ! Ы1:0, Ы1:ы
 
 LEXICON N_Cx_Nb-Px-Cx
-+Nom: Clt ;
-+Gen:%>Ы1н Clt ; ! Ы1:0, Ы1:ы
-+Dat:%>лан Clt ;
-+Acc:%>Ы1м Clt ; ! Ы1:0, Ы1:ы
-+Cmp:%>ла Clt ;
-+Com:%>ге Clt ;
-+Ine:%>Ы1штЫ2 Clt ; ! Ы1:0, Ы1:ы
-+Ill:%>Ы1шкЫ2 Clt ; ! Ы1:0, Ы1:ы
-+Lat:%>Е2ш Clt ;
-+Abe:%>де Clt ;
++Nom: K ;
++Gen:%>Ы1н K ; ! Ы1:0, Ы1:ы
++Dat:%>лан K ;
++Acc:%>Ы1м K ; ! Ы1:0, Ы1:ы
++Cmp:%>ла K ;
++Com:%>ге K ;
++Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
++Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
++Lat:%>Е2ш K ;
++Abe:%>де K ;
 
 LEXICON N_Px_Px-Nb-Cx
 +PxSg1:%>Е2м N_Nb_Px-Nb-Cx ; ! Е2:0, Е2:е
