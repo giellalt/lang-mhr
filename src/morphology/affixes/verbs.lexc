@@ -24,7 +24,7 @@ LEXICON Vam
 +V+Ind+Prt1+ConNeg: K ;
 +V+Imprt+ConNeg: K ;
 +V+Des+ConNeg: K ;
-+V+Imprt+Sg2: K ;
++V+Imprt+Sg2: K-imprt ;
 
 LEXICON Vam-Mood
 +Ind: Vam-Ind ;
@@ -57,7 +57,7 @@ LEXICON Vam-Ind
 LEXICON Vam-Imp
 ! Повелительное наклонение:
 +Sg3:%>жЫ2 K ;
-+Pl2:%>за K ;
++Pl2:%>за K-imprt ;
 +Pl3:%>ышт K ;
 
 LEXICON Vam-Des
@@ -74,13 +74,13 @@ LEXICON Vem
 +V: Vem-Mood ;
 +V+Inf:%>А2ш K ;
 ! Деепричастие образа действия:
-+V+Ger+Gen:%>ын K ;
++V+Ger+Gen:%>ен K ;
 +V:ы non-finites  ;
-+V+Ind+NonPst+ConNeg: K ;
-+V+Ind+Prt1+ConNeg: K ;
-+V+Imprt+ConNeg: K ;
-+V+Des+ConNeg: K ;
-+V+Imprt+Sg2: K ;
++V+Ind+NonPst+ConNeg:%>Ы2 K ;
++V+Ind+Prt1+ConNeg:%>Ы2 K ;
++V+Imprt+ConNeg:%>Ы2 K ;
++V+Des+ConNeg:%>Ы2 K ;
++V+Imprt+Sg2:%>Ы2 K-imprt ;
 
 
 LEXICON Vem-Mood
@@ -100,7 +100,7 @@ LEXICON Vem-Ind
 +Prt1+Sg2:%>ышыч K ;
 +Prt1+Sg3:%>ыш K ;
 +Prt1+Pl1:%>ышна K ;
-+Prt1+Pl2:%>ышта K ;
++Prt1+Pl2:%>ышда K ;
 +Prt1+Pl3:%>ышт K ;
 ! Второе прошедшее время:
 +Prt2+Sg1:%>енам K ;
@@ -114,7 +114,7 @@ LEXICON Vem-Ind
 LEXICON Vem-Imp
 ! Повелительное наклонение:
 +Sg3:%>ыжЫ2 K ;
-+Pl2:%>ыза K ;
++Pl2:%>ыза K-imprt ;
 +Pl3:%>ышт K ;
 
 LEXICON Vem-Des
@@ -136,7 +136,7 @@ LEXICON z-C
 +V+Ind+NonPst+ConNeg:ч K ;
 +V+Ind+Prt1+ConNeg:ч K ;
 +V+Imprt+ConNeg:ч K ;
-+V+Imprt+Sg2:ч K ;
++V+Imprt+Sg2:ч K-imprt ;
 +V+Des+ConNeg:ч K ;
 
 ! Vam, лукташ : лук
@@ -148,7 +148,7 @@ LEXICON t-0
 +V+Ind+NonPst+ConNeg: K ;
 +V+Ind+Prt1+ConNeg: K ;
 +V+Imprt+ConNeg: K ;
-+V+Imprt+Sg2: K ;
++V+Imprt+Sg2: K-imprt ;
 +V+Des+ConNeg: K ;
 
 ! Vam, кушкаш : куш
@@ -161,7 +161,7 @@ LEXICON k-0
 +V+Ind+NonPst+ConNeg: K ;
 +V+Ind+Prt1+ConNeg: K ;
 +V+Imprt+ConNeg: K ;
-+V+Imprt+Sg2: K ;
++V+Imprt+Sg2: K-imprt ;
 +V+Des+ConNeg: K ;
 
 ! Vam, шинчаш шич
@@ -174,7 +174,7 @@ LEXICON nC-C
 +V+Ind+NonPst+ConNeg:ч K ;
 +V+Ind+Prt1+ConNeg:ч K ;
 +V+Imprt+ConNeg:ч K ;
-+V+Imprt+Sg2:ч K ;
++V+Imprt+Sg2:ч K-imprt ;
 +V+Des+ConNeg:ч K ;
 
 !! These need work 2012-09-21
@@ -203,7 +203,7 @@ LEXICON non-finites
 ! Причастие будущего времени:
 +FutPrc:%>шаш K ;
 ! Отрицательное причастие:
-+NegPrc:%>дымӧ K ;
++NegPrc:%>дымЫ2 K ;
 ! Отрицательная форма деепричастия образа действия:
 +Ger+Abe:%>де K ;
 ! Деепричастие времени (показывают время, предшествующее времени глагола):
@@ -212,7 +212,7 @@ LEXICON non-finites
 +Ger+Imprf:%>мешке K ;
 ! Деепричастие времени (добавочное действие, происходящее одновременно с поясняемым действием):
 +Der/mO:%>мЫ2 N ;
-+V+Ger:%>шыла K ;
++Ger:%>шыла K ;
 
 
 

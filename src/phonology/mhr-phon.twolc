@@ -78,18 +78,18 @@ Rules
            Cns %>:0 [ Ы1: ш [ т | к ] | ж: ] _ %>:0 [ е ш | А2: ] ;
 
 "suffix-final vowel realized after stem-final consonant"
-  Ы2:ы <=>  Cns %>:0  ж: _ %>:0 [ л | г | ш | д | Ы1: ] ;
-            Vws %>:0 ж _ %>:0 Ы1: [ м | н ] ;
+  Ы2:ы <=>  Cns %>:0 [ ж: | д ы м ] _ %>:0 [ л | г | ш | д | Ы1: ] ;
+            Vws %>:0 [ ж | д ы м ] _ %>:0 Ы1: [ м | н ] ;
 !            %>:0  Ы1: ш [ т | к ]  _ %>:0 Ы1: ;
 
 "suffix-final vowel realized as -Round in word-final position"
-  Ы2:е <=> Ve [ Cns | ы ]* %>:0 ( ( ж Ы2:0 %>:0 ) Ы1: ш [ т | к ] | ж: | ш | м ) _ [ #: | %- ] ;
+  Ы2:е <=> Ve [ Cns | ы | :0 ]* %>:0 ( ( ж Ы2:0 %>:0 ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
 
 "suffix-final vowel realized as +Back +Round in word-final position"
-  Ы2:о <=> Vo [ Cns | ы ]* %>:0 ( ( ж Ы2:0 %>:0 ) Ы1: ш [ т | к ] | ж: | ш | м ) _ [ #: | %- ] ;
+  Ы2:о <=> Vo [ Cns | ы | :0 ]* %>:0 ( ( ж Ы2:0 %>:0 ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
 
 "suffix-final vowel realized as +Front +Round in word-final position"
-  Ы2:ӧ <=> VO [ Cns | ы ]* %>:0 ( ( ж Ы2:0 %>:0 ) Ы1: ш [ т | к ] | ж: | ш | м ) _ [ #: | %- ] ;
+  Ы2:ӧ <=> VO [ Cns | ы | :0 ]* %>:0 ( ( ж Ы2:0 %>:0 ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
 
 ! Retaining stem-final _е1_ in adjectives and nouns
 ! It has been removed from Vem stems
