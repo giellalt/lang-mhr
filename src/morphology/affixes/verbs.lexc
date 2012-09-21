@@ -17,6 +17,7 @@ LEXICON Vem-dependent
 
 LEXICON Vem
 +V: Vem-Mood ;
++V+Inf:%>А2ш Clt ;
 ! Действительное причастие:
 +V+Act+Prc:%>ышЫ2 Clt ;
 ! Страдательное причастие:
@@ -88,6 +89,7 @@ LEXICON Vem-Des
 
 LEXICON Vam
 +V: Vam-Mood ;
++V+Inf:%>А2ш Clt ;
 ! Действительное причастие:
 +V+Act+Prc:%>шЫ2 Clt ;
 ! Страдательное причастие:
