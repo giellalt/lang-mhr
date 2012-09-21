@@ -34,7 +34,7 @@ LEXICON N-ava_Cx
 +Com:%>ге K ;
 +Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
 +Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
-+Lat:%>еш K ;
++Lat:%>еш K ; ! Check this again
 +Abe:%>де K ;
 
 
@@ -71,7 +71,7 @@ LEXICON N_Cx_Nb-Px-Cx
 +Com:%>ге K ;
 +Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
 +Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
-+Lat:%>еш K ;
++Lat:%>Ы1ш K ;
 +Abe:%>де K ;
 
 LEXICON N_Px_Px-Nb-Cx
