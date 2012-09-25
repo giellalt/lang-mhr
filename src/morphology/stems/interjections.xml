@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<entry><lg><l>айда</l><stg><st Contlex="Pimp">айда</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(keh. tekemään jtak) kas niin, -pAs; -tAAn; (opt.) Pimp</t></tg></mg></e></entry>
+<entry><lg><l>айста</l><stg><st Contlex="Pimp">айста</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(keh.) -kAA(s), -kAA(pAs); (keh. lähtemiseen) menkää! Pimp</t></tg></mg></e></entry>
+<entry><lg><l>тек</l><stg><st Contlex="Pimp">тек</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>-kOOn Pimp</t></tg></mg></e></entry>
+<entry><lg><l>чуза</l><stg><st Contlex="Pimp">чуза</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>odottakaa!, malttakaa! Pimp</t></tg></mg></e></entry>
+<entry><lg><l>ага</l><stg><st Contlex="I">ага</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ahaa I</t></tg></mg></e></entry>
+<entry><lg><l>акмук</l><stg><st Contlex="I">акмук</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(ilm. hämmästystä) I</t></tg></mg></e></entry>
+<entry><lg><l>алло</l><stg><st Contlex="I">алло</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>haloo I</t></tg></mg></e></entry>
+<entry><lg><l>апчи</l><stg><st Contlex="I">апчи</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(aivastus) atsih I</t></tg></mg></e></entry>
+<entry><lg><l>атан</l><stg><st Contlex="I">атан</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>parka I</t></tg></mg></e></entry>
+<entry><lg><l>ах</l><stg><st Contlex="I">ах</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ah, oi, voi I</t></tg></mg></e></entry>
+<entry><lg><l>бау</l><stg><st Contlex="I">бау</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>pam, pum I</t></tg></mg></e></entry>
+<entry><lg><l>бзльоп</l><stg><st Contlex="I">бзльоп</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>läiskis, lätsis I</t></tg></mg></e></entry>
+<entry><lg><l>буҥ</l><stg><st Contlex="I">буҥ</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>hups(is) I</t></tg></mg></e></entry>
+<entry><lg><l>вучи-вучи</l><stg><st Contlex="I">вучи-вучи</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(kutsuhuuto ankoille) I</t></tg></mg></e></entry>
+<entry><lg><l>дига-дига</l><stg><st Contlex="I">дига-дига</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(kutsuhuuto hanhille) I</t></tg></mg></e></entry>
+<entry><lg><l>до-до-до</l><stg><st Contlex="I">до-до-до</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(kutsuhuuto hevoselle) I</t></tg></mg></e></entry>
+<entry><lg><l>капут</l><stg><st Contlex="I">капут</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>loppu I</t></tg></mg></e></entry>
+<entry><lg><l>караул</l><stg><st Contlex="I">караул</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>apua! I</t></tg></mg></e></entry>
+<entry><lg><l>но</l><stg><st Contlex="I">но</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(hevosen hoputtamiseksi) I</t></tg></mg></e></entry>
+<entry><lg><l>ой</l><stg><st Contlex="I">ой</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>voi! I</t></tg></mg></e></entry>
+<entry><lg><l>ох</l><stg><st Contlex="I">ох</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>voi I</t></tg></mg></e></entry>
+<entry><lg><l>пӧчӧк</l><stg><st Contlex="I">пӧчӧк</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>hupsis, varovasti! I</t></tg></mg></e></entry>
+<entry><lg><l>пырыс</l><stg><st Contlex="I">пырыс</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(kissalle) hus! I</t></tg></mg></e></entry>
+<entry><lg><l>пытыш-кайыш</l><stg><st Contlex="I">пытыш-кайыш</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>loppu!, riittää (jo)! I</t></tg></mg></e></entry>
+<entry><lg><l>ура</l><stg><st Contlex="I">ура</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>hurraa! I</t></tg></mg></e></entry>
+<entry><lg><l>уф-ф</l><stg><st Contlex="I">уф-ф</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>huh huh I</t></tg></mg></e></entry>
+<entry><lg><l>фу</l><stg><st Contlex="I">фу</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>huh huh I</t></tg></mg></e></entry>
+<entry><lg><l>фу-ӱ</l><stg><st Contlex="I">фу-ӱ</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>huh huh I</t></tg></mg></e></entry>
+<entry><lg><l>чабач</l><stg><st Contlex="I">чабач</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>hus! (koiran poisajamiseksi) I</t></tg></mg></e></entry>
+<entry><lg><l>чеверын</l><stg><st Contlex="I">чеверын</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>näkämiin, hyvästi I</t></tg></mg></e></entry>
+<entry><lg><l>чиви-чиви-чиви</l><stg><st Contlex="I">чиви-чиви-чиви</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>tipu tipu tipu (kutsu kananpoikasille) I</t></tg></mg></e></entry>
+<entry><lg><l>чи-чи-чи</l><stg><st Contlex="I">чи-чи-чи</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>tipu tipu tipu (kanojen kutsumiseksi) I</t></tg></mg></e></entry>
+<entry><lg><l>чур-чурат</l><stg><st Contlex="I">чур-чурат</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>totta tosiaan(kin)!, totisesti I</t></tg></mg></e></entry>
+<entry><lg><l>чыда-чыда</l><stg><st Contlex="I">чыда-чыда</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>tuku tuku (lampaiden kutsumiseksi) I</t></tg></mg></e></entry>
+<entry><lg><l>шабаш</l><stg><st Contlex="I">шабаш</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>riittää!, seis!, loppu! I</t></tg></mg></e></entry>
+<entry><lg><l>шатын</l><stg><st Contlex="I">шатын</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(säälin/myötätunnon ilm.) I</t></tg></mg></e></entry>
+<entry><lg><l>эй</l><stg><st Contlex="I">эй</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>voi!, no I</t></tg></mg></e></entry>
+<entry><lg><l>эх</l><stg><st Contlex="I">эх</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>voi I</t></tg></mg></e></entry>
+<entry><lg><l>э-э</l><stg><st Contlex="I">э-э</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>voi voi I</t></tg></mg></e></entry>
+<entry><lg><l>я</l><stg><st Contlex="I">я</st></stg></lg><pos>INTERJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>no I</t></tg></mg></e></entry>
+<entry><lg><l>авай</l><stg><st Contlex="Puh">авай</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>äiti Puh</t></tg></mg></e></entry>
+<entry><lg><l>аваже</l><stg><st Contlex="Puh-a/e">аваже</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(mies vaimolle) Puh</t></tg></mg></e></entry>
+<entry><lg><l>авий</l><stg><st Contlex="Puh">авий</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>äiti Puh</t></tg></mg></e></entry>
+<entry><lg><l>акай</l><stg><st Contlex="Puh">акай</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(vanh. sisarelle; äidin nuor. sisarelle; nuor. miniä vanh:lle) Puh</t></tg></mg></e></entry>
+<entry><lg><l>ачаже</l><stg><st Contlex="Puh-a/e">ачаже</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(vaimo aviomiehelle) Puh</t></tg></mg></e></entry>
+<entry><lg><l>ачай</l><stg><st Contlex="Puh">ачай</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>isä, isi Puh</t></tg></mg></e></entry>
+<entry><lg><l>ачий</l><stg><st Contlex="Puh">ачий</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>isä, isi Puh</t></tg></mg></e></entry>
+<entry><lg><l>еҥгай</l><stg><st Contlex="Puh">еҥгай</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(isonveljen vaimolle, miniälle ja morsiamelle, vanh. n:lle) Puh</t></tg></mg></e></entry>
+<entry><lg><l>изием</l><stg><st Contlex="Puh">изием</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>lapseni, kullanmuruni Puh</t></tg></mg></e></entry>
+<entry><lg><l>кокай</l><stg><st Contlex="Puh">кокай</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>täti (hyvä) Puh</t></tg></mg></e></entry>
+<entry><lg><l>кувай</l><stg><st Contlex="Puh">кувай</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>eukko/täti hyvä Puh</t></tg></mg></e></entry>
+<entry><lg><l>кугызай</l><stg><st Contlex="Puh">кугызай</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>setä, ukko(seni) Puh</t></tg></mg></e></entry>
+<entry><lg><l>курскай</l><stg><st Contlex="Puh">курскай</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>lanko hyvä Puh</t></tg></mg></e></entry>
+<entry><lg><l>ӱдырем</l><stg><st Contlex="Puh">ӱдырем</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>tyttöseni Puh</t></tg></mg></e></entry>
+<entry><lg><l>чонеем</l><stg><st Contlex="Puh">чонеем</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>armaani, rakkaani Puh</t></tg></mg></e></entry>
+<entry><lg><l>чонем</l><stg><st Contlex="Puh">чонем</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>armaani, rakkaani Puh</t></tg></mg></e></entry>
+<entry><lg><l>чукай</l><stg><st Contlex="Puh">чукай</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>rakas, kulta Puh</t></tg></mg></e></entry>
+<entry><lg><l>чӱчӱй</l><stg><st Contlex="Puh">чӱчӱй</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>setä hyvä Puh</t></tg></mg></e></entry>
+<entry><lg><l>шоляш</l><stg><st Contlex="Puh">шоляш</st></stg></lg><pos>VOC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(nuoremmalle veljelle tai ylip. nuoremmalle) Puh</t></tg></mg></e></entry>
+</r>

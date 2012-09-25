@@ -1,0 +1,26 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator.gt.hfst
+    Morph: ../../../src/analyser.gt.hfst
+  xerox:
+    Gen: ../../../src/generator.gt.xfst
+    Morph: ../../../src/analyser.gt.xfst
+    App: lookup
+
+Tests:
+  Noun - олма: # -а
+    олма+N+Sg+Nom: олма
+    олма+N+Sg+Acc: олмам
+    олма+N+Sg+Gen: олман
+    олма+N+Sg+Ill: олмаш
+    олма+N+Sg+Ine: олмаште
+    олма+N+Sg+Ela: олмашке
+
+
+
+
+
+
+
+
+

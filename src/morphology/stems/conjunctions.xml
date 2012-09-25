@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<entry><lg><l>садак</l><stg><st Contlex="K">садак</st></stg></lg><pos>CONJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhtä kaikki K</t></tg></mg></e></entry>
+<entry><lg><l>садиктак</l><stg><st Contlex="K">садиктак</st></stg></lg><pos>CONJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhtä kaikki K</t></tg></mg></e></entry>
+<entry><lg><l>я</l><stg><st Contlex="K">я</st></stg></lg><pos>CONJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>milloin...milloin; tai, joko...tai K</t></tg></mg></e></entry>
+<entry><lg><l>пуйте</l><stg><st Contlex="K">пуйте1</st></stg></lg><pos>CONJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ikään kuin K</t></tg></mg></e></entry>
+<entry><lg><l>теве</l><stg><st Contlex="K">теве1</st></stg></lg><pos>CONJ</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>milloin...milloin K</t></tg></mg></e></entry>
+<entry><lg><l>а</l><stg><st Contlex="CC">а</st></stg></lg><pos>CC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>mutta; ja; vaan K</t></tg></mg></e><!-- At some point K, but K0 seems better --></entry>
+<entry><lg><l>ала</l><stg><st Contlex="CC">ала</st></stg></lg><pos>CC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>tai K</t></tg></mg></e></entry>
+<entry><lg><l>гын</l><stg><st Contlex="CS">гын</st></stg></lg><pos>CS</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>jos; koska; sen sijaan K</t></tg></mg></e></entry>
+<entry><lg><l>да</l><stg><st Contlex="CC">да</st></stg></lg><pos>CC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ja; mutta K</t></tg></mg></e></entry>
+<entry><lg><l>ден</l><stg><st Contlex="CC">ден</st></stg></lg><pos>CC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(vain nominien rinnastus) ja K</t></tg></mg></e></entry>
+<entry><lg><l>дык</l><stg><st Contlex="CS">дык</st></stg></lg><pos>CS</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>jos K</t></tg></mg></e></entry>
+<entry><lg><l>керек</l><stg><st Contlex="CC">керек</st></stg></lg><pos>CC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>vaikka(kin)/(-kaan ei), joskin/kaan (ei) K</t></tg></mg></e></entry>
+<entry><lg><l>ман</l><stg><st Contlex="CS">ман</st></stg></lg><pos>CS</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>että, jotta K</t></tg></mg></e></entry>
+<entry><lg><l>манын</l><stg><st Contlex="CS">манын</st></stg></lg><pos>CS</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>että; jotta K</t></tg></mg></e></entry>
+<entry><lg><l>но</l><stg><st Contlex="CS">но</st></stg></lg><pos>CS</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>mutta K</t></tg></mg></e></entry>
+<entry><lg><l>что</l><stg><st Contlex="CS">что</st></stg></lg><pos>CS</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>että K</t></tg></mg></e></entry>
+<entry><lg><l>чтобы</l><stg><st Contlex="CS">чтобы</st></stg></lg><pos>CS</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>jotta K</t></tg></mg></e></entry>
+<entry><lg><l>але</l><stg><st Contlex="CC">але1</st></stg></lg><pos>CC</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>vai; tai; eli K</t></tg></mg></e></entry>
+<entry><lg><l>тольке</l><stg><st Contlex="CS">тольке1</st></stg></lg><pos>CS</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>mutta K</t></tg></mg></e></entry>
+</r>

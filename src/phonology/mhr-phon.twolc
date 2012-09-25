@@ -1,0 +1,123 @@
+! Mari twol file
+
+Alphabet
+
+! Letters of the alphabet
+а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ
+А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ
+
+! other symbols
+   %- !0
+
+! Archiphonemes for vowels
+!  е1:е а1:а и1:и у1:у ӱ1:ӱ
+!  Е1:Е А1:А И1:И У1:У Ӱ1:Ӱ
+!JMR 2012-09-18
+  Е2:е Е2:0 Ы1:ы Ы1:0 Ы2:ы Ы2:0 А2:а А2:я
+
+! Boundary symbols
+! old !  +  /  {  _  $  }  @  ~  &  #
+! new X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2
+
+! X1:0 X2:0 X3:0 X4:0 X5:0 X6:0 X7:0 X8:0 X9:0 Z1:0 Z2:0
+
+! JMR 2012-09-18
+ %>:0
+
+
+ ;
+
+
+
+Sets
+Vo =   о у ё ю О У Ё Ю ;
+VO =   ӧ ӱ Ӧ Ӱ;
+Ve =   а е и э я А Е И Э Я ;
+Vws =  Vo VO Ve ы Ы ; 
+
+Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш 
+       Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;
+Cst =  к п т ф х ц ч ш с 
+       К П Т Ф Х Ц Ч Ш Ц ;
+
+Ltrs = Vws Cns  ъ ь Ъ Ь ;
+
+all =  Ltrs  %- ;
+
+
+
+
+Definitions
+
+
+
+
+Rules
+
+
+"Palatal mark loss before vowel"
+    ь:0  <=>   _ %> А2: ;
+   ! JMR 2012-09-18
+      
+
+! JMR 2012-09-18
+"Onset vowel loss in suffix"
+   Vx:0 <=> :Vws %>:0 _ ;
+           %>:0 ж Ы2: %>:0 _  ;
+        where Vx in (Е2 Ы1) ;
+
+"Onset vowel Е2 realized in suffix"
+  Е2:е <=> Cns %>:0 _ ;
+
+"Onset vowel Ы1 realized in suffix"
+  Ы1:ы <=> [ Cns | й ] %>:0 _ ;
+
+
+"suffix-final vowel loss after stem-final vowel"
+  Ы2:0 <=> Vws %>:0 [ Ы1: ш [ т | к ] | ж: ] _ %>:0 [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
+           Cns %>:0 [ Ы1: ш [ т | к ] | ж: ] _ %>:0 [ е ш | А2: ] ;
+
+"suffix-final vowel realized after stem-final consonant"
+  Ы2:ы <=>  Cns %>:0 [ ж: | д ы м ] _ %>:0 [ л | г | ш [ т | к ] | д | Ы1: ] ;
+            Vws %>:0 [ ж | д ы м ] _ %>:0 Ы1: [ м | н ] ;
+!            %>:0  Ы1: ш [ т | к ]  _ %>:0 Ы1: ;
+
+"suffix-final vowel realized as -Round in word-final position"
+  Ы2:е <=> :Ve [ Cns | :ы | :0 ]* %>:0 ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %>:0 ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
+           :Ve [ Cns | :ы | :0 ]* %>:0 [ ж: ] _ %> Ы1: ш [ #: | %- | %>:0 ] ;
+
+"suffix-final vowel realized as +Back +Round in word-final position"
+  Ы2:о <=> :Vo [ Cns | :ы | :0 ]* %>:0 ( ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %>:0 ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
+           :Vo [ Cns | :ы | :0 ]* %>:0 [ ж: ] _ %> Ы1: ш [ #: | %- | %>:0 ] ;
+
+"suffix-final vowel realized as +Front +Round in word-final position"
+  Ы2:ӧ <=> :VO [ Cns | :ы | :0 ]* %>:0 ( ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %>:0 ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
+           :VO [ Cns | :ы | :0 ]* %>:0 [ ж: ] _ %> Ы1: ш [ #: | %- | %>:0 ] ;
+
+! Retaining stem-final _е1_ in adjectives and nouns
+! It has been removed from Vem stems
+! _е1_ follows much the same pattern as _Ы2_
+!
+"suffix-final vowel realized after stem-final consonant"
+  е1:ы <=>  Cns _ %>:0 [ л | г | ш | д | Ы1: ] ;
+
+"suffix-final vowel realized as -Round in word-final position"
+  е1:е <=> Ve [ Cns | ы ]* Cns _ [ #: | %- ] ;
+
+"suffix-final vowel realized as +Back +Round in word-final position"
+  е1:о <=> Vo [ Cns | ы ]* _ [ #: | %- ] ;
+
+"suffix-final vowel realized as +Front +Round in word-final position"
+  е1:ӧ <=> VO [ Cns | ы ]* _ [ #: | %- ] ;
+
+
+ 
+"Clitics in At and Ak take onset glide"
+  А2:я <=> ь:0 %>:0 _ [ т | к | м | ш ] ;
+
+"Clitics in At and Ak take onset glide"
+  А2:а <=> [ Cns ( Ы2:0 ) | :Vws ] %>:0 _ [ т | к | м | ш ] ;
+
+! Devoicing
+"Onset consonant devoicing"
+ ж:ш <=> [ Cst | ж ] %>:0 _ Ы2: ;

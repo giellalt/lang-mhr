@@ -1,0 +1,127 @@
+!! Noun inflection
+!! ---------------
+!! Meadow Mari nouns inflect in cases.
+
+LEXICON N-ava
++N: N-ava_NB ;
++N+Voc:%>й # ;
++N+Voc+PxSg1:%>ем # ; 
+
+
+LEXICON N-ava_NB
++Sg: N-ava_Cx ;
++Pl:%-влак N-ava_Cx ;
++Pl:%-шамыч N-ava_Cx ;
++AssocPl:%>мыт N-ava_Cx ;
++Sg: N-ava_Px ;
++Pl:%-влак N-ava_Px ;
++Pl:%-шамыч N-ava_Px ;
+
+LEXICON N-ava_Px
++PxSg1:%>Е2м N-ava_Cx ; ! Е2:0, Е2:е
++PxSg2:%>Е2т N-ava_Cx ; ! Е2:0, Е2:е
++PxSg3:%>жЫ2 N-ava_Cx ; 
++PxPl1:%>на N-ava_Cx ;
++PxPl2:%>да N-ava_Cx ;
++PxPl3:%>Ы1шт N-ava_Cx ; ! Ы1:0, Ы1:ы
+
+LEXICON N-ava_Cx
++Nom: K ;
++Gen:%>Ы1н K ; ! Ы1:0, Ы1:ы
++Dat:%>лан K ;
++Acc:%>Ы1м K ; ! Ы1:0, Ы1:ы
++Cmp:%>ла K ;
++Com:%>ге K ;
++Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
++Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
++Lat:%>еш K ; ! Check this again
++Abe:%>де K ;
+
+
+
+
+
+LEXICON N
++N: N_NB_Nb-Px-Cx ;
++N: N_Px_Px-Nb-Cx ;
+
+LEXICON N_NB_Nb-Px-Cx
++Sg: N_Cx_Nb-Px-Cx ;
++Pl:%-влак N_Cx_Nb-Px-Cx ;
++Pl:%-шамыч N_Cx_Nb-Px-Cx ;
++AssocPl:%>мыт N_Cx_Nb-Px-Cx ;
++Sg: N_Px_Nb-Px-Cx ;
++Pl:%-влак N_Px_Nb-Px-Cx ;
++Pl:%-шамыч N_Px_Nb-Px-Cx ;
+
+LEXICON N_Px_Nb-Px-Cx
++PxSg1:%>Е2м N_Cx_Nb-Px-Cx ; ! Е2:0, Е2:е
++PxSg2:%>Е2т N_Cx_Nb-Px-Cx ; ! Е2:0, Е2:е
++PxSg3:%>жЫ2 N_Cx_Nb-Px-Cx ; 
++PxPl1:%>на N_Cx_Nb-Px-Cx ;
++PxPl2:%>да N_Cx_Nb-Px-Cx ;
++PxPl3:%>Ы1шт N_Cx_Nb-Px-Cx ; ! Ы1:0, Ы1:ы
+
+LEXICON N_Cx_Nb-Px-Cx
++Nom: K ;
++Gen:%>Ы1н K ; ! Ы1:0, Ы1:ы
++Dat:%>лан K ;
++Acc:%>Ы1м K ; ! Ы1:0, Ы1:ы
++Cmp:%>ла K ;
++Com:%>ге K ;
++Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
++Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
++Lat:%>Ы1ш K ;
++Abe:%>де K ;
+
+LEXICON N_Px_Px-Nb-Cx
++PxSg1:%>Е2м N_Nb_Px-Nb-Cx ; ! Е2:0, Е2:е
++PxSg2:%>Е2т N_Nb_Px-Nb-Cx ; ! Е2:0, Е2:е
++PxSg3:%>жЫ2 N_Nb_Px-Nb-Cx ; 
++PxPl1:%>на N_Nb_Px-Nb-Cx ;
++PxPl2:%>да N_Nb_Px-Nb-Cx ;
++PxPl3:%>Ы1шт N_Nb_Px-Nb-Cx ; ! Ы1:0, Ы1:ы
+
+LEXICON N_Nb_Px-Nb-Cx
++Pl:%-влак N_Cx_Px-Nb-Cx ;
++Pl:%-шамыч N_Cx_Px-Nb-Cx ;
+
+LEXICON N_Cx_Px-Nb-Cx
+ N_Cx_Nb-Px-Cx ;
+
+LEXICON N-a/e
+ N ;
+
+LEXICON N-VS
+ N ;
+
+LEXICON S  
+ N ;
+LEXICON P  
+ N ;
+LEXICON N-continuation
+ N ;
+LEXICON S1
+ N ;
+LEXICON S2
+ N ;
+LEXICON S5
+ N ;
+LEXICON S6
+ N ;
+
+LEXICON S-a  
+ N ;
+LEXICON P1
+ N ;
+LEXICON P2
+ N ;
+LEXICON P3
+ N ;
+LEXICON P4
+ N ;
+LEXICON P5
+ N ;
+
+! vim: set ft=xfst-lexc:
+

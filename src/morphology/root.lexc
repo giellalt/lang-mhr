@@ -1,0 +1,322 @@
+! Divvun & Giellatekno - open source grammars for UNDEFINED language
+! Copyright © 2012 The University of Tromsø & the Norwegian Sámi Parliament
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@hum.uit.no or divvun@samediggi.no
+
+!! Morphology
+!! ----------
+!! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
+
+
+Multichar_Symbols
+!! Analysis symbols
+!! ----------------
+!! The morphological analyses of wordforms of UNDEFINED language are presented
+!! in this system in terms of following symbols.
+!! (It is highly suggested to follow existing standards when adding new tags).
+
+!! The parts-of-speech are:
+ +N +A +Adv +V
+ +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num 
+
+!! The parts of speech are further split up into:
+ +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
+
+!! The Usage extents are marked using following tags:
+ +Use/Sub   
+ +Use/-Spell 
+
+!!! pair verbs that do not occur independently get this marker.
+ +Depend
+
+!! The nominals are inflected in the following Case and Number
+ +Sg +Pl +AssocPl
++Nom +Gen +Acc +Com +Ill +Ine +Lat +Dat +Cmp +Abe
++Voc 
+!! The possession is marked as such:
+ +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
+!! The comparative forms are:
+ +Comp +Superl
+!! Numerals are classified under:
+ +Attr +Card
+ +Ord 
+!! Verb moods are:
+ +Ind +Prs +Prt +Pot +Cond +Imprt
+!! Verb personal forms are:
+ +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
+!! Other verb forms are
+ +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +Prc +PrfPrc +Sup +VGen +VAbess
++Act +Pas +FutPrc +NegPrc +Imprf
+! Abbreviated words are classified with:
+ +ABBR +ACR 
+!! Special symbols are classified with:
++CLB +PUNCT +LEFT +RIGHT
+!! The verbs are syntactically split according to transitivity:
+ +TV +IV
+!! Special multiword units are analysed with:
+ +Multi
+!! Non-dictionary words can be recognised with:
+ +Guess
+
+!! Question and Focus particles:
+ +Qst +Foc
+! -ат/-ят, -ак/-як, -с/-ыс
++Foc/Ат +Foc/Ак +Foc/Ыс
++Foc/ян
+
+!! Semantics are classified with
+ +Mal +Fem +Sur 
+ +Plc 
+ +Org
+ +Obj
+ +Ani
+ +Hum
+ +Plant
+ +Group
+ +Time 
+ +Txt
+ +Route
+ +Measr 
+ +Wthr
+ +Build 
+ +Edu
+ +Veh
+ +Clth
+
+
+!! Derivations are classified under the morphophonetic form of the suffix, the
+!! source and target part-of-speech.
+ +V→N +V→V +V→A
+ +Der/xxx
+
+
+!! Morphophonology
+!! ---------------
+!! To represent phonologic variations in word forms we use the following
+!! symbols in the lexicon files:
+ {aä} {oö} {uü}
+е1 а1 и1 у1 ӱ1
+! JMR 2012-09-18
+Е2 А2 Ы1 Ы2
+%>
++TEST
+!! And following triggers to control variation
+ {front} {back}
+X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2 %-
+
+
+!! We have manually optimised the structure of our lexicon using following
+!! flag diacritics to restrict morhpological combinatorics:
+@P.NeedNoun.ON@  @D.NeedNoun.ON@  @C.NeedNoun@
+
+LEXICON Root
+!! The word forms in UNDEFINED language start from the lexeme roots of basic
+!! word classes, or optionally from prefixes:
+0   adjectives  ;
+0   adverbs  ;
+0   conjunctions  ;
+0   dependents   ;
+0   interjections   ;
+0   nouns   ;
+0   particles   ;
+0   postpositions	;
+0   pronouns    ;
+0   propernouns    ;
+0   quantifiers    ;
+0   verbs   ;
+
+Abbreviation	;
+Acronym		;
+Punctuation	;
+wordToNumeral	;
+
+
+! ############# !
+! CONTINUATIONS !
+! ############# !
+
+LEXICON CC
++CC: # ;
+
+LEXICON CS
++CS: # ;
+
+LEXICON Adv
++Adv: K ;
+
+LEXICON AD-A
++Adv: # ;
+
+LEXICON Po
++Po: # ;
+
+LEXICON Postp
+ Po ;
+
+
+
+LEXICON Puh-a/e ! XXX do not know
+N-a/e ;
+
+
+LEXICON Puh ! XXX do not know
+N ;
+
+
+
+! ####### !
+! AFFIXES !
+! ####### !
+
+
+
+! First aid lexica, these are not defined.
+! They are either typos or unfinished work.
+
+LEXICON Vam-n/l1t
+ # ;
+
+
+LEXICON PronRes
++Pron: # ;
+
+LEXICON N-A7e
+ # ;
+
+LEXICON PromInd
++Pron: # ;
+
+LEXICON PronI
++Pron: # ;
+
+LEXICON PronIR
++Pron+Interr: # ;
+
+LEXICON PronInd
++Pron+Ind: # ;
+
+LEXICON PronDem
++Pron+Dem: # ;
+
+LEXICON KvMurt
+ # ;
+
+LEXICON KvK
+ # ;
+
+LEXICON PronP
+ # ;
+
+LEXICON PronD
+ # ;
+
+LEXICON Vkielt
++V+Neg: # ;
+
+LEXICON V
+ # ;
+
+LEXICON N-e/a
+ # ;
+
+LEXICON Pimp
+ # ;
+
+LEXICON I
+ # ;
+
+LEXICON Ruotsi
+ # ;
+
+LEXICON N-Vs
+ # ;
+
+LEXICON PronRef
+ # ;
+
+LEXICON a
+ # ;
+
+LEXICON KvKoll
+ # ;
+
+LEXICON KvInd
+ # ;
+
+LEXICON A-VS
+ # ;
+
+LEXICON KvO
+ # ;
+
+!LEXICON X
+! # ;
+
+LEXICON A-a/e
+ # ;
+
+LEXICON Pmuu
++Interj: # ; ! Several Pmuu do not belong here
+
+LEXICON A/S
+ # ;
+
+LEXICON A/S-VS
+ # ;
+
+LEXICON Kv-a/e
+ # ;
+
+LEXICON Vem-jykte1
+ # ;
+
+LEXICON Pron
++Pron # ;
+
+LEXICON Vem--Vam-n/l
+ # ;
+
+LEXICON Vam-1t
+ # ;
+
+LEXICON VKielt
++V+Neg: # ;
+
+LEXICON Vem-Syle1
+ # ;
+
+LEXICON Saxmatistka1
+ # ;
+
+LEXICON ymbaCYn
+ # ;
+
+LEXICON ymbaC
+ # ;
+
+LEXICON utYktare1
+ # ;
+
+LEXICON tYgutlашte1
+ # ;
+
+LEXICON tYgudешte1
+ # ;
+
+LEXICON X
+ # ;
+
+LEXICON S-a/e
+ # ;
+
+
+! vim: set ft=xfst-lexc:

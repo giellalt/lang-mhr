@@ -1,0 +1,7 @@
+
+! for yaml testing
+make check
+
+
+! For manula testing of yaml
+python3.2 ../../../../../gtcore/scripts/morph-test.py -ci -i -S xerox mhr.tests.yaml

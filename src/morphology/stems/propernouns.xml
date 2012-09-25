@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<entry><lg><l>австралий</l><stg><st Contlex="Prop">австралий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Australia Prop</t></tg></mg></e></entry>
+<entry><lg><l>азий</l><stg><st Contlex="Prop">азий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Aasia Prop</t></tg></mg></e></entry>
+<entry><lg><l>албаний</l><stg><st Contlex="Prop">албаний</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Albania Prop</t></tg></mg></e></entry>
+<entry><lg><l>альп</l><stg><st Contlex="Prop">альп</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Alpit Prop</t></tg></mg></e></entry>
+<entry><lg><l>англий</l><stg><st Contlex="Prop">англий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Englanti Prop</t></tg></mg></e></entry>
+<entry><lg><l>арабий</l><stg><st Contlex="Prop">арабий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Arabia Prop</t></tg></mg></e></entry>
+<entry><lg><l>афины</l><stg><st Contlex="Prop">афины</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Ateena Prop</t></tg></mg></e></entry>
+<entry><lg><l>балтик</l><stg><st Contlex="Prop">балтик</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Itämeri Prop</t></tg></mg></e></entry>
+<entry><lg><l>бельгий</l><stg><st Contlex="Prop">бельгий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Belgia Prop</t></tg></mg></e></entry>
+<entry><lg><l>болгарий</l><stg><st Contlex="Prop">болгарий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Bulgaria Prop</t></tg></mg></e></entry>
+<entry><lg><l>бразилий</l><stg><st Contlex="Prop">бразилий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Brasilia Prop</t></tg></mg></e></entry>
+<entry><lg><l>будапешт</l><stg><st Contlex="Prop">будапешт</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Budapest Prop</t></tg></mg></e></entry>
+<entry><lg><l>венгрий</l><stg><st Contlex="Prop">венгрий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Unkari Prop</t></tg></mg></e></entry>
+<entry><lg><l>германий</l><stg><st Contlex="Prop">германий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Saksa Prop</t></tg></mg></e></entry>
+<entry><lg><l>дунай</l><stg><st Contlex="Prop">дунай</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Tonava Prop</t></tg></mg></e></entry>
+<entry><lg><l>испаний</l><stg><st Contlex="Prop">испаний</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Espanja Prop</t></tg></mg></e></entry>
+<entry><lg><l>италий</l><stg><st Contlex="Prop">италий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Italia Prop</t></tg></mg></e></entry>
+<entry><lg><l>какшан</l><stg><st Contlex="Prop">какшан</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(joki) Koks`aga Prop</t></tg></mg></e></entry>
+<entry><lg><l>карелий</l><stg><st Contlex="Prop">карелий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Karjala Prop</t></tg></mg></e></entry>
+<entry><lg><l>китай</l><stg><st Contlex="Prop">китай</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Kiina Prop</t></tg></mg></e></entry>
+<entry><lg><l>коркашӱдыр</l><stg><st Contlex="Prop">коркашӱдыр</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Otava Prop</t></tg></mg></e></entry>
+<entry><lg><l>ленинград</l><stg><st Contlex="Prop">ленинград</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Leningrad Prop</t></tg></mg></e></entry>
+<entry><lg><l>моско</l><stg><st Contlex="Prop">моско</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Moskova Prop</t></tg></mg></e></entry>
+<entry><lg><l>нидерландий</l><stg><st Contlex="Prop">нидерландий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Alankomaat Prop</t></tg></mg></e></entry>
+<entry><lg><l>пӱевӱд</l><stg><st Contlex="Prop">пӱевӱд</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Buj Prop</t></tg></mg></e></entry>
+<entry><lg><l>пӱрӧвӱд</l><stg><st Contlex="Prop">пӱрӧвӱд</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Bir Prop</t></tg></mg></e></entry>
+<entry><lg><l>рига</l><stg><st Contlex="Prop">рига</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Riika Prop</t></tg></mg></e></entry>
+<entry><lg><l>россий</l><stg><st Contlex="Prop">россий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Venäjä Prop</t></tg></mg></e></entry>
+<entry><lg><l>румыний</l><stg><st Contlex="Prop">румыний</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Romania Prop</t></tg></mg></e></entry>
+<entry><lg><l>финляндий</l><stg><st Contlex="Prop">финляндий</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Suomi Prop</t></tg></mg></e></entry>
+<entry><lg><l>хельсинки</l><stg><st Contlex="Prop">хельсинки</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Helsinki Prop</t></tg></mg></e></entry>
+<entry><lg><l>чарла</l><stg><st Contlex="Prop">чарла</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(vanh.) JoSkar-Ola Prop</t></tg></mg></e></entry>
+<entry><lg><l>чолман</l><stg><st Contlex="Prop">чолман</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Kama Prop</t></tg></mg></e></entry>
+<entry><lg><l>шоктешӱдыр</l><stg><st Contlex="Prop">шоктешӱдыр</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Seulaset Prop</t></tg></mg></e></entry>
+<entry><lg><l>элнет</l><stg><st Contlex="Prop">элнет</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Iletjoki Prop</t></tg></mg></e></entry>
+<entry><lg><l>эстоний</l><stg><st Contlex="Prop">эстоний</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Viro Prop</t></tg></mg></e></entry>
+<entry><lg><l>юл</l><stg><st Contlex="Prop">юл</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Volga Prop</t></tg></mg></e></entry>
+<entry><lg><l>америка</l><stg><st Contlex="Prop">америка1</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Amerikka Prop</t></tg></mg></e></entry>
+<entry><lg><l>аргентина</l><stg><st Contlex="Prop">аргентина1</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Argentiina Prop</t></tg></mg></e></entry>
+<entry><lg><l>атлантика</l><stg><st Contlex="Prop">атлантика1</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Atlantti Prop</t></tg></mg></e></entry>
+<entry><lg><l>африка</l><stg><st Contlex="Prop">африка1</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Afrikka Prop</t></tg></mg></e></entry>
+<entry><lg><l>варшава</l><stg><st Contlex="Prop">варшава1</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Varsova Prop</t></tg></mg></e></entry>
+<entry><lg><l>виче</l><stg><st Contlex="Prop">виче1</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Vjatka Prop</t></tg></mg></e></entry>
+<entry><lg><l>европа</l><stg><st Contlex="Prop">европа1</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Eurooppa Prop</t></tg></mg></e></entry>
+<entry><lg><l>польша</l><stg><st Contlex="Prop">польша1</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Puola Prop</t></tg></mg></e></entry>
+<entry><lg><l>прибалтика</l><stg><st Contlex="Prop">прибалтика1</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Baltia Prop</t></tg></mg></e></entry>
+<entry><lg><l>ӱпе</l><stg><st Contlex="Prop">ӱпе1</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Ufa Prop</t></tg></mg></e></entry>
+<entry><lg><l>швеций</l><stg><st Contlex="Prop">швеций</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Ruotsi Prop</t></tg></mg></e></entry>
+<entry><lg><l>Таллинн</l><stg><st Contlex="Prop">Таллинн</st></stg></lg><pos>PROP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t pos="PROP">Tallinna</t></tg></mg></e></entry>
+</r>

@@ -1,0 +1,2086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<entry><lg><l>посна</l><stg><st Contlex="Postp">посна</st></stg></lg><pos>POSTP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ilman; lisäksi Po </t></tg></mg></e></entry>
+   <entry>
+      <lg>
+         <l>вара</l>
+         <stg>
+            <st Contlex="Po">вара</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">jälkeen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вашеш</l>
+         <stg>
+            <st Contlex="Po">вашеш</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">ennen, alla</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ваштареш</l>
+         <stg>
+            <st Contlex="Po">ваштареш</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">vastaan, vastapäätä, vasten, alla</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ваштарешла</l>
+         <stg>
+            <st Contlex="Po">ваштарешла</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">vastaan, vastapäätä, vasten, alla</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>велан</l>
+         <stg>
+            <st Contlex="Po">велан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">puolella, puolelle</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>верч</l>
+         <stg>
+            <st Contlex="Po">верч</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">takia, sijasta</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>верчын</l>
+         <stg>
+            <st Contlex="Po">верчын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">takia, sijasta</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>веч</l>
+         <stg>
+            <st Contlex="Po">веч</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">suunnalta</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вечын</l>
+         <stg>
+            <st Contlex="Po">вечын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">suunnalta</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>воктечын</l>
+         <stg>
+            <st Contlex="Po">воктечын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">ohi(tse), luota</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>годсек</l>
+         <stg>
+            <st Contlex="Po">годсек</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">alkaen, aikana</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>годым</l>
+         <stg>
+            <st Contlex="Po">годым</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">aikana, kuluessa, aikaan, sijasta, ennen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>готсек</l>
+         <stg>
+            <st Contlex="Po">готсек</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">(jstak) lähtien</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>гоч</l>
+         <stg>
+            <st Contlex="Po">гоч</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">yli(tse), läpi, (jnk) ajan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>гыч</l>
+         <stg>
+            <st Contlex="Po">гыч</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">(elat., ablat.)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>гычын</l>
+         <stg>
+            <st Contlex="Po">гычын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">(elat., ablat.)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>деке</l>
+         <stg>
+            <st Contlex="Po">деке</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luo(kse), (kaAS + saaminen:) (lat.)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>дек</l>
+         <stg>
+            <st Contlex="Po">дек</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luo(kse), (kaAS + saaminen:) (lat.)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>дене</l>
+         <stg>
+            <st Contlex="Po">дене</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">kanssa, luona, pitkin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>деран</l>
+         <stg>
+            <st Contlex="Po">деран</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luona, (adess.), (allat.)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>дечын</l>
+         <stg>
+            <st Contlex="Po">дечын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luota, -ltA</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>деч</l>
+         <stg>
+            <st Contlex="Po">деч</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luota, -ltA</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>йӧре</l>
+         <stg>
+            <st Contlex="Po">йӧре</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">kanssa, seassa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>йымак</l>
+         <stg>
+            <st Contlex="Po">йымак</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">alle</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>йымалан</l>
+         <stg>
+            <st Contlex="Po">йымалан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">alle</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>йӱMач</l>
+         <stg>
+            <st Contlex="Po">йӱMач</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">alta, (paikan ilm. elat.)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>йӱMачын</l>
+         <stg>
+            <st Contlex="Po">йӱMачын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">alta, (paikan ilm. elat.)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>йыр</l>
+         <stg>
+            <st Contlex="Po">йыр</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">ympäri</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кыдач</l>
+         <stg>
+            <st Contlex="Po">кыдач</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">(jnk) poikki</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кыдачын</l>
+         <stg>
+            <st Contlex="Po">кыдачын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">(jnk) poikki keskeltä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кыдачын</l>
+         <stg>
+            <st Contlex="Po">кыдачын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">(jnk) poikki</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лийын</l>
+         <stg>
+            <st Contlex="Po">лийын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">takia</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лиш</l>
+         <stg>
+            <st Contlex="Po">лиш</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luo(kse), lähelle</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лишан</l>
+         <stg>
+            <st Contlex="Po">лишан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">lähelle, lähellä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лишыч</l>
+         <stg>
+            <st Contlex="Po">лишыч</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luota, läheltä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лишычын</l>
+         <stg>
+            <st Contlex="Po">лишычын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luota, läheltä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>марте</l>
+         <stg>
+            <st Contlex="Po">марте</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">asti, ennen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мартен</l>
+         <stg>
+            <st Contlex="Po">мартен</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">asti, ennen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>нерген</l>
+         <stg>
+            <st Contlex="Po">нерген</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">(elat. esim. puhua jstk)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>олмеш</l>
+         <stg>
+            <st Contlex="Po">олмеш</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">sijaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ончык</l>
+         <stg>
+            <st Contlex="Po">ончык</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">eteen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ончылан</l>
+         <stg>
+            <st Contlex="Po">ончылан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">edessä, eteen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ончыч</l>
+         <stg>
+            <st Contlex="Po">ончыч</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">eteen, editse, ennen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ончычын</l>
+         <stg>
+            <st Contlex="Po">ончычын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">eteen, editse, ennen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пелен</l>
+         <stg>
+            <st Contlex="Po">пелен</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luona, mukana, yhteydessä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пелне</l>
+         <stg>
+            <st Contlex="Po">пелне</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">sivussa, ohessa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пелтык</l>
+         <stg>
+            <st Contlex="Po">пелтык</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">takia</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>покшек</l>
+         <stg>
+            <st Contlex="Po">покшек</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">keskelle, puoliväliin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>покшелан</l>
+         <stg>
+            <st Contlex="Po">покшелан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">keskellä, keskelle</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>покшеч</l>
+         <stg>
+            <st Contlex="Po">покшеч</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">keskeltä, keskellä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>покшечын</l>
+         <stg>
+            <st Contlex="Po">покшечын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">keskeltä, keskellä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>посна</l>
+         <stg>
+            <st Contlex="P">посна</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">ilman, lisäksi</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>почеш</l>
+         <stg>
+            <st Contlex="Po">почеш</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">mukaan, mukana, pitkin, jälkeen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>семын</l>
+         <stg>
+            <st Contlex="Po">семын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">tavalla, mukaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>таҥеш</l>
+         <stg>
+            <st Contlex="Po">таҥеш</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">(jhk) mennessä, ennen (jtak)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тореш</l>
+         <stg>
+            <st Contlex="Po">тореш</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">viereen, luo</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>торешне</l>
+         <stg>
+            <st Contlex="Po">торешне</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">vieressä, luona</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱлык</l>
+         <stg>
+            <st Contlex="Po">ӱлык</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">alle</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱлыч</l>
+         <stg>
+            <st Contlex="Po">ӱлыч</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">alta</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱлычын</l>
+         <stg>
+            <st Contlex="Po">ӱлычын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">alta</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱмбак</l>
+         <stg>
+            <st Contlex="Po">ӱмбак</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">päälle, (allat.)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱмбалан</l>
+         <stg>
+            <st Contlex="Po">ӱмбалан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">päällä, (allat.), jälkeen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱмбач</l>
+         <stg>
+            <st Contlex="Po">ӱмбач</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">pitkin, (ablat.), päältä, päällä, lisäksi, huolimatta</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱмбачын</l>
+         <stg>
+            <st Contlex="Po">ӱмбачын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">pitkin, (ablat.), päältä, päällä, lisäksi, huolimatta</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шеҥгек</l>
+         <stg>
+            <st Contlex="Po">шеҥгек</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">taa(kse)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шеҥгекыла</l>
+         <stg>
+            <st Contlex="Po">шеҥгекыла</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">takapuolelle (päin)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шеҥгелан</l>
+         <stg>
+            <st Contlex="Po">шеҥгелан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">viereen, luo(kse), taakse</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шеҥгеч</l>
+         <stg>
+            <st Contlex="Po">шеҥгеч</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">takaa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шеҥгечын</l>
+         <stg>
+            <st Contlex="Po">шеҥгечын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">takaa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шойылан</l>
+         <stg>
+            <st Contlex="Po">шойылан</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">viereen, luo(kse), taakse</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шойыч</l>
+         <stg>
+            <st Contlex="Po">шойыч</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">takaa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шойычын</l>
+         <stg>
+            <st Contlex="Po">шойычын</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">takaa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шоҥыш</l>
+         <stg>
+            <st Contlex="Po">шоҥыш</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">sijaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шотеш</l>
+         <stg>
+            <st Contlex="Po">шотеш</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">sijaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шумеш</l>
+         <stg>
+            <st Contlex="Po">шумеш</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">asti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шумешке</l>
+         <stg>
+            <st Contlex="Po">шумешке</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">asti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шумлык</l>
+         <stg>
+            <st Contlex="Po">шумлык</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">takia, (elat.)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>велке</l>
+         <stg>
+            <st Contlex="Po">велке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">taholle, suuntaan, päin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>велне</l>
+         <stg>
+            <st Contlex="Po">велне1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">puolella, suunnalla</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>воктеке</l>
+         <stg>
+            <st Contlex="Po">воктеке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luo(kse), viereen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>воктене</l>
+         <stg>
+            <st Contlex="Po">воктене1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luona, vieressä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>гутлаште</l>
+         <stg>
+            <st Contlex="Po">гутлаште1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">aikaan, aikana, ympärillä, tienoilla</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>йымаке</l>
+         <stg>
+            <st Contlex="Po">йымаке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">alle</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>йымалне</l>
+         <stg>
+            <st Contlex="Po">йымалне1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">alla</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лиймеке</l>
+         <stg>
+            <st Contlex="Po">лиймеке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">kuluttua</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лишке</l>
+         <stg>
+            <st Contlex="Po">лишке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luo(kse), lähelle</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лишке</l>
+         <stg>
+            <st Contlex="Po">лишке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">lähelle</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лишне</l>
+         <stg>
+            <st Contlex="Po">лишне1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">luona, lähellä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мучке</l>
+         <stg>
+            <st Contlex="Po">мучке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">pitkin, koko</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ончыке</l>
+         <stg>
+            <st Contlex="Po">ончыке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">eteen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ончылне</l>
+         <stg>
+            <st Contlex="Po">ончылне1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">edessä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>покшеке</l>
+         <stg>
+            <st Contlex="Po">покшеке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">keskelle, puoliväliin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>покшелне</l>
+         <stg>
+            <st Contlex="Po">покшелне1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">keskellä, keskelle</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>торашке</l>
+         <stg>
+            <st Contlex="Po">торашке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">etäisyyteen, päähän</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тораште</l>
+         <stg>
+            <st Contlex="Po">тораште1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">etäisyydessä, päässä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱлне</l>
+         <stg>
+            <st Contlex="Po">ӱлне1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">alla</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱлыке</l>
+         <stg>
+            <st Contlex="Po">ӱлыке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">alle</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱмбаке</l>
+         <stg>
+            <st Contlex="Po">ӱмбаке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">päälle, (allat.)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱмбалне</l>
+         <stg>
+            <st Contlex="Po">ӱмбалне1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">päällä, (adess.), joukossa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шеҥгеке</l>
+         <stg>
+            <st Contlex="Po">шеҥгеке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">taa(kse)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шеҥгелне</l>
+         <stg>
+            <st Contlex="Po">шеҥгелне1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">takana</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шойыке</l>
+         <stg>
+            <st Contlex="Po">шойыке1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">taakse</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шойылне</l>
+         <stg>
+            <st Contlex="Po">шойылне1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">takana</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шотыште</l>
+         <stg>
+            <st Contlex="Po">шотыште1</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t pos="POSTP">(jnk) suhteen, (elat.), suhteissa, (ess.)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+</r>
