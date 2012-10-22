@@ -115,6 +115,13 @@ Rules
 "Clitics in At and Ak take onset glide"
   А2:я <=> ь:0 %>:0 _ [ т | к | м | ш ] ;
 
+"A2 as я in й-final stems"
+  А2:я <=> й:0 %>:0 _  ;
+
+"й Deletion in front of я Suffix"
+  й:0 <=> _ %>:0 А2:я  ;
+
+
 "Clitics in At and Ak take onset glide"
   А2:а <=> [ Cns ( Ы2:0 ) | :Vws ] %>:0 _ [ т | к | м | ш ] ;
 
