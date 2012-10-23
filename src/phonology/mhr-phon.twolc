@@ -114,9 +114,8 @@ Rules
  
 "Clitics in At and Ak take onset glide"
   А2:я <=> ь:0 %>:0 _ [ т | к | м | ш ] ;
-
-"A2 as я in й-final stems"
-  А2:я <=> й:0 %>:0 _  ;
+! "A2 as я in й-final stems"
+           й:0 %>:0 _  ;
 
 "й Deletion in front of я Suffix and others"
   й:0 <=> _ %>:0 [ :я | :е | :и | :ю ]  ;
