@@ -137,7 +137,7 @@ LEXICON Root
 Abbreviation	;
 Acronym		;
 Punctuation	;
-wordToNumeral	;
+! wordToNumeral	; !This has been moved to GTLANG/src/transcriptions/numbers.lexc
 
 
 ! ############# !
