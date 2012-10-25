@@ -27,6 +27,29 @@
    </entry>
    <entry>
       <lg>
+         <l>каяш</l>
+         <stg>
+            <st Contlex="Vam">кай</st>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="eng">
+               <t/>
+            </tg>
+            <tg lang="fin">
+               <t pos="V">mennä Vam</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
          <l>вакшаш</l>
          <stg>
             <st Contlex="Vam">вакш</st>
