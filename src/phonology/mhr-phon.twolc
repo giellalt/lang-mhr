@@ -83,7 +83,7 @@ Rules
 !            %>:0  Ы1: ш [ т | к ]  _ %>:0 Ы1: ;
 
 "suffix-final vowel realized as -Round in word-final position"
-  Ы2:е <=> :Ve [ Cns | :ы | :0 ]* %>:0 ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %>:0 ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
+  Ы2:е <=> :Ve [ Cns | й | :ы | :0 ]* %>:0 ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %>:0 ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
            :Ve [ Cns | :ы | :0 ]* %>:0 [ ж: ] _ %> Ы1: ш [ #: | %- | %>:0 ] ;
 
 "suffix-final vowel realized as +Back +Round in word-final position"
