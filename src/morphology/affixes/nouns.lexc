@@ -203,8 +203,9 @@ LEXICON N-ava_all
 
 
 LEXICON N
-+N: N_NB_Nb-Px-Cx ;
-+N: N_Px_Px-Nb-Cx ;
+ N-ava_all ;
+!2012-10-26 Jaska!+N: N_NB_Nb-Px-Cx ;
+!2012-10-26 Jaska!+N: N_Px_Px-Nb-Cx ;
 
 LEXICON N_NB_Nb-Px-Cx
 +Sg: N_Cx_Nb-Px-Cx ;
@@ -303,13 +304,13 @@ LEXICON N-SG-NOM
 +Sg+Nom: K ;
 
 LEXICON N-SG-GEN
-+Sg+Gen:Ы1н K ;
++Sg+Gen:%>Ы1н K ;
 
 LEXICON N-SG-DAT
 +Sg+Dat:лан K ;
 
 LEXICON N-SG-ACC
-+Sg+Acc:Ы1м K ;
++Sg+Acc:%>Ы1м K ;
 
 LEXICON N-SG-CMP
 +Sg+Cmp:ла K ;
@@ -318,10 +319,10 @@ LEXICON N-SG-COM
 +Sg+Com:ге K ;
 
 LEXICON N-SG-INE
-+Sg+Ine:Ы1штЫ2 K ;
++Sg+Ine:%>Ы1штЫ2 K ;
 
 LEXICON N-SG-ILL
-+Sg+Ill:Ы1шкЫ2 K ;
++Sg+Ill:%>Ы1шкЫ2 K ;
 
 LEXICON N-SG-LAT
 +Sg+Lat:еш K ;
