@@ -2,7 +2,39 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<entry><lg><l>посна</l><stg><st Contlex="Postp">посна</st></stg></lg><pos>POSTP</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ilman; lisäksi Po </t></tg></mg></e></entry>
+   <entry>
+      <lg>
+         <l>посна</l>
+         <stg>
+            <st Contlex="Postp">посна</st>
+         </stg>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t pos="POSTP">ilman</t>
+         </tg>
+      </mg>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t pos="POSTP">lisäksi</t>
+         </tg>
+      </mg>
+   </entry>
    <entry>
       <lg>
          <l>вара</l>
@@ -11,17 +43,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">jälkeen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">jälkeen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -31,17 +61,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">ennen, alla</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">ennen, alla</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -51,17 +79,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">vastaan, vastapäätä, vasten, alla</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">vastaan, vastapäätä, vasten, alla</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -71,17 +97,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">vastaan, vastapäätä, vasten, alla</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">vastaan, vastapäätä, vasten, alla</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -91,17 +115,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">puolella, puolelle</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">puolella, puolelle</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -111,17 +133,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">takia, sijasta</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">takia, sijasta</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -131,17 +151,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">takia, sijasta</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">takia, sijasta</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -151,17 +169,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">suunnalta</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">suunnalta</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -171,17 +187,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">suunnalta</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">suunnalta</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -191,17 +205,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">ohi(tse), luota</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">ohi(tse), luota</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -211,17 +223,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">alkaen, aikana</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">alkaen, aikana</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -231,17 +241,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">aikana, kuluessa, aikaan, sijasta, ennen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">aikana, kuluessa, aikaan, sijasta, ennen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -251,17 +259,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">(jstak) lähtien</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">(jstak) lähtien</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -271,17 +277,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">yli(tse), läpi, (jnk) ajan</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">yli(tse), läpi, (jnk) ajan</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -291,17 +295,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">(elat., ablat.)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">(elat., ablat.)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -311,17 +313,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">(elat., ablat.)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">(elat., ablat.)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -331,17 +331,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luo(kse), (kaAS + saaminen:) (lat.)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luo(kse), (kaAS + saaminen:) (lat.)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -351,17 +349,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luo(kse), (kaAS + saaminen:) (lat.)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luo(kse), (kaAS + saaminen:) (lat.)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -371,17 +367,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">kanssa, luona, pitkin</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">kanssa, luona, pitkin</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -391,17 +385,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luona, (adess.), (allat.)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luona, (adess.), (allat.)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -411,17 +403,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luota, -ltA</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luota, -ltA</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -431,17 +421,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luota, -ltA</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luota, -ltA</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -451,17 +439,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">kanssa, seassa</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">kanssa, seassa</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -471,17 +457,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">alle</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">alle</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -491,17 +475,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">alle</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">alle</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -511,17 +493,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">alta, (paikan ilm. elat.)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">alta, (paikan ilm. elat.)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -531,17 +511,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">alta, (paikan ilm. elat.)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">alta, (paikan ilm. elat.)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -551,17 +529,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">ympäri</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">ympäri</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -571,17 +547,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">(jnk) poikki</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">(jnk) poikki</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -591,17 +565,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">(jnk) poikki keskeltä</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">(jnk) poikki keskeltä</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -611,17 +583,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">(jnk) poikki</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">(jnk) poikki</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -631,17 +601,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">takia</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">takia</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -651,17 +619,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luo(kse), lähelle</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luo(kse), lähelle</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -671,17 +637,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">lähelle, lähellä</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">lähelle, lähellä</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -691,17 +655,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luota, läheltä</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luota, läheltä</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -711,17 +673,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luota, läheltä</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luota, läheltä</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -731,17 +691,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">asti, ennen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">asti, ennen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -751,17 +709,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">asti, ennen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">asti, ennen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -771,17 +727,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">(elat. esim. puhua jstk)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">(elat. esim. puhua jstk)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -791,17 +745,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">sijaan</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">sijaan</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -811,17 +763,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">eteen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">eteen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -831,17 +781,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">edessä, eteen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">edessä, eteen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -851,17 +799,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">eteen, editse, ennen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">eteen, editse, ennen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -871,17 +817,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">eteen, editse, ennen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">eteen, editse, ennen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -891,17 +835,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luona, mukana, yhteydessä</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luona, mukana, yhteydessä</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -911,17 +853,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">sivussa, ohessa</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">sivussa, ohessa</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -931,17 +871,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">takia</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">takia</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -951,17 +889,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">keskelle, puoliväliin</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">keskelle, puoliväliin</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -971,17 +907,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">keskellä, keskelle</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">keskellä, keskelle</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -991,17 +925,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">keskeltä, keskellä</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">keskeltä, keskellä</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1011,17 +943,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">keskeltä, keskellä</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">keskeltä, keskellä</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1031,17 +961,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">ilman, lisäksi</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">ilman, lisäksi</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1051,17 +979,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">mukaan, mukana, pitkin, jälkeen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">mukaan, mukana, pitkin, jälkeen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1071,17 +997,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">tavalla, mukaan</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">tavalla, mukaan</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1091,17 +1015,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">(jhk) mennessä, ennen (jtak)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">(jhk) mennessä, ennen (jtak)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1111,17 +1033,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">viereen, luo</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">viereen, luo</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1131,17 +1051,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">vieressä, luona</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">vieressä, luona</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1151,17 +1069,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">alle</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">alle</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1171,17 +1087,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">alta</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">alta</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1191,17 +1105,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">alta</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">alta</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1211,17 +1123,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">päälle, (allat.)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">päälle, (allat.)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1231,17 +1141,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">päällä, (allat.), jälkeen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">päällä, (allat.), jälkeen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1251,17 +1159,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">pitkin, (ablat.), päältä, päällä, lisäksi, huolimatta</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">pitkin, (ablat.), päältä, päällä, lisäksi, huolimatta</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1271,17 +1177,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">pitkin, (ablat.), päältä, päällä, lisäksi, huolimatta</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">pitkin, (ablat.), päältä, päällä, lisäksi, huolimatta</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1291,17 +1195,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">taa(kse)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">taa(kse)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1311,17 +1213,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">takapuolelle (päin)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">takapuolelle (päin)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1331,17 +1231,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">viereen, luo(kse), taakse</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">viereen, luo(kse), taakse</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1351,17 +1249,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">takaa</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">takaa</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1371,17 +1267,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">takaa</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">takaa</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1391,17 +1285,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">viereen, luo(kse), taakse</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">viereen, luo(kse), taakse</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1411,17 +1303,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">takaa</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">takaa</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1431,17 +1321,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">takaa</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">takaa</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1451,17 +1339,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">sijaan</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">sijaan</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1471,17 +1357,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">sijaan</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">sijaan</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1491,17 +1375,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">asti</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">asti</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1511,17 +1393,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">asti</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">asti</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1531,17 +1411,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">takia, (elat.)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">takia, (elat.)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1551,17 +1429,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">taholle, suuntaan, päin</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">taholle, suuntaan, päin</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1571,17 +1447,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">puolella, suunnalla</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">puolella, suunnalla</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1591,17 +1465,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luo(kse), viereen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luo(kse), viereen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1611,17 +1483,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luona, vieressä</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luona, vieressä</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1631,17 +1501,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">aikaan, aikana, ympärillä, tienoilla</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">aikaan, aikana, ympärillä, tienoilla</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1651,17 +1519,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">alle</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">alle</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1671,17 +1537,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">alla</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">alla</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1691,17 +1555,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">kuluttua</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">kuluttua</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1711,17 +1573,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luo(kse), lähelle</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luo(kse), lähelle</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1731,17 +1591,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">lähelle</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">lähelle</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1751,17 +1609,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">luona, lähellä</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">luona, lähellä</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1771,17 +1627,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">pitkin, koko</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">pitkin, koko</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1791,17 +1645,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">eteen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">eteen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1811,17 +1663,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">edessä</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">edessä</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1831,17 +1681,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">keskelle, puoliväliin</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">keskelle, puoliväliin</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1851,17 +1699,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">keskellä, keskelle</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">keskellä, keskelle</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1871,17 +1717,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">etäisyyteen, päähän</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">etäisyyteen, päähän</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1891,17 +1735,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">etäisyydessä, päässä</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">etäisyydessä, päässä</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1911,17 +1753,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">alla</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">alla</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1931,17 +1771,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">alle</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">alle</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1951,17 +1789,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">päälle, (allat.)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">päälle, (allat.)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1971,17 +1807,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">päällä, (adess.), joukossa</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">päällä, (adess.), joukossa</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1991,17 +1825,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">taa(kse)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">taa(kse)</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2011,17 +1843,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">takana</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">takana</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2031,17 +1861,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">taakse</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">taakse</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2051,17 +1879,15 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">takana</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">takana</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2071,16 +1897,14 @@
          </stg>
       </lg>
       <pos>POSTP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t pos="POSTP">(jnk) suhteen, (elat.), suhteissa, (ess.)</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="POSTP">(jnk) suhteen, (elat.), suhteissa, (ess.)</t>
+         </tg>
+      </mg>
    </entry>
 </r>
