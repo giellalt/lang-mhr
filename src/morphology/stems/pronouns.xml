@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+   <e>
       <lg>
          <l>тудо</l>
          <stg>
@@ -22,8 +22,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тиде</l>
          <stg>
@@ -43,8 +43,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-могай</l>
          <stg>
@@ -64,8 +64,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-кӧ</l>
          <stg>
@@ -85,8 +85,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-кузе</l>
          <stg>
@@ -106,8 +106,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-кунам</l>
          <stg>
@@ -127,8 +127,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-кунамсек</l>
          <stg>
@@ -148,8 +148,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-кунар</l>
          <stg>
@@ -169,8 +169,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-кушан</l>
          <stg>
@@ -190,8 +190,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-кушеч</l>
          <stg>
@@ -211,8 +211,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-кушкен</l>
          <stg>
@@ -232,8 +232,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-мо</l>
          <stg>
@@ -253,8 +253,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-могай</l>
          <stg>
@@ -274,8 +274,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-молан</l>
          <stg>
@@ -295,8 +295,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-мыняр</l>
          <stg>
@@ -316,8 +316,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ваш</l>
          <stg>
@@ -337,8 +337,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вес</l>
          <stg>
@@ -358,8 +358,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>еда</l>
          <stg>
@@ -379,8 +379,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ик</l>
          <stg>
@@ -400,8 +400,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>икмыняр</l>
          <stg>
@@ -421,8 +421,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж</l>
          <stg>
@@ -442,8 +442,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж-кӧ</l>
          <stg>
@@ -463,8 +463,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж-кӱшан</l>
          <stg>
@@ -484,8 +484,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж-кӱшеч</l>
          <stg>
@@ -505,8 +505,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж-кузе</l>
          <stg>
@@ -526,8 +526,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж-мо</l>
          <stg>
@@ -547,8 +547,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж-могай</l>
          <stg>
@@ -568,8 +568,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж-мыняр</l>
          <stg>
@@ -589,8 +589,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж-семын</l>
          <stg>
@@ -610,8 +610,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктат</l>
          <stg>
@@ -631,8 +631,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек-кӧ</l>
          <stg>
@@ -652,8 +652,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек-кузе</l>
          <stg>
@@ -673,8 +673,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек-кунам</l>
          <stg>
@@ -694,8 +694,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек-кушан</l>
          <stg>
@@ -715,8 +715,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек-кушеч</l>
          <stg>
@@ -736,8 +736,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек-кушечын</l>
          <stg>
@@ -757,8 +757,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек-мо</l>
          <stg>
@@ -778,8 +778,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек-мыняр</l>
          <stg>
@@ -799,8 +799,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-кӧ</l>
          <stg>
@@ -820,8 +820,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-кузе</l>
          <stg>
@@ -841,8 +841,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-кузе-гынат</l>
          <stg>
@@ -862,8 +862,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-кунам</l>
          <stg>
@@ -883,8 +883,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-кушан</l>
          <stg>
@@ -904,8 +904,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-кушеч</l>
          <stg>
@@ -925,8 +925,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-кушечын</l>
          <stg>
@@ -946,8 +946,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-мо</l>
          <stg>
@@ -967,8 +967,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-мыняр</l>
          <stg>
@@ -988,8 +988,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-могай</l>
          <stg>
@@ -1009,8 +1009,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>когынек</l>
          <stg>
@@ -1030,8 +1030,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>коктынат</l>
          <stg>
@@ -1051,8 +1051,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧ</l>
          <stg>
@@ -1072,8 +1072,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧ-гынат</l>
          <stg>
@@ -1093,8 +1093,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧлан</l>
          <stg>
@@ -1114,8 +1114,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧлан-гынат</l>
          <stg>
@@ -1135,8 +1135,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧм</l>
          <stg>
@@ -1156,8 +1156,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧм-гынат</l>
          <stg>
@@ -1177,8 +1177,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧн</l>
          <stg>
@@ -1198,8 +1198,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧн-гынат</l>
          <stg>
@@ -1219,8 +1219,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кувеч</l>
          <stg>
@@ -1240,8 +1240,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кувечын</l>
          <stg>
@@ -1261,8 +1261,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кудо-гынат</l>
          <stg>
@@ -1282,8 +1282,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кузе</l>
          <stg>
@@ -1303,8 +1303,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кузерак</l>
          <stg>
@@ -1324,8 +1324,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кузе-гынат</l>
          <stg>
@@ -1345,8 +1345,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кунам</l>
          <stg>
@@ -1366,8 +1366,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кунам-гынат</l>
          <stg>
@@ -1387,8 +1387,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кунамлан</l>
          <stg>
@@ -1408,8 +1408,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кунамсек</l>
          <stg>
@@ -1429,8 +1429,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>куш</l>
          <stg>
@@ -1450,8 +1450,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушак</l>
          <stg>
@@ -1471,8 +1471,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушан</l>
          <stg>
@@ -1492,8 +1492,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушан-гынат</l>
          <stg>
@@ -1513,8 +1513,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушеч</l>
          <stg>
@@ -1534,8 +1534,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушечын</l>
          <stg>
@@ -1555,8 +1555,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушкен</l>
          <stg>
@@ -1576,8 +1576,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушко-гынат</l>
          <stg>
@@ -1597,8 +1597,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушкыла</l>
          <stg>
@@ -1618,8 +1618,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушто-гынат</l>
          <stg>
@@ -1639,8 +1639,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱса-кӱса</l>
          <stg>
@@ -1660,8 +1660,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ме</l>
          <stg>
@@ -1681,8 +1681,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мемнам</l>
          <stg>
@@ -1702,8 +1702,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мемнан</l>
          <stg>
@@ -1723,8 +1723,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мо</l>
          <stg>
@@ -1744,8 +1744,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>могай</l>
          <stg>
@@ -1765,8 +1765,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>могай-тугай</l>
          <stg>
@@ -1786,8 +1786,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>могыч</l>
          <stg>
@@ -1807,8 +1807,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>молан</l>
          <stg>
@@ -1828,8 +1828,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>молан-гынат</l>
          <stg>
@@ -1849,8 +1849,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мом</l>
          <stg>
@@ -1870,8 +1870,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мом-гынат</l>
          <stg>
@@ -1891,8 +1891,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мон</l>
          <stg>
@@ -1912,8 +1912,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мон-гынат</l>
          <stg>
@@ -1933,8 +1933,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мош</l>
          <stg>
@@ -1954,8 +1954,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мый</l>
          <stg>
@@ -1975,8 +1975,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мыйым</l>
          <stg>
@@ -1996,8 +1996,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мыйын</l>
          <stg>
@@ -2017,8 +2017,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мыланем</l>
          <stg>
@@ -2038,8 +2038,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мыланна</l>
          <stg>
@@ -2059,8 +2059,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мыняр</l>
          <stg>
@@ -2080,8 +2080,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мыняр-гынат</l>
          <stg>
@@ -2101,8 +2101,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нигӧ</l>
          <stg>
@@ -2122,8 +2122,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нигузе</l>
          <stg>
@@ -2143,8 +2143,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нигунам</l>
          <stg>
@@ -2164,8 +2164,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нигунамат</l>
          <stg>
@@ -2185,8 +2185,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нигуш</l>
          <stg>
@@ -2206,8 +2206,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нигушан</l>
          <stg>
@@ -2227,8 +2227,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нигушеч</l>
          <stg>
@@ -2248,8 +2248,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нигушечын</l>
          <stg>
@@ -2269,8 +2269,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нигушто</l>
          <stg>
@@ -2290,8 +2290,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нимат</l>
          <stg>
@@ -2311,8 +2311,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нимо</l>
          <stg>
@@ -2332,8 +2332,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нимогай</l>
          <stg>
@@ -2353,8 +2353,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нимыняр</l>
          <stg>
@@ -2374,8 +2374,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>садлан</l>
          <stg>
@@ -2395,8 +2395,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>те</l>
          <stg>
@@ -2416,8 +2416,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тембал</l>
          <stg>
@@ -2437,8 +2437,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тендам</l>
          <stg>
@@ -2458,8 +2458,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тендан</l>
          <stg>
@@ -2479,8 +2479,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тидӱлан</l>
          <stg>
@@ -2500,8 +2500,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тидат-тудат</l>
          <stg>
@@ -2521,8 +2521,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>то</l>
          <stg>
@@ -2542,8 +2542,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тугай</l>
          <stg>
@@ -2563,8 +2563,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>туге</l>
          <stg>
@@ -2584,8 +2584,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тудлан</l>
          <stg>
@@ -2605,8 +2605,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тудлан</l>
          <stg>
@@ -2626,8 +2626,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тудым</l>
          <stg>
@@ -2647,8 +2647,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тудым</l>
          <stg>
@@ -2668,8 +2668,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тудын</l>
          <stg>
@@ -2689,8 +2689,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тудын</l>
          <stg>
@@ -2710,8 +2710,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тунам</l>
          <stg>
@@ -2731,8 +2731,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тунар</l>
          <stg>
@@ -2752,8 +2752,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>туш</l>
          <stg>
@@ -2773,8 +2773,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тушак</l>
          <stg>
@@ -2794,8 +2794,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тушан</l>
          <stg>
@@ -2815,8 +2815,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тушеч</l>
          <stg>
@@ -2836,8 +2836,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тушечын</l>
          <stg>
@@ -2857,8 +2857,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ты</l>
          <stg>
@@ -2878,8 +2878,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгай</l>
          <stg>
@@ -2899,8 +2899,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгат</l>
          <stg>
@@ -2920,8 +2920,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгат-тугат</l>
          <stg>
@@ -2941,8 +2941,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тый</l>
          <stg>
@@ -2962,8 +2962,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱйым</l>
          <stg>
@@ -2983,8 +2983,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱйын</l>
          <stg>
@@ -3004,8 +3004,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыланда</l>
          <stg>
@@ -3025,8 +3025,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыланет</l>
          <stg>
@@ -3046,8 +3046,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тылат</l>
          <stg>
@@ -3067,8 +3067,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тылеч</l>
          <stg>
@@ -3088,8 +3088,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тынар</l>
          <stg>
@@ -3109,8 +3109,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тынарак</l>
          <stg>
@@ -3130,8 +3130,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыш</l>
          <stg>
@@ -3151,8 +3151,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тышак</l>
          <stg>
@@ -3172,8 +3172,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тышан</l>
          <stg>
@@ -3193,8 +3193,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тышан-тушан</l>
          <stg>
@@ -3214,8 +3214,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тышеч</l>
          <stg>
@@ -3235,8 +3235,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тышечын</l>
          <stg>
@@ -3256,8 +3256,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тышеч-тушеч</l>
          <stg>
@@ -3277,8 +3277,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тышкат-тушкат</l>
          <stg>
@@ -3298,8 +3298,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чыла</l>
          <stg>
@@ -3319,8 +3319,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкаланда</l>
          <stg>
@@ -3340,8 +3340,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шканда</l>
          <stg>
@@ -3361,8 +3361,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкаланем</l>
          <stg>
@@ -3382,8 +3382,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шканем</l>
          <stg>
@@ -3403,8 +3403,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкаланет</l>
          <stg>
@@ -3424,8 +3424,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шканет</l>
          <stg>
@@ -3445,8 +3445,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкаланна</l>
          <stg>
@@ -3466,8 +3466,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шканна</l>
          <stg>
@@ -3487,8 +3487,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкаланышт</l>
          <stg>
@@ -3508,8 +3508,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шканышт</l>
          <stg>
@@ -3529,8 +3529,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шке</l>
          <stg>
@@ -3550,8 +3550,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкемым</l>
          <stg>
@@ -3571,8 +3571,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкемын</l>
          <stg>
@@ -3592,8 +3592,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкенам</l>
          <stg>
@@ -3613,8 +3613,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкенан</l>
          <stg>
@@ -3634,8 +3634,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкендам</l>
          <stg>
@@ -3655,8 +3655,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкендан</l>
          <stg>
@@ -3676,8 +3676,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкендым</l>
          <stg>
@@ -3697,8 +3697,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкендын</l>
          <stg>
@@ -3718,8 +3718,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкенжым</l>
          <stg>
@@ -3739,8 +3739,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкенжын</l>
          <stg>
@@ -3760,8 +3760,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкеныштым</l>
          <stg>
@@ -3781,8 +3781,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкеныштын</l>
          <stg>
@@ -3802,8 +3802,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>южгунам</l>
          <stg>
@@ -3823,8 +3823,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>южиктышт</l>
          <stg>
@@ -3844,8 +3844,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кунар</l>
          <stg>
@@ -3865,8 +3865,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-куште</l>
          <stg>
@@ -3886,8 +3886,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-куде</l>
          <stg>
@@ -3907,8 +3907,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-кушке</l>
          <stg>
@@ -3928,8 +3928,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-могайе</l>
          <stg>
@@ -3949,8 +3949,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-могудеште</l>
          <stg>
@@ -3970,8 +3970,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>весе</l>
          <stg>
@@ -3991,8 +3991,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>икме</l>
          <stg>
@@ -4012,8 +4012,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаже</l>
          <stg>
@@ -4033,8 +4033,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж-кӱшке</l>
          <stg>
@@ -4054,8 +4054,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж-кӱште</l>
          <stg>
@@ -4075,8 +4075,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж-могайе</l>
          <stg>
@@ -4096,8 +4096,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктаж-мыняре</l>
          <stg>
@@ -4117,8 +4117,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>икте</l>
          <stg>
@@ -4138,8 +4138,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>икте-весе</l>
          <stg>
@@ -4159,8 +4159,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кажне</l>
          <stg>
@@ -4180,8 +4180,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек-куде</l>
          <stg>
@@ -4201,8 +4201,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек-кушке</l>
          <stg>
@@ -4222,8 +4222,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек-куште</l>
          <stg>
@@ -4243,8 +4243,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-куде</l>
          <stg>
@@ -4264,8 +4264,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-кушке</l>
          <stg>
@@ -4285,8 +4285,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеч-куште</l>
          <stg>
@@ -4306,8 +4306,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кувеке</l>
          <stg>
@@ -4327,8 +4327,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кувелне</l>
          <stg>
@@ -4348,8 +4348,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>куде</l>
          <stg>
@@ -4369,8 +4369,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>куде</l>
          <stg>
@@ -4390,8 +4390,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кусе</l>
          <stg>
@@ -4411,8 +4411,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушке</l>
          <stg>
@@ -4432,8 +4432,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушке</l>
          <stg>
@@ -4453,8 +4453,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>куште</l>
          <stg>
@@ -4474,8 +4474,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>могайе</l>
          <stg>
@@ -4495,8 +4495,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>могудеште</l>
          <stg>
@@ -4516,8 +4516,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>моле</l>
          <stg>
@@ -4537,8 +4537,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мочоле</l>
          <stg>
@@ -4558,8 +4558,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мыняре</l>
          <stg>
@@ -4579,8 +4579,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мынярымше</l>
          <stg>
@@ -4600,8 +4600,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нигуде</l>
          <stg>
@@ -4621,8 +4621,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нигушке</l>
          <stg>
@@ -4642,8 +4642,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нимогайе</l>
          <stg>
@@ -4663,8 +4663,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нимыняре</l>
          <stg>
@@ -4684,8 +4684,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нине</l>
          <stg>
@@ -4705,8 +4705,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нине</l>
          <stg>
@@ -4726,8 +4726,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нуне</l>
          <stg>
@@ -4747,8 +4747,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нуне</l>
          <stg>
@@ -4768,8 +4768,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>саде</l>
          <stg>
@@ -4789,8 +4789,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сандене</l>
          <stg>
@@ -4810,8 +4810,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тиде</l>
          <stg>
@@ -4831,8 +4831,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тугане</l>
          <stg>
@@ -4852,8 +4852,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>туде</l>
          <stg>
@@ -4873,8 +4873,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>туде</l>
          <stg>
@@ -4894,8 +4894,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тудыже</l>
          <stg>
@@ -4915,8 +4915,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тунаре</l>
          <stg>
@@ -4936,8 +4936,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тушке</l>
          <stg>
@@ -4957,8 +4957,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>туште</l>
          <stg>
@@ -4978,8 +4978,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгане</l>
          <stg>
@@ -4999,8 +4999,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыге</l>
          <stg>
@@ -5020,8 +5020,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тынаре</l>
          <stg>
@@ -5041,8 +5041,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тышке</l>
          <stg>
@@ -5062,8 +5062,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тышке-тушке</l>
          <stg>
@@ -5083,8 +5083,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыште</l>
          <stg>
@@ -5104,8 +5104,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыште-туште</l>
          <stg>
@@ -5125,8 +5125,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкаланже</l>
          <stg>
@@ -5146,8 +5146,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шканже</l>
          <stg>
@@ -5167,8 +5167,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>южиктыже</l>
          <stg>
@@ -5188,8 +5188,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>юже</l>
          <stg>
@@ -5209,8 +5209,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>южыже</l>
          <stg>
@@ -5230,8 +5230,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>седе</l>
          <stg>
@@ -5251,8 +5251,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кунаре</l>
          <stg>
@@ -5272,5 +5272,5 @@
             <t/>
          </tg>
       </mg>
-   </entry>
+   </e>
 </r>

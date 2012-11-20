@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+   <e>
       <lg>
          <l>садак</l>
          <stg>
@@ -22,8 +22,8 @@
             <t>yhtä kaikki K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>садиктак</l>
          <stg>
@@ -43,8 +43,8 @@
             <t>yhtä kaikki K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>я</l>
          <stg>
@@ -64,8 +64,8 @@
             <t>milloin...milloin; tai, joko...tai K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пуйте</l>
          <stg>
@@ -85,8 +85,8 @@
             <t>ikään kuin K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>теве</l>
          <stg>
@@ -106,8 +106,8 @@
             <t>milloin...milloin K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>а</l>
          <stg>
@@ -128,8 +128,8 @@
          </tg>
       </mg>
       <!-- At some point K, but K0 seems better -->
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала</l>
          <stg>
@@ -149,8 +149,8 @@
             <t>tai K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гын</l>
          <stg>
@@ -170,8 +170,8 @@
             <t>jos; koska; sen sijaan K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>да</l>
          <stg>
@@ -191,8 +191,8 @@
             <t>ja; mutta K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ден</l>
          <stg>
@@ -212,8 +212,8 @@
             <t>(vain nominien rinnastus) ja K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>дык</l>
          <stg>
@@ -233,8 +233,8 @@
             <t>jos K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек</l>
          <stg>
@@ -254,8 +254,8 @@
             <t>vaikka(kin)/(-kaan ei), joskin/kaan (ei) K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ман</l>
          <stg>
@@ -275,8 +275,8 @@
             <t>että, jotta K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>манын</l>
          <stg>
@@ -296,8 +296,8 @@
             <t>että; jotta K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>но</l>
          <stg>
@@ -317,8 +317,8 @@
             <t>mutta K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>что</l>
          <stg>
@@ -338,8 +338,8 @@
             <t>että K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чтобы</l>
          <stg>
@@ -359,8 +359,8 @@
             <t>jotta K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>але</l>
          <stg>
@@ -380,8 +380,8 @@
             <t>vai; tai; eli K</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тольке</l>
          <stg>
@@ -401,5 +401,5 @@
             <t>mutta K</t>
          </tg>
       </mg>
-   </entry>
+   </e>
 </r>
