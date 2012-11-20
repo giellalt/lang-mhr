@@ -2,127 +2,2587 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<entry><lg><l>вес</l><stg><st Contlex="KvO">вес</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>toinen KvO</t></tg></mg></e></entry>
-<entry><lg><l>визыт</l><stg><st Contlex="KvK">визыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>viisi KvK</t></tg></mg></e></entry>
-<entry><lg><l>визытын</l><stg><st Contlex="KvKoll">визытын</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>viidestään KvKoll</t></tg></mg></e></entry>
-<entry><lg><l>вич</l><stg><st Contlex="KvK">вич</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>viisi KvK</t></tg></mg></e></entry>
-<entry><lg><l>ик</l><stg><st Contlex="KvK">ик</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yksi KvK</t></tg></mg></e></entry>
-<entry><lg><l>индеш</l><stg><st Contlex="KvO">индеш</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhdeksän KvO</t></tg></mg></e></entry>
-<entry><lg><l>индешын</l><stg><st Contlex="KvKoll">индешын</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhdeksästään KvKoll</t></tg></mg></e></entry>
-<entry><lg><l>индешлу</l><stg><st Contlex="KvO">индешлу</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhdeksänkymmentä KvO</t></tg></mg></e></entry>
-<entry><lg><l>кандаш</l><stg><st Contlex="KvK">кандаш</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdeksan KvK</t></tg></mg></e></entry>
-<entry><lg><l>кандашын</l><stg><st Contlex="KvKoll">кандашын</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdeksastaan KvKoll</t></tg></mg></e></entry>
-<entry><lg><l>кандашлу</l><stg><st Contlex="KvK">кандашлу</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdeksankymmentä KvK</t></tg></mg></e></entry>
-<entry><lg><l>кок</l><stg><st Contlex="KvK">кок</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kaksi KvK</t></tg></mg></e></entry>
-<entry><lg><l>кокыт</l><stg><st Contlex="KvK">кокыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kaksi KvK</t></tg></mg></e></entry>
-<entry><lg><l>коктыт</l><stg><st Contlex="KvK">коктыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kaksi KvK</t></tg></mg></e></entry>
-<entry><lg><l>коктын</l><stg><st Contlex="KvKoll">коктын</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahden (kesken) KvKoll</t></tg></mg></e></entry>
-<entry><lg><l>куд</l><stg><st Contlex="KvK">куд</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kuusi KvK</t></tg></mg></e></entry>
-<entry><lg><l>кудыт</l><stg><st Contlex="KvK">кудыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kuusi KvK</t></tg></mg></e></entry>
-<entry><lg><l>кудытын</l><stg><st Contlex="KvKoll">кудытын</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kuudestaan KvKoll</t></tg></mg></e></entry>
-<entry><lg><l>кум</l><stg><st Contlex="KvK">кум</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kolme KvK</t></tg></mg></e></entry>
-<entry><lg><l>кумыт</l><stg><st Contlex="KvK">кумыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kolme KvK</t></tg></mg></e></entry>
-<entry><lg><l>кумынек</l><stg><st Contlex="KvKoll">кумынек</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kaikki kolme KvKoll</t></tg></mg></e></entry>
-<entry><lg><l>латвизыт</l><stg><st Contlex="KvK">латвизыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>viisitoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латвич</l><stg><st Contlex="KvK">латвич</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>viisitoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латик</l><stg><st Contlex="KvK">латик</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yksitoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латиктыт</l><stg><st Contlex="KvK">латиктыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yksitoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латиндеш</l><stg><st Contlex="KvK">латиндеш</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhdeksäntoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латкандаш</l><stg><st Contlex="KvK">латкандаш</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdeksantoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латкок</l><stg><st Contlex="KvK">латкок</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kaksitoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латкокыт</l><stg><st Contlex="KvK">латкокыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kaksitoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латкоктыт</l><stg><st Contlex="KvK">латкоктыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kaksitoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латкуд</l><stg><st Contlex="KvK">латкуд</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kuusitoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латкудыт</l><stg><st Contlex="KvK">латкудыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kuusitoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латкум</l><stg><st Contlex="KvK">латкум</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kolmetoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латкумыт</l><stg><st Contlex="KvK">латкумыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kolmetoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латныл</l><stg><st Contlex="KvK">латныл</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljätoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латнылыт</l><stg><st Contlex="KvK">латнылыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljätoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латшым</l><stg><st Contlex="KvK">латшым</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>seitsemäntoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латшымыт</l><stg><st Contlex="KvK">латшымыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>seitsemäntoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>лу</l><stg><st Contlex="KvK">лу</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kymmenen KvK</t></tg></mg></e></entry>
-<entry><lg><l>луын</l><stg><st Contlex="KvKoll">луын</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kymmenestään KvKoll</t></tg></mg></e></entry>
-<entry><lg><l>миллиард</l><stg><st Contlex="KvK">миллиард</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>miljardi KvK</t></tg></mg></e></entry>
-<entry><lg><l>миллион</l><stg><st Contlex="KvK">миллион</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>miljoona KvK</t></tg></mg></e></entry>
-<entry><lg><l>ноль</l><stg><st Contlex="KvK">ноль</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>nolla KvK</t></tg></mg></e></entry>
-<entry><lg><l>ныл</l><stg><st Contlex="KvK">ныл</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljä KvK</t></tg></mg></e></entry>
-<entry><lg><l>нылыт</l><stg><st Contlex="KvK">нылыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljä KvK</t></tg></mg></e></entry>
-<entry><lg><l>нылынек</l><stg><st Contlex="KvK">нылынек</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kaikki neljä KvK</t></tg></mg></e></entry>
-<entry><lg><l>нылытын</l><stg><st Contlex="KvKoll">нылытын</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljästään KvKoll</t></tg></mg></e></entry>
-<entry><lg><l>осьмушка</l><stg><st Contlex="KvMurt">осьмушка</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdeksannes KvMurt</t></tg></mg></e></entry>
-<entry><lg><l>первый</l><stg><st Contlex="KvO">первый</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ensimmäinen KvO</t></tg></mg></e></entry>
-<entry><lg><l>тесте</l><stg><st Contlex="Kv-a/e">тесте</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kymmenen KvK</t></tg></mg></e></entry>
-<entry><lg><l>тестелен</l><stg><st Contlex="KvKoll">тестелен</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kymmenittäin KvKoll</t></tg></mg></e></entry>
-<entry><lg><l>триллион</l><stg><st Contlex="KvK">триллион</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>triljoona KvK</t></tg></mg></e></entry>
-<entry><lg><l>тӱжем</l><stg><st Contlex="KvK">тӱжем</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>tuhat KvK</t></tg></mg></e></entry>
-<entry><lg><l>чырык</l><stg><st Contlex="KvMurt">чырык</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljännes KvMurt</t></tg></mg></e></entry>
-<entry><lg><l>шагал</l><stg><st Contlex="KvInd">шагал</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>vähän KvInd</t></tg></mg></e></entry>
-<entry><lg><l>шукын</l><stg><st Contlex="KvKoll">шукын</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>paljon KvKoll</t></tg></mg></e></entry>
-<entry><lg><l>шуко-шагал</l><stg><st Contlex="KvInd">шуко-шагал</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ei paljoa eikä vähää KvInd</t></tg></mg></e></entry>
-<entry><lg><l>шым</l><stg><st Contlex="KvK">шым</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>seitsemän KvK</t></tg></mg></e></entry>
-<entry><lg><l>шымыт</l><stg><st Contlex="KvK">шымыт</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>seitsemän KvK</t></tg></mg></e></entry>
-<entry><lg><l>шымлу</l><stg><st Contlex="KvK">шымлу</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>seitsemänkymmentä KvK</t></tg></mg></e></entry>
-<entry><lg><l>шымытын</l><stg><st Contlex="KvKoll">шымытын</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>seitsemistään KvKoll</t></tg></mg></e></entry>
-<entry><lg><l>весе</l><stg><st Contlex="KvO">весе1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>toinen KvO</t></tg></mg></e></entry>
-<entry><lg><l>визымше</l><stg><st Contlex="KvO">визымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>viides KvO</t></tg></mg></e></entry>
-<entry><lg><l>витле</l><stg><st Contlex="KvK">витле1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>viisikymmentä KvK</t></tg></mg></e></entry>
-<entry><lg><l>витлымше</l><stg><st Contlex="KvO">витлымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>viideskymmenes KvO</t></tg></mg></e></entry>
-<entry><lg><l>вичшӱде</l><stg><st Contlex="KvK">вичшӱде1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>viisisataa KvK</t></tg></mg></e></entry>
-<entry><lg><l>икте</l><stg><st Contlex="KvK">икте1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yksi KvK</t></tg></mg></e></entry>
-<entry><lg><l>икымше</l><stg><st Contlex="KvO">икымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ensimmäinen KvO</t></tg></mg></e></entry>
-<entry><lg><l>индеше</l><stg><st Contlex="KvO">индеше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhdeksän KvO</t></tg></mg></e></entry>
-<entry><lg><l>индешымше</l><stg><st Contlex="KvK">индешымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhdeksäs KvK</t></tg></mg></e></entry>
-<entry><lg><l>индешлуымше</l><stg><st Contlex="KvK">индешлуымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhdeksäskymmenes KvK</t></tg></mg></e></entry>
-<entry><lg><l>индешшӱде</l><stg><st Contlex="KvO">индешшӱде1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhdeksänsataa KvO</t></tg></mg></e></entry>
-<entry><lg><l>индешшӱдымше</l><stg><st Contlex="KvK">индешшӱдымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhdeksässadas KvK</t></tg></mg></e></entry>
-<entry><lg><l>кандаше</l><stg><st Contlex="KvK">кандаше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdeksan KvK</t></tg></mg></e></entry>
-<entry><lg><l>кандаымше</l><stg><st Contlex="KvO">кандаымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdeksas KvO</t></tg></mg></e></entry>
-<entry><lg><l>кандашлымше</l><stg><st Contlex="KvO">кандашлымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdeksaskymmenes KvO</t></tg></mg></e></entry>
-<entry><lg><l>кандашшӱде</l><stg><st Contlex="KvK">кандашшӱде1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdeksansataa KvK</t></tg></mg></e></entry>
-<entry><lg><l>кандашшыдмше</l><stg><st Contlex="KvO">кандашшыдмше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdeksassadas KvO</t></tg></mg></e></entry>
-<entry><lg><l>кокымше</l><stg><st Contlex="KvO">кокымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>toinen KvO</t></tg></mg></e></entry>
-<entry><lg><l>коле</l><stg><st Contlex="KvK">коле1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kaksikymmentä KvK</t></tg></mg></e></entry>
-<entry><lg><l>кудымше</l><stg><st Contlex="KvO">кудымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kuudes KvO</t></tg></mg></e></entry>
-<entry><lg><l>кудле</l><stg><st Contlex="KvK">кудле1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kuusikymmentä KvK</t></tg></mg></e></entry>
-<entry><lg><l>кудлымше</l><stg><st Contlex="KvO">кудлымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kuudeskymmenes KvO</t></tg></mg></e></entry>
-<entry><lg><l>кудшӱде</l><stg><st Contlex="KvK">кудшӱде1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kuusisataa KvK</t></tg></mg></e></entry>
-<entry><lg><l>кудшӱдымше</l><stg><st Contlex="KvO">кудшӱдымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kuudessadas KvO</t></tg></mg></e></entry>
-<entry><lg><l>кумше</l><stg><st Contlex="KvO">кумше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kolmas KvO</t></tg></mg></e></entry>
-<entry><lg><l>кумле</l><stg><st Contlex="KvK">кумле1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kolmekymmentä KvK</t></tg></mg></e></entry>
-<entry><lg><l>кумлымше</l><stg><st Contlex="KvO">кумлымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kolmaskymmenes KvO</t></tg></mg></e></entry>
-<entry><lg><l>кумше</l><stg><st Contlex="KvMurt">кумше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kolmasosa KvMurt</t></tg></mg></e></entry>
-<entry><lg><l>кумшӱде</l><stg><st Contlex="KvK">кумшӱде1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kolmesataa KvK</t></tg></mg></e></entry>
-<entry><lg><l>кумшӱдымше</l><stg><st Contlex="KvO">кумшӱдымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kolmassadas KvO</t></tg></mg></e></entry>
-<entry><lg><l>латвизымше</l><stg><st Contlex="KvO">латвизымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>viidestoista KvO</t></tg></mg></e></entry>
-<entry><lg><l>латикте</l><stg><st Contlex="KvK">латикте1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yksitoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латикымше</l><stg><st Contlex="KvO">латикымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhdestoista KvO</t></tg></mg></e></entry>
-<entry><lg><l>латиндеше</l><stg><st Contlex="KvK">латиндеше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhdeksäntoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латиндешымше</l><stg><st Contlex="KvO">латиндешымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>yhdeksästoista KvO</t></tg></mg></e></entry>
-<entry><lg><l>латкандаше</l><stg><st Contlex="KvK">латкандаше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdeksantoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>латкандашымше</l><stg><st Contlex="KvO">латкандашымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdeksastoista KvO</t></tg></mg></e></entry>
-<entry><lg><l>латкокымше</l><stg><st Contlex="KvO">латкокымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kahdestoista KvO</t></tg></mg></e></entry>
-<entry><lg><l>латкудымше</l><stg><st Contlex="KvO">латкудымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kuudestoista KvO</t></tg></mg></e></entry>
-<entry><lg><l>латкумше</l><stg><st Contlex="KvO">латкумше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kolmastoista KvO</t></tg></mg></e></entry>
-<entry><lg><l>латнылымше</l><stg><st Contlex="KvO">латнылымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljästoista KvO</t></tg></mg></e></entry>
-<entry><lg><l>латшымше</l><stg><st Contlex="KvO">латшымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>seitsemästoista KvO</t></tg></mg></e></entry>
-<entry><lg><l>лучке</l><stg><st Contlex="KvK">лучке1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>viisitoista KvK</t></tg></mg></e></entry>
-<entry><lg><l>лучкымше</l><stg><st Contlex="KvO">лучкымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>viidestoista KvO</t></tg></mg></e></entry>
-<entry><lg><l>луымше</l><stg><st Contlex="KvO">луымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kymmenes KvO</t></tg></mg></e></entry>
-<entry><lg><l>нылле</l><stg><st Contlex="KvK">нылле1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljäkymmentä KvK</t></tg></mg></e></entry>
-<entry><lg><l>ныллымше</l><stg><st Contlex="KvK">ныллымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljäkymmentä KvK</t></tg></mg></e></entry>
-<entry><lg><l>нылшӱде</l><stg><st Contlex="KvK">нылшӱде1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljäsataa KvK</t></tg></mg></e></entry>
-<entry><lg><l>нылшӱдымше</l><stg><st Contlex="KvO">нылшӱдымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljässadas KvO</t></tg></mg></e></entry>
-<entry><lg><l>нылымше</l><stg><st Contlex="KvO">нылымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljäs KvO</t></tg></mg></e></entry>
-<entry><lg><l>нылымше</l><stg><st Contlex="KvMurt">нылымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>neljännes KvMurt</t></tg></mg></e></entry>
-<entry><lg><l>пеле</l><stg><st Contlex="KvMurt">пеле1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>puoli KvMurt</t></tg></mg></e></entry>
-<entry><lg><l>тӱжемле</l><stg><st Contlex="KvKoll">тӱжемле1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>tuhansittain KvKoll</t></tg></mg></e></entry>
-<entry><lg><l>тӱжемше</l><stg><st Contlex="KvO">тӱжемше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>tuhannes KvO</t></tg></mg></e></entry>
-<entry><lg><l>шуке</l><stg><st Contlex="KvInd">шуке1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>paljon; monet; kauan KvInd</t></tg></mg></e></entry>
-<entry><lg><l>шӱде</l><stg><st Contlex="KvK">шӱде1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>sata KvK</t></tg></mg></e></entry>
-<entry><lg><l>шӱдымше</l><stg><st Contlex="KvO">шӱдымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>sadas KvO</t></tg></mg></e></entry>
-<entry><lg><l>шымше</l><stg><st Contlex="KvO">шымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>seitsemäs KvO</t></tg></mg></e></entry>
-<entry><lg><l>шымлуымше</l><stg><st Contlex="KvO">шымлуымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>seitsemäskymmenes KvO</t></tg></mg></e></entry>
-<entry><lg><l>шымшӱде</l><stg><st Contlex="KvK">шымшӱде1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>seitsemänsataa KvK</t></tg></mg></e></entry>
-<entry><lg><l>шымшӱдымше</l><stg><st Contlex="KvO">шымшӱдымше1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>seitsemässadas KvO</t></tg></mg></e></entry>
-<entry><lg><l>шымыте</l><stg><st Contlex="KvKoll">шымыте1</st></stg></lg><pos>QNT</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>seitsemistään, seitsenkertaisesti KvKoll</t></tg></mg></e></entry>
+   <entry>
+      <lg>
+         <l>вес</l>
+         <stg>
+            <st Contlex="KvO">вес</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>toinen KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>визыт</l>
+         <stg>
+            <st Contlex="KvK">визыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>viisi KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>визытын</l>
+         <stg>
+            <st Contlex="KvKoll">визытын</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>viidestään KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вич</l>
+         <stg>
+            <st Contlex="KvK">вич</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>five</t>
+         </tg>
+         <tg lang="fin">
+            <t>viisi KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ик</l>
+         <stg>
+            <st Contlex="KvK">ик</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>one</t>
+         </tg>
+         <tg lang="fin">
+            <t>yksi KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>индеш</l>
+         <stg>
+            <st Contlex="KvO">индеш</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>nine</t>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksän KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>индешын</l>
+         <stg>
+            <st Contlex="KvKoll">индешын</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksästään KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>индешлу</l>
+         <stg>
+            <st Contlex="KvO">индешлу</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>ninety</t>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksänkymmentä KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кандаш</l>
+         <stg>
+            <st Contlex="KvK">кандаш</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>eight</t>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksan KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кандашын</l>
+         <stg>
+            <st Contlex="KvKoll">кандашын</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksastaan KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кандашлу</l>
+         <stg>
+            <st Contlex="KvK">кандашлу</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>eighty</t>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksankymmentä KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кок</l>
+         <stg>
+            <st Contlex="KvK">кок</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>two</t>
+         </tg>
+         <tg lang="fin">
+            <t>kaksi KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кокыт</l>
+         <stg>
+            <st Contlex="KvK">кокыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>two</t>
+         </tg>
+         <tg lang="fin">
+            <t>kaksi KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>коктыт</l>
+         <stg>
+            <st Contlex="KvK">коктыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kaksi KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>коктын</l>
+         <stg>
+            <st Contlex="KvKoll">коктын</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kahden (kesken) KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>куд</l>
+         <stg>
+            <st Contlex="KvK">куд</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>six</t>
+         </tg>
+         <tg lang="fin">
+            <t>kuusi KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кудыт</l>
+         <stg>
+            <st Contlex="KvK">кудыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>six</t>
+         </tg>
+         <tg lang="fin">
+            <t>kuusi KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кудытын</l>
+         <stg>
+            <st Contlex="KvKoll">кудытын</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kuudestaan KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кум</l>
+         <stg>
+            <st Contlex="KvK">кум</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>three</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolme KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кумыт</l>
+         <stg>
+            <st Contlex="KvK">кумыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>three</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolme KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кумынек</l>
+         <stg>
+            <st Contlex="KvKoll">кумынек</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kaikki kolme KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латвизыт</l>
+         <stg>
+            <st Contlex="KvK">латвизыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t>fifteen</t>
+         </tg>
+         <tg lang="fin">
+            <t>viisitoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латвич</l>
+         <stg>
+            <st Contlex="KvK">латвич</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>viisitoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латик</l>
+         <stg>
+            <st Contlex="KvK">латик</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yksitoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латиктыт</l>
+         <stg>
+            <st Contlex="KvK">латиктыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yksitoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латиндеш</l>
+         <stg>
+            <st Contlex="KvK">латиндеш</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksäntoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкандаш</l>
+         <stg>
+            <st Contlex="KvK">латкандаш</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksantoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкок</l>
+         <stg>
+            <st Contlex="KvK">латкок</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kaksitoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкокыт</l>
+         <stg>
+            <st Contlex="KvK">латкокыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kaksitoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкоктыт</l>
+         <stg>
+            <st Contlex="KvK">латкоктыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kaksitoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкуд</l>
+         <stg>
+            <st Contlex="KvK">латкуд</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kuusitoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкудыт</l>
+         <stg>
+            <st Contlex="KvK">латкудыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kuusitoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкум</l>
+         <stg>
+            <st Contlex="KvK">латкум</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kolmetoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкумыт</l>
+         <stg>
+            <st Contlex="KvK">латкумыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kolmetoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латныл</l>
+         <stg>
+            <st Contlex="KvK">латныл</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljätoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латнылыт</l>
+         <stg>
+            <st Contlex="KvK">латнылыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljätoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латшым</l>
+         <stg>
+            <st Contlex="KvK">латшым</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemäntoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латшымыт</l>
+         <stg>
+            <st Contlex="KvK">латшымыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemäntoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>лу</l>
+         <stg>
+            <st Contlex="KvK">лу</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kymmenen KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>луын</l>
+         <stg>
+            <st Contlex="KvKoll">луын</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kymmenestään KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>миллиард</l>
+         <stg>
+            <st Contlex="KvK">миллиард</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>miljardi KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>миллион</l>
+         <stg>
+            <st Contlex="KvK">миллион</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>miljoona KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ноль</l>
+         <stg>
+            <st Contlex="KvK">ноль</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>nolla KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ныл</l>
+         <stg>
+            <st Contlex="KvK">ныл</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljä KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>нылыт</l>
+         <stg>
+            <st Contlex="KvK">нылыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljä KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>нылынек</l>
+         <stg>
+            <st Contlex="KvK">нылынек</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kaikki neljä KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>нылытын</l>
+         <stg>
+            <st Contlex="KvKoll">нылытын</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljästään KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>осьмушка</l>
+         <stg>
+            <st Contlex="KvMurt">осьмушка</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksannes KvMurt</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>первый</l>
+         <stg>
+            <st Contlex="KvO">первый</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>ensimmäinen KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тесте</l>
+         <stg>
+            <st Contlex="Kv-a/e">тесте</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kymmenen KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тестелен</l>
+         <stg>
+            <st Contlex="KvKoll">тестелен</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kymmenittäin KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>триллион</l>
+         <stg>
+            <st Contlex="KvK">триллион</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>triljoona KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тӱжем</l>
+         <stg>
+            <st Contlex="KvK">тӱжем</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>tuhat KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чырык</l>
+         <stg>
+            <st Contlex="KvMurt">чырык</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljännes KvMurt</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шагал</l>
+         <stg>
+            <st Contlex="KvInd">шагал</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>vähän KvInd</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шукын</l>
+         <stg>
+            <st Contlex="KvKoll">шукын</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>paljon KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шуко-шагал</l>
+         <stg>
+            <st Contlex="KvInd">шуко-шагал</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>ei paljoa eikä vähää KvInd</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шым</l>
+         <stg>
+            <st Contlex="KvK">шым</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemän KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шымыт</l>
+         <stg>
+            <st Contlex="KvK">шымыт</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemän KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шымлу</l>
+         <stg>
+            <st Contlex="KvK">шымлу</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemänkymmentä KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шымытын</l>
+         <stg>
+            <st Contlex="KvKoll">шымытын</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemistään KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>весе</l>
+         <stg>
+            <st Contlex="KvO">весе1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>toinen KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>визымше</l>
+         <stg>
+            <st Contlex="KvO">визымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>viides KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>витле</l>
+         <stg>
+            <st Contlex="KvK">витле1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>viisikymmentä KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>витлымше</l>
+         <stg>
+            <st Contlex="KvO">витлымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>viideskymmenes KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вичшӱде</l>
+         <stg>
+            <st Contlex="KvK">вичшӱде1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>viisisataa KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>икте</l>
+         <stg>
+            <st Contlex="KvK">икте1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yksi KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>икымше</l>
+         <stg>
+            <st Contlex="KvO">икымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>ensimmäinen KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>индеше</l>
+         <stg>
+            <st Contlex="KvO">индеше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksän KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>индешымше</l>
+         <stg>
+            <st Contlex="KvK">индешымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksäs KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>индешлуымше</l>
+         <stg>
+            <st Contlex="KvK">индешлуымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksäskymmenes KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>индешшӱде</l>
+         <stg>
+            <st Contlex="KvO">индешшӱде1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksänsataa KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>индешшӱдымше</l>
+         <stg>
+            <st Contlex="KvK">индешшӱдымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksässadas KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кандаше</l>
+         <stg>
+            <st Contlex="KvK">кандаше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksan KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кандаымше</l>
+         <stg>
+            <st Contlex="KvO">кандаымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksas KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кандашлымше</l>
+         <stg>
+            <st Contlex="KvO">кандашлымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksaskymmenes KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кандашшӱде</l>
+         <stg>
+            <st Contlex="KvK">кандашшӱде1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksansataa KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кандашшыдмше</l>
+         <stg>
+            <st Contlex="KvO">кандашшыдмше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksassadas KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кокымше</l>
+         <stg>
+            <st Contlex="KvO">кокымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>toinen KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>коле</l>
+         <stg>
+            <st Contlex="KvK">коле1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kaksikymmentä KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кудымше</l>
+         <stg>
+            <st Contlex="KvO">кудымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kuudes KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кудле</l>
+         <stg>
+            <st Contlex="KvK">кудле1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kuusikymmentä KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кудлымше</l>
+         <stg>
+            <st Contlex="KvO">кудлымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kuudeskymmenes KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кудшӱде</l>
+         <stg>
+            <st Contlex="KvK">кудшӱде1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kuusisataa KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кудшӱдымше</l>
+         <stg>
+            <st Contlex="KvO">кудшӱдымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kuudessadas KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кумше</l>
+         <stg>
+            <st Contlex="KvO">кумше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kolmas KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кумле</l>
+         <stg>
+            <st Contlex="KvK">кумле1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kolmekymmentä KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кумлымше</l>
+         <stg>
+            <st Contlex="KvO">кумлымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kolmaskymmenes KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кумше</l>
+         <stg>
+            <st Contlex="KvMurt">кумше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kolmasosa KvMurt</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кумшӱде</l>
+         <stg>
+            <st Contlex="KvK">кумшӱде1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kolmesataa KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кумшӱдымше</l>
+         <stg>
+            <st Contlex="KvO">кумшӱдымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kolmassadas KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латвизымше</l>
+         <stg>
+            <st Contlex="KvO">латвизымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>viidestoista KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латикте</l>
+         <stg>
+            <st Contlex="KvK">латикте1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yksitoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латикымше</l>
+         <stg>
+            <st Contlex="KvO">латикымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yhdestoista KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латиндеше</l>
+         <stg>
+            <st Contlex="KvK">латиндеше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksäntoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латиндешымше</l>
+         <stg>
+            <st Contlex="KvO">латиндешымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksästoista KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкандаше</l>
+         <stg>
+            <st Contlex="KvK">латкандаше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksantoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкандашымше</l>
+         <stg>
+            <st Contlex="KvO">латкандашымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksastoista KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкокымше</l>
+         <stg>
+            <st Contlex="KvO">латкокымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kahdestoista KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкудымше</l>
+         <stg>
+            <st Contlex="KvO">латкудымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kuudestoista KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латкумше</l>
+         <stg>
+            <st Contlex="KvO">латкумше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kolmastoista KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латнылымше</l>
+         <stg>
+            <st Contlex="KvO">латнылымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljästoista KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>латшымше</l>
+         <stg>
+            <st Contlex="KvO">латшымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemästoista KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>лучке</l>
+         <stg>
+            <st Contlex="KvK">лучке1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>viisitoista KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>лучкымше</l>
+         <stg>
+            <st Contlex="KvO">лучкымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>viidestoista KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>луымше</l>
+         <stg>
+            <st Contlex="KvO">луымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kymmenes KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>нылле</l>
+         <stg>
+            <st Contlex="KvK">нылле1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljäkymmentä KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ныллымше</l>
+         <stg>
+            <st Contlex="KvK">ныллымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljäkymmentä KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>нылшӱде</l>
+         <stg>
+            <st Contlex="KvK">нылшӱде1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljäsataa KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>нылшӱдымше</l>
+         <stg>
+            <st Contlex="KvO">нылшӱдымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljässadas KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>нылымше</l>
+         <stg>
+            <st Contlex="KvO">нылымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljäs KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>нылымше</l>
+         <stg>
+            <st Contlex="KvMurt">нылымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>neljännes KvMurt</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>пеле</l>
+         <stg>
+            <st Contlex="KvMurt">пеле1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>puoli KvMurt</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тӱжемле</l>
+         <stg>
+            <st Contlex="KvKoll">тӱжемле1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>tuhansittain KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тӱжемше</l>
+         <stg>
+            <st Contlex="KvO">тӱжемше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>tuhannes KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шуке</l>
+         <stg>
+            <st Contlex="KvInd">шуке1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>paljon; monet; kauan KvInd</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шӱде</l>
+         <stg>
+            <st Contlex="KvK">шӱде1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>sata KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шӱдымше</l>
+         <stg>
+            <st Contlex="KvO">шӱдымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>sadas KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шымше</l>
+         <stg>
+            <st Contlex="KvO">шымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemäs KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шымлуымше</l>
+         <stg>
+            <st Contlex="KvO">шымлуымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemäskymmenes KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шымшӱде</l>
+         <stg>
+            <st Contlex="KvK">шымшӱде1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemänsataa KvK</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шымшӱдымше</l>
+         <stg>
+            <st Contlex="KvO">шымшӱдымше1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemässadas KvO</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шымыте</l>
+         <stg>
+            <st Contlex="KvKoll">шымыте1</st>
+         </stg>
+      </lg>
+      <pos>QNT</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemistään, seitsenkertaisesti KvKoll</t>
+         </tg>
+      </mg>
+   </entry>
 </r>

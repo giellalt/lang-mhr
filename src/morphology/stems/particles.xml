@@ -2,97 +2,1957 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<entry><lg><l>адыштан</l><stg><st Contlex="Pmuu">адыштан</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(lauseenlisäke, joka ilm. suuttumusta) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>ай</l><stg><st Contlex="Pmuu">ай</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>voi; (pahaa toivotettaessa) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>ай</l><stg><st Contlex="Pmuu">ай</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(pehmennettäessä käskyä tai pyyntöä) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>ала</l><stg><st Contlex="Pmuu">ала</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ehkäpä, (kond.) -isi-; tuskin Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>ане</l><stg><st Contlex="Pmuu">ане</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kyllä (+ kysytty V); (lauseenlisäke) niin, kyllä, jaa-a Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>анят</l><stg><st Contlex="Pmuu">анят</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ehkä, voi olla Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>буль-буль</l><stg><st Contlex="Pmuu">буль-буль</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(pulputuksesta) pulpul Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>бырлоч</l><stg><st Contlex="Pmuu">бырлоч</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>mäiskis, naps(is) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>вара</l><stg><st Contlex="Pmuu">вара</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(vahv. part. kys.l:ssa) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>вет</l><stg><st Contlex="Pmuu">вет</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>-hAn, varmaankin Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>вот</l><stg><st Contlex="Pmuu">вот</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kas niin Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>вудык-вудык</l><stg><st Contlex="Pmuu">вудык-вудык</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. jnk pörröisen huojumisesta) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>вуж-вуж</l><stg><st Contlex="Pmuu">вуж-вуж</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. tuulen huminaa) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>вузык</l><stg><st Contlex="Pmuu">вузык</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(jhk aineeseen sotkeutumisesta) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>выж-ж</l><stg><st Contlex="Pmuu">выж-ж</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. tuulen kevyestä huminasta) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>выргӱп</l><stg><st Contlex="Pmuu">выргӱп</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. kaatumisen hiljaisesta äänestä) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>вырлоч</l><stg><st Contlex="Pmuu">вырлоч</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr.) läiskis Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>вышт</l><stg><st Contlex="Pmuu">вышт</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. jnk kevyen liikkumisesta) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>гала</l><stg><st Contlex="Pmuu">гала</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(vahv. ja kysyvä) -hAn Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>гын</l><stg><st Contlex="Pmuu">гын</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>-kO; -hAn Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>да</l><stg><st Contlex="Pmuu">да</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>niin Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>дӱр-дӱр</l><stg><st Contlex="Pmuu">дӱр-дӱр</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. ukkosen jylinää) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>дыр</l><stg><st Contlex="Pmuu">дыр</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>-hAn Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>и</l><stg><st Contlex="Pmuu">и</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>-kin, -kAAn, -pA Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>йӧра</l><stg><st Contlex="Pmuu">йӧра</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>hyvä on Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>йывылдик</l><stg><st Contlex="Pmuu">йывылдик</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>katosi kuin tuhka tuuleen; (jnk puuttumisesta) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>йыли-юли</l><stg><st Contlex="Pmuu">йыли-юли</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(välkkyvästä yms.) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>йышт-юшт</l><stg><st Contlex="Pmuu">йышт-юшт</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. nopeasta liikkeestä) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кавуй</l><stg><st Contlex="Pmuu">кавуй</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>-pA, -hAn Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>калт-калт</l><stg><st Contlex="Pmuu">калт-калт</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kop kop Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>керек</l><stg><st Contlex="Pmuu">керек</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>hyvä on Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кигик-когок</l><stg><st Contlex="Pmuu">кигик-когок</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(hanhien huuto) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кис-кис</l><stg><st Contlex="Pmuu">кис-кис</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(kissan kuts.) kis kis Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>коп</l><stg><st Contlex="Pmuu">коп</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>hupsis Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кочыри-и-к</l><stg><st Contlex="Pmuu">кочыри-и-к</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. terävästä äänestä, kitinästä yms.) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кроп</l><stg><st Contlex="Pmuu">кроп</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr.) mäiskis Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>крӱп</l><stg><st Contlex="Pmuu">крӱп</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom.) hupsis Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кузе-гынат</l><stg><st Contlex="Pmuu">кузе-гынат</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kaikin mokomin, miten vain (halutaan) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кукареку-ку-у</l><stg><st Contlex="Pmuu">кукареку-ку-у</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom.) kukkokiekuu Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кӱш-ш</l><stg><st Contlex="Pmuu">кӱш-ш</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. lintujen häätämiseksi) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кыж-гож</l><stg><st Contlex="Pmuu">кыж-гож</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. havinaa) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кылт-калт</l><stg><st Contlex="Pmuu">кылт-калт</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom.) tiktak Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кычыр-кочыр</l><stg><st Contlex="Pmuu">кычыр-кочыр</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. narinaa, rapinaa) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кыштыр-коштыр</l><stg><st Contlex="Pmuu">кыштыр-коштыр</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. kahinaa) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>ларт-ларт-ларт</l><stg><st Contlex="Pmuu">ларт-ларт-ларт</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. ankan rääkätyksestä) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>лӱч</l><stg><st Contlex="Pmuu">лӱч</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom.) pum, pam Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>лыб-лыб-лыб</l><stg><st Contlex="Pmuu">лыб-лыб-лыб</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. värinä) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>лыдыр-ладыр</l><stg><st Contlex="Pmuu">лыдыр-ладыр</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. telegan äänistä, laahustavasta liikkumisesta) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>монь</l><stg><st Contlex="Pmuu">монь</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ynnä muuta sellaista Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>на</l><stg><st Contlex="Pmuu">на</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kas tuo(ssa), no Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>неужели</l><stg><st Contlex="Pmuu">неужели</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>todellako?, niinkö? Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>ни</l><stg><st Contlex="Pmuu">ни</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ei Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>ну</l><stg><st Contlex="Pmuu">ну</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>no Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>огла</l><stg><st Contlex="Pmuu">огла</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>olkoon(pa niin,) että Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>пис-пис-пис</l><stg><st Contlex="Pmuu">пис-пис-пис</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(koiran kutsu) tse tse Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>псльоп</l><stg><st Contlex="Pmuu">псльоп</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>loiskis Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>райзе</l><stg><st Contlex="Pmuu">райзе</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(kielto +) -kO...sitten, (myöntö +) -hAn Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>раш</l><stg><st Contlex="Pmuu">раш</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(on) kunnossa, selvää Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>рушт</l><stg><st Contlex="Pmuu">рушт</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. kaatumisen äänestä) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>тук-тук</l><stg><st Contlex="Pmuu">тук-тук</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kop kop Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>чай</l><stg><st Contlex="Pmuu">чай</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kai, ehkä, luultavasti Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>чияк-чияк</l><stg><st Contlex="Pmuu">чияк-чияк</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>piip piip (- kananpoikasten ääntelyä) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>чолт-чолт</l><stg><st Contlex="Pmuu">чолт-чолт</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kil kil Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>чоштыр-чоштыр</l><stg><st Contlex="Pmuu">чоштыр-чоштыр</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. leikkaavan sirpin äänestä) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>чыдыр-чодыр</l><stg><st Contlex="Pmuu">чыдыр-чодыр</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. puun paukkeesta sen palaessa) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>чырык</l><stg><st Contlex="Pmuu">чырык</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. hämmennystä, sekaannusta) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>шеремет</l><stg><st Contlex="Pmuu">шеремет</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(ilm. sääliä, pahoittelua, tyytymättömyyttä) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>шол</l><stg><st Contlex="Pmuu">шол</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>-hAn Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>шолдырдок</l><stg><st Contlex="Pmuu">шолдырдок</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom.) naps(is), raks(is) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>шолт-шолт</l><stg><st Contlex="Pmuu">шолт-шолт</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kop kop Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>шуй-шуй</l><stg><st Contlex="Pmuu">шуй-шуй</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. sydämenlyöntien kiihtyminen) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>шыве-шыве</l><stg><st Contlex="Pmuu">шыве-шыве</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>hys hys (kuiskinta) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>шылт-шолт</l><stg><st Contlex="Pmuu">шылт-шолт</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. lyönnin, koputuksen ääni) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>шыҥ-шыҥ</l><stg><st Contlex="Pmuu">шыҥ-шыҥ</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>S. temaS (tila) tulla täpätäyteen Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>шырт-шорт</l><stg><st Contlex="Pmuu">шырт-шорт</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. ryske, rätinä) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>эн</l><stg><st Contlex="Pmuu">эн</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kaikkein (superlatiivin muodostava part.) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>юргылдым-юргылдым</l><stg><st Contlex="Pmuu">юргылдым-юргылдым</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. loikkaus) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>юрт</l><stg><st Contlex="Pmuu">юрт</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. säikähdys) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>юшт</l><stg><st Contlex="Pmuu">юшт</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. hyppy) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>я</l><stg><st Contlex="Pmuu">я</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>-pA Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>вудо-вуде</l><stg><st Contlex="Pmuu">вудо-вуде1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. jstak epäselvästä, huomaamattomasta) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>выде-вуде</l><stg><st Contlex="Pmuu">выде-вуде1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(deskr. jstak epäselvästä, huomaamattomasta) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>киндончылне</l><stg><st Contlex="Pmuu">киндончылне1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(vala sanotun vannomiseksi) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>кылде-голде</l><stg><st Contlex="Pmuu">кылде-голде1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. hiljaista kolketta) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>лыпте-лопте</l><stg><st Contlex="Pmuu">лыпте-лопте1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. läimäyttelystä) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>пожалуйста</l><stg><st Contlex="Pmuu">пожалуйста1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ole hyvä, olkaa hyvä Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>разве</l><stg><st Contlex="Pmuu">разве1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(kielto +) -kO...sitten, (myöntö +) -hAn Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>теве</l><stg><st Contlex="Pmuu">теве1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kas tämä/nämä; kas tässä, no niin Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>тӧве</l><stg><st Contlex="Pmuu">тӧве1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>kas/katsos tuo/se/nuo/ne Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>туде</l><stg><st Contlex="Pmuu">туде1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>-hAn, -pA, kyllä Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>шыве-шове</l><stg><st Contlex="Pmuu">шыве-шове1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. veden loiske) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>юмашне</l><stg><st Contlex="Pmuu">юмашне1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(puhek.) jumala varjelkoon Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>юмончылне</l><stg><st Contlex="Pmuu">юмончылне1</st></stg></lg><pos>PCLE</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(puhek.) totta tosiaan Pmuu</t></tg></mg></e></entry>
+   <entry>
+      <lg>
+         <l>адыштан</l>
+         <stg>
+            <st Contlex="Pmuu">адыштан</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(lauseenlisäke, joka ilm. suuttumusta) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ай</l>
+         <stg>
+            <st Contlex="Pmuu">ай</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>voi; (pahaa toivotettaessa) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ай</l>
+         <stg>
+            <st Contlex="Pmuu">ай</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(pehmennettäessä käskyä tai pyyntöä) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ала</l>
+         <stg>
+            <st Contlex="Pmuu">ала</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>ehkäpä, (kond.) -isi-; tuskin Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ане</l>
+         <stg>
+            <st Contlex="Pmuu">ане</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kyllä (+ kysytty V); (lauseenlisäke) niin, kyllä, jaa-a Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>анят</l>
+         <stg>
+            <st Contlex="Pmuu">анят</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>ehkä, voi olla Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>буль-буль</l>
+         <stg>
+            <st Contlex="Pmuu">буль-буль</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(pulputuksesta) pulpul Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>бырлоч</l>
+         <stg>
+            <st Contlex="Pmuu">бырлоч</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>mäiskis, naps(is) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вара</l>
+         <stg>
+            <st Contlex="Pmuu">вара</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(vahv. part. kys.l:ssa) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вет</l>
+         <stg>
+            <st Contlex="Pmuu">вет</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>-hAn, varmaankin Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вот</l>
+         <stg>
+            <st Contlex="Pmuu">вот</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kas niin Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вудык-вудык</l>
+         <stg>
+            <st Contlex="Pmuu">вудык-вудык</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. jnk pörröisen huojumisesta) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вуж-вуж</l>
+         <stg>
+            <st Contlex="Pmuu">вуж-вуж</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. tuulen huminaa) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вузык</l>
+         <stg>
+            <st Contlex="Pmuu">вузык</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(jhk aineeseen sotkeutumisesta) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>выж-ж</l>
+         <stg>
+            <st Contlex="Pmuu">выж-ж</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. tuulen kevyestä huminasta) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>выргӱп</l>
+         <stg>
+            <st Contlex="Pmuu">выргӱп</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. kaatumisen hiljaisesta äänestä) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вырлоч</l>
+         <stg>
+            <st Contlex="Pmuu">вырлоч</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr.) läiskis Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вышт</l>
+         <stg>
+            <st Contlex="Pmuu">вышт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. jnk kevyen liikkumisesta) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>гала</l>
+         <stg>
+            <st Contlex="Pmuu">гала</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(vahv. ja kysyvä) -hAn Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>гын</l>
+         <stg>
+            <st Contlex="Pmuu">гын</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>-kO; -hAn Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>да</l>
+         <stg>
+            <st Contlex="Pmuu">да</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>niin Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>дӱр-дӱр</l>
+         <stg>
+            <st Contlex="Pmuu">дӱр-дӱр</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. ukkosen jylinää) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>дыр</l>
+         <stg>
+            <st Contlex="Pmuu">дыр</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>-hAn Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>и</l>
+         <stg>
+            <st Contlex="Pmuu">и</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>-kin, -kAAn, -pA Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>йӧра</l>
+         <stg>
+            <st Contlex="Pmuu">йӧра</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>hyvä on Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>йывылдик</l>
+         <stg>
+            <st Contlex="Pmuu">йывылдик</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>katosi kuin tuhka tuuleen; (jnk puuttumisesta) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>йыли-юли</l>
+         <stg>
+            <st Contlex="Pmuu">йыли-юли</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(välkkyvästä yms.) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>йышт-юшт</l>
+         <stg>
+            <st Contlex="Pmuu">йышт-юшт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. nopeasta liikkeestä) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кавуй</l>
+         <stg>
+            <st Contlex="Pmuu">кавуй</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>-pA, -hAn Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>калт-калт</l>
+         <stg>
+            <st Contlex="Pmuu">калт-калт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kop kop Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>керек</l>
+         <stg>
+            <st Contlex="Pmuu">керек</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>hyvä on Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кигик-когок</l>
+         <stg>
+            <st Contlex="Pmuu">кигик-когок</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(hanhien huuto) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кис-кис</l>
+         <stg>
+            <st Contlex="Pmuu">кис-кис</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(kissan kuts.) kis kis Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>коп</l>
+         <stg>
+            <st Contlex="Pmuu">коп</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>hupsis Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кочыри-и-к</l>
+         <stg>
+            <st Contlex="Pmuu">кочыри-и-к</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. terävästä äänestä, kitinästä yms.) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кроп</l>
+         <stg>
+            <st Contlex="Pmuu">кроп</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr.) mäiskis Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>крӱп</l>
+         <stg>
+            <st Contlex="Pmuu">крӱп</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom.) hupsis Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кузе-гынат</l>
+         <stg>
+            <st Contlex="Pmuu">кузе-гынат</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kaikin mokomin, miten vain (halutaan) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кукареку-ку-у</l>
+         <stg>
+            <st Contlex="Pmuu">кукареку-ку-у</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom.) kukkokiekuu Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кӱш-ш</l>
+         <stg>
+            <st Contlex="Pmuu">кӱш-ш</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. lintujen häätämiseksi) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кыж-гож</l>
+         <stg>
+            <st Contlex="Pmuu">кыж-гож</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. havinaa) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кылт-калт</l>
+         <stg>
+            <st Contlex="Pmuu">кылт-калт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom.) tiktak Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кычыр-кочыр</l>
+         <stg>
+            <st Contlex="Pmuu">кычыр-кочыр</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. narinaa, rapinaa) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кыштыр-коштыр</l>
+         <stg>
+            <st Contlex="Pmuu">кыштыр-коштыр</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. kahinaa) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ларт-ларт-ларт</l>
+         <stg>
+            <st Contlex="Pmuu">ларт-ларт-ларт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. ankan rääkätyksestä) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>лӱч</l>
+         <stg>
+            <st Contlex="Pmuu">лӱч</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom.) pum, pam Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>лыб-лыб-лыб</l>
+         <stg>
+            <st Contlex="Pmuu">лыб-лыб-лыб</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. värinä) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>лыдыр-ладыр</l>
+         <stg>
+            <st Contlex="Pmuu">лыдыр-ладыр</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. telegan äänistä, laahustavasta liikkumisesta) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>монь</l>
+         <stg>
+            <st Contlex="Pmuu">монь</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>ynnä muuta sellaista Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>на</l>
+         <stg>
+            <st Contlex="Pmuu">на</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kas tuo(ssa), no Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>неужели</l>
+         <stg>
+            <st Contlex="Pmuu">неужели</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>todellako?, niinkö? Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ни</l>
+         <stg>
+            <st Contlex="Pmuu">ни</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>ei Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ну</l>
+         <stg>
+            <st Contlex="Pmuu">ну</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>no Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>огла</l>
+         <stg>
+            <st Contlex="Pmuu">огла</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>olkoon(pa niin,) että Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>пис-пис-пис</l>
+         <stg>
+            <st Contlex="Pmuu">пис-пис-пис</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(koiran kutsu) tse tse Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>псльоп</l>
+         <stg>
+            <st Contlex="Pmuu">псльоп</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>loiskis Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>райзе</l>
+         <stg>
+            <st Contlex="Pmuu">райзе</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(kielto +) -kO...sitten, (myöntö +) -hAn Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>раш</l>
+         <stg>
+            <st Contlex="Pmuu">раш</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(on) kunnossa, selvää Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>рушт</l>
+         <stg>
+            <st Contlex="Pmuu">рушт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. kaatumisen äänestä) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тук-тук</l>
+         <stg>
+            <st Contlex="Pmuu">тук-тук</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kop kop Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чай</l>
+         <stg>
+            <st Contlex="Pmuu">чай</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kai, ehkä, luultavasti Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чияк-чияк</l>
+         <stg>
+            <st Contlex="Pmuu">чияк-чияк</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>piip piip (- kananpoikasten ääntelyä) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чолт-чолт</l>
+         <stg>
+            <st Contlex="Pmuu">чолт-чолт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kil kil Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чоштыр-чоштыр</l>
+         <stg>
+            <st Contlex="Pmuu">чоштыр-чоштыр</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. leikkaavan sirpin äänestä) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чыдыр-чодыр</l>
+         <stg>
+            <st Contlex="Pmuu">чыдыр-чодыр</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. puun paukkeesta sen palaessa) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чырык</l>
+         <stg>
+            <st Contlex="Pmuu">чырык</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. hämmennystä, sekaannusta) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шеремет</l>
+         <stg>
+            <st Contlex="Pmuu">шеремет</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(ilm. sääliä, pahoittelua, tyytymättömyyttä) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шол</l>
+         <stg>
+            <st Contlex="Pmuu">шол</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>-hAn Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шолдырдок</l>
+         <stg>
+            <st Contlex="Pmuu">шолдырдок</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom.) naps(is), raks(is) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шолт-шолт</l>
+         <stg>
+            <st Contlex="Pmuu">шолт-шолт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kop kop Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шуй-шуй</l>
+         <stg>
+            <st Contlex="Pmuu">шуй-шуй</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. sydämenlyöntien kiihtyminen) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шыве-шыве</l>
+         <stg>
+            <st Contlex="Pmuu">шыве-шыве</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>hys hys (kuiskinta) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шылт-шолт</l>
+         <stg>
+            <st Contlex="Pmuu">шылт-шолт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. lyönnin, koputuksen ääni) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шыҥ-шыҥ</l>
+         <stg>
+            <st Contlex="Pmuu">шыҥ-шыҥ</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>S. temaS (tila) tulla täpätäyteen Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шырт-шорт</l>
+         <stg>
+            <st Contlex="Pmuu">шырт-шорт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. ryske, rätinä) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>эн</l>
+         <stg>
+            <st Contlex="Pmuu">эн</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kaikkein (superlatiivin muodostava part.) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>юргылдым-юргылдым</l>
+         <stg>
+            <st Contlex="Pmuu">юргылдым-юргылдым</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. loikkaus) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>юрт</l>
+         <stg>
+            <st Contlex="Pmuu">юрт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. säikähdys) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>юшт</l>
+         <stg>
+            <st Contlex="Pmuu">юшт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. hyppy) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>я</l>
+         <stg>
+            <st Contlex="Pmuu">я</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>-pA Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вудо-вуде</l>
+         <stg>
+            <st Contlex="Pmuu">вудо-вуде1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. jstak epäselvästä, huomaamattomasta) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>выде-вуде</l>
+         <stg>
+            <st Contlex="Pmuu">выде-вуде1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(deskr. jstak epäselvästä, huomaamattomasta) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>киндончылне</l>
+         <stg>
+            <st Contlex="Pmuu">киндончылне1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(vala sanotun vannomiseksi) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кылде-голде</l>
+         <stg>
+            <st Contlex="Pmuu">кылде-голде1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. hiljaista kolketta) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>лыпте-лопте</l>
+         <stg>
+            <st Contlex="Pmuu">лыпте-лопте1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. läimäyttelystä) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>пожалуйста</l>
+         <stg>
+            <st Contlex="Pmuu">пожалуйста1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>ole hyvä, olkaa hyvä Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>разве</l>
+         <stg>
+            <st Contlex="Pmuu">разве1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(kielto +) -kO...sitten, (myöntö +) -hAn Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>теве</l>
+         <stg>
+            <st Contlex="Pmuu">теве1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kas tämä/nämä; kas tässä, no niin Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тӧве</l>
+         <stg>
+            <st Contlex="Pmuu">тӧве1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>kas/katsos tuo/se/nuo/ne Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>туде</l>
+         <stg>
+            <st Contlex="Pmuu">туде1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>-hAn, -pA, kyllä Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шыве-шове</l>
+         <stg>
+            <st Contlex="Pmuu">шыве-шове1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. veden loiske) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>юмашне</l>
+         <stg>
+            <st Contlex="Pmuu">юмашне1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(puhek.) jumala varjelkoon Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>юмончылне</l>
+         <stg>
+            <st Contlex="Pmuu">юмончылне1</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(puhek.) totta tosiaan Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
 </r>

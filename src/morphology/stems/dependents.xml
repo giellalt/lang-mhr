@@ -2,133 +2,2717 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<entry><lg><l>акрет</l><stg><st Contlex="X">акрет</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>a. godso vanhanaikainen, muinainen X</t></tg></mg></e></entry>
-<entry><lg><l>андри</l><stg><st Contlex="X">андри</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>a. obed iltapäiväateria X</t></tg></mg></e></entry>
-<entry><lg><l>аш</l><stg><st Contlex="X">аш</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>aS lijZe! terveydeksi! (juotaessa) X</t></tg></mg></e></entry>
-<entry><lg><l>вещевой</l><stg><st Contlex="X">вещевой</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>v. meSak reppu X</t></tg></mg></e></entry>
-<entry><lg><l>винительный</l><stg><st Contlex="X">винительный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>v. padeZ akkusatiivi X</t></tg></mg></e></entry>
-<entry><lg><l>водительский</l><stg><st Contlex="X">водительский</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>v. prava ajokortti X</t></tg></mg></e></entry>
-<entry><lg><l>вувер</l><stg><st Contlex="X">вувер</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>v. kuva (myt.) (vars. valoilmiönä nähtävä paha voima) X</t></tg></mg></e></entry>
-<entry><lg><l>вуйым-почым</l><stg><st Contlex="X">вуйым-почым</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>v.-p. pogaS hankkia lähtöä X</t></tg></mg></e></entry>
-<entry><lg><l>грецкий</l><stg><st Contlex="X">грецкий</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>g. pykS saksanpähkinä X</t></tg></mg></e></entry>
-<entry><lg><l>дательный</l><stg><st Contlex="X">дательный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>d. padeZ datiivi X</t></tg></mg></e></entry>
-<entry><lg><l>домовой</l><stg><st Contlex="X">домовой</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>d. kniga talonkirja X</t></tg></mg></e></entry>
-<entry><lg><l>доплатной</l><stg><st Contlex="X">доплатной</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>d. seryS lisämaksullinen kirje X</t></tg></mg></e></entry>
-<entry><lg><l>желательный</l><stg><st Contlex="X">желательный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Z. naklonenij desideratiivi X</t></tg></mg></e></entry>
-<entry><lg><l>зеркальный</l><stg><st Contlex="X">зеркальный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>z. karp peilikarppi X</t></tg></mg></e></entry>
-<entry><lg><l>изъявительный</l><stg><st Contlex="X">изъявительный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>i. naklonenij indikatiivi X</t></tg></mg></e></entry>
-<entry><lg><l>именительный</l><stg><st Contlex="X">именительный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>i. padeZ nominatiivi X</t></tg></mg></e></entry>
-<entry><lg><l>йолт</l><stg><st Contlex="X">йолт</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>j. koAS väl(k)ähtää X</t></tg></mg></e></entry>
-<entry><lg><l>йолчием</l><stg><st Contlex="X">йолчием</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>j. krem kenkävoide, j. mastar suutari X</t></tg></mg></e></entry>
-<entry><lg><l>йоҥ-йоҥ</l><stg><st Contlex="X">йоҥ-йоҥ</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>j. SoktaS soida X</t></tg></mg></e></entry>
-<entry><lg><l>йора</l><stg><st Contlex="X">йора</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>j. nalaS (hevosen) raviharjoitus X</t></tg></mg></e></entry>
-<entry><lg><l>йошток</l><stg><st Contlex="X">йошток</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>j. CuCeS on ikävää X</t></tg></mg></e></entry>
-<entry><lg><l>йывыштык</l><stg><st Contlex="X">йывыштык</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>j. kiAS maata hiljaa X</t></tg></mg></e></entry>
-<entry><lg><l>йыра</l><stg><st Contlex="X">йыра</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>j. vyg piimä X</t></tg></mg></e></entry>
-<entry><lg><l>кадем</l><stg><st Contlex="X">кадем</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>k. godso muinainen X</t></tg></mg></e></entry>
-<entry><lg><l>каштанат-лай</l><stg><st Contlex="X">каштанат-лай</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>k. kastan kombo kaA parvittain hanhet menevät X</t></tg></mg></e></entry>
-<entry><lg><l>коҥ</l><stg><st Contlex="X">коҥ</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>k. lijmeS tajuttomuuteen asti X</t></tg></mg></e></entry>
-<entry><lg><l>коҥгок</l><stg><st Contlex="X">коҥгок</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>k. liAS (leivänkannikka) kuivua X</t></tg></mg></e></entry>
-<entry><lg><l>копыж-ж</l><stg><st Contlex="X">копыж-ж</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>mogyr kovaStem k. lie minun tuli luihin asti vilu X</t></tg></mg></e></entry>
-<entry><lg><l>косвенный</l><stg><st Contlex="X">косвенный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>k. padeZ obliikvisija, k. dopolnenij välillinen objekti X</t></tg></mg></e></entry>
-<entry><lg><l>кулай</l><stg><st Contlex="X">кулай</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>k. dene modmo piiloleikki X</t></tg></mg></e></entry>
-<entry><lg><l>кумалтыш</l><stg><st Contlex="X">кумалтыш</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>k. vurgem kapiot (sulhaselle ja hänen sukulaisilleen) X</t></tg></mg></e></entry>
-<entry><lg><l>кумыжвуян</l><stg><st Contlex="X">кумыжвуян</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>k. kiSke tarhakäärme, rantakäärme X</t></tg></mg></e></entry>
-<entry><lg><l>кыдач-покшеч</l><stg><st Contlex="X">кыдач-покшеч</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>k. ojlyStaS puhua sekavasti X</t></tg></mg></e></entry>
-<entry><lg><l>кыр-гор</l><stg><st Contlex="X">кыр-гор</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>k. SoktaS alkaa raapia/kuulua rapinaa X</t></tg></mg></e></entry>
-<entry><lg><l>кырпак</l><stg><st Contlex="X">кырпак</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>k. lum ensilumi X</t></tg></mg></e></entry>
-<entry><lg><l>лицевой</l><stg><st Contlex="X">лицевой</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>l. sCet henkilötili X</t></tg></mg></e></entry>
-<entry><lg><l>логарӱмбал</l><stg><st Contlex="X">логарӱмбал</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>l. nörgö (anat.) kurkunkansi X</t></tg></mg></e></entry>
-<entry><lg><l>лодыш</l><stg><st Contlex="X">лодыш</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>modyS gyC l. (san.) leikistä onnettomuus X</t></tg></mg></e></entry>
-<entry><lg><l>лоштак</l><stg><st Contlex="X">лоштак</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>l. volen SinCaS istua kuin kotonaan X</t></tg></mg></e></entry>
-<entry><lg><l>луэш</l><stg><st Contlex="X">луэш</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>l. nalaS mennä takuuseen, puolustaa X</t></tg></mg></e></entry>
-<entry><lg><l>лӱмаш</l><stg><st Contlex="X">лӱмаш</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>ik l. mlande yhden ihmisen maaosuus X</t></tg></mg></e></entry>
-<entry><lg><l>махым</l><stg><st Contlex="X">махым</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>m. puaS ogyl olla haksahtamatta X</t></tg></mg></e></entry>
-<entry><lg><l>машинно-тракторный</l><stg><st Contlex="X">машинно-тракторный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>m. stancij maanviljelyskoneasema X</t></tg></mg></e></entry>
-<entry><lg><l>местный</l><stg><st Contlex="X">местный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>m. padeZ lokatiivi X</t></tg></mg></e></entry>
-<entry><lg><l>направительный</l><stg><st Contlex="X">направительный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>n. padeZ tulosija X</t></tg></mg></e></entry>
-<entry><lg><l>нашатырный</l><stg><st Contlex="X">нашатырный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>n. spirit ammoniakki(liuos) X</t></tg></mg></e></entry>
-<entry><lg><l>нелеш</l><stg><st Contlex="X">нелеш</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>n. nalaS pahastua X</t></tg></mg></e></entry>
-<entry><lg><l>ноля</l><stg><st Contlex="X">ноля</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>n. meraN (ihm.) laiha X</t></tg></mg></e></entry>
-<entry><lg><l>обстоятельственный</l><stg><st Contlex="X">обстоятельственный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>o. padeZ (marin) latiivi(sija) X</t></tg></mg></e></entry>
-<entry><lg><l>олмештыш</l><stg><st Contlex="X">олмештыш</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>o. mut pronomini X</t></tg></mg></e></entry>
-<entry><lg><l>оръеҥ</l><stg><st Contlex="X">оръеҥ</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>o. vate morsian, nuorikko X</t></tg></mg></e></entry>
-<entry><lg><l>отчетно-сайлымаш</l><stg><st Contlex="X">отчетно-сайлымаш</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>o. pogynymaS vaalikokous X</t></tg></mg></e></entry>
-<entry><lg><l>ошын</l><stg><st Contlex="X">ошын</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>o. koAS valjeta X</t></tg></mg></e></entry>
-<entry><lg><l>перспективный</l><stg><st Contlex="X">перспективный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. paSa plan työn pitkän ajan suunnitelma X</t></tg></mg></e></entry>
-<entry><lg><l>пжик</l><stg><st Contlex="X">пжик</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. koAS kadota, livistää X</t></tg></mg></e></entry>
-<entry><lg><l>пиж</l><stg><st Contlex="X">пиж</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>parnASan p. käsine X</t></tg></mg></e></entry>
-<entry><lg><l>повелительный</l><stg><st Contlex="X">повелительный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. naklonenij imperatiivi X</t></tg></mg></e></entry>
-<entry><lg><l>повествовательный</l><stg><st Contlex="X">повествовательный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. predloZenij väitelause X</t></tg></mg></e></entry>
-<entry><lg><l>подвесной</l><stg><st Contlex="X">подвесной</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. korno nostinrata X</t></tg></mg></e></entry>
-<entry><lg><l>пожа</l><stg><st Contlex="X">пожа</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. mySkyr möhömaha X</t></tg></mg></e></entry>
-<entry><lg><l>понудительный</l><stg><st Contlex="X">понудительный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. zalog kausatiivi X</t></tg></mg></e></entry>
-<entry><lg><l>почеш</l><stg><st Contlex="X">почеш</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. mut postpositio X</t></tg></mg></e></entry>
-<entry><lg><l>пӧтынь</l><stg><st Contlex="X">пӧтынь</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. nalaS ostaa X</t></tg></mg></e></entry>
-<entry><lg><l>превосходный</l><stg><st Contlex="X">превосходный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. stepenь superlatiivi X</t></tg></mg></e></entry>
-<entry><lg><l>препинаний</l><stg><st Contlex="X">препинаний</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. znak-vlak välimerkit X</t></tg></mg></e></entry>
-<entry><lg><l>придаточный</l><stg><st Contlex="X">придаточный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. predloZenij sivulause X</t></tg></mg></e></entry>
-<entry><lg><l>пунчеж</l><stg><st Contlex="X">пунчеж</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. pu niveräinen puu X</t></tg></mg></e></entry>
-<entry><lg><l>пӱчмыла</l><stg><st Contlex="X">пӱчмыла</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. kalasen SyndaS hän sanoa paukautti X</t></tg></mg></e></entry>
-<entry><lg><l>пыч</l><stg><st Contlex="X">пыч</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>SinCam p. yStaS räp(s)äyttää silmää X</t></tg></mg></e></entry>
-<entry><lg><l>пычык</l><stg><st Contlex="X">пычык</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>p. jylme (anat.) häpykieli X</t></tg></mg></e></entry>
-<entry><lg><l>рад</l><stg><st Contlex="X">рад</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>r. dene riveittäin X</t></tg></mg></e></entry>
-<entry><lg><l>родительный</l><stg><st Contlex="X">родительный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>r. padeZ genetiivi X</t></tg></mg></e></entry>
-<entry><lg><l>роп</l><stg><st Contlex="X">роп</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>uSeS r. vozo ajatus tuli mieleen äkkiä X</t></tg></mg></e></entry>
-<entry><lg><l>ручной</l><stg><st Contlex="X">ручной</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>r. granata käsikranaatti X</t></tg></mg></e></entry>
-<entry><lg><l>рӱп</l><stg><st Contlex="X">рӱп</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>r. liAS tummeta X</t></tg></mg></e></entry>
-<entry><lg><l>сип</l><stg><st Contlex="X">сип</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>s. CodYra tiheikkö X</t></tg></mg></e></entry>
-<entry><lg><l>скорый</l><stg><st Contlex="X">скорый</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>s. poezd pikajuna X</t></tg></mg></e></entry>
-<entry><lg><l>сообщений</l><stg><st Contlex="X">сообщений</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>s. korno ministerstvo liikenneministeriö X</t></tg></mg></e></entry>
-<entry><lg><l>сослагательный</l><stg><st Contlex="X">сослагательный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>s. naklonenij konditionaali X</t></tg></mg></e></entry>
-<entry><lg><l>страдательный</l><stg><st Contlex="X">страдательный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>s. zalog passiivi X</t></tg></mg></e></entry>
-<entry><lg><l>так</l><stg><st Contlex="X">так</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>t. koStaS kulkea joutilaana X</t></tg></mg></e></entry>
-<entry><lg><l>такеш</l><stg><st Contlex="X">такеш</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>t. kece arkipäivä X</t></tg></mg></e></entry>
-<entry><lg><l>тап</l><stg><st Contlex="X">тап</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>t. tolaS sattua, joutua, esiintyä X</t></tg></mg></e></entry>
-<entry><lg><l>ташлама</l><stg><st Contlex="X">ташлама</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>t. korka kousa X</t></tg></mg></e></entry>
-<entry><lg><l>тойки-мойки</l><stg><st Contlex="X">тойки-мойки</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(leikillinen sana laulussa) X</t></tg></mg></e></entry>
-<entry><lg><l>торланен</l><stg><st Contlex="X">торланен</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>t. koStaS kuljeskella X</t></tg></mg></e></entry>
-<entry><lg><l>тортен</l><stg><st Contlex="X">тортен</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>t. koStaS vältellä X</t></tg></mg></e></entry>
-<entry><lg><l>тӧтырет</l><stg><st Contlex="X">тӧтырет</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>t. puC eräs soittopilli X</t></tg></mg></e></entry>
-<entry><lg><l>тулеч</l><stg><st Contlex="X">тулеч</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>t. utla sen lisäksi; t. vara sen jälkeen; t. oZno sitä ennen X</t></tg></mg></e></entry>
-<entry><lg><l>тӱп</l><stg><st Contlex="X">тӱп</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>t. imne aisahevonen. t. rodo verisukulaisuus. t. sokyr täysin sokea X</t></tg></mg></e></entry>
-<entry><lg><l>тӱран</l><stg><st Contlex="X">тӱран</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>t. poCkaS lorvailla X</t></tg></mg></e></entry>
-<entry><lg><l>тыҥгас</l><stg><st Contlex="X">тыҥгас</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>t. orva kaksipyöräiset kärryt X</t></tg></mg></e></entry>
-<entry><lg><l>уголок</l><stg><st Contlex="X">уголок</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>krasnyj u. punanurkka X</t></tg></mg></e></entry>
-<entry><lg><l>удобрений</l><stg><st Contlex="X">удобрений</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>iskusstvennyj u. apulanta X</t></tg></mg></e></entry>
-<entry><lg><l>условный</l><stg><st Contlex="X">условный</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>u. naklonenij konditionaali X</t></tg></mg></e></entry>
-<entry><lg><l>уша</l><stg><st Contlex="X">уша</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>u. oNa lauta (jolla pyöritellään taikinaa) X</t></tg></mg></e></entry>
-<entry><lg><l>ӱдырлыклан</l><stg><st Contlex="X">ӱдырлыклан</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>y. nalaS ottaa (otto)tyttäreksi X</t></tg></mg></e></entry>
-<entry><lg><l>ӱдырлыкеш</l><stg><st Contlex="X">ӱдырлыкеш</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>y. nalaS ottaa (otto)tyttäreksi X</t></tg></mg></e></entry>
-<entry><lg><l>чаня</l><stg><st Contlex="X">чаня</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>C. eN (ihminen) heikko, ponneton X</t></tg></mg></e></entry>
-<entry><lg><l>чатлама</l><stg><st Contlex="X">чатлама</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>C. jyStö paukkupakkanen X</t></tg></mg></e></entry>
-<entry><lg><l>честь</l><stg><st Contlex="X">честь</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Syndyme zadaCym C. dene SuktaS täyttää kunniallisesti ann. tehtävä X</t></tg></mg></e></entry>
-<entry><lg><l>чроҥ</l><stg><st Contlex="X">чроҥ</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>C. Sokten rämisten X</t></tg></mg></e></entry>
-<entry><lg><l>чурк</l><stg><st Contlex="X">чурк</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>C. liAS herkistyä, höristää korviaan X</t></tg></mg></e></entry>
-<entry><lg><l>чӱч</l><stg><st Contlex="X">чӱч</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>C. SinCaS laskeutua kyykkyyn X</t></tg></mg></e></entry>
-<entry><lg><l>чылдыр-чолдыр</l><stg><st Contlex="X">чылдыр-чолдыр</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>C. SoktaS helistä, soida X</t></tg></mg></e></entry>
-<entry><lg><l>чыли</l><stg><st Contlex="X">чыли</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>C. tul tuikku, (pieni) tuli X</t></tg></mg></e></entry>
-<entry><lg><l>шагыл</l><stg><st Contlex="X">шагыл</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>S. jolan imne valkojalkainen hevonen X</t></tg></mg></e></entry>
-<entry><lg><l>шемын</l><stg><st Contlex="X">шемын</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>S. koAS häämöttää X</t></tg></mg></e></entry>
-<entry><lg><l>шожым</l><stg><st Contlex="X">шожым</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>S. luktaS poistaa lika X</t></tg></mg></e></entry>
-<entry><lg><l>шот</l><stg><st Contlex="X">шот</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>S. dene (jnk) mukaan X</t></tg></mg></e></entry>
-<entry><lg><l>шоч</l><stg><st Contlex="X">шоч</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>S. jyd sydänyö X</t></tg></mg></e></entry>
-<entry><lg><l>шу-у</l><stg><st Contlex="X">шу-у</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>(onom. veden kohina, naurun hohotus) Pmuu</t></tg></mg></e></entry>
-<entry><lg><l>шӱшкыш</l><stg><st Contlex="X">шӱшкыш</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>S. jyk vihellys(ääni) X</t></tg></mg></e></entry>
-<entry><lg><l>шӱшпык</l><stg><st Contlex="X">шӱшпык</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>S. omo nokonen X</t></tg></mg></e></entry>
-<entry><lg><l>ыресан</l><stg><st Contlex="X">ыресан</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Y. ENyremyS ristilukki X</t></tg></mg></e></entry>
-<entry><lg><l>юпке</l><stg><st Contlex="X">юпке</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>U. kiAS maata oikoisena X</t></tg></mg></e></entry>
-<entry><lg><l>ямым</l><stg><st Contlex="X">ямым</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>A. koStaS olla kyytimiehenä X</t></tg></mg></e></entry>
-<entry><lg><l>ямынза</l><stg><st Contlex="X">ямынза</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>A. portyS huopa X</t></tg></mg></e></entry>
-<entry><lg><l>кӱсе</l><stg><st Contlex="X">кӱсе1</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>k. pajrem (eräs kesäjuhla) X</t></tg></mg></e></entry>
-<entry><lg><l>леҥге</l><stg><st Contlex="X">леҥге1</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>l. oNa istumapenkin lauta X</t></tg></mg></e></entry>
-<entry><lg><l>намызе</l><stg><st Contlex="X">намызе1</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>n. godso vanha(naikainen) X</t></tg></mg></e></entry>
-<entry><lg><l>ньыге-нюге</l><stg><st Contlex="X">ньыге-нюге1</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>Conlan n. CuCeS tuntuu epämiellyttävältä X</t></tg></mg></e></entry>
-<entry><lg><l>рӱшке</l><stg><st Contlex="X">рӱшке1</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>r. pu (puu, jossa on niverät syyt) X</t></tg></mg></e></entry>
-<entry><lg><l>туаде</l><stg><st Contlex="X">туаде1</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>t. vodyn tänä iltana X</t></tg></mg></e></entry>
-<entry><lg><l>улме</l><stg><st Contlex="X">улме1</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>u:o godym ollessa, (jnk) aikana X</t></tg></mg></e></entry>
-<entry><lg><l>умыландарыше</l><stg><st Contlex="X">умыландарыше1</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>u. Clen adverbiaali X</t></tg></mg></e></entry>
-<entry><lg><l>шутыдыме</l><stg><st Contlex="X">шутыдыме1</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>vij S. paSa ylivoimainen työ X</t></tg></mg></e></entry>
-<entry><lg><l>шутыме</l><stg><st Contlex="X">шутыме1</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>vij S. paSa voimien mukainen työ X</t></tg></mg></e></entry>
-<entry><lg><l>юнге</l><stg><st Contlex="X">юнге1</st></stg></lg><pos>N</pos><e><mg><m><head/><defNative/></m><tg lang="eng"><t/></tg><tg lang="fin"><t>U. Cer ajos (kynnen alla) X</t></tg></mg></e></entry>
+   <entry>
+      <lg>
+         <l>акрет</l>
+         <stg>
+            <st Contlex="X">акрет</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+         <xg>
+            <x>акрет годсо</x>
+            <xt lang="fin">vanhanaikainen, muinainen X</xt>
+         </xg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>андри</l>
+         <stg>
+            <st Contlex="X">андри</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>a. obed iltapäiväateria X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>аш</l>
+         <stg>
+            <st Contlex="X">аш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>aS lijZe! terveydeksi! (juotaessa) X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вещевой</l>
+         <stg>
+            <st Contlex="X">вещевой</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>v. meSak reppu X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>винительный</l>
+         <stg>
+            <st Contlex="X">винительный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>v. padeZ akkusatiivi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>водительский</l>
+         <stg>
+            <st Contlex="X">водительский</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>v. prava ajokortti X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вувер</l>
+         <stg>
+            <st Contlex="X">вувер</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>v. kuva (myt.) (vars. valoilmiönä nähtävä paha voima) X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>вуйым-почым</l>
+         <stg>
+            <st Contlex="X">вуйым-почым</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>v.-p. pogaS hankkia lähtöä X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>грецкий</l>
+         <stg>
+            <st Contlex="X">грецкий</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>g. pykS saksanpähkinä X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>дательный</l>
+         <stg>
+            <st Contlex="X">дательный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>d. padeZ datiivi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>домовой</l>
+         <stg>
+            <st Contlex="X">домовой</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>d. kniga talonkirja X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>доплатной</l>
+         <stg>
+            <st Contlex="X">доплатной</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>d. seryS lisämaksullinen kirje X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>желательный</l>
+         <stg>
+            <st Contlex="X">желательный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>Z. naklonenij desideratiivi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>зеркальный</l>
+         <stg>
+            <st Contlex="X">зеркальный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>z. karp peilikarppi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>изъявительный</l>
+         <stg>
+            <st Contlex="X">изъявительный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>i. naklonenij indikatiivi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>именительный</l>
+         <stg>
+            <st Contlex="X">именительный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>i. padeZ nominatiivi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>йолт</l>
+         <stg>
+            <st Contlex="X">йолт</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>j. koAS väl(k)ähtää X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>йолчием</l>
+         <stg>
+            <st Contlex="X">йолчием</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>j. krem kenkävoide, j. mastar suutari X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>йоҥ-йоҥ</l>
+         <stg>
+            <st Contlex="X">йоҥ-йоҥ</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>j. SoktaS soida X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>йора</l>
+         <stg>
+            <st Contlex="X">йора</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>j. nalaS (hevosen) raviharjoitus X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>йошток</l>
+         <stg>
+            <st Contlex="X">йошток</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>j. CuCeS on ikävää X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>йывыштык</l>
+         <stg>
+            <st Contlex="X">йывыштык</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>j. kiAS maata hiljaa X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>йыра</l>
+         <stg>
+            <st Contlex="X">йыра</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>j. vyg piimä X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кадем</l>
+         <stg>
+            <st Contlex="X">кадем</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>k. godso muinainen X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>каштанат-лай</l>
+         <stg>
+            <st Contlex="X">каштанат-лай</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>k. kastan kombo kaA parvittain hanhet menevät X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>коҥ</l>
+         <stg>
+            <st Contlex="X">коҥ</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>k. lijmeS tajuttomuuteen asti X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>коҥгок</l>
+         <stg>
+            <st Contlex="X">коҥгок</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>k. liAS (leivänkannikka) kuivua X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>копыж-ж</l>
+         <stg>
+            <st Contlex="X">копыж-ж</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>mogyr kovaStem k. lie minun tuli luihin asti vilu X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>косвенный</l>
+         <stg>
+            <st Contlex="X">косвенный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>k. padeZ obliikvisija, k. dopolnenij välillinen objekti X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кулай</l>
+         <stg>
+            <st Contlex="X">кулай</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>k. dene modmo piiloleikki X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кумалтыш</l>
+         <stg>
+            <st Contlex="X">кумалтыш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>k. vurgem kapiot (sulhaselle ja hänen sukulaisilleen) X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кумыжвуян</l>
+         <stg>
+            <st Contlex="X">кумыжвуян</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>k. kiSke tarhakäärme, rantakäärme X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кыдач-покшеч</l>
+         <stg>
+            <st Contlex="X">кыдач-покшеч</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>k. ojlyStaS puhua sekavasti X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кыр-гор</l>
+         <stg>
+            <st Contlex="X">кыр-гор</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>k. SoktaS alkaa raapia/kuulua rapinaa X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кырпак</l>
+         <stg>
+            <st Contlex="X">кырпак</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>k. lum ensilumi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>лицевой</l>
+         <stg>
+            <st Contlex="X">лицевой</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>l. sCet henkilötili X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>логарӱмбал</l>
+         <stg>
+            <st Contlex="X">логарӱмбал</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>l. nörgö (anat.) kurkunkansi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>лодыш</l>
+         <stg>
+            <st Contlex="X">лодыш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>modyS gyC l. (san.) leikistä onnettomuus X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>лоштак</l>
+         <stg>
+            <st Contlex="X">лоштак</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>l. volen SinCaS istua kuin kotonaan X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>луэш</l>
+         <stg>
+            <st Contlex="X">луэш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>l. nalaS mennä takuuseen, puolustaa X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>лӱмаш</l>
+         <stg>
+            <st Contlex="X">лӱмаш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>ik l. mlande yhden ihmisen maaosuus X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>махым</l>
+         <stg>
+            <st Contlex="X">махым</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>m. puaS ogyl olla haksahtamatta X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>машинно-тракторный</l>
+         <stg>
+            <st Contlex="X">машинно-тракторный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>m. stancij maanviljelyskoneasema X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>местный</l>
+         <stg>
+            <st Contlex="X">местный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>m. padeZ lokatiivi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>направительный</l>
+         <stg>
+            <st Contlex="X">направительный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>n. padeZ tulosija X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>нашатырный</l>
+         <stg>
+            <st Contlex="X">нашатырный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>n. spirit ammoniakki(liuos) X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>нелеш</l>
+         <stg>
+            <st Contlex="X">нелеш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>n. nalaS pahastua X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ноля</l>
+         <stg>
+            <st Contlex="X">ноля</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>n. meraN (ihm.) laiha X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>обстоятельственный</l>
+         <stg>
+            <st Contlex="X">обстоятельственный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>o. padeZ (marin) latiivi(sija) X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>олмештыш</l>
+         <stg>
+            <st Contlex="X">олмештыш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>o. mut pronomini X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>оръеҥ</l>
+         <stg>
+            <st Contlex="X">оръеҥ</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>o. vate morsian, nuorikko X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>отчетно-сайлымаш</l>
+         <stg>
+            <st Contlex="X">отчетно-сайлымаш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>o. pogynymaS vaalikokous X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ошын</l>
+         <stg>
+            <st Contlex="X">ошын</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>o. koAS valjeta X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>перспективный</l>
+         <stg>
+            <st Contlex="X">перспективный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. paSa plan työn pitkän ajan suunnitelma X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>пжик</l>
+         <stg>
+            <st Contlex="X">пжик</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. koAS kadota, livistää X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>пиж</l>
+         <stg>
+            <st Contlex="X">пиж</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>parnASan p. käsine X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>повелительный</l>
+         <stg>
+            <st Contlex="X">повелительный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. naklonenij imperatiivi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>повествовательный</l>
+         <stg>
+            <st Contlex="X">повествовательный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. predloZenij väitelause X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>подвесной</l>
+         <stg>
+            <st Contlex="X">подвесной</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. korno nostinrata X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>пожа</l>
+         <stg>
+            <st Contlex="X">пожа</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. mySkyr möhömaha X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>понудительный</l>
+         <stg>
+            <st Contlex="X">понудительный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. zalog kausatiivi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>почеш</l>
+         <stg>
+            <st Contlex="X">почеш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. mut postpositio X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>пӧтынь</l>
+         <stg>
+            <st Contlex="X">пӧтынь</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. nalaS ostaa X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>превосходный</l>
+         <stg>
+            <st Contlex="X">превосходный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. stepenь superlatiivi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>препинаний</l>
+         <stg>
+            <st Contlex="X">препинаний</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. znak-vlak välimerkit X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>придаточный</l>
+         <stg>
+            <st Contlex="X">придаточный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. predloZenij sivulause X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>пунчеж</l>
+         <stg>
+            <st Contlex="X">пунчеж</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. pu niveräinen puu X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>пӱчмыла</l>
+         <stg>
+            <st Contlex="X">пӱчмыла</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. kalasen SyndaS hän sanoa paukautti X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>пыч</l>
+         <stg>
+            <st Contlex="X">пыч</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>SinCam p. yStaS räp(s)äyttää silmää X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>пычык</l>
+         <stg>
+            <st Contlex="X">пычык</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>p. jylme (anat.) häpykieli X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>рад</l>
+         <stg>
+            <st Contlex="X">рад</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>r. dene riveittäin X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>родительный</l>
+         <stg>
+            <st Contlex="X">родительный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>r. padeZ genetiivi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>роп</l>
+         <stg>
+            <st Contlex="X">роп</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>uSeS r. vozo ajatus tuli mieleen äkkiä X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ручной</l>
+         <stg>
+            <st Contlex="X">ручной</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>r. granata käsikranaatti X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>рӱп</l>
+         <stg>
+            <st Contlex="X">рӱп</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>r. liAS tummeta X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>сип</l>
+         <stg>
+            <st Contlex="X">сип</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>s. CodYra tiheikkö X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>скорый</l>
+         <stg>
+            <st Contlex="X">скорый</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>s. poezd pikajuna X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>сообщений</l>
+         <stg>
+            <st Contlex="X">сообщений</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>s. korno ministerstvo liikenneministeriö X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>сослагательный</l>
+         <stg>
+            <st Contlex="X">сослагательный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>s. naklonenij konditionaali X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>страдательный</l>
+         <stg>
+            <st Contlex="X">страдательный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>s. zalog passiivi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>так</l>
+         <stg>
+            <st Contlex="X">так</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>t. koStaS kulkea joutilaana X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>такеш</l>
+         <stg>
+            <st Contlex="X">такеш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>t. kece arkipäivä X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тап</l>
+         <stg>
+            <st Contlex="X">тап</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>t. tolaS sattua, joutua, esiintyä X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ташлама</l>
+         <stg>
+            <st Contlex="X">ташлама</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>t. korka kousa X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тойки-мойки</l>
+         <stg>
+            <st Contlex="X">тойки-мойки</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(leikillinen sana laulussa) X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>торланен</l>
+         <stg>
+            <st Contlex="X">торланен</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>t. koStaS kuljeskella X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тортен</l>
+         <stg>
+            <st Contlex="X">тортен</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>t. koStaS vältellä X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тӧтырет</l>
+         <stg>
+            <st Contlex="X">тӧтырет</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>t. puC eräs soittopilli X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тулеч</l>
+         <stg>
+            <st Contlex="X">тулеч</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>t. utla sen lisäksi; t. vara sen jälkeen; t. oZno sitä ennen X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тӱп</l>
+         <stg>
+            <st Contlex="X">тӱп</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>t. imne aisahevonen. t. rodo verisukulaisuus. t. sokyr täysin sokea X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тӱран</l>
+         <stg>
+            <st Contlex="X">тӱран</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>t. poCkaS lorvailla X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>тыҥгас</l>
+         <stg>
+            <st Contlex="X">тыҥгас</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>t. orva kaksipyöräiset kärryt X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>уголок</l>
+         <stg>
+            <st Contlex="X">уголок</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>krasnyj u. punanurkka X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>удобрений</l>
+         <stg>
+            <st Contlex="X">удобрений</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>iskusstvennyj u. apulanta X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>условный</l>
+         <stg>
+            <st Contlex="X">условный</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>u. naklonenij konditionaali X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>уша</l>
+         <stg>
+            <st Contlex="X">уша</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>u. oNa lauta (jolla pyöritellään taikinaa) X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱдырлыклан</l>
+         <stg>
+            <st Contlex="X">ӱдырлыклан</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>y. nalaS ottaa (otto)tyttäreksi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ӱдырлыкеш</l>
+         <stg>
+            <st Contlex="X">ӱдырлыкеш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>y. nalaS ottaa (otto)tyttäreksi X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чаня</l>
+         <stg>
+            <st Contlex="X">чаня</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>C. eN (ihminen) heikko, ponneton X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чатлама</l>
+         <stg>
+            <st Contlex="X">чатлама</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>C. jyStö paukkupakkanen X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>честь</l>
+         <stg>
+            <st Contlex="X">честь</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>Syndyme zadaCym C. dene SuktaS täyttää kunniallisesti ann. tehtävä X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чроҥ</l>
+         <stg>
+            <st Contlex="X">чроҥ</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>C. Sokten rämisten X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чурк</l>
+         <stg>
+            <st Contlex="X">чурк</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>C. liAS herkistyä, höristää korviaan X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чӱч</l>
+         <stg>
+            <st Contlex="X">чӱч</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>C. SinCaS laskeutua kyykkyyn X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чылдыр-чолдыр</l>
+         <stg>
+            <st Contlex="X">чылдыр-чолдыр</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>C. SoktaS helistä, soida X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>чыли</l>
+         <stg>
+            <st Contlex="X">чыли</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>C. tul tuikku, (pieni) tuli X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шагыл</l>
+         <stg>
+            <st Contlex="X">шагыл</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>S. jolan imne valkojalkainen hevonen X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шемын</l>
+         <stg>
+            <st Contlex="X">шемын</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>S. koAS häämöttää X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шожым</l>
+         <stg>
+            <st Contlex="X">шожым</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>S. luktaS poistaa lika X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шот</l>
+         <stg>
+            <st Contlex="X">шот</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>S. dene (jnk) mukaan X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шоч</l>
+         <stg>
+            <st Contlex="X">шоч</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>S. jyd sydänyö X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шу-у</l>
+         <stg>
+            <st Contlex="X">шу-у</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>(onom. veden kohina, naurun hohotus) Pmuu</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шӱшкыш</l>
+         <stg>
+            <st Contlex="X">шӱшкыш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>S. jyk vihellys(ääni) X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шӱшпык</l>
+         <stg>
+            <st Contlex="X">шӱшпык</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>S. omo nokonen X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ыресан</l>
+         <stg>
+            <st Contlex="X">ыресан</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>Y. ENyremyS ristilukki X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>юпке</l>
+         <stg>
+            <st Contlex="X">юпке</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>U. kiAS maata oikoisena X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ямым</l>
+         <stg>
+            <st Contlex="X">ямым</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>A. koStaS olla kyytimiehenä X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ямынза</l>
+         <stg>
+            <st Contlex="X">ямынза</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>A. portyS huopa X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>кӱсе</l>
+         <stg>
+            <st Contlex="X">кӱсе1</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>k. pajrem (eräs kesäjuhla) X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>леҥге</l>
+         <stg>
+            <st Contlex="X">леҥге1</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>l. oNa istumapenkin lauta X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>намызе</l>
+         <stg>
+            <st Contlex="X">намызе1</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>n. godso vanha(naikainen) X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>ньыге-нюге</l>
+         <stg>
+            <st Contlex="X">ньыге-нюге1</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>Conlan n. CuCeS tuntuu epämiellyttävältä X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>рӱшке</l>
+         <stg>
+            <st Contlex="X">рӱшке1</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>r. pu (puu, jossa on niverät syyt) X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>туаде</l>
+         <stg>
+            <st Contlex="X">туаде1</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>t. vodyn tänä iltana X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>улме</l>
+         <stg>
+            <st Contlex="X">улме1</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>u:o godym ollessa, (jnk) aikana X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>умыландарыше</l>
+         <stg>
+            <st Contlex="X">умыландарыше1</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>u. Clen adverbiaali X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шутыдыме</l>
+         <stg>
+            <st Contlex="X">шутыдыме1</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>vij S. paSa ylivoimainen työ X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>шутыме</l>
+         <stg>
+            <st Contlex="X">шутыме1</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>vij S. paSa voimien mukainen työ X</t>
+         </tg>
+      </mg>
+   </entry>
+   <entry>
+      <lg>
+         <l>юнге</l>
+         <stg>
+            <st Contlex="X">юнге1</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>U. Cer ajos (kynnen alla) X</t>
+         </tg>
+      </mg>
+   </entry>
 </r>
