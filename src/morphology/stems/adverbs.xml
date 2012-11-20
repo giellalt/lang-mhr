@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+   <e>
       <lg>
          <l>адак</l>
          <stg>
@@ -22,8 +22,8 @@
             <t pos="ADV">vielä, taas</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>адакшым</l>
          <stg>
@@ -43,8 +43,8 @@
             <t pos="ADV">lisäksi, vielä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>айдамысын</l>
          <stg>
@@ -64,8 +64,8 @@
             <t pos="ADV">huolimattomasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>айыквуя</l>
          <stg>
@@ -85,8 +85,8 @@
             <t pos="ADV">selvä(järkise)sti, raittiisti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ала-мо</l>
          <stg>
@@ -106,8 +106,8 @@
             <t pos="ADV">luultavasti, ehkä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>алнек</l>
          <stg>
@@ -127,8 +127,8 @@
             <t pos="ADV">kokonaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>аман</l>
          <stg>
@@ -148,8 +148,8 @@
             <t pos="ADV">kuitenkin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>арам</l>
          <stg>
@@ -169,8 +169,8 @@
             <t pos="ADV">turhaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>арвыльын</l>
          <stg>
@@ -190,8 +190,8 @@
             <t pos="ADV">joukoittain</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>арик-турик</l>
          <stg>
@@ -211,8 +211,8 @@
             <t pos="ADV">tolkuttomasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>арун</l>
          <stg>
@@ -232,8 +232,8 @@
             <t pos="ADV">puhtaasti, siistinä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>арымеш</l>
          <stg>
@@ -253,8 +253,8 @@
             <t pos="ADV">lainaksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>аян</l>
          <stg>
@@ -274,8 +274,8 @@
             <t pos="ADV">selvästi, lujasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>аярын</l>
          <stg>
@@ -295,8 +295,8 @@
             <t pos="ADV">kiihkeästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>важмалдык</l>
          <stg>
@@ -316,8 +316,8 @@
             <t pos="ADV">vinoon, vinossa; vinosti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>важык</l>
          <stg>
@@ -337,8 +337,8 @@
             <t pos="ADV">vinoon, vinossa, kumarassa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вара</l>
          <stg>
@@ -358,8 +358,8 @@
             <t pos="ADV">sitten, myöhemmin; myöhässä; jälkeen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>варарак</l>
          <stg>
@@ -379,8 +379,8 @@
             <t pos="ADV">myöhemmin, jälkeenpäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>варажым</l>
          <stg>
@@ -400,8 +400,8 @@
             <t pos="ADV">sitten, myöhemmin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ваш</l>
          <stg>
@@ -421,8 +421,8 @@
             <t pos="ADV">vastaan; yhteen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ваш-ваш</l>
          <stg>
@@ -442,8 +442,8 @@
             <t pos="ADV">keskenään, molemminpuolisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вашкен</l>
          <stg>
@@ -463,8 +463,8 @@
             <t pos="ADV">hätäisesti, nopeasti; kiirehtien</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ваштареш</l>
          <stg>
@@ -484,8 +484,8 @@
             <t pos="ADV">vastaan; vastapäätä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ваштарешла</l>
          <stg>
@@ -505,8 +505,8 @@
             <t pos="ADV">vastaan; vastapäätä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>векат</l>
          <stg>
@@ -526,8 +526,8 @@
             <t pos="ADV">arvattavasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>велеш</l>
          <stg>
@@ -547,8 +547,8 @@
             <t pos="ADV">(ajasta) kohti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вере</l>
          <stg>
@@ -568,8 +568,8 @@
             <t pos="ADV">paikassa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>верын-верын</l>
          <stg>
@@ -589,8 +589,8 @@
             <t pos="ADV">paikoittain</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>весела</l>
          <stg>
@@ -610,8 +610,8 @@
             <t pos="ADV">iloisesti; ystävällisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>веселан</l>
          <stg>
@@ -631,8 +631,8 @@
             <t pos="ADV">iloisesti; ystävällisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>весиешын</l>
          <stg>
@@ -652,8 +652,8 @@
             <t pos="ADV">ensi vuonna</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вескана</l>
          <stg>
@@ -673,8 +673,8 @@
             <t pos="ADV">toisen kerran, toisella kertaa, joku kerta, tulevaisuudessa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вигак</l>
          <stg>
@@ -694,8 +694,8 @@
             <t pos="ADV">heti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>виеш</l>
          <stg>
@@ -715,8 +715,8 @@
             <t pos="ADV">väkisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вешым</l>
          <stg>
@@ -736,8 +736,8 @@
             <t pos="ADV">viidentenä päivänä (tästä päivästä)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>визыте</l>
          <stg>
@@ -757,8 +757,8 @@
             <t pos="ADV">viisinkertaisesti, viisi kertaa; viiteen (osaan)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вийыт</l>
          <stg>
@@ -778,8 +778,8 @@
             <t pos="ADV">väkisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вик</l>
          <stg>
@@ -799,8 +799,8 @@
             <t pos="ADV">suoraan; tarkasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>виклан-вик</l>
          <stg>
@@ -820,8 +820,8 @@
             <t pos="ADV">suoraan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>виса</l>
          <stg>
@@ -841,8 +841,8 @@
             <t pos="ADV">noin, lähes; yhtä paljon kuin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>виян</l>
          <stg>
@@ -862,8 +862,8 @@
             <t pos="ADV">voimakkaasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>водынек</l>
          <stg>
@@ -883,8 +883,8 @@
             <t pos="ADV">illasta (lähtien)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вожылын</l>
          <stg>
@@ -904,8 +904,8 @@
             <t pos="ADV">arasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>воктечын</l>
          <stg>
@@ -925,8 +925,8 @@
             <t pos="ADV">ohi(tse)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>волгыдын</l>
          <stg>
@@ -946,8 +946,8 @@
             <t pos="ADV">päiväsaikaan; kirkkaasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вошт</l>
          <stg>
@@ -967,8 +967,8 @@
             <t pos="ADV">lävitse; kokonaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вудакан</l>
          <stg>
@@ -988,8 +988,8 @@
             <t pos="ADV">hämärästi; epäselvästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вуеш</l>
          <stg>
@@ -1009,8 +1009,8 @@
             <t pos="ADV">x v. joka x:n lopussa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вуйге</l>
          <stg>
@@ -1030,8 +1030,8 @@
             <t pos="ADV">pään kanssa, päin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вуйге-почге</l>
          <stg>
@@ -1051,8 +1051,8 @@
             <t pos="ADV">kokonaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вуйдымыланен</l>
          <stg>
@@ -1072,8 +1072,8 @@
             <t pos="ADV">selittämättömästi; hillittömästi, suin päin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вуйын-почын</l>
          <stg>
@@ -1093,8 +1093,8 @@
             <t pos="ADV">päätä pahkaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вургыжланен</l>
          <stg>
@@ -1114,8 +1114,8 @@
             <t pos="ADV">levottomana, huolestuneesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вурт</l>
          <stg>
@@ -1135,8 +1135,8 @@
             <t pos="ADV">(deskr.) nopeasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вучен-вучен</l>
          <stg>
@@ -1156,8 +1156,8 @@
             <t pos="ADV">odotellen, odottaa odottamistaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вучен-вучыдымын</l>
          <stg>
@@ -1177,8 +1177,8 @@
             <t pos="ADV">odottamatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вучымеш</l>
          <stg>
@@ -1198,8 +1198,8 @@
             <t pos="ADV">lainaksi, velaksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вуяваш</l>
          <stg>
@@ -1219,8 +1219,8 @@
             <t pos="ADV">tullen toimeen töin tuskin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>выж-вуж</l>
          <stg>
@@ -1240,8 +1240,8 @@
             <t pos="ADV">(deskr.) nopeasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вырт-вурт</l>
          <stg>
@@ -1261,8 +1261,8 @@
             <t pos="ADV">(deskr.) äkkiä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гае</l>
          <stg>
@@ -1282,8 +1282,8 @@
             <t pos="ADV">lailla, kuten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гай</l>
          <stg>
@@ -1303,8 +1303,8 @@
             <t pos="ADV">lailla, kuten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гаяк</l>
          <stg>
@@ -1324,8 +1324,8 @@
             <t pos="ADV">lailla, kuten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>геройла</l>
          <stg>
@@ -1345,8 +1345,8 @@
             <t pos="ADV">sankarillisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гына</l>
          <stg>
@@ -1366,8 +1366,8 @@
             <t pos="ADV">vain; aivan; juuri; erittäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гынат</l>
          <stg>
@@ -1387,8 +1387,8 @@
             <t pos="ADV">joskin, vaikka(kin), silti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>докан</l>
          <stg>
@@ -1408,8 +1408,8 @@
             <t pos="ADV">luultavasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>долой</l>
          <stg>
@@ -1429,8 +1429,8 @@
             <t pos="ADV">alas, pois</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>духеш</l>
          <stg>
@@ -1450,8 +1450,8 @@
             <t pos="ADV">henkeen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>дыр</l>
          <stg>
@@ -1471,8 +1471,8 @@
             <t pos="ADV">luultavasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ешарен</l>
          <stg>
@@ -1492,8 +1492,8 @@
             <t pos="ADV">lisää, lisäksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>жал</l>
          <stg>
@@ -1513,8 +1513,8 @@
             <t pos="ADV">säälittävästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>жалын</l>
          <stg>
@@ -1534,8 +1534,8 @@
             <t pos="ADV">valittavasti, surkeasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>жаплан</l>
          <stg>
@@ -1555,8 +1555,8 @@
             <t pos="ADV">(jksik) ajaksi, väliaikaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>жапын-жапын</l>
          <stg>
@@ -1576,8 +1576,8 @@
             <t pos="ADV">aika ajoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>зато</l>
          <stg>
@@ -1597,8 +1597,8 @@
             <t pos="ADV">sen sijaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>зря</l>
          <stg>
@@ -1618,8 +1618,8 @@
             <t pos="ADV">turhaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иже</l>
          <stg>
@@ -1639,8 +1639,8 @@
             <t pos="ADV">vasta, sitten, viimein</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>изарнян</l>
          <stg>
@@ -1660,8 +1660,8 @@
             <t pos="ADV">torstaina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>изин-изин</l>
          <stg>
@@ -1681,8 +1681,8 @@
             <t pos="ADV">vähitellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>изинек</l>
          <stg>
@@ -1702,8 +1702,8 @@
             <t pos="ADV">pienestä pitäen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>изиракын</l>
          <stg>
@@ -1723,8 +1723,8 @@
             <t pos="ADV">hiljalleen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>изиш</l>
          <stg>
@@ -1744,8 +1744,8 @@
             <t pos="ADV">vähän, hieman</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>изишак</l>
          <stg>
@@ -1765,8 +1765,8 @@
             <t pos="ADV">vähän, hieman</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>икана</l>
          <stg>
@@ -1786,8 +1786,8 @@
             <t pos="ADV">kerran</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иквереш</l>
          <stg>
@@ -1807,8 +1807,8 @@
             <t pos="ADV">yhdessä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>икечак</l>
          <stg>
@@ -1828,8 +1828,8 @@
             <t pos="ADV">kauan sitten; kauan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>икечсек</l>
          <stg>
@@ -1849,8 +1849,8 @@
             <t pos="ADV">viime kerran jälkeen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ик-кок</l>
          <stg>
@@ -1870,8 +1870,8 @@
             <t pos="ADV">kerran kaksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>икманаш</l>
          <stg>
@@ -1891,8 +1891,8 @@
             <t pos="ADV">sanalla sanoen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктын-иктын</l>
          <stg>
@@ -1912,8 +1912,8 @@
             <t pos="ADV">yksitellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктеш</l>
          <stg>
@@ -1933,8 +1933,8 @@
             <t pos="ADV">yhteen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иксыла</l>
          <stg>
@@ -1954,8 +1954,8 @@
             <t pos="ADV">lapsellisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>илемын-илемын</l>
          <stg>
@@ -1975,8 +1975,8 @@
             <t pos="ADV">paikoitellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>илен-илыде</l>
          <stg>
@@ -1996,8 +1996,8 @@
             <t pos="ADV">elää kituuttaen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>илен-толын</l>
          <stg>
@@ -2017,8 +2017,8 @@
             <t pos="ADV">ajan mittaan/tullen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>илыма-колыма</l>
          <stg>
@@ -2038,8 +2038,8 @@
             <t pos="ADV">olla henkihieverissä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>илышынек</l>
          <stg>
@@ -2059,8 +2059,8 @@
             <t pos="ADV">elävänä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йожек</l>
          <stg>
@@ -2080,8 +2080,8 @@
             <t pos="ADV">vinosti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йокте</l>
          <stg>
@@ -2101,8 +2101,8 @@
             <t pos="ADV">asti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йолын</l>
          <stg>
@@ -2122,8 +2122,8 @@
             <t pos="ADV">jalkaisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йолшӱма</l>
          <stg>
@@ -2143,8 +2143,8 @@
             <t pos="ADV">haparoiden (jaloin)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йоҥгатан</l>
          <stg>
@@ -2164,8 +2164,8 @@
             <t pos="ADV">vapaasti, väljästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йоҥгок</l>
          <stg>
@@ -2185,8 +2185,8 @@
             <t pos="ADV">yksikseen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йоҥыжмаш</l>
          <stg>
@@ -2206,8 +2206,8 @@
             <t pos="ADV">väärin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йорге</l>
          <stg>
@@ -2227,8 +2227,8 @@
             <t pos="ADV">virtana(an)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йортен</l>
          <stg>
@@ -2248,8 +2248,8 @@
             <t pos="ADV">ravaten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йотке</l>
          <stg>
@@ -2269,8 +2269,8 @@
             <t pos="ADV">asti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йошкаргымеш</l>
          <stg>
@@ -2290,8 +2290,8 @@
             <t pos="ADV">punaiseksi, punoittavaksi (asti)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йошмек</l>
          <stg>
@@ -2311,8 +2311,8 @@
             <t pos="ADV">vinosti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йоштке</l>
          <stg>
@@ -2332,8 +2332,8 @@
             <t pos="ADV">varuillaan; ryhdikkäästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӧнде</l>
          <stg>
@@ -2353,8 +2353,8 @@
             <t pos="ADV">mukavuuksitta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӧндымын</l>
          <stg>
@@ -2374,8 +2374,8 @@
             <t pos="ADV">epämiellyttävästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӧнлын</l>
          <stg>
@@ -2395,8 +2395,8 @@
             <t pos="ADV">mukavasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӧрен-йӧрыде</l>
          <stg>
@@ -2416,8 +2416,8 @@
             <t pos="ADV">olla (vähällä) sammua</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӧре</l>
          <stg>
@@ -2437,8 +2437,8 @@
             <t pos="ADV">yhteen, sekaan; sekaisin, yhdessä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӧршеш</l>
          <stg>
@@ -2458,8 +2458,8 @@
             <t pos="ADV">täysin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӧршешлан</l>
          <stg>
@@ -2479,8 +2479,8 @@
             <t pos="ADV">ainiaaksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӧршын</l>
          <stg>
@@ -2500,8 +2500,8 @@
             <t pos="ADV">kokonaan, aivan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӧсын</l>
          <stg>
@@ -2521,8 +2521,8 @@
             <t pos="ADV">vaivoin, tuskallisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӱдым</l>
          <stg>
@@ -2542,8 +2542,8 @@
             <t pos="ADV">yöllä, öisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӱдвошт</l>
          <stg>
@@ -2563,8 +2563,8 @@
             <t pos="ADV">koko yön</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӱкде-шӱлышде</l>
          <stg>
@@ -2584,8 +2584,8 @@
             <t pos="ADV">vaivihkaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӱкора</l>
          <stg>
@@ -2605,8 +2605,8 @@
             <t pos="ADV">täyttä kurkkua</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӱкын</l>
          <stg>
@@ -2626,8 +2626,8 @@
             <t pos="ADV">ääneen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йыгыре</l>
          <stg>
@@ -2647,8 +2647,8 @@
             <t pos="ADV">vieressä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йыжгын</l>
          <stg>
@@ -2668,8 +2668,8 @@
             <t pos="ADV">(äänestä) lempeästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йыклык</l>
          <stg>
@@ -2689,8 +2689,8 @@
             <t pos="ADV">lopullisesti, kokonaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йыле</l>
          <stg>
@@ -2710,8 +2710,8 @@
             <t pos="ADV">nopeasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йылт</l>
          <stg>
@@ -2731,8 +2731,8 @@
             <t pos="ADV">aivan, kokonaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йымак</l>
          <stg>
@@ -2752,8 +2752,8 @@
             <t pos="ADV">alle, alas(päin)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йымалан</l>
          <stg>
@@ -2773,8 +2773,8 @@
             <t pos="ADV">alas</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йымач</l>
          <stg>
@@ -2794,8 +2794,8 @@
             <t pos="ADV">alhaalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йымачын</l>
          <stg>
@@ -2815,8 +2815,8 @@
             <t pos="ADV">alhaalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йыр</l>
          <stg>
@@ -2836,8 +2836,8 @@
             <t pos="ADV">ympäri, ympärillä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йыраҥын-йыраҥын</l>
          <stg>
@@ -2857,8 +2857,8 @@
             <t pos="ADV">(kasvi)penkeittäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йырваш</l>
          <stg>
@@ -2878,8 +2878,8 @@
             <t pos="ADV">ympärillä, ympäriinsä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йырым-ваш</l>
          <stg>
@@ -2899,8 +2899,8 @@
             <t pos="ADV">ympäriinsä, kauttaaltaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йырым-йыр</l>
          <stg>
@@ -2920,8 +2920,8 @@
             <t pos="ADV">ympäriinsä, kauttaaltaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йытыран</l>
          <stg>
@@ -2941,8 +2941,8 @@
             <t pos="ADV">kauniisti; puhtaasti, siististi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йышт</l>
          <stg>
@@ -2962,8 +2962,8 @@
             <t pos="ADV">salaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>казыр</l>
          <stg>
@@ -2983,8 +2983,8 @@
             <t pos="ADV">pikapikaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кайышыла</l>
          <stg>
@@ -3004,8 +3004,8 @@
             <t pos="ADV">ohimennen, samalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>капге</l>
          <stg>
@@ -3025,8 +3025,8 @@
             <t pos="ADV">koko ruumiillaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>карген</l>
          <stg>
@@ -3046,8 +3046,8 @@
             <t pos="ADV">ammollaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>касвелыш</l>
          <stg>
@@ -3067,8 +3067,8 @@
             <t pos="ADV">länteen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кашакын</l>
          <stg>
@@ -3088,8 +3088,8 @@
             <t pos="ADV">laumoittain; parvittain; ryhmittäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кашын-кашын</l>
          <stg>
@@ -3109,8 +3109,8 @@
             <t pos="ADV">ajoittain; paikoittain</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>келын</l>
          <stg>
@@ -3130,8 +3130,8 @@
             <t pos="ADV">kahlaten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>келгын</l>
          <stg>
@@ -3151,8 +3151,8 @@
             <t pos="ADV">syvään, syvästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>келшен</l>
          <stg>
@@ -3172,8 +3172,8 @@
             <t pos="ADV">sopuisasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>келшышын</l>
          <stg>
@@ -3193,8 +3193,8 @@
             <t pos="ADV">sovussa; siivosti; (jnk) mukaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кенета</l>
          <stg>
@@ -3214,8 +3214,8 @@
             <t pos="ADV">(yht)äkkiä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеҥежлан</l>
          <stg>
@@ -3235,8 +3235,8 @@
             <t pos="ADV">kesäksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеҥежым</l>
          <stg>
@@ -3256,8 +3256,8 @@
             <t pos="ADV">kesällä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>керек</l>
          <stg>
@@ -3277,8 +3277,8 @@
             <t pos="ADV">edes</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кернак</l>
          <stg>
@@ -3298,8 +3298,8 @@
             <t pos="ADV">välttämättä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кечын</l>
          <stg>
@@ -3319,8 +3319,8 @@
             <t pos="ADV">päiv(ittä)in</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кечыгут</l>
          <stg>
@@ -3340,8 +3340,8 @@
             <t pos="ADV">koko päivän</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кечылен</l>
          <stg>
@@ -3361,8 +3361,8 @@
             <t pos="ADV">päivittäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кечын</l>
          <stg>
@@ -3382,8 +3382,8 @@
             <t pos="ADV">päiv(ittä)in, -päivänä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кечын-кечын</l>
          <stg>
@@ -3403,8 +3403,8 @@
             <t pos="ADV">päivästä toiseen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кидшӱма</l>
          <stg>
@@ -3424,8 +3424,8 @@
             <t pos="ADV">(jaloilla) haparoiden</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ковыртатен</l>
          <stg>
@@ -3445,8 +3445,8 @@
             <t pos="ADV">keikaroiden; ylväästi, teeskennellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кодын-кодде</l>
          <stg>
@@ -3466,8 +3466,8 @@
             <t pos="ADV">jälkeen jäämättä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>койын</l>
          <stg>
@@ -3487,8 +3487,8 @@
             <t pos="ADV">huomattavasti; vähitellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>койын-койын</l>
          <stg>
@@ -3508,8 +3508,8 @@
             <t pos="ADV">vähitellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>койын-койде</l>
          <stg>
@@ -3529,8 +3529,8 @@
             <t pos="ADV">tuikkia</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>коклан-коклан</l>
          <stg>
@@ -3550,8 +3550,8 @@
             <t pos="ADV">silloin tällöin, siellä täällä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>коклаш</l>
          <stg>
@@ -3571,8 +3571,8 @@
             <t pos="ADV">väliin, keskelle, keskuuteeen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>коктын-коктын</l>
          <stg>
@@ -3592,8 +3592,8 @@
             <t pos="ADV">par(e)ittain</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>колышашла</l>
          <stg>
@@ -3613,8 +3613,8 @@
             <t pos="ADV">tajuttomana, tunnottomana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>комдык</l>
          <stg>
@@ -3634,8 +3634,8 @@
             <t pos="ADV">selälleen, auki, selällään</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кормыжын-кормыжын</l>
          <stg>
@@ -3655,8 +3655,8 @@
             <t pos="ADV">kourin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кочде-йӱде</l>
          <stg>
@@ -3676,8 +3676,8 @@
             <t pos="ADV">syömättä ja juomatta, nälissään</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кочкын-кочде</l>
          <stg>
@@ -3697,8 +3697,8 @@
             <t pos="ADV">(olla) nälässä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кошкымеш</l>
          <stg>
@@ -3718,8 +3718,8 @@
             <t pos="ADV">kuivaksi (asti)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧвален</l>
          <stg>
@@ -3739,8 +3739,8 @@
             <t pos="ADV">kukkuroillaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧра</l>
          <stg>
@@ -3760,8 +3760,8 @@
             <t pos="ADV">takia; (päämäärän ilm.); (jnk mukaisuus)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧргеш</l>
          <stg>
@@ -3781,8 +3781,8 @@
             <t pos="ADV">sisään</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧргыш</l>
          <stg>
@@ -3802,8 +3802,8 @@
             <t pos="ADV">sisään, sisäpuolelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кугарнян</l>
          <stg>
@@ -3823,8 +3823,8 @@
             <t pos="ADV">perjantaina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кугун</l>
          <stg>
@@ -3844,8 +3844,8 @@
             <t pos="ADV">suuresti, laajalti, pitkään; äänekkäästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кугырак</l>
          <stg>
@@ -3865,8 +3865,8 @@
             <t pos="ADV">enemmän</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кужун</l>
          <stg>
@@ -3886,8 +3886,8 @@
             <t pos="ADV">kauan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кумдан</l>
          <stg>
@@ -3907,8 +3907,8 @@
             <t pos="ADV">leveälti, levälleen; laajasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кумдыкеш</l>
          <stg>
@@ -3928,8 +3928,8 @@
             <t pos="ADV">leveydeltä, laajuudelta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кумшешым</l>
          <stg>
@@ -3949,8 +3949,8 @@
             <t pos="ADV">kolmantena päivänä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кумык</l>
          <stg>
@@ -3970,8 +3970,8 @@
             <t pos="ADV">kumollaan, kasvot alaspäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кумыте</l>
          <stg>
@@ -3991,8 +3991,8 @@
             <t pos="ADV">kolmeen, kolmeksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>курымеш</l>
          <stg>
@@ -4012,8 +4012,8 @@
             <t pos="ADV">ainiaaksi, ikuisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>курымешлан</l>
          <stg>
@@ -4033,8 +4033,8 @@
             <t pos="ADV">ainiaaksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>курым-курымеш</l>
          <stg>
@@ -4054,8 +4054,8 @@
             <t pos="ADV">ainiaaksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кутынь</l>
          <stg>
@@ -4075,8 +4075,8 @@
             <t pos="ADV">pitkin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кутышеш</l>
          <stg>
@@ -4096,8 +4096,8 @@
             <t pos="ADV">pitkin pituutta, pituudelta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушкыжын</l>
          <stg>
@@ -4117,8 +4117,8 @@
             <t pos="ADV">ratsain</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кушкыжмын</l>
          <stg>
@@ -4138,8 +4138,8 @@
             <t pos="ADV">tiistaina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>куштылгеш</l>
          <stg>
@@ -4159,8 +4159,8 @@
             <t pos="ADV">matkatavaroitta, pienin kantamuksin; kevyissä pukeissa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>куштылгын</l>
          <stg>
@@ -4180,8 +4180,8 @@
             <t pos="ADV">helposti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱлдымашлан</l>
          <stg>
@@ -4201,8 +4201,8 @@
             <t pos="ADV">turhaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱлеш-огыллан</l>
          <stg>
@@ -4222,8 +4222,8 @@
             <t pos="ADV">turhaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱлын</l>
          <stg>
@@ -4243,8 +4243,8 @@
             <t pos="ADV">kuten pitää(kin)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱрлын</l>
          <stg>
@@ -4264,8 +4264,8 @@
             <t pos="ADV">lopullisesti, kategorisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱрылтын-кӱрылтын</l>
          <stg>
@@ -4285,8 +4285,8 @@
             <t pos="ADV">katkonaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱрылтде</l>
          <stg>
@@ -4306,8 +4306,8 @@
             <t pos="ADV">katkeamatta, keskeytymättä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱсын</l>
          <stg>
@@ -4327,8 +4327,8 @@
             <t pos="ADV">velaksi, lainaksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱчыкын</l>
          <stg>
@@ -4348,8 +4348,8 @@
             <t pos="ADV">lyhyesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱчымынек</l>
          <stg>
@@ -4369,8 +4369,8 @@
             <t pos="ADV">raakana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱшан</l>
          <stg>
@@ -4390,8 +4390,8 @@
             <t pos="ADV">ylhäällä, yllä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱшеш</l>
          <stg>
@@ -4411,8 +4411,8 @@
             <t pos="ADV">(jnk) laskuun</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱшкыла</l>
          <stg>
@@ -4432,8 +4432,8 @@
             <t pos="ADV">ylöspäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱшыч</l>
          <stg>
@@ -4453,8 +4453,8 @@
             <t pos="ADV">ylhäältä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыдалан</l>
          <stg>
@@ -4474,8 +4474,8 @@
             <t pos="ADV">keskellä, keskelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыдач</l>
          <stg>
@@ -4495,8 +4495,8 @@
             <t pos="ADV">keskeltä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыдачын</l>
          <stg>
@@ -4516,8 +4516,8 @@
             <t pos="ADV">keskeltä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кызыт</l>
          <stg>
@@ -4537,8 +4537,8 @@
             <t pos="ADV">nyt</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кызытеш</l>
          <stg>
@@ -4558,8 +4558,8 @@
             <t pos="ADV">toistaiseksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кызытак</l>
          <stg>
@@ -4579,8 +4579,8 @@
             <t pos="ADV">heti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыльгырге</l>
          <stg>
@@ -4600,8 +4600,8 @@
             <t pos="ADV">jouten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кырди-ворди</l>
          <stg>
@@ -4621,8 +4621,8 @@
             <t pos="ADV">nopeasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыркатан</l>
          <stg>
@@ -4642,8 +4642,8 @@
             <t pos="ADV">herkästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кырт</l>
          <stg>
@@ -4663,8 +4663,8 @@
             <t pos="ADV">tuskin, juuri ja juuri</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кырт-кырт</l>
          <stg>
@@ -4684,8 +4684,8 @@
             <t pos="ADV">(hädin) tuskin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кырт-корт</l>
          <stg>
@@ -4705,8 +4705,8 @@
             <t pos="ADV">eloisasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кычкырен-кычкырен</l>
          <stg>
@@ -4726,8 +4726,8 @@
             <t pos="ADV">huutaen; huutamisen takia</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кышкалалтын</l>
          <stg>
@@ -4747,8 +4747,8 @@
             <t pos="ADV">(virtaamisesta) kovasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лаваса</l>
          <stg>
@@ -4768,8 +4768,8 @@
             <t pos="ADV">toki, tietysti, (myönt.) -hAn</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лайык</l>
          <stg>
@@ -4789,8 +4789,8 @@
             <t pos="ADV">sulavasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лап-ластык</l>
          <stg>
@@ -4810,8 +4810,8 @@
             <t pos="ADV">täysin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лапчыкын-лапчыкын</l>
          <stg>
@@ -4831,8 +4831,8 @@
             <t pos="ADV">tilkuittain</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ласкан</l>
          <stg>
@@ -4852,8 +4852,8 @@
             <t pos="ADV">hellästi; kohteliaasti; rauhallisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ласт</l>
          <stg>
@@ -4873,8 +4873,8 @@
             <t pos="ADV">kyljellään, pitkällään</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лач</l>
          <stg>
@@ -4894,8 +4894,8 @@
             <t pos="ADV">aivan, täsmälleen; parahiksi; vain</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лаштыкын</l>
          <stg>
@@ -4915,8 +4915,8 @@
             <t pos="ADV">paloiksi, riekaleiksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лийын-лийде</l>
          <stg>
@@ -4936,8 +4936,8 @@
             <t pos="ADV">täysin onnistumatta/toteutumatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лиш</l>
          <stg>
@@ -4957,8 +4957,8 @@
             <t pos="ADV">lähelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишан</l>
          <stg>
@@ -4978,8 +4978,8 @@
             <t pos="ADV">lähelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишкырак</l>
          <stg>
@@ -4999,8 +4999,8 @@
             <t pos="ADV">lähemmäs, lähempänä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишыч</l>
          <stg>
@@ -5020,8 +5020,8 @@
             <t pos="ADV">luota, läheltä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишычын</l>
          <stg>
@@ -5041,8 +5041,8 @@
             <t pos="ADV">luota, läheltä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лопок</l>
          <stg>
@@ -5062,8 +5062,8 @@
             <t pos="ADV">retkottaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лош</l>
          <stg>
@@ -5083,8 +5083,8 @@
             <t pos="ADV">puoliksi, kahtia</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лошеш</l>
          <stg>
@@ -5104,8 +5104,8 @@
             <t pos="ADV">puoliksi, kahtia</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лӧтырге</l>
          <stg>
@@ -5125,8 +5125,8 @@
             <t pos="ADV">liikkumatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лугыч</l>
          <stg>
@@ -5146,8 +5146,8 @@
             <t pos="ADV">keskeyttämättä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>луч</l>
          <stg>
@@ -5167,8 +5167,8 @@
             <t pos="ADV">höllästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лушкыдын</l>
          <stg>
@@ -5188,8 +5188,8 @@
             <t pos="ADV">höllästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лӱдын</l>
          <stg>
@@ -5209,8 +5209,8 @@
             <t pos="ADV">pelokkaasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лӱмеш</l>
          <stg>
@@ -5230,8 +5230,8 @@
             <t pos="ADV">(jnk) kunniaksi; nimeen; nimissä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лӱмын</l>
          <stg>
@@ -5251,8 +5251,8 @@
             <t pos="ADV">tahallaan, erityisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лыжган</l>
          <stg>
@@ -5272,8 +5272,8 @@
             <t pos="ADV">verkkaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лый-лай</l>
          <stg>
@@ -5293,8 +5293,8 @@
             <t pos="ADV">(deskr. verkkaisesta liikkeestä)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лык-лук</l>
          <stg>
@@ -5314,8 +5314,8 @@
             <t pos="ADV">(deskr. taivuttamisesta)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лыҥ</l>
          <stg>
@@ -5335,8 +5335,8 @@
             <t pos="ADV">paljon, aika paljon</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лышт</l>
          <stg>
@@ -5356,8 +5356,8 @@
             <t pos="ADV">rauhallisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лышткатан</l>
          <stg>
@@ -5377,8 +5377,8 @@
             <t pos="ADV">verkkaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ман</l>
          <stg>
@@ -5398,8 +5398,8 @@
             <t pos="ADV">(ilm. epäs. esitystä)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>манметла</l>
          <stg>
@@ -5419,8 +5419,8 @@
             <t pos="ADV">sanotaan, kuten sanottu</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>манын</l>
          <stg>
@@ -5440,8 +5440,8 @@
             <t pos="ADV">(ilm. epäs. esitystä)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>марда</l>
          <stg>
@@ -5461,8 +5461,8 @@
             <t pos="ADV">keskinkertaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>марке</l>
          <stg>
@@ -5482,8 +5482,8 @@
             <t pos="ADV">asti; ennen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>марла</l>
          <stg>
@@ -5503,8 +5503,8 @@
             <t pos="ADV">mariksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>матаклен</l>
          <stg>
@@ -5524,8 +5524,8 @@
             <t pos="ADV">nurin niskoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мелын</l>
          <stg>
@@ -5545,8 +5545,8 @@
             <t pos="ADV">(kasvot) vasten (jtak)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>модде-воштылде</l>
          <stg>
@@ -5566,8 +5566,8 @@
             <t pos="ADV">ilman leikkiä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>модын-воштыл</l>
          <stg>
@@ -5587,8 +5587,8 @@
             <t pos="ADV">telmien</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>можыч</l>
          <stg>
@@ -5608,8 +5608,8 @@
             <t pos="ADV">ehkä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>молыгунам</l>
          <stg>
@@ -5629,8 +5629,8 @@
             <t pos="ADV">toisella kertaa, tavallisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>моткоч</l>
          <stg>
@@ -5650,8 +5650,8 @@
             <t pos="ADV">erittäin, kovasti, liikaa, liian</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мотор</l>
          <stg>
@@ -5671,8 +5671,8 @@
             <t pos="ADV">kauniisti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>моштен</l>
          <stg>
@@ -5692,8 +5692,8 @@
             <t pos="ADV">taitavasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӧҥгеш</l>
          <stg>
@@ -5713,8 +5713,8 @@
             <t pos="ADV">takaisin, kotiin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӧҥгеш-оньыш</l>
          <stg>
@@ -5734,8 +5734,8 @@
             <t pos="ADV">edestakaisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӧҥгешла</l>
          <stg>
@@ -5755,8 +5755,8 @@
             <t pos="ADV">päinvastoin, takaperin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мужырын-мужырын</l>
          <stg>
@@ -5776,8 +5776,8 @@
             <t pos="ADV">par(e)ittain</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мутлан</l>
          <stg>
@@ -5797,8 +5797,8 @@
             <t pos="ADV">esimerkiksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мучашлан</l>
          <stg>
@@ -5818,8 +5818,8 @@
             <t pos="ADV">tietenkin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мучашдымын</l>
          <stg>
@@ -5839,8 +5839,8 @@
             <t pos="ADV">loputtomasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӱндыр</l>
          <stg>
@@ -5860,8 +5860,8 @@
             <t pos="ADV">pitkästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӱндыран</l>
          <stg>
@@ -5881,8 +5881,8 @@
             <t pos="ADV">kaukana, kauas</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӱндырч</l>
          <stg>
@@ -5902,8 +5902,8 @@
             <t pos="ADV">kaukaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӱндырчын</l>
          <stg>
@@ -5923,8 +5923,8 @@
             <t pos="ADV">kaukaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мыгылдык</l>
          <stg>
@@ -5944,8 +5944,8 @@
             <t pos="ADV">(deskr. hämilleen menemisestä)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мыгыль-мугыль</l>
          <stg>
@@ -5965,8 +5965,8 @@
             <t pos="ADV">(deskr. jstak epäselvänä näkyvästä)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мыжыкланен</l>
          <stg>
@@ -5986,8 +5986,8 @@
             <t pos="ADV">kuhnaillen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>наизусть</l>
          <stg>
@@ -6007,8 +6007,8 @@
             <t pos="ADV">ulkomuistista</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>начарын</l>
          <stg>
@@ -6028,8 +6028,8 @@
             <t pos="ADV">huonosti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>негызеш</l>
          <stg>
@@ -6049,8 +6049,8 @@
             <t pos="ADV">(jnk) perusteella</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нимучашдымын</l>
          <stg>
@@ -6070,8 +6070,8 @@
             <t pos="ADV">loputtomasti; rajattomasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ниялткален</l>
          <stg>
@@ -6091,8 +6091,8 @@
             <t pos="ADV">tunnustellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нойыде</l>
          <stg>
@@ -6112,8 +6112,8 @@
             <t pos="ADV">väsymättä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нужнан</l>
          <stg>
@@ -6133,8 +6133,8 @@
             <t pos="ADV">köyhästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ныжылгын</l>
          <stg>
@@ -6154,8 +6154,8 @@
             <t pos="ADV">pehmeästi, hellästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нылйола</l>
          <stg>
@@ -6175,8 +6175,8 @@
             <t pos="ADV">nelinkontin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ожнысек</l>
          <stg>
@@ -6196,8 +6196,8 @@
             <t pos="ADV">ammoisista ajoista</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ойыртемын</l>
          <stg>
@@ -6217,8 +6217,8 @@
             <t pos="ADV">erillään; selvästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>оксаде</l>
          <stg>
@@ -6238,8 +6238,8 @@
             <t pos="ADV">rahatta, ilmaiseksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>олян</l>
          <stg>
@@ -6259,8 +6259,8 @@
             <t pos="ADV">hitaasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>омыюан</l>
          <stg>
@@ -6280,8 +6280,8 @@
             <t pos="ADV">unenpöpperössä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ондак</l>
          <stg>
@@ -6301,8 +6301,8 @@
             <t pos="ADV">ensin; aikaisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ондален</l>
          <stg>
@@ -6322,8 +6322,8 @@
             <t pos="ADV">petoksella</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончык</l>
          <stg>
@@ -6343,8 +6343,8 @@
             <t pos="ADV">eteenpäin, edelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончылан</l>
          <stg>
@@ -6364,8 +6364,8 @@
             <t pos="ADV">edessä(päin)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончылгоч</l>
          <stg>
@@ -6385,8 +6385,8 @@
             <t pos="ADV">aikaisemmin, ennakolta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончыч</l>
          <stg>
@@ -6406,8 +6406,8 @@
             <t pos="ADV">edessä(päin); ensin; sitten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончычын</l>
          <stg>
@@ -6427,8 +6427,8 @@
             <t pos="ADV">edessä(päin); ensin; sitten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончычак</l>
          <stg>
@@ -6448,8 +6448,8 @@
             <t pos="ADV">ennalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>орайын</l>
          <stg>
@@ -6469,8 +6469,8 @@
             <t pos="ADV">levällään, levälleen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>оранек</l>
          <stg>
@@ -6490,8 +6490,8 @@
             <t pos="ADV">tukuittain; kokonaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>очыни</l>
          <stg>
@@ -6511,8 +6511,8 @@
             <t pos="ADV">arvattavasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ошеш</l>
          <stg>
@@ -6532,8 +6532,8 @@
             <t pos="ADV">puhtaaksi (kirj.), valkoiseksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ошкеден</l>
          <stg>
@@ -6553,8 +6553,8 @@
             <t pos="ADV">kävellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ошкылын</l>
          <stg>
@@ -6574,8 +6574,8 @@
             <t pos="ADV">kävellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӧкым</l>
          <stg>
@@ -6595,8 +6595,8 @@
             <t pos="ADV">väkisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӧкымеш</l>
          <stg>
@@ -6616,8 +6616,8 @@
             <t pos="ADV">väkisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӧкымрак</l>
          <stg>
@@ -6637,8 +6637,8 @@
             <t pos="ADV">väkinäisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӧндалын</l>
          <stg>
@@ -6658,8 +6658,8 @@
             <t pos="ADV">avosylin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӧрдыжын</l>
          <stg>
@@ -6679,8 +6679,8 @@
             <t pos="ADV">kallellaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӧрдыжыш</l>
          <stg>
@@ -6700,8 +6700,8 @@
             <t pos="ADV">pois</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӧрмаш</l>
          <stg>
@@ -6721,8 +6721,8 @@
             <t pos="ADV">kummallisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӧрын</l>
          <stg>
@@ -6742,8 +6742,8 @@
             <t pos="ADV">arasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пайдалан</l>
          <stg>
@@ -6763,8 +6763,8 @@
             <t pos="ADV">hyödyksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пайдалын</l>
          <stg>
@@ -6784,8 +6784,8 @@
             <t pos="ADV">hyödyllisesti, tuottoisasti; järkiperäisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>палдыртыде</l>
          <stg>
@@ -6805,8 +6805,8 @@
             <t pos="ADV">tiedottamatta, salaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>палыде</l>
          <stg>
@@ -6826,8 +6826,8 @@
             <t pos="ADV">umpimähkään; tietämättä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>палын</l>
          <stg>
@@ -6847,8 +6847,8 @@
             <t pos="ADV">selvästi, lujasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>палынак</l>
          <stg>
@@ -6868,8 +6868,8 @@
             <t pos="ADV">selvästi; huomattavasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пачаш-пачаш</l>
          <stg>
@@ -6889,8 +6889,8 @@
             <t pos="ADV">kerta kerran jälkeen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пеле-дуре</l>
          <stg>
@@ -6910,8 +6910,8 @@
             <t pos="ADV">jotenkuten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пеле-пеле</l>
          <stg>
@@ -6931,8 +6931,8 @@
             <t pos="ADV">kahtia, puoliksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пелйола</l>
          <stg>
@@ -6952,8 +6952,8 @@
             <t pos="ADV">yhdellä jalalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пелйӱдым</l>
          <stg>
@@ -6973,8 +6973,8 @@
             <t pos="ADV">keskiyöllä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пелке</l>
          <stg>
@@ -6994,8 +6994,8 @@
             <t pos="ADV">sivuun, oheen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пелыгыч</l>
          <stg>
@@ -7015,8 +7015,8 @@
             <t pos="ADV">kahtia, puoliksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пелым-пелтык</l>
          <stg>
@@ -7036,8 +7036,8 @@
             <t pos="ADV">ei sitä eikä tätä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пелыч</l>
          <stg>
@@ -7057,8 +7057,8 @@
             <t pos="ADV">sivulta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пеҥгыдын</l>
          <stg>
@@ -7078,8 +7078,8 @@
             <t pos="ADV">kovasti, lujasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пеш</l>
          <stg>
@@ -7099,8 +7099,8 @@
             <t pos="ADV">hyvin, erittäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пешак</l>
          <stg>
@@ -7120,8 +7120,8 @@
             <t pos="ADV">hyvin, erittäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пий-пырысла</l>
          <stg>
@@ -7141,8 +7141,8 @@
             <t pos="ADV">kuin kissa ja koira</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>писын</l>
          <stg>
@@ -7162,8 +7162,8 @@
             <t pos="ADV">nopeasti, rivakasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пич</l>
          <stg>
@@ -7183,8 +7183,8 @@
             <t pos="ADV">umpeen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пожалуй</l>
          <stg>
@@ -7204,8 +7204,8 @@
             <t pos="ADV">ehkä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>покшек</l>
          <stg>
@@ -7225,8 +7225,8 @@
             <t pos="ADV">keskelle, puoliväliin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>покшелан</l>
          <stg>
@@ -7246,8 +7246,8 @@
             <t pos="ADV">keskellä, keskelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>покшеч</l>
          <stg>
@@ -7267,8 +7267,8 @@
             <t pos="ADV">keskeltä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>покшечын</l>
          <stg>
@@ -7288,8 +7288,8 @@
             <t pos="ADV">keskeltä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>полт</l>
          <stg>
@@ -7309,8 +7309,8 @@
             <t pos="ADV">äkkiä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>помыжалтде</l>
          <stg>
@@ -7330,8 +7330,8 @@
             <t pos="ADV">(kertaakaan) heräämättä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>посна</l>
          <stg>
@@ -7351,8 +7351,8 @@
             <t pos="ADV">erillään; erityisesti; yksityisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>поснак</l>
          <stg>
@@ -7372,8 +7372,8 @@
             <t pos="ADV">erityisen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>посна-посна</l>
          <stg>
@@ -7393,8 +7393,8 @@
             <t pos="ADV">erillisesti; erillään; erityisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>почела</l>
          <stg>
@@ -7414,8 +7414,8 @@
             <t pos="ADV">peräkkäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>поче-поче</l>
          <stg>
@@ -7435,8 +7435,8 @@
             <t pos="ADV">peräkanaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>почеш</l>
          <stg>
@@ -7456,8 +7456,8 @@
             <t pos="ADV">jäljessä, jälkeen, perään</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>почын</l>
          <stg>
@@ -7477,8 +7477,8 @@
             <t pos="ADV">ammollaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>почын-почде</l>
          <stg>
@@ -7498,8 +7498,8 @@
             <t pos="ADV">hieman raollaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пӧртылдымашын</l>
          <stg>
@@ -7519,8 +7519,8 @@
             <t pos="ADV">palaamatta, lopullisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пӧртылшыла</l>
          <stg>
@@ -7540,8 +7540,8 @@
             <t pos="ADV">päinvastaiseen suuntaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>путырак</l>
          <stg>
@@ -7561,8 +7561,8 @@
             <t pos="ADV">liian, liikaa; erittäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пуыде</l>
          <stg>
@@ -7582,8 +7582,8 @@
             <t pos="ADV">antamatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пӱтынек</l>
          <stg>
@@ -7603,8 +7603,8 @@
             <t pos="ADV">kauttaaltaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пӱтынь</l>
          <stg>
@@ -7624,8 +7624,8 @@
             <t pos="ADV">kaikki, kokonaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пыгыльым-пыгыльым</l>
          <stg>
@@ -7645,8 +7645,8 @@
             <t pos="ADV">(deskr. naskalin liikkeistä virsua punottaessa)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пыкше</l>
          <stg>
@@ -7666,8 +7666,8 @@
             <t pos="ADV">tuskin, töin tuskin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пыксе-пыксе</l>
          <stg>
@@ -7687,8 +7687,8 @@
             <t pos="ADV">jotenkuten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пылт-полт</l>
          <stg>
@@ -7708,8 +7708,8 @@
             <t pos="ADV">(deskr. ihmisen nopeista liikkeistä)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пырля</l>
          <stg>
@@ -7729,8 +7729,8 @@
             <t pos="ADV">mukana, mukaan, yhdessä; yhteensä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пырля-пырля</l>
          <stg>
@@ -7750,8 +7750,8 @@
             <t pos="ADV">yhdessä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пырт</l>
          <stg>
@@ -7771,8 +7771,8 @@
             <t pos="ADV">hyvin vähän</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пырчат</l>
          <stg>
@@ -7792,8 +7792,8 @@
             <t pos="ADV">(ei) lainkaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пырчын-пырчын</l>
          <stg>
@@ -7813,8 +7813,8 @@
             <t pos="ADV">-ttAin, kerrallaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пытартышлан</l>
          <stg>
@@ -7834,8 +7834,8 @@
             <t pos="ADV">lopulta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пычкемышын</l>
          <stg>
@@ -7855,8 +7855,8 @@
             <t pos="ADV">himmeästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пычырик</l>
          <stg>
@@ -7876,8 +7876,8 @@
             <t pos="ADV">vähän</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ракатланен</l>
          <stg>
@@ -7897,8 +7897,8 @@
             <t pos="ADV">nauttien; mielellään; yltäkylläisyydessä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рашын</l>
          <stg>
@@ -7918,8 +7918,8 @@
             <t pos="ADV">selvästi, tarkasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рвезынек</l>
          <stg>
@@ -7939,8 +7939,8 @@
             <t pos="ADV">nuoruudesta asti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>роҥгок</l>
          <stg>
@@ -7960,8 +7960,8 @@
             <t pos="ADV">auki</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рушарнян</l>
          <stg>
@@ -7981,8 +7981,8 @@
             <t pos="ADV">sunnuntaina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рушла</l>
          <stg>
@@ -8002,8 +8002,8 @@
             <t pos="ADV">venäjäksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рӱж</l>
          <stg>
@@ -8023,8 +8023,8 @@
             <t pos="ADV">meluten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рӱжге</l>
          <stg>
@@ -8044,8 +8044,8 @@
             <t pos="ADV">kovaäänisesti; myrskyisästi; yksimielisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рыҥ</l>
          <stg>
@@ -8065,8 +8065,8 @@
             <t pos="ADV">tiiviisti, kovasti, ryhdikkäästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рышт-рошт</l>
          <stg>
@@ -8086,8 +8086,8 @@
             <t pos="ADV">(onom. pontevasta astumisesta)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сай</l>
          <stg>
@@ -8107,8 +8107,8 @@
             <t pos="ADV">hyvin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сайрак</l>
          <stg>
@@ -8128,8 +8128,8 @@
             <t pos="ADV">paremmin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сайракын</l>
          <stg>
@@ -8149,8 +8149,8 @@
             <t pos="ADV">paremmin, hyvin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сайын</l>
          <stg>
@@ -8170,8 +8170,8 @@
             <t pos="ADV">hyvin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сайынрак</l>
          <stg>
@@ -8191,8 +8191,8 @@
             <t pos="ADV">paremmin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сайынак</l>
          <stg>
@@ -8212,8 +8212,8 @@
             <t pos="ADV">paremmin; kovasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>самый</l>
          <stg>
@@ -8233,8 +8233,8 @@
             <t pos="ADV">itse, juuri</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ситартышыжлан</l>
          <stg>
@@ -8254,8 +8254,8 @@
             <t pos="ADV">lisäksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ситидимын</l>
          <stg>
@@ -8275,8 +8275,8 @@
             <t pos="ADV">riittämättömästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ситышын</l>
          <stg>
@@ -8296,8 +8296,8 @@
             <t pos="ADV">tarpeeksi, aika lailla, sangen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>содор</l>
          <stg>
@@ -8317,8 +8317,8 @@
             <t pos="ADV">nopeasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сомсора</l>
          <stg>
@@ -8338,8 +8338,8 @@
             <t pos="ADV">omavaltaisesti, omin päin; umpimähkään, harkitsematta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>соптык</l>
          <stg>
@@ -8359,8 +8359,8 @@
             <t pos="ADV">sihisten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сорвыкын</l>
          <stg>
@@ -8380,8 +8380,8 @@
             <t pos="ADV">riekaleina, riekaleiksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сылнын</l>
          <stg>
@@ -8401,8 +8401,8 @@
             <t pos="ADV">kauniisti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сыҥгыльдым-соҥгыльдым</l>
          <stg>
@@ -8422,8 +8422,8 @@
             <t pos="ADV">ontuen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сыптыр-соптыр</l>
          <stg>
@@ -8443,8 +8443,8 @@
             <t pos="ADV">kömpelösti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тавадаҥ</l>
          <stg>
@@ -8464,8 +8464,8 @@
             <t pos="ADV">yrittäen, kilpaillen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тавален-тавален</l>
          <stg>
@@ -8485,8 +8485,8 @@
             <t pos="ADV">kilpaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>такеш</l>
          <stg>
@@ -8506,8 +8506,8 @@
             <t pos="ADV">ilmaiseksi; turhaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>талын</l>
          <stg>
@@ -8527,8 +8527,8 @@
             <t pos="ADV">voimakkaasti, nopeasti, tarmokkaasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тамлын</l>
          <stg>
@@ -8548,8 +8548,8 @@
             <t pos="ADV">halukkaasti, makoisasti, herkullisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>таҥ</l>
          <stg>
@@ -8569,8 +8569,8 @@
             <t pos="ADV">samanaikaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>таража</l>
          <stg>
@@ -8590,8 +8590,8 @@
             <t pos="ADV">hirveästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тарваныде</l>
          <stg>
@@ -8611,8 +8611,8 @@
             <t pos="ADV">liikkumatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>таче-эрла</l>
          <stg>
@@ -8632,8 +8632,8 @@
             <t pos="ADV">piakkoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тевак</l>
          <stg>
@@ -8653,8 +8653,8 @@
             <t pos="ADV">lähes, siinä ja siinä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тегак</l>
          <stg>
@@ -8674,8 +8674,8 @@
             <t pos="ADV">enempää, enää</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>телылан</l>
          <stg>
@@ -8695,8 +8695,8 @@
             <t pos="ADV">talveksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>телым</l>
          <stg>
@@ -8716,8 +8716,8 @@
             <t pos="ADV">talvella</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>телылык</l>
          <stg>
@@ -8737,8 +8737,8 @@
             <t pos="ADV">talven varalle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тембак</l>
          <stg>
@@ -8758,8 +8758,8 @@
             <t pos="ADV">lähelle, viereen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тембакырак</l>
          <stg>
@@ -8779,8 +8779,8 @@
             <t pos="ADV">lähemmäs (puhujaa)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тембалан</l>
          <stg>
@@ -8800,8 +8800,8 @@
             <t pos="ADV">lähellä, vieressä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тембач</l>
          <stg>
@@ -8821,8 +8821,8 @@
             <t pos="ADV">läheltä, vierestä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тембачын</l>
          <stg>
@@ -8842,8 +8842,8 @@
             <t pos="ADV">läheltä, vierestä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>темын-темде</l>
          <stg>
@@ -8863,8 +8863,8 @@
             <t pos="ADV">nälissään, ei kylläisenä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тений</l>
          <stg>
@@ -8884,8 +8884,8 @@
             <t pos="ADV">tänä vuonna</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тениеш</l>
          <stg>
@@ -8905,8 +8905,8 @@
             <t pos="ADV">täksi vuodeksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>теньыш</l>
          <stg>
@@ -8926,8 +8926,8 @@
             <t pos="ADV">tännemmä(s)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>теньыш-оньӱш</l>
          <stg>
@@ -8947,8 +8947,8 @@
             <t pos="ADV">edestakaisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>теҥгечысек</l>
          <stg>
@@ -8968,8 +8968,8 @@
             <t pos="ADV">eilisestä lähtien</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тептерде</l>
          <stg>
@@ -8989,8 +8989,8 @@
             <t pos="ADV">taitamattomasti, järjettömästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тетла</l>
          <stg>
@@ -9010,8 +9010,8 @@
             <t pos="ADV">(kielto +) tämän enempää, enää, vielä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тич</l>
          <stg>
@@ -9031,8 +9031,8 @@
             <t pos="ADV">täynnä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тичак</l>
          <stg>
@@ -9052,8 +9052,8 @@
             <t pos="ADV">täysin, kokonaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тичмаш</l>
          <stg>
@@ -9073,8 +9073,8 @@
             <t pos="ADV">koko, täynnä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тичмашнек</l>
          <stg>
@@ -9094,8 +9094,8 @@
             <t pos="ADV">täydellisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тичмашын</l>
          <stg>
@@ -9115,8 +9115,8 @@
             <t pos="ADV">täydellisesti, kokonaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>товат</l>
          <stg>
@@ -9136,8 +9136,8 @@
             <t pos="ADV">totta tosiaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ток</l>
          <stg>
@@ -9157,8 +9157,8 @@
             <t pos="ADV">kylläisesti; vauraasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тока</l>
          <stg>
@@ -9178,8 +9178,8 @@
             <t pos="ADV">äsken; viimeksi; (hädin) tuskin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>толдымашын</l>
          <stg>
@@ -9199,8 +9199,8 @@
             <t pos="ADV">takaisin tulematta, tyystin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>толшыла</l>
          <stg>
@@ -9220,8 +9220,8 @@
             <t pos="ADV">ohimennen, samalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>томам</l>
          <stg>
@@ -9241,8 +9241,8 @@
             <t pos="ADV">huonosti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тора</l>
          <stg>
@@ -9262,8 +9262,8 @@
             <t pos="ADV">kaukana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тореш</l>
          <stg>
@@ -9283,8 +9283,8 @@
             <t pos="ADV">poikittain, poikki; vastaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тореш-кутынь</l>
          <stg>
@@ -9304,8 +9304,8 @@
             <t pos="ADV">pitkin ja poikin, ristiin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>торжан</l>
          <stg>
@@ -9325,8 +9325,8 @@
             <t pos="ADV">jyrkästi, karkeasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тоштыла</l>
          <stg>
@@ -9346,8 +9346,8 @@
             <t pos="ADV">entisellään, entisen lailla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тоштын-тоштде</l>
          <stg>
@@ -9367,8 +9367,8 @@
             <t pos="ADV">arkaillen, peläten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӧр</l>
          <stg>
@@ -9388,8 +9388,8 @@
             <t pos="ADV">tasalle, tasalla; tasaisesti; suorassa; suoraan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӧрген-тӧрген</l>
          <stg>
@@ -9409,8 +9409,8 @@
             <t pos="ADV">laukkaa, laukaten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӧрштыл-тӧрштыл</l>
          <stg>
@@ -9430,8 +9430,8 @@
             <t pos="ADV">hyppien, hypähdellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>трук</l>
          <stg>
@@ -9451,8 +9451,8 @@
             <t pos="ADV">(yht)äkkiä, nopeasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>туак</l>
          <stg>
@@ -9472,8 +9472,8 @@
             <t pos="ADV">ilmaiseksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>туалгын</l>
          <stg>
@@ -9493,8 +9493,8 @@
             <t pos="ADV">siinä tapauksessa, sitten, siis</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тувек</l>
          <stg>
@@ -9514,8 +9514,8 @@
             <t pos="ADV">tuolle puolelle, tuohon puoleen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тувелан</l>
          <stg>
@@ -9535,8 +9535,8 @@
             <t pos="ADV">tuolla puolella</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тувечын</l>
          <stg>
@@ -9556,8 +9556,8 @@
             <t pos="ADV">tuolta puolelta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тувырмелын</l>
          <stg>
@@ -9577,8 +9577,8 @@
             <t pos="ADV">puilla paljailla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тугак</l>
          <stg>
@@ -9598,8 +9598,8 @@
             <t pos="ADV">samoin, (juuri) niin, myös</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тугат</l>
          <stg>
@@ -9619,8 +9619,8 @@
             <t pos="ADV">niinkin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>туге</l>
          <stg>
@@ -9640,8 +9640,8 @@
             <t pos="ADV">kyllä, oikein</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тугодым</l>
          <stg>
@@ -9661,8 +9661,8 @@
             <t pos="ADV">siihen aikaan, silloin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тукымсыр</l>
          <stg>
@@ -9682,8 +9682,8 @@
             <t pos="ADV">ajattelematta, suin päin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тулгойын</l>
          <stg>
@@ -9703,8 +9703,8 @@
             <t pos="ADV">tuskin näkyen, tuikkien, pilkottaen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тулечла</l>
          <stg>
@@ -9724,8 +9724,8 @@
             <t pos="ADV">sitä paitsi, sen lisäksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тунамеш</l>
          <stg>
@@ -9745,8 +9745,8 @@
             <t pos="ADV">siihen aikaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тунамлан</l>
          <stg>
@@ -9766,8 +9766,8 @@
             <t pos="ADV">siihen aikaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тупа-тупа</l>
          <stg>
@@ -9787,8 +9787,8 @@
             <t pos="ADV">seläkkäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тупе-ваше</l>
          <stg>
@@ -9808,8 +9808,8 @@
             <t pos="ADV">seläkkäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тупела-мела</l>
          <stg>
@@ -9829,8 +9829,8 @@
             <t pos="ADV">seläkkäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тупынь</l>
          <stg>
@@ -9850,8 +9850,8 @@
             <t pos="ADV">selkä vasten (jtak); nurin(päin); päinvastoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тура</l>
          <stg>
@@ -9871,8 +9871,8 @@
             <t pos="ADV">jyrkästi; suoraan; oikein; juuri, aivan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тура-дура</l>
          <stg>
@@ -9892,8 +9892,8 @@
             <t pos="ADV">toinen toista(an) vastaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>туран</l>
          <stg>
@@ -9913,8 +9913,8 @@
             <t pos="ADV">harkitsemattomasti, suoraan; jyrkästi, ankarasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тутлын</l>
          <stg>
@@ -9934,8 +9934,8 @@
             <t pos="ADV">maukkaasti, mehevästi; makeasti, suloisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тутыш</l>
          <stg>
@@ -9955,8 +9955,8 @@
             <t pos="ADV">aina, koko ajan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тушкен</l>
          <stg>
@@ -9976,8 +9976,8 @@
             <t pos="ADV">(ajasta) tähän asti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тушкыла</l>
          <stg>
@@ -9997,8 +9997,8 @@
             <t pos="ADV">sinnepäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱан</l>
          <stg>
@@ -10018,8 +10018,8 @@
             <t pos="ADV">ulkona, pihalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱвыт</l>
          <stg>
@@ -10039,8 +10039,8 @@
             <t pos="ADV">täysin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱгыч</l>
          <stg>
@@ -10060,8 +10060,8 @@
             <t pos="ADV">ulkoa, ulkopuolelta, pihalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱжвак</l>
          <stg>
@@ -10081,8 +10081,8 @@
             <t pos="ADV">ulos, ulkopuolelle, pihalle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱжвалан</l>
          <stg>
@@ -10102,8 +10102,8 @@
             <t pos="ADV">ulkona, ulkopuolella</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱжвач</l>
          <stg>
@@ -10123,8 +10123,8 @@
             <t pos="ADV">ulkoa, ulkopuolelta, pihalta; pintapuolisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱжвачын</l>
          <stg>
@@ -10144,8 +10144,8 @@
             <t pos="ADV">ulkoa, ulkopuolelta, pihalta; pintapuolisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱйычын</l>
          <stg>
@@ -10165,8 +10165,8 @@
             <t pos="ADV">ulkoa, ulkopuolelta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱҥалтышлан</l>
          <stg>
@@ -10186,8 +10186,8 @@
             <t pos="ADV">aluksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱҥге-вожге</l>
          <stg>
@@ -10207,8 +10207,8 @@
             <t pos="ADV">perin pohjin; yksityiskohdittain</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱргоч</l>
          <stg>
@@ -10228,8 +10228,8 @@
             <t pos="ADV">reunan yli; liikaa, liian, ylettömästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱркак</l>
          <stg>
@@ -10249,8 +10249,8 @@
             <t pos="ADV">pörrössä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱрлын</l>
          <stg>
@@ -10270,8 +10270,8 @@
             <t pos="ADV">eri tavoin, kaikin keinoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱрын</l>
          <stg>
@@ -10291,8 +10291,8 @@
             <t pos="ADV">kallellaan, vinossa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱрыс</l>
          <stg>
@@ -10312,8 +10312,8 @@
             <t pos="ADV">tarkasti, varmasti, oikeasti; kokonaan, täysin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱрыснек</l>
          <stg>
@@ -10333,8 +10333,8 @@
             <t pos="ADV">täysin, kokonaan, täydellisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱткын</l>
          <stg>
@@ -10354,8 +10354,8 @@
             <t pos="ADV">tarkasti, ponnekkaasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱчан</l>
          <stg>
@@ -10375,8 +10375,8 @@
             <t pos="ADV">kasoittain, ryhmittäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱчанек</l>
          <stg>
@@ -10396,8 +10396,8 @@
             <t pos="ADV">kokonaan, kokonaisena</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱшкан</l>
          <stg>
@@ -10417,8 +10417,8 @@
             <t pos="ADV">ryhmänä, ryhmässä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱшкан-тӱшкан</l>
          <stg>
@@ -10438,8 +10438,8 @@
             <t pos="ADV">ryhminä, ryhmissä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тывек</l>
          <stg>
@@ -10459,8 +10459,8 @@
             <t pos="ADV">tuohon suuntaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тывекыла</l>
          <stg>
@@ -10480,8 +10480,8 @@
             <t pos="ADV">tuonnepäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тывелан</l>
          <stg>
@@ -10501,8 +10501,8 @@
             <t pos="ADV">tuolla suunnalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тывеч</l>
          <stg>
@@ -10522,8 +10522,8 @@
             <t pos="ADV">tuolta suunnalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тывечын</l>
          <stg>
@@ -10543,8 +10543,8 @@
             <t pos="ADV">tuolta suunnalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгак</l>
          <stg>
@@ -10564,8 +10564,8 @@
             <t pos="ADV">täten, samoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгат-тугат</l>
          <stg>
@@ -10585,8 +10585,8 @@
             <t pos="ADV">puolin ja toisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгеракын</l>
          <stg>
@@ -10606,8 +10606,8 @@
             <t pos="ADV">tällä tavalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыглай</l>
          <stg>
@@ -10627,8 +10627,8 @@
             <t pos="ADV">muuten vain, niin/noin vain</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгодым</l>
          <stg>
@@ -10648,8 +10648,8 @@
             <t pos="ADV">nykyään, nyt, tällöin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгыдырак</l>
          <stg>
@@ -10669,8 +10669,8 @@
             <t pos="ADV">pienemmästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгыдемден</l>
          <stg>
@@ -10690,8 +10690,8 @@
             <t pos="ADV">vähittäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгыдын</l>
          <stg>
@@ -10711,8 +10711,8 @@
             <t pos="ADV">pieneksi, pienesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыманмеш</l>
          <stg>
@@ -10732,8 +10732,8 @@
             <t pos="ADV">heti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыматлын</l>
          <stg>
@@ -10753,8 +10753,8 @@
             <t pos="ADV">kohteliaasti, ystävällisesti, vaatimattomasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыныслын</l>
          <stg>
@@ -10774,8 +10774,8 @@
             <t pos="ADV">rauhallisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыҥге</l>
          <stg>
@@ -10795,8 +10795,8 @@
             <t pos="ADV">tuohon suuntaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыҥгела</l>
          <stg>
@@ -10816,8 +10816,8 @@
             <t pos="ADV">tuohon suuntaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыҥгыл-тӱҥгыл</l>
          <stg>
@@ -10837,8 +10837,8 @@
             <t pos="ADV">(deskr. jalkojen kankeasta liikkumisesta)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тып-туанеш</l>
          <stg>
@@ -10858,8 +10858,8 @@
             <t pos="ADV">syyttä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тырын-тӱрын</l>
          <stg>
@@ -10879,8 +10879,8 @@
             <t pos="ADV">hoippuen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тышкыла</l>
          <stg>
@@ -10900,8 +10900,8 @@
             <t pos="ADV">tälle suunnalle, tännepäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>уверде</l>
          <stg>
@@ -10921,8 +10921,8 @@
             <t pos="ADV">tiedotta, sanomatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>угыч</l>
          <stg>
@@ -10942,8 +10942,8 @@
             <t pos="ADV">uudestaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>угычын</l>
          <stg>
@@ -10963,8 +10963,8 @@
             <t pos="ADV">uudestaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ужаргынек</l>
          <stg>
@@ -10984,8 +10984,8 @@
             <t pos="ADV">vihreänä, raakana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ужашын</l>
          <stg>
@@ -11005,8 +11005,8 @@
             <t pos="ADV">osittain</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>уже</l>
          <stg>
@@ -11026,8 +11026,8 @@
             <t pos="ADV">jo</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ужмеш</l>
          <stg>
@@ -11047,8 +11047,8 @@
             <t pos="ADV">näkemiin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>укерак</l>
          <stg>
@@ -11068,8 +11068,8 @@
             <t pos="ADV">vähää vaille</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>умбак</l>
          <stg>
@@ -11089,8 +11089,8 @@
             <t pos="ADV">kauas, kauemmas</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>умбакырак</l>
          <stg>
@@ -11110,8 +11110,8 @@
             <t pos="ADV">(vielä) kauemmas</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>умбалан</l>
          <stg>
@@ -11131,8 +11131,8 @@
             <t pos="ADV">kaukana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>умбач</l>
          <stg>
@@ -11152,8 +11152,8 @@
             <t pos="ADV">kaukaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>умбачын</l>
          <stg>
@@ -11173,8 +11173,8 @@
             <t pos="ADV">kaukaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>умшаваш</l>
          <stg>
@@ -11194,8 +11194,8 @@
             <t pos="ADV">henkilökohtaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>унала</l>
          <stg>
@@ -11215,8 +11215,8 @@
             <t pos="ADV">vieraisille</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>уналык</l>
          <stg>
@@ -11236,8 +11236,8 @@
             <t pos="ADV">vieraisille</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>уналыкеш</l>
          <stg>
@@ -11257,8 +11257,8 @@
             <t pos="ADV">vieraisille</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>унчылвуйын</l>
          <stg>
@@ -11278,8 +11278,8 @@
             <t pos="ADV">alassuin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>унчыливуя</l>
          <stg>
@@ -11299,8 +11299,8 @@
             <t pos="ADV">pää edellä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>унчыли</l>
          <stg>
@@ -11320,8 +11320,8 @@
             <t pos="ADV">alaspäin, riipuksissa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>урырсыр</l>
          <stg>
@@ -11341,8 +11341,8 @@
             <t pos="ADV">turhaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>устан</l>
          <stg>
@@ -11362,8 +11362,8 @@
             <t pos="ADV">taitavasti, lahjakkaasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>утла</l>
          <stg>
@@ -11383,8 +11383,8 @@
             <t pos="ADV">enemmän kuin, liian, liikaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>утларак</l>
          <stg>
@@ -11404,8 +11404,8 @@
             <t pos="ADV">enemmän</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>утларакшым</l>
          <stg>
@@ -11425,8 +11425,8 @@
             <t pos="ADV">enimmäkseen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>утыжым</l>
          <stg>
@@ -11446,8 +11446,8 @@
             <t pos="ADV">liikaa, liian</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>утымеш</l>
          <stg>
@@ -11467,8 +11467,8 @@
             <t pos="ADV">täyteen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>утыр</l>
          <stg>
@@ -11488,8 +11488,8 @@
             <t pos="ADV">yhä, vielä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>утыр-утыр</l>
          <stg>
@@ -11509,8 +11509,8 @@
             <t pos="ADV">yhä enemmän ja enemmän, vielä ja vielä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ушдымыла</l>
          <stg>
@@ -11530,8 +11530,8 @@
             <t pos="ADV">hullusti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>уэш</l>
          <stg>
@@ -11551,8 +11551,8 @@
             <t pos="ADV">uudestaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>уэш-пачаш</l>
          <stg>
@@ -11572,8 +11572,8 @@
             <t pos="ADV">yhä uudelleen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱвыре</l>
          <stg>
@@ -11593,8 +11593,8 @@
             <t pos="ADV">olla sokkosilla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлан</l>
          <stg>
@@ -11614,8 +11614,8 @@
             <t pos="ADV">alas, alhaalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱланрак</l>
          <stg>
@@ -11635,8 +11635,8 @@
             <t pos="ADV">alempana, alhaalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлкырак</l>
          <stg>
@@ -11656,8 +11656,8 @@
             <t pos="ADV">alemmas, alhaalle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлнырак</l>
          <stg>
@@ -11677,8 +11677,8 @@
             <t pos="ADV">alempana, alhaalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлык</l>
          <stg>
@@ -11698,8 +11698,8 @@
             <t pos="ADV">alhaalle, alas</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлыксырак</l>
          <stg>
@@ -11719,8 +11719,8 @@
             <t pos="ADV">alemmaksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлыкыла</l>
          <stg>
@@ -11740,8 +11740,8 @@
             <t pos="ADV">alas(päin)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлыч</l>
          <stg>
@@ -11761,8 +11761,8 @@
             <t pos="ADV">alhaalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлычын</l>
          <stg>
@@ -11782,8 +11782,8 @@
             <t pos="ADV">alhaalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмашсек</l>
          <stg>
@@ -11803,8 +11803,8 @@
             <t pos="ADV">viime/edellisestä vuodesta lähtien</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбак</l>
          <stg>
@@ -11824,8 +11824,8 @@
             <t pos="ADV">ylös, päälle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбала</l>
          <stg>
@@ -11845,8 +11845,8 @@
             <t pos="ADV">päällekkäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбалан</l>
          <stg>
@@ -11866,8 +11866,8 @@
             <t pos="ADV">ylös, päälle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбач</l>
          <stg>
@@ -11887,8 +11887,8 @@
             <t pos="ADV">päältä, ylhäältä; ohimennen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбачын</l>
          <stg>
@@ -11908,8 +11908,8 @@
             <t pos="ADV">päältä, ylhäältä; ohimennen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбач-ӱмбач</l>
          <stg>
@@ -11929,8 +11929,8 @@
             <t pos="ADV">usein, monesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмыреш</l>
          <stg>
@@ -11950,8 +11950,8 @@
             <t pos="ADV">ikiajoiksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмырешлан</l>
          <stg>
@@ -11971,8 +11971,8 @@
             <t pos="ADV">ikiajoiksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмыр-ӱмыреш</l>
          <stg>
@@ -11992,8 +11992,8 @@
             <t pos="ADV">ikiajoiksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмырыштат</l>
          <stg>
@@ -12013,8 +12013,8 @@
             <t pos="ADV">(kielto +) koskaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱҥышын</l>
          <stg>
@@ -12034,8 +12034,8 @@
             <t pos="ADV">rauhallisesti, lempeästi, nöyrästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱпа-ӱпа</l>
          <stg>
@@ -12055,8 +12055,8 @@
             <t pos="ADV">hiuksista, tukkaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱстембак</l>
          <stg>
@@ -12076,8 +12076,8 @@
             <t pos="ADV">pöytään, pöydälle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱстембалан</l>
          <stg>
@@ -12097,8 +12097,8 @@
             <t pos="ADV">pöydällä, pöydälle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱстембач</l>
          <stg>
@@ -12118,8 +12118,8 @@
             <t pos="ADV">pöydältä, pöydästä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱстембачын</l>
          <stg>
@@ -12139,8 +12139,8 @@
             <t pos="ADV">pöydältä, pöydästä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱшандарен</l>
          <stg>
@@ -12160,8 +12160,8 @@
             <t pos="ADV">vakuuttaen; vakuuttavasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱшанен</l>
          <stg>
@@ -12181,8 +12181,8 @@
             <t pos="ADV">uskoen, luottaen; luottava(ise)sti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱштыле</l>
          <stg>
@@ -12202,8 +12202,8 @@
             <t pos="ADV">aivan auki, vyö auki</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱяк-мӱяк</l>
          <stg>
@@ -12223,8 +12223,8 @@
             <t pos="ADV">hyvin, sopuisasti; maukkaasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чак</l>
          <stg>
@@ -12244,8 +12244,8 @@
             <t pos="ADV">lähelle; (murt.) vaivoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чакныде</l>
          <stg>
@@ -12265,8 +12265,8 @@
             <t pos="ADV">peräänantamattomasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чаманен</l>
          <stg>
@@ -12286,8 +12286,8 @@
             <t pos="ADV">säälien, pahoitellen; hellävaroin, myötätuntoisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чаманыде</l>
          <stg>
@@ -12307,8 +12307,8 @@
             <t pos="ADV">säälimättömästi, tunteettomasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чаравуйын</l>
          <stg>
@@ -12328,8 +12328,8 @@
             <t pos="ADV">avopäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чаравуя</l>
          <stg>
@@ -12349,8 +12349,8 @@
             <t pos="ADV">avopäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чарайолын</l>
          <stg>
@@ -12370,8 +12370,8 @@
             <t pos="ADV">avojaloin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чараматын</l>
          <stg>
@@ -12391,8 +12391,8 @@
             <t pos="ADV">ilkosen alasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чаранек</l>
          <stg>
@@ -12412,8 +12412,8 @@
             <t pos="ADV">ilkosen alasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чараш</l>
          <stg>
@@ -12433,8 +12433,8 @@
             <t pos="ADV">ulos</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чарнен-чарнен</l>
          <stg>
@@ -12454,8 +12454,8 @@
             <t pos="ADV">pysähdellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чарныде</l>
          <stg>
@@ -12475,8 +12475,8 @@
             <t pos="ADV">lakkaamatta, jatkuvasti, aina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чеверын</l>
          <stg>
@@ -12496,8 +12496,8 @@
             <t pos="ADV">kauniisti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чеслын</l>
          <stg>
@@ -12517,8 +12517,8 @@
             <t pos="ADV">(puhek.) kunnolla, todella, aika lailla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чечас</l>
          <stg>
@@ -12538,8 +12538,8 @@
             <t pos="ADV">heti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чисти</l>
          <stg>
@@ -12559,8 +12559,8 @@
             <t pos="ADV">(puhek.) aivan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чок</l>
          <stg>
@@ -12580,8 +12580,8 @@
             <t pos="ADV">(puhek.) melko paljon</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чоклок</l>
          <stg>
@@ -12601,8 +12601,8 @@
             <t pos="ADV">harkitsemattomasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чокым</l>
          <stg>
@@ -12622,8 +12622,8 @@
             <t pos="ADV">umpimähkään, suunnilleen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чолган</l>
          <stg>
@@ -12643,8 +12643,8 @@
             <t pos="ADV">kirkkaasti; rohkeasti, vilkkaasti, riuskasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чонысыр</l>
          <stg>
@@ -12664,8 +12664,8 @@
             <t pos="ADV">hysteerisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чоҥештышыла</l>
          <stg>
@@ -12685,8 +12685,8 @@
             <t pos="ADV">lentäessä, lennossa, lennosta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чорикын</l>
          <stg>
@@ -12706,8 +12706,8 @@
             <t pos="ADV">läpitunkevasti kirkuen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чоткыдын</l>
          <stg>
@@ -12727,8 +12727,8 @@
             <t pos="ADV">lujasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чотым</l>
          <stg>
@@ -12748,8 +12748,8 @@
             <t pos="ADV">liian, liikaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чоян</l>
          <stg>
@@ -12769,8 +12769,8 @@
             <t pos="ADV">viekkaasti, hoksaavaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чулымын</l>
          <stg>
@@ -12790,8 +12790,8 @@
             <t pos="ADV">eloisasti, rivakasti, taitavasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чумыр</l>
          <stg>
@@ -12811,8 +12811,8 @@
             <t pos="ADV">yhteensä, kokonaisuutena</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чурекак</l>
          <stg>
@@ -12832,8 +12832,8 @@
             <t pos="ADV">äkkiä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чурик</l>
          <stg>
@@ -12853,8 +12853,8 @@
             <t pos="ADV">äkkiä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чӱчкыдын</l>
          <stg>
@@ -12874,8 +12874,8 @@
             <t pos="ADV">usein, tiheästi, sakeasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чыж-чож</l>
          <stg>
@@ -12895,8 +12895,8 @@
             <t pos="ADV">sihisten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чык-чыкак</l>
          <stg>
@@ -12916,8 +12916,8 @@
             <t pos="ADV">kerällä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чылан</l>
          <stg>
@@ -12937,8 +12937,8 @@
             <t pos="ADV">kaikin, kaikki</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чыли-чули</l>
          <stg>
@@ -12958,8 +12958,8 @@
             <t pos="ADV">(deskr. tulen tuikkeesta)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чылт</l>
          <stg>
@@ -12979,8 +12979,8 @@
             <t pos="ADV">aivan, täysin, kokonaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чылт-чолт</l>
          <stg>
@@ -13000,8 +13000,8 @@
             <t pos="ADV">helisten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чыл-чыл</l>
          <stg>
@@ -13021,8 +13021,8 @@
             <t pos="ADV">(deskr. tulen loisteesta)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чынак</l>
          <stg>
@@ -13042,8 +13042,8 @@
             <t pos="ADV">todellakin, itse asiassa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чынакак</l>
          <stg>
@@ -13063,8 +13063,8 @@
             <t pos="ADV">todellakin, itse asiassa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чыҥ-чыҥ</l>
          <stg>
@@ -13084,8 +13084,8 @@
             <t pos="ADV">tiiviisti, tarkasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чытамсырланен</l>
          <stg>
@@ -13105,8 +13105,8 @@
             <t pos="ADV">kärsimättömänä, huolestuneena</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чытен</l>
          <stg>
@@ -13126,8 +13126,8 @@
             <t pos="ADV">kärsivällisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чытен-чытыде</l>
          <stg>
@@ -13147,8 +13147,8 @@
             <t pos="ADV">malttamattomana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чытыдымын</l>
          <stg>
@@ -13168,8 +13168,8 @@
             <t pos="ADV">on sietämätöntä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шалан</l>
          <stg>
@@ -13189,8 +13189,8 @@
             <t pos="ADV">erillään, hajallaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шалт</l>
          <stg>
@@ -13210,8 +13210,8 @@
             <t pos="ADV">(juoda) pohjaan saakka</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шалтак</l>
          <stg>
@@ -13231,8 +13231,8 @@
             <t pos="ADV">(juoda) kerralla (pohjaan)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шаҥгысек</l>
          <stg>
@@ -13252,8 +13252,8 @@
             <t pos="ADV">viime ajoista lähtien</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шапаш</l>
          <stg>
@@ -13273,8 +13273,8 @@
             <t pos="ADV">kaiken varalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шарныде</l>
          <stg>
@@ -13294,8 +13294,8 @@
             <t pos="ADV">tajuttomana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шекланыде</l>
          <stg>
@@ -13315,8 +13315,8 @@
             <t pos="ADV">varomatta, harkitsematta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шекланен</l>
          <stg>
@@ -13336,8 +13336,8 @@
             <t pos="ADV">varoittaen; varovasti, harkiten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шемеш</l>
          <stg>
@@ -13357,8 +13357,8 @@
             <t pos="ADV">pääpiirtein</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгек</l>
          <stg>
@@ -13378,8 +13378,8 @@
             <t pos="ADV">taakse(päin), takaisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгек-ончык</l>
          <stg>
@@ -13399,8 +13399,8 @@
             <t pos="ADV">edestakaisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгекыла</l>
          <stg>
@@ -13420,8 +13420,8 @@
             <t pos="ADV">taaksepäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгелан</l>
          <stg>
@@ -13441,8 +13441,8 @@
             <t pos="ADV">jälkeen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгеч</l>
          <stg>
@@ -13462,8 +13462,8 @@
             <t pos="ADV">takaa, perästä; perässä, (selän) takana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгечын</l>
          <stg>
@@ -13483,8 +13483,8 @@
             <t pos="ADV">takaa, perästä; perässä, (selän) takana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шергын</l>
          <stg>
@@ -13504,8 +13504,8 @@
             <t pos="ADV">kalliisti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шижде</l>
          <stg>
@@ -13525,8 +13525,8 @@
             <t pos="ADV">tajuamatta; tunnottomasti; vahingossa; huomaamatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шижде-годде</l>
          <stg>
@@ -13546,8 +13546,8 @@
             <t pos="ADV">odottamatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шиждымын-вучыдымын</l>
          <stg>
@@ -13567,8 +13567,8 @@
             <t pos="ADV">yllättäen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шижмын-шиждымын</l>
          <stg>
@@ -13588,8 +13588,8 @@
             <t pos="ADV">huomaamatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шижын-шижде</l>
          <stg>
@@ -13609,8 +13609,8 @@
             <t pos="ADV">tajuttomana; vahingossa; huomaamatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шинчаваш</l>
          <stg>
@@ -13630,8 +13630,8 @@
             <t pos="ADV">silmästä silmään, kahden kesken</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шинчаорак</l>
          <stg>
@@ -13651,8 +13651,8 @@
             <t pos="ADV">vasten silmiä, henkilökohtaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкет</l>
          <stg>
@@ -13672,8 +13672,8 @@
             <t pos="ADV">yksikseen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкет-шкет</l>
          <stg>
@@ -13693,8 +13693,8 @@
             <t pos="ADV">(kukin) yksikseen, erikseen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шкетын</l>
          <stg>
@@ -13714,8 +13714,8 @@
             <t pos="ADV">yksin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шоген-шогыде</l>
          <stg>
@@ -13735,8 +13735,8 @@
             <t pos="ADV">kärsimättömänä (seisoskella)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шоген-шоген</l>
          <stg>
@@ -13756,8 +13756,8 @@
             <t pos="ADV">pysähdellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шойылан</l>
          <stg>
@@ -13777,8 +13777,8 @@
             <t pos="ADV">jälkeen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шойыч</l>
          <stg>
@@ -13798,8 +13798,8 @@
             <t pos="ADV">takaa, perästä; perässä, (selän) takana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шойычын</l>
          <stg>
@@ -13819,8 +13819,8 @@
             <t pos="ADV">takaa, perästä; perässä, (selän) takana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шокшын</l>
          <stg>
@@ -13840,8 +13840,8 @@
             <t pos="ADV">lämpimästi, kuumasti, palavasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шокшынек</l>
          <stg>
@@ -13861,8 +13861,8 @@
             <t pos="ADV">niin kauan kuin on lämmin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шолаш</l>
          <stg>
@@ -13882,8 +13882,8 @@
             <t pos="ADV">vasemmalle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шолып</l>
          <stg>
@@ -13903,8 +13903,8 @@
             <t pos="ADV">salaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шоналтыде</l>
          <stg>
@@ -13924,8 +13924,8 @@
             <t pos="ADV">harkitsematta, hätiköiden</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шонен</l>
          <stg>
@@ -13945,8 +13945,8 @@
             <t pos="ADV">ajatellen, luullen; harkitusti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шоныдымын</l>
          <stg>
@@ -13966,8 +13966,8 @@
             <t pos="ADV">sattumalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шоҥгеммашеш</l>
          <stg>
@@ -13987,8 +13987,8 @@
             <t pos="ADV">vanhemmiten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шоҥгылыкеш</l>
          <stg>
@@ -14008,8 +14008,8 @@
             <t pos="ADV">vanhemmiten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шортын-шортын</l>
          <stg>
@@ -14029,8 +14029,8 @@
             <t pos="ADV">kyynelissä; itkemisestä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шотде</l>
          <stg>
@@ -14050,8 +14050,8 @@
             <t pos="ADV">turhaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шотдымын</l>
          <stg>
@@ -14071,8 +14071,8 @@
             <t pos="ADV">järjettömästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шотеш</l>
          <stg>
@@ -14092,8 +14092,8 @@
             <t pos="ADV">(jnk) laskuun</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шочмын</l>
          <stg>
@@ -14113,8 +14113,8 @@
             <t pos="ADV">maanantaina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шочын</l>
          <stg>
@@ -14134,8 +14134,8 @@
             <t pos="ADV">(on) ikää, syntymästä; syntyjään</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шошым</l>
          <stg>
@@ -14155,8 +14155,8 @@
             <t pos="ADV">keväällä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шошылан</l>
          <stg>
@@ -14176,8 +14176,8 @@
             <t pos="ADV">kevääksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шӧрын</l>
          <stg>
@@ -14197,8 +14197,8 @@
             <t pos="ADV">vinosti, vinoon; kyljellään, kyljelleen; syrjäsilmällä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шӧрын-тӱрын</l>
          <stg>
@@ -14218,8 +14218,8 @@
             <t pos="ADV">horjuen, vaappuen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шуйдарен</l>
          <stg>
@@ -14239,8 +14239,8 @@
             <t pos="ADV">venyttäen, kurkottaen; verkalleen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шукертак</l>
          <stg>
@@ -14260,8 +14260,8 @@
             <t pos="ADV">kauan (sitten)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шукертсек</l>
          <stg>
@@ -14281,8 +14281,8 @@
             <t pos="ADV">ammoisista ajoista (alkaen), ammoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шукеш</l>
          <stg>
@@ -14302,8 +14302,8 @@
             <t pos="ADV">pitkäksi ajaksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шуматкечын</l>
          <stg>
@@ -14323,8 +14323,8 @@
             <t pos="ADV">lauantaina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шуматын</l>
          <stg>
@@ -14344,8 +14344,8 @@
             <t pos="ADV">lauantaina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шупшын-шуэн</l>
          <stg>
@@ -14365,8 +14365,8 @@
             <t pos="ADV">väkinäisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шургыде</l>
          <stg>
@@ -14386,8 +14386,8 @@
             <t pos="ADV">meluamatta, äänettä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шуэн</l>
          <stg>
@@ -14407,8 +14407,8 @@
             <t pos="ADV">harvoin, harvaan, harvassa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шуэн-шуэн</l>
          <stg>
@@ -14428,8 +14428,8 @@
             <t pos="ADV">harvakseen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шӱлешт-шӱлешт</l>
          <stg>
@@ -14449,8 +14449,8 @@
             <t pos="ADV">läähättäen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шӱлыкын</l>
          <stg>
@@ -14470,8 +14470,8 @@
             <t pos="ADV">murheellisesti, murheellisena</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шӱмдымын</l>
          <stg>
@@ -14491,8 +14491,8 @@
             <t pos="ADV">sydämettömästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шыдын</l>
          <stg>
@@ -14512,8 +14512,8 @@
             <t pos="ADV">vihaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шыжым</l>
          <stg>
@@ -14533,8 +14533,8 @@
             <t pos="ADV">syksyllä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шыжылан</l>
          <stg>
@@ -14554,8 +14554,8 @@
             <t pos="ADV">syksyksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шыман</l>
          <stg>
@@ -14575,8 +14575,8 @@
             <t pos="ADV">hellästi; sileästi; pehmeästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шыҥышырын</l>
          <stg>
@@ -14596,8 +14596,8 @@
             <t pos="ADV">pisteliäästi, kavalasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шып</l>
          <stg>
@@ -14617,8 +14617,8 @@
             <t pos="ADV">hiljaa; vaivihkaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шыпак</l>
          <stg>
@@ -14638,8 +14638,8 @@
             <t pos="ADV">hiljaa; vaivihkaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шыпланыде</l>
          <stg>
@@ -14659,8 +14659,8 @@
             <t pos="ADV">herkeämättä, vaikenematta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шырк</l>
          <stg>
@@ -14680,8 +14680,8 @@
             <t pos="ADV">komeasti, somasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шырпын</l>
          <stg>
@@ -14701,8 +14701,8 @@
             <t pos="ADV">sirpaleiksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ылчык</l>
          <stg>
@@ -14722,8 +14722,8 @@
             <t pos="ADV">aavistuksen verran (jtak)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ынде</l>
          <stg>
@@ -14743,8 +14743,8 @@
             <t pos="ADV">nyt, jo</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ыресла</l>
          <stg>
@@ -14764,8 +14764,8 @@
             <t pos="ADV">ristissä, ristiin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эксыде</l>
          <stg>
@@ -14785,8 +14785,8 @@
             <t pos="ADV">keskeytyksettä, aina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эпереш</l>
          <stg>
@@ -14806,8 +14806,8 @@
             <t pos="ADV">turhaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эр</l>
          <stg>
@@ -14827,8 +14827,8 @@
             <t pos="ADV">varhain</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эргодым</l>
          <stg>
@@ -14848,8 +14848,8 @@
             <t pos="ADV">aamulla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрденырак</l>
          <stg>
@@ -14869,8 +14869,8 @@
             <t pos="ADV">aamuvarhaisella</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрденысек</l>
          <stg>
@@ -14890,8 +14890,8 @@
             <t pos="ADV">aamusta (lähtien)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эре</l>
          <stg>
@@ -14911,8 +14911,8 @@
             <t pos="ADV">koko ajan, aina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эреак</l>
          <stg>
@@ -14932,8 +14932,8 @@
             <t pos="ADV">koko ajan, aina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрелан</l>
          <stg>
@@ -14953,8 +14953,8 @@
             <t pos="ADV">ainiaaksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эр-кас</l>
          <stg>
@@ -14974,8 +14974,8 @@
             <t pos="ADV">aamuin illoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрат-касат</l>
          <stg>
@@ -14995,8 +14995,8 @@
             <t pos="ADV">aamuin illoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эркын</l>
          <stg>
@@ -15016,8 +15016,8 @@
             <t pos="ADV">hitaasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эркын-эркын</l>
          <stg>
@@ -15037,8 +15037,8 @@
             <t pos="ADV">pikkuhiljaa; hyvin hitaasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эркынлен</l>
          <stg>
@@ -15058,8 +15058,8 @@
             <t pos="ADV">hiljalleen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрла</l>
          <stg>
@@ -15079,8 +15079,8 @@
             <t pos="ADV">huomenna</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрлалан</l>
          <stg>
@@ -15100,8 +15100,8 @@
             <t pos="ADV">huomiseksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрлаш</l>
          <stg>
@@ -15121,8 +15121,8 @@
             <t pos="ADV">huomiseen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрлашыжым</l>
          <stg>
@@ -15142,8 +15142,8 @@
             <t pos="ADV">seuraavana/toisena päivänä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эртак</l>
          <stg>
@@ -15163,8 +15163,8 @@
             <t pos="ADV">jatkuvasti, aina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эсогыл</l>
          <stg>
@@ -15184,8 +15184,8 @@
             <t pos="ADV">(kielto +) edes</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эше</l>
          <stg>
@@ -15205,8 +15205,8 @@
             <t pos="ADV">vielä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>юватылде</l>
          <stg>
@@ -15226,8 +15226,8 @@
             <t pos="ADV">vitkastelematta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>юлдий</l>
          <stg>
@@ -15247,8 +15247,8 @@
             <t pos="ADV">on tyhjää, ei ole mitään</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>явылгын</l>
          <stg>
@@ -15268,8 +15268,8 @@
             <t pos="ADV">kuin veitikka</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ялт</l>
          <stg>
@@ -15289,8 +15289,8 @@
             <t pos="ADV">kokonaan, aivan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>яндарын</l>
          <stg>
@@ -15310,8 +15310,8 @@
             <t pos="ADV">puhtaasti; selkeästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>яп-яра</l>
          <stg>
@@ -15331,8 +15331,8 @@
             <t pos="ADV">turhaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>яра</l>
          <stg>
@@ -15352,8 +15352,8 @@
             <t pos="ADV">ilmaiseksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>яралан</l>
          <stg>
@@ -15373,8 +15373,8 @@
             <t pos="ADV">turhaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ятыр</l>
          <stg>
@@ -15394,8 +15394,8 @@
             <t pos="ADV">melko paljon</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ятырын</l>
          <stg>
@@ -15415,8 +15415,8 @@
             <t pos="ADV">paljon</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ятырлан</l>
          <stg>
@@ -15436,8 +15436,8 @@
             <t pos="ADV">paljon</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>яшкатан</l>
          <stg>
@@ -15457,8 +15457,8 @@
             <t pos="ADV">joutuisasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>абсолютно</l>
          <stg>
@@ -15478,8 +15478,8 @@
             <t pos="ADV">absoluuttisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>айда-лийже</l>
          <stg>
@@ -15499,8 +15499,8 @@
             <t pos="ADV">huolimattomasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>аккуратне</l>
          <stg>
@@ -15520,8 +15520,8 @@
             <t pos="ADV">huolellisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>алкынымешке</l>
          <stg>
@@ -15541,8 +15541,8 @@
             <t pos="ADV">(syödä) täyteen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вараже</l>
          <stg>
@@ -15562,8 +15562,8 @@
             <t pos="ADV">sitten, myöhemmin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вашке</l>
          <stg>
@@ -15583,8 +15583,8 @@
             <t pos="ADV">nopeasti, pian</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>веле</l>
          <stg>
@@ -15604,8 +15604,8 @@
             <t pos="ADV">ainoastaan, vasta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>веран-верышке</l>
          <stg>
@@ -15625,8 +15625,8 @@
             <t pos="ADV">paikoilleen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>верлаште</l>
          <stg>
@@ -15646,8 +15646,8 @@
             <t pos="ADV">paikkakunnalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вишкыде</l>
          <stg>
@@ -15667,8 +15667,8 @@
             <t pos="ADV">heikosti, laihasti, harvasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>внимательне</l>
          <stg>
@@ -15688,8 +15688,8 @@
             <t pos="ADV">tarkasti; huomaavaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>воктеке</l>
          <stg>
@@ -15709,8 +15709,8 @@
             <t pos="ADV">luo(kse), viereen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>воктене</l>
          <stg>
@@ -15730,8 +15730,8 @@
             <t pos="ADV">luona, vieressä, vierekkäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вотне</l>
          <stg>
@@ -15751,8 +15751,8 @@
             <t pos="ADV">eilen illalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вучыде</l>
          <stg>
@@ -15772,8 +15772,8 @@
             <t pos="ADV">odottamatta, sattumalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>выжге</l>
          <stg>
@@ -15793,8 +15793,8 @@
             <t pos="ADV">sopuisasti; kevyesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>выче-выче</l>
          <stg>
@@ -15814,8 +15814,8 @@
             <t pos="ADV">lempeästi, sovussa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гане</l>
          <stg>
@@ -15835,8 +15835,8 @@
             <t pos="ADV">lailla, kuten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>добросовестне</l>
          <stg>
@@ -15856,8 +15856,8 @@
             <t pos="ADV">tunnollisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>достойне</l>
          <stg>
@@ -15877,8 +15877,8 @@
             <t pos="ADV">ansiokkaasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>жапыште</l>
          <stg>
@@ -15898,8 +15898,8 @@
             <t pos="ADV">ajoissa, aikaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иканаште</l>
          <stg>
@@ -15919,8 +15919,8 @@
             <t pos="ADV">kerralla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>икганаште</l>
          <stg>
@@ -15940,8 +15940,8 @@
             <t pos="ADV">heti, kerralla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>икече</l>
          <stg>
@@ -15961,8 +15961,8 @@
             <t pos="ADV">tuonnoin, viime kerralla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>иктӱрле</l>
          <stg>
@@ -15982,8 +15982,8 @@
             <t pos="ADV">jotakuinkin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йолдырге</l>
          <stg>
@@ -16003,8 +16003,8 @@
             <t pos="ADV">keimaillen, teeskennellen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йошкаргымешке</l>
          <stg>
@@ -16024,8 +16024,8 @@
             <t pos="ADV">punaiseksi, punoittavaksi (asti)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӱдше-кечӱже</l>
          <stg>
@@ -16045,8 +16045,8 @@
             <t pos="ADV">öin (ja) päivin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йыжве-яжве</l>
          <stg>
@@ -16066,8 +16066,8 @@
             <t pos="ADV">(paikka) paikoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йыжге</l>
          <stg>
@@ -16087,8 +16087,8 @@
             <t pos="ADV">(äänestä) hiljaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йымаке</l>
          <stg>
@@ -16108,8 +16108,8 @@
             <t pos="ADV">alle, alas(päin)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йымалне</l>
          <stg>
@@ -16129,8 +16129,8 @@
             <t pos="ADV">alla, alhaalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йырве-йорве</l>
          <stg>
@@ -16150,8 +16150,8 @@
             <t pos="ADV">pieninä kasoina</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йырве-ярве</l>
          <stg>
@@ -16171,8 +16171,8 @@
             <t pos="ADV">siellä täällä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>каньыле</l>
          <stg>
@@ -16192,8 +16192,8 @@
             <t pos="ADV">hyvin, helposti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кастене</l>
          <stg>
@@ -16213,8 +16213,8 @@
             <t pos="ADV">illalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кастене-кастене</l>
          <stg>
@@ -16234,8 +16234,8 @@
             <t pos="ADV">iltaisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кеҥеше-телӱже</l>
          <stg>
@@ -16255,8 +16255,8 @@
             <t pos="ADV">kesät talvet</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>коклашке</l>
          <stg>
@@ -16276,8 +16276,8 @@
             <t pos="ADV">väliin, keskelle, keskuuteeen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>коклаште</l>
          <stg>
@@ -16297,8 +16297,8 @@
             <t pos="ADV">keskuudessa, keskellä; (iness)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>коктыте</l>
          <stg>
@@ -16318,8 +16318,8 @@
             <t pos="ADV">kahtia; kahtalaisesti; kaksinkerroin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>конешне</l>
          <stg>
@@ -16339,8 +16339,8 @@
             <t pos="ADV">tietenkin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>конкретне</l>
          <stg>
@@ -16360,8 +16360,8 @@
             <t pos="ADV">konkreettisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>коҥлайылне</l>
          <stg>
@@ -16381,8 +16381,8 @@
             <t pos="ADV">kainalossa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кошкымешке</l>
          <stg>
@@ -16402,8 +16402,8 @@
             <t pos="ADV">kuivaksi (asti)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧргышке</l>
          <stg>
@@ -16423,8 +16423,8 @@
             <t pos="ADV">sisään, sisäpuolelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӧргыште</l>
          <stg>
@@ -16444,8 +16444,8 @@
             <t pos="ADV">sisässä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кудыте</l>
          <stg>
@@ -16465,8 +16465,8 @@
             <t pos="ADV">kuudeksi, kuuteen (osaan)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кумыште</l>
          <stg>
@@ -16486,8 +16486,8 @@
             <t pos="ADV">ylihuomenna</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>куштылге</l>
          <stg>
@@ -16507,8 +16507,8 @@
             <t pos="ADV">helposti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱдыке</l>
          <stg>
@@ -16528,8 +16528,8 @@
             <t pos="ADV">viereen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱдылне</l>
          <stg>
@@ -16549,8 +16549,8 @@
             <t pos="ADV">vieressä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱшке</l>
          <stg>
@@ -16570,8 +16570,8 @@
             <t pos="ADV">ylös, korkealle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱшне</l>
          <stg>
@@ -16591,8 +16591,8 @@
             <t pos="ADV">ylhäällä, yllä, korkealla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыве-кове</l>
          <stg>
@@ -16612,8 +16612,8 @@
             <t pos="ADV">(deskr.) nopeasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыдалне</l>
          <stg>
@@ -16633,8 +16633,8 @@
             <t pos="ADV">keskellä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыде-годе</l>
          <stg>
@@ -16654,8 +16654,8 @@
             <t pos="ADV">(deskr. nopea liike)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кызырге</l>
          <stg>
@@ -16675,8 +16675,8 @@
             <t pos="ADV">hiljaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кырте-карте</l>
          <stg>
@@ -16696,8 +16696,8 @@
             <t pos="ADV">siellä täällä; sikin sokin hieman</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишке</l>
          <stg>
@@ -16717,8 +16717,8 @@
             <t pos="ADV">lähelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишке</l>
          <stg>
@@ -16738,8 +16738,8 @@
             <t pos="ADV">lähelle; lähes, noin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишне</l>
          <stg>
@@ -16759,8 +16759,8 @@
             <t pos="ADV">luona, lähellä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ложге</l>
          <stg>
@@ -16780,8 +16780,8 @@
             <t pos="ADV">kohisten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лорге</l>
          <stg>
@@ -16801,8 +16801,8 @@
             <t pos="ADV">(deskr. kurkun korahtelusta)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>луче</l>
          <stg>
@@ -16822,8 +16822,8 @@
             <t pos="ADV">mieluummin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лӱдде</l>
          <stg>
@@ -16843,8 +16843,8 @@
             <t pos="ADV">rohkeasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лыпке</l>
          <stg>
@@ -16864,8 +16864,8 @@
             <t pos="ADV">hiljaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӧҥган-мӧҥгышке</l>
          <stg>
@@ -16885,8 +16885,8 @@
             <t pos="ADV">(kukin) kotiinsa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӧҥге</l>
          <stg>
@@ -16906,8 +16906,8 @@
             <t pos="ADV">kotiin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӧҥгышке</l>
          <stg>
@@ -16927,8 +16927,8 @@
             <t pos="ADV">kotiin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӧҥгыште</l>
          <stg>
@@ -16948,8 +16948,8 @@
             <t pos="ADV">kotona</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>музырге</l>
          <stg>
@@ -16969,8 +16969,8 @@
             <t pos="ADV">(kävelytavasta) kömpelösti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӱндырке</l>
          <stg>
@@ -16990,8 +16990,8 @@
             <t pos="ADV">kauas</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мӱндырне</l>
          <stg>
@@ -17011,8 +17011,8 @@
             <t pos="ADV">kaukana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мыге-муге</l>
          <stg>
@@ -17032,8 +17032,8 @@
             <t pos="ADV">(deskr. epäselvästä puhumisesta)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>наре</l>
          <stg>
@@ -17053,8 +17053,8 @@
             <t pos="ADV">melkein, noin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нылыте</l>
          <stg>
@@ -17074,8 +17074,8 @@
             <t pos="ADV">neljä kertaa, nelin kerroin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>обидне</l>
          <stg>
@@ -17095,8 +17095,8 @@
             <t pos="ADV">loukkaavasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ожне</l>
          <stg>
@@ -17116,8 +17116,8 @@
             <t pos="ADV">ennen, muinoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ойыртемдыме</l>
          <stg>
@@ -17137,8 +17137,8 @@
             <t pos="ADV">erotuksetta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончӱде</l>
          <stg>
@@ -17158,8 +17158,8 @@
             <t pos="ADV">katsomatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончыке</l>
          <stg>
@@ -17179,8 +17179,8 @@
             <t pos="ADV">eteenpäin, edelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончыко-шеҥгеке</l>
          <stg>
@@ -17200,8 +17200,8 @@
             <t pos="ADV">edestakaisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончыкыже</l>
          <stg>
@@ -17221,8 +17221,8 @@
             <t pos="ADV">vastedes, myöhemmin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончылне</l>
          <stg>
@@ -17242,8 +17242,8 @@
             <t pos="ADV">edessä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>отличне</l>
          <stg>
@@ -17263,8 +17263,8 @@
             <t pos="ADV">(arvostelussa) kiitettävästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӧрдыжке</l>
          <stg>
@@ -17284,8 +17284,8 @@
             <t pos="ADV">syrjään, sivuun</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӧрдыжте</l>
          <stg>
@@ -17305,8 +17305,8 @@
             <t pos="ADV">syrjässä, sivussa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пезмендыме</l>
          <stg>
@@ -17326,8 +17326,8 @@
             <t pos="ADV">puntaritta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пеле</l>
          <stg>
@@ -17347,8 +17347,8 @@
             <t pos="ADV">puoliksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пелмогырышке</l>
          <stg>
@@ -17368,8 +17368,8 @@
             <t pos="ADV">yhdelle puolelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пелмогырыште</l>
          <stg>
@@ -17389,8 +17389,8 @@
             <t pos="ADV">yhdellä puolella</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>покшеке</l>
          <stg>
@@ -17410,8 +17410,8 @@
             <t pos="ADV">keskelle, puoliväliin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>покшелне</l>
          <stg>
@@ -17431,8 +17431,8 @@
             <t pos="ADV">keskellä, keskelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>почме</l>
          <stg>
@@ -17452,8 +17452,8 @@
             <t pos="ADV">auki</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>просте</l>
          <stg>
@@ -17473,8 +17473,8 @@
             <t pos="ADV">yksinkertaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пурлашке</l>
          <stg>
@@ -17494,8 +17494,8 @@
             <t pos="ADV">oikealle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рациональне</l>
          <stg>
@@ -17515,8 +17515,8 @@
             <t pos="ADV">rationaalisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>реально</l>
          <stg>
@@ -17536,8 +17536,8 @@
             <t pos="ADV">reaalisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>роҥгедмешке</l>
          <stg>
@@ -17557,8 +17557,8 @@
             <t pos="ADV">röyhtäisyyn asti, täyteen asti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>роштке</l>
          <stg>
@@ -17578,8 +17578,8 @@
             <t pos="ADV">pontevin askelin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>руштмешке</l>
          <stg>
@@ -17599,8 +17599,8 @@
             <t pos="ADV">humalaan asti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сдельне</l>
          <stg>
@@ -17620,8 +17620,8 @@
             <t pos="ADV">urakalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ситале</l>
          <stg>
@@ -17641,8 +17641,8 @@
             <t pos="ADV">riittävästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сыҥге-соҥге</l>
          <stg>
@@ -17662,8 +17662,8 @@
             <t pos="ADV">puolelta toiselle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>таҥастарымаште</l>
          <stg>
@@ -17683,8 +17683,8 @@
             <t pos="ADV">verrattuna</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>таче</l>
          <stg>
@@ -17704,8 +17704,8 @@
             <t pos="ADV">tänään</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>теве-теве</l>
          <stg>
@@ -17725,8 +17725,8 @@
             <t pos="ADV">hädin tuskin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тембаке</l>
          <stg>
@@ -17746,8 +17746,8 @@
             <t pos="ADV">lähelle, viereen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тембалне</l>
          <stg>
@@ -17767,8 +17767,8 @@
             <t pos="ADV">lähellä, vieressä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>теммешке</l>
          <stg>
@@ -17788,8 +17788,8 @@
             <t pos="ADV">kylliksi; reunoja myöten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>темымешке</l>
          <stg>
@@ -17809,8 +17809,8 @@
             <t pos="ADV">täyttämisen loppuun</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>теҥгече</l>
          <stg>
@@ -17830,8 +17830,8 @@
             <t pos="ADV">eilen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>торашке</l>
          <stg>
@@ -17851,8 +17851,8 @@
             <t pos="ADV">kauas, kauemmas</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тораште</l>
          <stg>
@@ -17872,8 +17872,8 @@
             <t pos="ADV">kaukana, etäisyydessä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тувеке</l>
          <stg>
@@ -17893,8 +17893,8 @@
             <t pos="ADV">tuolle puolelle, tuohon puoleen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тувелне</l>
          <stg>
@@ -17914,8 +17914,8 @@
             <t pos="ADV">tuolla puolella</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тугеже</l>
          <stg>
@@ -17935,8 +17935,8 @@
             <t pos="ADV">siinä tapauksessa, sitten, silloin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тугудеште</l>
          <stg>
@@ -17956,8 +17956,8 @@
             <t pos="ADV">silloin, sillä hetkellä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тумарте</l>
          <stg>
@@ -17977,8 +17977,8 @@
             <t pos="ADV">siihen asti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тураште</l>
          <stg>
@@ -17998,8 +17998,8 @@
             <t pos="ADV">lähellä, paikkeilla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>туржалтше</l>
          <stg>
@@ -18019,8 +18019,8 @@
             <t pos="ADV">rypyssä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тутле</l>
          <stg>
@@ -18040,8 +18040,8 @@
             <t pos="ADV">maukkaasti, makeasti, mehevästi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱгал</l>
          <stg>
@@ -18061,8 +18061,8 @@
             <t pos="ADV">tasan, täsmälleen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱге</l>
          <stg>
@@ -18082,8 +18082,8 @@
             <t pos="ADV">ulos, ulkopuolelle, pihalle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱжваке</l>
          <stg>
@@ -18103,8 +18103,8 @@
             <t pos="ADV">ulos, ulkopuolelle, pihalle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱжвалне</l>
          <stg>
@@ -18124,8 +18124,8 @@
             <t pos="ADV">ulkona, ulkopuolella</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱкылыме</l>
          <stg>
@@ -18145,8 +18145,8 @@
             <t pos="ADV">kiinni</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱкылымаште</l>
          <stg>
@@ -18166,8 +18166,8 @@
             <t pos="ADV">lukossa, säpissä, teljettynä, kiinni</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱлыде</l>
          <stg>
@@ -18187,8 +18187,8 @@
             <t pos="ADV">maksamatta, ilmaiseksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱнямбалне</l>
          <stg>
@@ -18208,8 +18208,8 @@
             <t pos="ADV">(kaikkialla) maailmassa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱҥалтыште</l>
          <stg>
@@ -18229,8 +18229,8 @@
             <t pos="ADV">alkuaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тывеке</l>
          <stg>
@@ -18250,8 +18250,8 @@
             <t pos="ADV">tuohon suuntaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тывелне</l>
          <stg>
@@ -18271,8 +18271,8 @@
             <t pos="ADV">tuollapäin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыве-тӧве</l>
          <stg>
@@ -18292,8 +18292,8 @@
             <t pos="ADV">(deskr. yllätyksestä joht. ymmälläänoloa)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгудеште</l>
          <stg>
@@ -18313,8 +18313,8 @@
             <t pos="ADV">tähän aikaan, tällä hetkellä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыгутлаште</l>
          <stg>
@@ -18334,8 +18334,8 @@
             <t pos="ADV">tähän aikaan, tällä hetkellä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыманмешке</l>
          <stg>
@@ -18355,8 +18355,8 @@
             <t pos="ADV">heti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тымарте</l>
          <stg>
@@ -18376,8 +18376,8 @@
             <t pos="ADV">tähän asti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>увертареде</l>
          <stg>
@@ -18397,8 +18397,8 @@
             <t pos="ADV">ilmoittamatta, tietämättä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ужмешке</l>
          <stg>
@@ -18418,8 +18418,8 @@
             <t pos="ADV">näkemiin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>улакыште</l>
          <stg>
@@ -18439,8 +18439,8 @@
             <t pos="ADV">yksinäisyydessä, hiljaisessa paikassa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>улыже</l>
          <stg>
@@ -18460,8 +18460,8 @@
             <t pos="ADV">kokonaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>умбаке</l>
          <stg>
@@ -18481,8 +18481,8 @@
             <t pos="ADV">kauas, kauemmas</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>умбакыже</l>
          <stg>
@@ -18502,8 +18502,8 @@
             <t pos="ADV">edelleen, tuonnempana, vastaisuudessa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>умбале</l>
          <stg>
@@ -18523,8 +18523,8 @@
             <t pos="ADV">nurin(päin)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>умбалне</l>
          <stg>
@@ -18544,8 +18544,8 @@
             <t pos="ADV">kaukana, tuonnempana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>уремыште</l>
          <stg>
@@ -18565,8 +18565,8 @@
             <t pos="ADV">ulkona, kadulla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>устне</l>
          <stg>
@@ -18586,8 +18586,8 @@
             <t pos="ADV">suullisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>утларакше</l>
          <stg>
@@ -18607,8 +18607,8 @@
             <t pos="ADV">enimmäkseen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>утыждене</l>
          <stg>
@@ -18628,8 +18628,8 @@
             <t pos="ADV">liikaa, liian</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>утымешке</l>
          <stg>
@@ -18649,8 +18649,8 @@
             <t pos="ADV">täyteen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлке</l>
          <stg>
@@ -18670,8 +18670,8 @@
             <t pos="ADV">alas, alhaalle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлне</l>
          <stg>
@@ -18691,8 +18691,8 @@
             <t pos="ADV">alhaalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлыке</l>
          <stg>
@@ -18712,8 +18712,8 @@
             <t pos="ADV">alhaalle, alas</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмаште</l>
          <stg>
@@ -18733,8 +18733,8 @@
             <t pos="ADV">viime/edellisvuonna</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбаке</l>
          <stg>
@@ -18754,8 +18754,8 @@
             <t pos="ADV">ylös, päälle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбалне</l>
          <stg>
@@ -18775,8 +18775,8 @@
             <t pos="ADV">päällä, ylhäällä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмырыште</l>
          <stg>
@@ -18796,8 +18796,8 @@
             <t pos="ADV">(kielto +) koskaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱстембалне</l>
          <stg>
@@ -18817,8 +18817,8 @@
             <t pos="ADV">pöydällä, pöydässä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чарашке</l>
          <stg>
@@ -18838,8 +18838,8 @@
             <t pos="ADV">ulos</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чараште</l>
          <stg>
@@ -18859,8 +18859,8 @@
             <t pos="ADV">ulkona</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чоле</l>
          <stg>
@@ -18880,8 +18880,8 @@
             <t pos="ADV">noin, suunnilleen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чурге</l>
          <stg>
@@ -18901,8 +18901,8 @@
             <t pos="ADV">tarkkaavaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чылаже</l>
          <stg>
@@ -18922,8 +18922,8 @@
             <t pos="ADV">yhteensä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шаҥге</l>
          <stg>
@@ -18943,8 +18943,8 @@
             <t pos="ADV">äsken, taannoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгеке</l>
          <stg>
@@ -18964,8 +18964,8 @@
             <t pos="ADV">taakse(päin), takaisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгелне</l>
          <stg>
@@ -18985,8 +18985,8 @@
             <t pos="ADV">takana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шинчаончылне</l>
          <stg>
@@ -19006,8 +19006,8 @@
             <t pos="ADV">vasten silmiä, henkilökohtaisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шодырге</l>
          <stg>
@@ -19027,8 +19027,8 @@
             <t pos="ADV">narskuttaen, naristen, rätisten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шожге</l>
          <stg>
@@ -19048,8 +19048,8 @@
             <t pos="ADV">kahisten, kohisten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шойыке</l>
          <stg>
@@ -19069,8 +19069,8 @@
             <t pos="ADV">taakse(päin), takaisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шойылне</l>
          <stg>
@@ -19090,8 +19090,8 @@
             <t pos="ADV">takana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шолаште</l>
          <stg>
@@ -19111,8 +19111,8 @@
             <t pos="ADV">vasemmalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шолашке</l>
          <stg>
@@ -19132,8 +19132,8 @@
             <t pos="ADV">vasemmalle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шорге</l>
          <stg>
@@ -19153,8 +19153,8 @@
             <t pos="ADV">liristen; ropisten</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шотыште</l>
          <stg>
@@ -19174,8 +19174,8 @@
             <t pos="ADV">(jllak) toimialueella</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шукерте</l>
          <stg>
@@ -19195,8 +19195,8 @@
             <t pos="ADV">kauan (sitten)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шырге</l>
          <stg>
@@ -19216,8 +19216,8 @@
             <t pos="ADV">(hymyillä) ystävällisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эпере</l>
          <stg>
@@ -19237,8 +19237,8 @@
             <t pos="ADV">turhaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрдене</l>
          <stg>
@@ -19258,8 +19258,8 @@
             <t pos="ADV">aamulla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрдене-эрдене</l>
          <stg>
@@ -19279,8 +19279,8 @@
             <t pos="ADV">aamuisin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрдене-кастене</l>
          <stg>
@@ -19300,8 +19300,8 @@
             <t pos="ADV">aamuin illoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрже-касше</l>
          <stg>
@@ -19321,8 +19321,8 @@
             <t pos="ADV">aamuin illoin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>юстырге</l>
          <stg>
@@ -19342,8 +19342,8 @@
             <t pos="ADV">hitaasti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ямде</l>
          <stg>
@@ -19363,5 +19363,5 @@
             <t pos="ADV">valmiina</t>
          </tg>
       </mg>
-   </entry>
+   </e>
 </r>

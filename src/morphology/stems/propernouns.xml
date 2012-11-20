@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+   <e>
       <lg>
          <l>Австралий</l>
          <stg>
@@ -22,8 +22,8 @@
             <t pos="PROP">Australia Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>Азий</l>
          <stg>
@@ -43,8 +43,8 @@
             <t>Aasia Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>Албаний</l>
          <stg>
@@ -64,8 +64,8 @@
             <t>Albania Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>альп</l>
          <stg>
@@ -85,8 +85,8 @@
             <t>Alpit Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>англий</l>
          <stg>
@@ -106,8 +106,8 @@
             <t>Englanti Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>арабий</l>
          <stg>
@@ -127,8 +127,8 @@
             <t>Arabia Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>афины</l>
          <stg>
@@ -148,8 +148,8 @@
             <t>Ateena Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>балтик</l>
          <stg>
@@ -169,8 +169,8 @@
             <t>Itämeri Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>бельгий</l>
          <stg>
@@ -190,8 +190,8 @@
             <t>Belgia Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>болгарий</l>
          <stg>
@@ -211,8 +211,8 @@
             <t>Bulgaria Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>бразилий</l>
          <stg>
@@ -232,8 +232,8 @@
             <t>Brasilia Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>будапешт</l>
          <stg>
@@ -253,8 +253,8 @@
             <t>Budapest Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>венгрий</l>
          <stg>
@@ -274,8 +274,8 @@
             <t>Unkari Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>германий</l>
          <stg>
@@ -295,8 +295,8 @@
             <t>Saksa Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>дунай</l>
          <stg>
@@ -316,8 +316,8 @@
             <t>Tonava Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>испаний</l>
          <stg>
@@ -337,8 +337,8 @@
             <t>Espanja Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>италий</l>
          <stg>
@@ -358,8 +358,8 @@
             <t>Italia Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>какшан</l>
          <stg>
@@ -379,8 +379,8 @@
             <t>(joki) Koks`aga Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>карелий</l>
          <stg>
@@ -400,8 +400,8 @@
             <t>Karjala Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>китай</l>
          <stg>
@@ -421,8 +421,8 @@
             <t>Kiina Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>коркашӱдыр</l>
          <stg>
@@ -442,8 +442,8 @@
             <t>Otava Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ленинград</l>
          <stg>
@@ -463,8 +463,8 @@
             <t>Leningrad Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>моско</l>
          <stg>
@@ -484,8 +484,8 @@
             <t>Moskova Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нидерландий</l>
          <stg>
@@ -505,8 +505,8 @@
             <t>Alankomaat Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пӱевӱд</l>
          <stg>
@@ -526,8 +526,8 @@
             <t>Buj Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пӱрӧвӱд</l>
          <stg>
@@ -547,8 +547,8 @@
             <t>Bir Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рига</l>
          <stg>
@@ -568,8 +568,8 @@
             <t>Riika Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>россий</l>
          <stg>
@@ -589,8 +589,8 @@
             <t>Venäjä Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>румыний</l>
          <stg>
@@ -610,8 +610,8 @@
             <t>Romania Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>финляндий</l>
          <stg>
@@ -631,8 +631,8 @@
             <t>Suomi Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>хельсинки</l>
          <stg>
@@ -652,8 +652,8 @@
             <t>Helsinki Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чарла</l>
          <stg>
@@ -673,8 +673,8 @@
             <t>(vanh.) JoSkar-Ola Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чолман</l>
          <stg>
@@ -694,8 +694,8 @@
             <t>Kama Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шоктешӱдыр</l>
          <stg>
@@ -715,8 +715,8 @@
             <t>Seulaset Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>элнет</l>
          <stg>
@@ -736,8 +736,8 @@
             <t>Iletjoki Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эстоний</l>
          <stg>
@@ -757,8 +757,8 @@
             <t>Viro Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>юл</l>
          <stg>
@@ -778,8 +778,8 @@
             <t>Volga Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>америка</l>
          <stg>
@@ -799,8 +799,8 @@
             <t>Amerikka Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>аргентина</l>
          <stg>
@@ -820,8 +820,8 @@
             <t>Argentiina Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>атлантика</l>
          <stg>
@@ -841,8 +841,8 @@
             <t>Atlantti Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>африка</l>
          <stg>
@@ -862,8 +862,8 @@
             <t>Afrikka Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>варшава</l>
          <stg>
@@ -883,8 +883,8 @@
             <t>Varsova Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>виче</l>
          <stg>
@@ -904,8 +904,8 @@
             <t>Vjatka Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>европа</l>
          <stg>
@@ -925,8 +925,8 @@
             <t>Eurooppa Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>польша</l>
          <stg>
@@ -946,8 +946,8 @@
             <t>Puola Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>прибалтика</l>
          <stg>
@@ -967,8 +967,8 @@
             <t>Baltia Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱпе</l>
          <stg>
@@ -988,8 +988,8 @@
             <t>Ufa Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>швеций</l>
          <stg>
@@ -1009,8 +1009,8 @@
             <t>Ruotsi Prop</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>Таллинн</l>
          <stg>
@@ -1030,5 +1030,5 @@
             <t pos="PROP">Tallinna</t>
          </tg>
       </mg>
-   </entry>
+   </e>
 </r>

@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+   <e>
       <lg>
          <l>айда</l>
          <stg>
@@ -22,8 +22,8 @@
             <t>(keh. tekemään jtak) kas niin, -pAs; -tAAn; (opt.) Pimp</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>айста</l>
          <stg>
@@ -43,8 +43,8 @@
             <t>(keh.) -kAA(s), -kAA(pAs); (keh. lähtemiseen) menkää! Pimp</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тек</l>
          <stg>
@@ -64,8 +64,8 @@
             <t>-kOOn Pimp</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чуза</l>
          <stg>
@@ -85,8 +85,8 @@
             <t>odottakaa!, malttakaa! Pimp</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ага</l>
          <stg>
@@ -106,8 +106,8 @@
             <t>ahaa I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>акмук</l>
          <stg>
@@ -127,8 +127,8 @@
             <t>(ilm. hämmästystä) I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>алло</l>
          <stg>
@@ -148,8 +148,8 @@
             <t>haloo I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>апчи</l>
          <stg>
@@ -169,8 +169,8 @@
             <t>(aivastus) atsih I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>атан</l>
          <stg>
@@ -190,8 +190,8 @@
             <t>parka I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ах</l>
          <stg>
@@ -211,8 +211,8 @@
             <t>ah, oi, voi I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>бау</l>
          <stg>
@@ -232,8 +232,8 @@
             <t>pam, pum I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>бзльоп</l>
          <stg>
@@ -253,8 +253,8 @@
             <t>läiskis, lätsis I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>буҥ</l>
          <stg>
@@ -274,8 +274,8 @@
             <t>hups(is) I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вучи-вучи</l>
          <stg>
@@ -295,8 +295,8 @@
             <t>(kutsuhuuto ankoille) I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>дига-дига</l>
          <stg>
@@ -316,8 +316,8 @@
             <t>(kutsuhuuto hanhille) I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>до-до-до</l>
          <stg>
@@ -337,8 +337,8 @@
             <t>(kutsuhuuto hevoselle) I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>капут</l>
          <stg>
@@ -358,8 +358,8 @@
             <t>loppu I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>караул</l>
          <stg>
@@ -379,8 +379,8 @@
             <t>apua! I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>но</l>
          <stg>
@@ -400,8 +400,8 @@
             <t>(hevosen hoputtamiseksi) I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ой</l>
          <stg>
@@ -421,8 +421,8 @@
             <t>voi! I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ох</l>
          <stg>
@@ -442,8 +442,8 @@
             <t>voi I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пӧчӧк</l>
          <stg>
@@ -463,8 +463,8 @@
             <t>hupsis, varovasti! I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пырыс</l>
          <stg>
@@ -484,8 +484,8 @@
             <t>(kissalle) hus! I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пытыш-кайыш</l>
          <stg>
@@ -505,8 +505,8 @@
             <t>loppu!, riittää (jo)! I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ура</l>
          <stg>
@@ -526,8 +526,8 @@
             <t>hurraa! I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>уф-ф</l>
          <stg>
@@ -547,8 +547,8 @@
             <t>huh huh I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>фу</l>
          <stg>
@@ -568,8 +568,8 @@
             <t>huh huh I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>фу-ӱ</l>
          <stg>
@@ -589,8 +589,8 @@
             <t>huh huh I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чабач</l>
          <stg>
@@ -610,8 +610,8 @@
             <t>hus! (koiran poisajamiseksi) I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чеверын</l>
          <stg>
@@ -631,8 +631,8 @@
             <t>näkämiin, hyvästi I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чиви-чиви-чиви</l>
          <stg>
@@ -652,8 +652,8 @@
             <t>tipu tipu tipu (kutsu kananpoikasille) I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чи-чи-чи</l>
          <stg>
@@ -673,8 +673,8 @@
             <t>tipu tipu tipu (kanojen kutsumiseksi) I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чур-чурат</l>
          <stg>
@@ -694,8 +694,8 @@
             <t>totta tosiaan(kin)!, totisesti I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чыда-чыда</l>
          <stg>
@@ -715,8 +715,8 @@
             <t>tuku tuku (lampaiden kutsumiseksi) I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шабаш</l>
          <stg>
@@ -736,8 +736,8 @@
             <t>riittää!, seis!, loppu! I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шатын</l>
          <stg>
@@ -757,8 +757,8 @@
             <t>(säälin/myötätunnon ilm.) I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эй</l>
          <stg>
@@ -778,8 +778,8 @@
             <t>voi!, no I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эх</l>
          <stg>
@@ -799,8 +799,8 @@
             <t>voi I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>э-э</l>
          <stg>
@@ -820,8 +820,8 @@
             <t>voi voi I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>я</l>
          <stg>
@@ -841,8 +841,8 @@
             <t>no I</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>авай</l>
          <stg>
@@ -862,8 +862,8 @@
             <t>äiti Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>аваже</l>
          <stg>
@@ -883,8 +883,8 @@
             <t>(mies vaimolle) Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>авий</l>
          <stg>
@@ -904,8 +904,8 @@
             <t>äiti Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>акай</l>
          <stg>
@@ -925,8 +925,8 @@
             <t>(vanh. sisarelle; äidin nuor. sisarelle; nuor. miniä vanh:lle) Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ачаже</l>
          <stg>
@@ -946,8 +946,8 @@
             <t>(vaimo aviomiehelle) Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ачай</l>
          <stg>
@@ -967,8 +967,8 @@
             <t>isä, isi Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ачий</l>
          <stg>
@@ -988,8 +988,8 @@
             <t>isä, isi Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>еҥгай</l>
          <stg>
@@ -1009,8 +1009,8 @@
             <t>(isonveljen vaimolle, miniälle ja morsiamelle, vanh. n:lle) Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>изием</l>
          <stg>
@@ -1030,8 +1030,8 @@
             <t>lapseni, kullanmuruni Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кокай</l>
          <stg>
@@ -1051,8 +1051,8 @@
             <t>täti (hyvä) Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кувай</l>
          <stg>
@@ -1072,8 +1072,8 @@
             <t>eukko/täti hyvä Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кугызай</l>
          <stg>
@@ -1093,8 +1093,8 @@
             <t>setä, ukko(seni) Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>курскай</l>
          <stg>
@@ -1114,8 +1114,8 @@
             <t>lanko hyvä Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱдырем</l>
          <stg>
@@ -1135,8 +1135,8 @@
             <t>tyttöseni Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чонеем</l>
          <stg>
@@ -1156,8 +1156,8 @@
             <t>armaani, rakkaani Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чонем</l>
          <stg>
@@ -1177,8 +1177,8 @@
             <t>armaani, rakkaani Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чукай</l>
          <stg>
@@ -1198,8 +1198,8 @@
             <t>rakas, kulta Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чӱчӱй</l>
          <stg>
@@ -1219,8 +1219,8 @@
             <t>setä hyvä Puh</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шоляш</l>
          <stg>
@@ -1240,5 +1240,5 @@
             <t>(nuoremmalle veljelle tai ylip. nuoremmalle) Puh</t>
          </tg>
       </mg>
-   </entry>
+   </e>
 </r>

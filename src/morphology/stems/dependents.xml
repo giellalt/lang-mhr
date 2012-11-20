@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+   <e>
       <lg>
          <l>акрет</l>
          <stg>
@@ -26,8 +26,8 @@
             <xt lang="fin">vanhanaikainen, muinainen X</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>андри</l>
          <stg>
@@ -47,8 +47,8 @@
             <t>a. obed iltapäiväateria X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>аш</l>
          <stg>
@@ -68,8 +68,8 @@
             <t>aS lijZe! terveydeksi! (juotaessa) X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вещевой</l>
          <stg>
@@ -89,8 +89,8 @@
             <t>v. meSak reppu X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>винительный</l>
          <stg>
@@ -110,8 +110,8 @@
             <t>v. padeZ akkusatiivi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>водительский</l>
          <stg>
@@ -131,8 +131,8 @@
             <t>v. prava ajokortti X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вувер</l>
          <stg>
@@ -152,8 +152,8 @@
             <t>v. kuva (myt.) (vars. valoilmiönä nähtävä paha voima) X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вуйым-почым</l>
          <stg>
@@ -173,8 +173,8 @@
             <t>v.-p. pogaS hankkia lähtöä X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>грецкий</l>
          <stg>
@@ -194,8 +194,8 @@
             <t>g. pykS saksanpähkinä X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>дательный</l>
          <stg>
@@ -215,8 +215,8 @@
             <t>d. padeZ datiivi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>домовой</l>
          <stg>
@@ -236,8 +236,8 @@
             <t>d. kniga talonkirja X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>доплатной</l>
          <stg>
@@ -257,8 +257,8 @@
             <t>d. seryS lisämaksullinen kirje X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>желательный</l>
          <stg>
@@ -278,8 +278,8 @@
             <t>Z. naklonenij desideratiivi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>зеркальный</l>
          <stg>
@@ -299,8 +299,8 @@
             <t>z. karp peilikarppi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>изъявительный</l>
          <stg>
@@ -320,8 +320,8 @@
             <t>i. naklonenij indikatiivi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>именительный</l>
          <stg>
@@ -341,8 +341,8 @@
             <t>i. padeZ nominatiivi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йолт</l>
          <stg>
@@ -362,8 +362,8 @@
             <t>j. koAS väl(k)ähtää X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йолчием</l>
          <stg>
@@ -383,8 +383,8 @@
             <t>j. krem kenkävoide, j. mastar suutari X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йоҥ-йоҥ</l>
          <stg>
@@ -404,8 +404,8 @@
             <t>j. SoktaS soida X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йора</l>
          <stg>
@@ -425,8 +425,8 @@
             <t>j. nalaS (hevosen) raviharjoitus X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йошток</l>
          <stg>
@@ -446,8 +446,8 @@
             <t>j. CuCeS on ikävää X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йывыштык</l>
          <stg>
@@ -467,8 +467,8 @@
             <t>j. kiAS maata hiljaa X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йыра</l>
          <stg>
@@ -488,8 +488,8 @@
             <t>j. vyg piimä X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кадем</l>
          <stg>
@@ -509,8 +509,8 @@
             <t>k. godso muinainen X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>каштанат-лай</l>
          <stg>
@@ -530,8 +530,8 @@
             <t>k. kastan kombo kaA parvittain hanhet menevät X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>коҥ</l>
          <stg>
@@ -551,8 +551,8 @@
             <t>k. lijmeS tajuttomuuteen asti X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>коҥгок</l>
          <stg>
@@ -572,8 +572,8 @@
             <t>k. liAS (leivänkannikka) kuivua X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>копыж-ж</l>
          <stg>
@@ -593,8 +593,8 @@
             <t>mogyr kovaStem k. lie minun tuli luihin asti vilu X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>косвенный</l>
          <stg>
@@ -614,8 +614,8 @@
             <t>k. padeZ obliikvisija, k. dopolnenij välillinen objekti X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кулай</l>
          <stg>
@@ -635,8 +635,8 @@
             <t>k. dene modmo piiloleikki X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кумалтыш</l>
          <stg>
@@ -656,8 +656,8 @@
             <t>k. vurgem kapiot (sulhaselle ja hänen sukulaisilleen) X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кумыжвуян</l>
          <stg>
@@ -677,8 +677,8 @@
             <t>k. kiSke tarhakäärme, rantakäärme X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыдач-покшеч</l>
          <stg>
@@ -698,8 +698,8 @@
             <t>k. ojlyStaS puhua sekavasti X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыр-гор</l>
          <stg>
@@ -719,8 +719,8 @@
             <t>k. SoktaS alkaa raapia/kuulua rapinaa X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кырпак</l>
          <stg>
@@ -740,8 +740,8 @@
             <t>k. lum ensilumi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лицевой</l>
          <stg>
@@ -761,8 +761,8 @@
             <t>l. sCet henkilötili X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>логарӱмбал</l>
          <stg>
@@ -782,8 +782,8 @@
             <t>l. nörgö (anat.) kurkunkansi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лодыш</l>
          <stg>
@@ -803,8 +803,8 @@
             <t>modyS gyC l. (san.) leikistä onnettomuus X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лоштак</l>
          <stg>
@@ -824,8 +824,8 @@
             <t>l. volen SinCaS istua kuin kotonaan X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>луэш</l>
          <stg>
@@ -845,8 +845,8 @@
             <t>l. nalaS mennä takuuseen, puolustaa X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лӱмаш</l>
          <stg>
@@ -866,8 +866,8 @@
             <t>ik l. mlande yhden ihmisen maaosuus X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>махым</l>
          <stg>
@@ -887,8 +887,8 @@
             <t>m. puaS ogyl olla haksahtamatta X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>машинно-тракторный</l>
          <stg>
@@ -908,8 +908,8 @@
             <t>m. stancij maanviljelyskoneasema X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>местный</l>
          <stg>
@@ -929,8 +929,8 @@
             <t>m. padeZ lokatiivi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>направительный</l>
          <stg>
@@ -950,8 +950,8 @@
             <t>n. padeZ tulosija X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нашатырный</l>
          <stg>
@@ -971,8 +971,8 @@
             <t>n. spirit ammoniakki(liuos) X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нелеш</l>
          <stg>
@@ -992,8 +992,8 @@
             <t>n. nalaS pahastua X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ноля</l>
          <stg>
@@ -1013,8 +1013,8 @@
             <t>n. meraN (ihm.) laiha X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>обстоятельственный</l>
          <stg>
@@ -1034,8 +1034,8 @@
             <t>o. padeZ (marin) latiivi(sija) X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>олмештыш</l>
          <stg>
@@ -1055,8 +1055,8 @@
             <t>o. mut pronomini X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>оръеҥ</l>
          <stg>
@@ -1076,8 +1076,8 @@
             <t>o. vate morsian, nuorikko X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>отчетно-сайлымаш</l>
          <stg>
@@ -1097,8 +1097,8 @@
             <t>o. pogynymaS vaalikokous X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ошын</l>
          <stg>
@@ -1118,8 +1118,8 @@
             <t>o. koAS valjeta X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>перспективный</l>
          <stg>
@@ -1139,8 +1139,8 @@
             <t>p. paSa plan työn pitkän ajan suunnitelma X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пжик</l>
          <stg>
@@ -1160,8 +1160,8 @@
             <t>p. koAS kadota, livistää X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пиж</l>
          <stg>
@@ -1181,8 +1181,8 @@
             <t>parnASan p. käsine X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>повелительный</l>
          <stg>
@@ -1202,8 +1202,8 @@
             <t>p. naklonenij imperatiivi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>повествовательный</l>
          <stg>
@@ -1223,8 +1223,8 @@
             <t>p. predloZenij väitelause X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>подвесной</l>
          <stg>
@@ -1244,8 +1244,8 @@
             <t>p. korno nostinrata X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пожа</l>
          <stg>
@@ -1265,8 +1265,8 @@
             <t>p. mySkyr möhömaha X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>понудительный</l>
          <stg>
@@ -1286,8 +1286,8 @@
             <t>p. zalog kausatiivi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>почеш</l>
          <stg>
@@ -1307,8 +1307,8 @@
             <t>p. mut postpositio X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пӧтынь</l>
          <stg>
@@ -1328,8 +1328,8 @@
             <t>p. nalaS ostaa X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>превосходный</l>
          <stg>
@@ -1349,8 +1349,8 @@
             <t>p. stepenь superlatiivi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>препинаний</l>
          <stg>
@@ -1370,8 +1370,8 @@
             <t>p. znak-vlak välimerkit X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>придаточный</l>
          <stg>
@@ -1391,8 +1391,8 @@
             <t>p. predloZenij sivulause X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пунчеж</l>
          <stg>
@@ -1412,8 +1412,8 @@
             <t>p. pu niveräinen puu X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пӱчмыла</l>
          <stg>
@@ -1433,8 +1433,8 @@
             <t>p. kalasen SyndaS hän sanoa paukautti X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пыч</l>
          <stg>
@@ -1454,8 +1454,8 @@
             <t>SinCam p. yStaS räp(s)äyttää silmää X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пычык</l>
          <stg>
@@ -1475,8 +1475,8 @@
             <t>p. jylme (anat.) häpykieli X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рад</l>
          <stg>
@@ -1496,8 +1496,8 @@
             <t>r. dene riveittäin X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>родительный</l>
          <stg>
@@ -1517,8 +1517,8 @@
             <t>r. padeZ genetiivi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>роп</l>
          <stg>
@@ -1538,8 +1538,8 @@
             <t>uSeS r. vozo ajatus tuli mieleen äkkiä X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ручной</l>
          <stg>
@@ -1559,8 +1559,8 @@
             <t>r. granata käsikranaatti X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рӱп</l>
          <stg>
@@ -1580,8 +1580,8 @@
             <t>r. liAS tummeta X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сип</l>
          <stg>
@@ -1601,8 +1601,8 @@
             <t>s. CodYra tiheikkö X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>скорый</l>
          <stg>
@@ -1622,8 +1622,8 @@
             <t>s. poezd pikajuna X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сообщений</l>
          <stg>
@@ -1643,8 +1643,8 @@
             <t>s. korno ministerstvo liikenneministeriö X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сослагательный</l>
          <stg>
@@ -1664,8 +1664,8 @@
             <t>s. naklonenij konditionaali X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>страдательный</l>
          <stg>
@@ -1685,8 +1685,8 @@
             <t>s. zalog passiivi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>так</l>
          <stg>
@@ -1706,8 +1706,8 @@
             <t>t. koStaS kulkea joutilaana X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>такеш</l>
          <stg>
@@ -1727,8 +1727,8 @@
             <t>t. kece arkipäivä X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тап</l>
          <stg>
@@ -1748,8 +1748,8 @@
             <t>t. tolaS sattua, joutua, esiintyä X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ташлама</l>
          <stg>
@@ -1769,8 +1769,8 @@
             <t>t. korka kousa X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тойки-мойки</l>
          <stg>
@@ -1790,8 +1790,8 @@
             <t>(leikillinen sana laulussa) X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>торланен</l>
          <stg>
@@ -1811,8 +1811,8 @@
             <t>t. koStaS kuljeskella X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тортен</l>
          <stg>
@@ -1832,8 +1832,8 @@
             <t>t. koStaS vältellä X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӧтырет</l>
          <stg>
@@ -1853,8 +1853,8 @@
             <t>t. puC eräs soittopilli X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тулеч</l>
          <stg>
@@ -1874,8 +1874,8 @@
             <t>t. utla sen lisäksi; t. vara sen jälkeen; t. oZno sitä ennen X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱп</l>
          <stg>
@@ -1895,8 +1895,8 @@
             <t>t. imne aisahevonen. t. rodo verisukulaisuus. t. sokyr täysin sokea X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тӱран</l>
          <stg>
@@ -1916,8 +1916,8 @@
             <t>t. poCkaS lorvailla X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыҥгас</l>
          <stg>
@@ -1937,8 +1937,8 @@
             <t>t. orva kaksipyöräiset kärryt X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>уголок</l>
          <stg>
@@ -1958,8 +1958,8 @@
             <t>krasnyj u. punanurkka X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>удобрений</l>
          <stg>
@@ -1979,8 +1979,8 @@
             <t>iskusstvennyj u. apulanta X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>условный</l>
          <stg>
@@ -2000,8 +2000,8 @@
             <t>u. naklonenij konditionaali X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>уша</l>
          <stg>
@@ -2021,8 +2021,8 @@
             <t>u. oNa lauta (jolla pyöritellään taikinaa) X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱдырлыклан</l>
          <stg>
@@ -2042,8 +2042,8 @@
             <t>y. nalaS ottaa (otto)tyttäreksi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱдырлыкеш</l>
          <stg>
@@ -2063,8 +2063,8 @@
             <t>y. nalaS ottaa (otto)tyttäreksi X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чаня</l>
          <stg>
@@ -2084,8 +2084,8 @@
             <t>C. eN (ihminen) heikko, ponneton X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чатлама</l>
          <stg>
@@ -2105,8 +2105,8 @@
             <t>C. jyStö paukkupakkanen X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>честь</l>
          <stg>
@@ -2126,8 +2126,8 @@
             <t>Syndyme zadaCym C. dene SuktaS täyttää kunniallisesti ann. tehtävä X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чроҥ</l>
          <stg>
@@ -2147,8 +2147,8 @@
             <t>C. Sokten rämisten X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чурк</l>
          <stg>
@@ -2168,8 +2168,8 @@
             <t>C. liAS herkistyä, höristää korviaan X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чӱч</l>
          <stg>
@@ -2189,8 +2189,8 @@
             <t>C. SinCaS laskeutua kyykkyyn X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чылдыр-чолдыр</l>
          <stg>
@@ -2210,8 +2210,8 @@
             <t>C. SoktaS helistä, soida X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чыли</l>
          <stg>
@@ -2231,8 +2231,8 @@
             <t>C. tul tuikku, (pieni) tuli X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шагыл</l>
          <stg>
@@ -2252,8 +2252,8 @@
             <t>S. jolan imne valkojalkainen hevonen X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шемын</l>
          <stg>
@@ -2273,8 +2273,8 @@
             <t>S. koAS häämöttää X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шожым</l>
          <stg>
@@ -2294,8 +2294,8 @@
             <t>S. luktaS poistaa lika X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шот</l>
          <stg>
@@ -2315,8 +2315,8 @@
             <t>S. dene (jnk) mukaan X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шоч</l>
          <stg>
@@ -2336,8 +2336,8 @@
             <t>S. jyd sydänyö X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шу-у</l>
          <stg>
@@ -2357,8 +2357,8 @@
             <t>(onom. veden kohina, naurun hohotus) Pmuu</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шӱшкыш</l>
          <stg>
@@ -2378,8 +2378,8 @@
             <t>S. jyk vihellys(ääni) X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шӱшпык</l>
          <stg>
@@ -2399,8 +2399,8 @@
             <t>S. omo nokonen X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ыресан</l>
          <stg>
@@ -2420,8 +2420,8 @@
             <t>Y. ENyremyS ristilukki X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>юпке</l>
          <stg>
@@ -2441,8 +2441,8 @@
             <t>U. kiAS maata oikoisena X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ямым</l>
          <stg>
@@ -2462,8 +2462,8 @@
             <t>A. koStaS olla kyytimiehenä X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ямынза</l>
          <stg>
@@ -2483,8 +2483,8 @@
             <t>A. portyS huopa X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӱсе</l>
          <stg>
@@ -2504,8 +2504,8 @@
             <t>k. pajrem (eräs kesäjuhla) X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>леҥге</l>
          <stg>
@@ -2525,8 +2525,8 @@
             <t>l. oNa istumapenkin lauta X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>намызе</l>
          <stg>
@@ -2546,8 +2546,8 @@
             <t>n. godso vanha(naikainen) X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ньыге-нюге</l>
          <stg>
@@ -2567,8 +2567,8 @@
             <t>Conlan n. CuCeS tuntuu epämiellyttävältä X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>рӱшке</l>
          <stg>
@@ -2588,8 +2588,8 @@
             <t>r. pu (puu, jossa on niverät syyt) X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>туаде</l>
          <stg>
@@ -2609,8 +2609,8 @@
             <t>t. vodyn tänä iltana X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>улме</l>
          <stg>
@@ -2630,8 +2630,8 @@
             <t>u:o godym ollessa, (jnk) aikana X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>умыландарыше</l>
          <stg>
@@ -2651,8 +2651,8 @@
             <t>u. Clen adverbiaali X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шутыдыме</l>
          <stg>
@@ -2672,8 +2672,8 @@
             <t>vij S. paSa ylivoimainen työ X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шутыме</l>
          <stg>
@@ -2693,8 +2693,8 @@
             <t>vij S. paSa voimien mukainen työ X</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>юнге</l>
          <stg>
@@ -2714,5 +2714,5 @@
             <t>U. Cer ajos (kynnen alla) X</t>
          </tg>
       </mg>
-   </entry>
+   </e>
 </r>

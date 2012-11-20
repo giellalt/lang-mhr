@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+   <e>
       <lg>
          <l>посна</l>
          <stg>
@@ -34,8 +34,8 @@
             <t pos="POSTP">lisäksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вара</l>
          <stg>
@@ -52,8 +52,8 @@
             <t pos="POSTP">jälkeen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вашеш</l>
          <stg>
@@ -70,8 +70,8 @@
             <t pos="POSTP">ennen, alla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ваштареш</l>
          <stg>
@@ -88,8 +88,8 @@
             <t pos="POSTP">vastaan, vastapäätä, vasten, alla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ваштарешла</l>
          <stg>
@@ -106,8 +106,8 @@
             <t pos="POSTP">vastaan, vastapäätä, vasten, alla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>велан</l>
          <stg>
@@ -124,8 +124,8 @@
             <t pos="POSTP">puolella, puolelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>верч</l>
          <stg>
@@ -142,8 +142,8 @@
             <t pos="POSTP">takia, sijasta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>верчын</l>
          <stg>
@@ -160,8 +160,8 @@
             <t pos="POSTP">takia, sijasta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>веч</l>
          <stg>
@@ -178,8 +178,8 @@
             <t pos="POSTP">suunnalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вечын</l>
          <stg>
@@ -196,8 +196,8 @@
             <t pos="POSTP">suunnalta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>воктечын</l>
          <stg>
@@ -214,8 +214,8 @@
             <t pos="POSTP">ohi(tse), luota</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>годсек</l>
          <stg>
@@ -232,8 +232,8 @@
             <t pos="POSTP">alkaen, aikana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>годым</l>
          <stg>
@@ -250,8 +250,8 @@
             <t pos="POSTP">aikana, kuluessa, aikaan, sijasta, ennen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>готсек</l>
          <stg>
@@ -268,8 +268,8 @@
             <t pos="POSTP">(jstak) lähtien</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гоч</l>
          <stg>
@@ -286,8 +286,8 @@
             <t pos="POSTP">yli(tse), läpi, (jnk) ajan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гыч</l>
          <stg>
@@ -304,8 +304,8 @@
             <t pos="POSTP">(elat., ablat.)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гычын</l>
          <stg>
@@ -322,8 +322,8 @@
             <t pos="POSTP">(elat., ablat.)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>деке</l>
          <stg>
@@ -340,8 +340,8 @@
             <t pos="POSTP">luo(kse), (kaAS + saaminen:) (lat.)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>дек</l>
          <stg>
@@ -358,8 +358,8 @@
             <t pos="POSTP">luo(kse), (kaAS + saaminen:) (lat.)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>дене</l>
          <stg>
@@ -376,8 +376,8 @@
             <t pos="POSTP">kanssa, luona, pitkin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>деран</l>
          <stg>
@@ -394,8 +394,8 @@
             <t pos="POSTP">luona, (adess.), (allat.)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>дечын</l>
          <stg>
@@ -412,8 +412,8 @@
             <t pos="POSTP">luota, -ltA</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>деч</l>
          <stg>
@@ -430,8 +430,8 @@
             <t pos="POSTP">luota, -ltA</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӧре</l>
          <stg>
@@ -448,8 +448,8 @@
             <t pos="POSTP">kanssa, seassa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йымак</l>
          <stg>
@@ -466,8 +466,8 @@
             <t pos="POSTP">alle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йымалан</l>
          <stg>
@@ -484,8 +484,8 @@
             <t pos="POSTP">alle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӱMач</l>
          <stg>
@@ -502,8 +502,8 @@
             <t pos="POSTP">alta, (paikan ilm. elat.)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йӱMачын</l>
          <stg>
@@ -520,8 +520,8 @@
             <t pos="POSTP">alta, (paikan ilm. elat.)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йыр</l>
          <stg>
@@ -538,8 +538,8 @@
             <t pos="POSTP">ympäri</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыдач</l>
          <stg>
@@ -556,8 +556,8 @@
             <t pos="POSTP">(jnk) poikki</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыдачын</l>
          <stg>
@@ -574,8 +574,8 @@
             <t pos="POSTP">(jnk) poikki keskeltä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кыдачын</l>
          <stg>
@@ -592,8 +592,8 @@
             <t pos="POSTP">(jnk) poikki</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лийын</l>
          <stg>
@@ -610,8 +610,8 @@
             <t pos="POSTP">takia</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лиш</l>
          <stg>
@@ -628,8 +628,8 @@
             <t pos="POSTP">luo(kse), lähelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишан</l>
          <stg>
@@ -646,8 +646,8 @@
             <t pos="POSTP">lähelle, lähellä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишыч</l>
          <stg>
@@ -664,8 +664,8 @@
             <t pos="POSTP">luota, läheltä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишычын</l>
          <stg>
@@ -682,8 +682,8 @@
             <t pos="POSTP">luota, läheltä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>марте</l>
          <stg>
@@ -700,8 +700,8 @@
             <t pos="POSTP">asti, ennen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мартен</l>
          <stg>
@@ -718,8 +718,8 @@
             <t pos="POSTP">asti, ennen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нерген</l>
          <stg>
@@ -736,8 +736,8 @@
             <t pos="POSTP">(elat. esim. puhua jstk)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>олмеш</l>
          <stg>
@@ -754,8 +754,8 @@
             <t pos="POSTP">sijaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончык</l>
          <stg>
@@ -772,8 +772,8 @@
             <t pos="POSTP">eteen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончылан</l>
          <stg>
@@ -790,8 +790,8 @@
             <t pos="POSTP">edessä, eteen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончыч</l>
          <stg>
@@ -808,8 +808,8 @@
             <t pos="POSTP">eteen, editse, ennen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончычын</l>
          <stg>
@@ -826,8 +826,8 @@
             <t pos="POSTP">eteen, editse, ennen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пелен</l>
          <stg>
@@ -844,8 +844,8 @@
             <t pos="POSTP">luona, mukana, yhteydessä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пелне</l>
          <stg>
@@ -862,8 +862,8 @@
             <t pos="POSTP">sivussa, ohessa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пелтык</l>
          <stg>
@@ -880,8 +880,8 @@
             <t pos="POSTP">takia</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>покшек</l>
          <stg>
@@ -898,8 +898,8 @@
             <t pos="POSTP">keskelle, puoliväliin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>покшелан</l>
          <stg>
@@ -916,8 +916,8 @@
             <t pos="POSTP">keskellä, keskelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>покшеч</l>
          <stg>
@@ -934,8 +934,8 @@
             <t pos="POSTP">keskeltä, keskellä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>покшечын</l>
          <stg>
@@ -952,8 +952,8 @@
             <t pos="POSTP">keskeltä, keskellä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>посна</l>
          <stg>
@@ -970,8 +970,8 @@
             <t pos="POSTP">ilman, lisäksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>почеш</l>
          <stg>
@@ -988,8 +988,8 @@
             <t pos="POSTP">mukaan, mukana, pitkin, jälkeen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>семын</l>
          <stg>
@@ -1006,8 +1006,8 @@
             <t pos="POSTP">tavalla, mukaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>таҥеш</l>
          <stg>
@@ -1024,8 +1024,8 @@
             <t pos="POSTP">(jhk) mennessä, ennen (jtak)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тореш</l>
          <stg>
@@ -1042,8 +1042,8 @@
             <t pos="POSTP">viereen, luo</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>торешне</l>
          <stg>
@@ -1060,8 +1060,8 @@
             <t pos="POSTP">vieressä, luona</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлык</l>
          <stg>
@@ -1078,8 +1078,8 @@
             <t pos="POSTP">alle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлыч</l>
          <stg>
@@ -1096,8 +1096,8 @@
             <t pos="POSTP">alta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлычын</l>
          <stg>
@@ -1114,8 +1114,8 @@
             <t pos="POSTP">alta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбак</l>
          <stg>
@@ -1132,8 +1132,8 @@
             <t pos="POSTP">päälle, (allat.)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбалан</l>
          <stg>
@@ -1150,8 +1150,8 @@
             <t pos="POSTP">päällä, (allat.), jälkeen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбач</l>
          <stg>
@@ -1168,8 +1168,8 @@
             <t pos="POSTP">pitkin, (ablat.), päältä, päällä, lisäksi, huolimatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбачын</l>
          <stg>
@@ -1186,8 +1186,8 @@
             <t pos="POSTP">pitkin, (ablat.), päältä, päällä, lisäksi, huolimatta</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгек</l>
          <stg>
@@ -1204,8 +1204,8 @@
             <t pos="POSTP">taa(kse)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгекыла</l>
          <stg>
@@ -1222,8 +1222,8 @@
             <t pos="POSTP">takapuolelle (päin)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгелан</l>
          <stg>
@@ -1240,8 +1240,8 @@
             <t pos="POSTP">viereen, luo(kse), taakse</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгеч</l>
          <stg>
@@ -1258,8 +1258,8 @@
             <t pos="POSTP">takaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгечын</l>
          <stg>
@@ -1276,8 +1276,8 @@
             <t pos="POSTP">takaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шойылан</l>
          <stg>
@@ -1294,8 +1294,8 @@
             <t pos="POSTP">viereen, luo(kse), taakse</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шойыч</l>
          <stg>
@@ -1312,8 +1312,8 @@
             <t pos="POSTP">takaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шойычын</l>
          <stg>
@@ -1330,8 +1330,8 @@
             <t pos="POSTP">takaa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шоҥыш</l>
          <stg>
@@ -1348,8 +1348,8 @@
             <t pos="POSTP">sijaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шотеш</l>
          <stg>
@@ -1366,8 +1366,8 @@
             <t pos="POSTP">sijaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шумеш</l>
          <stg>
@@ -1384,8 +1384,8 @@
             <t pos="POSTP">asti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шумешке</l>
          <stg>
@@ -1402,8 +1402,8 @@
             <t pos="POSTP">asti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шумлык</l>
          <stg>
@@ -1420,8 +1420,8 @@
             <t pos="POSTP">takia, (elat.)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>велке</l>
          <stg>
@@ -1438,8 +1438,8 @@
             <t pos="POSTP">taholle, suuntaan, päin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>велне</l>
          <stg>
@@ -1456,8 +1456,8 @@
             <t pos="POSTP">puolella, suunnalla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>воктеке</l>
          <stg>
@@ -1474,8 +1474,8 @@
             <t pos="POSTP">luo(kse), viereen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>воктене</l>
          <stg>
@@ -1492,8 +1492,8 @@
             <t pos="POSTP">luona, vieressä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гутлаште</l>
          <stg>
@@ -1510,8 +1510,8 @@
             <t pos="POSTP">aikaan, aikana, ympärillä, tienoilla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йымаке</l>
          <stg>
@@ -1528,8 +1528,8 @@
             <t pos="POSTP">alle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>йымалне</l>
          <stg>
@@ -1546,8 +1546,8 @@
             <t pos="POSTP">alla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лиймеке</l>
          <stg>
@@ -1564,8 +1564,8 @@
             <t pos="POSTP">kuluttua</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишке</l>
          <stg>
@@ -1582,8 +1582,8 @@
             <t pos="POSTP">luo(kse), lähelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишке</l>
          <stg>
@@ -1600,8 +1600,8 @@
             <t pos="POSTP">lähelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>лишне</l>
          <stg>
@@ -1618,8 +1618,8 @@
             <t pos="POSTP">luona, lähellä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>мучке</l>
          <stg>
@@ -1636,8 +1636,8 @@
             <t pos="POSTP">pitkin, koko</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончыке</l>
          <stg>
@@ -1654,8 +1654,8 @@
             <t pos="POSTP">eteen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ончылне</l>
          <stg>
@@ -1672,8 +1672,8 @@
             <t pos="POSTP">edessä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>покшеке</l>
          <stg>
@@ -1690,8 +1690,8 @@
             <t pos="POSTP">keskelle, puoliväliin</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>покшелне</l>
          <stg>
@@ -1708,8 +1708,8 @@
             <t pos="POSTP">keskellä, keskelle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>торашке</l>
          <stg>
@@ -1726,8 +1726,8 @@
             <t pos="POSTP">etäisyyteen, päähän</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тораште</l>
          <stg>
@@ -1744,8 +1744,8 @@
             <t pos="POSTP">etäisyydessä, päässä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлне</l>
          <stg>
@@ -1762,8 +1762,8 @@
             <t pos="POSTP">alla</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱлыке</l>
          <stg>
@@ -1780,8 +1780,8 @@
             <t pos="POSTP">alle</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбаке</l>
          <stg>
@@ -1798,8 +1798,8 @@
             <t pos="POSTP">päälle, (allat.)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӱмбалне</l>
          <stg>
@@ -1816,8 +1816,8 @@
             <t pos="POSTP">päällä, (adess.), joukossa</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгеке</l>
          <stg>
@@ -1834,8 +1834,8 @@
             <t pos="POSTP">taa(kse)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шеҥгелне</l>
          <stg>
@@ -1852,8 +1852,8 @@
             <t pos="POSTP">takana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шойыке</l>
          <stg>
@@ -1870,8 +1870,8 @@
             <t pos="POSTP">taakse</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шойылне</l>
          <stg>
@@ -1888,8 +1888,8 @@
             <t pos="POSTP">takana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>шотыште</l>
          <stg>
@@ -1906,5 +1906,5 @@
             <t pos="POSTP">(jnk) suhteen, (elat.), suhteissa, (ess.)</t>
          </tg>
       </mg>
-   </entry>
+   </e>
 </r>
