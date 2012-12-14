@@ -153,6 +153,20 @@ LEXICON Prop-pango_fem
 LEXICON Prop-kudo_fem
 +N+Prop+Fem: N ;
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! PLACE NAMES FROM TEMPLATE !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Prop-kal_plc
++N+Prop+Plc: N ;
+
+LEXICON Prop-kit_plc
++N+Prop+Plc: N ;
+
+LEXICON Prop-osh_plc
++N+Prop+Plc: N ;
+
+LEXICON Prop-kudo_plc
++N+Prop+Plc: N ;
 
 !!
 
