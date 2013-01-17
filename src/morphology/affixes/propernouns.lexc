@@ -79,16 +79,16 @@ LEXICON Deriv-RUS-IN_surmal
 
 
 LEXICON PropSurMal-kal
-+N+Prop+Sur+Mal: N ;
++N+Prop+Sur+Mal: N-ava_01 ;
 
 LEXICON PropSurFem-kudo
-+N+Prop+Sur+Fem: N ;
++N+Prop+Sur+Fem: N-ava_01 ;
 
 LEXICON CYRL-Cons_sur
  PropSur-kal ;
 
 LEXICON PropSur-kal
-+N+Prop+Sur: N ;
++N+Prop+Sur: N-ava_01 ;
 
 LEXICON CYRL-T_sur
  PropSur-kit ;
@@ -106,40 +106,57 @@ LEXICON CYRL-Sibilant_sur
  PropSur-osh ;
 
 LEXICON PropSur-osh
-+N+Prop+Sur: N ;
++N+Prop+Sur: N-ava_01 ;
 
 LEXICON CYRL-Vow_sur
- PropSur-kudo ;
+ Prop-kudo_sur ;
 
 LEXICON CYRL-A_sur
- PropSur-kudo ;
+ Prop-kudo_sur ;
 
-LEXICON PropSur-kudo
-+N+Prop+Sur: N ;
+LEXICON Prop-kudo_sur
++N+Prop+Sur: N-ava_01 ;
 
 LEXICON Prop-kal_mal
-+N+Prop+Mal: N ;
++N+Prop+Mal: N-ava_01 ;
+
+LEXICON Prop-kal_mal
++N+Prop+Mal: N-ava_01 ;
+
+LEXICON Prop-lak_mal
++N+Prop+Mal: N-ava_01 ;
+
+LEXICON Prop-kit_mal
++N+Prop+Mal: N-ava_01 ;
+
+LEXICON Prop-osh_mal
++N+Prop+Mal: N-ava_01 ;
+
+LEXICON Prop-kudo_mal
++N+Prop+Mal: N-ava_01 ;
+
+
 
 LEXICON Prop-osh_patrMal
-+N+Prop+Patr+Mal: N ;
++N+Prop+Patr+Mal: N-ava_01 ;
 
 LEXICON Prop-kudo_patrFem
-+N+Prop+Patr+Fem: N ;
++N+Prop+Patr+Fem: N-ava_01 ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!
 !! Female Given names !!
 !!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON Prop-kal_fem
-+N+Prop+Fem: N ;
++N+Prop+Fem: N-ava_01 ;
 
 LEXICON Prop-lak_fem
-+N+Prop+Fem: N ;
++N+Prop+Fem: N-ava_01 ;
 
 LEXICON Prop-kit_fem
-+N+Prop+Fem: N ;
++N+Prop+Fem: N-ava_01 ;
 
 LEXICON Prop-osh_fem
-+N+Prop+Fem: N ;
++N+Prop+Fem: N-ava_01 ;
 
 LEXICON Prop-teshte_fem
  Prop-pango_fem ;
@@ -148,25 +165,25 @@ LEXICON Prop-tinge_fem
  Prop-pango_fem ;
 
 LEXICON Prop-pango_fem
-+N+Prop+Fem: N ;
++N+Prop+Fem: N-ava_01 ;
 
 LEXICON Prop-kudo_fem
-+N+Prop+Fem: N ;
++N+Prop+Fem: N-ava_01 ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! PLACE NAMES FROM TEMPLATE !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON Prop-kal_plc
-+N+Prop+Plc: N ;
++N+Prop+Plc: N-ava_01 ;
 
 LEXICON Prop-kit_plc
-+N+Prop+Plc: N ;
++N+Prop+Plc: N-ava_01 ;
 
 LEXICON Prop-osh_plc
-+N+Prop+Plc: N ;
++N+Prop+Plc: N-ava_01 ;
 
 LEXICON Prop-kudo_plc
-+N+Prop+Plc: N ;
++N+Prop+Plc: N-ava_01 ;
 
 !!
 
