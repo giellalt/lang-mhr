@@ -4,7 +4,7 @@
 
 LEXICON N-ava
 !+N: N-ava_NB ;
-+N: N-ava_all ;
++N: N-ava_01 ;
 +N+Voc:%>й # ;
 +N+Voc+PxSg1:%>ем # ; 
 
@@ -38,7 +38,7 @@ LEXICON N-ava_Cx
 +Lat:%>еш K ; ! Check this again
 +Abe:%>де K ;
 
-LEXICON N-ava_all
+LEXICON N-ava_01
  N-SG-NOM ;
  N-SG-GEN ;
  N-SG-DAT ;
@@ -203,7 +203,7 @@ LEXICON N-ava_all
 
 
 LEXICON N
-+N: N-ava_all ;
++N: N-ava_01 ;
 !2012-10-26 Jaska!+N: N_NB_Nb-Px-Cx ;
 !2012-10-26 Jaska!+N: N_Px_Px-Nb-Cx ;
 
