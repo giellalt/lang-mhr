@@ -114,11 +114,14 @@ LEXICON CYRL-Vow_sur
 LEXICON CYRL-A_sur
  Prop-kudo_sur ;
 
-LEXICON Prop-kudo_sur
+LEXICON Prop-osh_sur
 +N+Prop+Sur: N-ava_01 ;
 
-LEXICON Prop-kal_mal
-+N+Prop+Mal: N-ava_01 ;
+LEXICON Prop-kit_sur
++N+Prop+Sur: N-ava_01 ;
+
+LEXICON Prop-kudo_sur
++N+Prop+Sur: N-ava_01 ;
 
 LEXICON Prop-kal_mal
 +N+Prop+Mal: N-ava_01 ;
