@@ -1,0 +1,19 @@
+
+
+These pages document our Meadow Mari (Eastern Mari) parser.
+
+* [Links to generated source file documentation|Links.html]
+
+!!! Source files
+*  [stems|https://victorio.uit.no/langtech/trunk/langs/mhr/src/morphology/stems/]   
+  / [affixes|https://victorio.uit.no/langtech/trunk/langs/mhr/src/morphology/affixes/] 
+  / [twolc|https://victorio.uit.no/langtech/trunk/langs/mhr/src/phonology/mhr-phon.twolc]   
+  / [yaml|https://victorio.uit.no/langtech/trunk/langs/mhr/test/src/morphology/]
+  / [paradigm|http://giellatekno.uit.no/cgi/p-mhr.fin.html]
+  / [text|http://giellatekno.uit.no/cgi/d-mhr.fin.html]
+!!! Grammatical issues
+
+* [The tags that are in use|https://victorio.uit.no/langtech/trunk/langs/mhr/src/morphology/root.lexc]   
+* [A list of morphological tags|../common/MorphologicalTags.html]
+
+
