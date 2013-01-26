@@ -1,21 +1,23 @@
-!! Verb inflection
+!! !!!Verb inflection
 !! ---------------
 !! Meadow Mari verbs inflect in persons.
 
 
 ! ========================== !
-! Verbal continuation lexica !
+!! !!Verbal continuation lexica 
 ! ========================== !
 
-LEXICON Vam-dependent
-+Depend: Vam	;
+!! We divide the verbs in two
 
-LEXICON Vem-dependent
-+Depend: Vem	;
+LEXICON Vam-dependent !!= @CODE@ tags +Depend and goes to Vam
++Depend: Vam	;	  
 
+LEXICON Vem-dependent !!= @CODE@ tags +Depend and goes to Vem
++Depend: Vem	;	  
 
+!! !!The -am class
 
-LEXICON Vam
+LEXICON Vam !!= @CODE@ divides Vam in Mood and infinites
 +V: Vam-Mood ;
 +V+Inf:%>А2ш K ;
 +V+Ger+Gen:%>ын K ;
@@ -26,12 +28,12 @@ LEXICON Vam
 +V+Des+ConNeg: K ;
 +V+Imprt+Sg2: K-imprt ;
 
-LEXICON Vam-Mood
+LEXICON Vam-Mood !!= @CODE@ divides in Ind, Imprt, Des
 +Ind: Vam-Ind ;
 +Imprt: Vam-Imp ;
 +Des: Vam-Des ;
 
-LEXICON Vam-Ind
+LEXICON Vam-Ind !!= @CODE@ gives all the Ind tenses
 +NonPst+Sg1:%>А2м K ;
 +NonPst+Sg2:%>А2т K ;
 +NonPst+Sg3:%>еш K ;
@@ -70,7 +72,9 @@ LEXICON Vam-Des
 +NonPst+Pl3:%>нешт K ;
 
 
-LEXICON Vem
+!! !!The -em class
+
+LEXICON Vem !!= @CODE@ divides Vem in Mood and infinites
 +V: Vem-Mood ;
 +V+Inf:%>А2ш K ;
 ! Деепричастие образа действия:
@@ -83,12 +87,12 @@ LEXICON Vem
 +V+Imprt+Sg2:%>Ы2 K-imprt ;
 
 
-LEXICON Vem-Mood
+LEXICON Vem-Mood !!= @CODE@ divides in Ind, Imprt, Des
 +Ind: Vem-Ind ;
 +Imprt: Vem-Imp ;
 +Des: Vem-Des ;
 
-LEXICON Vem-Ind
+LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
 +NonPst+Sg1:%>ем K ;
 +NonPst+Sg2:%>ет K ;
 +NonPst+Sg3:%>а K ;
@@ -126,8 +130,8 @@ LEXICON Vem-Des
 +NonPst+Pl2:%>ынеда K ;
 +NonPst+Pl3:%>ынешт K ;
 
-!! Special verbs
-! Vam, возаш : воч
+!! !!Special verbs
+!! Vam, возаш : воч
 LEXICON z-C
 +V+Inf:з%>А2ш K ;
 +Ger+Gen:з%>ын K ;
@@ -139,7 +143,7 @@ LEXICON z-C
 +V+Imprt+Sg2:ч K-imprt ;
 +V+Des+ConNeg:ч K ;
 
-! Vam, лукташ : лук
+!! Vam, лукташ : лук
 LEXICON t-0
 +V+Inf:т%>А2ш K ;
 +Ger+Gen:т%>ын K ;
@@ -151,7 +155,7 @@ LEXICON t-0
 +V+Imprt+Sg2: K-imprt ;
 +V+Des+ConNeg: K ;
 
-! Vam, кушкаш : куш
+!! Vam, кушкаш : куш
 LEXICON k-0
 +V+Inf:к%>А2ш K ;
 +Ger+Gen:к%>ын K ;
@@ -164,7 +168,7 @@ LEXICON k-0
 +V+Imprt+Sg2: K-imprt ;
 +V+Des+ConNeg: K ;
 
-! Vam, шинчаш шич
+!! Vam, шинчаш шич
 LEXICON nC-C
 +V+Inf:нч%>А2ш K ;
 +Ger+Gen:нч%>ын K ;
@@ -194,8 +198,8 @@ Lex0 ; K ; C ;
 LEXICON Lex0 
 # ;
 
-! Mutual endings
-LEXICON non-finites
+
+LEXICON non-finites !!= @CODE@ contains Mutual endings
 ! Действительное причастие:
 +Act+Prc:%>шЫ2 K ;
 ! Страдательное причастие:
@@ -318,7 +322,8 @@ LEXICON non-finites
 !2012-09-21! LEXICON W5 
 !2012-09-21! ~ла K0 ;
 !2012-09-21! 
-LEXICON C 
+
+LEXICON C !!= @CODE@ gives Comparative rak
 +Cmp:&рак Lex0 "rak" ;
 
 
