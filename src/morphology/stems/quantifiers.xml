@@ -4,7 +4,7 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>вес</l>
+         <l pos="Qnt">вес</l>
          <stg>
             <st Contlex="KvO">вес</st>
          </stg>
@@ -25,7 +25,7 @@
    </e>
    <e>
       <lg>
-         <l>визыт</l>
+         <l pos="Qnt">визыт</l>
          <stg>
             <st Contlex="KvK">визыт</st>
          </stg>
@@ -46,7 +46,7 @@
    </e>
    <e>
       <lg>
-         <l>визытын</l>
+         <l pos="Qnt">визытын</l>
          <stg>
             <st Contlex="KvKoll">визытын</st>
          </stg>
@@ -67,7 +67,7 @@
    </e>
    <e>
       <lg>
-         <l>вич</l>
+         <l pos="Qnt">вич</l>
          <stg>
             <st Contlex="KvK">вич</st>
          </stg>
@@ -88,7 +88,7 @@
    </e>
    <e>
       <lg>
-         <l>ик</l>
+         <l pos="Qnt">ик</l>
          <stg>
             <st Contlex="KvK">ик</st>
          </stg>
@@ -109,7 +109,7 @@
    </e>
    <e>
       <lg>
-         <l>индеш</l>
+         <l pos="Qnt">индеш</l>
          <stg>
             <st Contlex="KvO">индеш</st>
          </stg>
@@ -130,7 +130,7 @@
    </e>
    <e>
       <lg>
-         <l>индешын</l>
+         <l pos="Qnt">индешын</l>
          <stg>
             <st Contlex="KvKoll">индешын</st>
          </stg>
@@ -151,7 +151,7 @@
    </e>
    <e>
       <lg>
-         <l>индешлу</l>
+         <l pos="Qnt">индешлу</l>
          <stg>
             <st Contlex="KvO">индешлу</st>
          </stg>
@@ -172,7 +172,7 @@
    </e>
    <e>
       <lg>
-         <l>кандаш</l>
+         <l pos="Qnt">кандаш</l>
          <stg>
             <st Contlex="KvK">кандаш</st>
          </stg>
@@ -193,7 +193,7 @@
    </e>
    <e>
       <lg>
-         <l>кандашын</l>
+         <l pos="Qnt">кандашын</l>
          <stg>
             <st Contlex="KvKoll">кандашын</st>
          </stg>
@@ -214,7 +214,7 @@
    </e>
    <e>
       <lg>
-         <l>кандашлу</l>
+         <l pos="Qnt">кандашлу</l>
          <stg>
             <st Contlex="KvK">кандашлу</st>
          </stg>
@@ -235,7 +235,7 @@
    </e>
    <e>
       <lg>
-         <l>кок</l>
+         <l pos="Qnt">кок</l>
          <stg>
             <st Contlex="KvK">кок</st>
          </stg>
@@ -256,7 +256,7 @@
    </e>
    <e>
       <lg>
-         <l>кокыт</l>
+         <l pos="Qnt">кокыт</l>
          <stg>
             <st Contlex="KvK">кокыт</st>
          </stg>
@@ -277,7 +277,7 @@
    </e>
    <e>
       <lg>
-         <l>коктыт</l>
+         <l pos="Qnt">коктыт</l>
          <stg>
             <st Contlex="KvK">коктыт</st>
          </stg>
@@ -298,7 +298,7 @@
    </e>
    <e>
       <lg>
-         <l>коктын</l>
+         <l pos="Qnt">коктын</l>
          <stg>
             <st Contlex="KvKoll">коктын</st>
          </stg>
@@ -319,7 +319,7 @@
    </e>
    <e>
       <lg>
-         <l>куд</l>
+         <l pos="Qnt">куд</l>
          <stg>
             <st Contlex="KvK">куд</st>
          </stg>
@@ -340,7 +340,7 @@
    </e>
    <e>
       <lg>
-         <l>кудыт</l>
+         <l pos="Qnt">кудыт</l>
          <stg>
             <st Contlex="KvK">кудыт</st>
          </stg>
@@ -361,7 +361,7 @@
    </e>
    <e>
       <lg>
-         <l>кудытын</l>
+         <l pos="Qnt">кудытын</l>
          <stg>
             <st Contlex="KvKoll">кудытын</st>
          </stg>
@@ -382,7 +382,7 @@
    </e>
    <e>
       <lg>
-         <l>кум</l>
+         <l pos="Qnt">кум</l>
          <stg>
             <st Contlex="KvK">кум</st>
          </stg>
@@ -403,7 +403,7 @@
    </e>
    <e>
       <lg>
-         <l>кумыт</l>
+         <l pos="Qnt">кумыт</l>
          <stg>
             <st Contlex="KvK">кумыт</st>
          </stg>
@@ -424,7 +424,7 @@
    </e>
    <e>
       <lg>
-         <l>кумынек</l>
+         <l pos="Qnt">кумынек</l>
          <stg>
             <st Contlex="KvKoll">кумынек</st>
          </stg>
@@ -445,7 +445,7 @@
    </e>
    <e>
       <lg>
-         <l>латвизыт</l>
+         <l pos="Qnt">латвизыт</l>
          <stg>
             <st Contlex="KvK">латвизыт</st>
          </stg>
@@ -466,7 +466,7 @@
    </e>
    <e>
       <lg>
-         <l>латвич</l>
+         <l pos="Qnt">латвич</l>
          <stg>
             <st Contlex="KvK">латвич</st>
          </stg>
@@ -487,7 +487,7 @@
    </e>
    <e>
       <lg>
-         <l>латик</l>
+         <l pos="Qnt">латик</l>
          <stg>
             <st Contlex="KvK">латик</st>
          </stg>
@@ -508,7 +508,7 @@
    </e>
    <e>
       <lg>
-         <l>латиктыт</l>
+         <l pos="Qnt">латиктыт</l>
          <stg>
             <st Contlex="KvK">латиктыт</st>
          </stg>
@@ -529,7 +529,7 @@
    </e>
    <e>
       <lg>
-         <l>латиндеш</l>
+         <l pos="Qnt">латиндеш</l>
          <stg>
             <st Contlex="KvK">латиндеш</st>
          </stg>
@@ -550,7 +550,7 @@
    </e>
    <e>
       <lg>
-         <l>латкандаш</l>
+         <l pos="Qnt">латкандаш</l>
          <stg>
             <st Contlex="KvK">латкандаш</st>
          </stg>
@@ -571,7 +571,7 @@
    </e>
    <e>
       <lg>
-         <l>латкок</l>
+         <l pos="Qnt">латкок</l>
          <stg>
             <st Contlex="KvK">латкок</st>
          </stg>
@@ -592,7 +592,7 @@
    </e>
    <e>
       <lg>
-         <l>латкокыт</l>
+         <l pos="Qnt">латкокыт</l>
          <stg>
             <st Contlex="KvK">латкокыт</st>
          </stg>
@@ -613,7 +613,7 @@
    </e>
    <e>
       <lg>
-         <l>латкоктыт</l>
+         <l pos="Qnt">латкоктыт</l>
          <stg>
             <st Contlex="KvK">латкоктыт</st>
          </stg>
@@ -634,7 +634,7 @@
    </e>
    <e>
       <lg>
-         <l>латкуд</l>
+         <l pos="Qnt">латкуд</l>
          <stg>
             <st Contlex="KvK">латкуд</st>
          </stg>
@@ -655,7 +655,7 @@
    </e>
    <e>
       <lg>
-         <l>латкудыт</l>
+         <l pos="Qnt">латкудыт</l>
          <stg>
             <st Contlex="KvK">латкудыт</st>
          </stg>
@@ -676,7 +676,7 @@
    </e>
    <e>
       <lg>
-         <l>латкум</l>
+         <l pos="Qnt">латкум</l>
          <stg>
             <st Contlex="KvK">латкум</st>
          </stg>
@@ -697,7 +697,7 @@
    </e>
    <e>
       <lg>
-         <l>латкумыт</l>
+         <l pos="Qnt">латкумыт</l>
          <stg>
             <st Contlex="KvK">латкумыт</st>
          </stg>
@@ -718,7 +718,7 @@
    </e>
    <e>
       <lg>
-         <l>латныл</l>
+         <l pos="Qnt">латныл</l>
          <stg>
             <st Contlex="KvK">латныл</st>
          </stg>
@@ -739,7 +739,7 @@
    </e>
    <e>
       <lg>
-         <l>латнылыт</l>
+         <l pos="Qnt">латнылыт</l>
          <stg>
             <st Contlex="KvK">латнылыт</st>
          </stg>
@@ -760,7 +760,7 @@
    </e>
    <e>
       <lg>
-         <l>латшым</l>
+         <l pos="Qnt">латшым</l>
          <stg>
             <st Contlex="KvK">латшым</st>
          </stg>
@@ -781,7 +781,7 @@
    </e>
    <e>
       <lg>
-         <l>латшымыт</l>
+         <l pos="Qnt">латшымыт</l>
          <stg>
             <st Contlex="KvK">латшымыт</st>
          </stg>
@@ -802,7 +802,7 @@
    </e>
    <e>
       <lg>
-         <l>лу</l>
+         <l pos="Qnt">лу</l>
          <stg>
             <st Contlex="KvK">лу</st>
          </stg>
@@ -823,7 +823,7 @@
    </e>
    <e>
       <lg>
-         <l>луын</l>
+         <l pos="Qnt">луын</l>
          <stg>
             <st Contlex="KvKoll">луын</st>
          </stg>
@@ -844,7 +844,7 @@
    </e>
    <e>
       <lg>
-         <l>миллиард</l>
+         <l pos="Qnt">миллиард</l>
          <stg>
             <st Contlex="KvK">миллиард</st>
          </stg>
@@ -865,7 +865,7 @@
    </e>
    <e>
       <lg>
-         <l>миллион</l>
+         <l pos="Qnt">миллион</l>
          <stg>
             <st Contlex="KvK">миллион</st>
          </stg>
@@ -886,7 +886,7 @@
    </e>
    <e>
       <lg>
-         <l>ноль</l>
+         <l pos="Qnt">ноль</l>
          <stg>
             <st Contlex="KvK">ноль</st>
          </stg>
@@ -907,7 +907,7 @@
    </e>
    <e>
       <lg>
-         <l>ныл</l>
+         <l pos="Qnt">ныл</l>
          <stg>
             <st Contlex="KvK">ныл</st>
          </stg>
@@ -928,7 +928,7 @@
    </e>
    <e>
       <lg>
-         <l>нылыт</l>
+         <l pos="Qnt">нылыт</l>
          <stg>
             <st Contlex="KvK">нылыт</st>
          </stg>
@@ -949,7 +949,7 @@
    </e>
    <e>
       <lg>
-         <l>нылынек</l>
+         <l pos="Qnt">нылынек</l>
          <stg>
             <st Contlex="KvK">нылынек</st>
          </stg>
@@ -970,7 +970,7 @@
    </e>
    <e>
       <lg>
-         <l>нылытын</l>
+         <l pos="Qnt">нылытын</l>
          <stg>
             <st Contlex="KvKoll">нылытын</st>
          </stg>
@@ -991,7 +991,7 @@
    </e>
    <e>
       <lg>
-         <l>осьмушка</l>
+         <l pos="Qnt">осьмушка</l>
          <stg>
             <st Contlex="KvMurt">осьмушка</st>
          </stg>
@@ -1012,7 +1012,7 @@
    </e>
    <e>
       <lg>
-         <l>первый</l>
+         <l pos="Qnt">первый</l>
          <stg>
             <st Contlex="KvO">первый</st>
          </stg>
@@ -1033,7 +1033,7 @@
    </e>
    <e>
       <lg>
-         <l>тесте</l>
+         <l pos="Qnt">тесте</l>
          <stg>
             <st Contlex="Kv-a/e">тесте</st>
          </stg>
@@ -1054,7 +1054,7 @@
    </e>
    <e>
       <lg>
-         <l>тестелен</l>
+         <l pos="Qnt">тестелен</l>
          <stg>
             <st Contlex="KvKoll">тестелен</st>
          </stg>
@@ -1075,7 +1075,7 @@
    </e>
    <e>
       <lg>
-         <l>триллион</l>
+         <l pos="Qnt">триллион</l>
          <stg>
             <st Contlex="KvK">триллион</st>
          </stg>
@@ -1096,7 +1096,7 @@
    </e>
    <e>
       <lg>
-         <l>тӱжем</l>
+         <l pos="Qnt">тӱжем</l>
          <stg>
             <st Contlex="KvK">тӱжем</st>
          </stg>
@@ -1117,7 +1117,7 @@
    </e>
    <e>
       <lg>
-         <l>чырык</l>
+         <l pos="Qnt">чырык</l>
          <stg>
             <st Contlex="KvMurt">чырык</st>
          </stg>
@@ -1138,7 +1138,7 @@
    </e>
    <e>
       <lg>
-         <l>шагал</l>
+         <l pos="Qnt">шагал</l>
          <stg>
             <st Contlex="KvInd">шагал</st>
          </stg>
@@ -1159,7 +1159,7 @@
    </e>
    <e>
       <lg>
-         <l>шукын</l>
+         <l pos="Qnt">шукын</l>
          <stg>
             <st Contlex="KvKoll">шукын</st>
          </stg>
@@ -1180,7 +1180,7 @@
    </e>
    <e>
       <lg>
-         <l>шуко-шагал</l>
+         <l pos="Qnt">шуко-шагал</l>
          <stg>
             <st Contlex="KvInd">шуко-шагал</st>
          </stg>
@@ -1201,7 +1201,7 @@
    </e>
    <e>
       <lg>
-         <l>шым</l>
+         <l pos="Qnt">шым</l>
          <stg>
             <st Contlex="KvK">шым</st>
          </stg>
@@ -1222,7 +1222,7 @@
    </e>
    <e>
       <lg>
-         <l>шымыт</l>
+         <l pos="Qnt">шымыт</l>
          <stg>
             <st Contlex="KvK">шымыт</st>
          </stg>
@@ -1243,7 +1243,7 @@
    </e>
    <e>
       <lg>
-         <l>шымлу</l>
+         <l pos="Qnt">шымлу</l>
          <stg>
             <st Contlex="KvK">шымлу</st>
          </stg>
@@ -1264,7 +1264,7 @@
    </e>
    <e>
       <lg>
-         <l>шымытын</l>
+         <l pos="Qnt">шымытын</l>
          <stg>
             <st Contlex="KvKoll">шымытын</st>
          </stg>
@@ -1285,7 +1285,7 @@
    </e>
    <e>
       <lg>
-         <l>весе</l>
+         <l pos="Qnt">весе</l>
          <stg>
             <st Contlex="KvO">весе1</st>
          </stg>
@@ -1306,7 +1306,7 @@
    </e>
    <e>
       <lg>
-         <l>визымше</l>
+         <l pos="Qnt">визымше</l>
          <stg>
             <st Contlex="KvO">визымше1</st>
          </stg>
@@ -1327,7 +1327,7 @@
    </e>
    <e>
       <lg>
-         <l>витле</l>
+         <l pos="Qnt">витле</l>
          <stg>
             <st Contlex="KvK">витле1</st>
          </stg>
@@ -1348,7 +1348,7 @@
    </e>
    <e>
       <lg>
-         <l>витлымше</l>
+         <l pos="Qnt">витлымше</l>
          <stg>
             <st Contlex="KvO">витлымше1</st>
          </stg>
@@ -1369,7 +1369,7 @@
    </e>
    <e>
       <lg>
-         <l>вичшӱде</l>
+         <l pos="Qnt">вичшӱде</l>
          <stg>
             <st Contlex="KvK">вичшӱде1</st>
          </stg>
@@ -1390,7 +1390,7 @@
    </e>
    <e>
       <lg>
-         <l>икте</l>
+         <l pos="Qnt">икте</l>
          <stg>
             <st Contlex="KvK">икте1</st>
          </stg>
@@ -1411,7 +1411,7 @@
    </e>
    <e>
       <lg>
-         <l>икымше</l>
+         <l pos="Qnt">икымше</l>
          <stg>
             <st Contlex="KvO">икымше1</st>
          </stg>
@@ -1432,7 +1432,7 @@
    </e>
    <e>
       <lg>
-         <l>индеше</l>
+         <l pos="Qnt">индеше</l>
          <stg>
             <st Contlex="KvO">индеше1</st>
          </stg>
@@ -1453,7 +1453,7 @@
    </e>
    <e>
       <lg>
-         <l>индешымше</l>
+         <l pos="Qnt">индешымше</l>
          <stg>
             <st Contlex="KvK">индешымше1</st>
          </stg>
@@ -1474,7 +1474,7 @@
    </e>
    <e>
       <lg>
-         <l>индешлуымше</l>
+         <l pos="Qnt">индешлуымше</l>
          <stg>
             <st Contlex="KvK">индешлуымше1</st>
          </stg>
@@ -1495,7 +1495,7 @@
    </e>
    <e>
       <lg>
-         <l>индешшӱде</l>
+         <l pos="Qnt">индешшӱде</l>
          <stg>
             <st Contlex="KvO">индешшӱде1</st>
          </stg>
@@ -1516,7 +1516,7 @@
    </e>
    <e>
       <lg>
-         <l>индешшӱдымше</l>
+         <l pos="Qnt">индешшӱдымше</l>
          <stg>
             <st Contlex="KvK">индешшӱдымше1</st>
          </stg>
@@ -1537,7 +1537,7 @@
    </e>
    <e>
       <lg>
-         <l>кандаше</l>
+         <l pos="Qnt">кандаше</l>
          <stg>
             <st Contlex="KvK">кандаше1</st>
          </stg>
@@ -1558,7 +1558,7 @@
    </e>
    <e>
       <lg>
-         <l>кандаымше</l>
+         <l pos="Qnt">кандаымше</l>
          <stg>
             <st Contlex="KvO">кандаымше1</st>
          </stg>
@@ -1579,7 +1579,7 @@
    </e>
    <e>
       <lg>
-         <l>кандашлымше</l>
+         <l pos="Qnt">кандашлымше</l>
          <stg>
             <st Contlex="KvO">кандашлымше1</st>
          </stg>
@@ -1600,7 +1600,7 @@
    </e>
    <e>
       <lg>
-         <l>кандашшӱде</l>
+         <l pos="Qnt">кандашшӱде</l>
          <stg>
             <st Contlex="KvK">кандашшӱде1</st>
          </stg>
@@ -1621,7 +1621,7 @@
    </e>
    <e>
       <lg>
-         <l>кандашшыдмше</l>
+         <l pos="Qnt">кандашшыдмше</l>
          <stg>
             <st Contlex="KvO">кандашшыдмше1</st>
          </stg>
@@ -1642,7 +1642,7 @@
    </e>
    <e>
       <lg>
-         <l>кокымше</l>
+         <l pos="Qnt">кокымше</l>
          <stg>
             <st Contlex="KvO">кокымше1</st>
          </stg>
@@ -1663,7 +1663,7 @@
    </e>
    <e>
       <lg>
-         <l>коле</l>
+         <l pos="Qnt">коле</l>
          <stg>
             <st Contlex="KvK">коле1</st>
          </stg>
@@ -1684,7 +1684,7 @@
    </e>
    <e>
       <lg>
-         <l>кудымше</l>
+         <l pos="Qnt">кудымше</l>
          <stg>
             <st Contlex="KvO">кудымше1</st>
          </stg>
@@ -1705,7 +1705,7 @@
    </e>
    <e>
       <lg>
-         <l>кудле</l>
+         <l pos="Qnt">кудле</l>
          <stg>
             <st Contlex="KvK">кудле1</st>
          </stg>
@@ -1726,7 +1726,7 @@
    </e>
    <e>
       <lg>
-         <l>кудлымше</l>
+         <l pos="Qnt">кудлымше</l>
          <stg>
             <st Contlex="KvO">кудлымше1</st>
          </stg>
@@ -1747,7 +1747,7 @@
    </e>
    <e>
       <lg>
-         <l>кудшӱде</l>
+         <l pos="Qnt">кудшӱде</l>
          <stg>
             <st Contlex="KvK">кудшӱде1</st>
          </stg>
@@ -1768,7 +1768,7 @@
    </e>
    <e>
       <lg>
-         <l>кудшӱдымше</l>
+         <l pos="Qnt">кудшӱдымше</l>
          <stg>
             <st Contlex="KvO">кудшӱдымше1</st>
          </stg>
@@ -1789,7 +1789,7 @@
    </e>
    <e>
       <lg>
-         <l>кумше</l>
+         <l pos="Qnt">кумше</l>
          <stg>
             <st Contlex="KvO">кумше1</st>
          </stg>
@@ -1810,7 +1810,7 @@
    </e>
    <e>
       <lg>
-         <l>кумле</l>
+         <l pos="Qnt">кумле</l>
          <stg>
             <st Contlex="KvK">кумле1</st>
          </stg>
@@ -1831,7 +1831,7 @@
    </e>
    <e>
       <lg>
-         <l>кумлымше</l>
+         <l pos="Qnt">кумлымше</l>
          <stg>
             <st Contlex="KvO">кумлымше1</st>
          </stg>
@@ -1852,7 +1852,7 @@
    </e>
    <e>
       <lg>
-         <l>кумше</l>
+         <l pos="Qnt">кумше</l>
          <stg>
             <st Contlex="KvMurt">кумше1</st>
          </stg>
@@ -1873,7 +1873,7 @@
    </e>
    <e>
       <lg>
-         <l>кумшӱде</l>
+         <l pos="Qnt">кумшӱде</l>
          <stg>
             <st Contlex="KvK">кумшӱде1</st>
          </stg>
@@ -1894,7 +1894,7 @@
    </e>
    <e>
       <lg>
-         <l>кумшӱдымше</l>
+         <l pos="Qnt">кумшӱдымше</l>
          <stg>
             <st Contlex="KvO">кумшӱдымше1</st>
          </stg>
@@ -1915,7 +1915,7 @@
    </e>
    <e>
       <lg>
-         <l>латвизымше</l>
+         <l pos="Qnt">латвизымше</l>
          <stg>
             <st Contlex="KvO">латвизымше1</st>
          </stg>
@@ -1936,7 +1936,7 @@
    </e>
    <e>
       <lg>
-         <l>латикте</l>
+         <l pos="Qnt">латикте</l>
          <stg>
             <st Contlex="KvK">латикте1</st>
          </stg>
@@ -1957,7 +1957,7 @@
    </e>
    <e>
       <lg>
-         <l>латикымше</l>
+         <l pos="Qnt">латикымше</l>
          <stg>
             <st Contlex="KvO">латикымше1</st>
          </stg>
@@ -1978,7 +1978,7 @@
    </e>
    <e>
       <lg>
-         <l>латиндеше</l>
+         <l pos="Qnt">латиндеше</l>
          <stg>
             <st Contlex="KvK">латиндеше1</st>
          </stg>
@@ -1999,7 +1999,7 @@
    </e>
    <e>
       <lg>
-         <l>латиндешымше</l>
+         <l pos="Qnt">латиндешымше</l>
          <stg>
             <st Contlex="KvO">латиндешымше1</st>
          </stg>
@@ -2020,7 +2020,7 @@
    </e>
    <e>
       <lg>
-         <l>латкандаше</l>
+         <l pos="Qnt">латкандаше</l>
          <stg>
             <st Contlex="KvK">латкандаше1</st>
          </stg>
@@ -2041,7 +2041,7 @@
    </e>
    <e>
       <lg>
-         <l>латкандашымше</l>
+         <l pos="Qnt">латкандашымше</l>
          <stg>
             <st Contlex="KvO">латкандашымше1</st>
          </stg>
@@ -2062,7 +2062,7 @@
    </e>
    <e>
       <lg>
-         <l>латкокымше</l>
+         <l pos="Qnt">латкокымше</l>
          <stg>
             <st Contlex="KvO">латкокымше1</st>
          </stg>
@@ -2083,7 +2083,7 @@
    </e>
    <e>
       <lg>
-         <l>латкудымше</l>
+         <l pos="Qnt">латкудымше</l>
          <stg>
             <st Contlex="KvO">латкудымше1</st>
          </stg>
@@ -2104,7 +2104,7 @@
    </e>
    <e>
       <lg>
-         <l>латкумше</l>
+         <l pos="Qnt">латкумше</l>
          <stg>
             <st Contlex="KvO">латкумше1</st>
          </stg>
@@ -2125,7 +2125,7 @@
    </e>
    <e>
       <lg>
-         <l>латнылымше</l>
+         <l pos="Qnt">латнылымше</l>
          <stg>
             <st Contlex="KvO">латнылымше1</st>
          </stg>
@@ -2146,7 +2146,7 @@
    </e>
    <e>
       <lg>
-         <l>латшымше</l>
+         <l pos="Qnt">латшымше</l>
          <stg>
             <st Contlex="KvO">латшымше1</st>
          </stg>
@@ -2167,7 +2167,7 @@
    </e>
    <e>
       <lg>
-         <l>лучке</l>
+         <l pos="Qnt">лучке</l>
          <stg>
             <st Contlex="KvK">лучке1</st>
          </stg>
@@ -2188,7 +2188,7 @@
    </e>
    <e>
       <lg>
-         <l>лучкымше</l>
+         <l pos="Qnt">лучкымше</l>
          <stg>
             <st Contlex="KvO">лучкымше1</st>
          </stg>
@@ -2209,7 +2209,7 @@
    </e>
    <e>
       <lg>
-         <l>луымше</l>
+         <l pos="Qnt">луымше</l>
          <stg>
             <st Contlex="KvO">луымше1</st>
          </stg>
@@ -2230,7 +2230,7 @@
    </e>
    <e>
       <lg>
-         <l>нылле</l>
+         <l pos="Qnt">нылле</l>
          <stg>
             <st Contlex="KvK">нылле1</st>
          </stg>
@@ -2251,7 +2251,7 @@
    </e>
    <e>
       <lg>
-         <l>ныллымше</l>
+         <l pos="Qnt">ныллымше</l>
          <stg>
             <st Contlex="KvK">ныллымше1</st>
          </stg>
@@ -2272,7 +2272,7 @@
    </e>
    <e>
       <lg>
-         <l>нылшӱде</l>
+         <l pos="Qnt">нылшӱде</l>
          <stg>
             <st Contlex="KvK">нылшӱде1</st>
          </stg>
@@ -2293,7 +2293,7 @@
    </e>
    <e>
       <lg>
-         <l>нылшӱдымше</l>
+         <l pos="Qnt">нылшӱдымше</l>
          <stg>
             <st Contlex="KvO">нылшӱдымше1</st>
          </stg>
@@ -2314,7 +2314,7 @@
    </e>
    <e>
       <lg>
-         <l>нылымше</l>
+         <l pos="Qnt">нылымше</l>
          <stg>
             <st Contlex="KvO">нылымше1</st>
          </stg>
@@ -2335,7 +2335,7 @@
    </e>
    <e>
       <lg>
-         <l>нылымше</l>
+         <l pos="Qnt">нылымше</l>
          <stg>
             <st Contlex="KvMurt">нылымше1</st>
          </stg>
@@ -2356,7 +2356,7 @@
    </e>
    <e>
       <lg>
-         <l>пеле</l>
+         <l pos="Qnt">пеле</l>
          <stg>
             <st Contlex="KvMurt">пеле1</st>
          </stg>
@@ -2377,7 +2377,7 @@
    </e>
    <e>
       <lg>
-         <l>тӱжемле</l>
+         <l pos="Qnt">тӱжемле</l>
          <stg>
             <st Contlex="KvKoll">тӱжемле1</st>
          </stg>
@@ -2398,7 +2398,7 @@
    </e>
    <e>
       <lg>
-         <l>тӱжемше</l>
+         <l pos="Qnt">тӱжемше</l>
          <stg>
             <st Contlex="KvO">тӱжемше1</st>
          </stg>
@@ -2419,7 +2419,7 @@
    </e>
    <e>
       <lg>
-         <l>шуке</l>
+         <l pos="Qnt">шуке</l>
          <stg>
             <st Contlex="KvInd">шуке1</st>
          </stg>
@@ -2440,7 +2440,7 @@
    </e>
    <e>
       <lg>
-         <l>шӱде</l>
+         <l pos="Qnt">шӱде</l>
          <stg>
             <st Contlex="KvK">шӱде1</st>
          </stg>
@@ -2461,7 +2461,7 @@
    </e>
    <e>
       <lg>
-         <l>шӱдымше</l>
+         <l pos="Qnt">шӱдымше</l>
          <stg>
             <st Contlex="KvO">шӱдымше1</st>
          </stg>
@@ -2482,7 +2482,7 @@
    </e>
    <e>
       <lg>
-         <l>шымше</l>
+         <l pos="Qnt">шымше</l>
          <stg>
             <st Contlex="KvO">шымше1</st>
          </stg>
@@ -2503,7 +2503,7 @@
    </e>
    <e>
       <lg>
-         <l>шымлуымше</l>
+         <l pos="Qnt">шымлуымше</l>
          <stg>
             <st Contlex="KvO">шымлуымше1</st>
          </stg>
@@ -2524,7 +2524,7 @@
    </e>
    <e>
       <lg>
-         <l>шымшӱде</l>
+         <l pos="Qnt">шымшӱде</l>
          <stg>
             <st Contlex="KvK">шымшӱде1</st>
          </stg>
@@ -2545,7 +2545,7 @@
    </e>
    <e>
       <lg>
-         <l>шымшӱдымше</l>
+         <l pos="Qnt">шымшӱдымше</l>
          <stg>
             <st Contlex="KvO">шымшӱдымше1</st>
          </stg>
@@ -2566,7 +2566,7 @@
    </e>
    <e>
       <lg>
-         <l>шымыте</l>
+         <l pos="Qnt">шымыте</l>
          <stg>
             <st Contlex="KvKoll">шымыте1</st>
          </stg>

@@ -4,7 +4,7 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>адыштан</l>
+         <l pos="Pcle">адыштан</l>
          <stg>
             <st Contlex="Pmuu">адыштан</st>
          </stg>
@@ -25,7 +25,7 @@
    </e>
    <e>
       <lg>
-         <l>ай</l>
+         <l pos="Pcle">ай</l>
          <stg>
             <st Contlex="Pmuu">ай</st>
          </stg>
@@ -46,7 +46,7 @@
    </e>
    <e>
       <lg>
-         <l>ай</l>
+         <l pos="Pcle">ай</l>
          <stg>
             <st Contlex="Pmuu">ай</st>
          </stg>
@@ -67,7 +67,7 @@
    </e>
    <e>
       <lg>
-         <l>ала</l>
+         <l pos="Pcle">ала</l>
          <stg>
             <st Contlex="Pmuu">ала</st>
          </stg>
@@ -88,7 +88,7 @@
    </e>
    <e>
       <lg>
-         <l>ане</l>
+         <l pos="Pcle">ане</l>
          <stg>
             <st Contlex="Pmuu">ане</st>
          </stg>
@@ -109,7 +109,7 @@
    </e>
    <e>
       <lg>
-         <l>анят</l>
+         <l pos="Pcle">анят</l>
          <stg>
             <st Contlex="Pmuu">анят</st>
          </stg>
@@ -130,7 +130,7 @@
    </e>
    <e>
       <lg>
-         <l>буль-буль</l>
+         <l pos="Pcle">буль-буль</l>
          <stg>
             <st Contlex="Pmuu">буль-буль</st>
          </stg>
@@ -151,7 +151,7 @@
    </e>
    <e>
       <lg>
-         <l>бырлоч</l>
+         <l pos="Pcle">бырлоч</l>
          <stg>
             <st Contlex="Pmuu">бырлоч</st>
          </stg>
@@ -172,7 +172,7 @@
    </e>
    <e>
       <lg>
-         <l>вара</l>
+         <l pos="Pcle">вара</l>
          <stg>
             <st Contlex="Pmuu">вара</st>
          </stg>
@@ -193,7 +193,7 @@
    </e>
    <e>
       <lg>
-         <l>вет</l>
+         <l pos="Pcle">вет</l>
          <stg>
             <st Contlex="Pmuu">вет</st>
          </stg>
@@ -214,7 +214,7 @@
    </e>
    <e>
       <lg>
-         <l>вот</l>
+         <l pos="Pcle">вот</l>
          <stg>
             <st Contlex="Pmuu">вот</st>
          </stg>
@@ -235,7 +235,7 @@
    </e>
    <e>
       <lg>
-         <l>вудык-вудык</l>
+         <l pos="Pcle">вудык-вудык</l>
          <stg>
             <st Contlex="Pmuu">вудык-вудык</st>
          </stg>
@@ -256,7 +256,7 @@
    </e>
    <e>
       <lg>
-         <l>вуж-вуж</l>
+         <l pos="Pcle">вуж-вуж</l>
          <stg>
             <st Contlex="Pmuu">вуж-вуж</st>
          </stg>
@@ -277,7 +277,7 @@
    </e>
    <e>
       <lg>
-         <l>вузык</l>
+         <l pos="Pcle">вузык</l>
          <stg>
             <st Contlex="Pmuu">вузык</st>
          </stg>
@@ -298,7 +298,7 @@
    </e>
    <e>
       <lg>
-         <l>выж-ж</l>
+         <l pos="Pcle">выж-ж</l>
          <stg>
             <st Contlex="Pmuu">выж-ж</st>
          </stg>
@@ -319,7 +319,7 @@
    </e>
    <e>
       <lg>
-         <l>выргӱп</l>
+         <l pos="Pcle">выргӱп</l>
          <stg>
             <st Contlex="Pmuu">выргӱп</st>
          </stg>
@@ -340,7 +340,7 @@
    </e>
    <e>
       <lg>
-         <l>вырлоч</l>
+         <l pos="Pcle">вырлоч</l>
          <stg>
             <st Contlex="Pmuu">вырлоч</st>
          </stg>
@@ -361,7 +361,7 @@
    </e>
    <e>
       <lg>
-         <l>вышт</l>
+         <l pos="Pcle">вышт</l>
          <stg>
             <st Contlex="Pmuu">вышт</st>
          </stg>
@@ -382,7 +382,7 @@
    </e>
    <e>
       <lg>
-         <l>гала</l>
+         <l pos="Pcle">гала</l>
          <stg>
             <st Contlex="Pmuu">гала</st>
          </stg>
@@ -403,7 +403,7 @@
    </e>
    <e>
       <lg>
-         <l>гын</l>
+         <l pos="Pcle">гын</l>
          <stg>
             <st Contlex="Pmuu">гын</st>
          </stg>
@@ -424,7 +424,7 @@
    </e>
    <e>
       <lg>
-         <l>да</l>
+         <l pos="Pcle">да</l>
          <stg>
             <st Contlex="Pmuu">да</st>
          </stg>
@@ -445,7 +445,7 @@
    </e>
    <e>
       <lg>
-         <l>дӱр-дӱр</l>
+         <l pos="Pcle">дӱр-дӱр</l>
          <stg>
             <st Contlex="Pmuu">дӱр-дӱр</st>
          </stg>
@@ -466,7 +466,7 @@
    </e>
    <e>
       <lg>
-         <l>дыр</l>
+         <l pos="Pcle">дыр</l>
          <stg>
             <st Contlex="Pmuu">дыр</st>
          </stg>
@@ -487,7 +487,7 @@
    </e>
    <e>
       <lg>
-         <l>и</l>
+         <l pos="Pcle">и</l>
          <stg>
             <st Contlex="Pmuu">и</st>
          </stg>
@@ -508,7 +508,7 @@
    </e>
    <e>
       <lg>
-         <l>йӧра</l>
+         <l pos="Pcle">йӧра</l>
          <stg>
             <st Contlex="Pmuu">йӧра</st>
          </stg>
@@ -529,7 +529,7 @@
    </e>
    <e>
       <lg>
-         <l>йывылдик</l>
+         <l pos="Pcle">йывылдик</l>
          <stg>
             <st Contlex="Pmuu">йывылдик</st>
          </stg>
@@ -550,7 +550,7 @@
    </e>
    <e>
       <lg>
-         <l>йыли-юли</l>
+         <l pos="Pcle">йыли-юли</l>
          <stg>
             <st Contlex="Pmuu">йыли-юли</st>
          </stg>
@@ -571,7 +571,7 @@
    </e>
    <e>
       <lg>
-         <l>йышт-юшт</l>
+         <l pos="Pcle">йышт-юшт</l>
          <stg>
             <st Contlex="Pmuu">йышт-юшт</st>
          </stg>
@@ -592,7 +592,7 @@
    </e>
    <e>
       <lg>
-         <l>кавуй</l>
+         <l pos="Pcle">кавуй</l>
          <stg>
             <st Contlex="Pmuu">кавуй</st>
          </stg>
@@ -613,7 +613,7 @@
    </e>
    <e>
       <lg>
-         <l>калт-калт</l>
+         <l pos="Pcle">калт-калт</l>
          <stg>
             <st Contlex="Pmuu">калт-калт</st>
          </stg>
@@ -634,7 +634,7 @@
    </e>
    <e>
       <lg>
-         <l>керек</l>
+         <l pos="Pcle">керек</l>
          <stg>
             <st Contlex="Pmuu">керек</st>
          </stg>
@@ -655,7 +655,7 @@
    </e>
    <e>
       <lg>
-         <l>кигик-когок</l>
+         <l pos="Pcle">кигик-когок</l>
          <stg>
             <st Contlex="Pmuu">кигик-когок</st>
          </stg>
@@ -676,7 +676,7 @@
    </e>
    <e>
       <lg>
-         <l>кис-кис</l>
+         <l pos="Pcle">кис-кис</l>
          <stg>
             <st Contlex="Pmuu">кис-кис</st>
          </stg>
@@ -697,7 +697,7 @@
    </e>
    <e>
       <lg>
-         <l>коп</l>
+         <l pos="Pcle">коп</l>
          <stg>
             <st Contlex="Pmuu">коп</st>
          </stg>
@@ -718,7 +718,7 @@
    </e>
    <e>
       <lg>
-         <l>кочыри-и-к</l>
+         <l pos="Pcle">кочыри-и-к</l>
          <stg>
             <st Contlex="Pmuu">кочыри-и-к</st>
          </stg>
@@ -739,7 +739,7 @@
    </e>
    <e>
       <lg>
-         <l>кроп</l>
+         <l pos="Pcle">кроп</l>
          <stg>
             <st Contlex="Pmuu">кроп</st>
          </stg>
@@ -760,7 +760,7 @@
    </e>
    <e>
       <lg>
-         <l>крӱп</l>
+         <l pos="Pcle">крӱп</l>
          <stg>
             <st Contlex="Pmuu">крӱп</st>
          </stg>
@@ -781,7 +781,7 @@
    </e>
    <e>
       <lg>
-         <l>кузе-гынат</l>
+         <l pos="Pcle">кузе-гынат</l>
          <stg>
             <st Contlex="Pmuu">кузе-гынат</st>
          </stg>
@@ -802,7 +802,7 @@
    </e>
    <e>
       <lg>
-         <l>кукареку-ку-у</l>
+         <l pos="Pcle">кукареку-ку-у</l>
          <stg>
             <st Contlex="Pmuu">кукареку-ку-у</st>
          </stg>
@@ -823,7 +823,7 @@
    </e>
    <e>
       <lg>
-         <l>кӱш-ш</l>
+         <l pos="Pcle">кӱш-ш</l>
          <stg>
             <st Contlex="Pmuu">кӱш-ш</st>
          </stg>
@@ -844,7 +844,7 @@
    </e>
    <e>
       <lg>
-         <l>кыж-гож</l>
+         <l pos="Pcle">кыж-гож</l>
          <stg>
             <st Contlex="Pmuu">кыж-гож</st>
          </stg>
@@ -865,7 +865,7 @@
    </e>
    <e>
       <lg>
-         <l>кылт-калт</l>
+         <l pos="Pcle">кылт-калт</l>
          <stg>
             <st Contlex="Pmuu">кылт-калт</st>
          </stg>
@@ -886,7 +886,7 @@
    </e>
    <e>
       <lg>
-         <l>кычыр-кочыр</l>
+         <l pos="Pcle">кычыр-кочыр</l>
          <stg>
             <st Contlex="Pmuu">кычыр-кочыр</st>
          </stg>
@@ -907,7 +907,7 @@
    </e>
    <e>
       <lg>
-         <l>кыштыр-коштыр</l>
+         <l pos="Pcle">кыштыр-коштыр</l>
          <stg>
             <st Contlex="Pmuu">кыштыр-коштыр</st>
          </stg>
@@ -928,7 +928,7 @@
    </e>
    <e>
       <lg>
-         <l>ларт-ларт-ларт</l>
+         <l pos="Pcle">ларт-ларт-ларт</l>
          <stg>
             <st Contlex="Pmuu">ларт-ларт-ларт</st>
          </stg>
@@ -949,7 +949,7 @@
    </e>
    <e>
       <lg>
-         <l>лӱч</l>
+         <l pos="Pcle">лӱч</l>
          <stg>
             <st Contlex="Pmuu">лӱч</st>
          </stg>
@@ -970,7 +970,7 @@
    </e>
    <e>
       <lg>
-         <l>лыб-лыб-лыб</l>
+         <l pos="Pcle">лыб-лыб-лыб</l>
          <stg>
             <st Contlex="Pmuu">лыб-лыб-лыб</st>
          </stg>
@@ -991,7 +991,7 @@
    </e>
    <e>
       <lg>
-         <l>лыдыр-ладыр</l>
+         <l pos="Pcle">лыдыр-ладыр</l>
          <stg>
             <st Contlex="Pmuu">лыдыр-ладыр</st>
          </stg>
@@ -1012,7 +1012,7 @@
    </e>
    <e>
       <lg>
-         <l>монь</l>
+         <l pos="Pcle">монь</l>
          <stg>
             <st Contlex="Pmuu">монь</st>
          </stg>
@@ -1033,7 +1033,7 @@
    </e>
    <e>
       <lg>
-         <l>на</l>
+         <l pos="Pcle">на</l>
          <stg>
             <st Contlex="Pmuu">на</st>
          </stg>
@@ -1054,7 +1054,7 @@
    </e>
    <e>
       <lg>
-         <l>неужели</l>
+         <l pos="Pcle">неужели</l>
          <stg>
             <st Contlex="Pmuu">неужели</st>
          </stg>
@@ -1075,7 +1075,7 @@
    </e>
    <e>
       <lg>
-         <l>ни</l>
+         <l pos="Pcle">ни</l>
          <stg>
             <st Contlex="Pmuu">ни</st>
          </stg>
@@ -1096,7 +1096,7 @@
    </e>
    <e>
       <lg>
-         <l>ну</l>
+         <l pos="Pcle">ну</l>
          <stg>
             <st Contlex="Pmuu">ну</st>
          </stg>
@@ -1117,7 +1117,7 @@
    </e>
    <e>
       <lg>
-         <l>огла</l>
+         <l pos="Pcle">огла</l>
          <stg>
             <st Contlex="Pmuu">огла</st>
          </stg>
@@ -1138,7 +1138,7 @@
    </e>
    <e>
       <lg>
-         <l>пис-пис-пис</l>
+         <l pos="Pcle">пис-пис-пис</l>
          <stg>
             <st Contlex="Pmuu">пис-пис-пис</st>
          </stg>
@@ -1159,7 +1159,7 @@
    </e>
    <e>
       <lg>
-         <l>псльоп</l>
+         <l pos="Pcle">псльоп</l>
          <stg>
             <st Contlex="Pmuu">псльоп</st>
          </stg>
@@ -1180,7 +1180,7 @@
    </e>
    <e>
       <lg>
-         <l>райзе</l>
+         <l pos="Pcle">райзе</l>
          <stg>
             <st Contlex="Pmuu">райзе</st>
          </stg>
@@ -1201,7 +1201,7 @@
    </e>
    <e>
       <lg>
-         <l>раш</l>
+         <l pos="Pcle">раш</l>
          <stg>
             <st Contlex="Pmuu">раш</st>
          </stg>
@@ -1222,7 +1222,7 @@
    </e>
    <e>
       <lg>
-         <l>рушт</l>
+         <l pos="Pcle">рушт</l>
          <stg>
             <st Contlex="Pmuu">рушт</st>
          </stg>
@@ -1243,7 +1243,7 @@
    </e>
    <e>
       <lg>
-         <l>тук-тук</l>
+         <l pos="Pcle">тук-тук</l>
          <stg>
             <st Contlex="Pmuu">тук-тук</st>
          </stg>
@@ -1264,7 +1264,7 @@
    </e>
    <e>
       <lg>
-         <l>чай</l>
+         <l pos="Pcle">чай</l>
          <stg>
             <st Contlex="Pmuu">чай</st>
          </stg>
@@ -1285,7 +1285,7 @@
    </e>
    <e>
       <lg>
-         <l>чияк-чияк</l>
+         <l pos="Pcle">чияк-чияк</l>
          <stg>
             <st Contlex="Pmuu">чияк-чияк</st>
          </stg>
@@ -1306,7 +1306,7 @@
    </e>
    <e>
       <lg>
-         <l>чолт-чолт</l>
+         <l pos="Pcle">чолт-чолт</l>
          <stg>
             <st Contlex="Pmuu">чолт-чолт</st>
          </stg>
@@ -1327,7 +1327,7 @@
    </e>
    <e>
       <lg>
-         <l>чоштыр-чоштыр</l>
+         <l pos="Pcle">чоштыр-чоштыр</l>
          <stg>
             <st Contlex="Pmuu">чоштыр-чоштыр</st>
          </stg>
@@ -1348,7 +1348,7 @@
    </e>
    <e>
       <lg>
-         <l>чыдыр-чодыр</l>
+         <l pos="Pcle">чыдыр-чодыр</l>
          <stg>
             <st Contlex="Pmuu">чыдыр-чодыр</st>
          </stg>
@@ -1369,7 +1369,7 @@
    </e>
    <e>
       <lg>
-         <l>чырык</l>
+         <l pos="Pcle">чырык</l>
          <stg>
             <st Contlex="Pmuu">чырык</st>
          </stg>
@@ -1390,7 +1390,7 @@
    </e>
    <e>
       <lg>
-         <l>шеремет</l>
+         <l pos="Pcle">шеремет</l>
          <stg>
             <st Contlex="Pmuu">шеремет</st>
          </stg>
@@ -1411,7 +1411,7 @@
    </e>
    <e>
       <lg>
-         <l>шол</l>
+         <l pos="Pcle">шол</l>
          <stg>
             <st Contlex="Pmuu">шол</st>
          </stg>
@@ -1432,7 +1432,7 @@
    </e>
    <e>
       <lg>
-         <l>шолдырдок</l>
+         <l pos="Pcle">шолдырдок</l>
          <stg>
             <st Contlex="Pmuu">шолдырдок</st>
          </stg>
@@ -1453,7 +1453,7 @@
    </e>
    <e>
       <lg>
-         <l>шолт-шолт</l>
+         <l pos="Pcle">шолт-шолт</l>
          <stg>
             <st Contlex="Pmuu">шолт-шолт</st>
          </stg>
@@ -1474,7 +1474,7 @@
    </e>
    <e>
       <lg>
-         <l>шуй-шуй</l>
+         <l pos="Pcle">шуй-шуй</l>
          <stg>
             <st Contlex="Pmuu">шуй-шуй</st>
          </stg>
@@ -1495,7 +1495,7 @@
    </e>
    <e>
       <lg>
-         <l>шыве-шыве</l>
+         <l pos="Pcle">шыве-шыве</l>
          <stg>
             <st Contlex="Pmuu">шыве-шыве</st>
          </stg>
@@ -1516,7 +1516,7 @@
    </e>
    <e>
       <lg>
-         <l>шылт-шолт</l>
+         <l pos="Pcle">шылт-шолт</l>
          <stg>
             <st Contlex="Pmuu">шылт-шолт</st>
          </stg>
@@ -1537,7 +1537,7 @@
    </e>
    <e>
       <lg>
-         <l>шыҥ-шыҥ</l>
+         <l pos="Pcle">шыҥ-шыҥ</l>
          <stg>
             <st Contlex="Pmuu">шыҥ-шыҥ</st>
          </stg>
@@ -1558,7 +1558,7 @@
    </e>
    <e>
       <lg>
-         <l>шырт-шорт</l>
+         <l pos="Pcle">шырт-шорт</l>
          <stg>
             <st Contlex="Pmuu">шырт-шорт</st>
          </stg>
@@ -1579,7 +1579,7 @@
    </e>
    <e>
       <lg>
-         <l>эн</l>
+         <l pos="Pcle">эн</l>
          <stg>
             <st Contlex="Pmuu">эн</st>
          </stg>
@@ -1600,7 +1600,7 @@
    </e>
    <e>
       <lg>
-         <l>юргылдым-юргылдым</l>
+         <l pos="Pcle">юргылдым-юргылдым</l>
          <stg>
             <st Contlex="Pmuu">юргылдым-юргылдым</st>
          </stg>
@@ -1621,7 +1621,7 @@
    </e>
    <e>
       <lg>
-         <l>юрт</l>
+         <l pos="Pcle">юрт</l>
          <stg>
             <st Contlex="Pmuu">юрт</st>
          </stg>
@@ -1642,7 +1642,7 @@
    </e>
    <e>
       <lg>
-         <l>юшт</l>
+         <l pos="Pcle">юшт</l>
          <stg>
             <st Contlex="Pmuu">юшт</st>
          </stg>
@@ -1663,7 +1663,7 @@
    </e>
    <e>
       <lg>
-         <l>я</l>
+         <l pos="Pcle">я</l>
          <stg>
             <st Contlex="Pmuu">я</st>
          </stg>
@@ -1684,7 +1684,7 @@
    </e>
    <e>
       <lg>
-         <l>вудо-вуде</l>
+         <l pos="Pcle">вудо-вуде</l>
          <stg>
             <st Contlex="Pmuu">вудо-вуде1</st>
          </stg>
@@ -1705,7 +1705,7 @@
    </e>
    <e>
       <lg>
-         <l>выде-вуде</l>
+         <l pos="Pcle">выде-вуде</l>
          <stg>
             <st Contlex="Pmuu">выде-вуде1</st>
          </stg>
@@ -1726,7 +1726,7 @@
    </e>
    <e>
       <lg>
-         <l>киндончылне</l>
+         <l pos="Pcle">киндончылне</l>
          <stg>
             <st Contlex="Pmuu">киндончылне1</st>
          </stg>
@@ -1747,7 +1747,7 @@
    </e>
    <e>
       <lg>
-         <l>кылде-голде</l>
+         <l pos="Pcle">кылде-голде</l>
          <stg>
             <st Contlex="Pmuu">кылде-голде1</st>
          </stg>
@@ -1768,7 +1768,7 @@
    </e>
    <e>
       <lg>
-         <l>лыпте-лопте</l>
+         <l pos="Pcle">лыпте-лопте</l>
          <stg>
             <st Contlex="Pmuu">лыпте-лопте1</st>
          </stg>
@@ -1789,7 +1789,7 @@
    </e>
    <e>
       <lg>
-         <l>пожалуйста</l>
+         <l pos="Pcle">пожалуйста</l>
          <stg>
             <st Contlex="Pmuu">пожалуйста1</st>
          </stg>
@@ -1810,7 +1810,7 @@
    </e>
    <e>
       <lg>
-         <l>разве</l>
+         <l pos="Pcle">разве</l>
          <stg>
             <st Contlex="Pmuu">разве1</st>
          </stg>
@@ -1831,7 +1831,7 @@
    </e>
    <e>
       <lg>
-         <l>теве</l>
+         <l pos="Pcle">теве</l>
          <stg>
             <st Contlex="Pmuu">теве1</st>
          </stg>
@@ -1852,7 +1852,7 @@
    </e>
    <e>
       <lg>
-         <l>тӧве</l>
+         <l pos="Pcle">тӧве</l>
          <stg>
             <st Contlex="Pmuu">тӧве1</st>
          </stg>
@@ -1873,7 +1873,7 @@
    </e>
    <e>
       <lg>
-         <l>туде</l>
+         <l pos="Pcle">туде</l>
          <stg>
             <st Contlex="Pmuu">туде1</st>
          </stg>
@@ -1894,7 +1894,7 @@
    </e>
    <e>
       <lg>
-         <l>шыве-шове</l>
+         <l pos="Pcle">шыве-шове</l>
          <stg>
             <st Contlex="Pmuu">шыве-шове1</st>
          </stg>
@@ -1915,7 +1915,7 @@
    </e>
    <e>
       <lg>
-         <l>юмашне</l>
+         <l pos="Pcle">юмашне</l>
          <stg>
             <st Contlex="Pmuu">юмашне1</st>
          </stg>
@@ -1936,7 +1936,7 @@
    </e>
    <e>
       <lg>
-         <l>юмончылне</l>
+         <l pos="Pcle">юмончылне</l>
          <stg>
             <st Contlex="Pmuu">юмончылне1</st>
          </stg>

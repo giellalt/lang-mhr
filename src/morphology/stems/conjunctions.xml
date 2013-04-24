@@ -4,7 +4,7 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>садак</l>
+         <l pos="Conj">садак</l>
          <stg>
             <st Contlex="K">садак</st>
          </stg>
@@ -25,7 +25,7 @@
    </e>
    <e>
       <lg>
-         <l>садиктак</l>
+         <l pos="Conj">садиктак</l>
          <stg>
             <st Contlex="K">садиктак</st>
          </stg>
@@ -46,7 +46,7 @@
    </e>
    <e>
       <lg>
-         <l>я</l>
+         <l pos="Conj">я</l>
          <stg>
             <st Contlex="K">я</st>
          </stg>
@@ -67,7 +67,7 @@
    </e>
    <e>
       <lg>
-         <l>пуйте</l>
+         <l pos="Conj">пуйте</l>
          <stg>
             <st Contlex="K">пуйте1</st>
          </stg>
@@ -88,7 +88,7 @@
    </e>
    <e>
       <lg>
-         <l>теве</l>
+         <l pos="Conj">теве</l>
          <stg>
             <st Contlex="K">теве1</st>
          </stg>
@@ -109,7 +109,7 @@
    </e>
    <e>
       <lg>
-         <l>а</l>
+         <l pos="Conj">а</l>
          <stg>
             <st Contlex="CC">а</st>
          </stg>
@@ -131,7 +131,7 @@
    </e>
    <e>
       <lg>
-         <l>ала</l>
+         <l pos="Conj">ала</l>
          <stg>
             <st Contlex="CC">ала</st>
          </stg>
@@ -152,7 +152,7 @@
    </e>
    <e>
       <lg>
-         <l>гын</l>
+         <l pos="Conj">гын</l>
          <stg>
             <st Contlex="CS">гын</st>
          </stg>
@@ -173,7 +173,7 @@
    </e>
    <e>
       <lg>
-         <l>да</l>
+         <l pos="Conj">да</l>
          <stg>
             <st Contlex="CC">да</st>
          </stg>
@@ -194,7 +194,7 @@
    </e>
    <e>
       <lg>
-         <l>ден</l>
+         <l pos="Conj">ден</l>
          <stg>
             <st Contlex="CC">ден</st>
          </stg>
@@ -215,7 +215,7 @@
    </e>
    <e>
       <lg>
-         <l>дык</l>
+         <l pos="Conj">дык</l>
          <stg>
             <st Contlex="CS">дык</st>
          </stg>
@@ -236,7 +236,7 @@
    </e>
    <e>
       <lg>
-         <l>керек</l>
+         <l pos="Conj">керек</l>
          <stg>
             <st Contlex="CC">керек</st>
          </stg>
@@ -257,7 +257,7 @@
    </e>
    <e>
       <lg>
-         <l>ман</l>
+         <l pos="Conj">ман</l>
          <stg>
             <st Contlex="CS">ман</st>
          </stg>
@@ -278,7 +278,7 @@
    </e>
    <e>
       <lg>
-         <l>манын</l>
+         <l pos="Conj">манын</l>
          <stg>
             <st Contlex="CS">манын</st>
          </stg>
@@ -299,7 +299,7 @@
    </e>
    <e>
       <lg>
-         <l>но</l>
+         <l pos="Conj">но</l>
          <stg>
             <st Contlex="CS">но</st>
          </stg>
@@ -320,7 +320,7 @@
    </e>
    <e>
       <lg>
-         <l>что</l>
+         <l pos="Conj">что</l>
          <stg>
             <st Contlex="CS">что</st>
          </stg>
@@ -341,7 +341,7 @@
    </e>
    <e>
       <lg>
-         <l>чтобы</l>
+         <l pos="Conj">чтобы</l>
          <stg>
             <st Contlex="CS">чтобы</st>
          </stg>
@@ -362,7 +362,7 @@
    </e>
    <e>
       <lg>
-         <l>але</l>
+         <l pos="Conj">але</l>
          <stg>
             <st Contlex="CC">але1</st>
          </stg>
@@ -383,7 +383,7 @@
    </e>
    <e>
       <lg>
-         <l>тольке</l>
+         <l pos="Conj">тольке</l>
          <stg>
             <st Contlex="CS">тольке1</st>
          </stg>
