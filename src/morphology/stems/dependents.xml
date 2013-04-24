@@ -4,7 +4,7 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>акрет</l>
+         <l pos="Dep">акрет</l>
          <stg>
             <st Contlex="X">акрет</st>
          </stg>
@@ -29,7 +29,7 @@
    </e>
    <e>
       <lg>
-         <l>андри</l>
+         <l pos="Dep">андри</l>
          <stg>
             <st Contlex="X">андри</st>
          </stg>
@@ -50,7 +50,7 @@
    </e>
    <e>
       <lg>
-         <l>аш</l>
+         <l pos="Dep">аш</l>
          <stg>
             <st Contlex="X">аш</st>
          </stg>
@@ -71,7 +71,7 @@
    </e>
    <e>
       <lg>
-         <l>вещевой</l>
+         <l pos="Dep">вещевой</l>
          <stg>
             <st Contlex="X">вещевой</st>
          </stg>
@@ -92,7 +92,7 @@
    </e>
    <e>
       <lg>
-         <l>винительный</l>
+         <l pos="Dep">винительный</l>
          <stg>
             <st Contlex="X">винительный</st>
          </stg>
@@ -113,7 +113,7 @@
    </e>
    <e>
       <lg>
-         <l>водительский</l>
+         <l pos="Dep">водительский</l>
          <stg>
             <st Contlex="X">водительский</st>
          </stg>
@@ -134,7 +134,7 @@
    </e>
    <e>
       <lg>
-         <l>вувер</l>
+         <l pos="Dep">вувер</l>
          <stg>
             <st Contlex="X">вувер</st>
          </stg>
@@ -155,7 +155,7 @@
    </e>
    <e>
       <lg>
-         <l>вуйым-почым</l>
+         <l pos="Dep">вуйым-почым</l>
          <stg>
             <st Contlex="X">вуйым-почым</st>
          </stg>
@@ -176,7 +176,7 @@
    </e>
    <e>
       <lg>
-         <l>грецкий</l>
+         <l pos="Dep">грецкий</l>
          <stg>
             <st Contlex="X">грецкий</st>
          </stg>
@@ -197,7 +197,7 @@
    </e>
    <e>
       <lg>
-         <l>дательный</l>
+         <l pos="Dep">дательный</l>
          <stg>
             <st Contlex="X">дательный</st>
          </stg>
@@ -218,7 +218,7 @@
    </e>
    <e>
       <lg>
-         <l>домовой</l>
+         <l pos="Dep">домовой</l>
          <stg>
             <st Contlex="X">домовой</st>
          </stg>
@@ -239,7 +239,7 @@
    </e>
    <e>
       <lg>
-         <l>доплатной</l>
+         <l pos="Dep">доплатной</l>
          <stg>
             <st Contlex="X">доплатной</st>
          </stg>
@@ -260,7 +260,7 @@
    </e>
    <e>
       <lg>
-         <l>желательный</l>
+         <l pos="Dep">желательный</l>
          <stg>
             <st Contlex="X">желательный</st>
          </stg>
@@ -281,7 +281,7 @@
    </e>
    <e>
       <lg>
-         <l>зеркальный</l>
+         <l pos="Dep">зеркальный</l>
          <stg>
             <st Contlex="X">зеркальный</st>
          </stg>
@@ -302,7 +302,7 @@
    </e>
    <e>
       <lg>
-         <l>изъявительный</l>
+         <l pos="Dep">изъявительный</l>
          <stg>
             <st Contlex="X">изъявительный</st>
          </stg>
@@ -323,7 +323,7 @@
    </e>
    <e>
       <lg>
-         <l>именительный</l>
+         <l pos="Dep">именительный</l>
          <stg>
             <st Contlex="X">именительный</st>
          </stg>
@@ -344,7 +344,7 @@
    </e>
    <e>
       <lg>
-         <l>йолт</l>
+         <l pos="Dep">йолт</l>
          <stg>
             <st Contlex="X">йолт</st>
          </stg>
@@ -365,7 +365,7 @@
    </e>
    <e>
       <lg>
-         <l>йолчием</l>
+         <l pos="Dep">йолчием</l>
          <stg>
             <st Contlex="X">йолчием</st>
          </stg>
@@ -386,7 +386,7 @@
    </e>
    <e>
       <lg>
-         <l>йоҥ-йоҥ</l>
+         <l pos="Dep">йоҥ-йоҥ</l>
          <stg>
             <st Contlex="X">йоҥ-йоҥ</st>
          </stg>
@@ -407,7 +407,7 @@
    </e>
    <e>
       <lg>
-         <l>йора</l>
+         <l pos="Dep">йора</l>
          <stg>
             <st Contlex="X">йора</st>
          </stg>
@@ -428,7 +428,7 @@
    </e>
    <e>
       <lg>
-         <l>йошток</l>
+         <l pos="Dep">йошток</l>
          <stg>
             <st Contlex="X">йошток</st>
          </stg>
@@ -449,7 +449,7 @@
    </e>
    <e>
       <lg>
-         <l>йывыштык</l>
+         <l pos="Dep">йывыштык</l>
          <stg>
             <st Contlex="X">йывыштык</st>
          </stg>
@@ -470,7 +470,7 @@
    </e>
    <e>
       <lg>
-         <l>йыра</l>
+         <l pos="Dep">йыра</l>
          <stg>
             <st Contlex="X">йыра</st>
          </stg>
@@ -491,7 +491,7 @@
    </e>
    <e>
       <lg>
-         <l>кадем</l>
+         <l pos="Dep">кадем</l>
          <stg>
             <st Contlex="X">кадем</st>
          </stg>
@@ -512,7 +512,7 @@
    </e>
    <e>
       <lg>
-         <l>каштанат-лай</l>
+         <l pos="Dep">каштанат-лай</l>
          <stg>
             <st Contlex="X">каштанат-лай</st>
          </stg>
@@ -533,7 +533,7 @@
    </e>
    <e>
       <lg>
-         <l>коҥ</l>
+         <l pos="Dep">коҥ</l>
          <stg>
             <st Contlex="X">коҥ</st>
          </stg>
@@ -554,7 +554,7 @@
    </e>
    <e>
       <lg>
-         <l>коҥгок</l>
+         <l pos="Dep">коҥгок</l>
          <stg>
             <st Contlex="X">коҥгок</st>
          </stg>
@@ -575,7 +575,7 @@
    </e>
    <e>
       <lg>
-         <l>копыж-ж</l>
+         <l pos="Dep">копыж-ж</l>
          <stg>
             <st Contlex="X">копыж-ж</st>
          </stg>
@@ -596,7 +596,7 @@
    </e>
    <e>
       <lg>
-         <l>косвенный</l>
+         <l pos="Dep">косвенный</l>
          <stg>
             <st Contlex="X">косвенный</st>
          </stg>
@@ -617,7 +617,7 @@
    </e>
    <e>
       <lg>
-         <l>кулай</l>
+         <l pos="Dep">кулай</l>
          <stg>
             <st Contlex="X">кулай</st>
          </stg>
@@ -638,7 +638,7 @@
    </e>
    <e>
       <lg>
-         <l>кумалтыш</l>
+         <l pos="Dep">кумалтыш</l>
          <stg>
             <st Contlex="X">кумалтыш</st>
          </stg>
@@ -659,7 +659,7 @@
    </e>
    <e>
       <lg>
-         <l>кумыжвуян</l>
+         <l pos="Dep">кумыжвуян</l>
          <stg>
             <st Contlex="X">кумыжвуян</st>
          </stg>
@@ -680,7 +680,7 @@
    </e>
    <e>
       <lg>
-         <l>кыдач-покшеч</l>
+         <l pos="Dep">кыдач-покшеч</l>
          <stg>
             <st Contlex="X">кыдач-покшеч</st>
          </stg>
@@ -701,7 +701,7 @@
    </e>
    <e>
       <lg>
-         <l>кыр-гор</l>
+         <l pos="Dep">кыр-гор</l>
          <stg>
             <st Contlex="X">кыр-гор</st>
          </stg>
@@ -722,7 +722,7 @@
    </e>
    <e>
       <lg>
-         <l>кырпак</l>
+         <l pos="Dep">кырпак</l>
          <stg>
             <st Contlex="X">кырпак</st>
          </stg>
@@ -743,7 +743,7 @@
    </e>
    <e>
       <lg>
-         <l>лицевой</l>
+         <l pos="Dep">лицевой</l>
          <stg>
             <st Contlex="X">лицевой</st>
          </stg>
@@ -764,7 +764,7 @@
    </e>
    <e>
       <lg>
-         <l>логарӱмбал</l>
+         <l pos="Dep">логарӱмбал</l>
          <stg>
             <st Contlex="X">логарӱмбал</st>
          </stg>
@@ -785,7 +785,7 @@
    </e>
    <e>
       <lg>
-         <l>лодыш</l>
+         <l pos="Dep">лодыш</l>
          <stg>
             <st Contlex="X">лодыш</st>
          </stg>
@@ -806,7 +806,7 @@
    </e>
    <e>
       <lg>
-         <l>лоштак</l>
+         <l pos="Dep">лоштак</l>
          <stg>
             <st Contlex="X">лоштак</st>
          </stg>
@@ -827,7 +827,7 @@
    </e>
    <e>
       <lg>
-         <l>луэш</l>
+         <l pos="Dep">луэш</l>
          <stg>
             <st Contlex="X">луэш</st>
          </stg>
@@ -848,7 +848,7 @@
    </e>
    <e>
       <lg>
-         <l>лӱмаш</l>
+         <l pos="Dep">лӱмаш</l>
          <stg>
             <st Contlex="X">лӱмаш</st>
          </stg>
@@ -869,7 +869,7 @@
    </e>
    <e>
       <lg>
-         <l>махым</l>
+         <l pos="Dep">махым</l>
          <stg>
             <st Contlex="X">махым</st>
          </stg>
@@ -890,7 +890,7 @@
    </e>
    <e>
       <lg>
-         <l>машинно-тракторный</l>
+         <l pos="Dep">машинно-тракторный</l>
          <stg>
             <st Contlex="X">машинно-тракторный</st>
          </stg>
@@ -911,7 +911,7 @@
    </e>
    <e>
       <lg>
-         <l>местный</l>
+         <l pos="Dep">местный</l>
          <stg>
             <st Contlex="X">местный</st>
          </stg>
@@ -932,7 +932,7 @@
    </e>
    <e>
       <lg>
-         <l>направительный</l>
+         <l pos="Dep">направительный</l>
          <stg>
             <st Contlex="X">направительный</st>
          </stg>
@@ -953,7 +953,7 @@
    </e>
    <e>
       <lg>
-         <l>нашатырный</l>
+         <l pos="Dep">нашатырный</l>
          <stg>
             <st Contlex="X">нашатырный</st>
          </stg>
@@ -974,7 +974,7 @@
    </e>
    <e>
       <lg>
-         <l>нелеш</l>
+         <l pos="Dep">нелеш</l>
          <stg>
             <st Contlex="X">нелеш</st>
          </stg>
@@ -995,7 +995,7 @@
    </e>
    <e>
       <lg>
-         <l>ноля</l>
+         <l pos="Dep">ноля</l>
          <stg>
             <st Contlex="X">ноля</st>
          </stg>
@@ -1016,7 +1016,7 @@
    </e>
    <e>
       <lg>
-         <l>обстоятельственный</l>
+         <l pos="Dep">обстоятельственный</l>
          <stg>
             <st Contlex="X">обстоятельственный</st>
          </stg>
@@ -1037,7 +1037,7 @@
    </e>
    <e>
       <lg>
-         <l>олмештыш</l>
+         <l pos="Dep">олмештыш</l>
          <stg>
             <st Contlex="X">олмештыш</st>
          </stg>
@@ -1058,7 +1058,7 @@
    </e>
    <e>
       <lg>
-         <l>оръеҥ</l>
+         <l pos="Dep">оръеҥ</l>
          <stg>
             <st Contlex="X">оръеҥ</st>
          </stg>
@@ -1079,7 +1079,7 @@
    </e>
    <e>
       <lg>
-         <l>отчетно-сайлымаш</l>
+         <l pos="Dep">отчетно-сайлымаш</l>
          <stg>
             <st Contlex="X">отчетно-сайлымаш</st>
          </stg>
@@ -1100,7 +1100,7 @@
    </e>
    <e>
       <lg>
-         <l>ошын</l>
+         <l pos="Dep">ошын</l>
          <stg>
             <st Contlex="X">ошын</st>
          </stg>
@@ -1121,7 +1121,7 @@
    </e>
    <e>
       <lg>
-         <l>перспективный</l>
+         <l pos="Dep">перспективный</l>
          <stg>
             <st Contlex="X">перспективный</st>
          </stg>
@@ -1142,7 +1142,7 @@
    </e>
    <e>
       <lg>
-         <l>пжик</l>
+         <l pos="Dep">пжик</l>
          <stg>
             <st Contlex="X">пжик</st>
          </stg>
@@ -1163,7 +1163,7 @@
    </e>
    <e>
       <lg>
-         <l>пиж</l>
+         <l pos="Dep">пиж</l>
          <stg>
             <st Contlex="X">пиж</st>
          </stg>
@@ -1184,7 +1184,7 @@
    </e>
    <e>
       <lg>
-         <l>повелительный</l>
+         <l pos="Dep">повелительный</l>
          <stg>
             <st Contlex="X">повелительный</st>
          </stg>
@@ -1205,7 +1205,7 @@
    </e>
    <e>
       <lg>
-         <l>повествовательный</l>
+         <l pos="Dep">повествовательный</l>
          <stg>
             <st Contlex="X">повествовательный</st>
          </stg>
@@ -1226,7 +1226,7 @@
    </e>
    <e>
       <lg>
-         <l>подвесной</l>
+         <l pos="Dep">подвесной</l>
          <stg>
             <st Contlex="X">подвесной</st>
          </stg>
@@ -1247,7 +1247,7 @@
    </e>
    <e>
       <lg>
-         <l>пожа</l>
+         <l pos="Dep">пожа</l>
          <stg>
             <st Contlex="X">пожа</st>
          </stg>
@@ -1268,7 +1268,7 @@
    </e>
    <e>
       <lg>
-         <l>понудительный</l>
+         <l pos="Dep">понудительный</l>
          <stg>
             <st Contlex="X">понудительный</st>
          </stg>
@@ -1289,7 +1289,7 @@
    </e>
    <e>
       <lg>
-         <l>почеш</l>
+         <l pos="Dep">почеш</l>
          <stg>
             <st Contlex="X">почеш</st>
          </stg>
@@ -1310,7 +1310,7 @@
    </e>
    <e>
       <lg>
-         <l>пӧтынь</l>
+         <l pos="Dep">пӧтынь</l>
          <stg>
             <st Contlex="X">пӧтынь</st>
          </stg>
@@ -1331,7 +1331,7 @@
    </e>
    <e>
       <lg>
-         <l>превосходный</l>
+         <l pos="Dep">превосходный</l>
          <stg>
             <st Contlex="X">превосходный</st>
          </stg>
@@ -1352,7 +1352,7 @@
    </e>
    <e>
       <lg>
-         <l>препинаний</l>
+         <l pos="Dep">препинаний</l>
          <stg>
             <st Contlex="X">препинаний</st>
          </stg>
@@ -1373,7 +1373,7 @@
    </e>
    <e>
       <lg>
-         <l>придаточный</l>
+         <l pos="Dep">придаточный</l>
          <stg>
             <st Contlex="X">придаточный</st>
          </stg>
@@ -1394,7 +1394,7 @@
    </e>
    <e>
       <lg>
-         <l>пунчеж</l>
+         <l pos="Dep">пунчеж</l>
          <stg>
             <st Contlex="X">пунчеж</st>
          </stg>
@@ -1415,7 +1415,7 @@
    </e>
    <e>
       <lg>
-         <l>пӱчмыла</l>
+         <l pos="Dep">пӱчмыла</l>
          <stg>
             <st Contlex="X">пӱчмыла</st>
          </stg>
@@ -1436,7 +1436,7 @@
    </e>
    <e>
       <lg>
-         <l>пыч</l>
+         <l pos="Dep">пыч</l>
          <stg>
             <st Contlex="X">пыч</st>
          </stg>
@@ -1457,7 +1457,7 @@
    </e>
    <e>
       <lg>
-         <l>пычык</l>
+         <l pos="Dep">пычык</l>
          <stg>
             <st Contlex="X">пычык</st>
          </stg>
@@ -1478,7 +1478,7 @@
    </e>
    <e>
       <lg>
-         <l>рад</l>
+         <l pos="Dep">рад</l>
          <stg>
             <st Contlex="X">рад</st>
          </stg>
@@ -1499,7 +1499,7 @@
    </e>
    <e>
       <lg>
-         <l>родительный</l>
+         <l pos="Dep">родительный</l>
          <stg>
             <st Contlex="X">родительный</st>
          </stg>
@@ -1520,7 +1520,7 @@
    </e>
    <e>
       <lg>
-         <l>роп</l>
+         <l pos="Dep">роп</l>
          <stg>
             <st Contlex="X">роп</st>
          </stg>
@@ -1541,7 +1541,7 @@
    </e>
    <e>
       <lg>
-         <l>ручной</l>
+         <l pos="Dep">ручной</l>
          <stg>
             <st Contlex="X">ручной</st>
          </stg>
@@ -1562,7 +1562,7 @@
    </e>
    <e>
       <lg>
-         <l>рӱп</l>
+         <l pos="Dep">рӱп</l>
          <stg>
             <st Contlex="X">рӱп</st>
          </stg>
@@ -1583,7 +1583,7 @@
    </e>
    <e>
       <lg>
-         <l>сип</l>
+         <l pos="Dep">сип</l>
          <stg>
             <st Contlex="X">сип</st>
          </stg>
@@ -1604,7 +1604,7 @@
    </e>
    <e>
       <lg>
-         <l>скорый</l>
+         <l pos="Dep">скорый</l>
          <stg>
             <st Contlex="X">скорый</st>
          </stg>
@@ -1625,7 +1625,7 @@
    </e>
    <e>
       <lg>
-         <l>сообщений</l>
+         <l pos="Dep">сообщений</l>
          <stg>
             <st Contlex="X">сообщений</st>
          </stg>
@@ -1646,7 +1646,7 @@
    </e>
    <e>
       <lg>
-         <l>сослагательный</l>
+         <l pos="Dep">сослагательный</l>
          <stg>
             <st Contlex="X">сослагательный</st>
          </stg>
@@ -1667,7 +1667,7 @@
    </e>
    <e>
       <lg>
-         <l>страдательный</l>
+         <l pos="Dep">страдательный</l>
          <stg>
             <st Contlex="X">страдательный</st>
          </stg>
@@ -1688,7 +1688,7 @@
    </e>
    <e>
       <lg>
-         <l>так</l>
+         <l pos="Dep">так</l>
          <stg>
             <st Contlex="X">так</st>
          </stg>
@@ -1709,7 +1709,7 @@
    </e>
    <e>
       <lg>
-         <l>такеш</l>
+         <l pos="Dep">такеш</l>
          <stg>
             <st Contlex="X">такеш</st>
          </stg>
@@ -1730,7 +1730,7 @@
    </e>
    <e>
       <lg>
-         <l>тап</l>
+         <l pos="Dep">тап</l>
          <stg>
             <st Contlex="X">тап</st>
          </stg>
@@ -1751,7 +1751,7 @@
    </e>
    <e>
       <lg>
-         <l>ташлама</l>
+         <l pos="Dep">ташлама</l>
          <stg>
             <st Contlex="X">ташлама</st>
          </stg>
@@ -1772,7 +1772,7 @@
    </e>
    <e>
       <lg>
-         <l>тойки-мойки</l>
+         <l pos="Dep">тойки-мойки</l>
          <stg>
             <st Contlex="X">тойки-мойки</st>
          </stg>
@@ -1793,7 +1793,7 @@
    </e>
    <e>
       <lg>
-         <l>торланен</l>
+         <l pos="Dep">торланен</l>
          <stg>
             <st Contlex="X">торланен</st>
          </stg>
@@ -1814,7 +1814,7 @@
    </e>
    <e>
       <lg>
-         <l>тортен</l>
+         <l pos="Dep">тортен</l>
          <stg>
             <st Contlex="X">тортен</st>
          </stg>
@@ -1835,7 +1835,7 @@
    </e>
    <e>
       <lg>
-         <l>тӧтырет</l>
+         <l pos="Dep">тӧтырет</l>
          <stg>
             <st Contlex="X">тӧтырет</st>
          </stg>
@@ -1856,7 +1856,7 @@
    </e>
    <e>
       <lg>
-         <l>тулеч</l>
+         <l pos="Dep">тулеч</l>
          <stg>
             <st Contlex="X">тулеч</st>
          </stg>
@@ -1877,7 +1877,7 @@
    </e>
    <e>
       <lg>
-         <l>тӱп</l>
+         <l pos="Dep">тӱп</l>
          <stg>
             <st Contlex="X">тӱп</st>
          </stg>
@@ -1898,7 +1898,7 @@
    </e>
    <e>
       <lg>
-         <l>тӱран</l>
+         <l pos="Dep">тӱран</l>
          <stg>
             <st Contlex="X">тӱран</st>
          </stg>
@@ -1919,7 +1919,7 @@
    </e>
    <e>
       <lg>
-         <l>тыҥгас</l>
+         <l pos="Dep">тыҥгас</l>
          <stg>
             <st Contlex="X">тыҥгас</st>
          </stg>
@@ -1940,7 +1940,7 @@
    </e>
    <e>
       <lg>
-         <l>уголок</l>
+         <l pos="Dep">уголок</l>
          <stg>
             <st Contlex="X">уголок</st>
          </stg>
@@ -1961,7 +1961,7 @@
    </e>
    <e>
       <lg>
-         <l>удобрений</l>
+         <l pos="Dep">удобрений</l>
          <stg>
             <st Contlex="X">удобрений</st>
          </stg>
@@ -1982,7 +1982,7 @@
    </e>
    <e>
       <lg>
-         <l>условный</l>
+         <l pos="Dep">условный</l>
          <stg>
             <st Contlex="X">условный</st>
          </stg>
@@ -2003,7 +2003,7 @@
    </e>
    <e>
       <lg>
-         <l>уша</l>
+         <l pos="Dep">уша</l>
          <stg>
             <st Contlex="X">уша</st>
          </stg>
@@ -2024,7 +2024,7 @@
    </e>
    <e>
       <lg>
-         <l>ӱдырлыклан</l>
+         <l pos="Dep">ӱдырлыклан</l>
          <stg>
             <st Contlex="X">ӱдырлыклан</st>
          </stg>
@@ -2045,7 +2045,7 @@
    </e>
    <e>
       <lg>
-         <l>ӱдырлыкеш</l>
+         <l pos="Dep">ӱдырлыкеш</l>
          <stg>
             <st Contlex="X">ӱдырлыкеш</st>
          </stg>
@@ -2066,7 +2066,7 @@
    </e>
    <e>
       <lg>
-         <l>чаня</l>
+         <l pos="Dep">чаня</l>
          <stg>
             <st Contlex="X">чаня</st>
          </stg>
@@ -2087,7 +2087,7 @@
    </e>
    <e>
       <lg>
-         <l>чатлама</l>
+         <l pos="Dep">чатлама</l>
          <stg>
             <st Contlex="X">чатлама</st>
          </stg>
@@ -2108,7 +2108,7 @@
    </e>
    <e>
       <lg>
-         <l>честь</l>
+         <l pos="Dep">честь</l>
          <stg>
             <st Contlex="X">честь</st>
          </stg>
@@ -2129,7 +2129,7 @@
    </e>
    <e>
       <lg>
-         <l>чроҥ</l>
+         <l pos="Dep">чроҥ</l>
          <stg>
             <st Contlex="X">чроҥ</st>
          </stg>
@@ -2150,7 +2150,7 @@
    </e>
    <e>
       <lg>
-         <l>чурк</l>
+         <l pos="Dep">чурк</l>
          <stg>
             <st Contlex="X">чурк</st>
          </stg>
@@ -2171,7 +2171,7 @@
    </e>
    <e>
       <lg>
-         <l>чӱч</l>
+         <l pos="Dep">чӱч</l>
          <stg>
             <st Contlex="X">чӱч</st>
          </stg>
@@ -2192,7 +2192,7 @@
    </e>
    <e>
       <lg>
-         <l>чылдыр-чолдыр</l>
+         <l pos="Dep">чылдыр-чолдыр</l>
          <stg>
             <st Contlex="X">чылдыр-чолдыр</st>
          </stg>
@@ -2213,7 +2213,7 @@
    </e>
    <e>
       <lg>
-         <l>чыли</l>
+         <l pos="Dep">чыли</l>
          <stg>
             <st Contlex="X">чыли</st>
          </stg>
@@ -2234,7 +2234,7 @@
    </e>
    <e>
       <lg>
-         <l>шагыл</l>
+         <l pos="Dep">шагыл</l>
          <stg>
             <st Contlex="X">шагыл</st>
          </stg>
@@ -2255,7 +2255,7 @@
    </e>
    <e>
       <lg>
-         <l>шемын</l>
+         <l pos="Dep">шемын</l>
          <stg>
             <st Contlex="X">шемын</st>
          </stg>
@@ -2276,7 +2276,7 @@
    </e>
    <e>
       <lg>
-         <l>шожым</l>
+         <l pos="Dep">шожым</l>
          <stg>
             <st Contlex="X">шожым</st>
          </stg>
@@ -2297,7 +2297,7 @@
    </e>
    <e>
       <lg>
-         <l>шот</l>
+         <l pos="Dep">шот</l>
          <stg>
             <st Contlex="X">шот</st>
          </stg>
@@ -2318,7 +2318,7 @@
    </e>
    <e>
       <lg>
-         <l>шоч</l>
+         <l pos="Dep">шоч</l>
          <stg>
             <st Contlex="X">шоч</st>
          </stg>
@@ -2339,7 +2339,7 @@
    </e>
    <e>
       <lg>
-         <l>шу-у</l>
+         <l pos="Dep">шу-у</l>
          <stg>
             <st Contlex="X">шу-у</st>
          </stg>
@@ -2360,7 +2360,7 @@
    </e>
    <e>
       <lg>
-         <l>шӱшкыш</l>
+         <l pos="Dep">шӱшкыш</l>
          <stg>
             <st Contlex="X">шӱшкыш</st>
          </stg>
@@ -2381,7 +2381,7 @@
    </e>
    <e>
       <lg>
-         <l>шӱшпык</l>
+         <l pos="Dep">шӱшпык</l>
          <stg>
             <st Contlex="X">шӱшпык</st>
          </stg>
@@ -2402,7 +2402,7 @@
    </e>
    <e>
       <lg>
-         <l>ыресан</l>
+         <l pos="Dep">ыресан</l>
          <stg>
             <st Contlex="X">ыресан</st>
          </stg>
@@ -2423,7 +2423,7 @@
    </e>
    <e>
       <lg>
-         <l>юпке</l>
+         <l pos="Dep">юпке</l>
          <stg>
             <st Contlex="X">юпке</st>
          </stg>
@@ -2444,7 +2444,7 @@
    </e>
    <e>
       <lg>
-         <l>ямым</l>
+         <l pos="Dep">ямым</l>
          <stg>
             <st Contlex="X">ямым</st>
          </stg>
@@ -2465,7 +2465,7 @@
    </e>
    <e>
       <lg>
-         <l>ямынза</l>
+         <l pos="Dep">ямынза</l>
          <stg>
             <st Contlex="X">ямынза</st>
          </stg>
@@ -2486,7 +2486,7 @@
    </e>
    <e>
       <lg>
-         <l>кӱсе</l>
+         <l pos="Dep">кӱсе</l>
          <stg>
             <st Contlex="X">кӱсе1</st>
          </stg>
@@ -2507,7 +2507,7 @@
    </e>
    <e>
       <lg>
-         <l>леҥге</l>
+         <l pos="Dep">леҥге</l>
          <stg>
             <st Contlex="X">леҥге1</st>
          </stg>
@@ -2528,7 +2528,7 @@
    </e>
    <e>
       <lg>
-         <l>намызе</l>
+         <l pos="Dep">намызе</l>
          <stg>
             <st Contlex="X">намызе1</st>
          </stg>
@@ -2549,7 +2549,7 @@
    </e>
    <e>
       <lg>
-         <l>ньыге-нюге</l>
+         <l pos="Dep">ньыге-нюге</l>
          <stg>
             <st Contlex="X">ньыге-нюге1</st>
          </stg>
@@ -2570,7 +2570,7 @@
    </e>
    <e>
       <lg>
-         <l>рӱшке</l>
+         <l pos="Dep">рӱшке</l>
          <stg>
             <st Contlex="X">рӱшке1</st>
          </stg>
@@ -2591,7 +2591,7 @@
    </e>
    <e>
       <lg>
-         <l>туаде</l>
+         <l pos="Dep">туаде</l>
          <stg>
             <st Contlex="X">туаде1</st>
          </stg>
@@ -2612,7 +2612,7 @@
    </e>
    <e>
       <lg>
-         <l>улме</l>
+         <l pos="Dep">улме</l>
          <stg>
             <st Contlex="X">улме1</st>
          </stg>
@@ -2633,7 +2633,7 @@
    </e>
    <e>
       <lg>
-         <l>умыландарыше</l>
+         <l pos="Dep">умыландарыше</l>
          <stg>
             <st Contlex="X">умыландарыше1</st>
          </stg>
@@ -2654,7 +2654,7 @@
    </e>
    <e>
       <lg>
-         <l>шутыдыме</l>
+         <l pos="Dep">шутыдыме</l>
          <stg>
             <st Contlex="X">шутыдыме1</st>
          </stg>
@@ -2675,7 +2675,7 @@
    </e>
    <e>
       <lg>
-         <l>шутыме</l>
+         <l pos="Dep">шутыме</l>
          <stg>
             <st Contlex="X">шутыме1</st>
          </stg>
@@ -2696,7 +2696,7 @@
    </e>
    <e>
       <lg>
-         <l>юнге</l>
+         <l pos="Dep">юнге</l>
          <stg>
             <st Contlex="X">юнге1</st>
          </stg>
