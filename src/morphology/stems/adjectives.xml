@@ -40,6 +40,24 @@
    </e>
    <e>
       <lg>
+         <l pos="A">совет</l>
+         <stg>
+            <st Contlex="A">совет</st>
+         </stg>
+      </lg>
+      <pos>A</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg xml:lang="fin">
+            <t pos="NN">neuvosto-, neuvostoliittolais-</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">учетный</l>
          <stg>
             <st Contlex="A">учетный</st>

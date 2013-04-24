@@ -9,7 +9,7 @@
             <st Contlex="PronDem">тудо</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -24,7 +24,7 @@
             <st Contlex="PronDem">тиде</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -39,7 +39,7 @@
             <st Contlex="PronInd">ала-могай</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -57,7 +57,7 @@
             <st Contlex="PronInd">ала-кӧ</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -65,7 +65,6 @@
          </m>
          <tg xml:lang="fin">
             <t>joku, eräs PronInd</t>
-         </tg>
          </tg>
       </mg>
    </e>
@@ -76,7 +75,7 @@
             <st Contlex="PronInd">ала-кузе</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -94,7 +93,7 @@
             <st Contlex="PronInd">ала-кунам</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -112,7 +111,7 @@
             <st Contlex="PronInd">ала-кунамсек</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -130,7 +129,7 @@
             <st Contlex="PronInd">ала-кунар</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -148,7 +147,7 @@
             <st Contlex="PronInd">ала-кушан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -166,7 +165,7 @@
             <st Contlex="PronInd">ала-кушеч</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -184,7 +183,7 @@
             <st Contlex="PronInd">ала-кушкен</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -202,7 +201,7 @@
             <st Contlex="PronInd">ала-мо</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -220,7 +219,7 @@
             <st Contlex="PronInd">ала-могай</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -238,7 +237,7 @@
             <st Contlex="PronInd">ала-молан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -256,7 +255,7 @@
             <st Contlex="PronInd">ала-мыняр</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -274,7 +273,7 @@
             <st Contlex="PronRes">ваш</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -292,7 +291,7 @@
             <st Contlex="PronInd">вес</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -310,7 +309,7 @@
             <st Contlex="PronInd">еда</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -328,7 +327,7 @@
             <st Contlex="PronInd">ик</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -346,7 +345,7 @@
             <st Contlex="PronInd">икмыняр</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -364,7 +363,7 @@
             <st Contlex="PronInd">иктаж</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -382,7 +381,7 @@
             <st Contlex="PronInd">иктаж-кӧ</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -400,7 +399,7 @@
             <st Contlex="PronInd">иктаж-кӱшан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -418,7 +417,7 @@
             <st Contlex="PronInd">иктаж-кӱшеч</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -436,7 +435,7 @@
             <st Contlex="PronInd">иктаж-кузе</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -454,7 +453,7 @@
             <st Contlex="PronInd">иктаж-мо</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -472,7 +471,7 @@
             <st Contlex="PronInd">иктаж-могай</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -490,7 +489,7 @@
             <st Contlex="PronInd">иктаж-мыняр</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -508,7 +507,7 @@
             <st Contlex="PronInd">иктаж-семын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -526,7 +525,7 @@
             <st Contlex="PronInd">иктат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -544,7 +543,7 @@
             <st Contlex="PronInd">керек-кӧ</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -562,7 +561,7 @@
             <st Contlex="PronInd">керек-кузе</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -580,7 +579,7 @@
             <st Contlex="PronInd">керек-кунам</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -598,7 +597,7 @@
             <st Contlex="PronInd">керек-кушан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -616,7 +615,7 @@
             <st Contlex="PronInd">керек-кушеч</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -634,7 +633,7 @@
             <st Contlex="PronInd">керек-кушечын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -652,7 +651,7 @@
             <st Contlex="PronInd">керек-мо</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -670,7 +669,7 @@
             <st Contlex="PronInd">керек-мыняр</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -688,7 +687,7 @@
             <st Contlex="PronInd">кеч-кӧ</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -706,7 +705,7 @@
             <st Contlex="PronInd">кеч-кузе</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -724,7 +723,7 @@
             <st Contlex="PronInd">кеч-кузе-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -742,7 +741,7 @@
             <st Contlex="PronInd">кеч-кунам</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -760,7 +759,7 @@
             <st Contlex="PronInd">кеч-кушан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -778,7 +777,7 @@
             <st Contlex="PronInd">кеч-кушеч</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -796,7 +795,7 @@
             <st Contlex="PronInd">кеч-кушечын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -814,7 +813,7 @@
             <st Contlex="PronInd">кеч-мо</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -832,7 +831,7 @@
             <st Contlex="PronInd">кеч-мыняр</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -850,7 +849,7 @@
             <st Contlex="PronInd">кеч-могай</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -868,7 +867,7 @@
             <st Contlex="PronInd">когынек</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -886,7 +885,7 @@
             <st Contlex="PronInd">коктынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -904,7 +903,7 @@
             <st Contlex="PronIR">кӧ</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -922,7 +921,7 @@
             <st Contlex="PronInd">кӧ-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -940,7 +939,7 @@
             <st Contlex="PronIR">кӧлан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -958,7 +957,7 @@
             <st Contlex="PronInd">кӧлан-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -976,7 +975,7 @@
             <st Contlex="PronIR">кӧм</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -994,7 +993,7 @@
             <st Contlex="PronInd">кӧм-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1012,7 +1011,7 @@
             <st Contlex="PronIR">кӧн</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1030,7 +1029,7 @@
             <st Contlex="PronInd">кӧн-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1048,7 +1047,7 @@
             <st Contlex="PronIR">кувеч</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1066,7 +1065,7 @@
             <st Contlex="PronIR">кувечын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1084,7 +1083,7 @@
             <st Contlex="PronInd">кудо-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1102,7 +1101,7 @@
             <st Contlex="PronIR">кузе</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1120,7 +1119,7 @@
             <st Contlex="PronIR">кузерак</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1138,7 +1137,7 @@
             <st Contlex="PronInd">кузе-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1156,7 +1155,7 @@
             <st Contlex="PronIR">кунам</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1174,7 +1173,7 @@
             <st Contlex="PronInd">кунам-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1192,7 +1191,7 @@
             <st Contlex="PronInd">кунамлан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1210,7 +1209,7 @@
             <st Contlex="PronInd">кунамсек</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1228,7 +1227,7 @@
             <st Contlex="PronIR">куш</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1246,7 +1245,7 @@
             <st Contlex="PronIR">кушак</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1264,7 +1263,7 @@
             <st Contlex="PronIR">кушан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1282,7 +1281,7 @@
             <st Contlex="PronInd">кушан-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1300,7 +1299,7 @@
             <st Contlex="PronIR">кушеч</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1318,7 +1317,7 @@
             <st Contlex="PronIR">кушечын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1336,7 +1335,7 @@
             <st Contlex="PronIR">кушкен</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1354,7 +1353,7 @@
             <st Contlex="PronInd">кушко-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1372,7 +1371,7 @@
             <st Contlex="PronInd">кушкыла</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1390,7 +1389,7 @@
             <st Contlex="PronInd">кушто-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1408,7 +1407,7 @@
             <st Contlex="PronRes">кӱса-кӱса</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1426,7 +1425,7 @@
             <st Contlex="PronP">ме</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1444,7 +1443,7 @@
             <st Contlex="PronP">мемнам</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1462,7 +1461,7 @@
             <st Contlex="PronP">мемнан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1480,7 +1479,7 @@
             <st Contlex="PronIR">мо</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1498,7 +1497,7 @@
             <st Contlex="PronIR">могай</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1516,7 +1515,7 @@
             <st Contlex="PronIR">могай-тугай</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1534,7 +1533,7 @@
             <st Contlex="PronIR">могыч</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1552,7 +1551,7 @@
             <st Contlex="PronIR">молан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1570,7 +1569,7 @@
             <st Contlex="PronInd">молан-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1588,7 +1587,7 @@
             <st Contlex="PronIR">мом</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1606,7 +1605,7 @@
             <st Contlex="PronI">мом-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1624,7 +1623,7 @@
             <st Contlex="Pron">мон</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1642,7 +1641,7 @@
             <st Contlex="PronInd">мон-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1660,7 +1659,7 @@
             <st Contlex="PronIR">мош</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1678,7 +1677,7 @@
             <st Contlex="PronP">мый</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1696,7 +1695,7 @@
             <st Contlex="PronP">мыйым</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1714,7 +1713,7 @@
             <st Contlex="PronP">мыйын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1732,7 +1731,7 @@
             <st Contlex="PronP">мыланем</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1750,7 +1749,7 @@
             <st Contlex="PronP">мыланна</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1768,7 +1767,7 @@
             <st Contlex="PronIR">мыняр</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1786,7 +1785,7 @@
             <st Contlex="PronInd">мыняр-гынат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1804,7 +1803,7 @@
             <st Contlex="PronInd">нигӧ</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1822,7 +1821,7 @@
             <st Contlex="PronInd">нигузе</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1840,7 +1839,7 @@
             <st Contlex="PronInd">нигунам</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1858,7 +1857,7 @@
             <st Contlex="PronInd">нигунамат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1876,7 +1875,7 @@
             <st Contlex="PronInd">нигуш</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1894,7 +1893,7 @@
             <st Contlex="PronInd">нигушан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1912,7 +1911,7 @@
             <st Contlex="PronInd">нигушеч</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1930,7 +1929,7 @@
             <st Contlex="PronInd">нигушечын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1948,7 +1947,7 @@
             <st Contlex="PronInd">нигушто</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1966,7 +1965,7 @@
             <st Contlex="PronInd">нимат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -1984,7 +1983,7 @@
             <st Contlex="PronInd">нимо</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2002,7 +2001,7 @@
             <st Contlex="PronInd">нимогай</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2020,7 +2019,7 @@
             <st Contlex="PronInd">нимыняр</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2038,7 +2037,7 @@
             <st Contlex="PronD">садлан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2056,7 +2055,7 @@
             <st Contlex="PronP">те</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2074,7 +2073,7 @@
             <st Contlex="PronD">тембал</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2092,7 +2091,7 @@
             <st Contlex="PronP">тендам</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2110,7 +2109,7 @@
             <st Contlex="PronP">тендан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2128,7 +2127,7 @@
             <st Contlex="PronD">тидӱлан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2146,7 +2145,7 @@
             <st Contlex="PronD">тидат-тудат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2164,7 +2163,7 @@
             <st Contlex="PronInd">то</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2182,7 +2181,7 @@
             <st Contlex="N">тугай</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2200,7 +2199,7 @@
             <st Contlex="PronD">туге</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2218,7 +2217,7 @@
             <st Contlex="PronD">тудлан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2236,7 +2235,7 @@
             <st Contlex="PronP">тудлан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2254,7 +2253,7 @@
             <st Contlex="PronP">тудым</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2272,7 +2271,7 @@
             <st Contlex="PronD">тудым</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2290,7 +2289,7 @@
             <st Contlex="PronP">тудын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2308,7 +2307,7 @@
             <st Contlex="PronD">тудын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2326,7 +2325,7 @@
             <st Contlex="PronD">тунам</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2344,7 +2343,7 @@
             <st Contlex="PronD">тунар</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2362,7 +2361,7 @@
             <st Contlex="PronD">туш</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2380,7 +2379,7 @@
             <st Contlex="PronD">тушак</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2398,7 +2397,7 @@
             <st Contlex="PronD">тушан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2416,7 +2415,7 @@
             <st Contlex="PronD">тушеч</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2434,7 +2433,7 @@
             <st Contlex="PronD">тушечын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2452,7 +2451,7 @@
             <st Contlex="PronD">ты</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2470,7 +2469,7 @@
             <st Contlex="PronD">тыгай</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2488,7 +2487,7 @@
             <st Contlex="PronD">тыгат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2506,7 +2505,7 @@
             <st Contlex="PronD">тыгат-тугат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2524,7 +2523,7 @@
             <st Contlex="PronP">тый</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2542,7 +2541,7 @@
             <st Contlex="PronP">тӱйым</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2560,7 +2559,7 @@
             <st Contlex="PronP">тӱйын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2578,7 +2577,7 @@
             <st Contlex="PronP">тыланда</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2596,7 +2595,7 @@
             <st Contlex="PronP">тыланет</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2614,7 +2613,7 @@
             <st Contlex="PronP">тылат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2632,7 +2631,7 @@
             <st Contlex="PronD">тылеч</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2650,7 +2649,7 @@
             <st Contlex="PronD">тынар</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2668,7 +2667,7 @@
             <st Contlex="PronD">тынарак</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2686,7 +2685,7 @@
             <st Contlex="PronD">тыш</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2704,7 +2703,7 @@
             <st Contlex="PronD">тышак</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2722,7 +2721,7 @@
             <st Contlex="PronD">тышан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2740,7 +2739,7 @@
             <st Contlex="PronD">тышан-тушан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2758,7 +2757,7 @@
             <st Contlex="PronD">тышеч</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2776,7 +2775,7 @@
             <st Contlex="PronD">тышечын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2794,7 +2793,7 @@
             <st Contlex="PronD">тышеч-тушеч</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2812,7 +2811,7 @@
             <st Contlex="PronD">тышкат-тушкат</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2830,7 +2829,7 @@
             <st Contlex="PronInd">чыла</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2848,7 +2847,7 @@
             <st Contlex="PronRef">шкаланда</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2866,7 +2865,7 @@
             <st Contlex="PronRef">шканда</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2884,7 +2883,7 @@
             <st Contlex="PronRef">шкаланем</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2902,7 +2901,7 @@
             <st Contlex="PronRef">шканем</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2920,7 +2919,7 @@
             <st Contlex="PronRef">шкаланет</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2938,7 +2937,7 @@
             <st Contlex="PronRef">шканет</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2956,7 +2955,7 @@
             <st Contlex="PronRef">шкаланна</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2974,7 +2973,7 @@
             <st Contlex="PronRef">шканна</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -2992,7 +2991,7 @@
             <st Contlex="PronRef">шкаланышт</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3010,7 +3009,7 @@
             <st Contlex="PronRef">шканышт</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3028,7 +3027,7 @@
             <st Contlex="PronRef">шке</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3046,7 +3045,7 @@
             <st Contlex="PronRef">шкемым</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3064,7 +3063,7 @@
             <st Contlex="PronRef">шкемын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3082,7 +3081,7 @@
             <st Contlex="PronRef">шкенам</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3100,7 +3099,7 @@
             <st Contlex="PronRef">шкенан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3118,7 +3117,7 @@
             <st Contlex="PronRef">шкендам</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3136,7 +3135,7 @@
             <st Contlex="PronRef">шкендан</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3154,7 +3153,7 @@
             <st Contlex="PronRef">шкендым</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3172,7 +3171,7 @@
             <st Contlex="PronRef">шкендын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3190,7 +3189,7 @@
             <st Contlex="PronRef">шкенжым</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3208,7 +3207,7 @@
             <st Contlex="PronRef">шкенжын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3226,7 +3225,7 @@
             <st Contlex="PronRef">шкеныштым</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3244,7 +3243,7 @@
             <st Contlex="PronRef">шкеныштын</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3262,7 +3261,7 @@
             <st Contlex="PronInd">южгунам</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3280,7 +3279,7 @@
             <st Contlex="PronInd">южиктышт</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3298,7 +3297,7 @@
             <st Contlex="PronIR">кунар</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3316,7 +3315,7 @@
             <st Contlex="PronInd">ала-куште1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3334,7 +3333,7 @@
             <st Contlex="PronInd">ала-куде1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3352,7 +3351,7 @@
             <st Contlex="PronInd">ала-кушке1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3370,7 +3369,7 @@
             <st Contlex="PronInd">ала-могайе1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3388,7 +3387,7 @@
             <st Contlex="PronInd">ала-могудеште1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3406,7 +3405,7 @@
             <st Contlex="PronInd">весе1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3424,7 +3423,7 @@
             <st Contlex="PronInd">икме1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3442,7 +3441,7 @@
             <st Contlex="PronInd">иктаже1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3460,7 +3459,7 @@
             <st Contlex="PronInd">иктаж-кӱшке1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3478,7 +3477,7 @@
             <st Contlex="PronInd">иктаж-кӱште1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3496,7 +3495,7 @@
             <st Contlex="PronInd">иктаж-могайе1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3514,7 +3513,7 @@
             <st Contlex="PronInd">иктаж-мыняре1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3532,7 +3531,7 @@
             <st Contlex="PronInd">икте1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3550,7 +3549,7 @@
             <st Contlex="PronRes">икте-весе1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3568,7 +3567,7 @@
             <st Contlex="PronInd">кажне1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3586,7 +3585,7 @@
             <st Contlex="PronInd">керек-куде1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3604,7 +3603,7 @@
             <st Contlex="PronInd">керек-кушке1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3622,7 +3621,7 @@
             <st Contlex="PronInd">керек-куште1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3640,7 +3639,7 @@
             <st Contlex="PronInd">кеч-куде1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3658,7 +3657,7 @@
             <st Contlex="PronInd">кеч-кушке1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3676,7 +3675,7 @@
             <st Contlex="PronInd">кеч-куште1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3694,7 +3693,7 @@
             <st Contlex="PronIR">кувеке1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3712,7 +3711,7 @@
             <st Contlex="PronIR">кувелне1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3730,7 +3729,7 @@
             <st Contlex="PronIR">куде1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3766,7 +3765,7 @@
             <st Contlex="PronIR">кусе1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3784,7 +3783,7 @@
             <st Contlex="PronIR">кушке1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3802,7 +3801,7 @@
             <st Contlex="PronIR">кушке1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3820,7 +3819,7 @@
             <st Contlex="PronIR">куште1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3838,7 +3837,7 @@
             <st Contlex="PronIR">могайе1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3856,7 +3855,7 @@
             <st Contlex="PronIR">могудеште1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3874,7 +3873,7 @@
             <st Contlex="PronInd">моле1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3892,7 +3891,7 @@
             <st Contlex="PronIR">мочоле1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3910,7 +3909,7 @@
             <st Contlex="PronIR">мыняре1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3928,7 +3927,7 @@
             <st Contlex="PronIR">мынярымше1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3946,7 +3945,7 @@
             <st Contlex="PronInd">нигуде1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3964,7 +3963,7 @@
             <st Contlex="PronInd">нигушке1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -3982,7 +3981,7 @@
             <st Contlex="PronInd">нимогайе1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4000,7 +3999,7 @@
             <st Contlex="PronInd">нимыняре1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4018,7 +4017,7 @@
             <st Contlex="PronD">нине1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4036,7 +4035,7 @@
             <st Contlex="PronP">нине1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4054,7 +4053,7 @@
             <st Contlex="PronP">нуне1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4072,7 +4071,7 @@
             <st Contlex="PronD">нуне1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4090,7 +4089,7 @@
             <st Contlex="PronD">саде1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4108,7 +4107,7 @@
             <st Contlex="PronD">сандене1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4126,7 +4125,7 @@
             <st Contlex="PronD">тиде1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4144,7 +4143,7 @@
             <st Contlex="PronD">тугане1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4162,7 +4161,7 @@
             <st Contlex="PronD">туде1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4180,7 +4179,7 @@
             <st Contlex="PronP">туде1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4198,7 +4197,7 @@
             <st Contlex="PronD">тудыже1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4216,7 +4215,7 @@
             <st Contlex="PronD">тунаре1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4234,7 +4233,7 @@
             <st Contlex="PronD">тушке1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4252,7 +4251,7 @@
             <st Contlex="PronD">туште1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4270,7 +4269,7 @@
             <st Contlex="PronD">тыгане1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4288,7 +4287,7 @@
             <st Contlex="PronD">тыге1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4306,7 +4305,7 @@
             <st Contlex="PronD">тынаре1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4324,7 +4323,7 @@
             <st Contlex="PronD">тышке1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4342,7 +4341,7 @@
             <st Contlex="N">тышке-тушке1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4360,7 +4359,7 @@
             <st Contlex="PronD">тыште1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4378,7 +4377,7 @@
             <st Contlex="PronD">тыште-туште1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4396,7 +4395,7 @@
             <st Contlex="PronRef">шкаланже1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4414,7 +4413,7 @@
             <st Contlex="PronRef">шканже1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4432,7 +4431,7 @@
             <st Contlex="PronInd">южиктыже1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4450,7 +4449,7 @@
             <st Contlex="PronInd">юже1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4468,7 +4467,7 @@
             <st Contlex="PronInd">южыже1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4486,7 +4485,7 @@
             <st Contlex="PronD">седе1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>
@@ -4504,7 +4503,7 @@
             <st Contlex="PronIR">кунаре1</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Pron</pos>
       <mg>
          <m>
             <head/>

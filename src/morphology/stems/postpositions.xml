@@ -9,7 +9,7 @@
             <st Contlex="Postp">посна</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -19,7 +19,7 @@
             <t/>
          </tg>
          <tg xml:lang="fin">
-            <t pos="POSTP">ilman</t>
+            <t pos="Pr">ilman</t>
          </tg>
       </mg>
       <mg>
@@ -31,7 +31,7 @@
             <t/>
          </tg>
          <tg xml:lang="fin">
-            <t pos="POSTP">lisäksi</t>
+            <t pos="Po">lisäksi</t>
          </tg>
       </mg>
    </e>
@@ -42,14 +42,14 @@
             <st Contlex="Po">вара</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">jälkeen</t>
+            <t pos="Po">jälkeen</t>
          </tg>
       </mg>
    </e>
@@ -60,7 +60,7 @@
             <st Contlex="Po">вашеш</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -78,7 +78,7 @@
             <st Contlex="Po">ваштареш</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -96,7 +96,7 @@
             <st Contlex="Po">ваштарешла</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -114,14 +114,14 @@
             <st Contlex="Po">велан</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">puolella, puolelle</t>
+            <t pos="Po">puolella, puolelle</t>
          </tg>
       </mg>
    </e>
@@ -132,14 +132,14 @@
             <st Contlex="Po">верч</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">takia, sijasta</t>
+            <t pos="Po">takia, sijasta</t>
          </tg>
       </mg>
    </e>
@@ -150,14 +150,14 @@
             <st Contlex="Po">верчын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">takia, sijasta</t>
+            <t pos="Po">takia, sijasta</t>
          </tg>
       </mg>
    </e>
@@ -168,14 +168,14 @@
             <st Contlex="Po">веч</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">suunnalta</t>
+            <t pos="Po">suunnalta</t>
          </tg>
       </mg>
    </e>
@@ -186,14 +186,14 @@
             <st Contlex="Po">вечын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">suunnalta</t>
+            <t pos="Po">suunnalta</t>
          </tg>
       </mg>
    </e>
@@ -204,14 +204,14 @@
             <st Contlex="Po">воктечын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">ohi(tse), luota</t>
+            <t pos="Po">ohi(tse), luota</t>
          </tg>
       </mg>
    </e>
@@ -222,14 +222,14 @@
             <st Contlex="Po">годсек</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">alkaen, aikana</t>
+            <t pos="Po">alkaen, aikana</t>
          </tg>
       </mg>
    </e>
@@ -240,14 +240,14 @@
             <st Contlex="Po">годым</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">aikana, kuluessa, aikaan, sijasta, ennen</t>
+            <t pos="Po">aikana, kuluessa, aikaan, sijasta, ennen</t>
          </tg>
       </mg>
    </e>
@@ -258,14 +258,14 @@
             <st Contlex="Po">готсек</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">(jstak) lähtien</t>
+            <t pos="Po">(jstak) lähtien</t>
          </tg>
       </mg>
    </e>
@@ -276,14 +276,14 @@
             <st Contlex="Po">гоч</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">yli(tse), läpi, (jnk) ajan</t>
+            <t pos="Po">yli(tse), läpi, (jnk) ajan</t>
          </tg>
       </mg>
    </e>
@@ -294,14 +294,14 @@
             <st Contlex="Po">гыч</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">(elat., ablat.)</t>
+            <t pos="Po">(elat., ablat.)</t>
          </tg>
       </mg>
    </e>
@@ -312,14 +312,14 @@
             <st Contlex="Po">гычын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">(elat., ablat.)</t>
+            <t pos="Po">(elat., ablat.)</t>
          </tg>
       </mg>
    </e>
@@ -330,14 +330,14 @@
             <st Contlex="Po">деке</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">luo(kse), (kaAS + saaminen:) (lat.)</t>
+            <t pos="Po">luo(kse), (kaAS + saaminen:) (lat.)</t>
          </tg>
       </mg>
    </e>
@@ -348,14 +348,14 @@
             <st Contlex="Po">дек</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">luo(kse), (kaAS + saaminen:) (lat.)</t>
+            <t pos="Po">luo(kse), (kaAS + saaminen:) (lat.)</t>
          </tg>
       </mg>
    </e>
@@ -366,14 +366,14 @@
             <st Contlex="Po">дене</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">kanssa, luona, pitkin</t>
+            <t pos="Po">kanssa, luona, pitkin</t>
          </tg>
       </mg>
    </e>
@@ -384,14 +384,14 @@
             <st Contlex="Po">деран</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">luona, (adess.), (allat.)</t>
+            <t pos="Po">luona, (adess.), (allat.)</t>
          </tg>
       </mg>
    </e>
@@ -402,14 +402,14 @@
             <st Contlex="Po">дечын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">luota, -ltA</t>
+            <t pos="Po">luota, -ltA</t>
          </tg>
       </mg>
    </e>
@@ -420,14 +420,14 @@
             <st Contlex="Po">деч</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">luota, -ltA</t>
+            <t pos="Po">luota, -ltA</t>
          </tg>
       </mg>
    </e>
@@ -438,14 +438,14 @@
             <st Contlex="Po">йӧре</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">kanssa, seassa</t>
+            <t pos="Po">kanssa, seassa</t>
          </tg>
       </mg>
    </e>
@@ -456,14 +456,14 @@
             <st Contlex="Po">йымак</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">alle</t>
+            <t pos="Po">alle</t>
          </tg>
       </mg>
    </e>
@@ -474,14 +474,14 @@
             <st Contlex="Po">йымалан</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">alle</t>
+            <t pos="Po">alle</t>
          </tg>
       </mg>
    </e>
@@ -492,14 +492,14 @@
             <st Contlex="Po">йӱMач</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">alta, (paikan ilm. elat.)</t>
+            <t pos="Po">alta, (paikan ilm. elat.)</t>
          </tg>
       </mg>
    </e>
@@ -510,14 +510,14 @@
             <st Contlex="Po">йӱMачын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">alta, (paikan ilm. elat.)</t>
+            <t pos="Po">alta, (paikan ilm. elat.)</t>
          </tg>
       </mg>
    </e>
@@ -528,14 +528,14 @@
             <st Contlex="Po">йыр</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">ympäri</t>
+            <t pos="Po">ympäri</t>
          </tg>
       </mg>
    </e>
@@ -546,14 +546,14 @@
             <st Contlex="Po">кыдач</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="POSTP">(jnk) poikki</t>
+            <t pos="Po">(jnk) poikki</t>
          </tg>
       </mg>
    </e>
@@ -564,7 +564,7 @@
             <st Contlex="Po">кыдачын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -582,7 +582,7 @@
             <st Contlex="Po">кыдачын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -600,7 +600,7 @@
             <st Contlex="Po">лийын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -618,7 +618,7 @@
             <st Contlex="Po">лиш</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -636,7 +636,7 @@
             <st Contlex="Po">лишан</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -654,7 +654,7 @@
             <st Contlex="Po">лишыч</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -672,7 +672,7 @@
             <st Contlex="Po">лишычын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -690,7 +690,7 @@
             <st Contlex="Po">марте</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -708,7 +708,7 @@
             <st Contlex="Po">мартен</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -726,7 +726,7 @@
             <st Contlex="Po">нерген</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -744,7 +744,7 @@
             <st Contlex="Po">олмеш</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -762,7 +762,7 @@
             <st Contlex="Po">ончык</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -780,7 +780,7 @@
             <st Contlex="Po">ончылан</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -798,7 +798,7 @@
             <st Contlex="Po">ончыч</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -816,7 +816,7 @@
             <st Contlex="Po">ончычын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -834,7 +834,7 @@
             <st Contlex="Po">пелен</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -852,7 +852,7 @@
             <st Contlex="Po">пелне</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -870,7 +870,7 @@
             <st Contlex="Po">пелтык</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -888,7 +888,7 @@
             <st Contlex="Po">покшек</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -906,7 +906,7 @@
             <st Contlex="Po">покшелан</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -924,7 +924,7 @@
             <st Contlex="Po">покшеч</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -942,7 +942,7 @@
             <st Contlex="Po">покшечын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -960,7 +960,7 @@
             <st Contlex="P">посна</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -978,7 +978,7 @@
             <st Contlex="Po">почеш</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -996,7 +996,7 @@
             <st Contlex="Po">семын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1014,7 +1014,7 @@
             <st Contlex="Po">таҥеш</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1032,7 +1032,7 @@
             <st Contlex="Po">тореш</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1050,7 +1050,7 @@
             <st Contlex="Po">торешне</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1068,7 +1068,7 @@
             <st Contlex="Po">ӱлык</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1086,7 +1086,7 @@
             <st Contlex="Po">ӱлыч</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1104,7 +1104,7 @@
             <st Contlex="Po">ӱлычын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1122,7 +1122,7 @@
             <st Contlex="Po">ӱмбак</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1140,7 +1140,7 @@
             <st Contlex="Po">ӱмбалан</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1158,7 +1158,7 @@
             <st Contlex="Po">ӱмбач</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1176,7 +1176,7 @@
             <st Contlex="Po">ӱмбачын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1194,7 +1194,7 @@
             <st Contlex="Po">шеҥгек</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1212,7 +1212,7 @@
             <st Contlex="Po">шеҥгекыла</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1230,7 +1230,7 @@
             <st Contlex="Po">шеҥгелан</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1248,7 +1248,7 @@
             <st Contlex="Po">шеҥгеч</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1266,7 +1266,7 @@
             <st Contlex="Po">шеҥгечын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1284,7 +1284,7 @@
             <st Contlex="Po">шойылан</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1302,7 +1302,7 @@
             <st Contlex="Po">шойыч</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1320,7 +1320,7 @@
             <st Contlex="Po">шойычын</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1338,7 +1338,7 @@
             <st Contlex="Po">шоҥыш</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1356,7 +1356,7 @@
             <st Contlex="Po">шотеш</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1374,7 +1374,7 @@
             <st Contlex="Po">шумеш</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1392,7 +1392,7 @@
             <st Contlex="Po">шумешке</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1410,7 +1410,7 @@
             <st Contlex="Po">шумлык</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1428,7 +1428,7 @@
             <st Contlex="Po">велке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1446,7 +1446,7 @@
             <st Contlex="Po">велне1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1464,7 +1464,7 @@
             <st Contlex="Po">воктеке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1482,7 +1482,7 @@
             <st Contlex="Po">воктене1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1500,7 +1500,7 @@
             <st Contlex="Po">гутлаште1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1518,7 +1518,7 @@
             <st Contlex="Po">йымаке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1536,7 +1536,7 @@
             <st Contlex="Po">йымалне1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1554,7 +1554,7 @@
             <st Contlex="Po">лиймеке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1572,7 +1572,7 @@
             <st Contlex="Po">лишке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1590,7 +1590,7 @@
             <st Contlex="Po">лишке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1608,7 +1608,7 @@
             <st Contlex="Po">лишне1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1626,7 +1626,7 @@
             <st Contlex="Po">мучке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1644,7 +1644,7 @@
             <st Contlex="Po">ончыке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1662,7 +1662,7 @@
             <st Contlex="Po">ончылне1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1680,7 +1680,7 @@
             <st Contlex="Po">покшеке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1698,7 +1698,7 @@
             <st Contlex="Po">покшелне1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1716,7 +1716,7 @@
             <st Contlex="Po">торашке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1734,7 +1734,7 @@
             <st Contlex="Po">тораште1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1752,7 +1752,7 @@
             <st Contlex="Po">ӱлне1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1770,7 +1770,7 @@
             <st Contlex="Po">ӱлыке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1788,7 +1788,7 @@
             <st Contlex="Po">ӱмбаке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1806,7 +1806,7 @@
             <st Contlex="Po">ӱмбалне1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1824,7 +1824,7 @@
             <st Contlex="Po">шеҥгеке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1842,7 +1842,7 @@
             <st Contlex="Po">шеҥгелне1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1860,7 +1860,7 @@
             <st Contlex="Po">шойыке1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1878,7 +1878,7 @@
             <st Contlex="Po">шойылне1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1896,7 +1896,7 @@
             <st Contlex="Po">шотыште1</st>
          </stg>
       </lg>
-      <pos>POSTP</pos>
+      <pos>Po</pos>
       <mg>
          <m>
             <head/>
