@@ -1,0 +1,22 @@
+
+This is a grammatical analyser for Meadow (Eastern) Mari.
+
+It is built on Jorma Luutonen's analyser from 1985, but converted
+to the format of modern compilers. 
+
+The lexicon is full-sized (57000 entries), but the conversion
+resulted in so many errors that the analyser must be revised in order 
+to form the basis for good syntactic analyses.
+
+The analyser is in use in a morphologically enriched Meadow Mari
+dictionary. 
+
+
+
+-----
+
+The structure of the source file catalogue is the same for all
+the languages, it is documented [here|../../infra/infraremake/NewinfraCatalogues.html].
+
+
+
