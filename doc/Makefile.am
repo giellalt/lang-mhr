@@ -9,7 +9,8 @@
 
 if CAN_DOCC
 
-JSP_PAGES=root-morphology.jspwiki \
+JSP_PAGES=root-morphology.jspwiki  \
+		  mhr-phon-phonology.jspwiki \
 		  verbs-affixes.jspwiki
 # clitics-morphology.jspwiki       \
 # compounding-morphology.jspwiki   \
