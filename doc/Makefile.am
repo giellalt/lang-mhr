@@ -10,8 +10,8 @@
 if CAN_DOCC
 
 JSP_PAGES=root-morphology.jspwiki  \
-		  mhr-phon-phonology.jspwiki \
-		  verbs-affixes.jspwiki
+		  verbs-affixes.jspwiki \
+		  mhr-phon-phonology.jspwiki 
 # clitics-morphology.jspwiki       \
 # compounding-morphology.jspwiki   \
 # abbreviations-stems.jspwiki      \
