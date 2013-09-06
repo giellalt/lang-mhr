@@ -19,3 +19,7 @@
 * [A list of common morphological tags|../common/MorphologicalTags.html]
 
 
+!!!Using the analysers
+
+* In the terminal: analyse words by writing ''umhr'', generate with ''dmhr''
+* For more info, see [How to use the morphological parsers|../../tools/docu-sme-manual.html]
