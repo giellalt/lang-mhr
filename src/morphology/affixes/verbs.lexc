@@ -9,15 +9,15 @@
 
 !! We divide the verbs in two
 
-LEXICON Vam-dependent !!= @CODE@ tags +Depend and goes to Vam
-+Depend: Vam	;	  
+LEXICON Vam-dependent !!= @CODE@ tags +Depend and goes to V_am
++Depend: V_am	;	  
 
-LEXICON Vem-dependent !!= @CODE@ tags +Depend and goes to Vem
-+Depend: Vem	;	  
+LEXICON Vem-dependent !!= @CODE@ tags +Depend and goes to V_em
++Depend: V_em	;	  
 
 !! !!The -am class
 
-LEXICON Vam !!= @CODE@ divides Vam in Mood and infinites
+LEXICON V_am !!= @CODE@ divides V_am in Mood and infinites
 +V: Vam-Mood ;
 +V+Inf:%>А2ш K ;
 +V+Ger+Gen:%>ын K ;
@@ -74,7 +74,7 @@ LEXICON Vam-Des
 
 !! !!The -em class
 
-LEXICON Vem !!= @CODE@ divides Vem in Mood and infinites
+LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
 +V: Vem-Mood ;
 +V+Inf:%>А2ш K ;
 ! Деепричастие образа действия:
@@ -131,7 +131,7 @@ LEXICON Vem-Des
 +NonPst+Pl3:%>ынешт K ;
 
 !! !!Special verbs
-!! Vam, возаш : воч
+!! V_am, возаш : воч
 LEXICON z-C
 +V+Inf:з%>А2ш K ;
 +Ger+Gen:з%>ын K ;
@@ -143,7 +143,7 @@ LEXICON z-C
 +V+Imprt+Sg2:ч K-imprt ;
 +V+Des+ConNeg:ч K ;
 
-!! Vam, лукташ : лук
+!! V_am, лукташ : лук
 LEXICON t-0
 +V+Inf:т%>А2ш K ;
 +Ger+Gen:т%>ын K ;
@@ -155,7 +155,7 @@ LEXICON t-0
 +V+Imprt+Sg2: K-imprt ;
 +V+Des+ConNeg: K ;
 
-!! Vam, кушкаш : куш
+!! V_am, кушкаш : куш
 LEXICON k-0
 +V+Inf:к%>А2ш K ;
 +Ger+Gen:к%>ын K ;
@@ -168,7 +168,7 @@ LEXICON k-0
 +V+Imprt+Sg2: K-imprt ;
 +V+Des+ConNeg: K ;
 
-!! Vam, шинчаш шич
+!! V_am, шинчаш шич
 LEXICON nC-C
 +V+Inf:нч%>А2ш K ;
 +Ger+Gen:нч%>ын K ;
@@ -183,7 +183,7 @@ LEXICON nC-C
 
 !! These need work 2012-09-21
 LEXICON Vam-n/l
- Vam ;
+ V_am ;
 
 LEXICON Vam--1t
 #;
@@ -215,7 +215,7 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
 ! Деепричастие времени (показывает время, последующее за поясняемым действием):
 +Ger+Imprf:%>мешке K ;
 ! Деепричастие времени (добавочное действие, происходящее одновременно с поясняемым действием):
-+Der/mO:%>мЫ2 N ;
++Der/mO:%>мЫ2 N_ ;
 +Ger:%>шыла K ;
 
 

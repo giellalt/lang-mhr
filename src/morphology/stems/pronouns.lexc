@@ -122,7 +122,7 @@ LEXICON pronouns
 тидӱлан:тидӱлан PronD  "tälle PronD" ;
 тидат-тудат:тидат-тудат PronD  "sitä ja tätä PronD" ;
 то:то PronInd  "to ... to milloin ... milloin; kuka ... kuka PronInd" ;
-тугай:тугай N  "sellainen, tuollainen PronD" ;
+тугай:тугай N_  "sellainen, tuollainen PronD" ;
 туге:туге PronD  "siten, niin PronD" ;
 тудлан:тудлан PronD  "tuolle PronD" ;
 тудлан:тудлан PronP  "hänelle PronP" ;
@@ -242,7 +242,7 @@ LEXICON pronouns
 тыге:тыге1 PronD  "täten, tällä tavalla, näin, niin PronD" ;
 тынаре:тынаре1 PronD  "näin/niin paljon PronD" ;
 тышке:тышке1 PronD  "tänne, tähän PronD" ;
-тышке-тушке:тышке-тушке1 N  "sinne (sun) tänne, jotakuinkin PronD" ;
+тышке-тушке:тышке-тушке1 N_  "sinne (sun) tänne, jotakuinkin PronD" ;
 тыште:тыште1 PronD  "täällä, tässä PronD" ;
 тыште-туште:тыште-туште1 PronD  "siellä täällä, paikoin PronD" ;
 шкаланже:шкаланже1 PronRef  "(hänelle) itselleen PronRef" ;
