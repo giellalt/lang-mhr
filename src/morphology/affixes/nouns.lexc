@@ -2,6 +2,7 @@
 !! ---------------
 !! Meadow Mari nouns inflect in cases.
 
+
 LEXICON N-ava
 !+N: N-ava_NB ;
 +N: N-ava_01 ;
@@ -202,7 +203,7 @@ LEXICON N-ava_01
 
 
 
-LEXICON N
+LEXICON N_
 +N: N-ava_01 ;
 !2012-10-26 Jaska!+N: N_NB_Nb-Px-Cx ;
 !2012-10-26 Jaska!+N: N_Px_Px-Nb-Cx ;
@@ -252,49 +253,49 @@ LEXICON N_Cx_Px-Nb-Cx
  N_Cx_Nb-Px-Cx ;
 
 LEXICON N-a/e
- N ;
+ N_ ;
 
 LEXICON N-VS
- N ;
+ N_ ;
 
 LEXICON S  
- N ;
+ N_ ;
 
 LEXICON P  
- N ;
+ N_ ;
 
 LEXICON N-continuation
- N ;
+ N_ ;
 
 LEXICON S1
- N ;
+ N_ ;
 
 LEXICON S2
- N ;
+ N_ ;
 
 LEXICON S5
- N ;
+ N_ ;
 
 LEXICON S6
- N ;
+ N_ ;
 
 LEXICON S-a  
- N ;
+ N_ ;
 
 LEXICON P1
- N ;
+ N_ ;
 
 LEXICON P2
- N ;
+ N_ ;
 
 LEXICON P3
- N ;
+ N_ ;
 
 LEXICON P4
- N ;
+ N_ ;
 
 LEXICON P5
- N ;
+ N_ ;
 
 !!!!!!!!!!!!!!!!
 !! DECLENSION !!

@@ -157,11 +157,11 @@ LEXICON Adv
 LEXICON AD-A
 +Adv: # ;
 
-LEXICON Po
+LEXICON PO_
 +Po: # ;
 
 LEXICON Postp
- Po ;
+ PO_ ;
 
 
 
@@ -170,7 +170,7 @@ N-a/e ;
 
 
 LEXICON Puh ! XXX do not know
-N ;
+N_ ;
 
 
 

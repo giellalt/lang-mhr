@@ -7,14 +7,14 @@
 !! +A+cmp:er       Cases   ;
 !! +A+sup:est      Cases   ;
 
-LEXICON A
+LEXICON A_
 +A: K ; ! missing comparative
 +А+Comp:%>рак # ;
-+A+Der/MWN: N ;
++A+Der/MWN: N_ ;
 
 
 LEXICON A/S-a/e ! XXX do not know
-A ;
+A_ ;
 
 
 

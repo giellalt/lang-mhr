@@ -9,12 +9,8 @@
             <st Contlex="PronDem">тудо</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
       </mg>
    </e>
    <e>
@@ -24,12 +20,8 @@
             <st Contlex="PronDem">тиде</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
       </mg>
    </e>
    <e>
@@ -39,12 +31,8 @@
             <st Contlex="PronInd">ала-могай</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkinlainen, eräänlainen PronInd</t>
          </tg>
@@ -57,12 +45,8 @@
             <st Contlex="PronInd">ала-кӧ</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>joku, eräs PronInd</t>
          </tg>
@@ -75,12 +59,8 @@
             <st Contlex="PronInd">ала-кузе</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jotenkin PronInd</t>
          </tg>
@@ -93,12 +73,8 @@
             <st Contlex="PronInd">ала-кунам</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>joskus, jolloinkin PronInd</t>
          </tg>
@@ -111,12 +87,8 @@
             <st Contlex="PronInd">ала-кунамсек</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jostakin alkaen PronInd</t>
          </tg>
@@ -129,12 +101,8 @@
             <st Contlex="PronInd">ала-кунар</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkin verran, muutama PronInd</t>
          </tg>
@@ -147,12 +115,8 @@
             <st Contlex="PronInd">ала-кушан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jossakin PronInd</t>
          </tg>
@@ -165,12 +129,8 @@
             <st Contlex="PronInd">ала-кушеч</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jostakin PronInd</t>
          </tg>
@@ -183,12 +143,8 @@
             <st Contlex="PronInd">ала-кушкен</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>johonkin asti PronInd</t>
          </tg>
@@ -201,12 +157,8 @@
             <st Contlex="PronInd">ала-мо</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jokin, eräs PronInd</t>
          </tg>
@@ -219,12 +171,8 @@
             <st Contlex="PronInd">ала-могай</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkinlainen, eräänlainen PronInd</t>
          </tg>
@@ -237,12 +185,8 @@
             <st Contlex="PronInd">ала-молан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jostakin syystä PronInd</t>
          </tg>
@@ -255,12 +199,8 @@
             <st Contlex="PronInd">ала-мыняр</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkin verran, muutama PronInd</t>
          </tg>
@@ -273,12 +213,8 @@
             <st Contlex="PronRes">ваш</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>toinen toisen, toinen toista, toisiaan (jne.) PronRes</t>
          </tg>
@@ -291,12 +227,8 @@
             <st Contlex="PronInd">вес</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>toinen, muu PronInd</t>
          </tg>
@@ -309,12 +241,8 @@
             <st Contlex="PronInd">еда</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>joka(inen) PronInd</t>
          </tg>
@@ -327,12 +255,8 @@
             <st Contlex="PronInd">ик</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>eräs, ainoa, saman- PronInd</t>
          </tg>
@@ -345,12 +269,8 @@
             <st Contlex="PronInd">икмыняр</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>muutama PronInd</t>
          </tg>
@@ -363,12 +283,8 @@
             <st Contlex="PronInd">иктаж</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>joku, jokin, eräs PronInd</t>
          </tg>
@@ -381,12 +297,8 @@
             <st Contlex="PronInd">иктаж-кӧ</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>joku, jotkut PronInd</t>
          </tg>
@@ -399,12 +311,8 @@
             <st Contlex="PronInd">иктаж-кӱшан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jossakin PronInd</t>
          </tg>
@@ -417,12 +325,8 @@
             <st Contlex="PronInd">иктаж-кӱшеч</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jostakin PronInd</t>
          </tg>
@@ -435,12 +339,8 @@
             <st Contlex="PronInd">иктаж-кузе</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jollakin tapaa PronInd</t>
          </tg>
@@ -453,12 +353,8 @@
             <st Contlex="PronInd">иктаж-мо</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jokin, jotkin, jotakin PronInd</t>
          </tg>
@@ -471,12 +367,8 @@
             <st Contlex="PronInd">иктаж-могай</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkinlainen PronInd</t>
          </tg>
@@ -489,12 +381,8 @@
             <st Contlex="PronInd">иктаж-мыняр</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkin verran PronInd</t>
          </tg>
@@ -507,12 +395,8 @@
             <st Contlex="PronInd">иктаж-семын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jotenkin PronInd</t>
          </tg>
@@ -525,12 +409,8 @@
             <st Contlex="PronInd">иктат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(ei) kukaan PronInd</t>
          </tg>
@@ -543,12 +423,8 @@
             <st Contlex="PronInd">керек-кӧ</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuka tahansa PronInd</t>
          </tg>
@@ -561,12 +437,8 @@
             <st Contlex="PronInd">керек-кузе</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>miten tahansa PronInd</t>
          </tg>
@@ -579,12 +451,8 @@
             <st Contlex="PronInd">керек-кунам</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>milloin tahansa PronInd</t>
          </tg>
@@ -597,12 +465,8 @@
             <st Contlex="PronInd">керек-кушан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>missä tahansa PronInd</t>
          </tg>
@@ -615,12 +479,8 @@
             <st Contlex="PronInd">керек-кушеч</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mista tahansa PronInd</t>
          </tg>
@@ -633,12 +493,8 @@
             <st Contlex="PronInd">керек-кушечын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mista tahansa PronInd</t>
          </tg>
@@ -651,12 +507,8 @@
             <st Contlex="PronInd">керек-мо</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mikä tahansa PronInd</t>
          </tg>
@@ -669,12 +521,8 @@
             <st Contlex="PronInd">керек-мыняр</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>miten paljon tahansa PronInd</t>
          </tg>
@@ -687,12 +535,8 @@
             <st Contlex="PronInd">кеч-кӧ</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuka tahansa PronInd</t>
          </tg>
@@ -705,12 +549,8 @@
             <st Contlex="PronInd">кеч-кузе</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>miten tahansa PronInd</t>
          </tg>
@@ -723,12 +563,8 @@
             <st Contlex="PronInd">кеч-кузе-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>miten tahansa PronInd</t>
          </tg>
@@ -741,12 +577,8 @@
             <st Contlex="PronInd">кеч-кунам</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>milloin tahansa PronInd</t>
          </tg>
@@ -759,12 +591,8 @@
             <st Contlex="PronInd">кеч-кушан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>missä tahansa PronInd</t>
          </tg>
@@ -777,12 +605,8 @@
             <st Contlex="PronInd">кеч-кушеч</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mistä tahansa PronInd</t>
          </tg>
@@ -795,12 +619,8 @@
             <st Contlex="PronInd">кеч-кушечын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mistä tahansa PronInd</t>
          </tg>
@@ -813,12 +633,8 @@
             <st Contlex="PronInd">кеч-мо</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mikä tahansa PronInd</t>
          </tg>
@@ -831,12 +647,8 @@
             <st Contlex="PronInd">кеч-мыняр</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>miten paljon tahansa PronInd</t>
          </tg>
@@ -849,12 +661,8 @@
             <st Contlex="PronInd">кеч-могай</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>millainen tahansa PronInd</t>
          </tg>
@@ -867,12 +675,8 @@
             <st Contlex="PronInd">когынек</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>molemmat PronInd</t>
          </tg>
@@ -885,12 +689,8 @@
             <st Contlex="PronInd">коктынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>molemmat PronInd</t>
          </tg>
@@ -903,12 +703,8 @@
             <st Contlex="PronIR">кӧ</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuka, ketkä PronIR</t>
          </tg>
@@ -921,12 +717,8 @@
             <st Contlex="PronInd">кӧ-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>joku PronInd</t>
          </tg>
@@ -939,12 +731,8 @@
             <st Contlex="PronIR">кӧлан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kenelle, keille PronIR</t>
          </tg>
@@ -957,12 +745,8 @@
             <st Contlex="PronInd">кӧлан-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jollekulle, joillekuille PronInd</t>
          </tg>
@@ -975,12 +759,8 @@
             <st Contlex="PronIR">кӧм</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ketä, keitä PronIR</t>
          </tg>
@@ -993,12 +773,8 @@
             <st Contlex="PronInd">кӧм-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jotakuta, joitakuita PronInd</t>
          </tg>
@@ -1011,12 +787,8 @@
             <st Contlex="PronIR">кӧн</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kenen, keiden PronIR</t>
          </tg>
@@ -1029,12 +801,8 @@
             <st Contlex="PronInd">кӧн-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkun, joidenkuiden PronInd</t>
          </tg>
@@ -1047,12 +815,8 @@
             <st Contlex="PronIR">кувеч</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mistä, josta PronIR</t>
          </tg>
@@ -1065,12 +829,8 @@
             <st Contlex="PronIR">кувечын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mistä, josta PronIR</t>
          </tg>
@@ -1083,12 +843,8 @@
             <st Contlex="PronInd">кудо-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuka/mikä tahansa PronInd</t>
          </tg>
@@ -1101,12 +857,8 @@
             <st Contlex="PronIR">кузе</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>miten, kuten PronIR</t>
          </tg>
@@ -1119,12 +871,8 @@
             <st Contlex="PronIR">кузерак</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>miten PronIR</t>
          </tg>
@@ -1137,12 +885,8 @@
             <st Contlex="PronInd">кузе-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jollakin tavalla PronInd</t>
          </tg>
@@ -1155,12 +899,8 @@
             <st Contlex="PronIR">кунам</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>milloin PronIR</t>
          </tg>
@@ -1173,12 +913,8 @@
             <st Contlex="PronInd">кунам-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>joskus, ennemmin tai myöhemmin PronInd</t>
          </tg>
@@ -1191,12 +927,8 @@
             <st Contlex="PronInd">кунамлан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>johonkin (aikaan) mennessä PronInd</t>
          </tg>
@@ -1209,12 +941,8 @@
             <st Contlex="PronInd">кунамсек</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jostakin (ajasta) lähtien PronInd</t>
          </tg>
@@ -1227,12 +955,8 @@
             <st Contlex="PronIR">куш</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mihin? PronIR</t>
          </tg>
@@ -1245,12 +969,8 @@
             <st Contlex="PronIR">кушак</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mihin? PronIR</t>
          </tg>
@@ -1263,12 +983,8 @@
             <st Contlex="PronIR">кушан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>missä?, mihin? PronIR</t>
          </tg>
@@ -1281,12 +997,8 @@
             <st Contlex="PronInd">кушан-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jossakin PronInd</t>
          </tg>
@@ -1299,12 +1011,8 @@
             <st Contlex="PronIR">кушеч</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mistä? PronIR</t>
          </tg>
@@ -1317,12 +1025,8 @@
             <st Contlex="PronIR">кушечын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mistä? PronIR</t>
          </tg>
@@ -1335,12 +1039,8 @@
             <st Contlex="PronIR">кушкен</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuinka kauan?; mihin asti? PronIR</t>
          </tg>
@@ -1353,12 +1053,8 @@
             <st Contlex="PronInd">кушко-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>johonkin PronInd</t>
          </tg>
@@ -1371,12 +1067,8 @@
             <st Contlex="PronInd">кушкыла</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>minne päin? PronInd</t>
          </tg>
@@ -1389,12 +1081,8 @@
             <st Contlex="PronInd">кушто-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jossakin PronInd</t>
          </tg>
@@ -1407,12 +1095,8 @@
             <st Contlex="PronRes">кӱса-кӱса</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>toisiaan PronRes</t>
          </tg>
@@ -1425,12 +1109,8 @@
             <st Contlex="PronP">ме</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>me PronP</t>
          </tg>
@@ -1443,12 +1123,8 @@
             <st Contlex="PronP">мемнам</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>meitä PronP</t>
          </tg>
@@ -1461,12 +1137,8 @@
             <st Contlex="PronP">мемнан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>meidän PronP</t>
          </tg>
@@ -1479,12 +1151,8 @@
             <st Contlex="PronIR">мо</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mikä, mitä; -kO PronIR</t>
          </tg>
@@ -1497,12 +1165,8 @@
             <st Contlex="PronIR">могай</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>millainen PronIR</t>
          </tg>
@@ -1515,12 +1179,8 @@
             <st Contlex="PronIR">могай-тугай</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mikä (se on laatuaan) PronIR</t>
          </tg>
@@ -1533,12 +1193,8 @@
             <st Contlex="PronIR">могыч</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>paljonko (maksaa) PronIR</t>
          </tg>
@@ -1551,12 +1207,8 @@
             <st Contlex="PronIR">молан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mille; miksi PronIR</t>
          </tg>
@@ -1569,12 +1221,8 @@
             <st Contlex="PronInd">молан-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkin takia/vuoksi PronInd</t>
          </tg>
@@ -1587,12 +1235,8 @@
             <st Contlex="PronIR">мом</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mitä, minkä PronIR</t>
          </tg>
@@ -1605,12 +1249,8 @@
             <st Contlex="PronI">мом-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jotakin, jonkin PronI</t>
          </tg>
@@ -1623,12 +1263,8 @@
             <st Contlex="Pron">мон</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>minkä, millä PronIR</t>
          </tg>
@@ -1641,12 +1277,8 @@
             <st Contlex="PronInd">мон-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkin, jollakin PronInd</t>
          </tg>
@@ -1659,12 +1291,8 @@
             <st Contlex="PronIR">мош</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuinka paljolla?, paljonko (maksaa)? PronIR</t>
          </tg>
@@ -1677,12 +1305,8 @@
             <st Contlex="PronP">мый</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>minä PronP</t>
          </tg>
@@ -1695,12 +1319,8 @@
             <st Contlex="PronP">мыйым</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>minua, minut PronP</t>
          </tg>
@@ -1713,12 +1333,8 @@
             <st Contlex="PronP">мыйын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>minun PronP</t>
          </tg>
@@ -1731,12 +1347,8 @@
             <st Contlex="PronP">мыланем</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>minulle PronP</t>
          </tg>
@@ -1749,12 +1361,8 @@
             <st Contlex="PronP">мыланна</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>meille PronP</t>
          </tg>
@@ -1767,12 +1375,8 @@
             <st Contlex="PronIR">мыняр</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuinka paljon? PronIR</t>
          </tg>
@@ -1785,12 +1389,8 @@
             <st Contlex="PronInd">мыняр-гынат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkin verran PronInd</t>
          </tg>
@@ -1803,12 +1403,8 @@
             <st Contlex="PronInd">нигӧ</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei kukaan PronInd</t>
          </tg>
@@ -1821,12 +1417,8 @@
             <st Contlex="PronInd">нигузе</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei mitenkään PronInd</t>
          </tg>
@@ -1839,12 +1431,8 @@
             <st Contlex="PronInd">нигунам</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei koskaan PronInd</t>
          </tg>
@@ -1857,12 +1445,8 @@
             <st Contlex="PronInd">нигунамат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei missään tapauksessa PronInd</t>
          </tg>
@@ -1875,12 +1459,8 @@
             <st Contlex="PronInd">нигуш</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei mihinkään PronInd</t>
          </tg>
@@ -1893,12 +1473,8 @@
             <st Contlex="PronInd">нигушан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei missään PronInd</t>
          </tg>
@@ -1911,12 +1487,8 @@
             <st Contlex="PronInd">нигушеч</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei mistään PronInd</t>
          </tg>
@@ -1929,12 +1501,8 @@
             <st Contlex="PronInd">нигушечын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei mistään PronInd</t>
          </tg>
@@ -1947,12 +1515,8 @@
             <st Contlex="PronInd">нигушто</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei missään PronInd</t>
          </tg>
@@ -1965,12 +1529,8 @@
             <st Contlex="PronInd">нимат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei mikään, ei mitään PronInd</t>
          </tg>
@@ -1983,12 +1543,8 @@
             <st Contlex="PronInd">нимо</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei mikään, ei mitään PronInd</t>
          </tg>
@@ -2001,12 +1557,8 @@
             <st Contlex="PronInd">нимогай</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei minkäänlainen PronInd</t>
          </tg>
@@ -2019,12 +1571,8 @@
             <st Contlex="PronInd">нимыняр</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei lainkaan PronInd</t>
          </tg>
@@ -2037,12 +1585,8 @@
             <st Contlex="PronD">садлан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>siksi PronD</t>
          </tg>
@@ -2055,12 +1599,8 @@
             <st Contlex="PronP">те</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>te PronP</t>
          </tg>
@@ -2073,12 +1613,8 @@
             <st Contlex="PronD">тембал</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tämä (lähin) PronD</t>
          </tg>
@@ -2091,12 +1627,8 @@
             <st Contlex="PronP">тендам</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>teitä, teidät PronP</t>
          </tg>
@@ -2109,12 +1641,8 @@
             <st Contlex="PronP">тендан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>teidän PronP</t>
          </tg>
@@ -2127,12 +1655,8 @@
             <st Contlex="PronD">тидӱлан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tälle PronD</t>
          </tg>
@@ -2145,12 +1669,8 @@
             <st Contlex="PronD">тидат-тудат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sitä ja tätä PronD</t>
          </tg>
@@ -2163,12 +1683,8 @@
             <st Contlex="PronInd">то</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>to ... to milloin ... milloin; kuka ... kuka PronInd</t>
          </tg>
@@ -2178,15 +1694,11 @@
       <lg>
          <l pos="Pron">тугай</l>
          <stg>
-            <st Contlex="N">тугай</st>
+            <st Contlex="N_">тугай</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sellainen, tuollainen PronD</t>
          </tg>
@@ -2199,12 +1711,8 @@
             <st Contlex="PronD">туге</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>siten, niin PronD</t>
          </tg>
@@ -2217,12 +1725,8 @@
             <st Contlex="PronD">тудлан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tuolle PronD</t>
          </tg>
@@ -2235,12 +1739,8 @@
             <st Contlex="PronP">тудлан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>hänelle PronP</t>
          </tg>
@@ -2253,12 +1753,8 @@
             <st Contlex="PronP">тудым</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>hänet, häntä PronP</t>
          </tg>
@@ -2271,12 +1767,8 @@
             <st Contlex="PronD">тудым</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sitä PronD</t>
          </tg>
@@ -2289,12 +1781,8 @@
             <st Contlex="PronP">тудын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>hänen PronP</t>
          </tg>
@@ -2307,12 +1795,8 @@
             <st Contlex="PronD">тудын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sen PronD</t>
          </tg>
@@ -2325,12 +1809,8 @@
             <st Contlex="PronD">тунам</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>silloin PronD</t>
          </tg>
@@ -2343,12 +1823,8 @@
             <st Contlex="PronD">тунар</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>niin/näin paljon; (mitä...) sitä PronD</t>
          </tg>
@@ -2361,12 +1837,8 @@
             <st Contlex="PronD">туш</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sinne PronD</t>
          </tg>
@@ -2379,12 +1851,8 @@
             <st Contlex="PronD">тушак</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sinne PronD</t>
          </tg>
@@ -2397,12 +1865,8 @@
             <st Contlex="PronD">тушан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>siellä PronD</t>
          </tg>
@@ -2415,12 +1879,8 @@
             <st Contlex="PronD">тушеч</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tuolta, sieltä PronD</t>
          </tg>
@@ -2433,12 +1893,8 @@
             <st Contlex="PronD">тушечын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tuolta, sieltä PronD</t>
          </tg>
@@ -2451,12 +1907,8 @@
             <st Contlex="PronD">ты</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tämä PronD</t>
          </tg>
@@ -2469,12 +1921,8 @@
             <st Contlex="PronD">тыгай</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tällainen, sellainen PronD</t>
          </tg>
@@ -2487,12 +1935,8 @@
             <st Contlex="PronD">тыгат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>niinkin PronD</t>
          </tg>
@@ -2505,12 +1949,8 @@
             <st Contlex="PronD">тыгат-тугат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>niin ja näin PronD</t>
          </tg>
@@ -2523,12 +1963,8 @@
             <st Contlex="PronP">тый</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sinä PronP</t>
          </tg>
@@ -2541,12 +1977,8 @@
             <st Contlex="PronP">тӱйым</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sinut, sinua PronP</t>
          </tg>
@@ -2559,12 +1991,8 @@
             <st Contlex="PronP">тӱйын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sinun PronP</t>
          </tg>
@@ -2577,12 +2005,8 @@
             <st Contlex="PronP">тыланда</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>teille PronP</t>
          </tg>
@@ -2595,12 +2019,8 @@
             <st Contlex="PronP">тыланет</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sinulle PronP</t>
          </tg>
@@ -2613,12 +2033,8 @@
             <st Contlex="PronP">тылат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sinulle PronP</t>
          </tg>
@@ -2631,12 +2047,8 @@
             <st Contlex="PronD">тылеч</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tämän, tätä PronD</t>
          </tg>
@@ -2649,12 +2061,8 @@
             <st Contlex="PronD">тынар</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>näin/niin paljon PronD</t>
          </tg>
@@ -2667,12 +2075,8 @@
             <st Contlex="PronD">тынарак</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>yhtä paljon PronD</t>
          </tg>
@@ -2685,12 +2089,8 @@
             <st Contlex="PronD">тыш</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tänne, tähän PronD</t>
          </tg>
@@ -2703,12 +2103,8 @@
             <st Contlex="PronD">тышак</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tässä, täällä PronD</t>
          </tg>
@@ -2721,12 +2117,8 @@
             <st Contlex="PronD">тышан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tässä, täällä PronD</t>
          </tg>
@@ -2739,12 +2131,8 @@
             <st Contlex="PronD">тышан-тушан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>siellä (sun) täällä PronD</t>
          </tg>
@@ -2757,12 +2145,8 @@
             <st Contlex="PronD">тышеч</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>täältä, tästä PronD</t>
          </tg>
@@ -2775,12 +2159,8 @@
             <st Contlex="PronD">тышечын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>täältä, tästä PronD</t>
          </tg>
@@ -2793,12 +2173,8 @@
             <st Contlex="PronD">тышеч-тушеч</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sieltä (sun) täältä, hädin tuskin PronD</t>
          </tg>
@@ -2811,12 +2187,8 @@
             <st Contlex="PronD">тышкат-тушкат</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sinne (ja) tänne PronD</t>
          </tg>
@@ -2829,12 +2201,8 @@
             <st Contlex="PronInd">чыла</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kaikki, koko PronInd</t>
          </tg>
@@ -2847,12 +2215,8 @@
             <st Contlex="PronRef">шкаланда</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(teille) itsellenne PronRef</t>
          </tg>
@@ -2865,12 +2229,8 @@
             <st Contlex="PronRef">шканда</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(teille) itsellenne PronRef</t>
          </tg>
@@ -2883,12 +2243,8 @@
             <st Contlex="PronRef">шкаланем</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(minulle) itselleni PronRef</t>
          </tg>
@@ -2901,12 +2257,8 @@
             <st Contlex="PronRef">шканем</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(minulle) itselleni PronRef</t>
          </tg>
@@ -2919,12 +2271,8 @@
             <st Contlex="PronRef">шкаланет</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(sinulle) itsellesi PronRef</t>
          </tg>
@@ -2937,12 +2285,8 @@
             <st Contlex="PronRef">шканет</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(sinulle) itsellesi PronRef</t>
          </tg>
@@ -2955,12 +2299,8 @@
             <st Contlex="PronRef">шкаланна</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(meille) itsellemme PronRef</t>
          </tg>
@@ -2973,12 +2313,8 @@
             <st Contlex="PronRef">шканна</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(meille) itsellemme PronRef</t>
          </tg>
@@ -2991,12 +2327,8 @@
             <st Contlex="PronRef">шкаланышт</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(heille) itselleen PronRef</t>
          </tg>
@@ -3009,12 +2341,8 @@
             <st Contlex="PronRef">шканышт</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(heille) itselleen PronRef</t>
          </tg>
@@ -3027,12 +2355,8 @@
             <st Contlex="PronRef">шке</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>itse; oma PronRef</t>
          </tg>
@@ -3045,12 +2369,8 @@
             <st Contlex="PronRef">шкемым</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(minua) itseäni; (minun) omaani PronRef</t>
          </tg>
@@ -3063,12 +2383,8 @@
             <st Contlex="PronRef">шкемын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(minun) itseni/henkilökohtainen/oma(ni) PronRef</t>
          </tg>
@@ -3081,12 +2397,8 @@
             <st Contlex="PronRef">шкенам</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(meitä) itseämme; (meidän) omaamme PronRef</t>
          </tg>
@@ -3099,12 +2411,8 @@
             <st Contlex="PronRef">шкенан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(meidän) itsemme/oma(mme) PronRef</t>
          </tg>
@@ -3117,12 +2425,8 @@
             <st Contlex="PronRef">шкендам</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(teitä) itseänne; (teidän) omaanne PronRef</t>
          </tg>
@@ -3135,12 +2439,8 @@
             <st Contlex="PronRef">шкендан</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(teidän) itsenne/oma(nne) PronRef</t>
          </tg>
@@ -3153,12 +2453,8 @@
             <st Contlex="PronRef">шкендым</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(sinua) itseäsi; (sinun) omaasi PronRef</t>
          </tg>
@@ -3171,12 +2467,8 @@
             <st Contlex="PronRef">шкендын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(sinun) itsesi/oma(si) PronRef</t>
          </tg>
@@ -3189,12 +2481,8 @@
             <st Contlex="PronRef">шкенжым</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(häntä) itseään; (hänen) omaansa PronRef</t>
          </tg>
@@ -3207,12 +2495,8 @@
             <st Contlex="PronRef">шкенжын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(hänen) itsensä/oma(nsa) PronRef</t>
          </tg>
@@ -3225,12 +2509,8 @@
             <st Contlex="PronRef">шкеныштым</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(heitä) itseään; (heidän) omaansa PronRef</t>
          </tg>
@@ -3243,12 +2523,8 @@
             <st Contlex="PronRef">шкеныштын</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>heidän) itsensä; (heidän) oma(nsa) PronRef</t>
          </tg>
@@ -3261,12 +2537,8 @@
             <st Contlex="PronInd">южгунам</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>joskus PronInd</t>
          </tg>
@@ -3279,12 +2551,8 @@
             <st Contlex="PronInd">южиктышт</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(tunnetuista) jotkut S</t>
          </tg>
@@ -3297,12 +2565,8 @@
             <st Contlex="PronIR">кунар</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuinka paljon PronIR</t>
          </tg>
@@ -3315,12 +2579,8 @@
             <st Contlex="PronInd">ала-куште1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jossakin PronInd</t>
          </tg>
@@ -3333,12 +2593,8 @@
             <st Contlex="PronInd">ала-куде1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>joku, jompikumpi PronInd</t>
          </tg>
@@ -3351,12 +2607,8 @@
             <st Contlex="PronInd">ала-кушке1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>johonkin PronInd</t>
          </tg>
@@ -3369,12 +2621,8 @@
             <st Contlex="PronInd">ала-могайе1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkinlainen, eräänlainen PronInd</t>
          </tg>
@@ -3387,12 +2635,8 @@
             <st Contlex="PronInd">ала-могудеште1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jolloinkin, (yht)äkkiä PronInd</t>
          </tg>
@@ -3405,12 +2649,8 @@
             <st Contlex="PronInd">весе1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>toinen, muu PronInd</t>
          </tg>
@@ -3423,12 +2663,8 @@
             <st Contlex="PronInd">икме1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jokin PronInd</t>
          </tg>
@@ -3441,12 +2677,8 @@
             <st Contlex="PronInd">иктаже1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>joku, jokin, eräs PronInd</t>
          </tg>
@@ -3459,12 +2691,8 @@
             <st Contlex="PronInd">иктаж-кӱшке1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>johonkin PronInd</t>
          </tg>
@@ -3477,12 +2705,8 @@
             <st Contlex="PronInd">иктаж-кӱште1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jossakin PronInd</t>
          </tg>
@@ -3495,12 +2719,8 @@
             <st Contlex="PronInd">иктаж-могайе1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkinlainen PronInd</t>
          </tg>
@@ -3513,12 +2733,8 @@
             <st Contlex="PronInd">иктаж-мыняре1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jonkin verran PronInd</t>
          </tg>
@@ -3531,12 +2747,8 @@
             <st Contlex="PronInd">икте1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>eräs; sama PronInd</t>
          </tg>
@@ -3549,12 +2761,8 @@
             <st Contlex="PronRes">икте-весе1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>toinen toise- PronRes</t>
          </tg>
@@ -3567,12 +2775,8 @@
             <st Contlex="PronInd">кажне1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>joka(inen) PronInd</t>
          </tg>
@@ -3585,12 +2789,8 @@
             <st Contlex="PronInd">керек-куде1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuka/mikä tahansa PronInd</t>
          </tg>
@@ -3603,12 +2803,8 @@
             <st Contlex="PronInd">керек-кушке1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mihin tahansa PronInd</t>
          </tg>
@@ -3621,12 +2817,8 @@
             <st Contlex="PronInd">керек-куште1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>missä tahansa PronInd</t>
          </tg>
@@ -3639,12 +2831,8 @@
             <st Contlex="PronInd">кеч-куде1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuka/mikä tahansa PronInd</t>
          </tg>
@@ -3657,12 +2845,8 @@
             <st Contlex="PronInd">кеч-кушке1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mihin tahansa PronInd</t>
          </tg>
@@ -3675,12 +2859,8 @@
             <st Contlex="PronInd">кеч-куште1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>missä tahansa PronInd</t>
          </tg>
@@ -3693,12 +2873,8 @@
             <st Contlex="PronIR">кувеке1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mihin, johon PronIR</t>
          </tg>
@@ -3711,12 +2887,8 @@
             <st Contlex="PronIR">кувелне1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>missä, jossa PronIR</t>
          </tg>
@@ -3729,12 +2901,8 @@
             <st Contlex="PronIR">куде1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuka, kumpi, mikä, joka, mones PronIR</t>
          </tg>
@@ -3749,10 +2917,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>??talo</t>
          </tg>
@@ -3765,12 +2930,8 @@
             <st Contlex="PronIR">кусе1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mistä? PronIR</t>
          </tg>
@@ -3783,12 +2944,8 @@
             <st Contlex="PronIR">кушке1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mihin? PronIR</t>
          </tg>
@@ -3801,12 +2958,8 @@
             <st Contlex="PronIR">кушке1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>mihin PronIR</t>
          </tg>
@@ -3819,12 +2972,8 @@
             <st Contlex="PronIR">куште1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>missä? PronIR</t>
          </tg>
@@ -3837,12 +2986,8 @@
             <st Contlex="PronIR">могайе1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>millainen PronIR</t>
          </tg>
@@ -3855,12 +3000,8 @@
             <st Contlex="PronIR">могудеште1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>milloin PronIR</t>
          </tg>
@@ -3873,12 +3014,8 @@
             <st Contlex="PronInd">моле1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>toinen, muu, loput PronInd</t>
          </tg>
@@ -3891,12 +3028,8 @@
             <st Contlex="PronIR">мочоле1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuinka monta? PronIR</t>
          </tg>
@@ -3909,12 +3042,8 @@
             <st Contlex="PronIR">мыняре1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuinka paljon? PronIR</t>
          </tg>
@@ -3927,12 +3056,8 @@
             <st Contlex="PronIR">мынярымше1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>monesko? PronIR</t>
          </tg>
@@ -3945,12 +3070,8 @@
             <st Contlex="PronInd">нигуде1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei kukaan PronInd</t>
          </tg>
@@ -3963,12 +3084,8 @@
             <st Contlex="PronInd">нигушке1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei mihinkään PronInd</t>
          </tg>
@@ -3981,12 +3098,8 @@
             <st Contlex="PronInd">нимогайе1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei minkäänlainen PronInd</t>
          </tg>
@@ -3999,12 +3112,8 @@
             <st Contlex="PronInd">нимыняре1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ei lainkaan PronInd</t>
          </tg>
@@ -4017,12 +3126,8 @@
             <st Contlex="PronD">нине1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>nämä PronD</t>
          </tg>
@@ -4035,12 +3140,8 @@
             <st Contlex="PronP">нине1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ne PronP</t>
          </tg>
@@ -4053,12 +3154,8 @@
             <st Contlex="PronP">нуне1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>he PronP</t>
          </tg>
@@ -4071,12 +3168,8 @@
             <st Contlex="PronD">нуне1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ne PronD</t>
          </tg>
@@ -4089,12 +3182,8 @@
             <st Contlex="PronD">саде1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tuo, se PronD</t>
          </tg>
@@ -4107,12 +3196,8 @@
             <st Contlex="PronD">сандене1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>siksi PronD</t>
          </tg>
@@ -4125,12 +3210,8 @@
             <st Contlex="PronD">тиде1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tämä PronD</t>
          </tg>
@@ -4143,12 +3224,8 @@
             <st Contlex="PronD">тугане1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sellainen, tuollainen PronD</t>
          </tg>
@@ -4161,12 +3238,8 @@
             <st Contlex="PronD">туде1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tuo, se PronD</t>
          </tg>
@@ -4179,12 +3252,8 @@
             <st Contlex="PronP">туде1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>hän PronP</t>
          </tg>
@@ -4197,12 +3266,8 @@
             <st Contlex="PronD">тудыже1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>se (tunnetuista), tuo PronD</t>
          </tg>
@@ -4215,12 +3280,8 @@
             <st Contlex="PronD">тунаре1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>niin/näin paljon; (mitä...) sitä PronD</t>
          </tg>
@@ -4233,12 +3294,8 @@
             <st Contlex="PronD">тушке1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sinne PronD</t>
          </tg>
@@ -4251,12 +3308,8 @@
             <st Contlex="PronD">туште1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>siinä, siellä, tuolla PronD</t>
          </tg>
@@ -4269,12 +3322,8 @@
             <st Contlex="PronD">тыгане1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tälläinen, sellainen PronD</t>
          </tg>
@@ -4287,12 +3336,8 @@
             <st Contlex="PronD">тыге1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>täten, tällä tavalla, näin, niin PronD</t>
          </tg>
@@ -4305,12 +3350,8 @@
             <st Contlex="PronD">тынаре1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>näin/niin paljon PronD</t>
          </tg>
@@ -4323,12 +3364,8 @@
             <st Contlex="PronD">тышке1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tänne, tähän PronD</t>
          </tg>
@@ -4338,15 +3375,11 @@
       <lg>
          <l pos="Pron">тышке-тушке</l>
          <stg>
-            <st Contlex="N">тышке-тушке1</st>
+            <st Contlex="N_">тышке-тушке1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>sinne (sun) tänne, jotakuinkin PronD</t>
          </tg>
@@ -4359,12 +3392,8 @@
             <st Contlex="PronD">тыште1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>täällä, tässä PronD</t>
          </tg>
@@ -4377,12 +3406,8 @@
             <st Contlex="PronD">тыште-туште1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>siellä täällä, paikoin PronD</t>
          </tg>
@@ -4395,12 +3420,8 @@
             <st Contlex="PronRef">шкаланже1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(hänelle) itselleen PronRef</t>
          </tg>
@@ -4413,12 +3434,8 @@
             <st Contlex="PronRef">шканже1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(hänelle) itselleen PronRef</t>
          </tg>
@@ -4431,12 +3448,8 @@
             <st Contlex="PronInd">южиктыже1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(tunnetuista) joku PronI</t>
          </tg>
@@ -4449,12 +3462,8 @@
             <st Contlex="PronInd">юже1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>joku, jokin, jonkinlainen PronInd</t>
          </tg>
@@ -4467,12 +3476,8 @@
             <st Contlex="PronInd">южыже1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>(tunnetuista) joku, jotkut PronInd</t>
          </tg>
@@ -4485,12 +3490,8 @@
             <st Contlex="PronD">седе1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>tämä PronD</t>
          </tg>
@@ -4503,12 +3504,8 @@
             <st Contlex="PronIR">кунаре1</st>
          </stg>
       </lg>
-      <pos>Pron</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kuinka paljon PronIR</t>
          </tg>
