@@ -7,13 +7,13 @@ Meadow Mari verbs inflect in persons.
 
 We divide the verbs in two
 
- LEXICON Vam-dependent  tags +Depend and goes to Vam
+ LEXICON Vam-dependent  tags +Depend and goes to V_am
 
- LEXICON Vem-dependent  tags +Depend and goes to Vem
+ LEXICON Vem-dependent  tags +Depend and goes to V_em
 
 !!The -am class
 
- LEXICON Vam  divides Vam in Mood and infinites
+ LEXICON V_am  divides V_am in Mood and infinites
 
  LEXICON Vam-Mood  divides in Ind, Imprt, Des
 
@@ -24,7 +24,7 @@ We divide the verbs in two
 
 !!The -em class
 
- LEXICON Vem  divides Vem in Mood and infinites
+ LEXICON V_em  divides V_em in Mood and infinites
 
 
  LEXICON Vem-Mood  divides in Ind, Imprt, Des
@@ -34,13 +34,13 @@ We divide the verbs in two
 
 
 !!Special verbs
-Vam, возаш : воч
+V_am, возаш : воч
 
-Vam, лукташ : лук
+V_am, лукташ : лук
 
-Vam, кушкаш : куш
+V_am, кушкаш : куш
 
-Vam, шинчаш шич
+V_am, шинчаш шич
 
 These need work 2012-09-21
 
