@@ -4,7 +4,7 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l pos="Prop">Австралий</l>
+         <l pos="N" type="Prop">Австралий</l>
          <stg>
             <st Contlex="Prop">Австралий</st>
          </stg>
@@ -19,13 +19,13 @@
             <t/>
          </tg>
          <tg xml:lang="fin">
-            <t pos="Prop">Australia Prop</t>
+            <t pos="N" type="Prop">Australia Prop</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Prop">Азий</l>
+         <l pos="N" type="Prop">Азий</l>
          <stg>
             <st Contlex="Prop">Азий</st>
          </stg>
@@ -46,7 +46,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">Албаний</l>
+         <l pos="N" type="Prop">Албаний</l>
          <stg>
             <st Contlex="Prop">Албаний</st>
          </stg>
@@ -67,7 +67,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">альп</l>
+         <l pos="N" type="Prop">альп</l>
          <stg>
             <st Contlex="Prop">альп</st>
          </stg>
@@ -88,7 +88,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">англий</l>
+         <l pos="N" type="Prop">англий</l>
          <stg>
             <st Contlex="Prop">англий</st>
          </stg>
@@ -109,7 +109,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">арабий</l>
+         <l pos="N" type="Prop">арабий</l>
          <stg>
             <st Contlex="Prop">арабий</st>
          </stg>
@@ -130,7 +130,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">афины</l>
+         <l pos="N" type="Prop">афины</l>
          <stg>
             <st Contlex="Prop">афины</st>
          </stg>
@@ -151,7 +151,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">балтик</l>
+         <l pos="N" type="Prop">балтик</l>
          <stg>
             <st Contlex="Prop">балтик</st>
          </stg>
@@ -172,7 +172,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">бельгий</l>
+         <l pos="N" type="Prop">бельгий</l>
          <stg>
             <st Contlex="Prop">бельгий</st>
          </stg>
@@ -193,7 +193,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">болгарий</l>
+         <l pos="N" type="Prop">болгарий</l>
          <stg>
             <st Contlex="Prop">болгарий</st>
          </stg>
@@ -214,7 +214,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">бразилий</l>
+         <l pos="N" type="Prop">бразилий</l>
          <stg>
             <st Contlex="Prop">бразилий</st>
          </stg>
@@ -235,7 +235,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">будапешт</l>
+         <l pos="N" type="Prop">будапешт</l>
          <stg>
             <st Contlex="Prop">будапешт</st>
          </stg>
@@ -256,7 +256,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">венгрий</l>
+         <l pos="N" type="Prop">венгрий</l>
          <stg>
             <st Contlex="Prop">венгрий</st>
          </stg>
@@ -277,7 +277,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">германий</l>
+         <l pos="N" type="Prop">германий</l>
          <stg>
             <st Contlex="Prop">германий</st>
          </stg>
@@ -298,7 +298,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">дунай</l>
+         <l pos="N" type="Prop">дунай</l>
          <stg>
             <st Contlex="Prop">дунай</st>
          </stg>
@@ -319,7 +319,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">испаний</l>
+         <l pos="N" type="Prop">испаний</l>
          <stg>
             <st Contlex="Prop">испаний</st>
          </stg>
@@ -340,7 +340,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">италий</l>
+         <l pos="N" type="Prop">италий</l>
          <stg>
             <st Contlex="Prop">италий</st>
          </stg>
@@ -361,7 +361,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">какшан</l>
+         <l pos="N" type="Prop">какшан</l>
          <stg>
             <st Contlex="Prop">какшан</st>
          </stg>
@@ -382,7 +382,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">карелий</l>
+         <l pos="N" type="Prop">карелий</l>
          <stg>
             <st Contlex="Prop">карелий</st>
          </stg>
@@ -403,7 +403,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">китай</l>
+         <l pos="N" type="Prop">китай</l>
          <stg>
             <st Contlex="Prop">китай</st>
          </stg>
@@ -424,7 +424,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">коркашӱдыр</l>
+         <l pos="N" type="Prop">коркашӱдыр</l>
          <stg>
             <st Contlex="Prop">коркашӱдыр</st>
          </stg>
@@ -445,7 +445,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">ленинград</l>
+         <l pos="N" type="Prop">ленинград</l>
          <stg>
             <st Contlex="Prop">ленинград</st>
          </stg>
@@ -466,7 +466,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">моско</l>
+         <l pos="N" type="Prop">моско</l>
          <stg>
             <st Contlex="Prop">моско</st>
          </stg>
@@ -487,7 +487,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">нидерландий</l>
+         <l pos="N" type="Prop">нидерландий</l>
          <stg>
             <st Contlex="Prop">нидерландий</st>
          </stg>
@@ -508,7 +508,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">пӱевӱд</l>
+         <l pos="N" type="Prop">пӱевӱд</l>
          <stg>
             <st Contlex="Prop">пӱевӱд</st>
          </stg>
@@ -529,7 +529,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">пӱрӧвӱд</l>
+         <l pos="N" type="Prop">пӱрӧвӱд</l>
          <stg>
             <st Contlex="Prop">пӱрӧвӱд</st>
          </stg>
@@ -550,7 +550,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">рига</l>
+         <l pos="N" type="Prop">рига</l>
          <stg>
             <st Contlex="Prop">рига</st>
          </stg>
@@ -571,7 +571,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">россий</l>
+         <l pos="N" type="Prop">россий</l>
          <stg>
             <st Contlex="Prop">россий</st>
          </stg>
@@ -592,7 +592,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">румыний</l>
+         <l pos="N" type="Prop">румыний</l>
          <stg>
             <st Contlex="Prop">румыний</st>
          </stg>
@@ -613,7 +613,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">финляндий</l>
+         <l pos="N" type="Prop">финляндий</l>
          <stg>
             <st Contlex="Prop">финляндий</st>
          </stg>
@@ -634,7 +634,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">хельсинки</l>
+         <l pos="N" type="Prop">хельсинки</l>
          <stg>
             <st Contlex="Prop">хельсинки</st>
          </stg>
@@ -655,7 +655,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">чарла</l>
+         <l pos="N" type="Prop">чарла</l>
          <stg>
             <st Contlex="Prop">чарла</st>
          </stg>
@@ -676,7 +676,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">чолман</l>
+         <l pos="N" type="Prop">чолман</l>
          <stg>
             <st Contlex="Prop">чолман</st>
          </stg>
@@ -697,7 +697,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">шоктешӱдыр</l>
+         <l pos="N" type="Prop">шоктешӱдыр</l>
          <stg>
             <st Contlex="Prop">шоктешӱдыр</st>
          </stg>
@@ -718,7 +718,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">элнет</l>
+         <l pos="N" type="Prop">элнет</l>
          <stg>
             <st Contlex="Prop">элнет</st>
          </stg>
@@ -739,7 +739,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">эстоний</l>
+         <l pos="N" type="Prop">эстоний</l>
          <stg>
             <st Contlex="Prop">эстоний</st>
          </stg>
@@ -760,7 +760,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">юл</l>
+         <l pos="N" type="Prop">юл</l>
          <stg>
             <st Contlex="Prop">юл</st>
          </stg>
@@ -781,7 +781,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">америка</l>
+         <l pos="N" type="Prop">америка</l>
          <stg>
             <st Contlex="Prop">америка1</st>
          </stg>
@@ -802,7 +802,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">аргентина</l>
+         <l pos="N" type="Prop">аргентина</l>
          <stg>
             <st Contlex="Prop">аргентина1</st>
          </stg>
@@ -823,7 +823,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">атлантика</l>
+         <l pos="N" type="Prop">атлантика</l>
          <stg>
             <st Contlex="Prop">атлантика1</st>
          </stg>
@@ -844,7 +844,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">африка</l>
+         <l pos="N" type="Prop">африка</l>
          <stg>
             <st Contlex="Prop">африка1</st>
          </stg>
@@ -865,7 +865,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">варшава</l>
+         <l pos="N" type="Prop">варшава</l>
          <stg>
             <st Contlex="Prop">варшава1</st>
          </stg>
@@ -886,7 +886,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">виче</l>
+         <l pos="N" type="Prop">виче</l>
          <stg>
             <st Contlex="Prop">виче1</st>
          </stg>
@@ -907,7 +907,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">европа</l>
+         <l pos="N" type="Prop">европа</l>
          <stg>
             <st Contlex="Prop">европа1</st>
          </stg>
@@ -928,7 +928,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">польша</l>
+         <l pos="N" type="Prop">польша</l>
          <stg>
             <st Contlex="Prop">польша1</st>
          </stg>
@@ -949,7 +949,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">прибалтика</l>
+         <l pos="N" type="Prop">прибалтика</l>
          <stg>
             <st Contlex="Prop">прибалтика1</st>
          </stg>
@@ -970,7 +970,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">ӱпе</l>
+         <l pos="N" type="Prop">ӱпе</l>
          <stg>
             <st Contlex="Prop">ӱпе1</st>
          </stg>
@@ -991,7 +991,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">швеций</l>
+         <l pos="N" type="Prop">швеций</l>
          <stg>
             <st Contlex="Prop">швеций</st>
          </stg>
@@ -1012,7 +1012,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">Таллинн</l>
+         <l pos="N" type="Prop">Таллинн</l>
          <stg>
             <st Contlex="Prop">Таллинн</st>
          </stg>
@@ -1027,7 +1027,7 @@
             <t/>
          </tg>
          <tg xml:lang="fin">
-            <t pos="Prop">Tallinna</t>
+            <t pos="N" type="Prop">Tallinna</t>
          </tg>
       </mg>
    </e>
