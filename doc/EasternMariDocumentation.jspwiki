@@ -9,7 +9,7 @@
   / [affixes|https://victorio.uit.no/langtech/trunk/langs/mhr/src/morphology/affixes/] 
   / [syntax|https://victorio.uit.no/langtech/trunk/langs/mhr/src/syntax] 
   / [twolc|https://victorio.uit.no/langtech/trunk/langs/mhr/src/phonology/mhr-phon.twolc]   
-  / [yaml|https://victorio.uit.no/langtech/trunk/langs/mhr/test/src/morphology/]
+  / [yaml|https://victorio.uit.no/langtech/trunk/langs/mhr/test/src/gt-norm-yamls/]
 * Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-mhr.eng.html]
   / [text|http://giellatekno.uit.no/cgi/d-mhr.eng.html]
 
