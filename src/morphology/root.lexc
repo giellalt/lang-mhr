@@ -26,14 +26,14 @@ Multichar_Symbols
 
 !! The parts-of-speech are:
  +N +A +Adv +V
- +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num 
+ +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num
 
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
 
 !! The Usage extents are marked using following tags:
- +Err/Sub   
- +Use/-Spell 
+ +Err/Sub
+ +Use/-Spell
  +Use/Test ! Dealing with lative form 2012-10-27 аваеш, пашаш
 !!! pair verbs that do not occur independently get this marker.
  +Depend
@@ -41,14 +41,14 @@ Multichar_Symbols
 !! The nominals are inflected in the following Case and Number
  +Sg +Pl +AssocPl
 +Nom +Gen +Acc +Com +Ill +Ine +Lat +Dat +Cmp +Abe
-+Voc 
++Voc
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
 !! The comparative forms are:
  +Comp +Superl
 !! Numerals are classified under:
  +Attr +Card
- +Ord 
+ +Ord
 !! Verb moods are:
  +Ind +Prs +Prt +Pot +Cond +Imprt
 !! Verb personal forms are:
@@ -57,7 +57,7 @@ Multichar_Symbols
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +Prc +PrfPrc +Sup +VGen +VAbess
 +Act +Pas +FutPrc +NegPrc +Imprf
 ! Abbreviated words are classified with:
- +ABBR +ACR 
+ +ABBR +ACR
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT
 !! The verbs are syntactically split according to transitivity:
@@ -74,20 +74,20 @@ Multichar_Symbols
 +Foc/ян
 
 !! Semantics are classified with
- +Mal +Fem +Sur 
- +Plc 
+ +Mal +Fem +Sur
+ +Plc
  +Org
  +Obj
  +Ani
  +Hum
  +Plant
  +Group
- +Time 
+ +Time
  +Txt
  +Route
- +Measr 
+ +Measr
  +Wthr
- +Build 
+ +Build
  +Edu
  +Veh
  +Clth
