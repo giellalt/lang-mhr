@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">акрет</l>
          <stg>
@@ -27,7 +27,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">андри</l>
          <stg>
@@ -48,7 +48,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">аш</l>
          <stg>
@@ -69,7 +69,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">вещевой</l>
          <stg>
@@ -90,7 +90,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">винительный</l>
          <stg>
@@ -111,7 +111,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">водительский</l>
          <stg>
@@ -132,7 +132,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">вувер</l>
          <stg>
@@ -153,7 +153,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">вуйым-почым</l>
          <stg>
@@ -174,7 +174,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">грецкий</l>
          <stg>
@@ -195,7 +195,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">дательный</l>
          <stg>
@@ -216,7 +216,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">домовой</l>
          <stg>
@@ -237,7 +237,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">доплатной</l>
          <stg>
@@ -258,7 +258,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">желательный</l>
          <stg>
@@ -279,7 +279,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">зеркальный</l>
          <stg>
@@ -300,7 +300,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">изъявительный</l>
          <stg>
@@ -321,7 +321,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">именительный</l>
          <stg>
@@ -342,7 +342,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">йолт</l>
          <stg>
@@ -363,7 +363,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">йолчием</l>
          <stg>
@@ -384,7 +384,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">йоҥ-йоҥ</l>
          <stg>
@@ -405,7 +405,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">йора</l>
          <stg>
@@ -426,7 +426,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">йошток</l>
          <stg>
@@ -447,7 +447,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">йывыштык</l>
          <stg>
@@ -468,7 +468,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">йыра</l>
          <stg>
@@ -489,7 +489,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">кадем</l>
          <stg>
@@ -510,7 +510,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">каштанат-лай</l>
          <stg>
@@ -531,7 +531,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">коҥ</l>
          <stg>
@@ -552,7 +552,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">коҥгок</l>
          <stg>
@@ -573,7 +573,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">копыж-ж</l>
          <stg>
@@ -594,7 +594,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">косвенный</l>
          <stg>
@@ -615,7 +615,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">кулай</l>
          <stg>
@@ -636,7 +636,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">кумалтыш</l>
          <stg>
@@ -657,7 +657,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">кумыжвуян</l>
          <stg>
@@ -678,7 +678,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">кыдач-покшеч</l>
          <stg>
@@ -699,7 +699,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">кыр-гор</l>
          <stg>
@@ -720,7 +720,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">кырпак</l>
          <stg>
@@ -741,7 +741,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">лицевой</l>
          <stg>
@@ -762,7 +762,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">логарӱмбал</l>
          <stg>
@@ -783,7 +783,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">лодыш</l>
          <stg>
@@ -804,7 +804,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">лоштак</l>
          <stg>
@@ -825,7 +825,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">луэш</l>
          <stg>
@@ -846,7 +846,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">лӱмаш</l>
          <stg>
@@ -867,7 +867,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">махым</l>
          <stg>
@@ -888,7 +888,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">машинно-тракторный</l>
          <stg>
@@ -909,7 +909,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">местный</l>
          <stg>
@@ -930,7 +930,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">направительный</l>
          <stg>
@@ -951,7 +951,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">нашатырный</l>
          <stg>
@@ -972,7 +972,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">нелеш</l>
          <stg>
@@ -993,7 +993,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">ноля</l>
          <stg>
@@ -1014,7 +1014,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">обстоятельственный</l>
          <stg>
@@ -1035,7 +1035,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">олмештыш</l>
          <stg>
@@ -1056,7 +1056,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">оръеҥ</l>
          <stg>
@@ -1077,7 +1077,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">отчетно-сайлымаш</l>
          <stg>
@@ -1098,7 +1098,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">ошын</l>
          <stg>
@@ -1119,7 +1119,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">перспективный</l>
          <stg>
@@ -1140,7 +1140,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">пжик</l>
          <stg>
@@ -1161,7 +1161,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">пиж</l>
          <stg>
@@ -1182,7 +1182,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">повелительный</l>
          <stg>
@@ -1203,7 +1203,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">повествовательный</l>
          <stg>
@@ -1224,7 +1224,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">подвесной</l>
          <stg>
@@ -1245,7 +1245,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">пожа</l>
          <stg>
@@ -1266,7 +1266,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">понудительный</l>
          <stg>
@@ -1287,7 +1287,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">почеш</l>
          <stg>
@@ -1308,7 +1308,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">пӧтынь</l>
          <stg>
@@ -1329,7 +1329,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">превосходный</l>
          <stg>
@@ -1350,7 +1350,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">препинаний</l>
          <stg>
@@ -1371,7 +1371,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">придаточный</l>
          <stg>
@@ -1392,7 +1392,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">пунчеж</l>
          <stg>
@@ -1413,7 +1413,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">пӱчмыла</l>
          <stg>
@@ -1434,7 +1434,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">пыч</l>
          <stg>
@@ -1455,7 +1455,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">пычык</l>
          <stg>
@@ -1476,7 +1476,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">рад</l>
          <stg>
@@ -1497,7 +1497,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">родительный</l>
          <stg>
@@ -1518,7 +1518,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">роп</l>
          <stg>
@@ -1539,7 +1539,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">ручной</l>
          <stg>
@@ -1560,7 +1560,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">рӱп</l>
          <stg>
@@ -1581,7 +1581,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">сип</l>
          <stg>
@@ -1602,7 +1602,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">скорый</l>
          <stg>
@@ -1623,7 +1623,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">сообщений</l>
          <stg>
@@ -1644,7 +1644,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">сослагательный</l>
          <stg>
@@ -1665,7 +1665,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">страдательный</l>
          <stg>
@@ -1686,7 +1686,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">так</l>
          <stg>
@@ -1707,7 +1707,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">такеш</l>
          <stg>
@@ -1728,7 +1728,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">тап</l>
          <stg>
@@ -1749,7 +1749,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">ташлама</l>
          <stg>
@@ -1770,7 +1770,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">тойки-мойки</l>
          <stg>
@@ -1791,7 +1791,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">торланен</l>
          <stg>
@@ -1812,7 +1812,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">тортен</l>
          <stg>
@@ -1833,7 +1833,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">тӧтырет</l>
          <stg>
@@ -1854,7 +1854,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">тулеч</l>
          <stg>
@@ -1875,7 +1875,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">тӱп</l>
          <stg>
@@ -1896,7 +1896,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">тӱран</l>
          <stg>
@@ -1917,7 +1917,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">тыҥгас</l>
          <stg>
@@ -1938,7 +1938,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">уголок</l>
          <stg>
@@ -1959,7 +1959,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">удобрений</l>
          <stg>
@@ -1980,7 +1980,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">условный</l>
          <stg>
@@ -2001,7 +2001,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">уша</l>
          <stg>
@@ -2022,7 +2022,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">ӱдырлыклан</l>
          <stg>
@@ -2043,7 +2043,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">ӱдырлыкеш</l>
          <stg>
@@ -2064,7 +2064,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">чаня</l>
          <stg>
@@ -2085,7 +2085,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">чатлама</l>
          <stg>
@@ -2106,7 +2106,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">честь</l>
          <stg>
@@ -2127,7 +2127,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">чроҥ</l>
          <stg>
@@ -2148,7 +2148,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">чурк</l>
          <stg>
@@ -2169,7 +2169,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">чӱч</l>
          <stg>
@@ -2190,7 +2190,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">чылдыр-чолдыр</l>
          <stg>
@@ -2211,7 +2211,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">чыли</l>
          <stg>
@@ -2232,7 +2232,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">шагыл</l>
          <stg>
@@ -2253,7 +2253,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">шемын</l>
          <stg>
@@ -2274,7 +2274,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">шожым</l>
          <stg>
@@ -2295,7 +2295,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">шот</l>
          <stg>
@@ -2316,7 +2316,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">шоч</l>
          <stg>
@@ -2337,7 +2337,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">шу-у</l>
          <stg>
@@ -2358,7 +2358,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">шӱшкыш</l>
          <stg>
@@ -2379,7 +2379,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">шӱшпык</l>
          <stg>
@@ -2400,7 +2400,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">ыресан</l>
          <stg>
@@ -2421,7 +2421,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">юпке</l>
          <stg>
@@ -2442,7 +2442,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">ямым</l>
          <stg>
@@ -2463,7 +2463,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">ямынза</l>
          <stg>
@@ -2484,7 +2484,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">кӱсе</l>
          <stg>
@@ -2505,7 +2505,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">леҥге</l>
          <stg>
@@ -2526,7 +2526,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">намызе</l>
          <stg>
@@ -2547,7 +2547,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">ньыге-нюге</l>
          <stg>
@@ -2568,7 +2568,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">рӱшке</l>
          <stg>
@@ -2589,7 +2589,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">туаде</l>
          <stg>
@@ -2610,7 +2610,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">улме</l>
          <stg>
@@ -2631,7 +2631,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">умыландарыше</l>
          <stg>
@@ -2652,7 +2652,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">шутыдыме</l>
          <stg>
@@ -2673,7 +2673,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">шутыме</l>
          <stg>
@@ -2694,7 +2694,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e order="2">
       <lg>
          <l pos="Dep">юнге</l>
          <stg>
