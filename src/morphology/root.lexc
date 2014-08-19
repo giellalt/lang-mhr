@@ -23,6 +23,7 @@ Multichar_Symbols
 !! The morphological analyses of wordforms of UNDEFINED language are presented
 !! in this system in terms of following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
++WORK
 
 !! The parts-of-speech are:
  +N +A +Adv +V
@@ -145,13 +146,15 @@ urj-Cyrl-ProperNouns ;
 ! CONTINUATIONS !
 ! ############# !
 
-LEXICON CC
+LEXICON CONJ_
++WORK: # ;
+LEXICON CC_
 +CC: # ;
 
-LEXICON CS
+LEXICON CS_
 +CS: # ;
 
-LEXICON Adv
+LEXICON ADV_
 +Adv: K ;
 
 LEXICON AD-A
@@ -163,7 +166,8 @@ LEXICON PO_
 LEXICON Postp
  PO_ ;
 
-
+LEXICON INTERJ_
++Interj: # ;
 
 LEXICON Puh-a/e ! XXX do not know
 N-a/e ;
@@ -171,6 +175,9 @@ N-a/e ;
 
 LEXICON Puh ! XXX do not know
 N_ ;
+
+LEXICON PCLE_
++Pcle: # ;
 
 
 
@@ -186,6 +193,8 @@ N_ ;
 LEXICON Vam-n/l1t
  # ;
 
+LEXICON PRON_
++Pron: # ;
 
 LEXICON PronRes
 +Pron: # ;
@@ -208,6 +217,8 @@ LEXICON PronInd
 LEXICON PronDem
 +Pron+Dem: # ;
 
+LEXICON QNT_
++Qnt: # ;
 LEXICON KvMurt
  # ;
 

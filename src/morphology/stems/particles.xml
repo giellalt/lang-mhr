@@ -1,1958 +1,4152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
-      <lg>
-         <l pos="Pcle">адыштан</l>
-         <stg>
-            <st Contlex="Pmuu">адыштан</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(lauseenlisäke, joka ilm. suuttumusta) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">ай</l>
-         <stg>
-            <st Contlex="Pmuu">ай</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>voi; (pahaa toivotettaessa) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">ай</l>
-         <stg>
-            <st Contlex="Pmuu">ай</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(pehmennettäessä käskyä tai pyyntöä) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">ала</l>
-         <stg>
-            <st Contlex="Pmuu">ала</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>ehkäpä, (kond.) -isi-; tuskin Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">ане</l>
-         <stg>
-            <st Contlex="Pmuu">ане</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>kyllä (+ kysytty V); (lauseenlisäke) niin, kyllä, jaa-a Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">анят</l>
-         <stg>
-            <st Contlex="Pmuu">анят</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>ehkä, voi olla Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">буль-буль</l>
-         <stg>
-            <st Contlex="Pmuu">буль-буль</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(pulputuksesta) pulpul Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">бырлоч</l>
-         <stg>
-            <st Contlex="Pmuu">бырлоч</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>mäiskis, naps(is) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">вара</l>
-         <stg>
-            <st Contlex="Pmuu">вара</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(vahv. part. kys.l:ssa) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">вет</l>
-         <stg>
-            <st Contlex="Pmuu">вет</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>-hAn, varmaankin Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">вот</l>
-         <stg>
-            <st Contlex="Pmuu">вот</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>kas niin Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">вудык-вудык</l>
-         <stg>
-            <st Contlex="Pmuu">вудык-вудык</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. jnk pörröisen huojumisesta) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">вуж-вуж</l>
-         <stg>
-            <st Contlex="Pmuu">вуж-вуж</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. tuulen huminaa) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">вузык</l>
-         <stg>
-            <st Contlex="Pmuu">вузык</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(jhk aineeseen sotkeutumisesta) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">выж-ж</l>
-         <stg>
-            <st Contlex="Pmuu">выж-ж</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. tuulen kevyestä huminasta) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">выргӱп</l>
-         <stg>
-            <st Contlex="Pmuu">выргӱп</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. kaatumisen hiljaisesta äänestä) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">вырлоч</l>
-         <stg>
-            <st Contlex="Pmuu">вырлоч</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr.) läiskis Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">вышт</l>
-         <stg>
-            <st Contlex="Pmuu">вышт</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. jnk kevyen liikkumisesta) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">гала</l>
-         <stg>
-            <st Contlex="Pmuu">гала</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(vahv. ja kysyvä) -hAn Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">гын</l>
-         <stg>
-            <st Contlex="Pmuu">гын</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>-kO; -hAn Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">да</l>
-         <stg>
-            <st Contlex="Pmuu">да</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>niin Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">дӱр-дӱр</l>
-         <stg>
-            <st Contlex="Pmuu">дӱр-дӱр</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. ukkosen jylinää) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">дыр</l>
-         <stg>
-            <st Contlex="Pmuu">дыр</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>-hAn Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">и</l>
-         <stg>
-            <st Contlex="Pmuu">и</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>-kin, -kAAn, -pA Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">йӧра</l>
-         <stg>
-            <st Contlex="Pmuu">йӧра</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>hyvä on Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">йывылдик</l>
-         <stg>
-            <st Contlex="Pmuu">йывылдик</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>katosi kuin tuhka tuuleen; (jnk puuttumisesta) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">йыли-юли</l>
-         <stg>
-            <st Contlex="Pmuu">йыли-юли</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(välkkyvästä yms.) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">йышт-юшт</l>
-         <stg>
-            <st Contlex="Pmuu">йышт-юшт</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. nopeasta liikkeestä) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кавуй</l>
-         <stg>
-            <st Contlex="Pmuu">кавуй</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>-pA, -hAn Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">калт-калт</l>
-         <stg>
-            <st Contlex="Pmuu">калт-калт</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>kop kop Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">керек</l>
-         <stg>
-            <st Contlex="Pmuu">керек</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>hyvä on Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кигик-когок</l>
-         <stg>
-            <st Contlex="Pmuu">кигик-когок</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(hanhien huuto) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кис-кис</l>
-         <stg>
-            <st Contlex="Pmuu">кис-кис</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(kissan kuts.) kis kis Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">коп</l>
-         <stg>
-            <st Contlex="Pmuu">коп</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>hupsis Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кочыри-и-к</l>
-         <stg>
-            <st Contlex="Pmuu">кочыри-и-к</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. terävästä äänestä, kitinästä yms.) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кроп</l>
-         <stg>
-            <st Contlex="Pmuu">кроп</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr.) mäiskis Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">крӱп</l>
-         <stg>
-            <st Contlex="Pmuu">крӱп</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom.) hupsis Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кузе-гынат</l>
-         <stg>
-            <st Contlex="Pmuu">кузе-гынат</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>kaikin mokomin, miten vain (halutaan) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кукареку-ку-у</l>
-         <stg>
-            <st Contlex="Pmuu">кукареку-ку-у</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom.) kukkokiekuu Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кӱш-ш</l>
-         <stg>
-            <st Contlex="Pmuu">кӱш-ш</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. lintujen häätämiseksi) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кыж-гож</l>
-         <stg>
-            <st Contlex="Pmuu">кыж-гож</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. havinaa) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кылт-калт</l>
-         <stg>
-            <st Contlex="Pmuu">кылт-калт</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom.) tiktak Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кычыр-кочыр</l>
-         <stg>
-            <st Contlex="Pmuu">кычыр-кочыр</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. narinaa, rapinaa) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кыштыр-коштыр</l>
-         <stg>
-            <st Contlex="Pmuu">кыштыр-коштыр</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. kahinaa) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">ларт-ларт-ларт</l>
-         <stg>
-            <st Contlex="Pmuu">ларт-ларт-ларт</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. ankan rääkätyksestä) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">лӱч</l>
-         <stg>
-            <st Contlex="Pmuu">лӱч</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom.) pum, pam Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">лыб-лыб-лыб</l>
-         <stg>
-            <st Contlex="Pmuu">лыб-лыб-лыб</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. värinä) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">лыдыр-ладыр</l>
-         <stg>
-            <st Contlex="Pmuu">лыдыр-ладыр</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. telegan äänistä, laahustavasta liikkumisesta) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">монь</l>
-         <stg>
-            <st Contlex="Pmuu">монь</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>ynnä muuta sellaista Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">на</l>
-         <stg>
-            <st Contlex="Pmuu">на</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>kas tuo(ssa), no Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">неужели</l>
-         <stg>
-            <st Contlex="Pmuu">неужели</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>todellako?, niinkö? Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">ни</l>
-         <stg>
-            <st Contlex="Pmuu">ни</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>ei Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">ну</l>
-         <stg>
-            <st Contlex="Pmuu">ну</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>no Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">огла</l>
-         <stg>
-            <st Contlex="Pmuu">огла</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>olkoon(pa niin,) että Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">пис-пис-пис</l>
-         <stg>
-            <st Contlex="Pmuu">пис-пис-пис</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(koiran kutsu) tse tse Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">псльоп</l>
-         <stg>
-            <st Contlex="Pmuu">псльоп</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>loiskis Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">райзе</l>
-         <stg>
-            <st Contlex="Pmuu">райзе</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(kielto +) -kO...sitten, (myöntö +) -hAn Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">раш</l>
-         <stg>
-            <st Contlex="Pmuu">раш</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(on) kunnossa, selvää Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">рушт</l>
-         <stg>
-            <st Contlex="Pmuu">рушт</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. kaatumisen äänestä) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">тук-тук</l>
-         <stg>
-            <st Contlex="Pmuu">тук-тук</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>kop kop Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">чай</l>
-         <stg>
-            <st Contlex="Pmuu">чай</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>kai, ehkä, luultavasti Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">чияк-чияк</l>
-         <stg>
-            <st Contlex="Pmuu">чияк-чияк</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>piip piip (- kananpoikasten ääntelyä) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">чолт-чолт</l>
-         <stg>
-            <st Contlex="Pmuu">чолт-чолт</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>kil kil Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">чоштыр-чоштыр</l>
-         <stg>
-            <st Contlex="Pmuu">чоштыр-чоштыр</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. leikkaavan sirpin äänestä) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">чыдыр-чодыр</l>
-         <stg>
-            <st Contlex="Pmuu">чыдыр-чодыр</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. puun paukkeesta sen palaessa) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">чырык</l>
-         <stg>
-            <st Contlex="Pmuu">чырык</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. hämmennystä, sekaannusta) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">шеремет</l>
-         <stg>
-            <st Contlex="Pmuu">шеремет</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(ilm. sääliä, pahoittelua, tyytymättömyyttä) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">шол</l>
-         <stg>
-            <st Contlex="Pmuu">шол</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>-hAn Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">шолдырдок</l>
-         <stg>
-            <st Contlex="Pmuu">шолдырдок</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom.) naps(is), raks(is) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">шолт-шолт</l>
-         <stg>
-            <st Contlex="Pmuu">шолт-шолт</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>kop kop Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">шуй-шуй</l>
-         <stg>
-            <st Contlex="Pmuu">шуй-шуй</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. sydämenlyöntien kiihtyminen) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">шыве-шыве</l>
-         <stg>
-            <st Contlex="Pmuu">шыве-шыве</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>hys hys (kuiskinta) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">шылт-шолт</l>
-         <stg>
-            <st Contlex="Pmuu">шылт-шолт</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. lyönnin, koputuksen ääni) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">шыҥ-шыҥ</l>
-         <stg>
-            <st Contlex="Pmuu">шыҥ-шыҥ</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>S. temaS (tila) tulla täpätäyteen Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">шырт-шорт</l>
-         <stg>
-            <st Contlex="Pmuu">шырт-шорт</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. ryske, rätinä) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">эн</l>
-         <stg>
-            <st Contlex="Pmuu">эн</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>kaikkein (superlatiivin muodostava part.) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">юргылдым-юргылдым</l>
-         <stg>
-            <st Contlex="Pmuu">юргылдым-юргылдым</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. loikkaus) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">юрт</l>
-         <stg>
-            <st Contlex="Pmuu">юрт</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. säikähdys) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">юшт</l>
-         <stg>
-            <st Contlex="Pmuu">юшт</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. hyppy) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">я</l>
-         <stg>
-            <st Contlex="Pmuu">я</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>-pA Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">вудо-вуде</l>
-         <stg>
-            <st Contlex="Pmuu">вудо-вуде1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. jstak epäselvästä, huomaamattomasta) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">выде-вуде</l>
-         <stg>
-            <st Contlex="Pmuu">выде-вуде1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(deskr. jstak epäselvästä, huomaamattomasta) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">киндончылне</l>
-         <stg>
-            <st Contlex="Pmuu">киндончылне1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(vala sanotun vannomiseksi) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">кылде-голде</l>
-         <stg>
-            <st Contlex="Pmuu">кылде-голде1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. hiljaista kolketta) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">лыпте-лопте</l>
-         <stg>
-            <st Contlex="Pmuu">лыпте-лопте1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. läimäyttelystä) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">пожалуйста</l>
-         <stg>
-            <st Contlex="Pmuu">пожалуйста1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>ole hyvä, olkaa hyvä Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">разве</l>
-         <stg>
-            <st Contlex="Pmuu">разве1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(kielto +) -kO...sitten, (myöntö +) -hAn Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">теве</l>
-         <stg>
-            <st Contlex="Pmuu">теве1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>kas tämä/nämä; kas tässä, no niin Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">тӧве</l>
-         <stg>
-            <st Contlex="Pmuu">тӧве1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>kas/katsos tuo/se/nuo/ne Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">туде</l>
-         <stg>
-            <st Contlex="Pmuu">туде1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>-hAn, -pA, kyllä Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">шыве-шове</l>
-         <stg>
-            <st Contlex="Pmuu">шыве-шове1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(onom. veden loiske) Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">юмашне</l>
-         <stg>
-            <st Contlex="Pmuu">юмашне1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(puhek.) jumala varjelkoon Pmuu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">юмончылне</l>
-         <stg>
-            <st Contlex="Pmuu">юмончылне1</st>
-         </stg>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="eng">
-            <t/>
-         </tg>
-         <tg xml:lang="fin">
-            <t>(puhek.) totta tosiaan Pmuu</t>
-         </tg>
-      </mg>
-   </e>
+   xml:lang="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e order="2">
+    <lg>
+      <l pos="Pcle">адыштан</l>
+
+      <stg>
+        <st Contlex="Pmuu">адыштан</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(lauseenlisäke, joka ilm. suuttumusta) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">ай</l>
+
+      <stg>
+        <st Contlex="Pmuu">ай</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>voi; (pahaa toivotettaessa) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">ай</l>
+
+      <stg>
+        <st Contlex="Pmuu">ай</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(pehmennettäessä käskyä tai pyyntöä) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">айда</l>
+
+      <stg>
+        <st Contlex="PCLE_">айда</st>
+      </stg>
+
+      <stress>айда•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">айза</l>
+
+      <stg>
+        <st Contlex="PCLE_">айза</st>
+      </stg>
+
+      <stress>айза</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">акыре</l>
+
+      <stg>
+        <st Contlex="PCLE_">акыре</st>
+      </stg>
+
+      <stress>акыре•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">ала</l>
+
+      <stg>
+        <st Contlex="Pmuu">ала</st>
+      </stg>
+
+      <stress>ала•</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>ehkäpä, (kond.) -isi-; tuskin Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">ала•-ала</l>
+
+      <stg>
+        <st Contlex="PCLE_">ала•-ала</st>
+      </stg>
+
+      <stress>ала•-ала•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">але</l>
+
+      <stg>
+        <st Contlex="PCLE_">але</st>
+      </stg>
+
+      <stress>а•ле</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">алят</l>
+
+      <stg>
+        <st Contlex="PCLE_">алят</st>
+      </stg>
+
+      <stress>аля•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">аман</l>
+
+      <stg>
+        <st Contlex="PCLE_">аман</st>
+      </stg>
+
+      <stress>ама•н</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">ане</l>
+
+      <stg>
+        <st Contlex="Pmuu">ане</st>
+      </stg>
+
+      <stress>а•не</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kyllä (+ kysytty V); (lauseenlisäke) niin, kyllä, jaa-a Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">анян</l>
+
+      <stg>
+        <st Contlex="PCLE_">анян</st>
+      </stg>
+
+      <stress>анян</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">анят</l>
+
+      <stg>
+        <st Contlex="Pmuu">анят</st>
+      </stg>
+
+      <stress>аня•т</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>ehkä, voi olla Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">аттан</l>
+
+      <stg>
+        <st Contlex="PCLE_">аттан</st>
+      </stg>
+
+      <stress>аттан</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">а•йста</l>
+
+      <stg>
+        <st Contlex="PCLE_">а•йста</st>
+      </stg>
+
+      <stress>а•йста•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">буль-буль</l>
+
+      <stg>
+        <st Contlex="Pmuu">буль-буль</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(pulputuksesta) pulpul Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">бырлоч</l>
+
+      <stg>
+        <st Contlex="Pmuu">бырлоч</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>mäiskis, naps(is) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">вара</l>
+
+      <stg>
+        <st Contlex="Pmuu">вара</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(vahv. part. kys.l:ssa) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">векат</l>
+
+      <stg>
+        <st Contlex="PCLE_">векат</st>
+      </stg>
+
+      <stress>века•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">веле</l>
+
+      <stg>
+        <st Contlex="PCLE_">веле</st>
+      </stg>
+
+      <stress>ве•ле</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">вет</l>
+
+      <stg>
+        <st Contlex="Pmuu">вет</st>
+      </stg>
+
+      <stress>вет</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-hAn, varmaankin Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">витне</l>
+
+      <stg>
+        <st Contlex="PCLE_">витне</st>
+      </stg>
+
+      <stress>ви•тне</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">вообще</l>
+
+      <stg>
+        <st Contlex="PCLE_">вообще</st>
+      </stg>
+
+      <stress>во•обще</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">вот</l>
+
+      <stg>
+        <st Contlex="Pmuu">вот</st>
+      </stg>
+
+      <stress>вот</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kas niin Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">вудо-вуде</l>
+
+      <stg>
+        <st Contlex="Pmuu">вудо-вуде1</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. jstak epäselvästä, huomaamattomasta) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">вудык-вудык</l>
+
+      <stg>
+        <st Contlex="Pmuu">вудык-вудык</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. jnk pörröisen huojumisesta) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">вуж-вуж</l>
+
+      <stg>
+        <st Contlex="Pmuu">вуж-вуж</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. tuulen huminaa) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">вузык</l>
+
+      <stg>
+        <st Contlex="Pmuu">вузык</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(jhk aineeseen sotkeutumisesta) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">выде-вуде</l>
+
+      <stg>
+        <st Contlex="Pmuu">выде-вуде1</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. jstak epäselvästä, huomaamattomasta) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">выж-ж</l>
+
+      <stg>
+        <st Contlex="Pmuu">выж-ж</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. tuulen kevyestä huminasta) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">выргӱп</l>
+
+      <stg>
+        <st Contlex="Pmuu">выргӱп</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. kaatumisen hiljaisesta äänestä) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">вырлоч</l>
+
+      <stg>
+        <st Contlex="Pmuu">вырлоч</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr.) läiskis Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">вышт</l>
+
+      <stg>
+        <st Contlex="Pmuu">вышт</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. jnk kevyen liikkumisesta) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">гала</l>
+
+      <stg>
+        <st Contlex="Pmuu">гала</st>
+      </stg>
+
+      <stress>гала•</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(vahv. ja kysyvä) -hAn Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">гын</l>
+
+      <stg>
+        <st Contlex="Pmuu">гын</st>
+      </stg>
+
+      <stress>гын</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-kO; -hAn Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">гына</l>
+
+      <stg>
+        <st Contlex="PCLE_">гына</st>
+      </stg>
+
+      <stress>гына•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">гынай</l>
+
+      <stg>
+        <st Contlex="PCLE_">гынай</st>
+      </stg>
+
+      <stress>гынай</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">гынат</l>
+
+      <stg>
+        <st Contlex="PCLE_">гынат</st>
+      </stg>
+
+      <stress>гына•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">да</l>
+
+      <stg>
+        <st Contlex="Pmuu">да</st>
+      </stg>
+
+      <stress>да</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>niin Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">даже</l>
+
+      <stg>
+        <st Contlex="PCLE_">даже</st>
+      </stg>
+
+      <stress>да•же</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">докан</l>
+
+      <stg>
+        <st Contlex="PCLE_">докан</st>
+      </stg>
+
+      <stress>дока•н</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">дык</l>
+
+      <stg>
+        <st Contlex="PCLE_">дык</st>
+      </stg>
+
+      <stress>дык</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">дыр</l>
+
+      <stg>
+        <st Contlex="Pmuu">дыр</st>
+      </stg>
+
+      <stress>дыр</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-hAn Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">дӱр-дӱр</l>
+
+      <stg>
+        <st Contlex="Pmuu">дӱр-дӱр</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. ukkosen jylinää) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">жалке</l>
+
+      <stg>
+        <st Contlex="PCLE_">жалке</st>
+      </stg>
+
+      <stress>жа•лке</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">и</l>
+
+      <stg>
+        <st Contlex="Pmuu">и</st>
+      </stg>
+
+      <stress>и</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-kin, -kAAn, -pA Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">иже</l>
+
+      <stg>
+        <st Contlex="PCLE_">иже</st>
+      </stg>
+
+      <stress>и•же</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">икманаш</l>
+
+      <stg>
+        <st Contlex="PCLE_">икманаш</st>
+      </stg>
+
+      <stress>икмана•ш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">ите</l>
+
+      <stg>
+        <st Contlex="PCLE_">ите</st>
+      </stg>
+
+      <stress>и•те</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">йок</l>
+
+      <stg>
+        <st Contlex="PCLE_">йок</st>
+      </stg>
+
+      <stress>йок</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">йывылдик</l>
+
+      <stg>
+        <st Contlex="Pmuu">йывылдик</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>katosi kuin tuhka tuuleen; (jnk puuttumisesta) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">йыли-юли</l>
+
+      <stg>
+        <st Contlex="Pmuu">йыли-юли</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(välkkyvästä yms.) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">йышт-юшт</l>
+
+      <stg>
+        <st Contlex="Pmuu">йышт-юшт</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. nopeasta liikkeestä) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">йӧра</l>
+
+      <stg>
+        <st Contlex="Pmuu">йӧра</st>
+      </stg>
+
+      <stress>йӧра•</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>hyvä on Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">йӧрш</l>
+
+      <stg>
+        <st Contlex="PCLE_">йӧрш</st>
+      </stg>
+
+      <stress>йӧрш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кавуй</l>
+
+      <stg>
+        <st Contlex="Pmuu">кавуй</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-pA, -hAn Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">кай</l>
+
+      <stg>
+        <st Contlex="PCLE_">кай</st>
+      </stg>
+
+      <stress>кай</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">калт-калт</l>
+
+      <stg>
+        <st Contlex="Pmuu">калт-калт</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kop kop Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">керек</l>
+
+      <stg>
+        <st Contlex="Pmuu">керек</st>
+      </stg>
+
+      <stress>кере•к</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>hyvä on Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">кернак</l>
+
+      <stg>
+        <st Contlex="PCLE_">кернак</st>
+      </stg>
+
+      <stress>керна•к</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">кернакак</l>
+
+      <stg>
+        <st Contlex="PCLE_">кернакак</st>
+      </stg>
+
+      <stress>кернака•к</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">кеч</l>
+
+      <stg>
+        <st Contlex="PCLE_">кеч</st>
+      </stg>
+
+      <stress>кеч</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кигик-когок</l>
+
+      <stg>
+        <st Contlex="Pmuu">кигик-когок</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(hanhien huuto) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">киндончылне</l>
+
+      <stg>
+        <st Contlex="Pmuu">киндончылне1</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(vala sanotun vannomiseksi) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кис-кис</l>
+
+      <stg>
+        <st Contlex="Pmuu">кис-кис</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(kissan kuts.) kis kis Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">конешне</l>
+
+      <stg>
+        <st Contlex="PCLE_">конешне</st>
+      </stg>
+
+      <stress>коне•шне</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">коп</l>
+
+      <stg>
+        <st Contlex="Pmuu">коп</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>hupsis Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кочыри-и-к</l>
+
+      <stg>
+        <st Contlex="Pmuu">кочыри-и-к</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. terävästä äänestä, kitinästä yms.) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кроп</l>
+
+      <stg>
+        <st Contlex="Pmuu">кроп</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr.) mäiskis Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">крӱп</l>
+
+      <stg>
+        <st Contlex="Pmuu">крӱп</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom.) hupsis Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кузе-гынат</l>
+
+      <stg>
+        <st Contlex="Pmuu">кузе-гынат</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kaikin mokomin, miten vain (halutaan) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кукареку-ку-у</l>
+
+      <stg>
+        <st Contlex="Pmuu">кукареку-ку-у</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom.) kukkokiekuu Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кыж-гож</l>
+
+      <stg>
+        <st Contlex="Pmuu">кыж-гож</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. havinaa) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кылде-голде</l>
+
+      <stg>
+        <st Contlex="Pmuu">кылде-голде1</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. hiljaista kolketta) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кылт-калт</l>
+
+      <stg>
+        <st Contlex="Pmuu">кылт-калт</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom.) tiktak Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кычыр-кочыр</l>
+
+      <stg>
+        <st Contlex="Pmuu">кычыр-кочыр</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. narinaa, rapinaa) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кыштыр-коштыр</l>
+
+      <stg>
+        <st Contlex="Pmuu">кыштыр-коштыр</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. kahinaa) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">кӱш-ш</l>
+
+      <stg>
+        <st Contlex="Pmuu">кӱш-ш</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. lintujen häätämiseksi) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">лаваса</l>
+
+      <stg>
+        <st Contlex="PCLE_">лаваса</st>
+      </stg>
+
+      <stress>лаваса•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">лавысан</l>
+
+      <stg>
+        <st Contlex="PCLE_">лавысан</st>
+      </stg>
+
+      <stress>лавысан</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">ларт-ларт-ларт</l>
+
+      <stg>
+        <st Contlex="Pmuu">ларт-ларт-ларт</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. ankan rääkätyksestä) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">ласа</l>
+
+      <stg>
+        <st Contlex="PCLE_">ласа</st>
+      </stg>
+
+      <stress>ласа•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">ласан</l>
+
+      <stg>
+        <st Contlex="PCLE_">ласан</st>
+      </stg>
+
+      <stress>ласан</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">лыб-лыб-лыб</l>
+
+      <stg>
+        <st Contlex="Pmuu">лыб-лыб-лыб</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. värinä) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">лыдыр-ладыр</l>
+
+      <stg>
+        <st Contlex="Pmuu">лыдыр-ладыр</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. telegan äänistä, laahustavasta liikkumisesta) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">лыпте-лопте</l>
+
+      <stg>
+        <st Contlex="Pmuu">лыпте-лопте1</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. läimäyttelystä) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">лӱч</l>
+
+      <stg>
+        <st Contlex="Pmuu">лӱч</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom.) pum, pam Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">мо</l>
+
+      <stg>
+        <st Contlex="PCLE_">мо</st>
+      </stg>
+
+      <stress>мо</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">мо-мо</l>
+
+      <stg>
+        <st Contlex="PCLE_">мо-мо</st>
+      </stg>
+
+      <stress>мо-мо</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">можыч</l>
+
+      <stg>
+        <st Contlex="PCLE_">можыч</st>
+      </stg>
+
+      <stress>мо•жыч</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">моли</l>
+
+      <stg>
+        <st Contlex="PCLE_">моли</st>
+      </stg>
+
+      <stress>мо•ли</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">монь</l>
+
+      <stg>
+        <st Contlex="Pmuu">монь</st>
+      </stg>
+
+      <stress>монь</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>ynnä muuta sellaista Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">мутлан</l>
+
+      <stg>
+        <st Contlex="PCLE_">мутлан</st>
+      </stg>
+
+      <stress>мутла•н</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">на</l>
+
+      <stg>
+        <st Contlex="Pmuu">на</st>
+      </stg>
+
+      <stress>на</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kas tuo(ssa), no Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">наверне</l>
+
+      <stg>
+        <st Contlex="PCLE_">наверне</st>
+      </stg>
+
+      <stress>наве•рне</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">неужели</l>
+
+      <stg>
+        <st Contlex="Pmuu">неужели</st>
+      </stg>
+
+      <stress>неуже•ли</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>todellako?, niinkö? Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">нечыве</l>
+
+      <stg>
+        <st Contlex="PCLE_">нечыве</st>
+      </stg>
+
+      <stress>не•чыве</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">ни</l>
+
+      <stg>
+        <st Contlex="Pmuu">ни</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>ei Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">ну</l>
+
+      <stg>
+        <st Contlex="Pmuu">ну</st>
+      </stg>
+
+      <stress>ну</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>no Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">огла</l>
+
+      <stg>
+        <st Contlex="Pmuu">огла</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>olkoon(pa niin,) että Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">огыла</l>
+
+      <stg>
+        <st Contlex="PCLE_">огыла</st>
+      </stg>
+
+      <stress>огыла•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">очыни</l>
+
+      <stg>
+        <st Contlex="PCLE_">очыни</st>
+      </stg>
+
+      <stress>очыни•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">пис-пис-пис</l>
+
+      <stg>
+        <st Contlex="Pmuu">пис-пис-пис</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(koiran kutsu) tse tse Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">пожале</l>
+
+      <stg>
+        <st Contlex="PCLE_">пожале</st>
+      </stg>
+
+      <stress>пожа•ле</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">пожалуй</l>
+
+      <stg>
+        <st Contlex="PCLE_">пожалуй</st>
+      </stg>
+
+      <stress>пожа•луй</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">пожалуйста</l>
+
+      <stg>
+        <st Contlex="Pmuu">пожалуйста1</st>
+      </stg>
+
+      <stress>пожа•луйста</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>ole hyvä, olkaa hyvä Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">порылий</l>
+
+      <stg>
+        <st Contlex="PCLE_">порылий</st>
+      </stg>
+
+      <stress>порылий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">просто</l>
+
+      <stg>
+        <st Contlex="PCLE_">просто</st>
+      </stg>
+
+      <stress>про•сто</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">псльоп</l>
+
+      <stg>
+        <st Contlex="Pmuu">псльоп</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>loiskis Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">пуйто</l>
+
+      <stg>
+        <st Contlex="PCLE_">пуйто</st>
+      </stg>
+
+      <stress>пу•йто</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">разве</l>
+
+      <stg>
+        <st Contlex="Pmuu">разве1</st>
+      </stg>
+
+      <stress>ра•зве</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(kielto +) -kO...sitten, (myöntö +) -hAn Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">райзе</l>
+
+      <stg>
+        <st Contlex="Pmuu">райзе</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(kielto +) -kO...sitten, (myöntö +) -hAn Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">раш</l>
+
+      <stg>
+        <st Contlex="Pmuu">раш</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(on) kunnossa, selvää Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">рушт</l>
+
+      <stg>
+        <st Contlex="Pmuu">рушт</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. kaatumisen äänestä) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">садак</l>
+
+      <stg>
+        <st Contlex="PCLE_">садак</st>
+      </stg>
+
+      <stress>сада•к</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">садыге</l>
+
+      <stg>
+        <st Contlex="PCLE_">садыге</st>
+      </stg>
+
+      <stress>са•дыге</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">содыки</l>
+
+      <stg>
+        <st Contlex="PCLE_">содыки</st>
+      </stg>
+
+      <stress>со•дыки</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">теве</l>
+
+      <stg>
+        <st Contlex="Pmuu">теве1</st>
+      </stg>
+
+      <stress>те•ве</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kas tämä/nämä; kas tässä, no niin Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">тевыс</l>
+
+      <stg>
+        <st Contlex="PCLE_">тевыс</st>
+      </stg>
+
+      <stress>те•выс</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">тек</l>
+
+      <stg>
+        <st Contlex="PCLE_">тек</st>
+      </stg>
+
+      <stress>тек</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">те•вак</l>
+
+      <stg>
+        <st Contlex="PCLE_">те•вак</st>
+      </stg>
+
+      <stress>те•ва•к</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">те•ве-теве</l>
+
+      <stg>
+        <st Contlex="PCLE_">те•ве-теве</st>
+      </stg>
+
+      <stress>те•ве-те•ве</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">то-то</l>
+
+      <stg>
+        <st Contlex="PCLE_">то-то</st>
+      </stg>
+
+      <stress>то-то</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">товат</l>
+
+      <stg>
+        <st Contlex="PCLE_">товат</st>
+      </stg>
+
+      <stress>това•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">товатат</l>
+
+      <stg>
+        <st Contlex="PCLE_">товатат</st>
+      </stg>
+
+      <stress>товата•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">товро</l>
+
+      <stg>
+        <st Contlex="PCLE_">товро</st>
+      </stg>
+
+      <stress>товро•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">тожо</l>
+
+      <stg>
+        <st Contlex="PCLE_">тожо</st>
+      </stg>
+
+      <stress>то•жо</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">туалгын</l>
+
+      <stg>
+        <st Contlex="PCLE_">туалгын</st>
+      </stg>
+
+      <stress>туа•лгын</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">тугалмо</l>
+
+      <stg>
+        <st Contlex="PCLE_">тугалмо</st>
+      </stg>
+
+      <stress>тугалмо</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">туге</l>
+
+      <stg>
+        <st Contlex="PCLE_">туге</st>
+      </stg>
+
+      <stress>туге•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">туде</l>
+
+      <stg>
+        <st Contlex="Pmuu">туде1</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-hAn, -pA, kyllä Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">тук-тук</l>
+
+      <stg>
+        <st Contlex="Pmuu">тук-тук</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kop kop Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">тулечла</l>
+
+      <stg>
+        <st Contlex="PCLE_">тулечла</st>
+      </stg>
+
+      <stress>туле•чла</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">тӧве</l>
+
+      <stg>
+        <st Contlex="Pmuu">тӧве1</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kas/katsos tuo/se/nuo/ne Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">тӧвӧ</l>
+
+      <stg>
+        <st Contlex="PCLE_">тӧвӧ</st>
+      </stg>
+
+      <stress>тӧ•вӧ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">ужат</l>
+
+      <stg>
+        <st Contlex="PCLE_">ужат</st>
+      </stg>
+
+      <stress>ужа•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">уке</l>
+
+      <stg>
+        <st Contlex="PCLE_">уке</st>
+      </stg>
+
+      <stress>у•ке</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">уна</l>
+
+      <stg>
+        <st Contlex="PCLE_">уна</st>
+      </stg>
+
+      <stress>уна•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">чай</l>
+
+      <stg>
+        <st Contlex="Pmuu">чай</st>
+      </stg>
+
+      <stress>чай</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kai, ehkä, luultavasti Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">чияк-чияк</l>
+
+      <stg>
+        <st Contlex="Pmuu">чияк-чияк</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>piip piip (- kananpoikasten ääntelyä) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">чолт-чолт</l>
+
+      <stg>
+        <st Contlex="Pmuu">чолт-чолт</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kil kil Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">чоштыр-чоштыр</l>
+
+      <stg>
+        <st Contlex="Pmuu">чоштыр-чоштыр</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. leikkaavan sirpin äänestä) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">чыдыр-чодыр</l>
+
+      <stg>
+        <st Contlex="Pmuu">чыдыр-чодыр</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. puun paukkeesta sen palaessa) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">чынак</l>
+
+      <stg>
+        <st Contlex="PCLE_">чынак</st>
+      </stg>
+
+      <stress>чы•нак</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">чынакак</l>
+
+      <stg>
+        <st Contlex="PCLE_">чынакак</st>
+      </stg>
+
+      <stress>чынака•к</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">чырык</l>
+
+      <stg>
+        <st Contlex="Pmuu">чырык</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. hämmennystä, sekaannusta) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">шеремет</l>
+
+      <stg>
+        <st Contlex="Pmuu">шеремет</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(ilm. sääliä, pahoittelua, tyytymättömyyttä) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">шол</l>
+
+      <stg>
+        <st Contlex="Pmuu">шол</st>
+      </stg>
+
+      <stress>шол</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-hAn Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">шолдырдок</l>
+
+      <stg>
+        <st Contlex="Pmuu">шолдырдок</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom.) naps(is), raks(is) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">шолт-шолт</l>
+
+      <stg>
+        <st Contlex="Pmuu">шолт-шолт</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kop kop Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">шуй-шуй</l>
+
+      <stg>
+        <st Contlex="Pmuu">шуй-шуй</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. sydämenlyöntien kiihtyminen) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">шыве-шове</l>
+
+      <stg>
+        <st Contlex="Pmuu">шыве-шове1</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. veden loiske) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">шыве-шыве</l>
+
+      <stg>
+        <st Contlex="Pmuu">шыве-шыве</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>hys hys (kuiskinta) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">шылт-шолт</l>
+
+      <stg>
+        <st Contlex="Pmuu">шылт-шолт</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(onom. lyönnin, koputuksen ääni) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">шырт-шорт</l>
+
+      <stg>
+        <st Contlex="Pmuu">шырт-шорт</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. ryske, rätinä) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">шыҥ-шыҥ</l>
+
+      <stg>
+        <st Contlex="Pmuu">шыҥ-шыҥ</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>S. temaS (tila) tulla täpätäyteen Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">эла</l>
+
+      <stg>
+        <st Contlex="PCLE_">эла</st>
+      </stg>
+
+      <stress>эла</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">эн</l>
+
+      <stg>
+        <st Contlex="Pmuu">эн</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>kaikkein (superlatiivin muodostava part.) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">эсмаса</l>
+
+      <stg>
+        <st Contlex="PCLE_">эсмаса</st>
+      </stg>
+
+      <stress>эсмаса•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">эсогыл</l>
+
+      <stg>
+        <st Contlex="PCLE_">эсогыл</st>
+      </stg>
+
+      <stress>эсо•гыл</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">юмашне</l>
+
+      <stg>
+        <st Contlex="Pmuu">юмашне1</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(puhek.) jumala varjelkoon Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">юмончылне</l>
+
+      <stg>
+        <st Contlex="Pmuu">юмончылне1</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(puhek.) totta tosiaan Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">юргылдым-юргылдым</l>
+
+      <stg>
+        <st Contlex="Pmuu">юргылдым-юргылдым</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. loikkaus) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">юрт</l>
+
+      <stg>
+        <st Contlex="Pmuu">юрт</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. säikähdys) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">юшт</l>
+
+      <stg>
+        <st Contlex="Pmuu">юшт</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(deskr. hyppy) Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="Pcle">я</l>
+
+      <stg>
+        <st Contlex="Pmuu">я</st>
+      </stg>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>-pA Pmuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">ӓлӓсӓ</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӓлӓсӓ</st>
+      </stg>
+
+      <stress>ӓлӓсӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
 </r>
