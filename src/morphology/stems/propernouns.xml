@@ -4175,4 +4175,29 @@
       </tg>
     </mg>
   </e>
+
+
+
+  <e order="1">
+    <lg>
+      <l pos="Prop">Йыван</l>
+
+      <stg>
+        <st Contlex="PROP_">Йыван</st>
+      </stg>
+
+      <stress>Йыва•н</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+
+
+
 </r>
