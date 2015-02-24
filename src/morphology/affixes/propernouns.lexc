@@ -82,7 +82,7 @@ LEXICON Deriv-RUS-ИН_SURMAL
 
 
 LEXICON PROP_КАЛ_SURMAL
-+N+Prop+Sem/Sur+Mal: N-ava_01 ;
++N+Prop+Sem/Sur+Sem/Mal: N-ava_01 ;
 
 LEXICON PROP_КУДО_SURFEM
 +N+Prop+Sem/Sur+Sem/Fem: N-ava_01 ;
@@ -127,24 +127,24 @@ LEXICON PROP_КУДО_SUR
 +N+Prop+Sem/Sur: N-ava_01 ;
 
 LEXICON PROP_КАЛ_MAL
-+N+Prop+Mal: N-ava_01 ;
++N+Prop+Sem/Mal: N-ava_01 ;
 
 LEXICON PROP_ЛАК_MAL
-+N+Prop+Mal: N-ava_01 ;
++N+Prop+Sem/Mal: N-ava_01 ;
 
 LEXICON PROP_КИТ_MAL
-+N+Prop+Mal: N-ava_01 ;
++N+Prop+Sem/Mal: N-ava_01 ;
 
 LEXICON PROP_ОШ_MAL
-+N+Prop+Mal: N-ava_01 ;
++N+Prop+Sem/Mal: N-ava_01 ;
 
 LEXICON PROP_КУДО_MAL
-+N+Prop+Mal: N-ava_01 ;
++N+Prop+Sem/Mal: N-ava_01 ;
 
 
 
 LEXICON PROP_ОШ_PATRMAL
-+N+Prop+Patr+Mal: N-ava_01 ;
++N+Prop+Patr+Sem/Mal: N-ava_01 ;
 
 LEXICON PROP_КУДО_PATRFEM
 +N+Prop+Patr+Sem/Fem: N-ava_01 ;
