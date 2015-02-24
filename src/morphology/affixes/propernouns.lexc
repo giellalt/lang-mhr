@@ -85,7 +85,7 @@ LEXICON PROP_КАЛ_SURMAL
 +N+Prop+Sem/Sur+Mal: N-ava_01 ;
 
 LEXICON PROP_КУДО_SURFEM
-+N+Prop+Sem/Sur+Fem: N-ava_01 ;
++N+Prop+Sem/Sur+Sem/Fem: N-ava_01 ;
 
 LEXICON CYRL-CONS_SUR
  PropSur-kal ;
@@ -147,22 +147,22 @@ LEXICON PROP_ОШ_PATRMAL
 +N+Prop+Patr+Mal: N-ava_01 ;
 
 LEXICON PROP_КУДО_PATRFEM
-+N+Prop+Patr+Fem: N-ava_01 ;
++N+Prop+Patr+Sem/Fem: N-ava_01 ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!
 !! Female Given names !!
 !!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON PROP_КАЛ_FEM
-+N+Prop+Fem: N-ava_01 ;
++N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_ЛАК_FEM
-+N+Prop+Fem: N-ava_01 ;
++N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_КИТ_FEM
-+N+Prop+Fem: N-ava_01 ;
++N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_ОШ_FEM
-+N+Prop+Fem: N-ava_01 ;
++N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_ТЕШТЕ_FEM
  PROP_ПАНГО_FEM ;
@@ -171,10 +171,10 @@ LEXICON PROP_ТИНГЕ_FEM
  PROP_ПАНГО_FEM ;
 
 LEXICON PROP_ПАНГО_FEM
-+N+Prop+Fem: N-ava_01 ;
++N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_КУДО_FEM
-+N+Prop+Fem: N-ava_01 ;
++N+Prop+Sem/Fem: N-ava_01 ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! PLACE NAMES FROM TEMPLATE !!
