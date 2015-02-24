@@ -82,16 +82,16 @@ LEXICON Deriv-RUS-ИН_SURMAL
 
 
 LEXICON PROP_КАЛ_SURMAL
-+N+Prop+Sur+Mal: N-ava_01 ;
++N+Prop+Sem/Sur+Mal: N-ava_01 ;
 
 LEXICON PROP_КУДО_SURFEM
-+N+Prop+Sur+Fem: N-ava_01 ;
++N+Prop+Sem/Sur+Fem: N-ava_01 ;
 
 LEXICON CYRL-CONS_SUR
  PropSur-kal ;
 
 LEXICON PropSur-kal
-+N+Prop+Sur: N-ava_01 ;
++N+Prop+Sem/Sur: N-ava_01 ;
 
 LEXICON CYRL-Т_SUR
  PropSur-kit ;
@@ -109,7 +109,7 @@ LEXICON CYRL-SIBILANT_SUR
  PropSur-osh ;
 
 LEXICON PropSur-osh
-+N+Prop+Sur: N-ava_01 ;
++N+Prop+Sem/Sur: N-ava_01 ;
 
 LEXICON CYRL-VOW_SUR
  PROP_КУДО_SUR ;
@@ -118,13 +118,13 @@ LEXICON CYRL-А_SUR
  PROP_КУДО_SUR ;
 
 LEXICON PROP_ОШ_SUR
-+N+Prop+Sur: N-ava_01 ;
++N+Prop+Sem/Sur: N-ava_01 ;
 
 LEXICON PROP_КИТ_SUR
-+N+Prop+Sur: N-ava_01 ;
++N+Prop+Sem/Sur: N-ava_01 ;
 
 LEXICON PROP_КУДО_SUR
-+N+Prop+Sur: N-ava_01 ;
++N+Prop+Sem/Sur: N-ava_01 ;
 
 LEXICON PROP_КАЛ_MAL
 +N+Prop+Mal: N-ava_01 ;
