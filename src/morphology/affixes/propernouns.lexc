@@ -180,16 +180,16 @@ LEXICON PROP_КУДО_FEM
 !! PLACE NAMES FROM TEMPLATE !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON PROP-PLC_КАЛ
-+N+Prop+Plc: N-ava_01 ;
++N+Prop+Sem/Plc: N-ava_01 ;
 
 LEXICON PROP-PLC_КИТ
-+N+Prop+Plc: N-ava_01 ;
++N+Prop+Sem/Plc: N-ava_01 ;
 
 LEXICON PROP-PLC_ОШ
-+N+Prop+Plc: N-ava_01 ;
++N+Prop+Sem/Plc: N-ava_01 ;
 
 LEXICON PROP-PLC_КУДО
-+N+Prop+Plc: N-ava_01 ;
++N+Prop+Sem/Plc: N-ava_01 ;
 
 !!
 
