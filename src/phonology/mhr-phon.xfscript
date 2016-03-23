@@ -40,20 +40,6 @@ define CRX  C | ы | %^V | ь | X ;
 
 !THE RULES. 
 
-!Trasliteration (solely for testing purposes)
-
-define TranslUp  a  <- а , b <- б, v <- в, g <- г, d <- д, e  <- е, Z <- ж, z <- з, i <- и, j <- й , 
-                         k <- к, l <- л,  m <- м, n <- н, N <- ҥ, o <- о, O <- ӧ, p <- п, r <- р, s <- с, 
-                         t <- т, u <- у, y <- ӱ, f <- ф, h <- х, c <- ц, T <- ч, S <- ш, H <- щ, %> <- ъ,
-                         Y <- ы, %< <- ь, E <- э, U <- ю , A <- я ;
-
-define TranslDown  а  -> a,  б -> b, в -> v, г -> g, д -> d, е  -> e, ж -> Z, з -> z, и -> i, й -> j ,
-                             к -> k, л -> l,  м -> m, н -> n, ҥ -> N, о -> o, ӧ -> O, п -> p, р -> r, с -> s, 
-                             т -> t, у -> u, ӱ -> y, ф -> f, х -> h, ц -> c, ч -> T, ш -> S, щ -> H, ъ -> %>,
-                             ы -> Y, ь -> %<, э -> E , ю -> U, я -> A ;
-
-!RULE Invis: rule for grammatical or technical symbols that should appear as empty strings on the surface:
-
 define Invis  X -> [ ] ;
 
 !MORFOFONEEMIEN ^E JA ^A KÄYTTÄYTYMINEN SUFFIKSIN SEURATESSA: KONSONANT-
@@ -160,22 +146,11 @@ MphVdeletion .o.
 AAintoA .o. EEintoE .o. 
 VlessAss .o.
 Invis;
-save stack mph.fst
-clear stack
-read lexc < mx.txt
-save stack mx.fst
-clear stack
-read regex  @"filters.fst" .o.  @"mx.fst"  .o.  @"mph.fst";
-save stack m.fst
-clear stack
-read regex TranslUp .o. @"m.fst" .o. TranslDown;
-save stack transl.fst
-!clear stack
-!read regex @"transl.fst".i;
-!save stack transli.fst
-!clear stack
-!read regex @"m.fst".i;
-!save stack mi.fst
 
-
-
+! save stack mph.fst
+! clear stack
+! read lexc < mx.txt
+! save stack mx.fst
+! clear stack
+! read regex  @"filters.fst" .o.  @"mx.fst"  .o.  @"mph.fst";
+! save stack m.fst
