@@ -63,6 +63,27 @@ endif # CAN_FOMA
 #################################################
 #### Add language-specific build rules here: ####
 
+# Hfst:
+generator-raw-gt-desc.hfst: generator-raw-gt-desc.tmp.hfst \
+					filters/remove-nom-strings.hfst
+	$(AM_V_RGX2FST)$(PRINTF) "\
+				@\"filters/remove-nom-strings.hfst\" \
+			.o. @\"$<\" \
+			;" \
+		| $(HFST_REGEXP2FST) $(HFST_FLAGS) -S --xerox-composition=ON \
+		> $@
+
+# Xerox & Foma:
+analyser-raw-gt-desc.%: analyser-raw-gt-desc.tmp.% \
+					filters/remove-nom-strings.%
+	$(AM_V_XFST_TOOL)$(PRINTF) "read regex \
+				@\"filters/remove-nom-strings.$*\" \
+			.o. @\"$<\" \
+			;\n\
+		 save stack $@\n\
+		 quit\n" | $(XFST_TOOL)
+
+
 ##################################################################
 #### END: Add local processing instructions ABOVE this line ######
 ##################################################################
