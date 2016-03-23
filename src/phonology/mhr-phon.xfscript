@@ -1,0 +1,239 @@
+!KEHITTÄMISMAHDOLLISUUKSIA
+!- voisi olla sääntö, joka tekee varbin analyysissa näytettävästä muodosta infinitiivin näköisen, ts. lisää -aS 
+!tai -AS. Tämän säännön teko on mutkikasta, koska -AS-variantin esiintyminen riippuu siitä, onko ^E:tä
+!ennen konsonantti vai vokaali: jos on vokaali, esim. ka^E, niin tulee -AS, muuten -aS.
+!--------------------------------------------------------------------------------------------------------------------------------------------------------
+!MORPHOPHONEMIC AND ORTHOGRAPHIC RULES FOR THE MARI FINITE STATE
+!MORPHOLOGY MODEL.
+
+!Yleistä: määriteltyjen muuttujien ja sääntöjen nimissä yleensä vain latinalaisia ei-skandinaavisia kirjaimia, 
+!säännöissä itsessään voi olla kyrillisia kirjaimia. 
+
+!DEFINITIONS OF THE CHARACTER SETS USED IN THE RULES
+
+define V   а | е | и | о | ӧ | у | ӱ | ы | э | я ;  !я on mukana, koska MphVdeletion-säännön toimiminen 
+                                                              !kajaS-tyyppisten (ka^E+jaS) edellyttää sitä. Toinen mah-
+                                                              !dollisuus olisi tehdä oma sääntö, jossa ^E+я=>я.
+
+define %^V   %^E | %^A ;
+
+define C    б | в | г | д | ж | з | й | к | л | м | н | 
+            ҥ | п | р | с | т| ф | х | ц | ч | ш | щ ;
+
+define Cvless  к | с | т | ф | х | ц | ч | ш | щ ;
+
+!Vowel sets for the vowel harmony rules:
+
+define Vo  о | у ;
+define Vy  ӧ | ӱ ;
+define Ve  а | е | и ;
+
+!Grammatical symbols and boundaries
+!$ on yleinen morfeemijunktuurimerkki; VEP osoittaa paikkaa, johon voi tulla epenteettinen vokaali.
+
+define X  %$ | VEP  ; 
+
+!Other definitions:
+
+!Vokaalisointurealisaatiossa tarvittava määritelmä:
+define CRX  C | ы | %^V | ь | X ; 
+
+!THE RULES. 
+
+!Trasliteration (solely for testing purposes)
+
+define TranslUp  a  <- а , b <- б, v <- в, g <- г, d <- д, e  <- е, Z <- ж, z <- з, i <- и, j <- й , 
+                         k <- к, l <- л,  m <- м, n <- н, N <- ҥ, o <- о, O <- ӧ, p <- п, r <- р, s <- с, 
+                         t <- т, u <- у, y <- ӱ, f <- ф, h <- х, c <- ц, T <- ч, S <- ш, H <- щ, %> <- ъ,
+                         Y <- ы, %< <- ь, E <- э, U <- ю , A <- я ;
+
+define TranslDown  а  -> a,  б -> b, в -> v, г -> g, д -> d, е  -> e, ж -> Z, з -> z, и -> i, й -> j ,
+                             к -> k, л -> l,  м -> m, н -> n, ҥ -> N, о -> o, ӧ -> O, п -> p, р -> r, с -> s, 
+                             т -> t, у -> u, ӱ -> y, ф -> f, х -> h, ц -> c, ч -> T, ш -> S, щ -> H, ъ -> %>,
+                             ы -> Y, ь -> %<, э -> E , ю -> U, я -> A ;
+
+!RULE Invis: rule for grammatical or technical symbols that should appear as empty strings on the surface:
+
+define Invis  X -> [ ] ;
+
+!MORFOFONEEMIEN ^E JA ^A KÄYTTÄYTYMINEN SUFFIKSIN SEURATESSA: KONSONANT-
+!TIALKUINEN/VOKAALIALKUINEN SUFFIKSI
+
+!RULE MphVintoRed: changes the morphophonemes ^E and ^A into ы when a suffix with an initial 
+!consonant follows, i.e. in word-internal position.
+
+define MphVintoRed  %^V -> ы || _ X+ C ;
+
+!RULE MphVdeletion: deletes the weak full vowel if a suffix beginning with a vowel is attached to the word.
+
+define MphVdeletion  %^V -> [ ] || _ X V ;
+
+!ASSIMILAATIOT:SOINNITTOMUUS/VOKAALISOINTU
+
+!RULE VlessAss: voicelessness assimilation
+
+define VlessAss  з -> с, ж -> ш || [Cvless | V д | з | ж ] X+ _ ;
+
+!(Vд is pronounced Vt, which motivates this part of the rule. Perhaps the V is superfluous.
+! The з and ж are more problematic because Oleg Sergeyev maintains that the word-final 
+!з and ж are pronounced voiced. See notes of the 24.2.05 discussion.)
+
+!RULE VharmO: changes the morphophoneme ^E into o when one of the vowels [о у]
+!precede in the word.
+
+define VharmO  %^E -> о || Vo CRX* _  [ .#. | %$ %- ] ;
+!define VharmO  %^E -> о || Vo CRX* _  (%VEP ?* %VEP) [ .#. | %- ] ;
+
+!RULE VharmY: changes the morphophoneme ^E into ӧ when one of the vowels [ӧ ӱ]
+!precede in the word.
+
+define VharmY  %^E -> ӧ || Vy CRX* _ [ .#. | %$ %- ] ;
+
+!RULE VharmE: changes the morphophoneme ^E into e when one of the vowels [а е и]
+!precede in the word.
+
+define VharmE  %^E -> е || Ve CRX* _ [ .#. | %$ %- ] ;
+
+!RULE VharmRed: changes the morphophoneme ^E into е when only consonants and ы vowels  
+!precede it in the word.
+
+define VharmRed  %^E -> е || .#. (C+) ы CRX* _ [ .#. | %$ %- ] ;
+
+!HEIKKO LOPPU-A
+
+!RULE MphAintoA: changes the morphophoneme ^A into а when when it is located at the end of the word.
+
+define MphAintoA  %^A -> а || _ [ .#. | %- ] ;
+
+!EPENTEESI JA SIIHEN KYTKEYTYVÄT SÄÄNNÖT
+
+!RULE Vepenthesis: changes the symbol VEP ( the mark of the potential epenthetic vowel) into ы if a suffix
+!consists of a single consonant or if the suffix begins with a consonant cluster.
+!The symbol VEP is a part of the lexicon entry for the suffix.
+!Pitäisikö jälkeen tulevista konsonanteista tiputtaa Z pois VZepenthesis-säännön takia? Ilmeisesti ei, koska
+!oikeat kontekstit [C (X) | C C] ja ж [е | ^E] eivät mene päällekkäin. 
+!Where is C%$ used? (A comment 2.5.05 not remembering the motivation.)
+
+define Vepenthesis  VEP -> ы || C X _ [C .#. | C %$ | C C] ; 
+
+!RULE VZepenthesis: changes the symbol VEP ( the mark of the potential epenthetic vowel) into ы if a suffix
+!consists of the consonant  ж or the consonant ж followed by the morphophoneme ^E. (Alla olevassa säännössä
+! ei kyllä vielä ole tätä pelkän ж:n mahdollisuutta. Huomio tehty 30.3.05.) Sääntö on valinnainen, 
+!koska välivokaali voi jäädä lisäämättä, jossa tapauksessa soinnittomuusassimilaation pitäisi toimia. The 
+!symbol VEP is a part of the lexicon entry for the suffix.  (The applicability of this rule ought to be
+!investigated more thoroughly.)
+
+define VZepenthesis  VEP (->) ы || ш X _ ж %^E ; 
+
+
+!ERÄIDEN KAHDENTUMIEN ESTÄMINEN
+
+!RULE ShDeletion: merges the stem-final and the suffix-initial ш.
+!Sääntöjen sovellusjärjestyksen pitää olla ShDeletion .o. Vepenthesis. Sääntö tuottaa kaksi
+!varianttia, joista (sääntöä sovellettu) tulee välivokaaliton ja toisesta (sääntöä ei sovellettu)
+!välivokaalillinen variantti. (Tarkista, tarvitaanko tällaista sääntöä? 30.3.05.) Tätä sääntöä
+!ei käytetän nykyaiheessa 2.5.05. Sääntö ei ole yleinen. Liittyy vain tiettyyn tapaukseen eli
+!VS-loppuisten sanojen illatiiviin ja inessiiviin.
+
+!define ShDeletion ш (->) [ ] || V _ X+ ш  ;
+
+!RULE AAintoA: prevents the formation of a sequence of two а:s.
+
+define AAintoA  а -> [ ] || _ X а ;
+
+!RULE EEintoE: prevents the formation of a sequence of two е:s.
+
+define EEintoE  е -> [ ] || _ X е ;
+
+
+!FILTERS OR RULES WITH SIMILAR EFFECT
+
+!NOMINATIIVISUODATIN. Seuraava poistaa +Nom:n ja +Ill:n, jos sanassa on muihin sijoihin 
+!liittyviä tageja.
+
+define CxObl  %+Gen  |  %+Acc  |  %+Com  |  %+Ill  |  %+Ine   |  %+Lat   |  %+Dat  |  %+Mod ; 
+
+define NomDeletion  [ ] <- %+Nom || _ ?* CxObl ;
+
+define IllDeletion  [ ] <- %+Ill || _ ?* CxObl ;
+
+!POSSESSIIVISUFFIKSISUODATIN.
+!Suodattaa pois moninkertaiset possessiivisuffiksit. 
+!Huom! tätä modifioitava myöh. niin, 
+!että definiittistävät px:t tulevat mahdollisiksi muita pxja sisältävän sanan jälkeen. Ehkä 
+!tehtävä omat leksikot näille possessiivisuffikseille.
+
+define Px  %+PxSg1  |  %+PxSg2  |  %+PxSg3  |  %+PxPl1  |  %+PxPl2  |  %+PxPl3 ;
+
+define PxFilter ~$[ Px ?* Px ] ;
+
+!OBLIIKVISIJAPÄÄTESUODATIN.
+!Suodattaa pois moninkertaiset sijapäätteet. Huom1: Koskee muita kuin nominatiivia, jonka leksikko
+!panee alustavasti kaikkiin nomineihin ja jonka tarpeettomat esiintymät poistetaan
+!NomDeletion-säännöllä.  Huom2: filtteriä modifioitava myöhemmin, koska
+!marissa jossain määrin esiintyy moninikertaista sijataivutusta. 
+
+define CxOblFilter ~$[ CxObl ?* CxObl ] ; 
+
+!The following three filters are due to the treatment of vlak and SamYT plural endings as
+!(almost) ordinary words (see the continuations in the lexicon Pl-sh_w).
+!MONIKKOSUODATIN.
+!Suodattaa pois moninkertaiset monikot
+
+define Plur  %+Pls | %+Plw | %+Pll | %+Plm ;
+
+define PlFilter ~$[Plur ?* Plur] ;
+
+!SIJA-MONIKKO-SUODATIN
+!Suodattaa pois yhdistelmät, joissa Plur seuraa Cx:ää. Koska +Nom tulee aina automaatti-
+!sesti ennen monikon tunnusta, säännössä ei tarvitse käsitellä nominatiivia.
+
+define CxPlFilter ~$[ CxObl ?* Plur ] ;
+ 
+!RAK-KOMPARATIIVISUODATIN
+!Suodattaa pois moninkertaisia rak-päätteitä sisältävät muodot
+
+define CmpFilter ~$[%+Cmp ?* %+Cmp] ;
+
+!-----------------------------------------------------------------------------------------------------------------------------
+set flag-is-epsilon ON   
+clear stack
+read regex 
+!ShDeletion .o. 
+Vepenthesis .o. 
+VZepenthesis .o.
+MphVintoRed .o. 
+VharmO .o. VharmY .o. VharmE .o. VharmRed .o. 
+MphAintoA .o. 
+MphVdeletion .o. 
+AAintoA .o. EEintoE .o. 
+VlessAss .o.
+Invis;
+save stack mph.fst
+clear stack
+read regex  
+NomDeletion .o. 
+IllDeletion .o. 
+CxOblFilter .o. 
+PxFilter .o. 
+PlFilter .o. 
+CxPlFilter  .o. CmpFilter;
+save stack filters.fst
+clear stack
+read lexc < mx.txt
+save stack mx.fst
+clear stack
+read regex  @"filters.fst" .o.  @"mx.fst"  .o.  @"mph.fst";
+save stack m.fst
+clear stack
+read regex TranslUp .o. @"m.fst" .o. TranslDown;
+save stack transl.fst
+!clear stack
+!read regex @"transl.fst".i;
+!save stack transli.fst
+!clear stack
+!read regex @"m.fst".i;
+!save stack mi.fst
+
+
+
