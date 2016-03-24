@@ -22,19 +22,28 @@ HFST_LEXC_LOCAL_FLAGS=
 GT_LEXC_ROOT=root.lexc
 
 # Set this to the names of all regular lexc source files:
-GT_LEXC_SRCS_L1_L2=stems/mari-lexc.txt
-
-#			 affixes/adjectives.lexc  \
-#			 affixes/nouns.lexc       \
-#			 affixes/propernouns.lexc \
-#			 affixes/verbs.lexc       \
-#			 stems/adjectives.lexc    \
-#			 stems/nouns.lexc         \
-#			 stems/numerals.lexc      \
-#			 stems/prefixes.lexc      \
-#			 stems/pronouns.lexc      \
-#			 stems/punctuation.lexc   \
-#			 stems/verbs.lexc
+GT_LEXC_SRCS_L1_L2=\
+		 affixes/adjectives.lexc    \
+		 affixes/adverbs.lexc	    \
+		 affixes/nouns.lexc		    \
+		 affixes/postpositions.lexc \
+		 affixes/pronouns.lexc	    \
+		 affixes/propernouns.lexc   \
+		 affixes/quantifiers.lexc   \
+		 affixes/verbs.lexc		    \
+		 stems/adjectives.lexc	    \
+		 stems/adverbs.lexc		    \
+		 stems/conjunctions.lexc    \
+		 stems/interjections.lexc   \
+		 stems/nouns.lexc		    \
+		 stems/particles.lexc	    \
+		 stems/postpositions.lexc   \
+		 stems/pronouns.lexc	    \
+		 stems/propernouns.lexc	    \
+		 stems/punctuation.lexc	    \
+		 stems/quantifiers.lexc	    \
+		 stems/subjunctions.lexc    \
+		 stems/verbs.lexc		    
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
 # that differ between the regular L1 and the L2 analysers below, in L1 and

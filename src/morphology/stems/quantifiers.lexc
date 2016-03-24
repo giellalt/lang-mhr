@@ -1,174 +1,216 @@
 
-LEXICON quantifiers
 
-амиян:амиян QNT_  "" ;
-вес:вес KvO  "toinen KvO" ;
-весе:весе1 KvO  "toinen KvO" ;
-визымше:визымше1 KvO  "viides KvO" ;
-визыт:визыт KvK  "viisi KvK" ;
-витле:витле1 KvK  "viisikymmentä KvK" ;
-витлымше:витлымше1 KvO  "viideskymmenes KvO" ;
-вич:вич KvK  "viisi KvK" ;
-вичшӱде:вичшӱде1 KvK  "viisisataa KvK" ;
-вичшӱдӧ:вичшӱдӧ QNT_  "" ;
-ик:ик KvK  "yksi KvK" ;
-ик-кок:ик-кок QNT_  "" ;
-икте:икте1 KvK  "yksi KvK" ;
-икшӱдӧ:икшӱдӧ QNT_  "" ;
-икымше:икымше1 KvO  "ensimmäinen KvO" ;
-индеш:индеш KvO  "yhdeksän KvO" ;
-индеше:индеше1 KvO  "yhdeksän KvO" ;
-индешле:индешле QNT_  "" ;
-индешлу:индешлу KvO  "yhdeksänkymmentä KvO" ;
-индешлуымше:индешлуымше1 KvK  "yhdeksäskymmenes KvK" ;
-индешлымше:индешлымше QNT_  "" ;
-индешшӱде:индешшӱде1 KvO  "yhdeksänsataa KvO" ;
-индешшӱдымше:индешшӱдымше1 KvK  "yhdeksässadas KvK" ;
-индешшӱдымшӧ:индешшӱдымшӧ QNT_  "" ;
-индешшӱдӧ:индешшӱдӧ QNT_  "" ;
-индешымше:индешымше1 KvK  "yhdeksäs KvK" ;
-камысыр:камысыр QNT_  "" ;
-кандаш:кандаш KvK  "kahdeksan KvK" ;
-кандаше:кандаше1 KvK  "kahdeksan KvK" ;
-кандашле:кандашле QNT_  "" ;
-кандашлу:кандашлу KvK  "kahdeksankymmentä KvK" ;
-кандашлымше:кандашлымше1 KvO  "kahdeksaskymmenes KvO" ;
-кандашшыдмше:кандашшыдмше1 KvO  "kahdeksassadas KvO" ;
-кандашшӱде:кандашшӱде1 KvK  "kahdeksansataa KvK" ;
-кандашшӱдымшӧ:кандашшӱдымшӧ QNT_  "" ;
-кандашшӱдӧ:кандашшӱдӧ QNT_  "" ;
-кандашымше:кандашымше QNT_  "" ;
-кандаымше:кандаымше1 KvO  "kahdeksas KvO" ;
-кок:кок KvK  "kaksi KvK" ;
-кок-кум:кок-кум QNT_  "" ;
-коктыт:коктыт QNT_  "" ;
-кокшӱдӧ:кокшӱдӧ QNT_  "" ;
-кокымше:кокымше1 KvO  "toinen KvO" ;
-кокымшо:кокымшо QNT_  "" ;
-кокыт:кокыт KvK  "kaksi KvK" ;
-коле:коле1 KvK  "kaksikymmentä KvK" ;
-коло:коло QNT_  "" ;
-колымшо:колымшо QNT_  "" ;
-ко•ло-кумло:ко•ло-кумло QNT_  "" ;
-куд:куд KvK  "kuusi KvK" ;
-куд-шым:куд-шым QNT_  "" ;
-кудле:кудле1 KvK  "kuusikymmentä KvK" ;
-кудло:кудло QNT_  "" ;
-кудлымше:кудлымше1 KvO  "kuudeskymmenes KvO" ;
-кудлымшо:кудлымшо QNT_  "" ;
-кудшӱде:кудшӱде1 KvK  "kuusisataa KvK" ;
-кудшӱдымше:кудшӱдымше1 KvO  "kuudessadas KvO" ;
-кудшӱдымшӧ:кудшӱдымшӧ QNT_  "" ;
-кудшӱдӧ:кудшӱдӧ QNT_  "" ;
-кудымше:кудымше1 KvO  "kuudes KvO" ;
-кудымшо:кудымшо QNT_  "" ;
-кудыт:кудыт KvK  "kuusi KvK" ;
-кум:кум KvK  "kolme KvK" ;
-кум-ныл:кум-ныл QNT_  "" ;
-кумле:кумле1 KvK  "kolmekymmentä KvK" ;
-кумло:кумло QNT_  "" ;
-кумлымше:кумлымше1 KvO  "kolmaskymmenes KvO" ;
-кумлымшо:кумлымшо QNT_  "" ;
-кумше:кумше1 KvO  "kolmas KvO" ;
-кумшо:кумшо QNT_  "" ;
-кумшӱде:кумшӱде1 KvK  "kolmesataa KvK" ;
-кумшӱдымше:кумшӱдымше1 KvO  "kolmassadas KvO" ;
-кумшӱдымшӧ:кумшӱдымшӧ QNT_  "" ;
-кумшӱдӧ:кумшӱдӧ QNT_  "" ;
-кумыт:кумыт KvK  "kolme KvK" ;
-латвизымше:латвизымше1 KvO  "viidestoista KvO" ;
-латвизыт:латвизыт KvK  "viisitoista KvK" ;
-латвич:латвич KvK  "viisitoista KvK" ;
-латик:латик KvK  "yksitoista KvK" ;
-латикте:латикте1 KvK  "yksitoista KvK" ;
-латиктыт:латиктыт KvK  "yksitoista KvK" ;
-латикымше:латикымше1 KvO  "yhdestoista KvO" ;
-латиндеш:латиндеш KvK  "yhdeksäntoista KvK" ;
-латиндеше:латиндеше1 KvK  "yhdeksäntoista KvK" ;
-латиндешымше:латиндешымше1 KvO  "yhdeksästoista KvO" ;
-латкандаш:латкандаш KvK  "kahdeksantoista KvK" ;
-латкандаше:латкандаше1 KvK  "kahdeksantoista KvK" ;
-латкандашымше:латкандашымше1 KvO  "kahdeksastoista KvO" ;
-латкок:латкок KvK  "kaksitoista KvK" ;
-латкоктыт:латкоктыт QNT_  "" ;
-латкокымше:латкокымше1 KvO  "kahdestoista KvO" ;
-латкокымшо:латкокымшо QNT_  "" ;
-латкокыт:латкокыт KvK  "kaksitoista KvK" ;
-латкуд:латкуд KvK  "kuusitoista KvK" ;
-латкудымше:латкудымше1 KvO  "kuudestoista KvO" ;
-латкудымшо:латкудымшо QNT_  "" ;
-латкудыт:латкудыт KvK  "kuusitoista KvK" ;
-латкум:латкум KvK  "kolmetoista KvK" ;
-латкумше:латкумше1 KvO  "kolmastoista KvO" ;
-латкумшо:латкумшо QNT_  "" ;
-латкумыт:латкумыт KvK  "kolmetoista KvK" ;
-латныл:латныл KvK  "neljätoista KvK" ;
-латнылымше:латнылымше1 KvO  "neljästoista KvO" ;
-латнылыт:латнылыт KvK  "neljätoista KvK" ;
-латшым:латшым KvK  "seitsemäntoista KvK" ;
-латшымше:латшымше1 KvO  "seitsemästoista KvO" ;
-латшымыт:латшымыт KvK  "seitsemäntoista KvK" ;
-лу:лу KvK  "kymmenen KvK" ;
-лучке:лучке1 KvK  "viisitoista KvK" ;
-лучко:лучко QNT_  "" ;
-лучкымше:лучкымше1 KvO  "viidestoista KvO" ;
-лучкымшо:лучкымшо QNT_  "" ;
-луымше:луымше1 KvO  "kymmenes KvO" ;
-луымшо:луымшо QNT_  "" ;
-лу•-лучко:лу•-лучко QNT_  "" ;
-миллиард:миллиард KvK  "miljardi KvK" ;
-миллиардымше:миллиардымше QNT_  "" ;
-миллион:миллион KvK  "miljoona KvK" ;
-миллионымшо:миллионымшо QNT_  "" ;
-ноль:ноль KvK  "nolla KvK" ;
-ныл:ныл KvK  "neljä KvK" ;
-нылле:нылле1 KvK  "neljäkymmentä KvK" ;
-ныллымше:ныллымше1 KvK  "neljäkymmentä KvK" ;
-нылшӱде:нылшӱде1 KvK  "neljäsataa KvK" ;
-нылшӱдымше:нылшӱдымше1 KvO  "neljässadas KvO" ;
-нылшӱдымшӧ:нылшӱдымшӧ QNT_  "" ;
-нылшӱдӧ:нылшӱдӧ QNT_  "" ;
-нылымше:нылымше1 KvO  "neljäs KvO" ;
-нылымше:нылымше1 KvMurt  "neljännes KvMurt" ;
-нылыт:нылыт KvK  "neljä KvK" ;
-первый:первый KvO  "ensimmäinen KvO" ;
-тесте:тесте Kv-a/e  "kymmenen KvK" ;
-триллион:триллион KvK  "triljoona KvK" ;
-тӱжем:тӱжем KvK  "tuhat KvK" ;
-тӱжемше:тӱжемше1 KvO  "tuhannes KvO" ;
-шым:шым KvK  "seitsemän KvK" ;
-шымле:шымле QNT_  "" ;
-шымлу:шымлу KvK  "seitsemänkymmentä KvK" ;
-шымлуымше:шымлуымше1 KvO  "seitsemäskymmenes KvO" ;
-шымлымше:шымлымше QNT_  "" ;
-шымше:шымше1 KvO  "seitsemäs KvO" ;
-шымшӱде:шымшӱде1 KvK  "seitsemänsataa KvK" ;
-шымшӱдымше:шымшӱдымше1 KvO  "seitsemässadas KvO" ;
-шымшӱдымшӧ:шымшӱдымшӧ QNT_  "" ;
-шымшӱдӧ:шымшӱдӧ QNT_  "" ;
-шымыт:шымыт KvK  "seitsemän KvK" ;
-шӱде:шӱде1 KvK  "sata KvK" ;
-шӱдымше:шӱдымше1 KvO  "sadas KvO" ;
-шӱдымшӧ:шӱдымшӧ QNT_  "" ;
-шӱдӧ:шӱдӧ QNT_  "" ;
-визытын:визытын KvKoll  "viidestään KvKoll" ;
-индешын:индешын KvKoll  "yhdeksästään KvKoll" ;
-кандашын:кандашын KvKoll  "kahdeksastaan KvKoll" ;
-коктын:коктын KvKoll  "kahden (kesken) KvKoll" ;
-кудытын:кудытын KvKoll  "kuudestaan KvKoll" ;
-кумше:кумше1 KvMurt  "kolmasosa KvMurt" ;
-кумынек:кумынек KvKoll  "kaikki kolme KvKoll" ;
-луын:луын KvKoll  "kymmenestään KvKoll" ;
-нылынек:нылынек KvK  "kaikki neljä KvK" ;
-нылытын:нылытын KvKoll  "neljästään KvKoll" ;
-осьмушка:осьмушка KvMurt  "kahdeksannes KvMurt" ;
-пеле:пеле1 KvMurt  "puoli KvMurt" ;
-тестелен:тестелен KvKoll  "kymmenittäin KvKoll" ;
-тӱжемле:тӱжемле1 KvKoll  "tuhansittain KvKoll" ;
-чырык:чырык KvMurt  "neljännes KvMurt" ;
-шагал:шагал KvInd  "vähän KvInd" ;
-шуке:шуке1 KvInd  "paljon; monet; kauan KvInd" ;
-шуко-шагал:шуко-шагал KvInd  "ei paljoa eikä vähää KvInd" ;
-шукын:шукын KvKoll  "paljon KvKoll" ;
-шымыте:шымыте1 KvKoll  "seitsemistään, seitsenkertaisesti KvKoll" ;
-шымытын:шымытын KvKoll  "seitsemistään KvKoll" ;
+!LEXICON Quantifiers
+!    StemQu ;
+!    StemQuUndecl ;
+
+
+!Quantifiers
+
+!LEXICON StemQu     !The long forms that get inflectional endings    
+!s1omak Qu	;
+
+!LEXICON StemQuUndecl   !Undeclinable short forms     
+!s1omak QuUndecl	;
+
+
+
+ 
+LEXICON Numerals_and_quantifiers
+амиян:амиян   Kv ;  ! "(amiAn) $nu" 
+вес:вес   Kv ;  ! "toinen KvO" 
+весе:вес%^E   Kv ;  ! "toinen KvO" 
+визымше:визымше   Kv ;  ! "(vi˙zYmSe) $nu" 
+визымше:визымш%^E   Kv ;  ! "viides KvO" 
+визыт:визыт   Kv ;  ! "viisi KvK" 
+визытын:визытын   Kv ;  ! "viidestään KvKoll" 
+витле:витле   Kv ;  ! "(vi˙tle) $nu" 
+витле:витл%^E   Kv ;  ! "viisikymmentä KvK" 
+витлымше:витлымше   Kv ;  ! "(vi˙tlYmSe) $nu" 
+витлымше:витлымш%^E   Kv ;  ! "viideskymmenes KvO" 
+вич:вич   Kv ;  ! "viisi KvK" 
+вичшуде:вичшуд%^E   Kv ;  ! "viisisataa KvK" 
+вичшудӧ:вичшудӧ   Kv ;  ! "(vi˙CSydO) $nu" 
+ик:ик   Kv ;  ! "yksi KvK" 
+икте:икте   Kv ;  ! "(i˙kte) $nu/$pr" 
+икте:икт%^E   Kv ;  ! "yksi KvK" 
+икшудӧ:икшудӧ   Kv ;  ! "(i˙kSydO) $nu" 
+икымше:икымше   Kv ;  ! "(i˙kYmSe) $nu" 
+икымше:икымш%^E   Kv ;  ! "ensimmäinen KvO" 
+индеш:индеш   Kv ;  ! "yhdeksän KvO" 
+индеше:индеше   Kv ;  ! "(inde˙Se) $nu" 
+индеше:индеш%^E   Kv ;  ! "yhdeksän KvO" 
+индешле:индешле   Kv ;  ! "(inde˙Sle) $nu" 
+индешлу:индешлу   Kv ;  ! "yhdeksänkymmentä KvO" 
+индешлуымше:индешлуымш%^E   Kv ;  ! "yhdeksäskymmenes KvK" 
+индешлымше:индешлымше   Kv ;  ! "(inde˙SlYmSe) $nu" 
+индешшуде:индешшуд%^E   Kv ;  ! "yhdeksänsataa KvO" 
+индешшудӧ:индешшудӧ   Kv ;  ! "(inde˙SSydO) $nu" 
+индешшудымше:индешшудымш%^E   Kv ;  ! "yhdeksässadas KvK" 
+индешшудымшӧ:индешшудымшӧ   Kv ;  ! "(inde˙SSydYmSO) $nu" 
+индешымше:индешымше   Kv ;  ! "(inde˙SYmSe) $nu" 
+индешымше:индешымш%^E   Kv ;  ! "yhdeksäs KvK" 
+индешын:индешын   Kv ;  ! "yhdeksästään KvKoll" 
+камысыр:камысыр   Kv ;  ! "(kamYsYr) $nu" 
+кандаш:кандаш   Kv ;  ! "kahdeksan KvK" 
+кандаше:кандаше   Kv ;  ! "(kanda˙Se) $nu" 
+кандаше:кандаш%^E   Kv ;  ! "kahdeksan KvK" 
+кандашле:кандашле   Kv ;  ! "(kanda˙Sle) $nu" 
+кандашлу:кандашлу   Kv ;  ! "kahdeksankymmentä KvK" 
+кандашлуымше:кандашлуымш%^E   Kv ;  ! "kahdeksaskymmenes KvO" 
+кандашлымше:кандашлымше   Kv ;  ! "(kanda˙SlYmSe) $nu" 
+кандашшуде:кандашшуд%^E   Kv ;  ! "kahdeksansataa KvK" 
+кандашшудӧ:кандашшудӧ   Kv ;  ! "(kandaSSy˙dO) $nu" 
+кандашшудымше:кандашшудымш%^E   Kv ;  ! "kahdeksassadas KvO" 
+кандашшудымшӧ:кандашшудымшӧ   Kv ;  ! "(kandaSSy˙dYmSO) $nu" 
+кандашымше:кандашымше   Kv ;  ! "(kanda˙SYmSe) $nu" 
+кандашымше:кандашымш%^E   Kv ;  ! "kahdeksas KvO" 
+кандашын:кандашын   Kv ;  ! "kahdeksastaan KvKoll" 
+кок:кок   Kv ;  ! "kaksi KvK" 
+кок-кум:кок-кум   Kv ;  ! "(kok-kum) $nu" 
+коктын:коктын   Kv ;  ! "kahden (kesken) KvKoll" 
+коктыт:коктыт   Kv ;  ! "kaksi KvK" 
+кокшудӧ:кокшудӧ   Kv ;  ! "(kokSydO) $nu" 
+кокымше:кокымш%^E   Kv ;  ! "toinen KvO" 
+кокымшо:кокымшо   Kv ;  ! "(ko˙kYmSo) $nu" 
+кокыт:кокыт   Kv ;  ! "kaksi KvK" 
+коле:кол%^E   Kv ;  ! "kaksikymmentä KvK" 
+коло:коло   Kv ;  ! "(ko˙lo) $nu" 
+коло-кумло:коло-кумло   Kv ;  ! "(ko˙lo-ku˙mlo) $nu" 
+колымшо:колымшо   Kv ;  ! "(ko˙lYmSo) $nu" 
+куд:куд   Kv ;  ! "kuusi KvK" 
+кудле:кудл%^E   Kv ;  ! "kuusikymmentä KvK" 
+кудло:кудло   Kv ;  ! "(ku˙dlo) $nu" 
+кудлымше:кудлымш%^E   Kv ;  ! "kuudeskymmenes KvO" 
+кудлымшо:кудлымшо   Kv ;  ! "(ku˙dlYmSo) $nu" 
+кудшуде:кудшуд%^E   Kv ;  ! "kuusisataa KvK" 
+кудшудӧ:кудшудӧ   Kv ;  ! "(ku˙dSydO) $nu" 
+кудшудымше:кудшудымш%^E   Kv ;  ! "kuudessadas KvO" 
+кудшудымшӧ:кудшудымшӧ   Kv ;  ! "(ku˙dSydYmSO) $nu" 
+куд-шым:куд-шым   Kv ;  ! "(kud-SYm) $nu" 
+кудымше:кудымш%^E   Kv ;  ! "kuudes KvO" 
+кудымшо:кудымшо   Kv ;  ! "(ku˙dYmSo) $nu" 
+кудыт:кудыт   Kv ;  ! "kuusi KvK" 
+кудытын:кудытын   Kv ;  ! "kuudestaan KvKoll" 
+кум:кум   Kv ;  ! "kolme KvK" 
+кумле:кумл%^E   Kv ;  ! "kolmekymmentä KvK" 
+кумло:кумло   Kv ;  ! "(ku˙mlo) $nu" 
+кумлымше:кумлымш%^E   Kv ;  ! "kolmaskymmenes KvO" 
+кумлымшо:кумлымшо   Kv ;  ! "(ku˙mlYmSo) $nu" 
+кум-ныл:кум-ныл   Kv ;  ! "(kum-nYl) $nu" 
+кумше:кумш%^E   Kv ;  ! "kolmas KvO" 
+кумше:кумш%^E   Kv ;  ! "kolmasosa KvMurt" 
+кумшо:кумшо   Kv ;  ! "(ku˙mSo) $nu" 
+кумшуде:кумшуд%^E   Kv ;  ! "kolmesataa KvK" 
+кумшудӧ:кумшудӧ   Kv ;  ! "(ku˙mSydO) $nu" 
+кумшудымше:кумшудымш%^E   Kv ;  ! "kolmassadas KvO" 
+кумшудымшӧ:кумшудымшӧ   Kv ;  ! "(ku˙mSydYmSO) $nu" 
+кумынек:кумынек   Kv ;  ! "kaikki kolme KvKoll" 
+кумыт:кумыт   Kv ;  ! "kolme KvK" 
+латвизымше:латвизымше   Kv ;  ! "(latvi˙zYmSe) $nu" 
+латвизымше:латвизымш%^E   Kv ;  ! "viidestoista KvO" 
+латвизыт:латвизыт   Kv ;  ! "viisitoista KvK" 
+латвич:латвич   Kv ;  ! "viisitoista KvK" 
+латик:латик   Kv ;  ! "yksitoista KvK" 
+латикте:латикте   Kv ;  ! "(lati˙kte) $nu" 
+латикте:латикт%^E   Kv ;  ! "yksitoista KvK" 
+латиктыт:латиктыт   Kv ;  ! "yksitoista KvK" 
+латикымше:латикымше   Kv ;  ! "(lati˙kYmSe) $nu" 
+латикымше:латикымш%^E   Kv ;  ! "yhdestoista KvO" 
+латиндеш:латиндеш   Kv ;  ! "yhdeksäntoista KvK" 
+латиндеше:латиндеше   Kv ;  ! "(latinde˙Se) $nu" 
+латиндеше:латиндеш%^E   Kv ;  ! "yhdeksäntoista KvK" 
+латиндешымше:латиндешымше   Kv ;  ! "(latinde˙SYmSe) $nu" 
+латиндешымше:латиндешымш%^E   Kv ;  ! "yhdeksästoista KvO" 
+латкандаш:латкандаш   Kv ;  ! "kahdeksantoista KvK" 
+латкандаше:латкандаше   Kv ;  ! "(latkanda˙Se) $nu" 
+латкандаше:латкандаш%^E   Kv ;  ! "kahdeksantoista KvK" 
+латкандашымше:латкандашымше   Kv ;  ! "(latkanda˙SYmSe) $nu" 
+латкандашымше:латкандашымш%^E   Kv ;  ! "kahdeksastoista KvO" 
+латкок:латкок   Kv ;  ! "kaksitoista KvK" 
+латкоктыт:латкоктыт   Kv ;  ! "kaksitoista KvK" 
+латкокымше:латкокымш%^E   Kv ;  ! "kahdestoista KvO" 
+латкокымшо:латкокымшо   Kv ;  ! "(latko˙kYmSo) $nu" 
+латкокыт:латкокыт   Kv ;  ! "kaksitoista KvK" 
+латкуд:латкуд   Kv ;  ! "kuusitoista KvK" 
+латкудымше:латкудымш%^E   Kv ;  ! "kuudestoista KvO" 
+латкудымшо:латкудымшо   Kv ;  ! "(latku˙dYmSo) $nu" 
+латкудыт:латкудыт   Kv ;  ! "kuusitoista KvK" 
+латкум:латкум   Kv ;  ! "kolmetoista KvK" 
+латкумше:латкумш%^E   Kv ;  ! "kolmastoista KvO" 
+латкумшо:латкумшо   Kv ;  ! "(latku˙mSo) $nu" 
+латкумыт:латкумыт   Kv ;  ! "kolmetoista KvK" 
+латныл:латныл   Kv ;  ! "neljätoista KvK" 
+латнылымше:латнылымше   Kv ;  ! "(latnY˙lYmSe) $nu" 
+латнылымше:латнылымш%^E   Kv ;  ! "neljästoista KvO" 
+латнылыт:латнылыт   Kv ;  ! "neljätoista KvK" 
+латшым:латшым   Kv ;  ! "seitsemäntoista KvK" 
+латшымше:латшымше   Kv ;  ! "(latSY˙mSe) $nu" 
+латшымше:латшымш%^E   Kv ;  ! "seitsemästoista KvO" 
+латшымыт:латшымыт   Kv ;  ! "seitsemäntoista KvK" 
+лу:лу   Kv ;  ! "kymmenen KvK" 
+лу-лучко:лу-лучко   Kv ;  ! "(lu˙-lu˙Cko) $nu" 
+лучке:лучк%^E   Kv ;  ! "viisitoista KvK" 
+лучко:лучко   Kv ;  ! "(lu˙Cko) $nu" 
+лучкымше:лучкымш%^E   Kv ;  ! "viidestoista KvO" 
+лучкымшо:лучкымшо   Kv ;  ! "(lu˙CkYmSo) $nu" 
+луымше:луымш%^E   Kv ;  ! "kymmenes KvO" 
+луымшо:луымшо   Kv ;  ! "(lu˙YmSo) $nu" 
+луын:луын   Kv ;  ! "kymmenestään KvKoll" 
+миллиард:миллиард   Kv ;  ! "miljardi KvK" 
+миллиардымше:миллиардымше   Kv ;  ! "(millia˙rdYmSe) $nu" 
+миллион:миллион   Kv ;  ! "miljoona KvK" 
+миллионымшо:миллионымшо   Kv ;  ! "(millio˙nYmSo) $nu" 
+ноль:ноль   Kv ;  ! "nolla KvK" 
+ныл:ныл   Kv ;  ! "neljä KvK" 
+нылле:нылле   Kv ;  ! "(nY˙lle) $nu" 
+нылле:нылл%^E   Kv ;  ! "neljäkymmentä KvK" 
+ныллымше:ныллымше   Kv ;  ! "(nY˙llYmSe) $nu" 
+нылшуде:нылшуд%^E   Kv ;  ! "neljäsataa KvK" 
+нылшудӧ:нылшудӧ   Kv ;  ! "(nY˙lSydO) $nu" 
+нылшудымше:нылшудымш%^E   Kv ;  ! "neljässadas KvO" 
+нылшудымшӧ:нылшудымшӧ   Kv ;  ! "(nY˙lSydYmSO) $nu" 
+нылымше:нылымше   Kv ;  ! "(nY˙lYmSe) $nu" 
+нылымше:нылымш%^E   Kv ;  ! "neljännes KvMurt" 
+нылымше:нылымш%^E   Kv ;  ! "neljäs KvO" 
+нылынек:нылынек   Kv ;  ! "kaikki neljä KvK" 
+нылыт:нылыт   Kv ;  ! "neljä KvK" 
+нылытын:нылытын   Kv ;  ! "neljästään KvKoll" 
+осьмушка:осьмушка   Kv ;  ! "kahdeksannes KvMurt" 
+пеле:пел%^E   Kv ;  ! "puoli KvMurt" 
+первый:первый   Kv ;  ! "ensimmäinen KvO" 
+тесте:тесте   Kv ;  ! "kymmenen KvK" 
+тестелен:тестелен   Kv ;  ! "kymmenittäin KvKoll" 
+триллион:триллион   Kv ;  ! "triljoona KvK" 
+тужем:тужем   Kv ;  ! "tuhat KvK" 
+тужемле:тужемл%^E   Kv ;  ! "tuhansittain KvKoll" 
+тужемше:тужемше   Kv ;  ! "(tyZe˙mSe) $nu" 
+тужемше:тужемш%^E   Kv ;  ! "tuhannes KvO" 
+чырык:чырык   Kv ;  ! "neljännes KvMurt" 
+шагал:шагал   Kv ;  ! "vähän KvInd" 
+шуке:шук%^E   Kv ;  ! "paljon; monet; kauan KvInd" 
+шуко-шагал:шуко-шагал   Kv ;  ! "ei paljoa eikä vähää KvInd" 
+шукын:шукын   Kv ;  ! "paljon KvKoll" 
+шуде:шуд%^E   Kv ;  ! "sata KvK" 
+шудӧ:шудӧ   Kv ;  ! "(Sy˙dO) $nu" 
+шудымше:шудымш%^E   Kv ;  ! "sadas KvO" 
+шудымшӧ:шудымшӧ   Kv ;  ! "(Sy˙dYmSO) $nu" 
+шым:шым   Kv ;  ! "seitsemän KvK" 
+шымле:шымле   Kv ;  ! "(SY˙mle) $nu" 
+шымлу:шымлу   Kv ;  ! "seitsemänkymmentä KvK" 
+шымлуымше:шымлуымш%^E   Kv ;  ! "seitsemäskymmenes KvO" 
+шымлымше:шымлымше   Kv ;  ! "(SY˙mlYmSe) $nu" 
+шымше:шымше   Kv ;  ! "(SY˙mSe) $nu" 
+шымше:шымш%^E   Kv ;  ! "seitsemäs KvO" 
+шымшуде:шымшуд%^E   Kv ;  ! "seitsemänsataa KvK" 
+шымшудӧ:шымшудӧ   Kv ;  ! "(SY˙mSydO) $nu" 
+шымшудымше:шымшудымш%^E   Kv ;  ! "seitsemässadas KvO" 
+шымшудымшӧ:шымшудымшӧ   Kv ;  ! "(SY˙mSydYmSO) $nu" 
+шымыт:шымыт   Kv ;  ! "seitsemän KvK" 
+шымыте:шымыте   Kv ;  ! "seitsemistään, seitsenkertaisesti KvKoll" 
+шымытын:шымытын   Kv ;  ! "seitsemistään KvKoll" 
+
+LEXICON Kv
++Num: # ;
+
+ 

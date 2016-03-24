@@ -1,196 +1,178 @@
 
-LEXICON postpositions
+!LEXICON Postpositions
+!    StemPp ;
+ !   StemPpCx ;
+ !   StemPpPx ;
+ !   StemPpPx+ ;
+ !   StemPpUndecl ;
 
-вара:вара PO_  "jälkeen" ;
-вач:вач PO_  "" ;
-вачын:вачын PO_  "" ;
-вашеш:вашеш PO_  "ennen, alla" ;
-ваштареш:ваштареш PO_  "vastaan, vastapäätä, vasten, alla" ;
-ваштарешла:ваштарешла PO_  "vastaan, vastapäätä, vasten, alla" ;
-велан:велан PO_  "puolella, puolelle" ;
-велеш:велеш PO_  "" ;
-велке:велке1 PO_  "taholle, suuntaan, päin" ;
-велкыла:велкыла PO_  "" ;
-велне:велне1 PO_  "puolella, suunnalla" ;
-велчын:велчын PO_  "" ;
-велым:велым PO_  "" ;
-велыш:велыш PO_  "" ;
-велышке:велышке PO_  "" ;
-велыште:велыште PO_  "" ;
-вере:вере PO_  "" ;
-вереш:вереш PO_  "" ;
-верч:верч PO_  "takia, sijasta" ;
-верчын:верчын PO_  "takia, sijasta" ;
-веч:веч PO_  "suunnalta" ;
-вечла:вечла PO_  "" ;
-вечын:вечын PO_  "suunnalta" ;
-виса:виса PO_  "" ;
-воктек:воктек PO_  "" ;
-воктеке:воктеке1 PO_  "luo(kse), viereen" ;
-воктелан:воктелан PO_  "" ;
-воктен:воктен PO_  "" ;
-воктенак:воктенак PO_  "" ;
-воктене:воктене1 PO_  "luona, vieressä" ;
-воктеч:воктеч PO_  "" ;
-воктечын:воктечын PO_  "ohi(tse), luota" ;
-вошт:вошт PO_  "" ;
-гае:гае PO_  "" ;
-гай:гай PO_  "" ;
-гана:гана PO_  "" ;
-гане:гане PO_  "" ;
-гаяк:гаяк PO_  "" ;
-гишан:гишан PO_  "" ;
-годсек:годсек PO_  "alkaen, aikana" ;
-годым:годым PO_  "aikana, kuluessa, aikaan, sijasta, ennen" ;
-годымат:годымат PO_  "" ;
-готсек:готсек PO_  "(jstak) lähtien" ;
-гоч:гоч PO_  "yli(tse), läpi, (jnk) ajan" ;
-гутлан:гутлан PO_  "" ;
-гутлашке:гутлашке PO_  "" ;
-гутлаште:гутлаште1 PO_  "aikaan, aikana, ympärillä, tienoilla" ;
-гыч:гыч PO_  "(elat., ablat.)" ;
-гычын:гычын PO_  "(elat., ablat.)" ;
-даҥыт:даҥыт PO_  "" ;
-дек:дек PO_  "luo(kse), (kaAS + saaminen:) (lat.)" ;
-деке:деке PO_  "luo(kse), (kaAS + saaminen:) (lat.)" ;
-денак:денак PO_  "" ;
-дене:дене PO_  "kanssa, luona, pitkin" ;
-деран:деран PO_  "luona, (adess.), (allat.)" ;
-деч:деч PO_  "luota, -ltA" ;
-дечын:дечын PO_  "luota, -ltA" ;
-еда:еда PO_  "" ;
-еша:еша PO_  "" ;
-йокте:йокте PO_  "" ;
-йотке:йотке PO_  "" ;
-йымак:йымак PO_  "alle" ;
-йымаке:йымаке1 PO_  "alle" ;
-йымалан:йымалан PO_  "alle" ;
-йымалне:йымалне1 PO_  "alla" ;
-йымач:йымач PO_  "" ;
-йымачын:йымачын PO_  "" ;
-йыр:йыр PO_  "ympäri" ;
-йыргыч:йыргыч PO_  "" ;
-йӧре:йӧре PO_  "kanssa, seassa" ;
-йӱMач:йӱMач PO_  "alta, (paikan ilm. elat.)" ;
-йӱMачын:йӱMачын PO_  "alta, (paikan ilm. elat.)" ;
-кадар:кадар PO_  "" ;
-коклаш:коклаш PO_  "" ;
-коклашке:коклашке PO_  "" ;
-коклаште:коклаште PO_  "" ;
-кутынь:кутынь PO_  "" ;
-кутышын:кутышын PO_  "" ;
-кыдалне:кыдалне PO_  "" ;
-кыдач:кыдач PO_  "(jnk) poikki" ;
-кыдачын:кыдачын PO_  "(jnk) poikki keskeltä" ;
-кыдачын:кыдачын PO_  "(jnk) poikki" ;
-кӧра:кӧра PO_  "" ;
-кӱдык:кӱдык PO_  "" ;
-кӱдыкӧ:кӱдыкӧ PO_  "" ;
-кӱдылан:кӱдылан PO_  "" ;
-кӱдылнӧ:кӱдылнӧ PO_  "" ;
-кӱдынь:кӱдынь PO_  "" ;
-кӱдыч:кӱдыч PO_  "" ;
-кӱдычын:кӱдычын PO_  "" ;
-кӱшеш:кӱшеш PO_  "" ;
-лиймеке:лиймеке1 PO_  "kuluttua" ;
-лийын:лийын PO_  "takia" ;
-лиш:лиш PO_  "luo(kse), lähelle" ;
-лишан:лишан PO_  "lähelle, lähellä" ;
-лишке:лишке1 PO_  "luo(kse), lähelle" ;
-лишке:лишке1 PO_  "lähelle" ;
-лишне:лишне1 PO_  "luona, lähellä" ;
-лишыч:лишыч PO_  "luota, läheltä" ;
-лишычын:лишычын PO_  "luota, läheltä" ;
-лӱмеш:лӱмеш PO_  "" ;
-марке:марке PO_  "" ;
-марте:марте PO_  "asti, ennen" ;
-мартен:мартен PO_  "asti, ennen" ;
-могырым:могырым PO_  "" ;
-могырыш:могырыш PO_  "" ;
-могырышкыла:могырышкыла PO_  "" ;
-мучан:мучан PO_  "" ;
-мучке:мучке1 PO_  "pitkin, koko" ;
-мучко:мучко PO_  "" ;
-наре:наре PO_  "" ;
-нарырак:нарырак PO_  "" ;
-нерген:нерген PO_  "(elat. esim. puhua jstk)" ;
-нергеште:нергеште PO_  "" ;
-олмеш:олмеш PO_  "sijaan" ;
-ончык:ончык PO_  "eteen" ;
-ончыке:ончыке1 PO_  "eteen" ;
-ончыко:ончыко PO_  "" ;
-ончылан:ончылан PO_  "edessä, eteen" ;
-ончылвеч:ончылвеч PO_  "" ;
-ончылне:ончылне1 PO_  "edessä" ;
-ончылно:ончылно PO_  "" ;
-ончыч:ончыч PO_  "eteen, editse, ennen" ;
-ончычын:ончычын PO_  "eteen, editse, ennen" ;
-пелдык:пелдык PO_  "" ;
-пелен:пелен PO_  "luona, mukana, yhteydessä" ;
-пелне:пелне PO_  "sivussa, ohessa" ;
-пелтык:пелтык PO_  "takia" ;
-покшек:покшек PO_  "keskelle, puoliväliin" ;
-покшеке:покшеке1 PO_  "keskelle, puoliväliin" ;
-покшекыла:покшекыла PO_  "" ;
-покшелан:покшелан PO_  "keskellä, keskelle" ;
-покшелне:покшелне1 PO_  "keskellä, keskelle" ;
-покшеч:покшеч PO_  "keskeltä, keskellä" ;
-покшечын:покшечын PO_  "keskeltä, keskellä" ;
-посна:посна PO_  "ilman" ;
-посна:посна P  "ilman, lisäksi" ;
-почеш:почеш PO_  "mukaan, mukana, pitkin, jälkeen" ;
-поштек:поштек PO_  "" ;
-семын:семын PO_  "tavalla, mukaan" ;
-тапкыр:тапкыр PO_  "" ;
-таҥгалеш:таҥгалеш PO_  "" ;
-таҥгалке:таҥгалке PO_  "" ;
-таҥгалне:таҥгалне PO_  "" ;
-таҥгалчын:таҥгалчын PO_  "" ;
-таҥгалышке:таҥгалышке PO_  "" ;
-таҥеш:таҥеш PO_  "(jhk) mennessä, ennen (jtak)" ;
-торашке:торашке1 PO_  "etäisyyteen, päähän" ;
-тораште:тораште1 PO_  "etäisyydessä, päässä" ;
-тореш:тореш PO_  "viereen, luo" ;
-торешне:торешне PO_  "vieressä, luona" ;
-торышто:торышто PO_  "" ;
-тура:тура PO_  "" ;
-турашке:турашке PO_  "" ;
-тураште:тураште PO_  "" ;
-утла:утла PO_  "" ;
-чоло:чоло PO_  "" ;
-шеҥгек:шеҥгек PO_  "taa(kse)" ;
-шеҥгеке:шеҥгеке1 PO_  "taa(kse)" ;
-шеҥгекыла:шеҥгекыла PO_  "takapuolelle (päin)" ;
-шеҥгелан:шеҥгелан PO_  "viereen, luo(kse), taakse" ;
-шеҥгелне:шеҥгелне1 PO_  "takana" ;
-шеҥгеч:шеҥгеч PO_  "takaa" ;
-шеҥгечын:шеҥгечын PO_  "takaa" ;
-шойык:шойык PO_  "" ;
-шойыке:шойыке1 PO_  "taakse" ;
-шойыко:шойыко PO_  "" ;
-шойыкын:шойыкын PO_  "" ;
-шойылан:шойылан PO_  "viereen, luo(kse), taakse" ;
-шойылко:шойылко PO_  "" ;
-шойылне:шойылне1 PO_  "takana" ;
-шойылно:шойылно PO_  "" ;
-шойыч:шойыч PO_  "takaa" ;
-шойычын:шойычын PO_  "takaa" ;
-шотеш:шотеш PO_  "sijaan" ;
-шотыште:шотыште1 PO_  "(jnk) suhteen, (elat.), suhteissa, (ess.)" ;
-шотышто:шотышто PO_  "" ;
-шоҥыш:шоҥыш PO_  "sijaan" ;
-шуйнемыш:шуйнемыш PO_  "" ;
-шумеш:шумеш PO_  "asti" ;
-шумешке:шумешке PO_  "asti" ;
-шумлык:шумлык PO_  "takia, (elat.)" ;
-ӱлне:ӱлне1 PO_  "alla" ;
-ӱлык:ӱлык PO_  "alle" ;
-ӱлыке:ӱлыке1 PO_  "alle" ;
-ӱлыч:ӱлыч PO_  "alta" ;
-ӱлычын:ӱлычын PO_  "alta" ;
-ӱмбак:ӱмбак PO_  "päälle, (allat.)" ;
-ӱмбаке:ӱмбаке1 PO_  "päälle, (allat.)" ;
-ӱмбалан:ӱмбалан PO_  "päällä, (allat.), jälkeen" ;
-ӱмбалне:ӱмбалне1 PO_  "päällä, (adess.), joukossa" ;
-ӱмбач:ӱмбач PO_  "pitkin, (ablat.), päältä, päällä, lisäksi, huolimatta" ;
-ӱмбачын:ӱмбачын PO_  "pitkin, (ablat.), päältä, päällä, lisäksi, huolimatta" ;
+
+!Postpositions
+
+!LEXICON StemPp       !Declined like adverbs (PxSg3, clitic or -rak ?)    
+!s1omak Pp	;
+
+!LEXICON StemPpCx      !Get unproductive case endings
+!s1omak PpCx	;
+
+!LEXICON StemPpPx      !Get other possessive suffixes than Sg3, as well 
+!s1omak PpPx	;
+
+!LEXICON StemPpPx+       !Some words having more endings (?)
+!s1omak PpPx+	;
+
+!LEXICON StemPpUndecl     !No declensional endings  
+!s1omak PpUndecl	;
+
+
+
+
+
+ 
+LEXICON Postpositions
+вара:вара   Postp ;  ! "jälkeen Po" 
+вач:вач   Postp ;  ! "(vaC) $po" 
+вачын:вачын   Postp ;  ! "(vaCYn) $po" 
+вашеш:вашеш   Postp ;  ! "ennen, alla Po" 
+ваштареш:ваштареш   Postp ;  ! "vastaan; vastapäätä; vasten, alla Po" 
+ваштарешла:ваштарешла   Postp ;  ! "vastaan; vastapäätä; vasten, alla Po" 
+велан:велан   Postp ;  ! "puolella, puolelle Po" 
+велке:велке   Postp ;  ! "(ve˙lke) $po" 
+велке:велк%^E   Postp ;  ! "taholle; suuntaan, päin Po" 
+велне:велне   Postp ;  ! "(ve˙lne) $po" 
+велне:велн%^E   Postp ;  ! "puolella, suunnalla Po" 
+велчын:велчын   Postp ;  ! "(ve˙lCYn) $po" 
+велым:велым   Postp ;  ! "(ve˙lYm) $po" 
+велыш:велыш   Postp ;  ! "(ve˙lYS) $po" 
+велышке:велышке   Postp ;  ! "(ve˙lYSke) $po" 
+велыште:велыште   Postp ;  ! "(ve˙lYSte) $po" 
+вереш:вереш   Postp ;  ! "(vere˙S) $po" 
+верч:верч   Postp ;  ! "takia; sijasta Po" 
+верчын:верчын   Postp ;  ! "takia; sijasta Po" 
+веч:веч   Postp ;  ! "suunnalta Po" 
+вечла:вечла   Postp ;  ! "(ve˙Cla) $po" 
+вечын:вечын   Postp ;  ! "suunnalta Po" 
+воктеке:воктек%^E   Postp ;  ! "luo(kse), viereen Po" 
+воктене:воктен%^E   Postp ;  ! "luona, vieressä Po" 
+воктечын:воктечын   Postp ;  ! "ohi(tse); luota Po" 
+гане:гане   Postp ;  ! "(ga˙ne) $po" 
+гишан:гишан   Postp ;  ! "(giSan) $po" 
+годсек:годсек   Postp ;  ! "(jstak) lähtien, alkaen; aikana Po" 
+годым:годым   Postp ;  ! "aikana; kuluessa; aikaan; sijasta; ennen Po" 
+годымат:годымат   Postp ;  ! "(godYma˙t) $po" 
+гоч:гоч   Postp ;  ! "yli(tse), läpi; (jnk) ajan Po" 
+гутлан:гутлан   Postp ;  ! "(gutla˙n) $po" 
+гутлашке:гутлашке   Postp ;  ! "(gutla˙Ske) $po" 
+гутлаште:гутлаште   Postp ;  ! "(gutla˙Ste) $po" 
+гутлаште:гутлашт%^E   Postp ;  ! "aikaan, aikana; ympärillä, tienoilla Po" 
+гыч:гыч   Postp ;  ! "(elat., ablat.) Po" 
+гычын:гычын   Postp ;  ! "(elat., ablat.) Po" 
+даҥыт:даҥыт   Postp ;  ! "(da˙NYt) $po" 
+дек:дек   Postp ;  ! "luo(kse); (kaAS + saaminen:) (lat.) Po" 
+деке:деке   Postp ;  ! "luo(kse); (kaAS + saaminen:) (lat.) Po" 
+денак:денак   Postp ;  ! "(dena˙k) $po" 
+дене:дене   Postp ;  ! "kanssa; luona; pitkin Po" 
+деран:деран   Postp ;  ! "luona, (adess.); (allat.) Po" 
+еша:еша   Postp ;  ! "(eSa) $po" 
+йӧре:йӧре   Postp ;  ! "kanssa, seassa Po" 
+йуMач:йуMач   Postp ;  ! "alta; (paikan ilm. elat.) Po" 
+йуMачын:йуMачын   Postp ;  ! "alta; (paikan ilm. elat.) Po" 
+йымак:йымак   Postp ;  ! "alle Po" 
+йымаке:йымак%^E   Postp ;  ! "alle Po" 
+йымалан:йымалан   Postp ;  ! "alle Po" 
+йымалне:йымалн%^E   Postp ;  ! "alla Po" 
+йыр:йыр   Postp ;  ! "ympäri Po" 
+йыргыч:йыргыч   Postp ;  ! "(jYrgYC) $po" 
+кадар:кадар   Postp ;  ! "(kadar) $po" 
+кудылан:кудылан   Postp ;  ! "(kydYla˙n) $po" 
+кыдач:кыдач   Postp ;  ! "(jnk) poikki Po" 
+кыдачын:кыдачын   Postp ;  ! "(jnk) poikki Po" 
+кыдачын:кыдачын   Postp ;  ! "(jnk) poikki keskeltä Po" 
+лиймеке:лиймек%^E   Postp ;  ! "kuluttua Po" 
+лийын:лийын   Postp ;  ! "takia Po" 
+лиш:лиш   Postp ;  ! "luo(kse), lähelle Po" 
+лишан:лишан   Postp ;  ! "lähelle, lähellä Po" 
+лишке:лишк%^E   Postp ;  ! "luo(kse), lähelle Po" 
+лишне:лишн%^E   Postp ;  ! "luona, lähellä Po" 
+лишыч:лишыч   Postp ;  ! "luota, läheltä Po" 
+лишычын:лишычын   Postp ;  ! "luota, läheltä Po" 
+марте:марте   Postp ;  ! "asti, ennen Po" 
+мартен:мартен   Postp ;  ! "asti, ennen Po" 
+могырым:могырым   Postp ;  ! "(mo˙gYrYm) $po" 
+могырыш:могырыш   Postp ;  ! "(mo˙gYrYS) $po" 
+могырышкыла:могырышкыла   Postp ;  ! "(mogYrYSkYla˙) $po" 
+мучан:мучан   Postp ;  ! "(muCan) $po" 
+мучке:мучк%^E   Postp ;  ! "pitkin, koko Po" 
+наре:наре   Postp ;  ! "(na˙re) $po" 
+нарырак:нарырак   Postp ;  ! "(narYra˙k) $po" 
+нерген:нерген   Postp ;  ! "(elat. esim. puhua jstk) Po" 
+нергеште:нергеште   Postp ;  ! "(nergeSte) $po" 
+олмеш:олмеш   Postp ;  ! "sijaan Po" 
+ончык:ончык   Postp ;  ! "eteen Po" 
+ончыке:ончык%^E   Postp ;  ! "eteen Po" 
+ончылан:ончылан   Postp ;  ! "edessä, eteen Po" 
+ончылвеч:ончылвеч   Postp ;  ! "(onCYlveC) $po" 
+ончылне:ончылн%^E   Postp ;  ! "edessä Po" 
+ончыч:ончыч   Postp ;  ! "eteen, editse; ennen Po" 
+ончычын:ончычын   Postp ;  ! "eteen, editse; ennen Po" 
+пелдык:пелдык   Postp ;  ! "(pe˙ldYk) $po" 
+пелен:пелен   Postp ;  ! "luona, mukana; yhteydessä Po" 
+пелне:пелне   Postp ;  ! "sivussa, ohessa Po" 
+пелтык:пелтык   Postp ;  ! "takia Po" 
+покшек:покшек   Postp ;  ! "keskelle, puoliväliin Po" 
+покшеке:покшек%^E   Postp ;  ! "keskelle, puoliväliin Po" 
+покшелан:покшелан   Postp ;  ! "keskellä, keskelle Po" 
+покшелне:покшелн%^E   Postp ;  ! "keskellä, keskelle Po" 
+покшеч:покшеч   Postp ;  ! "keskeltä, keskellä Po" 
+покшечын:покшечын   Postp ;  ! "keskeltä, keskellä Po" 
+посна:посна   Postp ;  ! "ilman; lisäksi Po" 
+почеш:почеш   Postp ;  ! "mukaan; mukana; pitkin; jälkeen Po" 
+семын:семын   Postp ;  ! "tavalla; mukaan Po" 
+таҥгалеш:таҥгалеш   Postp ;  ! "(taNgaleS) $po" 
+таҥгалке:таҥгалке   Postp ;  ! "(taNgalke) $po" 
+таҥгалне:таҥгалне   Postp ;  ! "(taNgalne) $po" 
+таҥгалчын:таҥгалчын   Postp ;  ! "(taNgalCYn) $po" 
+таҥгалышке:таҥгалышке   Postp ;  ! "(taNgalYSke) $po" 
+таҥеш:таҥеш   Postp ;  ! "(jhk) mennessä, ennen (jtak) Po" 
+торашке:торашк%^E   Postp ;  ! "etäisyyteen, päähän Po" 
+тораште:торашт%^E   Postp ;  ! "etäisyydessä, päässä Po" 
+тореш:тореш   Postp ;  ! "viereen, luo Po" 
+торешне:торешне   Postp ;  ! "vieressä, luona Po" 
+торышто:торышто   Postp ;  ! "(torYSto) $po" 
+турашке:турашке   Postp ;  ! "(tura˙Ske) $po" 
+тураште:тураште   Postp ;  ! "(tura˙Ste) $po" 
+улне:улн%^E   Postp ;  ! "alla Po" 
+улык:улык   Postp ;  ! "alle Po" 
+улыке:улык%^E   Postp ;  ! "alle Po" 
+улыч:улыч   Postp ;  ! "alta Po" 
+улычын:улычын   Postp ;  ! "alta Po" 
+умбак:умбак   Postp ;  ! "päälle, (allat.) Po" 
+умбаке:умбак%^E   Postp ;  ! "päälle, (allat.) Po" 
+умбалан:умбалан   Postp ;  ! "päällä, (allat.), jälkeen Po" 
+умбалне:умбалн%^E   Postp ;  ! "päällä, (adess.), joukossa Po" 
+умбач:умбач   Postp ;  ! "pitkin; (ablat.); päältä; päällä; lisäksi; huolimatta Po" 
+умбачын:умбачын   Postp ;  ! "pitkin; (ablat.); päältä; päällä; lisäksi; huolimatta Po" 
+чоло:чоло   Postp ;  ! "(Co˙lo) $po" 
+шеҥгек:шеҥгек   Postp ;  ! "taa(kse) Po" 
+шеҥгеке:шеҥгек%^E   Postp ;  ! "taa(kse) Po" 
+шеҥгекыла:шеҥгекыла   Postp ;  ! "takapuolelle (päin) Po" 
+шеҥгелан:шеҥгелан   Postp ;  ! "viereen, luo(kse), taakse Po" 
+шеҥгелне:шеҥгелн%^E   Postp ;  ! "takana Po" 
+шеҥгеч:шеҥгеч   Postp ;  ! "takaa Po" 
+шеҥгечын:шеҥгечын   Postp ;  ! "takaa Po" 
+шойыке:шойык%^E   Postp ;  ! "taakse Po" 
+шойылан:шойылан   Postp ;  ! "viereen, luo(kse), taakse Po" 
+шойылне:шойылн%^E   Postp ;  ! "takana Po" 
+шойыч:шойыч   Postp ;  ! "takaa Po" 
+шойычын:шойычын   Postp ;  ! "takaa Po" 
+шоҥыш:шоҥыш   Postp ;  ! "sijaan Po" 
+шотеш:шотеш   Postp ;  ! "sijaan Po" 
+шотыште:шотышт%^E   Postp ;  ! "(jnk) suhteen, (elat.); suhteissa, (ess.) Po" 
+шотышто:шотышто   Postp ;  ! "(So˙tYSto) $po" 
+шумеш:шумеш   Postp ;  ! "asti Po" 
+шумешке:шумешке   Postp ;  ! "asti Po" 
+шумлык:шумлык   Postp ;  ! "takia; (elat.) Po" 
+
+ 
+ 
+ 

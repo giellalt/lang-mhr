@@ -1,22 +1,61 @@
-!! Adjective inflection
-!! --------------------
-!! Meadow Mari ??adjectives compare.
-
-!! LEXICON Comparisons
-!! +A+pos:0        Cases   ;
-!! +A+cmp:er       Cases   ;
-!! +A+sup:est      Cases   ;
-
-LEXICON A_
-+A: K ; ! missing comparative
-+А+Comp:%>рак # ;
-+A+Der/MWN: N_ ;
 
 
-LEXICON A/S-a/e ! XXX do not know
-A_ ;
+!Adjectives
+
+!LEXICON A
+!+A: AfterN ;
+
+!LEXICON A-ae
+!+A: AfterN-ae ;
+
+!LEXICON A-Vs1
+!+A: AfterN-Vs1 ;
+
+!LEXICON AUnprod
+!+A: SxAUnprod ;
+
+!LEXICON AUndecl  
+!+A: SxAUndecl ;
 
 
 
-! vim: set ft=xfst-lexc:
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! (7) LEXICONS CONTAINING THE SUFFIXES !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!Huom! Kaikkien suffiksien eteen pitää panna 
+!!!junktuurisymboli $, jotta morfofonologiset 
+!!!säännöt toimisivat oikein.
+
+
+!-------------------------------------------------------------------------------------------------------------------
+LEXICON Cmp
+< "+Cmp":[%$ р а к ]  "@D.PL.PRESENT@"  > AfterCmp ;  !Assumed that there are 
+                                                                                       !no comparatives from plurals
+
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! (7) LEXICONS CONTAINING THE SUFFIXES !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!Huom! Kaikkien suffiksien eteen pitää panna 
+!!!junktuurisymboli $, jotta morfofonologiset 
+!!!säännöt toimisivat oikein.
+
+
+!Adjectives
+
+!LEXICON SxN  !Tämä siis jo substantiiveissa
+
+!LEXICON SxN-ae !Tämä siis jo substantiiveissa 
+
+!LEXICON SxN-Vs1 !Tämä siis jo substantiiveissa
+
+!LEXICON SxAUnprod 
+!$x WordEnd  ;
+
+!LEXICON SxAUndecl 
+!$x WordEnd	;
 
