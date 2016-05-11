@@ -17,7 +17,5 @@ GT_ORTHOGRAPHIC_XFSCRIPT_SRCS=\
 		downcase-derived_proper-strings.xfscript \
 		spellrelax-with-tags.xfscript
 
-#		Latn-to-Cyrl.xfscript
-
 # General build rules included from here:
 include $(top_srcdir)/am-shared/src-orthography-dir-include.am
