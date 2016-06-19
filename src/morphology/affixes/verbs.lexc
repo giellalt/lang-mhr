@@ -1,526 +1,331 @@
-
-
-!Verbs
-
-LEXICON V1 
-+V1:0 AfterV1 ;
-
-LEXICON V1-CV 
-+V1:0 AfterV1-CV ;
-
-LEXICON V1-(j) 
-+V1:0 AfterV1-(j) ;
-
-LEXICON V1-j
-+V1:0 AfterV1-j ;
-
-LEXICON V1-Polysyll 
-+V1:0 AfterV1-Polysyll ;
-
-LEXICON V1-nl 
-+V1:0 AfterV1-nl ;
-
-LEXICON V1-nlPolysyll 
-+V1:0 AfterV1-nlPolysyll ;
-
-LEXICON V1-InitV 
-+V1:0 AfterV1-InitV ;
-
-LEXICON V1-InitC 
-+V1:0 AfterV1-InitC ;
-
-LEXICON V2
-+V2:0 AfterV2 ;
-
-LEXICON V2-je 
-+V2:0 AfterV2-je ;
-
-LEXICON V2-j
-+V2:0 AfterV2-j ;
-
-LEXICON V2-jy
-+V2:0 AfterV2-jy ;
-
-LEXICON V2-(C)V
-+V2:0 AfterV2-(C)V ;
-
-LEXICON V2-(C)V^E
-+V2:0 AfterV2-(C)V^E ;
-
-
-
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!! (6) BRANCHING INTO THE SUFFIX LEXICONS !!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-!----------------------------------------------------------------------------------------------------------------------------
-LEXICON AfterV1 
-  Vx-CoNeg ; 
-  V1x-Pres ; 
-  V1x-Pret1SgPl3 ; 
-  V1x-Pret1Pl12 ;
-  V1x-Pret2 ;
-  Vx-ImpSg2 ; 
-  Vx-ImpSg3Pl ;
-  Vx-Des ;
-  Vx-Inf ; 
-  Vx-InfNec ; 
-  Vx-Ptc ; 
-  Vx-Ger ; 
-  Vx-GerInstr-y ;
-
-LEXICON AfterV1-CV 
-  Vx-CoNeg ; 
-  V1x-Pres-e ; 
-  V1x-Pret1SgPl3 ; V1x-Pret1Pl12 ;
-  V1x-Pret2 ;
-  Vx-ImpSg2 ; Vx-ImpSg3Pl ;
-  Vx-Des ;
-  Vx-Inf ; Vx-InfNec ; Vx-Ptc ; Vx-Ger ; Vx-GerInstr-y ;
-
-LEXICON AfterV1-(j)  !These verbs are completely regular. The two suffix lexicons are
-                                !needed for orthographical reasons
-  V1x-PresSg-j ;  
-
-LEXICON AfterV1-j   !These verbs are completely regular. The two suffix lexicons are
-                                !needed for orthographical reasons
-  Vx-CoNeg ; 
-  V1x-PresPl-j ;
-  V1x-Pret1SgPl3 ; V1x-Pret1Pl12 ;
-  V1x-Pret2 ; 
-  Vx-ImpSg2 ; Vx-ImpSg3Pl ;
-  Vx-Des ;
-  Vx-Inf ; Vx-InfNec ; Vx-Ptc ; Vx-Ger ; Vx-GerInstr-y ;
-
-LEXICON AfterV1-Polysyll 
-  Vx-CoNeg ; 
-  V1x-Pres ; 
-  V1x-Pret1SgPl3 ; V1x-Pret1Pl12 ;
-  V1x-Pret2 ;
-  Vx-ImpSg2 ; Vx-ImpSg3Pl ;
-  Vx-Des ;
-  Vx-Inf ; Vx-InfNec ; Vx-Ptc ; Vx-Ger ; Vx-GerInstr-y ; Vx-GerInstr-0 ;
-
-LEXICON AfterV1-nl 
-  Vx-CoNeg ; 
-  V1x-Pres ; 
-  V1x-PalatMark ; V1x-Pret1Pl12 ; 
-  V1x-Pret2 ;
-  Vx-ImpSg2 ; Vx-ImpSg3Pl ;
-  Vx-Des ;
-  Vx-Inf ; Vx-InfNec ; Vx-Ptc ; Vx-Ger ; Vx-GerInstr-y ;
-
-LEXICON AfterV1-nlPolysyll 
-  Vx-CoNeg ; 
-  V1x-Pres ; 
-  V1x-PalatMark ; V1x-Pret1Pl12 ; 
-  V1x-Pret2 ;
-  Vx-ImpSg2 ; Vx-ImpSg3Pl ;
-  Vx-Des ;
-  Vx-Inf ; Vx-InfNec ; Vx-Ptc ; Vx-Ger ; Vx-GerInstr-y ; Vx-GerInstr-0 ;
-
-LEXICON AfterV1-InitV 
-  V1x-Pres ; V1x-Pret1SgPl3 ; V1x-Pret2 ; 
-  Vx-Inf ; Vx-GerInstr-y ;
-
-LEXICON AfterV1-InitC 
-  Vx-CoNeg ; V1x-Pret1Pl12 ; Vx-ImpSg2 ;  Vx-ImpSg3Pl ; Vx-Des ; 
-  Vx-InfNec ; Vx-Ptc ; Vx-Ger ; 
-
-LEXICON AfterV2 
-  Vx-CoNeg ; 
-  V2x-Pres ; 
-  V2x-Pret1 ; 
-  V2x-Pret2 ; 
-  Vx-ImpSg2 ; 
-  Vx-ImpSg3Pl  ;
-  Vx-Des ;
-  Vx-Inf ; 
-  Vx-InfNec ; 
-  Vx-Ptc ; 
-  Vx-Ger ; 
-  Vx-GerInstr-je ;
-
-LEXICON AfterV2-je 
-  Vx-CoNeg ; 
-  V2x-Pres-j ; 
-  V2x-Pret2 ; 
-  Vx-ImpSg2 ; 
-  Vx-Inf-j ; Vx-GerInstr-je ; 
-
-!Consonant stems used in the older othography, see AA85, 105-06 footnote.
-!The model produces forms based on cons. stems of all the VjV-type verbs.
-!It is not clear if all the cons. stem based forms have actually occurred in
-!the written language.
-LEXICON AfterV2-j 
-  Vx-CoNeg ; 
-  Vx-ImpSg2 ; 
-!The following represent the exceptional old orthography forms, s. AA85:
-! 105-106 footnote:
-  Vx-ImpSg3Pl ;
-  Vx-Des ;
-  Vx-InfNec ; Vx-Ptc ; Vx-Ger ;
-
-LEXICON AfterV2-jy 
-  V2x-Pret1; 
-  Vx-ImpSg3Pl ; 
-  Vx-Des ;
-  Vx-InfNec ; 
-  Vx-Ptc ; 
-  Vx-Ger ;
-
-LEXICON AfterV2-(C)V^E  
-  V2x-Pres-e ;                 
-  V2x-Pret1 ;
-  V2x-Pret2-e ;
-  Vx-ImpSg3Pl ;
-  Vx-Des ;
-  Vx-Inf ; Vx-InfNec ; Vx-Ptc ; Vx-Ger ; Vx-GerInstr-e ;
-
-LEXICON AfterV2-(C)V  !The shorter variant (C)V only in two categories
-  Vx-CoNeg ;                  
-  Vx-ImpSg2 ;
-!----------------------------------------------------------------------------------------------------------------------------
-LEXICON AfterVxPers  !From Pret1 no cont.; to be added later, if cases encountered
-  Enc-at ; !The func. of at here is that of a conjunction; at might not appear in all tenses, 
-              !the continuation may thus be overproductive; ak to be added when encountered
-  Enc-la ; Enc-laj ; Enc-ogyla ;  !ogyla probably not used in Pret1? For the 
-                                                            !time being there is no cont. to this lex. 
-                                                            !from Pret1 forms.
-  Enc-ys ; !The distributional difference with -s somewhat unclear; if -s is the variant after
-               !vowels, e.g., +Ind+Pres+Pl12 and +Ind+Pret2+Pl12 should have -s.
- WordEnd ;
-
-LEXICON AfterVxImp
- Enc-ja_jan ;
- WordEnd ;
-
-! Infiniittimuotojen kontinuaatioita koodatessa on aina pantu kont. kaikkiin 
-! px:ihin, vaikka esimerkeissä olisi tavattu vain jokin niistä. Näin ollen 
-! malli voi olla yliproduktiivinen px:ien liittymisen osalta. Sen sijaan 
-! sijoista on merkitty vain ne, jotka todella ovat esiintyneet esimerkeissä.
-! Kontinuaatiot ovat todennäköisesti myös muutenkin yliprodusoivia, sillä
-! possessiivisuffikseista ja sijoista on normaalit, tavallisten nominien
-! kontinuaatiot, vaikka ilmeisesti vain osa näistä on todellisuudessa 
-! kielessä esiintyviä muotoja. Käytännöllinen tapa rajoittaa produktiivi-
-! suutta olisi luoda oma sarja px:ja verbimuodoille, mutta tämä johtaisi
-! periaatteellisiin ongelmiin, koska kysymys on kuitenkin samoista pos-
-! sessiivisuffikseista kuin nomineillakin. Lippudiakriitein tapahtuva pro-
-! duktiivisuuden rajoittaminen vaatisi suuren määrän diakriittejä, koska
-! tietty suffiksi voi esiintyä tietyn infiniittimuodon kanssa, mutta toinen
-! läheinen infiniittimuoto taas ei. Sääntösysteemiin liittyy iherentisti
-! rajoittamiaton produktiivisuus, jonka käytännön rajoittaminen on vaikeaa.
-! Lisälähde (9.5.05): Bereczki 2002: A cseremisz nyelv történeti alaktana, s. 117- 
-! (sijasuffiksillisia infiniittimuotoja; tarkistettava, että kaikki Bereczkin
-! esittämät muodot analysoituvat mallissa). 
-
-LEXICON AfterVx-Inf
- Cx-Dat ; 
- Px-Sg12-e ; Px-Sg3-yzhe ; Px-Pl ; 
- Enc-ak ; Enc-at ;
- WordEnd ;
-
-LEXICON AfterVx-InfNec
- Enc-ak ; Enc-at ; Enc-s ;
- WordEnd ;
-
-LEXICON AfterVx-PtcAct
- Cx-Gen ; Cx-Acc ; Cx-Dat ; !Only one, not fully understood ex. of Gen
- Px-Sg12-e ; Px-Sg3-zhe ; Px-Sg3-zh ; Px-Pl ; 
- Enc-at ; !at is based on some unclear examples, must be checked
- WordEnd ;
-
-LEXICON AfterVx-PtcPas
- Cx-Acc ; Cx-Dat ; Cx-Mod ; !Check that there are real modals, not only mYla
-                                          !gerunds.
- Px-Sg12-e ; Px-Sg3-zhe ; Px-Sg3-zh ; Px-Pl ; 
- WordEnd ;
-
-LEXICON AfterVx-PtcFut
- Cx-Acc ; Cx-Dat ; Cx-Ill ; Cx-Mod ; 
- Px-Sg12-e ; Px-Sg3-yzhe ; Px-Sg3-zh ; Px-Pl ; 
- WordEnd ;
-
-LEXICON AfterVx-PtcNeg
- Cx-Acc ; Cx-Gen ; Cx-Dat ; Cx-Ill ; Cx-Mod ; 
- Px-Sg12-e ; Px-Sg3-zhe ;Px-Sg3-zh ; Px-Pl ; 
- Pl-sh_w ; !Only vlak attested
- Cmp ;
- WordEnd ;
-
-LEXICON AfterVx-GerNeg
- Px-Sg12-NOe ; Px-Sg3-zhe ; Px-Pl ; 
- WordEnd ;
-
-LEXICON AfterVx-GerAnt
- Px-Sg12-e ; Px-Sg3-zhe ; Px-Pl ; 
- Enc-ak ; Enc-at ;
- WordEnd ;
-
-LEXICON AfterVx-GerPost
- Px-Sg12-e ; Px-Sg3-zhe ; Px-Pl ; 
- Enc-ak ; Enc-at ;
- WordEnd ;
-
-LEXICON AfterVx-GerPost-short
- Enc-at ;
- WordEnd ;
-
-LEXICON AfterVx-GerSim-syn
- Enc-ak ;
- WordEnd ;
-
-!Not all pxs have been attested in GerSim gerunds; may be overproductive
-LEXICON AfterVx-GerSim-sy-
- Px-Sg12-e ; Px-Sg3-zh ; Px-Pl ; 
- Vx-GerSim-la ;
-
-LEXICON AfterVx-GerSim-my-
- Px-Sg12-e ; Px-Sg3-zh ; Px-Pl ; 
- Vx-GerSim-la ;
-
-LEXICON AfterVx-GerSim-la
- Px-Sg12-NOe ; Px-Sg3-zhe ; Px-Pl ; 
- WordEnd ;
-
-LEXICON AfterEnc-ak 
- Enc-la ;
- WordEnd ;
-
-LEXICON AfterEnc-at  
- Enc-laj ;
- WordEnd ;
-
-
-
-
-
-
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!! (7) LEXICONS CONTAINING THE SUFFIXES !!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!Huom! Kaikkien suffiksien eteen pitää panna 
-!!!junktuurisymboli $, jotta morfofonologiset 
-!!!säännöt toimisivat oikein.
-
-!-------------------------------------------------------------------------------------------------------------------
-LEXICON Vx-CoNeg
-+CoNeg:0 WordEnd ;
-
-LEXICON V1x-Pres
-+Ind+Pres+Sg1:$ам AfterVxPers ;
-+Ind+Pres+Sg2:$ат AfterVxPers ;
-+Ind+Pres+Sg3:$еш AfterVxPers ;
-+Ind+Pres+Pl1:$ына AfterVxPers ;
-+Ind+Pres+Pl2:$ыда AfterVxPers ;
-+Ind+Pres+Pl3:$ыт AfterVxPers ;
-
-LEXICON V1x-Pres-e
-+Ind+Pres+Sg1:$ам AfterVxPers ;
-+Ind+Pres+Sg2:$ат AfterVxPers ;
-+Ind+Pres+Sg3:$эш AfterVxPers ;
-+Ind+Pres+Pl1:$ына AfterVxPers ;
-+Ind+Pres+Pl2:$ыда AfterVxPers ;
-+Ind+Pres+Pl3:$ыт AfterVxPers ;
-
-LEXICON V1x-PresSg-j  !This is motivated only for the orthography
-+Ind+Pres+Sg1:$ям AfterVxPers ;
-+Ind+Pres+Sg2:$ят AfterVxPers ;
-+Ind+Pres+Sg3:$еш AfterVxPers ;
-
-LEXICON V1x-PresPl-j !This is motivated only for the orthography
-+Ind+Pres+Pl1:$ына AfterVxPers ;
-+Ind+Pres+Pl2:$ыда AfterVxPers ;
-+Ind+Pres+Pl3:$ыт AfterVxPers ;
-
-LEXICON V2x-Pres
-+Ind+Pres+Sg1:$ем AfterVxPers ;
-+Ind+Pres+Sg2:$ет AfterVxPers ;
-+Ind+Pres+Sg3:$а AfterVxPers ;
-+Ind+Pres+Pl1:$ена AfterVxPers ;
-+Ind+Pres+Pl2:$еда AfterVxPers ;
-+Ind+Pres+Pl3:$ат AfterVxPers ;
-
-LEXICON V2x-Pres-j
-+Ind+Pres+Sg1:$ем AfterVxPers ;
-+Ind+Pres+Sg2:$ет AfterVxPers ;
-+Ind+Pres+Sg3:$я AfterVxPers ;
-+Ind+Pres+Pl1:$ена AfterVxPers ;
-+Ind+Pres+Pl2:$еда AfterVxPers ;
-+Ind+Pres+Pl3:$ят AfterVxPers ;
-
-LEXICON V2x-Pres-e     !For (C)V monosyllabic 2. conj. verbs; orthography requires this
-+Ind+Pres+Sg1:$эм AfterVxPers ;
-+Ind+Pres+Sg2:$эт AfterVxPers ;
-+Ind+Pres+Sg3:$а AfterVxPers ;
-+Ind+Pres+Pl1:$эна AfterVxPers ;
-+Ind+Pres+Pl2:$эда AfterVxPers ;
-+Ind+Pres+Pl3:$ат AfterVxPers ;
-
-LEXICON V1x-Pret1SgPl3
-+Ind+Pret1+Sg1:$ым WordEnd ;
-+Ind+Pret1+Sg2:$ыч WordEnd ;
-+Ind+Pret1+Sg3:$^E WordEnd ;
-+Ind+Pret1+Pl3:$ыч WordEnd ;
-
-LEXICON V1x-PalatMark
-0:ь V1x-Pret1SgPl3 ;
-
-LEXICON V1x-Pret1Pl12 
-+Ind+Pret1+Pl1:$на WordEnd ;
-+Ind+Pret1+Pl2:$да WordEnd ;
-
-LEXICON V2x-Pret1
-+Ind+Pret1:$ш V2x-Pret1Pers ; 
-
-LEXICON V2x-Pret1Pers
-+Sg1:$ым WordEnd ;
-+Sg2:$ыч WordEnd ;
-+Sg3:0 WordEnd ;
-+Pl1:$на WordEnd ;
-+Pl2:$да WordEnd ;
-+Pl3:$т WordEnd ;
-
-LEXICON V1x-Pret2
-+Ind+Pret2:$ын Vx-Pret2Pers ;
-
-LEXICON V2x-Pret2
-+Ind+Pret2:$ен Vx-Pret2Pers ;
-
-LEXICON V2x-Pret2-e   !For (C)V monosyllabic 2. conj. verbs
-+Ind+Pret2:$эн Vx-Pret2Pers ;
-
-LEXICON Vx-Pret2Pers
-+Sg1:$ам AfterVxPers ;
-+Sg2:$ат AfterVxPers ;
-+Sg3:0 AfterVxPers ;
-+Pl1:$на AfterVxPers ;
-+Pl2:$да AfterVxPers ;
-+Pl3:$ыт AfterVxPers ;
-
-LEXICON Vx-ImpSg2  !Sg Sx must be in a separate lexicon because (C)V type 
-                                  !V2 verbs
-+Imp+Sg2:0 AfterVxImp ;
-
-LEXICON Vx-ImpSg3Pl
-+Imp+Sg3:$ж^E WordEnd ;
-+Imp+Pl2:$за AfterVxImp ;
-+Imp+Pl3:$VEPшт WordEnd ; !VEP needed for 1. conjugation
-
-LEXICON Vx-Des
-+Des+Pres:$не Vx-DesPers ; !VEP tarpeen; pantu ka^E/kaj-
-                                                   !tyypin takia?
-
-LEXICON Vx-DesPers 
-+Sg1:$м WordEnd ;
-+Sg2:$т WordEnd ;
-+Sg3:$ж^E WordEnd ;
-+Pl1:$на WordEnd ;
-+Pl2:$да WordEnd ;
-+Pl3:$шт WordEnd ;
-
-! @P.VERB.PRESENT@ used only to prevent the accusative inter-
-!pretation of the PxSg1 like form. The flag diacritic could thus be
-!deleted in most cases. Check the current usage before doing that!
-LEXICON Vx-Inf  !Division into  infinitive lexicons: initial
-                          !V/C in -InitV/-InitC type cont. classes
-< "+Inf":[%$ а ш]  "@P.VERB.PRESENT@" > AfterVx-Inf ;
-
-LEXICON Vx-Inf-j  
-< "+Inf":[%$ я ш]  "@P.VERB.PRESENT@" > AfterVx-Inf ;
-
-LEXICON Vx-InfNec
-+Inf+Nec:$ман AfterVx-InfNec ;
-
-LEXICON Vx-Ptc
-< "+Ptc+Act":[%$ ш %^E] "@P.VERB.PRESENT@" > AfterVx-PtcAct ;
-< "+Ptc+Pas":[%$ м %^E] "@P.VERB.PRESENT@" > AfterVx-PtcPas ;
-< "+Ptc+Fut":[%$ ш а ш] "@P.VERB.PRESENT@" > AfterVx-PtcFut ;
-< "+Ptc+Neg":[%$ д ы м %^E] "@P.VERB.PRESENT@" > AfterVx-PtcNeg ;
-
-LEXICON Vx-Ger
-< "+Ger+Neg":[%$ д е] "@P.VERB.PRESENT@" > AfterVx-GerNeg ;
-< "+Ger+Ant":[%$ м е к %^E] "@P.VERB.PRESENT@" > AfterVx-GerAnt ; !Check that it is really ^E and not e.
-< "+Ger+Ant":[%$ м е к] "@P.VERB.PRESENT@" "@R.PXSG3.PRESENT@"> AfterVx-GerAnt ; 
-< "+Ger+Post":[%$ м е ш к %^E] "@P.VERB.PRESENT@" > AfterVx-GerPost ; !Check that it is really ^E and not e.
-+Ger+Post:$меш AfterVx-GerPost-short ;
-+Ger+Sim:$шын AfterVx-GerSim-syn ;
-< "+Ger+Sim":[%$ ш %^E] "@P.VERB.PRESENT@" "@P.GERSIM.BEG@" >  AfterVx-GerSim-sy- ;  
-< "+Ger+Sim":[%$ м %^E] "@P.VERB.PRESENT@" "@P.GERSIM.BEG@" >  AfterVx-GerSim-my- ;  
-
-LEXICON Vx-GerInstr-je
-+Ger+Instr:$ен WordEnd ;
-
-LEXICON Vx-GerInstr-e
-+Ger+Instr:$эн WordEnd ;
-
-LEXICON Vx-GerInstr-y !Other altern. would be VEPn, but since there are
-                                     !no vowel-final I conj. verb stems, the use of VEP 
-                                     !has little motivation.
-+Ger+Instr:$ын WordEnd ;
-
-LEXICON Vx-GerInstr-0
-+Ger+Instr:0 WordEnd ;
-
-LEXICON Vx-GerSim-la
-< "":[%$ л а] "@R.GERSIM.BEG@" "@P.GERSIM.END@" >  AfterVx-GerSim-la ;  
-
-LEXICON Enc-ak  !Generally after any forms of nouns, (and verbs)
-+Enc:$ак  AfterEnc-ak ;  !After ak the enclitic -la is attested 
-
-LEXICON Enc-at  !Generally after any forms of nouns, (in verbs has the func. of conjunction)
-+Enc:$ат  AfterEnc-at ; !After at the enclitic -laj is attested
-
-LEXICON Enc-la  !Generally after anything; la and laj are different enclitics.
-+Enc:$-ла  WordEnd ; 
-
-LEXICON Enc-laj  !Generally after anything; la and laj are different eclitics.
-+Enc:$-лай  WordEnd ; 
-
-LEXICON Enc-ja_jan  !A continuation to this lexicon from Sg2 ja Pl2 imperatives;
-                                 !ja occurs probably only in Sg2? jan attested in both Sg and Pl.
-+Enc:$-я  WordEnd ; 
-+Enc:$-ян  WordEnd ;
- 
-LEXICON Enc-ogyla !A continuation to this lexicon from AfterVxPers, i.e. not from Pret1.  
-+Enc:$-огыла  WordEnd ; 
-
-LEXICON Enc-mozho 
-!A continuation to this lexicon from PxSg3 (vokaaliloppuiset) ; ala-moZo yms. 
-! pronominitapaukset kokonaisina Root-leksikossa
-< "+Enc":[%$ %- м о ж о]  "@R.PXSG3.PRESENT@" > WordEnd ; 
-
-LEXICON Enc-mochet
-< "+Enc":[%$ %- м о ч е т]  "@R.PXSG2.PRESENT@"  >  WordEnd ; 
-
-!About Enc-s and Enc-ys: there are continuation to these lexicons from nominative nouns, 
-!but not from other cases, as the only attested form in the Onchyko corpus is pajremys. 
-!The other path to this lex. goes through the pers. endings of Pres and Pret2 (AfterVxPers).
-!tevys (<tev^E) is also found, add therefore the required cont. later to the pronouns lexicon. 
-!The present system makes (-)(y)s overproductive. Acc. to O.Sergeyev 2.05, (-)ys is used 
-!after cons. and (-)s after vowels; however, net-s is found in the corpus. Perhaps the distrib-
-!ution should be later defined by the phonological environment (the word ending in -C or -V).
-!The vowel in (-)ys could be treated as an epenthetic vowel. A new insertion rule must be
-!added or the former one reformulated, because the hyphen prevents the normal rule from
-!working.
-LEXICON Enc-s !distribution probably narrower
-+Enc:$-с  WordEnd ; 
-+Enc:$с  WordEnd ; !The orthographic dictionary gives -s and -ys without hyphen; triggers
-                              !^E=>Y rule, e.g. tevys (tev^E+s).
-
-LEXICON Enc-ys  !Mostly after the personal suffixes of verbs, but nouns also can have it
-+Enc:$-ыс  WordEnd ;  
-+Enc:$ыс  WordEnd ; !The orthographic dictionary gives -s and -ys without hyphen
-
-
-!LEXICON SxNUnprod 
-!$x WordEnd	;
-
-!LEXICON SxNUndecl 
-!$x WordEnd	;
-
-
+!! !!!Verb inflection
+! ---------------
+!! Meadow Mari verbs inflect in persons.
+
+
+! ========================== !
+!! !!Verbal continuation lexica 
+! ========================== !
+
+!! We divide the verbs in two
+
+LEXICON Vam-dependent !!= @CODE@ tags +Depend and goes to V_am
++Depend: V_am	;	  
+
+LEXICON Vem-dependent !!= @CODE@ tags +Depend and goes to V_em
++Depend: V_em	;	  
+
+!! !!The -am class
+
+LEXICON V_am !!= @CODE@ divides V_am in Mood and infinites
++V: Vam-Mood ;
++V+Inf:%>А2ш K ;
++V+Ger+Gen:%>ын K ;
++V: non-finites ;
++V+Ind+NonPst+ConNeg: K ;
++V+Ind+Prt1+ConNeg: K ;
++V+Imprt+ConNeg: K ;
++V+Des+ConNeg: K ;
++V+Imprt+Sg2: K-imprt ;
+
+LEXICON Vam-Mood !!= @CODE@ divides in Ind, Imprt, Des
++Ind: Vam-Ind ;
++Imprt: Vam-Imp ;
++Des: Vam-Des ;
+
+LEXICON Vam-Ind !!= @CODE@ gives all the Ind tenses
++NonPst+Sg1:%>А2м K ;
++NonPst+Sg2:%>А2т K ;
++NonPst+Sg3:%>еш K ;
++NonPst+Pl1:%>ына K ;
++NonPst+Pl2:%>ыда K ;
++NonPst+Pl3:%>ыт K ;
+! Первое прошедшее время:
++Prt1+Sg1:%>ым K ;
++Prt1+Sg2:%>ыч K ;
++Prt1+Sg3:%>Ы2 K ;
++Prt1+Pl1:%>на K ;
++Prt1+Pl2:%>да K ;
++Prt1+Pl3:%>ыч K ;
+! Второе прошедшее время:
++Prt2+Sg1:%>ынам K ;
++Prt2+Sg2:%>ынат K ;
++Prt2+Sg3:%>ын K ;
++Prt2+Pl1:%>ынна K ;
++Prt2+Pl2:%>ында K ;
++Prt2+Pl3:%>ыныт K ;
++Prt2+ConNeg:%>ын K ;
+
+LEXICON Vam-Imp
+! Повелительное наклонение:
++Sg3:%>жЫ2 K ;
++Pl2:%>за K-imprt ;
++Pl3:%>ышт K ;
+
+LEXICON Vam-Des
+! Желательное наклонение:
++NonPst+Sg1:%>нем K ;
++NonPst+Sg2:%>нет K ;
++NonPst+Sg3:%>неже K ;
++NonPst+Pl1:%>нена K ;
++NonPst+Pl2:%>неда K ;
++NonPst+Pl3:%>нешт K ;
+
+
+!! !!The -em class
+
+LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
++V: Vem-Mood ;
++V+Inf:%>А2ш K ;
+! Деепричастие образа действия:
++V+Ger+Gen:%>ен K ;
++V:ы non-finites  ;
++V+Ind+NonPst+ConNeg:%>Ы2 K ;
++V+Ind+Prt1+ConNeg:%>Ы2 K ;
++V+Imprt+ConNeg:%>Ы2 K ;
++V+Des+ConNeg:%>Ы2 K ;
++V+Imprt+Sg2:%>Ы2 K-imprt ;
+
+
+LEXICON Vem-Mood !!= @CODE@ divides in Ind, Imprt, Des
++Ind: Vem-Ind ;
++Imprt: Vem-Imp ;
++Des: Vem-Des ;
+
+LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
++NonPst+Sg1:%>ем K ;
++NonPst+Sg2:%>ет K ;
++NonPst+Sg3:%>а K ;
++NonPst+Pl1:%>ена K ;
++NonPst+Pl2:%>еда K ;
++NonPst+Pl3:%>ат K ;
+! Первое прошедшее время:
++Prt1+Sg1:%>ышым K ;
++Prt1+Sg2:%>ышыч K ;
++Prt1+Sg3:%>ыш K ;
++Prt1+Pl1:%>ышна K ;
++Prt1+Pl2:%>ышда K ;
++Prt1+Pl3:%>ышт K ;
+! Второе прошедшее время:
++Prt2+Sg1:%>енам K ;
++Prt2+Sg2:%>енат K ;
++Prt2+Sg3:%>ен K ;
++Prt2+Pl1:%>енна K ;
++Prt2+Pl2:%>енда K ;
++Prt2+Pl3:%>еныт K ;
++Prt2+ConNeg:%>ен K ;
+
+LEXICON Vem-Imp
+! Повелительное наклонение:
++Sg3:%>ыжЫ2 K ;
++Pl2:%>ыза K-imprt ;
++Pl3:%>ышт K ;
+
+LEXICON Vem-Des
+! Желательное наклонение:
++NonPst+Sg1:%>ынем K ;
++NonPst+Sg2:%>ынет K ;
++NonPst+Sg3:%>ынеже K ;
++NonPst+Pl1:%>ынена K ;
++NonPst+Pl2:%>ынеда K ;
++NonPst+Pl3:%>ынешт K ;
+
+!! !!Special verbs
+!! V_am, возаш : воч
+LEXICON z-C
++V+Inf:з%>А2ш K ;
++Ger+Gen:з%>ын K ;
++V:ч non-finites  ;
++V:з Vam-Mood ;
++V+Ind+NonPst+ConNeg:ч K ;
++V+Ind+Prt1+ConNeg:ч K ;
++V+Imprt+ConNeg:ч K ;
++V+Imprt+Sg2:ч K-imprt ;
++V+Des+ConNeg:ч K ;
+
+!! V_am, лукташ : лук
+LEXICON t-0
++V+Inf:т%>А2ш K ;
++Ger+Gen:т%>ын K ;
++V: non-finites  ;
++V:т Vam-Mood ;
++V+Ind+NonPst+ConNeg: K ;
++V+Ind+Prt1+ConNeg: K ;
++V+Imprt+ConNeg: K ;
++V+Imprt+Sg2: K-imprt ;
++V+Des+ConNeg: K ;
+
+!! V_am, кушкаш : куш
+LEXICON k-0
++V+Inf:к%>А2ш K ;
++Ger+Gen:к%>ын K ;
++Ger:к%>шыла K ;
++V: non-finites  ;
++V:к Vam-Mood ;
++V+Ind+NonPst+ConNeg: K ;
++V+Ind+Prt1+ConNeg: K ;
++V+Imprt+ConNeg: K ;
++V+Imprt+Sg2: K-imprt ;
++V+Des+ConNeg: K ;
+
+!! V_am, шинчаш шич
+LEXICON nC-C
++V+Inf:нч%>А2ш K ;
++Ger+Gen:нч%>ын K ;
++Ger:ч%>шыла K ;
++V:ч non-finites  ;
++V:нч Vam-Mood ;
++V+Ind+NonPst+ConNeg:ч K ;
++V+Ind+Prt1+ConNeg:ч K ;
++V+Imprt+ConNeg:ч K ;
++V+Imprt+Sg2:ч K-imprt ;
++V+Des+ConNeg:ч K ;
+
+!! These need work 2012-09-21
+LEXICON Vam-n/l
+ V_am ;
+
+LEXICON Vam--1t
+#;
+LEXICON Vam-n/l--1t
+#;
+
+
+
+LEXICON K0
+Lex0 ; K ; C ;
+
+LEXICON Lex0 
+# ;
+
+
+LEXICON non-finites !!= @CODE@ contains Mutual endings
+! Действительное причастие:
++Act+Prc:%>шЫ2 K ;
+! Страдательное причастие:
++Pas+Prc:%>мЫ2 K ;
+! Причастие будущего времени:
++FutPrc:%>шаш K ;
+! Отрицательное причастие:
++NegPrc:%>дымЫ2 K ;
+! Отрицательная форма деепричастия образа действия:
++Ger+Abe:%>де K ;
+! Деепричастие времени (показывают время, предшествующее времени глагола):
++Ger+Prf:%>меке K ;
+! Деепричастие времени (показывает время, последующее за поясняемым действием):
++Ger+Imprf:%>мешке K ;
+! Деепричастие времени (добавочное действие, происходящее одновременно с поясняемым действием):
++Der/mO:%>мЫ2 N_ ;
++Ger:%>шыла K ;
+
+
+
+
+!2012-09-21! ! Verbal affixes
+!2012-09-21! ! ---------------
+!2012-09-21! 
+!2012-09-21! 
+!2012-09-21! LEXICON V0
+!2012-09-21! +Imprt+Sg2:X2X1 K0 "IMP-SG-2" ;
+!2012-09-21! +ConNeg:X2X1 K0 "KIELTOVART" ;
+!2012-09-21! 
+!2012-09-21! LEXICON V1
+!2012-09-21! +Ind+Prs+Sg1:X2ам K0 "IND-PREES-SG-1" ;
+!2012-09-21! +Ind+Prs+Sg2:X2ат K0 "IND-PREES-SG-2" ;
+!2012-09-21! +Ind+Prs+Sg3:X2еш K0 "IND-PREES-SG-3" ;
+!2012-09-21! +Ind+Prs+Pl1:X2ына K0 "IND-PREES-PL-1" ;
+!2012-09-21! +Ind+Prs+Pl2:X2ыда K0 "IND-PREES-PL-2" ;
+!2012-09-21! +Ind+Prs+Pl3:X2ыт K0 "IND-PREES-PL-3" ;
+!2012-09-21! 
+!2012-09-21! LEXICON V2
+!2012-09-21! +Ind+Prs+Sg1:X2ем K0 "IND-PREES-SG-1" ;
+!2012-09-21! +Ind+Prs+Sg2:X2ет K0 "IND-PREES-SG-2" ;
+!2012-09-21! +Ind+Prs+Sg3:X2а  K0 "IND-PREES-SG-3" ;
+!2012-09-21! +Ind+Prs+Pl1:X2ена K0 "IND-PREES-PL-1" ;
+!2012-09-21! +Ind+Prs+Pl2:X2еда K0 "IND-PREES-PL-2" ;
+!2012-09-21! +Ind+Prs+Pl3:X2ат  K0 "IND-PREES-PL-3" ;
+!2012-09-21! 
+!2012-09-21! LEXICON V3
+!2012-09-21! ь V5 " " ;
+!2012-09-21! 
+!2012-09-21! LEXICON V4
+!2012-09-21! +Ind+Prt+Pl1:X2на K0 "IND-1-PRET-PL-1" ;
+!2012-09-21! +Ind+Prt+Pl2:X2да K0 "IND-1-PRET-PL-2" ;
+!2012-09-21! 
+!2012-09-21! LEXICON V5
+!2012-09-21! +Ind+Prt+Sg1:X2ым K0 "IND-1-PRET-SG-1" ;
+!2012-09-21! +Ind+Prt+Sg2:X2ыч K0 "IND-1-PRET-SG-2" ;
+!2012-09-21! +Ind+Prt+Sg3:X2е1 K0 "IND-1-PRET-SG-3" ;
+!2012-09-21! +Ind+Prt+Pl3:X2ыч K0 "IND-1-PRET-PL-3" ;
+!2012-09-21! 
+!2012-09-21! LEXICON V6
+!2012-09-21! +Ind+Prt+Sg1:X2шым K0 "IND-1-PRET-SG-1" ;
+!2012-09-21! +Ind+Prt+Sg2:X2шыч K0 "IND-1-PRET-SG-2" ;
+!2012-09-21! +Ind+Prt+Sg3:X2ш K0 "IND-1-PRET-SG-3" ;
+!2012-09-21! +Ind+Prt+Pl1:X2шна K0 "IND-1-PRET-PL-1" ;
+!2012-09-21! +Ind+Prt+Pl2:X2шда K0 "IND-1-PRET-PL-2" ;
+!2012-09-21! +Ind+Prt+Pl3:X2шт K0 "IND-1-PRET-PL-3" ;
+!2012-09-21! 
+!2012-09-21! LEXICON V7
+!2012-09-21! X5Yn V8 "xxx" ;
+!2012-09-21! 
+!2012-09-21! LEXICON V8
+!2012-09-21! X5en V9 "xxx" ;
+!2012-09-21! 
+!2012-09-21! LEXICON V9
+!2012-09-21! +Ind+Prt+Sg1:X2ам K0 "IND-2-PRET-SG-1" ;
+!2012-09-21! +Ind+Prt+Sg2:X2ат K0 "IND-2-PRET-SG-2" ;
+!2012-09-21! +Ind+Prt+Sg3:X2X1 K0 "IND-2-PRET-SG-3" ;
+!2012-09-21! +Ind+Prt+Pl1:X2на K0 "IND-2-PRET-PL-1" ;
+!2012-09-21! +Ind+Prt+Pl2:X2да K0 "IND-2-PRET-PL-2" ;
+!2012-09-21! +Ind+Prt+Pl3:X2ыт K0 "IND-2-PRET-PL-3" ;
+!2012-09-21! 
+!2012-09-21! LEXICON V10
+!2012-09-21! +Imp+Sg3:X2же1 K0 "IMP-SG-3" ;
+!2012-09-21! +Imp+Pl2:X2за K0 "IMP-PL-2" ;
+!2012-09-21! +Imp+Pl3:X1X2шт K0 "IMP-PL-3" ;
+!2012-09-21! 
+!2012-09-21! LEXICON V11
+!2012-09-21! +Des+Prs+Sg1:X2нем K0 "DES-PREES-SG-1" ;
+!2012-09-21! +Des+Prs+Sg2:X2нет K0 "DES-PREES-SG-2" ;
+!2012-09-21! +Des+Prs+Sg3:X2неже K0 "DES-PREES-SG-3" ;
+!2012-09-21! +Des+Prs+Pl1:X2нена K0 "DES-PREES-PL-1" ;
+!2012-09-21! +Des+Prs+Pl2:X2неда K0 "DES-PREES-PL-2" ;
+!2012-09-21! +Des+Prs+Pl3:X2нешт K0 "DES-PREES-PL-3" ;
+!2012-09-21! 
+!2012-09-21! LEXICON W0
+!2012-09-21! +Ger+Instr:X5X1 K0 "GER-INSTR-0" ;
+!2012-09-21! 
+!2012-09-21! LEXICON W1
+!2012-09-21! +Inf:X7аш S "INF-PERUS" ;
+!2012-09-21! 
+!2012-09-21! LEXICON W2
+!2012-09-21! +Inf+Nec:X2ман K0 "INF-NESESS" ;
+!2012-09-21! +Ptc+Act:$ше1 W "PART-AKT" ;
+!2012-09-21! +Ptc+Pas:$ме1 W "PART-PASS" ;
+!2012-09-21! +Ptc+Fut:$шаш W "PART-FUT" ;
+!2012-09-21! +Ptc+Neg:$дыме1 W "PART-NEG" ;
+!2012-09-21! +Ger+Instr+Neg:X7де S-a "GER-INSTR-NEG" ;
+!2012-09-21! +Ger:X7меке S-a "GER-AIKAIS" ;
+!2012-09-21! +Ger:X7меш S "GER-MY=ъъH-mеш" ;
+!2012-09-21! +Ger:X7мешке S-a "GER-MY=ъъH-mешke" ;
+!2012-09-21! +Ger:X7шын S "GER-SAMANAIK-SYn" ;
+!2012-09-21! +Ger:@шы W-la "GER-SAMANAIK-SYla" ;
+!2012-09-21! +Ger:@мы W-la "GER-SAMANAIK-mYla" ;
+!2012-09-21! 
+!2012-09-21! LEXICON W3 
+!2012-09-21! +Ger+Instr:X7ен S "GER-INSTR" ;
+!2012-09-21! 
+!2012-09-21! LEXICON W4 
+!2012-09-21! +Ger+Instr:X7ын S "GER-INSTR" ;
+!2012-09-21! 
+!2012-09-21! LEXICON W5 
+!2012-09-21! ~ла K0 ;
+!2012-09-21! 
+
+LEXICON C !!= @CODE@ gives Comparative rak
++Cmp:&рак Lex0 "rak" ;
+
+
+! vim: set ft=xfst-lexc:
 

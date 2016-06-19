@@ -1,214 +1,817 @@
+!! Noun inflection
+! ---------------
+!! Meadow Mari nouns inflect in cases.
+
+
+LEXICON N-ava
+!+N: N-ava_NB ;
++N: N-ava_01 ;
++N+Voc:%>й # ;
++N+Voc+PxSg1:%>ем # ; 
+
+
+LEXICON N-ava_NB
++Sg: N-ava_Cx ;
++Pl:%-влак N-ava_Cx ;
++Pl:%-шамыч N-ava_Cx ;
++AssocPl:%>мыт N-ava_Cx ;
++Sg: N-ava_Px ;
++Pl:%-влак N-ava_Px ;
++Pl:%-шамыч N-ava_Px ;
+
+LEXICON N-ava_Px
++PxSg1:%>Е2м N-ava_Cx ; ! Е2:0, Е2:е
++PxSg2:%>Е2т N-ava_Cx ; ! Е2:0, Е2:е
++PxSg3:%>жЫ2 N-ava_Cx ; 
++PxPl1:%>на N-ava_Cx ;
++PxPl2:%>да N-ava_Cx ;
++PxPl3:%>Ы1шт N-ava_Cx ; ! Ы1:0, Ы1:ы
+
+LEXICON N-ava_Cx
++Nom: K ;
++Gen:%>Ы1н K ; ! Ы1:0, Ы1:ы
++Dat:%>лан K ;
++Acc:%>Ы1м K ; ! Ы1:0, Ы1:ы
++Cmp:%>ла K ;
++Com:%>ге K ;
++Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
++Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
++Lat:%>еш K ; ! Check this again
++Abe:%>де K ;
+
+LEXICON N-ava_01
+ N-SG-NOM ;
+ N-SG-GEN ;
+ N-SG-DAT ;
+ N-SG-ACC ;
+ N-SG-CMP ;
+ N-SG-COM ;
+ N-SG-INE ;
+ N-SG-ILL ;
+ N-SG-LAT ;
+ N-SG-ABE ;
+
+ N-ASSOCPL-NOM ;
+ N-ASSOCPL-INE ;
+ N-ASSOCPL-ILL ;
+ N-ASSOCPL-LAT ;
+
+ N-PL-NOM ;
+ N-PL-GEN ;
+ N-PL-DAT ;
+ N-PL-ACC ;
+ N-PL-CMP ;
+ N-PL-COM ;
+ N-PL-INE ;
+ N-PL-ILL ;
+ N-PL-LAT ;
+ N-PL-ABE ;
+
+ N-SG-PxSg1-NOM ;
+ N-SG-PxSg1-GEN ;
+ N-SG-PxSg1-DAT ;
+ N-SG-PxSg1-ACC ;
+ N-SG-PxSg1-CMP ;
+ N-SG-PxSg1-COM ;
+ N-SG-PxSg1-INE ;
+ N-SG-PxSg1-ILL ;
+ N-SG-PxSg1-LAT ;
+ N-SG-PxSg1-ABE ;
+
+ N-PL-PxSg1-NOM ;
+ N-PL-PxSg1-GEN ;
+ N-PL-PxSg1-DAT ;
+ N-PL-PxSg1-ACC ;
+ N-PL-PxSg1-CMP ;
+ N-PL-PxSg1-COM ;
+ N-PL-PxSg1-INE ;
+ N-PL-PxSg1-ILL ;
+ N-PL-PxSg1-LAT ;
+ N-PL-PxSg1-ABE ;
+
+ N-SG-PxSg2-NOM ;
+ N-SG-PxSg2-GEN ;
+ N-SG-PxSg2-DAT ;
+ N-SG-PxSg2-ACC ;
+ N-SG-PxSg2-CMP ;
+ N-SG-PxSg2-COM ;
+ N-SG-PxSg2-INE ;
+ N-SG-PxSg2-ILL ;
+ N-SG-PxSg2-LAT ;
+ N-SG-PxSg2-ABE ;
+
+ N-PL-PxSg2-NOM ;
+ N-PL-PxSg2-GEN ;
+ N-PL-PxSg2-DAT ;
+ N-PL-PxSg2-ACC ;
+ N-PL-PxSg2-CMP ;
+ N-PL-PxSg2-COM ;
+ N-PL-PxSg2-INE ;
+ N-PL-PxSg2-ILL ;
+ N-PL-PxSg2-LAT ;
+ N-PL-PxSg2-ABE ;
+
+ N-SG-PxSg3-NOM ;
+ N-SG-PxSg3-GEN ;
+ N-SG-PxSg3-DAT ;
+ N-SG-PxSg3-ACC ;
+ N-SG-PxSg3-CMP ;
+ N-SG-PxSg3-COM ;
+ N-SG-PxSg3-INE ;
+ N-SG-PxSg3-ILL ;
+ N-SG-PxSg3-LAT ;
+ N-SG-PxSg3-ABE ;
+
+ N-PL-PxSg3-NOM ;
+ N-PL-PxSg3-GEN ;
+ N-PL-PxSg3-DAT ;
+ N-PL-PxSg3-ACC ;
+ N-PL-PxSg3-CMP ;
+ N-PL-PxSg3-COM ;
+ N-PL-PxSg3-INE ;
+ N-PL-PxSg3-ILL ;
+ N-PL-PxSg3-LAT ;
+ N-PL-PxSg3-ABE ;
+
+ N-SG-PxPl1-NOM ;
+ N-SG-PxPl1-GEN ;
+ N-SG-PxPl1-DAT ;
+ N-SG-PxPl1-ACC ;
+ N-SG-PxPl1-CMP ;
+ N-SG-PxPl1-COM ;
+ N-SG-PxPl1-INE ;
+ N-SG-PxPl1-ILL ;
+ N-SG-PxPl1-LAT ;
+ N-SG-PxPl1-ABE ;
+
+ N-PL-PxPl1-NOM ;
+ N-PL-PxPl1-GEN ;
+ N-PL-PxPl1-DAT ;
+ N-PL-PxPl1-ACC ;
+ N-PL-PxPl1-CMP ;
+ N-PL-PxPl1-COM ;
+ N-PL-PxPl1-INE ;
+ N-PL-PxPl1-ILL ;
+ N-PL-PxPl1-LAT ;
+ N-PL-PxPl1-ABE ;
+
+ N-SG-PxPl2-NOM ;
+ N-SG-PxPl2-GEN ;
+ N-SG-PxPl2-DAT ;
+ N-SG-PxPl2-ACC ;
+ N-SG-PxPl2-CMP ;
+ N-SG-PxPl2-COM ;
+ N-SG-PxPl2-INE ;
+ N-SG-PxPl2-ILL ;
+ N-SG-PxPl2-LAT ;
+ N-SG-PxPl2-ABE ;
+
+ N-PL-PxPl2-NOM ;
+ N-PL-PxPl2-GEN ;
+ N-PL-PxPl2-DAT ;
+ N-PL-PxPl2-ACC ;
+ N-PL-PxPl2-CMP ;
+ N-PL-PxPl2-COM ;
+ N-PL-PxPl2-INE ;
+ N-PL-PxPl2-ILL ;
+ N-PL-PxPl2-LAT ;
+ N-PL-PxPl2-ABE ;
+
+ N-SG-PxPl3-NOM ;
+ N-SG-PxPl3-GEN ;
+ N-SG-PxPl3-DAT ;
+ N-SG-PxPl3-ACC ;
+ N-SG-PxPl3-CMP ;
+ N-SG-PxPl3-COM ;
+ N-SG-PxPl3-INE ;
+ N-SG-PxPl3-ILL ;
+ N-SG-PxPl3-LAT ;
+ N-SG-PxPl3-ABE ;
+
+ N-PL-PxPl3-NOM ;
+ N-PL-PxPl3-GEN ;
+ N-PL-PxPl3-DAT ;
+ N-PL-PxPl3-ACC ;
+ N-PL-PxPl3-CMP ;
+ N-PL-PxPl3-COM ;
+ N-PL-PxPl3-INE ;
+ N-PL-PxPl3-ILL ;
+ N-PL-PxPl3-LAT ;
+ N-PL-PxPl3-ABE ;
 
 
 
-!Nouns
 
-LEXICON N
-+N+Nom:0 AfterN ;
 
-LEXICON N-ae
-+N+Nom:0 AfterN-ae ;
+LEXICON N_
++N: N-ava_01 ;
+!2012-10-26 Jaska!+N: N_NB_Nb-Px-Cx ;
+!2012-10-26 Jaska!+N: N_Px_Px-Nb-Cx ;
 
+LEXICON N_NB_Nb-Px-Cx
++Sg: N_Cx_Nb-Px-Cx ;
++Pl:%-влак N_Cx_Nb-Px-Cx ;
++Pl:%-шамыч N_Cx_Nb-Px-Cx ;
++AssocPl:%>мыт N_Cx_Nb-Px-Cx ;
++Sg: N_Px_Nb-Px-Cx ;
++Pl:%-влак N_Px_Nb-Px-Cx ;
++Pl:%-шамыч N_Px_Nb-Px-Cx ;
+
+LEXICON N_Px_Nb-Px-Cx
++PxSg1:%>Е2м N_Cx_Nb-Px-Cx ; ! Е2:0, Е2:е
++PxSg2:%>Е2т N_Cx_Nb-Px-Cx ; ! Е2:0, Е2:е
++PxSg3:%>жЫ2 N_Cx_Nb-Px-Cx ; 
++PxPl1:%>на N_Cx_Nb-Px-Cx ;
++PxPl2:%>да N_Cx_Nb-Px-Cx ;
++PxPl3:%>Ы1шт N_Cx_Nb-Px-Cx ; ! Ы1:0, Ы1:ы
+
+LEXICON N_Cx_Nb-Px-Cx
++Nom: K ;
++Gen:%>Ы1н K ; ! Ы1:0, Ы1:ы
++Dat:%>лан K ;
++Acc:%>Ы1м K ; ! Ы1:0, Ы1:ы
++Cmp:%>ла K ;
++Com:%>ге K ;
++Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
++Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
++Lat:%>Ы1ш K ;
++Abe:%>де K ;
+
+LEXICON N_Px_Px-Nb-Cx
++PxSg1:%>Е2м N_Nb_Px-Nb-Cx ; ! Е2:0, Е2:е
++PxSg2:%>Е2т N_Nb_Px-Nb-Cx ; ! Е2:0, Е2:е
++PxSg3:%>жЫ2 N_Nb_Px-Nb-Cx ; 
++PxPl1:%>на N_Nb_Px-Nb-Cx ;
++PxPl2:%>да N_Nb_Px-Nb-Cx ;
++PxPl3:%>Ы1шт N_Nb_Px-Nb-Cx ; ! Ы1:0, Ы1:ы
+
+LEXICON N_Nb_Px-Nb-Cx
++Pl:%-влак N_Cx_Px-Nb-Cx ;
++Pl:%-шамыч N_Cx_Px-Nb-Cx ;
+
+LEXICON N_Cx_Px-Nb-Cx
+ N_Cx_Nb-Px-Cx ;
+
+LEXICON N-a/e
+ N_ ;
 
 LEXICON N-VS
-N-Vs ;
+ N_ ;
 
-LEXICON N-Vs
-+N+Nom:0 AfterN-Vs ;
-+N+Ill:0 WordEnd ; !Cont. to WordEnd because the abbreviated form probably cannot occur
-                   !in the middle of the form; cont. to enclitics could be added if necessary.
+LEXICON S  
+ N_ ;
 
-!LEXICON NUnprod
-!+N: AfterNUnprod ;
+LEXICON P  
+ N_ ;
 
-!LEXICON NUndecl  
-!+N: AfterNUndecl ;
+LEXICON N-continuation
+ N_ ;
 
+LEXICON S1
+ N_ ;
 
+LEXICON S2
+ N_ ;
 
+LEXICON S5
+ N_ ;
 
+LEXICON S6
+ N_ ;
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!! (6) BRANCHING INTO THE SUFFIX LEXICONS !!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+LEXICON S-a  
+ N_ ;
 
-LEXICON AfterN 
-  Cx-Gen ; Cx-Acc ; Cx-Com ;  Cx-Ill ; Cx-Ine ; Cx-Lat-e ; Cx-Dat ; Cx-Mod ;  
-  Px-Sg12-e ; Px-Sg3-zhe ; Px-Sg3-zh ; Px-Pl ;
-  Pl-sh_w ;  Pl-la ;  Pl-myt ;
-  Cmp ; !the rak ending must later be restricted to adjectives
-  Enc-ak ; Enc-at ; Enc-la ;  Enc-laj ; Enc-s ; Enc-ys ; !makes the encl. (-)(y)s probably 
-                                                                               !overproductive
-  WordEnd ;
+LEXICON P1
+ N_ ;
 
-LEXICON AfterN-ae
-  Cx-Gen ; Cx-Acc ; Cx-Com ; Cx-Ill ; Cx-Ine ; Cx-Lat-NOe ; Cx-Dat ; Cx-Mod ;  
-  Px-Sg12-NOe ; Px-Sg3-zhe ; Px-Sg3-zh ; Px-Pl ;
-  Pl-sh_w ;  Pl-la ;  Pl-myt ;
-  Cmp ; !the rak ending must later be restricted to adjectives
-  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ; Enc-s ; Enc-ys ; !makes the encl. (-)(y)s probably 
-                                                                              !overproductive
-   WordEnd ; 
+LEXICON P2
+ N_ ;
 
-LEXICON AfterN-Vs
-  Cx-Gen ; Cx-Acc ; Cx-Com ; Cx-Ill ; Cx-Ine ; Cx-IllIne-NOsh ;  Cx-Lat-e ;  Cx-Dat ; Cx-Mod ;  
-  Px-Sg12-e ; Px-Sg3-zhe ;  Px-Sg3-zh ; Px-Pl ;
-  Pl-sh_w ;  Pl-la ;  Pl-myt ;
-  Cmp ; !the rak ending must later be restricted to adjectives
-  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ; Enc-s ; Enc-ys ; !makes the encl. (-)(y)s probably 
-                                                                              !overproductive
-  WordEnd ; 
-!-----------------------------------------------------------------------------------------------------------
- LEXICON AfterCx-End  
-  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ; !Ac1amyn-laj
-  WordEnd ; 
+LEXICON P3
+ N_ ;
 
-LEXICON AfterCx-Px  
-  Px-Sg12-e ; Px-Sg3-zhe ; Px-Pl ; 
-  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ; !other enclitics to be added when encountered
-  WordEnd ; 
+LEXICON P4
+ N_ ;
 
-LEXICON AfterCx-aPx  
-  Px-Sg12-NOe ; Px-Sg3-zhe ;  Px-Pl ;
-  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ; !other enclitics to be added when encountered
-  WordEnd ; 
+LEXICON P5
+ N_ ;
 
-LEXICON AfterCx-Lat  
-  Px-Sg12-e ; Px-Sg3-yzhe ; Px-Pl ; 
-  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ;  !other enclitics to be added when encountered
-  WordEnd ; 
- !----------------------------------------------------------------------------------------------------------- 
-LEXICON AfterPx 
-  Cx-Gen ; Cx-Acc ; Cx-Com ; Cx-Dat ; Cx-Mod ;
-  Pl-sh_w ;  !Pl-la not included because of the dominant Pl-Px order. Perhaps    Pl-myt 
-           !should be added later if there appears Px-PlmYt forms.
-  Vx-GerSim-la ;
-  Enc-ak ; Enc-at ;  Enc-la ;  Enc-laj ; Enc-mozho ; Enc-mochet ;   !other enclitics to be added 
-                                                                                !when encountered
-  WordEnd ;
- 
-LEXICON AfterPx-zh 
-  Cx-Com ; Cx-Dat ; Cx-Mod ;
-  Vx-GerSim-la ;
-  WordEnd ; 
-!-----------------------------------------------------------------------------------------------------------
-!The continuations of the plurals are constructed so that vlak and samych take
-!after them anything that a normal word does, whereas la takes only local cases
-! and myt takes other cases than local.
-LEXICON AfterPl-la 
-  Cx-Ill ; Cx-Ine ; Cx-Lat-NOe ;  !Other cases must be added if found in texts
-  Px-Sg12-NOe ; Px-Sg3-zhe ;  Px-Pl ;
-  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ;  !other enclitics to be added when encountered
-  WordEnd ; 
+!!!!!!!!!!!!!!!!
+!! DECLENSION !!
+!!!!!!!!!!!!!!!!
 
-LEXICON AfterPl-myt 
-  Cx-Gen ; Cx-Acc ; Cx-Com ;  Cx-Dat ; Cx-Mod ;  !Local cases must be added if found in texts
-  Px-Sg12-e ; Px-Sg3-zhe ;  Px-Pl ;
-  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ; 
-  WordEnd ;
-!---------------------------------------------------------------------------------------------------------------------------- 
-LEXICON AfterCmp  !Based on the distribution in Onchyko corpus
-  Cx-Gen ; 
-  Cx-Acc ; 
-  Cx-Dat ; 
-  Cx-Mod ;
-  Px-Sg12-e ; 
-  Px-Sg3-zhe ; 
-  Px-Pl ;
-  Pl-sh_w ;
-  Enc-ak ; 
-  Enc-at ;  
-  Enc-la ; 
-  Enc-laj ;
-  WordEnd ; 
+LEXICON N-SG-NOM
++Sg+Nom: K ;
+
+LEXICON N-SG-GEN
++Sg+Gen:%>Ы1н K ;
+
+LEXICON N-SG-DAT
++Sg+Dat:лан K ;
+
+LEXICON N-SG-ACC
++Sg+Acc:%>Ы1м K ;
+
+LEXICON N-SG-CMP
++Sg+Cmp:ла K ;
+
+LEXICON N-SG-COM
++Sg+Com:ге K ;
+
+LEXICON N-SG-INE
++Sg+Ine:%>Ы1штЫ2 K ;
+
+LEXICON N-SG-ILL
++Sg+Ill:%>Ы1шкЫ2 K ;
+
+LEXICON N-SG-LAT
++Sg+Lat:еш K ;
++Use/Test+Sg+Lat:%>Е2ш K ;
+
+LEXICON N-SG-ABE
++Sg+ABE:де K ;
+
+LEXICON N-ASSOCPL-NOM
++AssocPl+Nom:ла K ;
+
+LEXICON N-ASSOCPL-INE
++AssocPl+Ine:лаште K ;
+
+LEXICON N-ASSOCPL-ILL
++AssocPl+Ill:лашке K ;
+
+LEXICON N-ASSOCPL-LAT
++AssocPl+Lat:лаш K ;
 
 
+LEXICON N-PL-NOM
++Pl+Nom:%-влак K ;
++Pl+Nom:%-шамыч K ;
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!! (7) LEXICONS CONTAINING THE SUFFIXES !!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!Huom! Kaikkien suffiksien eteen pitää panna 
-!!!junktuurisymboli $, jotta morfofonologiset 
-!!!säännöt toimisivat oikein.
+LEXICON N-PL-GEN
++Pl+Gen:-влакын  K ;
++Pl+Gen:-шамычын K ;
 
-!Nouns
+LEXICON N-PL-DAT
++Pl+Dat:-влаклан K ;
++Pl+Dat:-шамычлан K ;
 
-!The flag diacritics @U.PX... can be removed by placing Comitative in a 
-!separate lexicon and adjusting the continuation class in the second line
-!of lexicon Px-Sg3.
-!-------------------------------------------------------------------------------------------------------------------
-LEXICON Cx-Gen 
-< "+Gen":[%$ VEP н]  >  AfterCx-End;  !no pxs after this
+LEXICON N-PL-ACC
++Pl+Acc:-влакым K ;
++Pl+Acc:-шамычым K ;
 
-LEXICON Cx-Acc  
-< "+Acc":[%$ VEP м]  >  AfterCx-End;  !no pxs after this 
+LEXICON N-PL-CMP
++Pl+Cmp:-влакла K ;
++Pl+Cmp:-шамычла K ;
 
-LEXICON Cx-Com
-< "+Com":[%$ г е]  >  AfterCx-End; !This lexicon is needed because of
-                                                    !the shorter variant of the PxSg3
-                                                    !which is attached to Dat, Mod,Com.
+LEXICON N-PL-COM
++Pl+Com:-влакге K ;
++Pl+Com:-шамычге K ;
 
-LEXICON Cx-Ill   !Ill and Ine divided into two lexicons because only Ill
-                              !can come after -SaS participe
-< "+Ill":[%$ VEP ш к %^E]  >  AfterCx-Px;  !normal pxs 
-< "+Ill":[%$ VEP ш]  >  AfterCx-End; !Used only without Px 
+LEXICON N-PL-INE
++Pl+Ine:-влакыште K ;
++Pl+Ine:-шамычыште K ;
 
-LEXICON Cx-Ine
-< "+Ine":[%$ VEP ш т %^E]  >  AfterCx-Px;
+LEXICON N-PL-ILL
++Pl+Ill:-влакышке K ;
++Pl+Ill:-шамычышке K ;
 
-LEXICON Cx-IllIne-NOsh
-< "+Ill":[%$ к %^E]  > AfterCx-Px; 
-< "+Ine":[%$ т %^E]  > AfterCx-Px; 
+LEXICON N-PL-LAT
++Pl+Lat:-влакеш  K ;
++Pl+Lat:-шамычеш K ;
 
-LEXICON Cx-Lat-NOe
-< "+Lat":[%$ ш]  > AfterCx-Lat ; !*muneSSe type  prevented 
+LEXICON N-PL-ABE
++Pl+Abe:-влакде K ;
++Pl+Abe:-шамычде K ;
 
-LEXICON Cx-Lat-e
-< "+Lat":[%$ е ш]  > AfterCx-Lat;
+!!Sg1
+LEXICON N-SG-PxSg1-NOM
++Sg+PxSg1+Nom:%>Е2м K ;
 
-LEXICON Cx-Dat
-< "+Dat":[%$ л а н]  > AfterCx-Px;
+LEXICON N-SG-PxSg1-GEN
++Sg+PxSg1+Gen:%>Е2мын K ;
 
-LEXICON Cx-Mod
-< "+Mod":[%$ л а]  "@D.GERSIM.BEG@" > AfterCx-aPx; !Pxs that come 
-                                                     !after strong a/e
-!-------------------------------------------------------------------------------------------------------------------
-LEXICON Px-Sg12-e
-+PxSg1:$ем AfterPx ;
-< "+PxSg1+Acc":[%$ е м]  "@D.VERB.PRESENT@" > AfterPx ;
-< "+PxSg2":[%$ е т]  "@P.PXSG2.PRESENT@" > AfterPx ;
+LEXICON N-SG-PxSg1-DAT
++Sg+PxSg1+Dat:%>Е2млан K ;
 
-LEXICON Px-Sg12-NOe
-+PxSg1:$м AfterPx ;
-+PxSg1+Acc:$м AfterPx ;
-< "+PxSg2":[%$ т]  "@P.PXSG2.PRESENT@" > AfterPx ;
+LEXICON N-SG-PxSg1-ACC
++Sg+PxSg1+Acc:%>Е2мым K ;
 
-LEXICON Px-Sg3-zhe
-< "+PxSg3":[%$ VEP ж %^E]  "@P.PXSG3.PRESENT@" > AfterPx ; 
+LEXICON N-SG-PxSg1-CMP
++Sg+PxSg1+Cmp:%>Е2мла K ;
 
-LEXICON Px-Sg3-zh
-< "+PxSg3":[%$ VEP ж]  > AfterPx-zh ;  !only in certain cases
+LEXICON N-SG-PxSg1-COM
++Sg+PxSg1+Com:%>Е2мге K ;
 
-LEXICON Px-Sg3-yzhe    !This lexicon is for the latives, to expel the 
-                                   !*muneSSe type
-< "+PxSg3":[%$ ы ж %^E]  "@P.PXSG3.PRESENT@" > AfterPx ; 
+LEXICON N-SG-PxSg1-INE
++Sg+PxSg1+Ine:%>Е2мыште K ;
 
-LEXICON Px-Pl
-+PxPl1:$на AfterPx ;
-+PxPl2:$да AfterPx ;
-+PxPl3:$VEPшт AfterPx ;
-!-------------------------------------------------------------------------------------------------------------------
-LEXICON Pl-sh_w  !shamych and wlak plurals are treated (almost) like normal words
-< "+Pls":[%$ %- ш а м ы ч]  "@P.PL.PRESENT@" > AfterN ;
-< "+Plw":[%$ %- в л а к]  "@P.PL.PRESENT@" > AfterN ;
+LEXICON N-SG-PxSg1-ILL
++Sg+PxSg1+Ill:%>Е2мышке K ;
 
-LEXICON Pl-la
-+Pll:$ла AfterPl-la ; !pitää laittaa kontinuaatio pxeihin, sillä PlPx tässä 
-                                !dominoiva, 
-                               !ks. väikkäri s. 125
+LEXICON N-SG-PxSg1-LAT
++Sg+PxSg1+Lat:эшем K ;
 
-LEXICON Pl-myt
-+Plm:$мыт AfterPl-myt ; 
+LEXICON N-SG-PxSg1-ABE
++Sg+PxSg1+Abe:%>Е2мде K ;
+
+LEXICON N-PL-PxSg1-NOM
++Pl+PxSg1+Nom:%-влакем K ;
++Pl+PxSg1+Nom:%-шамычем K ;
+
+LEXICON N-PL-PxSg1-GEN
++Pl+PxSg1+Gen:%-влакемын  K ;
++Pl+PxSg1+Gen:%-шамычемын K ;
+
+LEXICON N-PL-PxSg1-DAT
++Pl+PxSg1+Dat:%-влакемлан K ;
++Pl+PxSg1+Dat:%-шамычемлан K ;
+
+LEXICON N-PL-PxSg1-ACC
++Pl+PxSg1+Acc:%-влакемым  K ;
++Pl+PxSg1+Acc:%-шамычемым K ;
+
+LEXICON N-PL-PxSg1-CMP
++Pl+PxSg1+Cmp:%-влакемла  K ;
++Pl+PxSg1+Cmp:%-шамычемла K ;
+
+LEXICON N-PL-PxSg1-COM
++Pl+PxSg1+Com:%-влакемге  K ;
++Pl+PxSg1+Com:%-шамычемге K ;
+
+LEXICON N-PL-PxSg1-INE
++Pl+PxSg1+Ine:%-влакемыште K ;
++Pl+PxSg1+Ine:%-шамычемыште K ;
+
+LEXICON N-PL-PxSg1-ILL
++Pl+PxSg1+Ill:%-влакемышке K ;
++Pl+PxSg1+Ill:%-шамычемышке K ;
+
+LEXICON N-PL-PxSg1-LAT
++Pl+PxSg1+Lat:%-влакешем  K ;
++Pl+PxSg1+Lat:%-шамычешем K ;
+
+LEXICON N-PL-PxSg1-ABE
++Pl+PxSg1+Abe:%-влакемде  K ;
++Pl+PxSg1+Abe:%-шамычемде K ;
+
+!!Sg2
+LEXICON N-SG-PxSg2-NOM
++Sg+PxSg2+Nom:%>Е2т K ;
+
+LEXICON N-SG-PxSg2-GEN
++Sg+PxSg2+Gen:%>Е2тын K ;
+
+LEXICON N-SG-PxSg2-DAT
++Sg+PxSg2+Dat:%>Е2тлан K ;
+
+LEXICON N-SG-PxSg2-ACC
++Sg+PxSg2+Acc:%>Е2тым K ;
+
+LEXICON N-SG-PxSg2-CMP
++Sg+PxSg2+Cmp:%>Е2тла K ;
+
+LEXICON N-SG-PxSg2-COM
++Sg+PxSg2+Com:%>Е2тге K ;
+
+LEXICON N-SG-PxSg2-INE
++Sg+PxSg2+Ine:%>Е2тыште K ;
+
+LEXICON N-SG-PxSg2-ILL
++Sg+PxSg2+Ill:%>Е2тышке K ;
+
+LEXICON N-SG-PxSg2-LAT
++Sg+PxSg2+Lat:эшет K ;
+
+LEXICON N-SG-PxSg2-ABE
++Sg+PxSg2+Abe:%>Е2тде K ;
+
+LEXICON N-PL-PxSg2-NOM
++Pl+PxSg2+Nom:%-влакет K ;
++Pl+PxSg2+Nom:%-шамычет K ;
+
+LEXICON N-PL-PxSg2-GEN
++Pl+PxSg2+Gen:%-влакетын  K ;
++Pl+PxSg2+Gen:%-шамычетын K ;
+
+LEXICON N-PL-PxSg2-DAT
++Pl+PxSg2+Dat:%-влакетлан K ;
++Pl+PxSg2+Dat:%-шамычетлан K ;
+
+LEXICON N-PL-PxSg2-ACC
++Pl+PxSg2+Acc:%-влакетым  K ;
++Pl+PxSg2+Acc:%-шамычетым K ;
+
+LEXICON N-PL-PxSg2-CMP
++Pl+PxSg2+Cmp:%-влакетла  K ;
++Pl+PxSg2+Cmp:%-шамычетла K ;
+
+LEXICON N-PL-PxSg2-COM
++Pl+PxSg2+Com:%-влакетге K ;
++Pl+PxSg2+Com:%-шамычетге K ;
+
+LEXICON N-PL-PxSg2-INE
++Pl+PxSg2+Ine:%-влакетыште K ;
++Pl+PxSg2+Ine:%-шамычетыште K ;
+
+LEXICON N-PL-PxSg2-ILL
++Pl+PxSg2+Ill:%-влакышкет K ;
++Pl+PxSg2+Ill:%-шамычышкет K ;
+
+LEXICON N-PL-PxSg2-LAT
++Pl+PxSg2+Lat:%-влакешет K ;
++Pl+PxSg2+Lat:%-шамычешет K ;
+
+LEXICON N-PL-PxSg2-ABE
++Pl+PxSg2+Abe:%-влакетде K ;
++Pl+PxSg2+Abe:%-шамычетде K ;
+
+!!Sg3
+LEXICON N-SG-PxSg3-NOM
++Sg+PxSg3+Nom:жЫ2 K ;
+
+LEXICON N-SG-PxSg3-GEN
++Sg+PxSg3+Gen:жын K ;
+
+LEXICON N-SG-PxSg3-DAT
++Sg+PxSg3+Dat:жлан K ;
+
+LEXICON N-SG-PxSg3-ACC
++Sg+PxSg3+Acc:жым K ;
+
+LEXICON N-SG-PxSg3-CMP
++Sg+PxSg3+Cmp:жла K ;
+
+LEXICON N-SG-PxSg3-COM
++Sg+PxSg3+Com:жге K ;
+
+LEXICON N-SG-PxSg3-INE
++Sg+PxSg3+Ine:жште K ;
+
+LEXICON N-SG-PxSg3-ILL
++Sg+PxSg3+Ill:жшке K ;
+
+LEXICON N-SG-PxSg3-LAT
++Sg+PxSg3+Lat:эшше K ;
+
+LEXICON N-SG-PxSg3-ABE
++Sg+PxSg3+Abe:жде K ;
+
+LEXICON N-PL-PxSg3-NOM
++Pl+PxSg3+Nom:%-влакше K ;
++Pl+PxSg3+Nom:%-шамычше K ;
+
+LEXICON N-PL-PxSg3-GEN
++Pl+PxSg3+Gen:%-влакшын K ;
++Pl+PxSg3+Gen:%-шамычшын K ;
+
+LEXICON N-PL-PxSg3-DAT
++Pl+PxSg3+Dat:%-влакшылан K ;
++Pl+PxSg3+Dat:%-шамычшылан K ;
+
+LEXICON N-PL-PxSg3-ACC
++Pl+PxSg3+Acc:%-влакшым K ;
++Pl+PxSg3+Acc:%-шамычшым K ;
+
+LEXICON N-PL-PxSg3-CMP
++Pl+PxSg3+Cmp:%-влакшыла K ;
++Pl+PxSg3+Cmp:%-шамычшыла K ;
+
+LEXICON N-PL-PxSg3-COM
++Pl+PxSg3+Com:%-влакшыге K ;
++Pl+PxSg3+Com:%-шамычшыге K ;
+
+LEXICON N-PL-PxSg3-INE
++Pl+PxSg3+Ine:%-влакыштыже K ;
++Pl+PxSg3+Ine:%-шамычыштыже K ;
+
+LEXICON N-PL-PxSg3-ILL
++Pl+PxSg3+Ill:%-влакышкыже K ;
++Pl+PxSg3+Ill:%-шамычышкыше K ;
+
+LEXICON N-PL-PxSg3-LAT
++Pl+PxSg3+Lat:%-влакешыже K ;
++Pl+PxSg3+Lat:%-шамычешыже K ;
+
+LEXICON N-PL-PxSg3-ABE
++Pl+PxSg3+Abe:%-влакшыде K ;
++Pl+PxSg3+Abe:%-шамычшыде K ;
+
+!!Pl1
+LEXICON N-SG-PxPl1-NOM
++Sg+PxPl1+Nom:на K ;
+
+LEXICON N-SG-PxPl1-GEN
++Sg+PxPl1+Gen:нан K ;
+
+LEXICON N-SG-PxPl1-DAT
++Sg+PxPl1+Dat:налан K ;
+
+LEXICON N-SG-PxPl1-ACC
++Sg+PxPl1+Acc:нам K ;
+
+LEXICON N-SG-PxPl1-CMP
++Sg+PxPl1+Cmp:нала K ;
+
+LEXICON N-SG-PxPl1-COM
++Sg+PxPl1+Com:наге K ;
+
+LEXICON N-SG-PxPl1-INE
++Sg+PxPl1+Ine:наште K ;
+
+LEXICON N-SG-PxPl1-ILL
++Sg+PxPl1+Ill:нашке K ;
+
+LEXICON N-SG-PxPl1-LAT
++Sg+PxPl1+Lat:эшна K ;
+
+LEXICON N-SG-PxPl1-ABE
++Sg+PxPl1+Abe:наде K ;
+
+LEXICON N-PL-PxPl1-NOM
++Pl+PxPl1+Nom:%-влакна K ;
++Pl+PxPl1+Nom:%-шамычна K ;
+
+LEXICON N-PL-PxPl1-GEN
++Pl+PxPl1+Gen:%-влакнан K ;
++Pl+PxPl1+Gen:%-шамычнан K ;
+
+LEXICON N-PL-PxPl1-DAT
++Pl+PxPl1+Dat:%-влакналан K ;
++Pl+PxPl1+Dat:%-шамычналан K ;
+
+LEXICON N-PL-PxPl1-ACC
++Pl+PxPl1+Acc:%-влакнам K ;
++Pl+PxPl1+Acc:%-шамычнам K ;
+
+LEXICON N-PL-PxPl1-CMP
++Pl+PxPl1+Cmp:%-влакнала K ;
++Pl+PxPl1+Cmp:%-шамычнала K ;
+
+LEXICON N-PL-PxPl1-COM
++Pl+PxPl1+Com:%-влакнаге K ;
++Pl+PxPl1+Com:%-шамычнаге K ;
+
+LEXICON N-PL-PxPl1-INE
++Pl+PxPl1+Ine:%-влакнаште K ;
++Pl+PxPl1+Ine:%-шамычнаште K ;
+
+LEXICON N-PL-PxPl1-ILL
++Pl+PxPl1+Ill:%-влакнашке K ;
++Pl+PxPl1+Ill:%-шамычнашке K ;
+
+LEXICON N-PL-PxPl1-LAT
++Pl+PxPl1+Lat:%-влакешна K ;
++Pl+PxPl1+Lat:%-шамычешна K ;
+
+LEXICON N-PL-PxPl1-ABE
++Pl+PxPl1+Abe:%-влакнаде K ;
++Pl+PxPl1+Abe:%-шамычнаде K ;
+
+!!Pl2
+LEXICON N-SG-PxPl2-NOM
++Sg+PxPl2+Nom:да K ;
+
+LEXICON N-SG-PxPl2-GEN
++Sg+PxPl2+Gen:дан K ;
+
+LEXICON N-SG-PxPl2-DAT
++Sg+PxPl2+Dat:далан K ;
+
+LEXICON N-SG-PxPl2-ACC
++Sg+PxPl2+Acc:дам K ;
+
+LEXICON N-SG-PxPl2-CMP
++Sg+PxPl2+Cmp:дала K ;
+
+LEXICON N-SG-PxPl2-COM
++Sg+PxPl2+Com:даге K ;
+
+LEXICON N-SG-PxPl2-INE
++Sg+PxPl2+Ine:даште K ;
+
+LEXICON N-SG-PxPl2-ILL
++Sg+PxPl2+Ill:дашке K ;
+
+LEXICON N-SG-PxPl2-LAT
++Sg+PxPl2+Lat:эшда K ;
+
+LEXICON N-SG-PxPl2-ABE
++Sg+PxPl2+Abe:даде K ;
+
+LEXICON N-PL-PxPl2-NOM
++Pl+PxPl2+Nom:%-влакда K ;
++Pl+PxPl2+Nom:%-шамычда K ;
+
+LEXICON N-PL-PxPl2-GEN
++Pl+PxPl2+Gen:%-влакдан  K ;
++Pl+PxPl2+Gen:%-шамычдан K ;
+
+LEXICON N-PL-PxPl2-DAT
++Pl+PxPl2+Dat:%-влакдалан K ;
++Pl+PxPl2+Dat:%-шамычдалан K ;
+
+LEXICON N-PL-PxPl2-ACC
++Pl+PxPl2+Acc:%-влакдам  K ;
++Pl+PxPl2+Acc:%-шамычдам K ;
+
+LEXICON N-PL-PxPl2-CMP
++Pl+PxPl2+Cmp:%-влакдала K ;
++Pl+PxPl2+Cmp:%-шамычдала K ;
+
+LEXICON N-PL-PxPl2-COM
++Pl+PxPl2+Com:%-влакдаге K ;
++Pl+PxPl2+Com:%-шамычдаге K ;
+
+LEXICON N-PL-PxPl2-INE
++Pl+PxPl2+Ine:%-влакдаште K ;
++Pl+PxPl2+Ine:%-шамычдаште K ;
+
+LEXICON N-PL-PxPl2-ILL
++Pl+PxPl2+Ill:%-влакдашке K ;
++Pl+PxPl2+Ill:%-шамычдашке K ;
+
+LEXICON N-PL-PxPl2-LAT
++Pl+PxPl2+Lat:%-влакешда K ;
++Pl+PxPl2+Lat:%-шамычешда K ;
+
+LEXICON N-PL-PxPl2-ABE
++Pl+PxPl2+Abe:%-влакдаде K ;
++Pl+PxPl2+Abe:%-шамычдаде K ;
+
+!!Pl3
+LEXICON N-SG-PxPl3-NOM
++Sg+PxPl3+Nom:Ы1шт K ;
+
+LEXICON N-SG-PxPl3-GEN
++Sg+PxPl3+Gen:Ы1штын K ;
+
+LEXICON N-SG-PxPl3-DAT
++Sg+PxPl3+Dat:Ы1штлан K ;
+
+LEXICON N-SG-PxPl3-ACC
++Sg+PxPl3+Acc:Ы1штым K ;
+
+LEXICON N-SG-PxPl3-CMP
++Sg+PxPl3+Cmp:Ы1штла K ;
+
+LEXICON N-SG-PxPl3-COM
++Sg+PxPl3+Com:Ы1штге K ;
+
+LEXICON N-SG-PxPl3-INE
++Sg+PxPl3+Ine:Ы1штыште K ;
+
+LEXICON N-SG-PxPl3-ILL
++Sg+PxPl3+Ill:Ы1штышке K ;
+
+LEXICON N-SG-PxPl3-LAT
++Sg+PxPl3+Lat:эшышт K ;
+
+LEXICON N-SG-PxPl3-ABE
++Sg+PxPl3+Abe:Ы1штде K ;
+
+LEXICON N-PL-PxPl3-NOM
++Pl+PxPl3+Nom:%-влакышт K ;
++Pl+PxPl3+Nom:%-шамычышт K ;
+
+LEXICON N-PL-PxPl3-GEN
++Pl+PxPl3+Gen:%-влакыштын K ;
++Pl+PxPl3+Gen:%-шамычыштын K ;
+
+LEXICON N-PL-PxPl3-DAT
++Pl+PxPl3+Dat:%-влакыштлан K ;
++Pl+PxPl3+Dat:%-шамычыштлан K ;
+
+LEXICON N-PL-PxPl3-ACC
++Pl+PxPl3+Acc:%-влакыштым  K ;
++Pl+PxPl3+Acc:%-шамычыштым K ;
+
+LEXICON N-PL-PxPl3-CMP
++Pl+PxPl3+Cmp:%-влакыштла  K ;
++Pl+PxPl3+Cmp:%-шамычыштла K ;
+
+LEXICON N-PL-PxPl3-COM
++Pl+PxPl3+Com:%-влакыштге  K ;
++Pl+PxPl3+Com:%-шамычыштге K ;
+
+LEXICON N-PL-PxPl3-INE
++Pl+PxPl3+Ine:%-влакыштыште K ;
++Pl+PxPl3+Ine:%-шамычыштыште K ;
+
+LEXICON N-PL-PxPl3-ILL
++Pl+PxPl3+Ill:%-влакыштышке K ;
++Pl+PxPl3+Ill:%-шамычыштышке K ;
+
+LEXICON N-PL-PxPl3-LAT
++Pl+PxPl3+Lat:%-влакешышт  K ;
++Pl+PxPl3+Lat:%-шамычешышт K ;
+
+LEXICON N-PL-PxPl3-ABE
++Pl+PxPl3+Abe:%-влакыштде K ;
++Pl+PxPl3+Abe:%-шамычыштде K ;
 
 
+
+! vim: set ft=xfst-lexc:
 
