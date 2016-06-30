@@ -14,7 +14,6 @@ The parts-of-speech are:
 The parts of speech are further split up into:
 
 The Usage extents are marked using following tags:
-pair verbs that do not occur independently get this marker.
 
 The nominals are inflected in the following Case and Number
 The possession is marked as such:
@@ -128,14 +127,6 @@ Question and Focus particles:
 
 
 Semantics are classified with
- * __! +Sem/Kin__  Kinship term (reflected in special PxSg2 forms),
- * __! +Sem/Divinity__  Divinity (god personified),
- * __! +Sem/Constellation__  Constellation,
- * __! +Sem/Kin	__ Kin term
- * __! +Sem/Patr 	__  Patronym
- * __! +Sem/Rvr__  name of river or water way, media of transportation,
- * __! +Sem/Inanim__  Inanimate,
- * __! +Sem/NonHum__  Nonhuman,
 
 
 Derivations are classified under the morphophonetic form of the suffix, the
