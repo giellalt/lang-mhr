@@ -3,18 +3,18 @@
 !! Meadow Mari ??adjectives compare.
 
 !! LEXICON Comparisons
-!! +A+pos:0        Cases   ;
-!! +A+cmp:er       Cases   ;
-!! +A+sup:est      Cases   ;
+! ! +A+pos:0   Cases ;
+! ! +A+cmp:er  Cases ;
+! ! +A+sup:est Cases ;
 
 LEXICON A_
-+A: K ; ! missing comparative
-+А+Comp:%>рак # ;
-+A+Der/MWN: N_ ;
+         +A:      K  ; ! missing comparative
+    +А+Comp:%>рак #  ;
+ +A+Der/MWN:      N_ ;
 
 
 LEXICON A/S-a/e ! XXX do not know
-A_ ;
+  A_ ;
 
 
 

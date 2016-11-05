@@ -4,206 +4,206 @@
 !! nouns, but with a colon (':') as separator.
 
 LEXICON PROP_
-+WORK: # ;
+ +WORK: # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!! Male given name for deriving patronyms !!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! Андрей:Андре
 LEXICON PropNameMaleDer-J-0Evich
-+Orth/Colloq:ич PROP_ОШ_PATRMAL ;
-:евич PROP_ОШ_PATRMAL ;
-:евна PROP_КУДО_PATRFEM ;
-:й PROP_КАЛ_MAL ;
+ +Orth/Colloq:ич   PROP_ОШ_PATRMAL   ;
+             :евич PROP_ОШ_PATRMAL   ;
+             :евна PROP_КУДО_PATRFEM ;
+             :й    PROP_КАЛ_MAL      ;
 
 LEXICON PropNameMaleDer-IJ-Y0Evich
-+Orth/Colloq:ьич PROP_ОШ_PATRMAL ;
-:ьевич PROP_ОШ_PATRMAL ;
-:ьевна PROP_КУДО_PATRFEM ;
-:ий PROP_КАЛ_MAL ;
+ +Orth/Colloq:ьич   PROP_ОШ_PATRMAL   ;
+             :ьевич PROP_ОШ_PATRMAL   ;
+             :ьевна PROP_КУДО_PATRFEM ;
+             :ий    PROP_КАЛ_MAL      ;
 
 LEXICON PropNameMaleDer-IJ-I0Evich
-+Orth/Colloq:ьич PROP_ОШ_PATRMAL ;
-:иевич PROP_ОШ_PATRMAL ;
-:иевна PROP_КУДО_PATRFEM ;
-:ий PROP_КАЛ_MAL ;
+ +Orth/Colloq:ьич   PROP_ОШ_PATRMAL   ;
+             :иевич PROP_ОШ_PATRMAL   ;
+             :иевна PROP_КУДО_PATRFEM ;
+             :ий    PROP_КАЛ_MAL      ;
 
 LEXICON PropNameMaleDer-Y-0Evich
-+Orth/Colloq:ич PROP_ОШ_PATRMAL ;
-:евич PROP_ОШ_PATRMAL ;
-:евна PROP_КУДО_PATRFEM ;
-:ь PROP_КАЛ_MAL ;
+ +Orth/Colloq:ич   PROP_ОШ_PATRMAL   ;
+             :евич PROP_ОШ_PATRMAL   ;
+             :евна PROP_КУДО_PATRFEM ;
+             :ь    PROP_КАЛ_MAL      ;
 
 !! Вили:Вил
 LEXICON PropNameMaleDer-I-YEvich
-+Orth/Colloq:ич PROP_ОШ_PATRMAL ;
-:ьевич PROP_ОШ_PATRMAL ;
-:ьевна PROP_КУДО_PATRFEM ;
-:и PROP_КАЛ_MAL ;
+ +Orth/Colloq:ич    PROP_ОШ_PATRMAL   ;
+             :ьевич PROP_ОШ_PATRMAL   ;
+             :ьевна PROP_КУДО_PATRFEM ;
+             :и     PROP_КАЛ_MAL      ;
 
 
 LEXICON PropNameMaleDer-Ovich
-+Orth/Colloq:ыч PROP_ОШ_PATRMAL ;
-:ович PROP_ОШ_PATRMAL ;
-:овна PROP_КУДО_PATRFEM ;
- PROP_КАЛ_MAL ;
+ +Orth/Colloq:ыч   PROP_ОШ_PATRMAL   ;
+             :ович PROP_ОШ_PATRMAL   ;
+             :овна PROP_КУДО_PATRFEM ;
+                   PROP_КАЛ_MAL      ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! Russian type Surnames !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! Абдеев:Абдеев
 LEXICON Deriv-RUS-В_SURMAL
-: PROP_КАЛ_SURMAL ;
-:а PROP_КУДО_SURFEM ;
+ :  PROP_КАЛ_SURMAL  ;
+ :а PROP_КУДО_SURFEM ;
 
 !! Багрий:Багр
 LEXICON Deriv-RUS-ИЙ_SURMAL
-:ий PROP_КАЛ_SURMAL ;
-:яя PROP_КУДО_SURFEM ;
+ :ий PROP_КАЛ_SURMAL  ;
+ :яя PROP_КУДО_SURFEM ;
 
 !! Аморский:Аморск
 LEXICON Deriv-RUS-КИЙ_SURMAL
-:ий PROP_КАЛ_SURMAL ;
-:ая PROP_КУДО_SURFEM ;
+ :ий PROP_КАЛ_SURMAL  ;
+ :ая PROP_КУДО_SURFEM ;
 
 LEXICON Deriv-RUS-ОЙ_SURMAL
-:ой PROP_КАЛ_SURMAL ;
-:ая PROP_КУДО_SURFEM ;
+ :ой PROP_КАЛ_SURMAL  ;
+ :ая PROP_КУДО_SURFEM ;
 
 LEXICON Deriv-RUS-ЫЙ_SURMAL
-:ый PROP_КАЛ_SURMAL ;
-:ая PROP_КУДО_SURFEM ;
+ :ый PROP_КАЛ_SURMAL  ;
+ :ая PROP_КУДО_SURFEM ;
 
 LEXICON Deriv-RUS-АН_SURMAL
- Deriv-RUS-В_SURMAL ;
+  Deriv-RUS-В_SURMAL ;
 
 LEXICON Deriv-RUS-ИН_SURMAL
- Deriv-RUS-В_SURMAL ;
+  Deriv-RUS-В_SURMAL ;
 
 
 LEXICON PROP_КАЛ_SURMAL
-+N+Prop+Sem/Sur+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Sur+Sem/Mal: N-ava_01 ;
 
 LEXICON PROP_КУДО_SURFEM
-+N+Prop+Sem/Sur+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Sur+Sem/Fem: N-ava_01 ;
 
 LEXICON CYRL-CONS_SUR
- PropSur-kal ;
+  PropSur-kal ;
 
 LEXICON PropSur-kal
-+N+Prop+Sem/Sur: N-ava_01 ;
+ +N+Prop+Sem/Sur: N-ava_01 ;
 
 LEXICON CYRL-Т_SUR
- PropSur-kit ;
+  PropSur-kit ;
 
 LEXICON PropSur-kit
- PropSur-kal ;
+  PropSur-kal ;
 
 LEXICON CYRL-Л_SUR
- PropSur-kal ;
+  PropSur-kal ;
 
 LEXICON CYRL-К_SUR
- PropSur-lak ;
+  PropSur-lak ;
 
 LEXICON PropSur-lak
- PropSur-kal ;
+  PropSur-kal ;
 
 LEXICON CYRL-SIBILANT_SUR
- PropSur-osh ;
+  PropSur-osh ;
 
 LEXICON PropSur-osh
-+N+Prop+Sem/Sur: N-ava_01 ;
+ +N+Prop+Sem/Sur: N-ava_01 ;
 
 LEXICON CYRL-VOW_SUR
- PROP_КУДО_SUR ;
+  PROP_КУДО_SUR ;
 
 LEXICON CYRL-А_SUR
- PROP_КУДО_SUR ;
+  PROP_КУДО_SUR ;
 
 LEXICON PROP_ОШ_SUR
-+N+Prop+Sem/Sur: N-ava_01 ;
+ +N+Prop+Sem/Sur: N-ava_01 ;
 
 LEXICON PROP_КИТ_SUR
-+N+Prop+Sem/Sur: N-ava_01 ;
+ +N+Prop+Sem/Sur: N-ava_01 ;
 
 LEXICON PROP_КУДО_SUR
-+N+Prop+Sem/Sur: N-ava_01 ;
+ +N+Prop+Sem/Sur: N-ava_01 ;
 
 LEXICON PROP_КАЛ_MAL
-+N+Prop+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Mal: N-ava_01 ;
 
 LEXICON PROP_ЛАК_MAL
-+N+Prop+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Mal: N-ava_01 ;
 
 LEXICON PROP_КИТ_MAL
-+N+Prop+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Mal: N-ava_01 ;
 
 LEXICON PROP_ОШ_MAL
-+N+Prop+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Mal: N-ava_01 ;
 
 LEXICON PROP_КУДО_MAL
-+N+Prop+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Mal: N-ava_01 ;
 
 
 
 LEXICON PROP_ОШ_PATRMAL
-+N+Prop+Patr+Sem/Mal: N-ava_01 ;
+ +N+Prop+Patr+Sem/Mal: N-ava_01 ;
 
 LEXICON PROP_КУДО_PATRFEM
-+N+Prop+Patr+Sem/Fem: N-ava_01 ;
+ +N+Prop+Patr+Sem/Fem: N-ava_01 ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!
 !! Female Given names !!
 !!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON PROP_КАЛ_FEM
-+N+Prop+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_ЛАК_FEM
-+N+Prop+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_КИТ_FEM
-+N+Prop+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_ОШ_FEM
-+N+Prop+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_ТЕШТЕ_FEM
- PROP_ПАНГО_FEM ;
+  PROP_ПАНГО_FEM ;
 
 LEXICON PROP_ТИНГЕ_FEM
- PROP_ПАНГО_FEM ;
+  PROP_ПАНГО_FEM ;
 
 LEXICON PROP_ПАНГО_FEM
-+N+Prop+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_КУДО_FEM
-+N+Prop+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Fem: N-ava_01 ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! PLACE NAMES FROM TEMPLATE !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON PROP-PLC_КАЛ
-+N+Prop+Sem/Plc: N-ava_01 ;
+ +N+Prop+Sem/Plc: N-ava_01 ;
 
 LEXICON PROP-PLC_КИТ
-+N+Prop+Sem/Plc: N-ava_01 ;
+ +N+Prop+Sem/Plc: N-ava_01 ;
 
 LEXICON PROP-PLC_ОШ
-+N+Prop+Sem/Plc: N-ava_01 ;
+ +N+Prop+Sem/Plc: N-ava_01 ;
 
 LEXICON PROP-PLC_КУДО
-+N+Prop+Sem/Plc: N-ava_01 ;
+ +N+Prop+Sem/Plc: N-ava_01 ;
 
 !!
 
 LEXICON Prop
-+N+Prop: N-continuation ;
+ +N+Prop: N-continuation ;
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
-    Prop ;
-:%: Prop ;
-:%- Prop ;
-:%' Prop ;
+     Prop ;
+ :%: Prop ;
+ :%- Prop ;
+ :%' Prop ;
 
 
 
