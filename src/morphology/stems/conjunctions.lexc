@@ -3,7 +3,7 @@ LEXICON conjunctions
 
 а:а CC_  "mutta; ja; vaan K" ;
 ала:ала CC_  "tai K" ;
-але:але1 CC_  "vai; tai; eli K" ;
+але:ал%{еы%} CC_  "vai; tai; eli K" ;
 ато:ато CONJ_  "" ;
 вет:вет CONJ_  "" ;
 гын:гын CS_  "jos; koska; sen sijaan K" ;
@@ -24,16 +24,16 @@ LEXICON conjunctions
 ни:ни CONJ_  "" ;
 но:но CS_  "mutta K" ;
 потомушто:потомушто CONJ_  "" ;
-пуйте:пуйте1 K  "ikään kuin K" ;
+пуйте:пуйт%{еы%} K  "ikään kuin K" ;
 пуйто:пуйто CONJ_  "" ;
 садак:садак K  "yhtä kaikki K" ;
 садиктак:садиктак K  "yhtä kaikki K" ;
 садлан:садлан CONJ_  "" ;
 санден:санден CONJ_  "" ;
 сандене:сандене CONJ_  "" ;
-теве:теве1 K  "milloin...milloin K" ;
+теве:тев%{еы%} K  "milloin...milloin K" ;
 то:то CONJ_  "" ;
-тольке:тольке1 CS_  "mutta K" ;
+тольке:тольк%{еы%} CS_  "mutta K" ;
 только:только CONJ_  "" ;
 укегын:укегын CONJ_  "" ;
 что:что CS_  "että K" ;

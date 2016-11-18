@@ -20,7 +20,7 @@ LEXICON propernouns
 будапешт:будапешт Prop  "Budapest Prop" ;
 варшава:варшава1 Prop  "Varsova Prop" ;
 венгрий:венгрий Prop  "Unkari Prop" ;
-виче:виче1 Prop  "Vjatka Prop" ;
+виче:вич%{еы%} Prop  "Vjatka Prop" ;
 германий:германий Prop  "Saksa Prop" ;
 дунай:дунай Prop  "Tonava Prop" ;
 европа:европа1 Prop  "Eurooppa Prop" ;
@@ -47,9 +47,9 @@ LEXICON propernouns
 швеций:швеций Prop  "Ruotsi Prop" ;
 шоктешӱдыр:шоктешӱдыр Prop  "Seulaset Prop" ;
 элнет:элнет Prop  "Iletjoki Prop" ;
-эстоний:эстоний Prop  "Viro Prop" ;
-юл:юл Prop  "Volga Prop" ;
-ӱпе:ӱпе1 Prop  "Ufa Prop" ;
+Эстоний:Эстоний Prop  "Viro Prop" ;
+Юл:Юл Prop  "Volga Prop" ;
+Ӱпе:Ӱп%{еы%} Prop  "Ufa" ;
 Австралий:Австралий PROP_  "" ;
 Австрий:Австрий PROP_  "" ;
 Азий:Азий PROP_  "" ;

@@ -2,6 +2,9 @@
 
 
 
+ * %{еы%}:е  Stem-final vowel variation when stress falls on non-final vowel
+ * %{еы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+
 
 
 
@@ -51,6 +54,12 @@ __stem-final vowel realized as -Round in word-final position__
 __stem-final vowel realized as +Back +Round in word-final position__  
 
 __stem-final vowel realized as +Front +Round in word-final position__  
+
+
+__suffix-final vowel realized %{еы%}:ы __  
+
+__stem-final vowel realized %{еы%}:е__  
+
 
 
 

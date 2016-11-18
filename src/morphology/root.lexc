@@ -318,6 +318,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 ! ---------------
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
+%{еы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
  {aä} {oö} {uü}
 е1 а1 и1 у1 ӱ1
 ! JMR 2012-09-18
