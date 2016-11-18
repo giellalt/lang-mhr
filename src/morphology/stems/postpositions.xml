@@ -161,7 +161,7 @@
       <l pos="Po">велке</l>
 
       <stg>
-        <st Contlex="PO_">велке1</st>
+        <st Contlex="PO_">велк%{еы%}</st>
       </stg>
 
       <stress>ве•лке</stress>
@@ -201,7 +201,7 @@
       <l pos="Po">велне</l>
 
       <stg>
-        <st Contlex="PO_">велне1</st>
+        <st Contlex="PO_">велн%{еы%}</st>
       </stg>
 
       <stress>ве•лне</stress>
@@ -501,7 +501,7 @@
       <l pos="Po">воктеке</l>
 
       <stg>
-        <st Contlex="PO_">воктеке1</st>
+        <st Contlex="PO_">воктек%{еы%}</st>
       </stg>
 
       <stress>вокте•ке</stress>
@@ -581,7 +581,7 @@
       <l pos="Po">воктене</l>
 
       <stg>
-        <st Contlex="PO_">воктене1</st>
+        <st Contlex="PO_">воктен%{еы%}</st>
       </stg>
 
       <stress>вокте•не</stress>
@@ -919,7 +919,7 @@
       <l pos="Po">гутлаште</l>
 
       <stg>
-        <st Contlex="PO_">гутлаште1</st>
+        <st Contlex="PO_">гутлашт%{еы%}</st>
       </stg>
 
       <stress>гутла•ште</stress>
@@ -1239,7 +1239,7 @@
       <l pos="Po">йымаке</l>
 
       <stg>
-        <st Contlex="PO_">йымаке1</st>
+        <st Contlex="PO_">йымак%{еы%}</st>
       </stg>
 
       <stress>йыма•ке</stress>
@@ -1279,7 +1279,7 @@
       <l pos="Po">йымалне</l>
 
       <stg>
-        <st Contlex="PO_">йымалне1</st>
+        <st Contlex="PO_">йымалн%{еы%}</st>
       </stg>
 
       <stress>йыма•лне</stress>
@@ -1805,7 +1805,7 @@
       <l pos="Po">лиймеке</l>
 
       <stg>
-        <st Contlex="PO_">лиймеке1</st>
+        <st Contlex="PO_">лиймек%{еы%}</st>
       </stg>
     </lg>
 
@@ -1879,7 +1879,7 @@
       <l pos="Po">лишке</l>
 
       <stg>
-        <st Contlex="PO_">лишке1</st>
+        <st Contlex="PO_">лишк%{еы%}</st>
       </stg>
 
       <stress>ли•шке</stress>
@@ -1899,7 +1899,7 @@
       <l pos="Po">лишке</l>
 
       <stg>
-        <st Contlex="PO_">лишке1</st>
+        <st Contlex="PO_">лишк%{еы%}</st>
       </stg>
     </lg>
 
@@ -1917,7 +1917,7 @@
       <l pos="Po">лишне</l>
 
       <stg>
-        <st Contlex="PO_">лишне1</st>
+        <st Contlex="PO_">лишн%{еы%}</st>
       </stg>
 
       <stress>ли•шне</stress>
@@ -2135,7 +2135,7 @@
       <l pos="Po">мучке</l>
 
       <stg>
-        <st Contlex="PO_">мучке1</st>
+        <st Contlex="PO_">мучк%{еы%}</st>
       </stg>
     </lg>
 
@@ -2293,7 +2293,7 @@
       <l pos="Po">ончыке</l>
 
       <stg>
-        <st Contlex="PO_">ончыке1</st>
+        <st Contlex="PO_">ончык%{еы%}</st>
       </stg>
     </lg>
 
@@ -2369,7 +2369,7 @@
       <l pos="Po">ончылне</l>
 
       <stg>
-        <st Contlex="PO_">ончылне1</st>
+        <st Contlex="PO_">ончылн%{еы%}</st>
       </stg>
     </lg>
 
@@ -2541,7 +2541,7 @@
       <l pos="Po">покшеке</l>
 
       <stg>
-        <st Contlex="PO_">покшеке1</st>
+        <st Contlex="PO_">покшек%{еы%}</st>
       </stg>
 
       <stress>покше•ке</stress>
@@ -2601,7 +2601,7 @@
       <l pos="Po">покшелне</l>
 
       <stg>
-        <st Contlex="PO_">покшелне1</st>
+        <st Contlex="PO_">покшелн%{еы%}</st>
       </stg>
 
       <stress>покше•лне</stress>
@@ -2911,7 +2911,7 @@
       <l pos="Po">торашке</l>
 
       <stg>
-        <st Contlex="PO_">торашке1</st>
+        <st Contlex="PO_">торашк%{еы%}</st>
       </stg>
     </lg>
 
@@ -2929,7 +2929,7 @@
       <l pos="Po">тораште</l>
 
       <stg>
-        <st Contlex="PO_">тораште1</st>
+        <st Contlex="PO_">торашт%{еы%}</st>
       </stg>
     </lg>
 
@@ -3123,7 +3123,7 @@
       <l pos="Po">шеҥгеке</l>
 
       <stg>
-        <st Contlex="PO_">шеҥгеке1</st>
+        <st Contlex="PO_">шеҥгек%{еы%}</st>
       </stg>
 
       <stress>шеҥге•ке</stress>
@@ -3181,7 +3181,7 @@
       <l pos="Po">шеҥгелне</l>
 
       <stg>
-        <st Contlex="PO_">шеҥгелне1</st>
+        <st Contlex="PO_">шеҥгелн%{еы%}</st>
       </stg>
 
       <stress>шеҥге•лне</stress>
@@ -3261,7 +3261,7 @@
       <l pos="Po">шойыке</l>
 
       <stg>
-        <st Contlex="PO_">шойыке1</st>
+        <st Contlex="PO_">шойык%{еы%}</st>
       </stg>
     </lg>
 
@@ -3359,7 +3359,7 @@
       <l pos="Po">шойылне</l>
 
       <stg>
-        <st Contlex="PO_">шойылне1</st>
+        <st Contlex="PO_">шойылн%{еы%}</st>
       </stg>
     </lg>
 
@@ -3457,7 +3457,7 @@
       <l pos="Po">шотыште</l>
 
       <stg>
-        <st Contlex="PO_">шотыште1</st>
+        <st Contlex="PO_">шотышт%{еы%}</st>
       </stg>
     </lg>
 
@@ -3593,7 +3593,7 @@
       <l pos="Po">ӱлне</l>
 
       <stg>
-        <st Contlex="PO_">ӱлне1</st>
+        <st Contlex="PO_">ӱлн%{еы%}</st>
       </stg>
     </lg>
 
@@ -3629,7 +3629,7 @@
       <l pos="Po">ӱлыке</l>
 
       <stg>
-        <st Contlex="PO_">ӱлыке1</st>
+        <st Contlex="PO_">ӱлык%{еы%}</st>
       </stg>
     </lg>
 
@@ -3703,7 +3703,7 @@
       <l pos="Po">ӱмбаке</l>
 
       <stg>
-        <st Contlex="PO_">ӱмбаке1</st>
+        <st Contlex="PO_">ӱмбак%{еы%}</st>
       </stg>
 
       <stress>ӱмба•ке</stress>
@@ -3743,7 +3743,7 @@
       <l pos="Po">ӱмбалне</l>
 
       <stg>
-        <st Contlex="PO_">ӱмбалне1</st>
+        <st Contlex="PO_">ӱмбалн%{еы%}</st>
       </stg>
 
       <stress>ӱмба•лне</stress>

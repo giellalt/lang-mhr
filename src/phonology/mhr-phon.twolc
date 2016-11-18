@@ -11,6 +11,9 @@ Alphabet
 
 ! Archiphonemes for vowels
   е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я
+%{еы%}:е !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
+%{еы%}:ы !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
+ 
 !  Е1:Е А1:А И1:И У1:У Ӱ1:Ӱ
 !JMR 2012-09-18
   Ы1:ы Ы1:0 Ы2:ы Ы2:0 
@@ -24,7 +27,7 @@ Alphabet
 ! X1:0 X2:0 X3:0 X4:0 X5:0 X6:0 X7:0 X8:0 X9:0 Z1:0 Z2:0
 
 ! JMR 2012-09-18
- %>:0
+ %>
 
 
  ;
@@ -111,7 +114,7 @@ Rules
 
 "suffix-final vowel realized after stem-final consonant"
 !! __@RULENAME@__  
-  е1:ы <=>  Cns _ %>:0 [ л | г | ш | д | Ы1: ] ;
+  е1:ы <=>  Cns _ %>: [ л | г | ш | д | Ы1: ] ;
 
 "stem-final vowel realized as -Round in word-final position"
 !! __@RULENAME@__  
@@ -124,6 +127,16 @@ Rules
 "stem-final vowel realized as +Front +Round in word-final position"
 !! __@RULENAME@__  
   е1:ӧ <=> VO [ Cns | ы ]* _ [ #: | %- ] ;
+
+
+"suffix-final vowel realized %{еы%}:ы "
+!! __@RULENAME@__  
+  %{еы%}:ы <=>  Cns _ %>: [ л | г | ш | д | Ы1: ] ;
+
+"stem-final vowel realized %{еы%}:е"
+!! __@RULENAME@__  
+  %{еы%}:е <=> Cns _ [ #: | %- ] ;
+
 
 
  

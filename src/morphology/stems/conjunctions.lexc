@@ -1,37 +1,41 @@
 
+LEXICON conjunctions
 
-
-
-LEXICON Konj
-+Conj: # ;
-
-LEXICON Conjunctions
-а:а   Konj ;  ! "mutta; ja; vaan K" 
-ала:ала   Konj ;  ! "tai K" 
-але:ал%^E   Konj ;  ! "vai; tai; eli K" 
-ато:ато   Konj ;  ! "(ato˙) $co" 
-гын:гын   Konj ;  ! "jos; koska; sen sijaan K" 
-да:да   Konj ;  ! "ja; mutta K" 
-ден:ден   Konj ;  ! "(vain nominien rinnastus) ja K" 
-дык:дык   Konj ;  ! "jos K" 
-если:если   Konj ;  ! "(esli) $co" 
-ито:ито   Konj ;  ! "(ito˙) $co" 
-кала:кала   Konj ;  ! "(kala) $co" 
-керек:керек   Konj ;  ! "vaikka(kin)/(-kaan ei), joskin/kaan (ei) K" 
-ман:ман   Konj ;  ! "että, jotta K" 
-манын:манын   Konj ;  ! "että; jotta K" 
-но:но   Konj ;  ! "mutta K" 
-потомушто:потомушто   Konj ;  ! "(potomu˙Sto) $co" 
-пуйте:пуйт%^E   Konj ;  ! "ikään kuin K" 
-садак:садак   Konj ;  ! "yhtä kaikki K" 
-садиктак:садиктак   Konj ;  ! "yhtä kaikki K" 
-сандене:сандене   Konj ;  ! "(sande˙ne) $co" 
-теве:тев%^E   Konj ;  ! "milloin...milloin K" 
-тольке:тольк%^E   Konj ;  ! "mutta K" 
-только:только   Konj ;  ! "(to˙l<ko) $co" 
-укегын:укегын   Konj ;  ! "(ukegYn) $co" 
-что:что   Konj ;  ! "että K" 
-чтобы:чтобы   Konj ;  ! "jotta K" 
-я:я   Konj ;  ! "milloin...milloin; tai, joko...tai K" 
-
- 
+а:а CC_  "mutta; ja; vaan K" ;
+ала:ала CC_  "tai K" ;
+але:ал%{еы%} CC_  "vai; tai; eli K" ;
+ато:ато CONJ_  "" ;
+вет:вет CONJ_  "" ;
+гын:гын CS_  "jos; koska; sen sijaan K" ;
+гынат:гынат CONJ_  "" ;
+да:да CC_  "ja; mutta K" ;
+даже:даже CONJ_  "" ;
+ден:ден CC_  "(vain nominien rinnastus) ja K" ;
+дык:дык CS_  "jos K" ;
+если:если CONJ_  "" ;
+зато:зато CONJ_  "" ;
+и:и CONJ_  "" ;
+ито:ито CONJ_  "" ;
+кала:кала CONJ_  "" ;
+керек:керек CC_  "vaikka(kin)/(-kaan ei), joskin/kaan (ei) K" ;
+кеч:кеч CONJ_  "" ;
+ман:ман CS_  "että, jotta K" ;
+манын:манын CS_  "että; jotta K" ;
+ни:ни CONJ_  "" ;
+но:но CS_  "mutta K" ;
+потомушто:потомушто CONJ_  "" ;
+пуйте:пуйт%{еы%} K  "ikään kuin K" ;
+пуйто:пуйто CONJ_  "" ;
+садак:садак K  "yhtä kaikki K" ;
+садиктак:садиктак K  "yhtä kaikki K" ;
+садлан:садлан CONJ_  "" ;
+санден:санден CONJ_  "" ;
+сандене:сандене CONJ_  "" ;
+теве:тев%{еы%} K  "milloin...milloin K" ;
+то:то CONJ_  "" ;
+тольке:тольк%{еы%} CS_  "mutta K" ;
+только:только CONJ_  "" ;
+укегын:укегын CONJ_  "" ;
+что:что CS_  "että K" ;
+чтобы:чтобы CS_  "jotta K" ;
+я:я K  "milloin...milloin; tai, joko...tai K" ;

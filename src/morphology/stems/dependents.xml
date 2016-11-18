@@ -2488,7 +2488,7 @@
       <lg>
          <l pos="Dep">кӱсе</l>
          <stg>
-            <st Contlex="X">кӱсе1</st>
+            <st Contlex="X">кӱс%{еы%}</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -2509,7 +2509,7 @@
       <lg>
          <l pos="Dep">леҥге</l>
          <stg>
-            <st Contlex="X">леҥге1</st>
+            <st Contlex="X">леҥг%{еы%}</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -2530,7 +2530,7 @@
       <lg>
          <l pos="Dep">намызе</l>
          <stg>
-            <st Contlex="X">намызе1</st>
+            <st Contlex="X">намыз%{еы%}</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -2551,7 +2551,7 @@
       <lg>
          <l pos="Dep">ньыге-нюге</l>
          <stg>
-            <st Contlex="X">ньыге-нюге1</st>
+            <st Contlex="X">ньыге-нюг%{еы%}</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -2572,7 +2572,7 @@
       <lg>
          <l pos="Dep">рӱшке</l>
          <stg>
-            <st Contlex="X">рӱшке1</st>
+            <st Contlex="X">рӱшк%{еы%}</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -2593,7 +2593,7 @@
       <lg>
          <l pos="Dep">туаде</l>
          <stg>
-            <st Contlex="X">туаде1</st>
+            <st Contlex="X">туад%{еы%}</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -2614,7 +2614,7 @@
       <lg>
          <l pos="Dep">улме</l>
          <stg>
-            <st Contlex="X">улме1</st>
+            <st Contlex="X">улм%{еы%}</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -2635,7 +2635,7 @@
       <lg>
          <l pos="Dep">умыландарыше</l>
          <stg>
-            <st Contlex="X">умыландарыше1</st>
+            <st Contlex="X">умыландарыш%{еы%}</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -2656,7 +2656,7 @@
       <lg>
          <l pos="Dep">шутыдыме</l>
          <stg>
-            <st Contlex="X">шутыдыме1</st>
+            <st Contlex="X">шутыдым%{еы%}</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -2677,7 +2677,7 @@
       <lg>
          <l pos="Dep">шутыме</l>
          <stg>
-            <st Contlex="X">шутыме1</st>
+            <st Contlex="X">шутым%{еы%}</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -2698,7 +2698,7 @@
       <lg>
          <l pos="Dep">юнге</l>
          <stg>
-            <st Contlex="X">юнге1</st>
+            <st Contlex="X">юнг%{еы%}</st>
          </stg>
       </lg>
       <pos>N</pos>
