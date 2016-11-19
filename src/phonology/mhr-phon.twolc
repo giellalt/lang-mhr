@@ -11,6 +11,8 @@ Alphabet
 
 ! Archiphonemes for vowels
   е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я
+%{аы%}:а !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
+%{аы%}:ы !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
 %{еы%}:е !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
 %{еы%}:ы !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
 %{оы%}:о !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
@@ -138,13 +140,21 @@ Rules
   е1:ӧ <=> VO [ Cns | ы ]* _ [ #: | %- ] ;
 
 
+"suffix-final vowel realized %{аы%}:ы "
+!! __@RULENAME@__  
+  %{аы%}:ы <=>  Cns _ %>: [ л | г | ш | д | Ы1: ] ;
+
+"stem-final vowel realized %{аы%}:а"
+!! __@RULENAME@__  
+  %{аы%}:а <=> Cns _ [ #: | .#. | %- ] ;
+
 "suffix-final vowel realized %{еы%}:ы "
 !! __@RULENAME@__  
   %{еы%}:ы <=>  Cns _ %>: [ л | г | ш | д | Ы1: ] ;
 
 "stem-final vowel realized %{еы%}:е"
 !! __@RULENAME@__  
-  %{еы%}:е <=> Cns _ [ #: | %- ] ;
+  %{еы%}:е <=> Cns _ [ #: | .#. | %- ] ;
 
 "suffix-final vowel realized %{оы%}:ы "
 !! __@RULENAME@__  
@@ -152,7 +162,7 @@ Rules
 
 "stem-final vowel realized %{оы%}:о"
 !! __@RULENAME@__  
-  %{оы%}:е <=> Cns _ [ #: | %- ] ;
+  %{оы%}:е <=> Cns _ [ #: | .#. | %- ] ;
 
 "suffix-final vowel realized %{яы%}:ы "
 !! __@RULENAME@__  
@@ -160,7 +170,7 @@ Rules
         
 "stem-final vowel realized %{яы%}:я"
 !! __@RULENAME@__  
-  %{яы%}:я <=> [Cns ь:| Vow й:] _ [ #: | %- ] ;
+  %{яы%}:я <=> [Cns ь:| Vow й:] _ [ #: | .#. | %- ] ;
 !!€ башнь%{яы%}#
 !!€ башн0я#
 !!€ ай%{яы%}#
