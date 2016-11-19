@@ -104,7 +104,7 @@
       <l pos="N" type="Prop">америка</l>
 
       <stg>
-        <st Contlex="Prop">америка1</st>
+        <st Contlex="Prop">америк%{аы%}</st>
       </stg>
     </lg>
     <mg>
@@ -161,7 +161,7 @@
       <l pos="N" type="Prop">аргентина</l>
 
       <stg>
-        <st Contlex="Prop">аргентина1</st>
+        <st Contlex="Prop">аргентин%{аы%}</st>
       </stg>
     </lg>
     <mg>
@@ -180,7 +180,7 @@
       <l pos="N" type="Prop">атлантика</l>
 
       <stg>
-        <st Contlex="Prop">атлантика1</st>
+        <st Contlex="Prop">атлантик%{аы%}</st>
       </stg>
     </lg>
     <mg>
@@ -218,7 +218,7 @@
       <l pos="N" type="Prop">африка</l>
 
       <stg>
-        <st Contlex="Prop">африка1</st>
+        <st Contlex="Prop">африк%{аы%}</st>
       </stg>
     </lg>
     <mg>
@@ -332,7 +332,7 @@
       <l pos="N" type="Prop">варшава</l>
 
       <stg>
-        <st Contlex="Prop">варшава1</st>
+        <st Contlex="Prop">варшав%{аы%}</st>
       </stg>
     </lg>
     <mg>
@@ -427,7 +427,7 @@
       <l pos="N" type="Prop">европа</l>
 
       <stg>
-        <st Contlex="Prop">европа1</st>
+        <st Contlex="Prop">европ%{аы%}</st>
       </stg>
     </lg>
     <mg>
@@ -617,7 +617,7 @@
       <l pos="N" type="Prop">польша</l>
 
       <stg>
-        <st Contlex="Prop">польша1</st>
+        <st Contlex="Prop">польш%{аы%}</st>
       </stg>
     </lg>
     <mg>
@@ -636,7 +636,7 @@
       <l pos="N" type="Prop">прибалтика</l>
 
       <stg>
-        <st Contlex="Prop">прибалтика1</st>
+        <st Contlex="Prop">прибалтик%{аы%}</st>
       </stg>
     </lg>
     <mg>

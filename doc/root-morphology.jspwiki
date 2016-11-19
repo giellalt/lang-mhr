@@ -136,6 +136,7 @@ source and target part-of-speech.
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
+ * %{аы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
  * %{еы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
  * %{оы%}  Stem-final vowel variation when stress falls on non-final vowel
  * %{яы%}  Stem-final vowel variation when stress falls on non-final vowel preceded by ь
