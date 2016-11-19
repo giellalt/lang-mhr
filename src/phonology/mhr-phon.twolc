@@ -129,15 +129,15 @@ Rules
 
 "stem-final vowel realized as -Round in word-final position"
 !! __@RULENAME@__  
-  е1:е <=> Ve [ Cns | ы ]* Cns _ [ #: | %- ] ;
+  е1:е <=> Ve [ Cns | ы ]* Cns _ [ .#. | %- ] ;
 
 "stem-final vowel realized as +Back +Round in word-final position"
 !! __@RULENAME@__  
-  е1:о <=> Vo [ Cns | ы ]* _ [ #: | %- ] ;
+  е1:о <=> Vo [ Cns | ы ]* _ [ .#. | %- ] ;
 
 "stem-final vowel realized as +Front +Round in word-final position"
 !! __@RULENAME@__  
-  е1:ӧ <=> VO [ Cns | ы ]* _ [ #: | %- ] ;
+  е1:ӧ <=> VO [ Cns | ы ]* _ [ .#. | %- ] ;
 
 
 "suffix-final vowel realized %{аы%}:ы "
@@ -162,7 +162,8 @@ Rules
 
 "stem-final vowel realized %{оы%}:о"
 !! __@RULENAME@__  
-  %{оы%}:е <=> Cns _ [ #: | .#. | %- ] ;
+  %{оы%}:о <=> Cns _ [ #: | .#. | %- ] ;
+
 
 "suffix-final vowel realized %{яы%}:ы "
 !! __@RULENAME@__  
@@ -170,7 +171,13 @@ Rules
         
 "stem-final vowel realized %{яы%}:я"
 !! __@RULENAME@__  
+<<<<<<< .mine
+  %{яы%}:я <=> [Cns ь:| Vow й:] _ [ .#. | %- ] ;
+||||||| .r143951
+  %{яы%}:я <=> [Cns ь:| Vow й:] _ [ #: | %- ] ;
+=======
   %{яы%}:я <=> [Cns ь:| Vow й:] _ [ #: | .#. | %- ] ;
+>>>>>>> .r143952
 !!€ башнь%{яы%}#
 !!€ башн0я#
 !!€ ай%{яы%}#
