@@ -13,6 +13,9 @@ Alphabet
   е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я
 %{еы%}:е !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
 %{еы%}:ы !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
+%{оы%}:о !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
+%{оы%}:ы !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
+
  
 !  Е1:Е А1:А И1:И У1:У Ӱ1:Ӱ
 !JMR 2012-09-18
@@ -136,6 +139,14 @@ Rules
 "stem-final vowel realized %{еы%}:е"
 !! __@RULENAME@__  
   %{еы%}:е <=> Cns _ [ #: | %- ] ;
+
+"suffix-final vowel realized %{оы%}:ы "
+!! __@RULENAME@__  
+  %{оы%}:ы <=>  Cns _ %>: [ л | г | ш | д | Ы1: ] ;
+
+"stem-final vowel realized %{оы%}:о"
+!! __@RULENAME@__  
+  %{оы%}:е <=> Cns _ [ #: | %- ] ;
 
 
 
