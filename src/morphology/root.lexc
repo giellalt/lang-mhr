@@ -320,6 +320,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 !! symbols in the lexicon files:
 %{еы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
 %{оы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
+%{яы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel preceded by ь
 
  {aä} {oö} {uü}
 е1 а1 и1 у1 ӱ1 я1

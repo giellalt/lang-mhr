@@ -16,6 +16,9 @@ Alphabet
 %{оы%}:о !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
 %{оы%}:ы !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
 
+%{яы%}:я !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
+%{яы%}:ы !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
+
  
 !  Е1:Е А1:А И1:И У1:У Ӱ1:Ӱ
 !JMR 2012-09-18
@@ -66,7 +69,10 @@ Rules
 "Palatal mark loss before vowel"
 !! __@RULENAME@__  
     ь:0  <=>   _ %> А2: ;
-   ! JMR 2012-09-18
+            _ %{яы%}: [ #: | %- ] ;
+!!€ башнь%{яы%}#
+!!€ башн0я#
+
       
 
 ! JMR 2012-09-18
@@ -148,6 +154,17 @@ Rules
 !! __@RULENAME@__  
   %{оы%}:е <=> Cns _ [ #: | %- ] ;
 
+"suffix-final vowel realized %{яы%}:ы "
+!! __@RULENAME@__  
+  %{яы%}:ы <=>  [Cns ь| Vow й] _ %>: [ л | г | ш | д | Ы1: ] ;
+        
+"stem-final vowel realized %{яы%}:я"
+!! __@RULENAME@__  
+  %{яы%}:я <=> [Cns ь:| Vow й:] _ [ #: | %- ] ;
+!!€ башнь%{яы%}#
+!!€ башн0я#
+!!€ ай%{яы%}#
+!!€ а0я#
 
 
  

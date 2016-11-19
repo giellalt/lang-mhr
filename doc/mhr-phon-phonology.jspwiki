@@ -7,6 +7,9 @@
  * %{оы%}:о  Stem-final vowel variation when stress falls on non-final vowel
  * %{оы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
 
+ * %{яы%}:я  Stem-final vowel variation when stress falls on non-final vowel
+ * %{яы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+
 
 
 
@@ -30,6 +33,9 @@
 
 
 __Palatal mark loss before vowel__  
+* __башнь%{яы%}# __
+* __башн0я# __
+
 
 
 __Onset vowel loss in suffix__  
@@ -67,6 +73,13 @@ __suffix-final vowel realized %{оы%}:ы __
 
 __stem-final vowel realized %{оы%}:о__  
 
+__suffix-final vowel realized %{яы%}:ы __  
+
+__stem-final vowel realized %{яы%}:я__  
+* __башнь%{яы%}# __
+* __башн0я# __
+* __ай%{яы%}# __
+* __а0я# __
 
 
 
