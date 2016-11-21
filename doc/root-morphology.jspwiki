@@ -140,6 +140,8 @@ symbols in the lexicon files:
  * %{еы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
  * %{оы%}  Stem-final vowel variation when stress falls on non-final vowel
  * %{яы%}  Stem-final vowel variation when stress falls on non-final vowel preceded by ь
+ * %{еоӧØ%}   PxSg3 final
+ * %{ыØ%}   PxSg3 onset
 
 And following triggers to control variation
 
