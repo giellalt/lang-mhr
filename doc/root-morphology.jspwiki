@@ -132,7 +132,6 @@ Semantics are classified with
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
 
-
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
@@ -175,7 +174,6 @@ given the proper use of these flags.
 
 The word forms in UNDEFINED language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
-
 
 
 
