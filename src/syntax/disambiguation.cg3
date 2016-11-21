@@ -172,7 +172,7 @@ SELECT:CmpTst2 CmpTest ; # Kill'em all
 REMOVE CC IF (-1 BOS)(0 Pcle);
 
 # Derivations
-REMOVE (Der/MWN N Nom);
+REMOVE (Der/MWN N Nom) IF (1 N);
 REMOVE Der/са IF (0 ("<(.*)са>"r) + A);
 
 # Cases

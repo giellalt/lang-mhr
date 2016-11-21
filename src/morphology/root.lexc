@@ -407,9 +407,6 @@ LEXICON AD-A
 LEXICON PO_
 +Po: # ;
 
-LEXICON Postp
- PO_ ;
-
 LEXICON INTERJ_
 +Interj: # ;
 
@@ -433,9 +430,6 @@ LEXICON PCLE_
 
 ! First aid lexica, these are not defined.
 ! They are either typos or unfinished work.
-
-LEXICON Vam-n/l1t
- # ;
 
 LEXICON PRON_
 +Pron: # ;
@@ -490,16 +484,10 @@ LEXICON Pimp
 LEXICON I
  # ;
 
-LEXICON Ruotsi
- # ;
-
 LEXICON N-Vs
  # ;
 
 LEXICON PronRef
- # ;
-
-LEXICON a
  # ;
 
 LEXICON KvKoll
@@ -541,38 +529,9 @@ LEXICON Pron
 LEXICON Vem--Vam-n/l
  # ;
 
-LEXICON Vam-1t
- # ;
-
-LEXICON VKielt
-+V+Neg: # ;
-
-LEXICON Vem-Syle1
- # ;
-
-LEXICON Saxmatistka1
- # ;
-
-LEXICON ymbaCYn
- # ;
-
-LEXICON ymbaC
- # ;
-
-LEXICON utYktare1
- # ;
-
-LEXICON tYgutlашte1
- # ;
-
-LEXICON tYgudешte1
- # ;
-
 LEXICON X
  # ;
 
-LEXICON S-a/e
- # ;
 
 
 ! vim: set ft=xfst-lexc:
