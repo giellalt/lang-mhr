@@ -244,3 +244,7 @@ Rules
 ! just to see whether other tests pass:
 !!€ а
 !!€ б
+
+
+"Disallow PxSg3 in ыж everywhere except after ш "
+ы:ы /<= [Ltrs - ш] %> _ ж [.#.| %-]  ;

@@ -413,8 +413,8 @@ LEXICON N-SG-PxSg1-GEN
  +Sg+PxSg1+Gen:%>Е2мын K ;
 
 LEXICON N-SG-PxSg1-DAT
- +Sg+PxSg1+Dat:%>Е2млан K ; !Nx-Px-Cx
- +Sg+PxSg1+Dat:%>ланым  K ; !Nx-Cx-Px
+ +Sg+PxSg1+Dat:%>Е2млан K ; !PX_NB_CX
+ +Sg+PxSg1+Dat:%>ланым  K ; !NB_CX_PX
 
 LEXICON N-SG-PxSg1-ACC
  +Sg+PxSg1+Acc:%>Е2мым K ;
@@ -441,42 +441,52 @@ LEXICON N-SG-PxSg1-ABE
  +Sg+PxSg1+Abe:%>Е2мде K ; !Nx-Px-Cx
 
 LEXICON N-PL-PxSg1-NOM
- +Pl+PxSg1+Nom:%-влакем  K ;
- +Pl+PxSg1+Nom:%-шамычем K ;
+ +Pl+PxSg1+Nom:%-влакем  K ; !NB_PX_CX
+ +Pl+PxSg1+Nom:%-шамычем K ; !NB_PX_CX
+ +Pl+PxSg1+Nom:%>Е2м%-влак  K ; !PX_NB_CX
+ +Pl+PxSg1+Nom:%>Е2м%-шамыч K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg1-GEN
- +Pl+PxSg1+Gen:%-влакемын  K ;
- +Pl+PxSg1+Gen:%-шамычемын K ;
+ +Pl+PxSg1+Gen:%-влакемын  K ; !NB_PX_CX
+ +Pl+PxSg1+Gen:%-шамычемын K ; !NB_PX_CX
+ +Pl+PxSg1+Gen:%>Е2м%-влакын  K ; !PX_NB_CX
+ +Pl+PxSg1+Gen:%>Е2м%-шамычын K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg1-DAT
- +Pl+PxSg1+Dat:%-влакемлан  K ; !Nx-Px-Cx
- +Pl+PxSg1+Dat:%-шамычемлан K ; !Nx-Px-Cx
+ +Pl+PxSg1+Dat:%-влакемлан  K ; !NB_PX_CX
+ +Pl+PxSg1+Dat:%-шамычемлан K ; !NB_PX_CX
+ +Pl+PxSg1+Dat:%>Е2м%-влаклан  K ; !PX_NB_CX
+ +Pl+PxSg1+Dat:%>Е2м%-шамычлан K ; !PX_NB_CX
+ +Pl+PxSg1+Dat:%-влакланем  K ; !NB_CX_PX
+ +Pl+PxSg1+Dat:%-шамычланем K ; !NB_CX_PX
 
 LEXICON N-PL-PxSg1-ACC
- +Pl+PxSg1+Acc:%-влакемым  K ; !Nx-Px-Cx
- +Pl+PxSg1+Acc:%-шамычемым K ; !Nx-Px-Cx
+ +Pl+PxSg1+Acc:%-влакемым  K ; !NB_PX_CX
+ +Pl+PxSg1+Acc:%-шамычемым K ; !NB_PX_CX
+ +Pl+PxSg1+Acc:%>Е2м%-влакым  K ; !PX_NB_CX
+ +Pl+PxSg1+Acc:%>Е2м%-шамычым K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg1-CMP
- +Pl+PxSg1+Cmp:%-влакемла  K ; !Nx-Px-Cx
- +Pl+PxSg1+Cmp:%-шамычемла K ; !Nx-Px-Cx
- +Pl+PxSg1+Cmp:%-влаклам   K ; !Nx-Cx-Px
- +Pl+PxSg1+Cmp:%-шамычлам  K ; !Nx-Cx-Px
+ +Pl+PxSg1+Cmp:%-влакемла  K ; !NB_PX_CX
+ +Pl+PxSg1+Cmp:%-шамычемла K ; !NB_PX_CX
+ +Pl+PxSg1+Cmp:%>Е2м%-влакла   K ; !PX_NB_CX
+ +Pl+PxSg1+Cmp:%>Е2м%-шамычла  K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg1-COM
  +Pl+PxSg1+Com:%-влакемге  K ; !Nx-Px-Cx
  +Pl+PxSg1+Com:%-шамычемге K ; !Nx-Px-Cx
 
 LEXICON N-PL-PxSg1-INE
- +Pl+PxSg1+Ine:%-влакемыште  K ; !Nx-Cx-Px
- +Pl+PxSg1+Ine:%-шамычемыште K ; !Nx-Cx-Px
- +Pl+PxSg1+Ine:%-влакемыште  K ; !Nx-Px-Cx
- +Pl+PxSg1+Ine:%-шамычемыште K ; !Nx-Px-Cx
+ +Pl+PxSg1+Ine:%-влакемыште  K ; !NB_CX_PX
+ +Pl+PxSg1+Ine:%-шамычемыште K ; !NB_CX_PX
+ +Pl+PxSg1+Ine:%>Е2м%-влакыште  K ; !PX_NB_CX
+ +Pl+PxSg1+Ine:%>Е2м%-шамычыште K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg1-ILL
- +Pl+PxSg1+Ill:%-влакышкем   K ; !Nx-Cx-Px
- +Pl+PxSg1+Ill:%-шамычышкем  K ; !Nx-Cx-Px
- +Pl+PxSg1+Ill:%-влакемышке  K ; !Nx-Px-Cx
- +Pl+PxSg1+Ill:%-шамычемышке K ; !Nx-Px-Cx
+ +Pl+PxSg1+Ill:%-влакышкем   K ; !NB_CX_PX
+ +Pl+PxSg1+Ill:%-шамычышкем  K ; !NB_CX_PX
+ +Pl+PxSg1+Ill:%>Е2м%-влакышке  K ; !PX_NB_CX
+ +Pl+PxSg1+Ill:%>Е2м%-шамычышке K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg1-LAT
  +Pl+PxSg1+Lat:%-влакешем  K ; !Nx-Cx-Px
@@ -494,8 +504,8 @@ LEXICON N-SG-PxSg2-GEN
  +Sg+PxSg2+Gen:%>Е2тын K ; !Nx-Px-Cx
 
 LEXICON N-SG-PxSg2-DAT
- +Sg+PxSg2+Dat:%>Е2тлан K ; !Nx-Px-Cx
- +Sg+PxSg2+Dat:%>ланет  K ; !Nx-Cx-Px
+ +Sg+PxSg2+Dat:%>Е2тлан K ; !NB_PX_CX
+ +Sg+PxSg2+Dat:%>ланет  K ; !NB_CX_PX
 
 LEXICON N-SG-PxSg2-ACC
  +Sg+PxSg2+Acc:%>Е2тым K ; !Nx-Px-Cx
@@ -508,8 +518,8 @@ LEXICON N-SG-PxSg2-COM
  +Sg+PxSg2+Com:%>Е2тге K ; !Nx-Px-Cx
 
 LEXICON N-SG-PxSg2-INE
- +Sg+PxSg2+Ine:%>ыштет   K ; !Nx-Cx-Px
- +Sg+PxSg2+Ine:%>Е2тыште K ; !Nx-Px-Cx
+ +Sg+PxSg2+Ine:%>ыштет   K ; !NB_CX_PX
+ +Sg+PxSg2+Ine:%>Е2тыште K ; !NB_PX_CX
 
 LEXICON N-SG-PxSg2-ILL
  +Sg+PxSg2+Ill:%>ышкет   K ; !NB_CX_PX
@@ -522,28 +532,34 @@ LEXICON N-SG-PxSg2-ABE
  +Sg+PxSg2+Abe:%>Е2тде K ; !NB_PX_CX
 
 LEXICON N-PL-PxSg2-NOM
- +Pl+PxSg2+Nom:%-влакет  K ;
- +Pl+PxSg2+Nom:%-шамычет K ;
+ +Pl+PxSg2+Nom:%-влакет  K ; !NB_PX_CX
+ +Pl+PxSg2+Nom:%-шамычет K ; !NB_PX_CX
+ +Pl+PxSg2+Nom:%>Е2т%-влак  K ; !PX_NB_CX
+ +Pl+PxSg2+Nom:%>Е2т%-шамыч K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg2-GEN
  +Pl+PxSg2+Gen:%-влакетын  K ; !NB_PX_CX
  +Pl+PxSg2+Gen:%-шамычетын K ; !NB_PX_CX
+ +Pl+PxSg2+Gen:%>Е2т%-влакын  K ; !PX_NB_CX
+ +Pl+PxSg2+Gen:%>Е2т%-шамычын K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg2-DAT
  +Pl+PxSg2+Dat:%-влакетлан  K ; !NB_PX_CX
  +Pl+PxSg2+Dat:%-шамычетлан K ; !NB_PX_CX
+ +Pl+PxSg2+Dat:%>Е2т%-влаклан  K ; !PX_NB_CX
+ +Pl+PxSg2+Dat:%>Е2т%-шамычлан K ; !PX_NB_CX
  +Pl+PxSg2+Dat:%-влакланет  K ; !NB_CX_PX
  +Pl+PxSg2+Dat:%-шамычланет K ; !NB_CX_PX
 
 LEXICON N-PL-PxSg2-ACC
  +Pl+PxSg2+Acc:%-влакетым  K ; !NB_PX_CX
  +Pl+PxSg2+Acc:%-шамычетым K ; !NB_PX_CX
+ +Pl+PxSg2+Acc:%>Е2т%-влакым  K ; !PX_NB_CX
+ +Pl+PxSg2+Acc:%>Е2т%-шамычым K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg2-CMP
  +Pl+PxSg2+Cmp:%-влакетла  K ; !NB_PX_CX
  +Pl+PxSg2+Cmp:%-шамычетла K ; !NB_PX_CX
- +Pl+PxSg2+Cmp:%-влаклает  K ; !NB_CX_PX
- +Pl+PxSg2+Cmp:%-шамычлает K ; !NB_CX_PX
 
 LEXICON N-PL-PxSg2-COM
  +Pl+PxSg2+Com:%-влакетге  K ; !NB_PX_CX
@@ -552,12 +568,14 @@ LEXICON N-PL-PxSg2-COM
 LEXICON N-PL-PxSg2-INE
  +Pl+PxSg2+Ine:%-влакыштет   K ; !NB_CX_PX
  +Pl+PxSg2+Ine:%-шамычыштет  K ; !NB_CX_PX
- +Pl+PxSg2+Ine:%-влакетыште  K ; !NB_PX_CX
- +Pl+PxSg2+Ine:%-шамычетыште K ; !NB_PX_CX
+ +Pl+PxSg2+Ine:%>Е2т%-влакыште  K ; !PX_NB_CX
+ +Pl+PxSg2+Ine:%>Е2т%-шамычыште K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg2-ILL
  +Pl+PxSg2+Ill:%-влакышкет  K ; !NB_CX_PX
  +Pl+PxSg2+Ill:%-шамычышкет K ; !NB_CX_PX
+ +Pl+PxSg2+Ill:%>Е2т%-влакышке  K ; !PX_NB_CX
+ +Pl+PxSg2+Ill:%>Е2т%-шамычышке K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg2-LAT
  +Pl+PxSg2+Lat:%-влакешет  K ; !NB_CX_PX
@@ -569,53 +587,79 @@ LEXICON N-PL-PxSg2-ABE
 
 !!Sg3
 LEXICON N-SG-PxSg3-NOM
- +Sg+PxSg3+Nom:%>%{ыØ%}ж%{еоӧØ%} K ;
+ +Sg+PxSg3+Nom:%>ыж K ; ! Only after ш see twolc
  +Sg+PxSg3+Nom:%>жЫ2 K ;
 
 LEXICON N-SG-PxSg3-GEN
+ +Sg+PxSg3+Gen:%>ыж%>ын K ;
  +Sg+PxSg3+Gen:жын K ;
 
 LEXICON N-SG-PxSg3-DAT
+ +Sg+PxSg3+Dat:%>ыж%>лан  K ; !Nx-Px-Cx
  +Sg+PxSg3+Dat:жлан  K ; !Nx-Px-Cx
  +Sg+PxSg3+Dat:ланже K ;
 
 LEXICON N-SG-PxSg3-ACC
+ +Sg+PxSg3+Acc:%>ыж%>ым K ; !Nx-Px-Cx
  +Sg+PxSg3+Acc:жым K ; !Nx-Px-Cx
 
 LEXICON N-SG-PxSg3-CMP
+ +Sg+PxSg3+Cmp:%>ыж%>ла  K ; !Nx-Px-Cx
  +Sg+PxSg3+Cmp:жла  K ; !Nx-Px-Cx
  +Sg+PxSg3+Cmp:лаже K ;
 
 LEXICON N-SG-PxSg3-COM
+ +Sg+PxSg3+Com:%>ыж%>ге K ; !Nx-Px-Cx 2016-10-12 THIS FAR
  +Sg+PxSg3+Com:жге K ; !Nx-Px-Cx 2016-10-12 THIS FAR
 
 LEXICON N-SG-PxSg3-INE
+ +Sg+PxSg3+Ine:%>ыж%>ште K ;
  +Sg+PxSg3+Ine:жште K ;
 
 LEXICON N-SG-PxSg3-ILL
+ +Sg+PxSg3+Ill:%>ыж%>шке K ;
  +Sg+PxSg3+Ill:жшке K ;
 
 LEXICON N-SG-PxSg3-LAT
  +Sg+PxSg3+Lat:эшше K ;
 
 LEXICON N-SG-PxSg3-ABE
+ +Sg+PxSg3+Abe:%>ыж%>де K ;
  +Sg+PxSg3+Abe:жде K ;
 
 LEXICON N-PL-PxSg3-NOM
- +Pl+PxSg3+Nom:%-влакше  K ;
- +Pl+PxSg3+Nom:%-шамычше K ;
+ +Pl+PxSg3+Nom:%-влакше  K ; !NB_PX_CX
+ +Pl+PxSg3+Nom:%-шамычше K ; !NB_PX_CX
+ +Pl+PxSg3+Nom:%>жЫ2%-влакше  K ; !PX_NB_CX
+ +Pl+PxSg3+Nom:%>жЫ2%-шамычше K ; !PX_NB_CX
+ +Pl+PxSg3+Nom:%>ыж%-влакше  K ; !PX_NB_CX
+ +Pl+PxSg3+Nom:%>ыж%-шамычше K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg3-GEN
- +Pl+PxSg3+Gen:%-влакшын  K ;
- +Pl+PxSg3+Gen:%-шамычшын K ;
+ +Pl+PxSg3+Gen:%-влакшын  K ; !NB_PX_CX
+ +Pl+PxSg3+Gen:%-шамычшын K ; !NB_PX_CX
+ +Pl+PxSg3+Gen:%>жЫ2%-влакын  K ; !PX_NB_CX
+ +Pl+PxSg3+Gen:%>жЫ2%-шамычын K ; !PX_NB_CX
+ +Pl+PxSg3+Gen:%>ыж%-влакын  K ; !PX_NB_CX
+ +Pl+PxSg3+Gen:%>ыж%-шамычын K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg3-DAT
- +Pl+PxSg3+Dat:%-влакшылан  K ;
- +Pl+PxSg3+Dat:%-шамычшылан K ;
+ +Pl+PxSg3+Dat:%-влакшылан  K ; !NB_PX_CX
+ +Pl+PxSg3+Dat:%-шамычшылан K ; !NB_PX_CX
+ +Pl+PxSg3+Dat:%-влакланже  K ; !NB_CX_PX
+ +Pl+PxSg3+Dat:%-шамычланже K ; !NB_CX_PX
+ +Pl+PxSg3+Dat:%>жЫ2%-влаклан  K ; !PX_NB_CX
+ +Pl+PxSg3+Dat:%>жЫ2%-шамычлан K ; !PX_NB_CX
+ +Pl+PxSg3+Dat:%>ыж%-влаклан  K ; !PX_NB_CX
+ +Pl+PxSg3+Dat:%>ыж%-шамычлан K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg3-ACC
- +Pl+PxSg3+Acc:%-влакшым  K ;
- +Pl+PxSg3+Acc:%-шамычшым K ;
+ +Pl+PxSg3+Acc:%-влакшым  K ; !NB_PX_CX
+ +Pl+PxSg3+Acc:%-шамычшым K ; !NB_PX_CX
+ +Pl+PxSg3+Acc:%>жЫ2%-влакым  K ; !PX_NB_CX
+ +Pl+PxSg3+Acc:%>жЫ2%-шамычым K ; !PX_NB_CX
+ +Pl+PxSg3+Acc:%>ыж%-влакым  K ; !PX_NB_CX
+ +Pl+PxSg3+Acc:%>ыж%-шамычым K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg3-CMP
  +Pl+PxSg3+Cmp:%-влакшыла  K ;
@@ -626,12 +670,20 @@ LEXICON N-PL-PxSg3-COM
  +Pl+PxSg3+Com:%-шамычшыге K ;
 
 LEXICON N-PL-PxSg3-INE
- +Pl+PxSg3+Ine:%-влакыштыже  K ;
- +Pl+PxSg3+Ine:%-шамычыштыже K ;
+ +Pl+PxSg3+Ine:%-влакыштыже  K ; !NB_CX_PX
+ +Pl+PxSg3+Ine:%-шамычыштыже K ; !NB_CX_PX
+ +Pl+PxSg3+Ine:%>жЫ2%-влакыште  K ; !PX_NB_CX
+ +Pl+PxSg3+Ine:%>жЫ2%-шамычыште K ; !PX_NB_CX
+ +Pl+PxSg3+Ine:%>ыж%-влакыште  K ; !PX_NB_CX
+ +Pl+PxSg3+Ine:%>ыж%-шамычыште K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg3-ILL
- +Pl+PxSg3+Ill:%-влакышкыже  K ;
- +Pl+PxSg3+Ill:%-шамычышкыше K ;
+ +Pl+PxSg3+Ill:%-влакышкыже  K ; !NB_CX_PX
+ +Pl+PxSg3+Ill:%-шамычышкыже K ; !NB_CX_PX
+ +Pl+PxSg3+Ill:%>жЫ2%-влакышкыже  K ; !PX_NB_CX
+ +Pl+PxSg3+Ill:%>жЫ2%-шамычышкыже K ; !PX_NB_CX
+ +Pl+PxSg3+Ill:%>ыж%-влакышкыже  K ; !PX_NB_CX
+ +Pl+PxSg3+Ill:%>ыж%-шамычышкыже K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg3-LAT
  +Pl+PxSg3+Lat:%-влакешыже  K ;
@@ -649,7 +701,8 @@ LEXICON N-SG-PxPl1-GEN
  +Sg+PxPl1+Gen:нан K ;
 
 LEXICON N-SG-PxPl1-DAT
- +Sg+PxPl1+Dat:налан K ;
+ +Sg+PxPl1+Dat:налан K ;	!NB_PX_CX
+ +Sg+PxPl1+Dat:ланна K ;	!NB_CX_PX
 
 LEXICON N-SG-PxPl1-ACC
  +Sg+PxPl1+Acc:нам K ;
@@ -673,20 +726,30 @@ LEXICON N-SG-PxPl1-ABE
  +Sg+PxPl1+Abe:наде K ;
 
 LEXICON N-PL-PxPl1-NOM
- +Pl+PxPl1+Nom:%-влакна  K ;
- +Pl+PxPl1+Nom:%-шамычна K ;
+ +Pl+PxPl1+Nom:%-влакна  K ;	!NB_PX_CX
+ +Pl+PxPl1+Nom:%-шамычна K ;	!NB_PX_CX
+ +Pl+PxPl1+Nom:%>на%-влак  K ;  !PX_NB_CX
+ +Pl+PxPl1+Nom:%>на%-шамыч K ;  !PX_NB_CX
 
 LEXICON N-PL-PxPl1-GEN
- +Pl+PxPl1+Gen:%-влакнан  K ;
- +Pl+PxPl1+Gen:%-шамычнан K ;
+ +Pl+PxPl1+Gen:%-влакнан  K ;	!NB_PX_CX
+ +Pl+PxPl1+Gen:%-шамычнан K ;	!NB_PX_CX
+ +Pl+PxPl1+Gen:%>на%-влакын  K ;	!PX_NB_CX
+ +Pl+PxPl1+Gen:%>на%-шамычын K ;	!PX_NB_CX
 
 LEXICON N-PL-PxPl1-DAT
- +Pl+PxPl1+Dat:%-влакналан  K ;
- +Pl+PxPl1+Dat:%-шамычналан K ;
+ +Pl+PxPl1+Dat:%-влакналан  K ;	!NB_PX_CX
+ +Pl+PxPl1+Dat:%-шамычналан K ;	!NB_PX_CX
+ +Pl+PxPl1+Dat:%>на%-влаклан  K ;  !PX_NB_CX
+ +Pl+PxPl1+Dat:%>на%-шамычлан K ;  !PX_NB_CX
+ +Pl+PxPl1+Dat:%-влакланна  K ;	 !NB_CX_PX
+ +Pl+PxPl1+Dat:%-шамычланна K ;	 !NB_CX_PX
 
 LEXICON N-PL-PxPl1-ACC
- +Pl+PxPl1+Acc:%-влакнам  K ;
- +Pl+PxPl1+Acc:%-шамычнам K ;
+ +Pl+PxPl1+Acc:%-влакнам  K ;	!NB_PX_CX
+ +Pl+PxPl1+Acc:%-шамычнам K ;	!NB_PX_CX
+ +Pl+PxPl1+Acc:%>на%-влакым  K ;   !PX_NB_CX
+ +Pl+PxPl1+Acc:%>на%-шамычым K ;   !PX_NB_CX
 
 LEXICON N-PL-PxPl1-CMP
  +Pl+PxPl1+Cmp:%-влакнала  K ;
@@ -697,12 +760,16 @@ LEXICON N-PL-PxPl1-COM
  +Pl+PxPl1+Com:%-шамычнаге K ;
 
 LEXICON N-PL-PxPl1-INE
- +Pl+PxPl1+Ine:%-влакнаште  K ;
- +Pl+PxPl1+Ine:%-шамычнаште K ;
+ +Pl+PxPl1+Ine:%-влакнаште  K ;	!NB_PX_CX CHECK-ME
+ +Pl+PxPl1+Ine:%-шамычнаште K ;	!NB_PX_CX
+ +Pl+PxPl1+Ine:%>на%-влакыште  K ;	!PX_NB_CX
+ +Pl+PxPl1+Ine:%>на%-шамычыште K ;	!PX_NB_CX
 
 LEXICON N-PL-PxPl1-ILL
- +Pl+PxPl1+Ill:%-влакнашке  K ;
- +Pl+PxPl1+Ill:%-шамычнашке K ;
+ +Pl+PxPl1+Ill:%-влакнашке  K ; !NB_PX_CX
+ +Pl+PxPl1+Ill:%-шамычнашке K ; !NB_PX_CX
+ +Pl+PxPl1+Ill:%>на%-влакышке  K ; !PX_NB_CX
+ +Pl+PxPl1+Ill:%>на%-шамычышке K ; !PX_NB_CX
 
 LEXICON N-PL-PxPl1-LAT
  +Pl+PxPl1+Lat:%-влакешна  K ;
@@ -720,7 +787,8 @@ LEXICON N-SG-PxPl2-GEN
  +Sg+PxPl2+Gen:дан K ;
 
 LEXICON N-SG-PxPl2-DAT
- +Sg+PxPl2+Dat:далан K ;
+ +Sg+PxPl2+Dat:%>далан K ; !NB_PX_CX
+ +Sg+PxPl2+Dat:%>ланда K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl2-ACC
  +Sg+PxPl2+Acc:дам K ;
@@ -744,20 +812,30 @@ LEXICON N-SG-PxPl2-ABE
  +Sg+PxPl2+Abe:даде K ;
 
 LEXICON N-PL-PxPl2-NOM
- +Pl+PxPl2+Nom:%-влакда  K ;
- +Pl+PxPl2+Nom:%-шамычда K ;
+ +Pl+PxPl2+Nom:%-влакда  K ; !NB_PX_CX
+ +Pl+PxPl2+Nom:%-шамычда K ; !NB_PX_CX
+ +Pl+PxPl2+Nom:%>да%-влак  K ; !PX_NB_CX
+ +Pl+PxPl2+Nom:%>да%-шамыч K ; !PX_NB_CX
 
 LEXICON N-PL-PxPl2-GEN
- +Pl+PxPl2+Gen:%-влакдан  K ;
- +Pl+PxPl2+Gen:%-шамычдан K ;
+ +Pl+PxPl2+Gen:%-влакдан  K ; !NB_PX_CX
+ +Pl+PxPl2+Gen:%-шамычдан K ; !NB_PX_CX
+ +Pl+PxPl2+Gen:%>да%-влакын  K ; !PX_NB_CX
+ +Pl+PxPl2+Gen:%>да%-шамычын K ; !PX_NB_CX
 
 LEXICON N-PL-PxPl2-DAT
- +Pl+PxPl2+Dat:%-влакдалан  K ;
- +Pl+PxPl2+Dat:%-шамычдалан K ;
+ +Pl+PxPl2+Dat:%-влакдалан  K ; !NB_PX_CX
+ +Pl+PxPl2+Dat:%-шамычдалан K ; !NB_PX_CX
+ +Pl+PxPl2+Dat:%>да%-влаклан  K ; !PX_NB_CX
+ +Pl+PxPl2+Dat:%>да%-шамычлан K ; !PX_NB_CX
+ +Pl+PxPl2+Dat:%-влакланда  K ; !NB_CX_PX
+ +Pl+PxPl2+Dat:%-шамычланда K ; !NB_CX_PX
 
 LEXICON N-PL-PxPl2-ACC
- +Pl+PxPl2+Acc:%-влакдам  K ;
- +Pl+PxPl2+Acc:%-шамычдам K ;
+ +Pl+PxPl2+Acc:%-влакдам  K ;	!NB_PX_CX
+ +Pl+PxPl2+Acc:%-шамычдам K ;	!NB_PX_CX
+ +Pl+PxPl2+Acc:%>да%-влакым  K ;  !PX_NB_CX
+ +Pl+PxPl2+Acc:%>да%-шамычым K ;  !PX_NB_CX
 
 LEXICON N-PL-PxPl2-CMP
  +Pl+PxPl2+Cmp:%-влакдала  K ;
@@ -768,12 +846,16 @@ LEXICON N-PL-PxPl2-COM
  +Pl+PxPl2+Com:%-шамычдаге K ;
 
 LEXICON N-PL-PxPl2-INE
- +Pl+PxPl2+Ine:%-влакдаште  K ;
- +Pl+PxPl2+Ine:%-шамычдаште K ;
+ +Pl+PxPl2+Ine:%-влакдаште  K ;	!NB_PX_CX
+ +Pl+PxPl2+Ine:%-шамычдаште K ;	!NB_PX_CX
+ +Pl+PxPl2+Ine:%>да%-влакыште  K ;	!PX_NB_CX
+ +Pl+PxPl2+Ine:%>да%-шамычыште K ;	!PX_NB_CX
 
 LEXICON N-PL-PxPl2-ILL
- +Pl+PxPl2+Ill:%-влакдашке  K ;
- +Pl+PxPl2+Ill:%-шамычдашке K ;
+ +Pl+PxPl2+Ill:%-влакдашке  K ; !NB_PX_CX
+ +Pl+PxPl2+Ill:%-шамычдашке K ; !NB_PX_CX
+ +Pl+PxPl2+Ill:%>да%-влакышке  K ; !PX_NB_CX
+ +Pl+PxPl2+Ill:%>да%-шамычышке K ; !PX_NB_CX
 
 LEXICON N-PL-PxPl2-LAT
  +Pl+PxPl2+Lat:%-влакешда  K ;
@@ -791,7 +873,8 @@ LEXICON N-SG-PxPl3-GEN
  +Sg+PxPl3+Gen:Ы1штын K ;
 
 LEXICON N-SG-PxPl3-DAT
- +Sg+PxPl3+Dat:Ы1штлан K ;
+ +Sg+PxPl3+Dat:%>Ы1штлан K ; !NB_PX_CX
+ +Sg+PxPl3+Dat:%>ланышт K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl3-ACC
  +Sg+PxPl3+Acc:Ы1штым K ;
@@ -815,20 +898,30 @@ LEXICON N-SG-PxPl3-ABE
  +Sg+PxPl3+Abe:Ы1штде K ;
 
 LEXICON N-PL-PxPl3-NOM
- +Pl+PxPl3+Nom:%-влакышт  K ;
- +Pl+PxPl3+Nom:%-шамычышт K ;
+ +Pl+PxPl3+Nom:%-влакышт  K ; !NB_PX_CX
+ +Pl+PxPl3+Nom:%-шамычышт K ; !NB_PX_CX
+ +Pl+PxPl3+Nom:%>Ы1шт%-влак  K ; !PX_NB_CX
+ +Pl+PxPl3+Nom:%>Ы1шт%-шамыч K ; !PX_NB_CX
 
 LEXICON N-PL-PxPl3-GEN
- +Pl+PxPl3+Gen:%-влакыштын  K ;
- +Pl+PxPl3+Gen:%-шамычыштын K ;
+ +Pl+PxPl3+Gen:%-влакыштын  K ; !NB_PX_CX
+ +Pl+PxPl3+Gen:%-шамычыштын K ; !NB_PX_CX
+ +Pl+PxPl3+Gen:%>Ы1шт%-влакын  K ; !PX_NB_CX
+ +Pl+PxPl3+Gen:%>Ы1шт%-шамычын K ; !PX_NB_CX
 
 LEXICON N-PL-PxPl3-DAT
- +Pl+PxPl3+Dat:%-влакыштлан  K ;
- +Pl+PxPl3+Dat:%-шамычыштлан K ;
+ +Pl+PxPl3+Dat:%-влакыштлан  K ; !NB_PX_CX
+ +Pl+PxPl3+Dat:%-шамычыштлан K ; !NB_PX_CX
+ +Pl+PxPl3+Dat:%>Ы1шт%-влаклан  K ; !PX_NB_CX
+ +Pl+PxPl3+Dat:%>Ы1шт%-шамычлан K ; !PX_NB_CX
+ +Pl+PxPl3+Dat:%-влакланышт  K ; !NB_CX_PX
+ +Pl+PxPl3+Dat:%-шамычланышт K ; !NB_CX_PX
 
 LEXICON N-PL-PxPl3-ACC
- +Pl+PxPl3+Acc:%-влакыштым  K ;
- +Pl+PxPl3+Acc:%-шамычыштым K ;
+ +Pl+PxPl3+Acc:%-влакыштым  K ; !NB_PX_CX
+ +Pl+PxPl3+Acc:%-шамычыштым K ; !NB_PX_CX
+ +Pl+PxPl3+Acc:%>Ы1шт%-влакым  K ; !PX_NB_CX
+ +Pl+PxPl3+Acc:%>Ы1шт%-шамычым K ; !PX_NB_CX
 
 LEXICON N-PL-PxPl3-CMP
  +Pl+PxPl3+Cmp:%-влакыштла  K ;
@@ -839,12 +932,16 @@ LEXICON N-PL-PxPl3-COM
  +Pl+PxPl3+Com:%-шамычыштге K ;
 
 LEXICON N-PL-PxPl3-INE
- +Pl+PxPl3+Ine:%-влакыштыште  K ;
- +Pl+PxPl3+Ine:%-шамычыштыште K ;
+ +Pl+PxPl3+Ine:%-влакыштыште  K ;	!NB_PX_CX
+ +Pl+PxPl3+Ine:%-шамычыштыште K ;	!NB_PX_CX
+ +Pl+PxPl3+Ine:%>Ы1шт%-влакыште  K ; !PX_NB_CX
+ +Pl+PxPl3+Ine:%>Ы1шт%-шамычыште K ; !PX_NB_CX
 
 LEXICON N-PL-PxPl3-ILL
- +Pl+PxPl3+Ill:%-влакыштышке  K ;
- +Pl+PxPl3+Ill:%-шамычыштышке K ;
+ +Pl+PxPl3+Ill:%-влакыштышке  K ;	!NB_PX_CX
+ +Pl+PxPl3+Ill:%-шамычыштышке K ;	!NB_PX_CX
+ +Pl+PxPl3+Ill:%>Ы1шт%-влакышке  K ; !PX_NB_CX
+ +Pl+PxPl3+Ill:%>Ы1шт%-шамычышке K ; !PX_NB_CX
 
 LEXICON N-PL-PxPl3-LAT
  +Pl+PxPl3+Lat:%-влакешышт  K ;
