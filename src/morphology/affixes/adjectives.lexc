@@ -12,6 +12,12 @@ LEXICON A_
     +А+Comp:%>рак #  ;
  +A+Der/MWN:      N_ ;
 
+LEXICON A-a/e
+         +A:      K  ; ! missing comparative
+    +А+Comp:%>рак #  ;
+ +A+Der/MWN:      N-a/e ;
+
+
 
 LEXICON A/S-a/e ! XXX do not know
   A_ ;
