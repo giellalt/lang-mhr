@@ -12,6 +12,12 @@
  * %{яы%}:я  Stem-final vowel variation when stress falls on non-final vowel
  * %{яы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
 
+ * %{еоӧØ%}:е   PxSg3 final
+ * %{еоӧØ%}:о   PxSg3 final
+ * %{еоӧØ%}:ӧ   PxSg3 final
+ * %{еоӧØ%}:0   PxSg3 final
+ * %{ыØ%}:ы   PxSg3 onset
+ * %{ыØ%}:0   PxSg3 onset
 
 
 
@@ -58,6 +64,8 @@ __suffix-final vowel realized as +Back +Round in word-final position__
 __suffix-final vowel realized as +Front +Round in word-final position__  
 
 
+
+
 __suffix-final vowel realized after stem-final consonant__  
 
 __stem-final vowel realized as -Round in word-final position__  
@@ -88,7 +96,21 @@ __stem-final vowel realized %{яы%}:я__
 * __ай%{яы%} __
 * __а0я __
 
+__suffix-final vowel loss after stem-final vowel__  
 
+__suffix-final vowel realized after stem-final consonant__  
+
+__suffix-final vowel realized as -Round in word-final position__  
+
+__suffix-final vowel realized as +Back +Round in word-final position__  
+
+__suffix-final vowel realized as +Front +Round in word-final position__  
+
+
+
+__suffix-onset vowel in ы__
+* __йолташ%>%{ыØ%}ж%{еоӧØ%}# __
+* __йолташ%>ыж0# __
 
 __Clitics in At and Ak take onset glide__  
 
