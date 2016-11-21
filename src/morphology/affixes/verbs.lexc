@@ -218,6 +218,8 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
                      +Der/mO:%>мЫ2   N_                       ;
                         +Ger:%>шыла  K                        ;
 
++V→N:маш N_ ;
+
 
 
 
@@ -325,6 +327,7 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
 
 LEXICON C !!= @CODE@ gives Comparative rak
  +Cmp:&рак Lex0 "rak" ;
+
 
 
 ! vim: set ft=xfst-lexc:
