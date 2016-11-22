@@ -1,5 +1,254 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="">
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Виса</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КУДО">Виса</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="N" type="Prop">Вичымбал</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КАЛ">Вичымбал</st>
+      </stg>
+
+      <stress>Вичымба•л</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Индешкугарня</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КУДО">Индешкугарня</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Иргаза</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КУДО">Иргаза</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Йыгыр</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КУДО">Йыгыр</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Кол</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КАЛ">Кол</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Коркашӱдыр</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КАЛ">Коркашӱдыр</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Лев</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КАЛ">Лев</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="N" type="Prop">Овен</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КАЛ">Овен</st>
+      </stg>
+
+      <stress>О•вен</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Презе</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КУДО">Презе</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Рак</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КАЛ">Рак</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Сабантуй</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КАЛ">Сабантуй</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Семык</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КАЛ">Семык</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Скорпион</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КАЛ">Скорпион</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Шоктешӱдыр</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КАЛ">Шоктешӱдыр</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Шорык</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КАЛ">Шорык</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Шорыкйол</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КАЛ">Шорыкйол</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
   <e>
     <lg>
       <l pos="N" type="Prop">Австралий</l>
