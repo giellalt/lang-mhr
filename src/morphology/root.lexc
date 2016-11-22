@@ -497,9 +497,6 @@ LEXICON KvKoll
 LEXICON KvInd
  # ;
 
-LEXICON A-VS
- # ;
-
 LEXICON KvO
  # ;
 
@@ -508,12 +505,6 @@ LEXICON KvO
 
 LEXICON Pmuu
 +Interj: # ; ! Several Pmuu do not belong here
-
-LEXICON A/S
- # ;
-
-LEXICON A/S-VS
- # ;
 
 LEXICON Kv-a/e
  # ;

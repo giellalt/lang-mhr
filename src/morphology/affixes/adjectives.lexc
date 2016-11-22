@@ -22,6 +22,17 @@ LEXICON A-a/e
 LEXICON A/S-a/e ! XXX do not know
   A_ ;
 
+LEXICON A/S-VS
+ A_ ;
+
+LEXICON A-VS
+ A_ ;
+
+LEXICON A/S
+ A_ ;
+
+
+
 
 
 ! vim: set ft=xfst-lexc:
