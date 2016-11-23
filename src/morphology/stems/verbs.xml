@@ -13036,7 +13036,7 @@
       <l pos="V">лийшаш</l>
 
       <stg>
-        <st Contlex="V">лийшаш</st>
+        <st Contlex="V-AUX_">лийшаш</st>
       </stg>
     </lg>
 
@@ -31272,7 +31272,7 @@
       <l pos="V">улаш</l>
 
       <stg>
-        <st Contlex="V">ул</st>
+        <st Contlex="V-AUX_">ул</st>
       </stg>
     </lg>
 
@@ -31292,7 +31292,7 @@
       <l pos="V">улмаш</l>
 
       <stg>
-        <st Contlex="V">улмаш</st>
+        <st Contlex="V-AUX_">улмаш</st>
       </stg>
     </lg>
 
@@ -31332,7 +31332,7 @@
       <l pos="V">улмашын</l>
 
       <stg>
-        <st Contlex="V">улмашын</st>
+        <st Contlex="V-AUX_">улмашын</st>
       </stg>
     </lg>
 
@@ -39634,7 +39634,7 @@
       <l pos="V">ыле</l>
 
       <stg>
-        <st Contlex="V">ыл</st>
+        <st Contlex="V-AUX_">ыл</st>
       </stg>
     </lg>
 
@@ -39674,7 +39674,7 @@
       <l pos="V">ыльда</l>
 
       <stg>
-        <st Contlex="V">ыльда</st>
+        <st Contlex="V-AUX_">ыльда</st>
       </stg>
     </lg>
 
@@ -39694,7 +39694,7 @@
       <l pos="V">ыльна</l>
 
       <stg>
-        <st Contlex="V">ыльна</st>
+        <st Contlex="V-AUX_">ыльна</st>
       </stg>
     </lg>
 
@@ -39714,7 +39714,7 @@
       <l pos="V">ыльым</l>
 
       <stg>
-        <st Contlex="V">ыльым</st>
+        <st Contlex="V-AUX_">ыльым</st>
       </stg>
     </lg>
 
@@ -39734,7 +39734,7 @@
       <l pos="V">ыльыч</l>
 
       <stg>
-        <st Contlex="V">ыльыч</st>
+        <st Contlex="V-AUX_">ыльыч</st>
       </stg>
     </lg>
 
@@ -39744,7 +39744,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>olit; olivat V</t>
+        <t pos="V">olit; olivat V</t>
       </tg>
     </mg>
   </e>
