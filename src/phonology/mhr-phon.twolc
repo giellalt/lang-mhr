@@ -159,7 +159,7 @@ Rules
 
 "suffix-final vowel realized %{еы%}:ы "
 !! __@RULENAME@__  
-  %{еы%}:ы <=>  [Cns (ь | 0:ь)| Vow 0: ] _ %>: [ л | г | ш | д | Ы1: ] ;
+  %{еы%}:ы <=>  [Cns (ь)| Vow 0: ] _ %>: [ л | г | ш | д | Ы1: ] ;
 
 "stem-final vowel realized %{еы%}:е"
 !! __@RULENAME@__  
@@ -179,12 +179,19 @@ Rules
         
 "stem-final vowel realized %{яы%}:я"
 !! __@RULENAME@__  
-  %{яы%}:я <=> [Cns ь:| Vws й:] _ [ .#. | %- ] ;
+  %{яы%}:я <=> [Cns ь:| Vws 0:] _ [ .#. | %- ] ;
 
 !!€ башнь%{яы%}
 !!€ башн0я
-!!€ ай%{яы%}
-!!€ а0я
+
+"stem-internal glide realized in  0:й %{яы%}:ы "
+!! __@RULENAME@__
+  0:й <=> Vws _ [ %{яы%}:ы | %{еы%}:ы ] ;
+
+
+!!€ а0%{яы%}%>Ы1м
+!!€ айы%>0м
+
 
 !begin %{еоӧØ%}
 "suffix-final vowel loss after stem-final vowel"
