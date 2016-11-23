@@ -656,7 +656,7 @@ LEXICON verbs
 левыкташ:левыкт V_em  "sulattaa; lämmittää (nestettä)" ;
 лекташ:лек t-0  "lähteä, mennä; tulla esiin; saada alkunsa" ;
 лиедаш:лиед V_em  "tapahtua" ;
-лийшаш:лийшаш V  "pitää olla V" ;
+лийшаш:лийшаш V-AUX_  "pitää olla V" ;
 лишемдаш:лишемд V_em  "lähentää" ;
 лишитлаш:лишитл V_em  "riistää oikeudet" ;
 лияш:лий V_am  "voi, saa" ;
@@ -1573,10 +1573,10 @@ LEXICON verbs
 укшинчыкташ:укшинчыкт V_em  "oksettaa" ;
 улаш:ул Vam-n/l  "olla" ;
 улдаш:улд V_em  "rukoilla" ;
-улаш:ул V  "on (olemassa)" ;
-улмаш:улмаш V  "oli; (apuverbi) V" ;
+улаш:ул V-AUX_  "on (olemassa)" ;
+улмаш:улмаш V-AUX_  "oli; (apuverbi) V" ;
 улмаште:улмашт V  "(jnk) ollessa (läsnä); jos on V" ;
-улмашын:улмашын V  "oli; (apuverbi) V" ;
+улмашын:улмашын V-AUX_  "oli; (apuverbi) V" ;
 улнаш:улн V_em  "väsyä; hautua" ;
 умаш:ум V_em  "kasvaa, itää (hyvin); menestyä" ;
 умдараш:умдар V_em  "edistää kasvua/menestykseen" ;
@@ -1991,10 +1991,10 @@ LEXICON verbs
 шӱяҥаш:шӱяҥ V_am  "märkiä" ;
 ызгаш:ызг V_em  "surista" ;
 ылыжташ:ылыжт V_em  "sytyttää; elvyttää" ;
-ыльда:ыльда V  "olitte V" ;
-ыльна:ыльна V  "olimme V" ;
-ыльым:ыльым V  "olin V" ;
-ыльыч:ыльыч V  "olit; olivat V" ;
+ыльда:ыльда V-AUX_  "olitte V" ;
+ыльна:ыльна V-AUX_  "olimme V" ;
+ыльым:ыльым V-AUX_  "olin V" ;
+ыльыч:ыльыч V-AUX_  "olit; olivat V" ;
 ымдылаш:ымдыл V_em  "hyökätä" ;
 ынеда:ынеда Vkielt  "ette halua Vkielt" ;
 ынеж:ынеж Vkielt  "ei halua Vkielt" ;

@@ -31,6 +31,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
+ +Aux
 
 !! The Usage extents are marked using following tags:
  +Err/Orth
@@ -323,7 +324,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 %{еы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
 %{оы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
 %{яы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel preceded by ь
-%{еоӧØ%}  !!= * @CODE@ PxSg3 final
+%{еоыӧØ%}  !!= * @CODE@ PxSg3 final
 %{ыØ%}  !!= * @CODE@ PxSg3 onset
 
  {aä} {oö} {uü}
@@ -476,6 +477,9 @@ LEXICON Vkielt
 LEXICON V
  # ;
 
+LEXICON V-AUX_
++V+Aux: # ;
+
 LEXICON N-e/a
  # ;
 
@@ -512,8 +516,9 @@ LEXICON Kv-a/e
 LEXICON Vem-jykte1
  # ;
 
-LEXICON Pron
-+Pron # ;
+LEXICON PRON-IR_
++Pron+Interr: # ;
++Pron+Rel: # ;
 
 LEXICON Vem--Vam-n/l
  # ;

@@ -21,10 +21,11 @@ Alphabet
 %{яы%}:я !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
 %{яы%}:ы !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
 
-%{еоӧØ%}:е  !!= * @CODE@ PxSg3 final
-%{еоӧØ%}:о  !!= * @CODE@ PxSg3 final
-%{еоӧØ%}:ӧ  !!= * @CODE@ PxSg3 final
-%{еоӧØ%}:0  !!= * @CODE@ PxSg3 final
+%{еоыӧØ%}:е  !!= * @CODE@ PxSg3 final
+%{еоыӧØ%}:о  !!= * @CODE@ PxSg3 final
+%{еоыӧØ%}:ӧ  !!= * @CODE@ PxSg3 final
+%{еоыӧØ%}:0  !!= * @CODE@ PxSg3 final
+%{еоыӧØ%}:ы  !!= * @CODE@ PxSg3 final
 %{ыØ%}:ы  !!= * @CODE@ PxSg3 onset
 %{ыØ%}:0  !!= * @CODE@ PxSg3 onset
 
@@ -158,11 +159,11 @@ Rules
 
 "suffix-final vowel realized %{еы%}:ы "
 !! __@RULENAME@__  
-  %{еы%}:ы <=>  Cns _ %>: [ л | г | ш | д | Ы1: ] ;
+  %{еы%}:ы <=>  [Cns (ь | 0:ь)| Vow 0: ] _ %>: [ л | г | ш | д | Ы1: ] ;
 
 "stem-final vowel realized %{еы%}:е"
 !! __@RULENAME@__  
-  %{еы%}:е <=> Cns _ [ .#. | %- ] ;
+  %{еы%}:е <=> Cns (ь) _ [ .#. | %- ] ;
 
 "suffix-final vowel realized %{оы%}:ы "
 !! __@RULENAME@__  
@@ -188,38 +189,33 @@ Rules
 !begin %{еоӧØ%}
 "suffix-final vowel loss after stem-final vowel"
 !! __@RULENAME@__  
-  %{еоӧØ%}:0 <=> Vws %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
+  %{еоыӧØ%}:0 <=> Vws %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
            Cns %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ е ш | А2: ] ;
 
 "suffix-final vowel realized after stem-final consonant"
 !! __@RULENAME@__  
-  %{еоӧØ%}:ы <=>  Cns %> [ ж: | д ы м ] _ %> [ л | г | ш [ т | к ] | д | Ы1: ] ;
+  %{еоыӧØ%}:ы <=>  Cns %> [ ж: | д ы м ] _ %> [ л | г | ш [ т | к ] | д | Ы1: ] ;
             Vws %> [ ж | д ы м ] _ %> Ы1: [ м | н ] ;
 !            %>  Ы1: ш [ т | к ]  _ %> Ы1: ;
 
 "suffix-final vowel realized as -Round in word-final position"
 !! __@RULENAME@__  
-  %{еоӧØ%}:е <=> :Ve \[ :Vo | :VO ]* %> ( [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+  %{еоыӧØ%}:е <=> :Ve \[ :Vo | :VO ]* %> ( [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
            :Ve [ Cns | :ы | :0 ]* %> %{ыØ%}:0 [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
 "suffix-final vowel realized as +Back +Round in word-final position"
 !! __@RULENAME@__  
-  %{еоӧØ%}:о <=> :Vo [ Cns | :ы | :0 ]* %> ( ( ж: [ %{еоӧØ%}:о | %{еоӧØ%}:ы | %{еоӧØ%}:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+  %{еоыӧØ%}:о <=> :Vo [ Cns | :ы | :0 ]* %> ( ( ж: [ %{еоыӧØ%}:о | %{еоыӧØ%}:ы | %{еоыӧØ%}:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
            :Vo [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
 "suffix-final vowel realized as +Front +Round in word-final position"
 !! __@RULENAME@__  
-  %{еоӧØ%}:ӧ <=> :VO [ Cns | :ы | :0 ]* %> ( ( ж: [ %{еоӧØ%}:ӧ | %{еоӧØ%}:ы | %{еоӧØ%}:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+  %{еоыӧØ%}:ӧ <=> :VO [ Cns | :ы | :0 ]* %> ( ( ж: [ %{еоыӧØ%}:ӧ | %{еоыӧØ%}:ы | %{еоыӧØ%}:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
            :VO [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
 
 !end %{еоӧØ%}
 
-"suffix-onset vowel in ы"
-!! __@RULENAME@__
-%{ыØ%}:0 <=> [ ш ] %> _ ж %{еоӧØ%}: [ .#. | %- | %> ] ;
-!!€ йолташ%>%{ыØ%}ж%{еоӧØ%}#
-!!€ йолташ%>ыж0#
  
 "Clitics in At and Ak take onset glide"
 !! __@RULENAME@__  
@@ -239,7 +235,7 @@ Rules
 ! Devoicing
 "Onset consonant devoicing"
  ж:ш <=> [ Cst | ж ] %> _ Ы2: ;
-         [ Cst | ж ] %> %{ыØ%}:0 _ %{еоӧØ%}: ;  
+         [ Cst | ж ] %> %{ыØ%}:0 _ %{еоыӧØ%}: ;  
 
 ! just to see whether other tests pass:
 !!€ а
@@ -248,3 +244,7 @@ Rules
 
 "Disallow PxSg3 in ыж everywhere except after ш "
 ы:ы /<= [Ltrs - ш] %> _ ж [.#.| %-]  ;
+!!€ йолташ%>ыж#
+!!€ йолташ%>ыж#
+!!$ олма%>ыж#
+!!$ олма%>ыж#
