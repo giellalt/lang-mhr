@@ -1,33 +1,178 @@
 
 !!!Morphology
-INTRODUCTION TO MORPHOLOGICAL ANALYSER OF EASTERN MARI.
+This file consists of three parts:
+# Multichar Symbols declaration
+# The __Root__ lexicon 
+# A set of lexica for minor parts of speech
+# A set of unfinished lexica, to be either deleted or expanded.
 
- !!!Definitions for Multichar_Symbols
+ !!!Declaration of Multichar_Symbols
 
 !!Analysis symbols
-The morphological analyses of wordforms of Eastern Mari language are
+
+The morphological analyses of the wordforms of Eastern Mari language are
 presented in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
+
 The parts-of-speech are:
+
+ * __+N	__ = nouns
+ * __+A	__ = adjectives
+ * __+Adv__ = adverbs
+ * __+V	__ = verbs
+ * __+Pron__ = pronouns
+ * __+CS	__ = subjunctions
+ * __+CC	__ = conjunctions
+ * __+Po	__ = postpositions
+ * __+Pr	__ = prepositons
+ * __+Interj__ = interjections
+ * __+Pcle__ = particles
+ * __+Num__ = numerals
 
 The parts of speech are further split up into:
 
+ * __+Prop__ 
+ * __+Pers__ 
+ * __+Dem__ 
+ * __+Interr__ 
+ * __+Refl__ 
+ * __+Recipr__ 
+ * __+Rel__   
+ * __+Indef__ 
+ * __+Aux__ 
+ * __+Patr__ patronym, look at this in other cyr fsts.
+
+
 The Usage extents are marked using following tags:
 
+ * __+Err/Orth__ orthographical error (analysed, not accepted in speller)
+ * __+Use/-Spell__ accepted in normative FST but not in speller
+
+
+ * __+Use/Test__  Dealing with lative form 2012-10-27 аваеш, пашаш
+ * __+Depend__ ( pair verbs that do not occur independently get this marker.)
+
+The nominals are inflected in the following numbers
+
+ * __+Sg		__ 
+ * __+Pl		__ 
+ * __+AssocPl__ 
+
 The nominals are inflected in the following Case and Number
+
+ * __+Nom 	__ 
+ * __+Gen 	__ 
+ * __+Acc 	__ 
+ * __+Com 	__ conitative
+ * __+Ill 	__ 
+ * __+Ine 	__ 
+ * __+Lat 	__ lative
+ * __+Dat 	__ 
+ * __+Cmp 	__ comparative case
+ * __+Abe	__ abessive
+ * __+Voc	__ vocative
+
 The possession is marked as such:
+
+ * __+PxSg1__ 
+ * __+PxSg2__ 
+ * __+PxSg3__ 
+ * __+PxPl1__ 
+ * __+PxPl2__ 
+ * __+PxPl3__ 
+
 The comparative forms are:
+ * __+Comp__ comparative (not: not Cmp)
+ * __+Superl__ superlative
+
 Numerals are classified under:
+
+ * __+Card__ (hmm, skip +Card?)
+ * __+Ord__ 
+
+
+Note the attributive tag, in defferent contexts
+
+ * __+Attr__ 
+
 Verb moods are:
+
+ * __+Ind__ indicative
+ * __+Cond__ conditional
+ * __+Imprt__ imperative
+ * __+Des__ desiderative
+
+
+Verb tenses are:
+
+ * __+Prs__ present
+ * __+Prt1__ 1st preterite, direct observation
+ * __+Prt2__ 2nd preterite, indirect narrative, conclusion
+
 Verb personal forms are:
+
+ * __+Sg1__ 
+ * __+Sg2__ 
+ * __+Sg3__ 
+ * __+Pl1__ 
+ * __+Pl2__ 
+ * __+Pl3__ 
+
 Other verb forms are
+
+ * __+Inf	__ 
+ * __+Ger	__ 
+ * __+ConNeg	__ 
+ * __+ConNegII__ 
+ * __+Neg	__ 
+ * __+ImprtII__ 
+ * __+Prc	__ 
+ * __+PrfPrc	__ 
+ * __+Sup	__ 
+ * __+VGen	__ 
+ * __+VAbess	__ 
+ * __+Act	__ 
+ * __+Pas	__ 
+ * __+FutPrc	__ 
+ * __+NegPrc	__ 
+ * __+Imprf	__ 
+
+Abbreviated words are classified with:
+ * __+ABBR__ for abbreviations that (may) contain period
+ * __+ACR__ acronyms
+
 Special symbols are classified with:
+
+ * __+CLB__ clause and sentence boundary symbols
+ * __+PUNCT__ other punctuation marks
+ * __+LEFT__ paired symbols
+ * __+RIGHT__ paired symbols
+
 The verbs are syntactically split according to transitivity:
+ * __+TV__ 
+ * __+IV__ 
 Special multiword units are analysed with:
+ * __+Multi__ 
+
 Non-dictionary words can be recognised with:
+ * __+Guess__ 
+
 
 Question and Focus particles:
+ * __+Qst__ 
+ * __+Foc__ 
+
+ * __+Foc/Ат__ 
+ * __+Foc/Ак__ 
+ * __+Foc/Ыс	__ 
+ * __+Foc/ян	__ 
+
+
+Derivations
+
+ * __+Der/MWN__ Modifyer without noun (better: +A+Sg+Nom etc.
+
 
  * __+Sem/Act__ Activity
  * __+Sem/Amount__ Amount
@@ -124,6 +269,131 @@ Question and Focus particles:
 
 
 
+Multiple Semantic tags:
+
+ * __+Sem/Act_Group					__ 
+ * __+Sem/Act_Plc					__ 
+ * __+Sem/Act_Route					__ 
+ * __+Sem/Amount_Build				__ 
+ * __+Sem/Amount_Semcon				__ 
+ * __+Sem/Ani_Body-abstr_Hum			__ 
+ * __+Sem/Ani_Build					__ 
+ * __+Sem/Ani_Build-part				__ 
+ * __+Sem/Ani_Build_Hum_Txt			__ 
+ * __+Sem/Ani_Group					__ 
+ * __+Sem/Ani_Group_Hum				__ 
+ * __+Sem/Ani_Hum					__ 
+ * __+Sem/Ani_Hum_Plc				__ 
+ * __+Sem/Ani_Hum_Time				__ 
+ * __+Sem/Ani_Plc					__ 
+ * __+Sem/Ani_Plc_Txt				__ 
+ * __+Sem/Ani_Time					__ 
+ * __+Sem/Ani_Veh					__ 
+ * __+Sem/Aniprod_Hum				__ 
+ * __+Sem/Aniprod_Obj-clo			__ 
+ * __+Sem/Aniprod_Perc-phys			__ 
+ * __+Sem/Aniprod_Plc				__ 
+ * __+Sem/Body-abstr_Prod-audio_Semcon__ 
+ * __+Sem/Body_Body-abstr			__ 
+ * __+Sem/Body_Clth					__ 
+ * __+Sem/Body_Food					__ 
+ * __+Sem/Body_Group_Hum				__ 
+ * __+Sem/Body_Hum					__ 
+ * __+Sem/Body_Mat					__ 
+ * __+Sem/Body_Measr					__ 
+ * __+Sem/Body_Obj_Tool-catch		__ 
+ * __+Sem/Body_Plc					__ 
+ * __+Sem/Body_Time					__ 
+ * __+Sem/Build-part_Plc				__ 
+ * __+Sem/Build_Build-part			__ 
+ * __+Sem/Build_Clth-part			__ 
+ * __+Sem/Build_Edu_Org				__ 
+ * __+Sem/Build_Event_Org			__ 
+ * __+Sem/Build_Org					__ 
+ * __+Sem/Build_Route				__ 
+ * __+Sem/Clth-jewl_Curr				__ 
+ * __+Sem/Clth-jewl_Money			__ 
+ * __+Sem/Clth-jewl_Plant			__ 
+ * __+Sem/Clth_Hum					__ 
+ * __+Sem/Ctain-abstr_Org			__ 
+ * __+Sem/Ctain-clth_Plant			__ 
+ * __+Sem/Ctain-clth_Veh				__ 
+ * __+Sem/Ctain_Feat-phys			__ 
+ * __+Sem/Ctain_Furn					__ 
+ * __+Sem/Ctain_Tool					__ 
+ * __+Sem/Ctain_Tool-measr			__ 
+ * __+Sem/Curr_Org					__ 
+ * __+Sem/Dance_Org					__ 
+ * __+Sem/Dance_Prod-audio			__ 
+ * __+Sem/Domain_Food-med			__ 
+ * __+Sem/Domain_Prod-audio			__ 
+ * __+Sem/Edu_Event					__ 
+ * __+Sem/Edu_Group_Hum				__ 
+ * __+Sem/Edu_Mat					__ 
+ * __+Sem/Edu_Org					__ 
+ * __+Sem/Event_Food					__ 
+ * __+Sem/Event_Hum					__ 
+ * __+Sem/Event_Plc					__ 
+ * __+Sem/Event_Time					__ 
+ * __+Sem/Feat-phys_Tool-write		__ 
+ * __+Sem/Feat-phys_Veh				__ 
+ * __+Sem/Feat-phys_Wthr				__ 
+ * __+Sem/Feat-psych_Hum				__ 
+ * __+Sem/Feat_Plant					__ 
+ * __+Sem/Food_Perc-phys				__ 
+ * __+Sem/Food_Plant					__ 
+ * __+Sem/Game_Obj-play				__ 
+ * __+Sem/Geom_Obj					__ 
+ * __+Sem/Group_Hum					__ 
+ * __+Sem/Group_Hum_Org				__ 
+ * __+Sem/Group_Hum_Plc				__ 
+ * __+Sem/Group_Hum_Prod-vis			__ 
+ * __+Sem/Group_Org					__ 
+ * __+Sem/Group_Sign					__ 
+ * __+Sem/Group_Txt					__ 
+ * __+Sem/Hum_Lang					__ 
+ * __+Sem/Hum_Lang_Plc				__ 
+ * __+Sem/Hum_Lang_Time				__ 
+ * __+Sem/Hum_Obj					__ 
+ * __+Sem/Hum_Org					__ 
+ * __+Sem/Hum_Plant					__ 
+ * __+Sem/Hum_Plc					__ 
+ * __+Sem/Hum_Tool					__ 
+ * __+Sem/Hum_Veh					__ 
+ * __+Sem/Hum_Wthr					__ 
+ * __+Sem/Lang_Tool					__ 
+ * __+Sem/Mat_Plant					__ 
+ * __+Sem/Mat_Txt					__ 
+ * __+Sem/Measr_Time					__ 
+ * __+Sem/Money_Obj					__ 
+ * __+Sem/Money_Txt					__ 
+ * __+Sem/Obj-play					__ 
+ * __+Sem/Obj-play_Sport				__ 
+ * __+Sem/Obj_Semcon					__ 
+ * __+Sem/Clth-jewl_Org				__ 
+ * __+Sem/Org_Rule					__ 
+ * __+Sem/Org_Txt					__ 
+ * __+Sem/Org_Veh					__ 
+ * __+Sem/Part_Prod-cogn				__ 
+ * __+Sem/Perc-emo_Wthr				__ 
+ * __+Sem/Plant_Plant-part			__ 
+ * __+Sem/Plant_Tool					__ 
+ * __+Sem/Plant_Tool-measr			__ 
+ * __+Sem/Plc-abstr_Rel_State		__ 
+ * __+Sem/Plc-abstr_Route			__ 
+ * __+Sem/Plc_Pos					__ 
+ * __+Sem/Plc_Route					__ 
+ * __+Sem/Plc_Substnc				__ 
+ * __+Sem/Plc_Substnc_Wthr			__ 
+ * __+Sem/Plc_Time					__ 
+ * __+Sem/Plc_Tool-catch				__ 
+ * __+Sem/Plc_Wthr					__ 
+ * __+Sem/Prod-audio_Txt				__ 
+ * __+Sem/Prod-cogn_Txt				__ 
+ * __+Sem/Semcon_Txt					__ 
+ * __+Sem/Obj_State					__ 
+ * __+Sem/Substnc_Wthr				__ 
+ * __+Sem/Time_Wthr					__ 
 
 
 Semantics are classified with
@@ -131,6 +401,12 @@ Semantics are classified with
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
+ * __+V→N 	__ 
+ * __+V→V 	__ 
+ * __+V→A	__ 
+ * __+N→A	__ 
+ * __+Der/xxx__ 
+ * __+Der/mO	__ 
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
@@ -142,7 +418,38 @@ symbols in the lexicon files:
  * %{еоыӧØ%}   PxSg3 final
  * %{ыØ%}   PxSg3 onset
 
+ * {aä} for vowel harmony
+ * {oö} for vowel harmony
+ * {uü} for vowel harmony
+ * __е1 	__ 
+ * __а1 	__ 
+ * __и1 	__ 
+ * __у1 	__ 
+ * __ӱ1 	__ 
+ * __я1	__ 
+
+ * __Е2 	__ 
+ * __А2 	__ 
+ * __Ы1 	__ 
+ * __Ы2	__ 
+ * __%>	__ 
+ * __+TEST__ 
+
 And following triggers to control variation
+ * {front} 
+ * {back} 
+ * __X1__ 
+ * __X2__ 
+ * __X3__ 
+ * __X4__ 
+ * __X5__ 
+ * __X6__ 
+ * __X7__ 
+ * __X8__ 
+ * __X9__ 
+ * __Z1__ 
+ * __Z2__ 
+ * %- 
 
 !!Flag diacritics
 We have manually optimised the structure of our lexicon using following
@@ -172,8 +479,34 @@ given the proper use of these flags.
  | @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
  | @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
-The word forms in UNDEFINED language start from the lexeme roots of basic
-word classes, or optionally from prefixes:
+
+
+!!The Root lexicon
+
+Multichar_Symbols 
+
+The word forms in Meadow Mari language start from the lexeme roots of 
+the following basic word classes 
+* @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@, 
+  @U.Cap.Opt@ 
+
+
+
+ CONTINUATIONS 
 
 
 
@@ -187,9 +520,7 @@ word classes, or optionally from prefixes:
 
 
 
-
-
-
+AFFIXES 
 
 
 
