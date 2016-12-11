@@ -7,43 +7,52 @@ LEXICON PROP_
  +N+Prop+Sg+Nom: # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!! Male given name for deriving patronyms !!!
+!! Male given name for deriving patronyms 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ! Андрей:Андре
+
+!! Check whether +Orth/Colloq is orthographically wrong
 LEXICON PropNameMaleDer-J-0Evich
- +Orth/Colloq:ич   PROP_ОШ_PATRMAL   ;
+! +Orth/Colloq:ич   PROP_ОШ_PATRMAL   ;
+             :ич   PROP_ОШ_PATRMAL   ; !  
              :евич PROP_ОШ_PATRMAL   ;
              :евна PROP_КУДО_PATRFEM ;
              :й    PROP_КАЛ_MAL      ;
 
 LEXICON PropNameMaleDer-IJ-Y0Evich
- +Orth/Colloq:ьич   PROP_ОШ_PATRMAL   ;
+! +Orth/Colloq:ьич   PROP_ОШ_PATRMAL   ;
+             :ьич   PROP_ОШ_PATRMAL   ;
              :ьевич PROP_ОШ_PATRMAL   ;
              :ьевна PROP_КУДО_PATRFEM ;
              :ий    PROP_КАЛ_MAL      ;
 
 LEXICON PropNameMaleDer-IJ-I0Evich
- +Orth/Colloq:ьич   PROP_ОШ_PATRMAL   ;
+! +Orth/Colloq:ьич   PROP_ОШ_PATRMAL   ;
+             :ьич   PROP_ОШ_PATRMAL   ;
              :иевич PROP_ОШ_PATRMAL   ;
              :иевна PROP_КУДО_PATRFEM ;
              :ий    PROP_КАЛ_MAL      ;
 
 LEXICON PropNameMaleDer-Y-0Evich
- +Orth/Colloq:ич   PROP_ОШ_PATRMAL   ;
+! +Orth/Colloq:ич   PROP_ОШ_PATRMAL   ;
+             :ич   PROP_ОШ_PATRMAL   ;
              :евич PROP_ОШ_PATRMAL   ;
              :евна PROP_КУДО_PATRFEM ;
              :ь    PROP_КАЛ_MAL      ;
 
 !! Вили:Вил
 LEXICON PropNameMaleDer-I-YEvich
- +Orth/Colloq:ич    PROP_ОШ_PATRMAL   ;
+! +Orth/Colloq:ич    PROP_ОШ_PATRMAL   ;
+             :ич    PROP_ОШ_PATRMAL   ;
              :ьевич PROP_ОШ_PATRMAL   ;
              :ьевна PROP_КУДО_PATRFEM ;
              :и     PROP_КАЛ_MAL      ;
 
 
 LEXICON PropNameMaleDer-Ovich
- +Orth/Colloq:ыч   PROP_ОШ_PATRMAL   ;
+! +Orth/Colloq:ыч   PROP_ОШ_PATRMAL   ;
+             :ыч   PROP_ОШ_PATRMAL   ;
              :ович PROP_ОШ_PATRMAL   ;
              :овна PROP_КУДО_PATRFEM ;
                    PROP_КАЛ_MAL      ;
