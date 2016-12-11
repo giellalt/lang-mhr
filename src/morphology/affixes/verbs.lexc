@@ -23,7 +23,7 @@ LEXICON V_am !!= @CODE@ divides V_am in Mood and infinites
                +V+Inf:%>А2ш K           ;
            +V+Ger+Gen:%>ын  K           ;
                    +V:      non-finites ;
- +V+Ind+NonPst+ConNeg:      K           ;
+ +V+Ind+Prs+ConNeg:      K           ;
    +V+Ind+Prt1+ConNeg:      K           ;
       +V+Imprt+ConNeg:      K           ;
         +V+Des+ConNeg:      K           ;
@@ -35,12 +35,12 @@ LEXICON Vam-Mood !!= @CODE@ divides in Ind, Imprt, Des
    +Des: Vam-Des ;
 
 LEXICON Vam-Ind !!= @CODE@ gives all the Ind tenses
-  +NonPst+Sg1:%>А2м  K ;
-  +NonPst+Sg2:%>А2т  K ;
-  +NonPst+Sg3:%>еш   K ;
-  +NonPst+Pl1:%>ына  K ;
-  +NonPst+Pl2:%>ыда  K ;
-  +NonPst+Pl3:%>ыт   K ;
+  +Prs+Sg1:%>А2м  K ;
+  +Prs+Sg2:%>А2т  K ;
+  +Prs+Sg3:%>еш   K ;
+  +Prs+Pl1:%>ына  K ;
+  +Prs+Pl2:%>ыда  K ;
+  +Prs+Pl3:%>ыт   K ;
 ! Первое прошедшее время:
     +Prt1+Sg1:%>ым   K ;
     +Prt1+Sg2:%>ыч   K ;
@@ -65,12 +65,12 @@ LEXICON Vam-Imp
 
 LEXICON Vam-Des
 ! Желательное наклонение:
- +NonPst+Sg1:%>нем  K ;
- +NonPst+Sg2:%>нет  K ;
- +NonPst+Sg3:%>неже K ;
- +NonPst+Pl1:%>нена K ;
- +NonPst+Pl2:%>неда K ;
- +NonPst+Pl3:%>нешт K ;
+ +Prs+Sg1:%>нем  K ;
+ +Prs+Sg2:%>нет  K ;
+ +Prs+Sg3:%>неже K ;
+ +Prs+Pl1:%>нена K ;
+ +Prs+Pl2:%>неда K ;
+ +Prs+Pl3:%>нешт K ;
 
 
 !! !!The -em class
@@ -81,7 +81,7 @@ LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
 ! Деепричастие образа действия:
            +V+Ger+Gen:%>ен  K           ;
                    +V:ы     non-finites ;
- +V+Ind+NonPst+ConNeg:%>Ы2  K           ;
+ +V+Ind+Prs+ConNeg:%>Ы2  K           ;
    +V+Ind+Prt1+ConNeg:%>Ы2  K           ;
       +V+Imprt+ConNeg:%>Ы2  K           ;
         +V+Des+ConNeg:%>Ы2  K           ;
@@ -94,12 +94,12 @@ LEXICON Vem-Mood !!= @CODE@ divides in Ind, Imprt, Des
    +Des: Vem-Des ;
 
 LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
-  +NonPst+Sg1:%>ем   K ;
-  +NonPst+Sg2:%>ет   K ;
-  +NonPst+Sg3:%>а    K ;
-  +NonPst+Pl1:%>ена  K ;
-  +NonPst+Pl2:%>еда  K ;
-  +NonPst+Pl3:%>ат   K ;
+  +Prs+Sg1:%>ем   K ;
+  +Prs+Sg2:%>ет   K ;
+  +Prs+Sg3:%>а    K ;
+  +Prs+Pl1:%>ена  K ;
+  +Prs+Pl2:%>еда  K ;
+  +Prs+Pl3:%>ат   K ;
 ! Первое прошедшее время:
     +Prt1+Sg1:%>ышым K ;
     +Prt1+Sg2:%>ышыч K ;
@@ -124,12 +124,12 @@ LEXICON Vem-Imp
 
 LEXICON Vem-Des
 ! Желательное наклонение:
- +NonPst+Sg1:%>ынем  K ;
- +NonPst+Sg2:%>ынет  K ;
- +NonPst+Sg3:%>ынеже K ;
- +NonPst+Pl1:%>ынена K ;
- +NonPst+Pl2:%>ынеда K ;
- +NonPst+Pl3:%>ынешт K ;
+ +Prs+Sg1:%>ынем  K ;
+ +Prs+Sg2:%>ынет  K ;
+ +Prs+Sg3:%>ынеже K ;
+ +Prs+Pl1:%>ынена K ;
+ +Prs+Pl2:%>ынеда K ;
+ +Prs+Pl3:%>ынешт K ;
 
 !! !!Special verbs
 !! V_am, возаш : воч
@@ -138,7 +138,7 @@ LEXICON z-C
              +Ger+Gen:з%>ын  K           ;
                    +V:ч      non-finites ;
                    +V:з      Vam-Mood    ;
- +V+Ind+NonPst+ConNeg:ч      K           ;
+ +V+Ind+Prs+ConNeg:ч      K           ;
    +V+Ind+Prt1+ConNeg:ч      K           ;
       +V+Imprt+ConNeg:ч      K           ;
          +V+Imprt+Sg2:ч      K-imprt     ;
@@ -150,7 +150,7 @@ LEXICON t-0
              +Ger+Gen:т%>ын  K           ;
                    +V:       non-finites ;
                    +V:т      Vam-Mood    ;
- +V+Ind+NonPst+ConNeg:       K           ;
+ +V+Ind+Prs+ConNeg:       K           ;
    +V+Ind+Prt1+ConNeg:       K           ;
       +V+Imprt+ConNeg:       K           ;
          +V+Imprt+Sg2:       K-imprt     ;
@@ -163,7 +163,7 @@ LEXICON k-0
                  +Ger:к%>шыла K           ;
                    +V:        non-finites ;
                    +V:к       Vam-Mood    ;
- +V+Ind+NonPst+ConNeg:        K           ;
+ +V+Ind+Prs+ConNeg:        K           ;
    +V+Ind+Prt1+ConNeg:        K           ;
       +V+Imprt+ConNeg:        K           ;
          +V+Imprt+Sg2:        K-imprt     ;
@@ -176,7 +176,7 @@ LEXICON nC-C
                  +Ger:ч%>шыла K           ;
                    +V:ч       non-finites ;
                    +V:нч      Vam-Mood    ;
- +V+Ind+NonPst+ConNeg:ч       K           ;
+ +V+Ind+Prs+ConNeg:ч       K           ;
    +V+Ind+Prt1+ConNeg:ч       K           ;
       +V+Imprt+ConNeg:ч       K           ;
          +V+Imprt+Sg2:ч       K-imprt     ;
@@ -212,7 +212,7 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
 ! Отрицательная форма деепричастия образа действия:
                     +Ger+Abe:%>де    K                        ;
 ! Деепричастие времени (показывают время, предшествующее времени глагола):
-                    +Ger+Prf:%>меке  K                        ;
+                    +Ger+PrfPrc:%>меке  K                        ;
 ! Деепричастие времени (показывает время, последующее за поясняемым действием):
                   +Ger+Imprf:%>мешке K                        ;
 ! Деепричастие времени (добавочное действие, происходящее одновременно с поясняемым действием):
