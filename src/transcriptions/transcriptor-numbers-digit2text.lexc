@@ -43,33 +43,35 @@ LEXICON TEENM
 лат: LOHKAIM ;
 
 LEXICON LOHKAIM
-1:ик  MILJON ;
-2:кок   MILJON ;
-3:кум  MILJON ;
-4:ныл  MILJON ;
-5:вич  MILJON ;
-6:куд  MILJON ;
-7:шым  MILJON ;
-8:кандаш  MILJON ;
-9:индеш  MILJON ;
+1:ик%   MILJON ;
+2:кок%   MILJON ;
+3:кум%  MILJON ;
+4:ныл%  MILJON ;
+5:вич%   MILJON ;
+6:куд%  MILJON ;
+7:шым%  MILJON ;
+8:кандаш%  MILJON ;
+9:индеш%  MILJON ;
 
 LEXICON TENSM
-2:кок%    LÅGEVM ;
-3:кум%   LÅGEVM ;
-4:ныл%   LÅGEVM ;
-5:вич%   LÅGEVM ;
-6:куд%   LÅGEVM ;
-7:шым%   LÅGEVM ;
-8:кандаш%   LÅGEVM ;
-9:индеш%   LÅGEVM ;
+2:коло    LÅGEVM ;
+3:кумло   LÅGEVM ;
+4:нылле   LÅGEVM ;
+5:вичле   LÅGEVM ;
+6:кудло   LÅGEVM ;
+7:шымле   LÅGEVM ;
+8:кандашло   LÅGEVM ;
+9:индешле   LÅGEVM ;
 
 
 LEXICON TENM
-1%0:лу MILJON ;
+1%0:лу%  MILJON ;
 
 LEXICON LÅGEVM
-%0:лу MILJON ;
-:лу ONESM ;
+!%0:лу%  MILJON ;
+!:лу%  ONESM ;
+%0:  MILJON ;
+:%  ONESM ;
 
 LEXICON ONESM
 1:ик% миллион%  OVERTHOUSANDS ;
@@ -103,14 +105,14 @@ HUNDREDST ;		! x00.000.000
 %0%0%0%0%0%0: # ;	!  x000000
 
 LEXICON HUNDREDST
-2:кок%   CUODIT ;	! 200000-299999
-3:кум%  CUODIT ;	! 300000-399999
-4:ныл%  CUODIT ;	! 400000-499999
-5:вич%  CUODIT ;	! 500000-599999
-6:куд%  CUODIT ;	! 600000-699999
-7:шым%  CUODIT ;	! 700000-799999
-8:кандаш%  CUODIT ;	! 800000-899999
-9:индеш%  CUODIT ;	! 900000-999999
+2:кок   CUODIT ;	! 200000-299999
+3:кум  CUODIT ;	! 300000-399999
+4:ныл  CUODIT ;	! 400000-499999
+5:вич  CUODIT ;	! 500000-599999
+6:куд  CUODIT ;	! 600000-699999
+7:шым  CUODIT ;	! 700000-799999
+8:кандаш  CUODIT ;	! 800000-899999
+9:индеш  CUODIT ;	! 900000-999999
 
 LEXICON CUODIT
 :шӱдӧ%   HUNDREDT ;	! 100000-199999
@@ -127,36 +129,39 @@ LEXICON TEENST
 
 LEXICON TEENT
 :лат  LOHKAIT ;
+%0:лу THOUSANDS ;
 
 LEXICON LOHKAIT
-%0:лу THOUSANDS ;
-1:ик THOUSANDS ;
-2:кок THOUSANDS ;
-3:кум THOUSANDS ;
-4:ныл THOUSANDS ;
-5:вич THOUSANDS ;
-6:куд THOUSANDS ;
-7:шым THOUSANDS ;
-8:кандаш THOUSANDS ;
-9:индеш THOUSANDS ;
+!%0:лу  THOUSANDS ;
+1:ик%  THOUSANDS ;
+2:кок%  THOUSANDS ;
+3:кум%  THOUSANDS ;
+4:ныл%  THOUSANDS ;
+5:вич%  THOUSANDS ;
+6:куд%  THOUSANDS ;
+7:шым%  THOUSANDS ;
+8:кандаш%  THOUSANDS ;
+9:индеш%  THOUSANDS ;
 
 LEXICON TENST
-2:кок%  THOUSANDSS ;
-3:кум%  THOUSANDSS ;
-4:ныл%  THOUSANDSS ;
-5:вич%  THOUSANDSS ;
-6:куд%  THOUSANDSS ;
-7:шым%  THOUSANDSS ;
-8:кандаш%  THOUSANDSS ;
-9:индеш%  THOUSANDSS ;
+!2:кок  THOUSANDSS ;
+2:коло  THOUSANDSS ;
+3:кумло  THOUSANDSS ;
+4:нылле  THOUSANDSS ;
+5:вичле  THOUSANDSS ;
+6:кудло  THOUSANDSS ;
+7:шымле  THOUSANDSS ;
+8:кандашло  THOUSANDSS ;
+9:индешле  THOUSANDSS ;
 
 LEXICON THOUSANDSS
-! :тӱжем%  THOUSANDS ;
-%0:лу THOUSANDS ;
-1:луикыт THOUSAND ;
- ONEST ;
+!%0:лу%  THOUSANDS ;
+!1:луикыт THOUSAND ;
+%0:%  THOUSANDS ;
+:%   ONEST ;
 
 LEXICON ONEST
+1:икыт%  THOUSANDS ;
 2:кок%  THOUSANDS ;
 3:кум%  THOUSANDS ;
 4:ныл%  THOUSANDS ;
@@ -185,14 +190,14 @@ HUNDREDS ;
 1:шӱдӧ%  HUNDRED ;
 
 LEXICON HUNDREDS
-2:кок%   CUODI ;
-3:кум%   CUODI ;
-4:ныл%   CUODI ;
-5:вич%   CUODI ;
-6:куд%   CUODI ;
-7:шым%   CUODI ;
-8:кандаш%   CUODI ;
-9:индеш%   CUODI ;
+2:кок   CUODI ;
+3:кум   CUODI ;
+4:ныл   CUODI ;
+5:вич   CUODI ;
+6:куд   CUODI ;
+7:шым   CUODI ;
+8:кандаш   CUODI ;
+9:индеш   CUODI ;
 
 LEXICON CUODI
 :шӱдӧ%  HUNDRED ;
