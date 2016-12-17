@@ -60,7 +60,7 @@ LEXICON TENSM
 5:вичле   LÅGEVM ;
 6:кудло   LÅGEVM ;
 7:шымле   LÅGEVM ;
-8:кандашло   LÅGEVM ;
+8:кандашле   LÅGEVM ;
 9:индешле   LÅGEVM ;
 
 
@@ -151,7 +151,7 @@ LEXICON TENST
 5:вичле  THOUSANDSS ;
 6:кудло  THOUSANDSS ;
 7:шымле  THOUSANDSS ;
-8:кандашло  THOUSANDSS ;
+8:кандашле  THOUSANDSS ;
 9:индешле  THOUSANDSS ;
 
 LEXICON THOUSANDSS
@@ -222,8 +222,8 @@ LEXICON LOHKAI
 5:визыт # ;
 6:кудыт # ;
 7:шымыт # ;
-8:кандаш # ;
-9:индеш  # ;
+8:кандаше # ;
+9:индеше  # ;
 
 LEXICON TENS
 1%0:лу # ;
@@ -248,6 +248,6 @@ LEXICON ONES
 5:визыт # ;
 6:кудыт # ;
 7:шымыт # ;
-8:кандаш # ;
-9:индеш  # ;
+8:кандаше # ;
+9:индеше  # ;
 
