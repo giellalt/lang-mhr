@@ -22,9 +22,5 @@ LEXICON K-imprt
 !   2012-09-21! &-с      Lex0  "-s"   ;
 !  2012-09-21! &-ыс      Lex0  "-Ys"  ;
 
-LEXICON KO
-  # ;
-
-
 ! vim: set ft=xfst-lexc:
 
