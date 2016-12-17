@@ -13,8 +13,8 @@
 LEXICON Vam-dependent !!= @CODE@ tags +Depend and goes to V_am
  +Depend: V_am ;
 
-LEXICON Vem-dependent !!= @CODE@ tags +Depend and goes to V_em
- +Depend: V_em ;
+!LEXICON Vem-dependent !!= @CODE@ tags +Depend and goes to V_em
+! +Depend: V_em ;
 
 !! !!The -am class
 
@@ -193,11 +193,6 @@ LEXICON Vam-n/l--1t
 
 
 
-LEXICON K0
- Lex0 ; K ; C ;
-
-LEXICON Lex0
-  # ;
 
 
 LEXICON non-finites !!= @CODE@ contains Mutual endings
@@ -326,8 +321,8 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
 !            2012-09-21! ~ла         K0                       ;
 !2012-09-21!
 
-LEXICON C !!= @CODE@ gives Comparative rak
- +Cmp:&рак Lex0 "rak" ;
+!LEXICON C !!= @CODE@ gives Comparative rak
+! +Cmp:&рак Lex0 "rak" ;
 
 
 

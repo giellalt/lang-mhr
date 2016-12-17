@@ -167,8 +167,8 @@ LEXICON PROP_КУДО_PATRFEM
 LEXICON PROP_КАЛ_FEM
  +N+Prop+Sem/Fem: N-ava_01 ;
 
-LEXICON PROP_ЛАК_FEM
- +N+Prop+Sem/Fem: N-ava_01 ;
+!LEXICON PROP_ЛАК_FEM
+! +N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_КИТ_FEM
  +N+Prop+Sem/Fem: N-ava_01 ;
@@ -176,14 +176,14 @@ LEXICON PROP_КИТ_FEM
 LEXICON PROP_ОШ_FEM
  +N+Prop+Sem/Fem: N-ava_01 ;
 
-LEXICON PROP_ТЕШТЕ_FEM
-  PROP_ПАНГО_FEM ;
+!LEXICON PROP_ТЕШТЕ_FEM
+!  PROP_ПАНГО_FEM ;
 
-LEXICON PROP_ТИНГЕ_FEM
-  PROP_ПАНГО_FEM ;
+!LEXICON PROP_ТИНГЕ_FEM
+!  PROP_ПАНГО_FEM ;
 
-LEXICON PROP_ПАНГО_FEM
- +N+Prop+Sem/Fem: N-ava_01 ;
+!LEXICON PROP_ПАНГО_FEM
+! +N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_КУДО_FEM
  +N+Prop+Sem/Fem: N-ava_01 ;
@@ -197,8 +197,8 @@ LEXICON PROP-PLC_КАЛ
 LEXICON PROP-PLC_КИТ
  +N+Prop+Sem/Plc: N-ava_01 ;
 
-LEXICON PROP-PLC_ОШ
- +N+Prop+Sem/Plc: N-ava_01 ;
+!LEXICON PROP-PLC_ОШ
+! +N+Prop+Sem/Plc: N-ava_01 ;
 
 LEXICON PROP-PLC_КУДО
  +N+Prop+Sem/Plc: N-ava_01 ;
