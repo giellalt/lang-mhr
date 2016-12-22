@@ -506,8 +506,8 @@ LEXICON verbs
 кошаргаш:кошарг V_em  "tulla teräväksi; olla lopetettu; menehtyä" ;
 кошарташ:кошарт V_em  "teroittaa; lopetella; saattaa tuhoon" ;
 кошкаш:кошк V_em  "kuivua; kuivata itseään; kuihtua" ;
-кошташ:кошт V_am  "kulkea, kävellä, käydä; pariutua" ;
-кошташ:кошт V_em  "kuivata; kuihduttaa" ;
+кошташ+Hom1:кошт V_am  "kulkea, kävellä, käydä; pariutua" ;
+кошташ+Hom2:кошт V_em  "kuivata; kuihduttaa" ;
 коштедаш:коштед V_em  "kuljeskella" ;
 коштыкташ:коштыкт V_em  "panna kulkemaan/käymään; viedä; astuttaa" ;
 коштыкташ:коштыкт V_em  "kuivattaa" ;
@@ -568,7 +568,6 @@ LEXICON verbs
 кушкыжташ:кушкыжт V_em  "istuttaa ratsaille" ;
 кушталташ:кушталт V_em  "tanssahtaa" ;
 кушташ:кушт V_em  "tanssia" ;
-кушташ:кушт V_em  "kasvattaa" ;
 куштыкташ:куштыкт V_em  "tanssittaa; lähettää" ;
 куштылемдаш:куштылемд V_em  "keventää, helpottaa" ;
 куштыраҥдаш:куштыраҥд V_em  "roskata, liata" ;
@@ -1816,8 +1815,8 @@ LEXICON verbs
 шокташ:шокт V_em  "soittaa (soitinta); kuulua" ;
 шокшемдаш:шокшемд V_em  "lämmittää, kuumentaa" ;
 шокшештараш:шокшештар V_em  "lämmittää, kuumentaa" ;
-шолаш:шол Vam-n/l  "kiehua, kihista" ;
-шолаш:шол V_em  "heitellä, heittää" ;
+шолаш+Hom1:шол Vam-n/l  "kiehua, kihista" ;
+шолаш+Hom2:шол V_em  "heitellä, heittää" ;
 шолдымаҥдаш:шолдымаҥд V_em  "kalistaa, kolkuttaa" ;
 шолдыраҥдаш:шолдыраҥд V_em  "suurentaa" ;
 шолдыргаш:шолдырг V_em  "ravistua; mennä sekaisin/epäkuntoon" ;
@@ -1863,8 +1862,8 @@ LEXICON verbs
 шуйнылаш:шуйныл V_em  "venyillä, (us.) ojen(tau)tua, ulottua; venytellä" ;
 шукемдаш:шукемд V_em  "kertoa, moninkertaistaa; monistaa; lisätä" ;
 шукташ:шукт V_em  "saattaa; johtaa; suorittaa; tyydyttää; ehtiä" ;
-шулаш:шул Vam-n/l  "leikata" ;
-шулаш:шул V_em  "sulaa, sulattaa; haihtua" ;
+шулаш+Hom1:шул Vam-n/l  "leikata" ;
+шулаш+Hom2:шул V_em  "sulaa, sulattaa; haihtua" ;
 шулдештараш:шулдештар V_em  "halventaa" ;
 шулдыраҥдаш:шулдыраҥд V_em  "siivittää" ;
 шуледаш:шулед V_em  "viillellä, leikellä" ;
@@ -1872,8 +1871,8 @@ LEXICON verbs
 шулыктараш:шулыктар V_em  "sulattaa" ;
 шулыкташ:шулыкт V_em  "viillättää, leikkauttaa" ;
 шулыкташ:шулыкт V_em  "sulattaa" ;
-шумаш:шум V_am  "väsyä (ruumiinjäsen)" ;
-шумаш:шум V_em  "teroittaa" ;
+шумаш+Hom1:шум V_am  "väsyä (ruumiinjäsen)" ;
+шумаш+Hom2:шум V_em  "teroittaa" ;
 шунаш:шун V_em  "kestitä, pyydellä (vieraita)" ;
 шунаҥдаш:шунаҥд V_em  "saveta" ;
 шундаш:шунд V_em  "sakkautua" ;
@@ -1968,7 +1967,6 @@ LEXICON verbs
 шӱмлаш:шӱмл V_em  "kuoria (puu yms.)" ;
 шӱралташ:шӱралт V_em  "sutaista" ;
 шӱраш:шӱр V_em  "voidella; maalata, kitata" ;
-шӱраш:шӱр V_em  "siivilöidä; kalastaa jalkanuotalla" ;
 шӱраш:шӱр V_em  "(puhek.) äestää" ;
 шӱрдаш:шӱрд V_em  "huutaa, kirkua" ;
 шӱркалаш:шӱркал V_em  "(us.) voidella; maalailla, kittailla" ;
