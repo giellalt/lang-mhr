@@ -1,0 +1,32 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+    кол+N+Sg+Nom: кол
+    кол+N+Sg+Gen: колын
+    кол+N+Sg+Dat: коллан
+    кол+N+Sg+Acc: колым
+    кол+N+Sg+Cmp: колла
+    кол+N+Sg+Com: колге
+    кол+N+Sg+Ine: колышто
+    кол+N+Sg+Ill: колышко
+    кол+N+Sg+Lat: колеш
+    кол+N+Sg+Abe: колде
+    кол+N+Pl+Nom: [кол-шамыч, кол-влак]
+    кол+N+Pl+Gen: [кол-шамычын, кол-влакын]
+    кол+N+Pl+Dat: [кол-шамычлан, кол-влаклан]
+    кол+N+Pl+Acc: [кол-шамычым, кол-влакым]
+    кол+N+Pl+Cmp: [кол-шамычла, кол-влакла]
+    кол+N+Pl+Com: [кол-шамычге, кол-влакге]
+    кол+N+Pl+Ine: [кол-шамычыште, кол-влакыште]
+    кол+N+Pl+Ill: [кол-шамычышке, кол-влакышке]
+    кол+N+Pl+Lat: [кол-шамычеш, кол-влакеш]
+    кол+N+Pl+Abe: [кол-шамычде, кол-влакде]
+
