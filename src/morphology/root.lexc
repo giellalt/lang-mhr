@@ -31,7 +31,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 !+WORK
 
 
-!! The parts-of-speech are:
+!! !The parts-of-speech are:
 
 +N	    !!≈ * __@CODE@__ = nouns
 +A	    !!≈ * __@CODE@__ = adjectives
@@ -47,6 +47,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Pcle   !!≈ * __@CODE@__ = particles
 +Num    !!≈ * __@CODE@__ = numerals
 
+!! !POS subtags
 !! The parts of speech are further split up into:
 
 +Prop      !!≈ * __@CODE@__ 
@@ -60,6 +61,16 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Aux       !!≈ * __@CODE@__ 
 +Patr      !!≈ * __@CODE@__ patronym, look at this in other cyr fsts.
 
+
+!! !Homony tags
+
+!! These are especially for verbs. Note that this is __not__
+!! a semantic distinction, we talk about paradigms deviating
+!! here and there in the inflection pattern.
+
++Hom1     !!≈ * __@CODE@__ First pattern (let us say -аш)
++Hom2     !!≈ * __@CODE@__ Second pattern (let us say -еш)
++Hom2     !!≈ * __@CODE@__ Third pattern (if it should exist + even more?)
 
 !! The Usage extents are marked using following tags:
 
