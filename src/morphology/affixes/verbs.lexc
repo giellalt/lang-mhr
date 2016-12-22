@@ -42,12 +42,12 @@ LEXICON Vam-Ind !!= @CODE@ gives all the Ind tenses
   +Prs+Pl2:%>ыда  K ;
   +Prs+Pl3:%>ыт   K ;
 ! Первое прошедшее время:
-    +Prt1+Sg1:%>ым   K ;
-    +Prt1+Sg2:%>ыч   K ;
-    +Prt1+Sg3:%>Ы2   K ;
+    +Prt1+Sg1:%>%{ьØ%}ым   K ;
+    +Prt1+Sg2:%>%{ьØ%}ыч   K ;
+    +Prt1+Sg3:%>%{ьØ%}Ы2   K ;
     +Prt1+Pl1:%>на   K ;
     +Prt1+Pl2:%>да   K ;
-    +Prt1+Pl3:%>ыч   K ;
+    +Prt1+Pl3:%>%{ьØ%}ыч   K ;
 ! Второе прошедшее время:
     +Prt2+Sg1:%>ынам K ;
     +Prt2+Sg2:%>ынат K ;
