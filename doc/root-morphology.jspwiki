@@ -15,7 +15,7 @@ presented in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
 
-The parts-of-speech are:
+!The parts-of-speech are:
 
  * __+N	__ = nouns
  * __+A	__ = adjectives
@@ -30,6 +30,7 @@ The parts-of-speech are:
  * __+Pcle__ = particles
  * __+Num__ = numerals
 
+!POS subtags
 The parts of speech are further split up into:
 
  * __+Prop__ 
@@ -43,6 +44,16 @@ The parts of speech are further split up into:
  * __+Aux__ 
  * __+Patr__ patronym, look at this in other cyr fsts.
 
+
+!Homony tags
+
+These are especially for verbs. Note that this is __not__
+a semantic distinction, we talk about paradigms deviating
+here and there in the inflection pattern.
+
+ * __+Hom1__ First pattern (let us say -аш)
+ * __+Hom2__ Second pattern (let us say -еш)
+ * __+Hom2__ Third pattern (if it should exist + even more?)
 
 The Usage extents are marked using following tags:
 
