@@ -603,9 +603,6 @@ LEXICON PRON_
 LEXICON PronRes
 +Pron: # ;
 
-LEXICON N-A7e
- # ;
-
 LEXICON PronI
 +Pron: # ;
 
@@ -640,9 +637,6 @@ LEXICON V
 
 LEXICON V-AUX_
 +V+Aux: # ;
-
-LEXICON N-e/a
- # ;
 
 LEXICON Pimp
  # ;
