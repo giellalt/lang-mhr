@@ -202,28 +202,28 @@ Rules
 
 
 !begin %{еоӧØ%}
-"suffix-final vowel loss after stem-final vowel %{еоыӧØ%} "
+"suffix-final vowel loss after stem-final vowel %{еоыӧØ%} to ZERO"
 !! __ @RULENAME@ __  
   %{еоыӧØ%}:0 <=> Vws %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
            Cns %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ е ш | А2: ] ;
 
-"suffix-final vowel realized after stem-final consonant %{еоыӧØ%}"
+"suffix-final vowel realized after stem-final consonant %{еоыӧØ%} to ы "
 !! __ @RULENAME@ __  
   %{еоыӧØ%}:ы <=>  Cns %> [ ж: | д ы м ] _ %> [ л | г | ш [ т | к ] | д | Ы1: ] ;
             Vws %> [ ж | д ы м ] _ %> Ы1: [ м | н ] ;
 !            %>  Ы1: ш [ т | к ]  _ %> Ы1: ;
 
-"suffix-final vowel realized as -Round in word-final position %{еоыӧØ%}"
+"suffix-final vowel realized as -Round in word-final position %{еоыӧØ%} 2 е"
 !! __ @RULENAME@ __  
   %{еоыӧØ%}:е <=> :Ve \[ :Vo | :VO ]* %> ( [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
            :Ve [ Cns | :ы | :0 ]* %> %{ыØ%}:0 [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
-"suffix-final vowel realized as +Back +Round in word-final position %{еоыӧØ%}"
+"suffix-final vowel realized as +Back +Round in word-final position %{еоыӧØ%} 2 о "
 !! __ @RULENAME@ __  
   %{еоыӧØ%}:о <=> :Vo [ Cns | :ы | :0 ]* %> ( ( ж: [ %{еоыӧØ%}:о | %{еоыӧØ%}:ы | %{еоыӧØ%}:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
            :Vo [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
-"suffix-final vowel realized as +Front +Round in word-final position %{еоыӧØ%}"
+"suffix-final vowel realized as +Front +Round in word-final position %{еоыӧØ%} 2 ӧ "
 !! __ @RULENAME@ __  
   %{еоыӧØ%}:ӧ <=> :VO [ Cns | :ы | :0 ]* %> ( ( ж: [ %{еоыӧØ%}:ӧ | %{еоыӧØ%}:ы | %{еоыӧØ%}:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
            :VO [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
