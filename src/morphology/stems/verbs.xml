@@ -1813,7 +1813,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">велаш</l>
+      <l hid="Hom1" pos="V">велаш</l>
 
       <stg>
         <st Contlex="Vam-n/l">вел</st>
@@ -1833,7 +1833,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">велаш</l>
+      <l hid="Hom2" pos="V">велаш</l>
 
       <stg>
         <st Contlex="V_em">вел</st>
@@ -2427,7 +2427,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">возаш</l>
+      <l hid="Hom3" pos="V">возаш</l>
 
       <stg>
         <st Contlex="z-C">во</st>
@@ -2485,7 +2485,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">возаш</l>
+      <l hid="Hom1" pos="V">возаш</l>
 
       <stg>
         <st Contlex="V_am">воз</st>
@@ -2505,7 +2505,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">возаш</l>
+      <l hid="Hom2" pos="V">возаш</l>
 
       <stg>
         <st Contlex="V_em">воз</st>
@@ -7151,7 +7151,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">каяш</l>
+      <l hid="Hom2" pos="V">каяш</l>
 
       <stg>
         <st Contlex="V_em">кай</st>
@@ -7923,7 +7923,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">каяш</l>
+      <l hid="Hom1" pos="V">каяш</l>
 
       <stg>
         <st Contlex="V_am">кай</st>
@@ -8521,7 +8521,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">кодаш</l>
+      <l hid="Hom1" pos="V">кодаш</l>
 
       <stg>
         <st Contlex="V_am">код</st>
@@ -8541,7 +8541,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">кодаш</l>
+      <l hid="Hom2" pos="V">кодаш</l>
 
       <stg>
         <st Contlex="V_em">код</st>
@@ -8859,7 +8859,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">колаш</l>
+      <l hid="Hom1" pos="V">колаш</l>
 
       <stg>
         <st Contlex="Vam-n/l">кол</st>
@@ -8879,7 +8879,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">колаш</l>
+      <l hid="Hom2" pos="V">колаш</l>
 
       <stg>
         <st Contlex="V_em">кол</st>
@@ -9907,7 +9907,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">кочаш</l>
+      <l hid="Hom1" pos="V">кочаш</l>
 
       <stg>
         <st Contlex="Vam-dependent">коч</st>
@@ -9929,7 +9929,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">кочаш</l>
+      <l hid="Hom2" pos="V">кочаш</l>
 
       <stg>
         <st Contlex="V_em">коч</st>
@@ -10067,7 +10067,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">кошташ</l>
+      <l hid="Hom1" pos="V">кошташ</l>
 
       <stg>
         <st Contlex="V_am">кошт</st>
@@ -10087,7 +10087,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">кошташ</l>
+      <l hid="Hom2" pos="V">кошташ</l>
 
       <stg>
         <st Contlex="V_em">кошт</st>
@@ -11283,17 +11283,6 @@
         <t pos="V">tanssia</t>
       </tg>
     </mg>
-  </e>
-
-  <e order="2">
-    <lg>
-      <l pos="V">кушташ</l>
-
-      <stg>
-        <st Contlex="V_em">кушт</st>
-      </stg>
-    </lg>
-
     <mg>
       <defNative/>
 
@@ -13645,7 +13634,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">лумаш</l>
+      <l hid="Hom1" pos="V">лумаш</l>
 
       <stg>
         <st Contlex="V_am">лум</st>
@@ -13665,7 +13654,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">лумаш</l>
+      <l hid="Hom2" pos="V">лумаш</l>
 
       <stg>
         <st Contlex="V_em">лум</st>
@@ -15136,7 +15125,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">мияш</l>
+      <l hid="Hom2" pos="V">мияш</l>
 
       <stg>
         <st Contlex="V_em">мий</st>
@@ -15154,7 +15143,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">мияш</l>
+      <l hid="Hom1" pos="V">мияш</l>
 
       <stg>
         <st Contlex="Vem--Vam-n/l">мий</st>
@@ -22071,7 +22060,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">пураш</l>
+      <l hid="Hom1" pos="V">пураш</l>
 
       <stg>
         <st Contlex="V_am">пур</st>
@@ -22091,7 +22080,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">пураш</l>
+      <l hid="Hom2" pos="V">пураш</l>
 
       <stg>
         <st Contlex="V_em">пур</st>
@@ -27908,7 +27897,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">темаш</l>
+      <l hid="Hom1" pos="V">темаш</l>
 
       <stg>
         <st Contlex="V_am">тем</st>
@@ -27928,7 +27917,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">темаш</l>
+      <l hid="Hom2" pos="V">темаш</l>
 
       <stg>
         <st Contlex="V_em">тем</st>
@@ -28302,7 +28291,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">толаш</l>
+      <l hid="Hom1" pos="V">толаш</l>
 
       <stg>
         <st Contlex="Vam-n/l">тол</st>
@@ -28322,7 +28311,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">толаш</l>
+      <l hid="Hom2" pos="V">толаш</l>
 
       <stg>
         <st Contlex="V_em">тол</st>
@@ -30693,7 +30682,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">тӱчаш</l>
+      <l hid="Hom1" pos="V">тӱчаш</l>
 
       <stg>
         <st Contlex="V_am">тӱч</st>
@@ -30713,7 +30702,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">тӱчаш</l>
+      <l hid="Hom2" pos="V">тӱчаш</l>
 
       <stg>
         <st Contlex="V_em">тӱч</st>
@@ -31229,7 +31218,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">улаш</l>
+      <l hid="Hom1" pos="V">улаш</l>
 
       <stg>
         <st Contlex="Vam-n/l">ул</st>
@@ -31269,7 +31258,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">улаш</l>
+      <l hid="Hom2" pos="V">улаш</l>
 
       <stg>
         <st Contlex="V-AUX_">ул</st>
@@ -35269,7 +35258,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">шераш</l>
+      <l hid="Hom1" pos="V">шераш</l>
 
       <stg>
         <st Contlex="V_am">шер</st>
@@ -35289,7 +35278,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">шераш</l>
+      <l hid="Hom2" pos="V">шераш</l>
 
       <stg>
         <st Contlex="V_em">шер</st>
@@ -36106,7 +36095,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">шолаш</l>
+      <l hid="Hom1" pos="V">шолаш</l>
 
       <stg>
         <st Contlex="Vam-n/l">шол</st>
@@ -36126,7 +36115,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">шолаш</l>
+      <l hid="Hom2" pos="V">шолаш</l>
 
       <stg>
         <st Contlex="V_em">шол</st>
@@ -37058,7 +37047,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">шулаш</l>
+      <l hid="Hom1" pos="V">шулаш</l>
 
       <stg>
         <st Contlex="Vam-n/l">шул</st>
@@ -37078,7 +37067,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">шулаш</l>
+      <l hid="Hom2" pos="V">шулаш</l>
 
       <stg>
         <st Contlex="V_em">шул</st>
@@ -37236,7 +37225,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">шумаш</l>
+      <l hid="Hom1" pos="V">шумаш</l>
 
       <stg>
         <st Contlex="V_am">шум</st>
@@ -37256,7 +37245,7 @@
 
   <e order="2">
     <lg>
-      <l pos="V">шумаш</l>
+      <l hid="Hom2" pos="V">шумаш</l>
 
       <stg>
         <st Contlex="V_em">шум</st>
@@ -39167,19 +39156,6 @@
         <t pos="V">voidella; maalata, kitata</t>
       </tg>
     </mg>
-  </e>
-
-  <e order="2">
-    <lg>
-      <l pos="V">шӱраш</l>
-
-      <stg>
-        <st Contlex="V_em">шӱр</st>
-      </stg>
-
-      <stress>шӱра•ш</stress>
-    </lg>
-
     <mg>
       <defNative/>
 
