@@ -20,6 +20,8 @@
  * %{ыØ%}:ы   PxSg3 onset
  * %{ыØ%}:0   PxSg3 onset
 
+ * %{ьØ%}:0   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
+
 
 
 
@@ -65,6 +67,10 @@ __ suffix-final vowel realized as +Back +Round in word-final position __
 __ suffix-final vowel realized as +Front +Round in word-final position __  
 
 
+__ %{ьØ%}:ь __
+толам+V+Ind+Prt1+Sg1
+* __тол%>%{ьØ%}ым __
+* __тол%>ьым __
 
 
 __ suffix-final vowel realized after stem-final consonant __  
