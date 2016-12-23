@@ -8,13 +8,24 @@
 ! ========================== !
 
 
-!! We divide the verbs in two
+!! Here are some unfinished verb lexica. TODO: Fix.
+
+LEXICON V
+ # ;
+LEXICON V-AUX_
++V+Aux: # ;
+LEXICON Vem-jykte1
+V_em ;
+LEXICON Vem--Vam-n/l
+V_em ;
+LEXICON Vkielt
++V+Neg: # ;
 
 LEXICON Vam-dependent !!= @CODE@ tags +Depend and goes to V_am
  +Depend: V_am ;
 
-!LEXICON Vem-dependent !!= @CODE@ tags +Depend and goes to V_em
-! +Depend: V_em ;
+
+!! We divide the verbs in two
 
 !! !!The -am class
 
