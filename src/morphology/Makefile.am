@@ -29,7 +29,9 @@ GT_LEXC_SRCS_L1_L2=\
 			 affixes/adjectives.lexc  \
 			 affixes/clitics.lexc     \
 			 affixes/nouns.lexc       \
+			 affixes/pronouns.lexc    \
 			 affixes/propernouns.lexc \
+			 affixes/quantifiers.lexc \
 			 affixes/verbs.lexc
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
