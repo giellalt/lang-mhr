@@ -1,32 +1,37 @@
+LEXICON Pimp
+ # ;
 
+LEXICON Pmuu
++Interj: # ; ! Several Pmuu do not belong here
 
-!Pronouns
+LEXICON PRON-IR_
++Pron+Interr: # ;
++Pron+Rel: # ;
 
-LEXICON Pron    
-+Pron:   AfterN       ;
+LEXICON PronP
++Pron: # ;
 
-!LEXICON PronV    
-!+Pr:   SxPronV       ;
+LEXICON PronD
++Pron: # ;
 
-!LEXICON PronEnc    
-!+Pr:   SxPronEnc       ;
+LEXICON PRON_
++Pron: # ;
 
-!LEXICON PronUndecl    
-!+Pr:   SxPronUndecl       ;
+LEXICON PronRes
++Pron: # ;
 
+LEXICON PronI
++Pron: # ;
 
+LEXICON PronIR
++Pron+Interr: # ;
 
+LEXICON PronInd
++Pron+Ind: # ;
 
-!Pronouns
+LEXICON PronDem
++Pron+Dem: # ;
 
-!LEXICON SxN     !Tämä on jo substantiiveissa  
-
-!LEXICON SxPronV       
-!$x  WordEnd	;
-
-!LEXICON SxPronEnc       
-!$x  WordEnd	;
-
-!LEXICON SxPronUndecl       
-!$x  WordEnd	;
+LEXICON PronRef
++Pron+Refl: # ;
 

@@ -1,20 +1,25 @@
-!Quantifiers
+LEXICON QNT_
++Qnt: # ;
 
-!LEXICON Qu        
-!+Qu:   SxQu       ;
+LEXICON KvMurt
+ # ;
 
-!LEXICON QuUndecl        
-!+Qu:   SxQuUndecl       ; 
-
-
-
+LEXICON KvK
++Num: # ;
 
 
-!Quantifiers
+LEXICON I
+ # ;
 
-!LEXICON SxQu       
-!$x  WordEnd	;
+LEXICON KvKoll
+ # ;
 
-!LEXICON SxQuUndecl       
-!$x  WordEnd	;
+LEXICON KvInd
+ # ;
 
+LEXICON KvO
+ # ;
+
+
+LEXICON Kv-a/e
+ # ;
