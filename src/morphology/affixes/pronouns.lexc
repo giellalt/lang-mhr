@@ -1,0 +1,37 @@
+LEXICON Pimp
+ # ;
+
+LEXICON Pmuu
++Interj: # ; ! Several Pmuu do not belong here
+
+LEXICON PRON-IR_
++Pron+Interr: # ;
++Pron+Rel: # ;
+
+LEXICON PronP
++Pron: # ;
+
+LEXICON PronD
++Pron: # ;
+
+LEXICON PRON_
++Pron: # ;
+
+LEXICON PronRes
++Pron: # ;
+
+LEXICON PronI
++Pron: # ;
+
+LEXICON PronIR
++Pron+Interr: # ;
+
+LEXICON PronInd
++Pron+Ind: # ;
+
+LEXICON PronDem
++Pron+Dem: # ;
+
+LEXICON PronRef
++Pron+Refl: # ;
+
