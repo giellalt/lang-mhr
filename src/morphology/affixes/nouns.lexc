@@ -674,16 +674,19 @@ LEXICON N-SG-PxPl1-ACC
  +Sg+PxPl1+Acc:нам K ;
 
 LEXICON N-SG-PxPl1-CMP
- +Sg+PxPl1+Cmp:нала K ;
+ +Sg+PxPl1+Cmp:нала K ; !NB_PX_CX
+ +Sg+PxPl1+Cmp:лана K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl1-COM
  +Sg+PxPl1+Com:наге K ;
 
 LEXICON N-SG-PxPl1-INE
- +Sg+PxPl1+Ine:наште K ;
+ +Sg+PxPl1+Ine:наште K ; !NB_PX_CX
+ +Sg+PxPl1+Ine:ыштына K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl1-ILL
- +Sg+PxPl1+Ill:нашке K ;
+ +Sg+PxPl1+Ill:нашке K ; !NB_PX_CX
+ +Sg+PxPl1+Ill:ышкына K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl1-LAT
  +Sg+PxPl1+Lat:эшна K ;
@@ -760,16 +763,19 @@ LEXICON N-SG-PxPl2-ACC
  +Sg+PxPl2+Acc:дам K ;
 
 LEXICON N-SG-PxPl2-CMP
- +Sg+PxPl2+Cmp:дала K ;
+ +Sg+PxPl2+Cmp:дала K ; !NB_PX_CX
+ +Sg+PxPl2+Cmp:лада K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl2-COM
  +Sg+PxPl2+Com:даге K ;
 
 LEXICON N-SG-PxPl2-INE
- +Sg+PxPl2+Ine:даште K ;
+ +Sg+PxPl2+Ine:даште K ; !NB_PX_CX
+ +Sg+PxPl2+Ine:ыштыда K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl2-ILL
- +Sg+PxPl2+Ill:дашке K ;
+ +Sg+PxPl2+Ill:дашке K ; !NB_PX_CX
+ +Sg+PxPl2+Ill:ышкыда K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl2-LAT
  +Sg+PxPl2+Lat:эшда K ;
