@@ -6,7 +6,7 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e order="2">
     <lg>
-      <l pos="Conj">а</l>
+      <l pos="CC">а</l>
 
       <stg>
         <st Contlex="CC_">а</st>
@@ -14,15 +14,8 @@
 
       <stress>а</stress>
     </lg>
-
-    <pos>CC</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -38,7 +31,7 @@
 
   <e order="2">
     <lg>
-      <l pos="Conj">ала</l>
+      <l pos="CC">ала</l>
 
       <stg>
         <st Contlex="CC_">ала</st>
@@ -50,11 +43,7 @@
     <pos>CC</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -68,7 +57,7 @@
 
   <e order="2">
     <lg>
-      <l pos="Conj">але</l>
+      <l pos="CC">але</l>
 
       <stg>
         <st Contlex="CC_">ал%{еы%}</st>
@@ -80,11 +69,7 @@
     <pos>CC</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -138,7 +123,7 @@
 
   <e order="2">
     <lg>
-      <l pos="Conj">гын</l>
+      <l pos="CS">гын</l>
 
       <stg>
         <st Contlex="CS_">гын</st>
@@ -150,11 +135,7 @@
     <pos>CS</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -188,7 +169,7 @@
 
   <e order="2">
     <lg>
-      <l pos="Conj">да</l>
+      <l pos="CC">да</l>
 
       <stg>
         <st Contlex="CC_">да</st>
@@ -200,11 +181,7 @@
     <pos>CC</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -238,7 +215,7 @@
 
   <e order="2">
     <lg>
-      <l pos="Conj">ден</l>
+      <l pos="CC">ден</l>
 
       <stg>
         <st Contlex="CC_">ден</st>
@@ -250,11 +227,7 @@
     <pos>CC</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -268,7 +241,7 @@
 
   <e order="2">
     <lg>
-      <l pos="Conj">дык</l>
+      <l pos="CS">дык</l>
 
       <stg>
         <st Contlex="CS_">дык</st>
@@ -280,11 +253,7 @@
     <pos>CS</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -298,10 +267,10 @@
 
   <e order="1">
     <lg>
-      <l pos="Conj">если</l>
+      <l pos="CS">если</l>
 
       <stg>
-        <st Contlex="CONJ_">если</st>
+        <st Contlex="CS_">если</st>
       </stg>
 
       <stress>если</stress>
@@ -398,10 +367,10 @@
 
   <e order="2">
     <lg>
-      <l pos="Conj">керек</l>
+      <l pos="CS">керек</l>
 
       <stg>
-        <st Contlex="CC_">керек</st>
+        <st Contlex="CS_">керек</st>
       </stg>
 
       <stress>кере•к</stress>
@@ -410,11 +379,7 @@
     <pos>CC</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -458,11 +423,7 @@
     <pos>CS</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -488,11 +449,7 @@
     <pos>CS</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -538,11 +495,7 @@
     <pos>CS</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -586,11 +539,7 @@
     <pos>Conj</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -634,11 +583,7 @@
     <pos>Conj</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -662,11 +607,7 @@
     <pos>Conj</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -750,11 +691,7 @@
     <pos>Conj</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -798,11 +735,7 @@
     <pos>CS</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -866,11 +799,7 @@
     <pos>CS</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -894,11 +823,7 @@
     <pos>CS</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -924,11 +849,7 @@
     <pos>Conj</pos>
 
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
