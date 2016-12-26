@@ -1077,18 +1077,19 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Num"/>
+        <t pos="Num">kaksisataa</t>
       </tg>
     </mg>
   </e>
 
   <e order="2">
     <lg>
-      <l pos="Num">кокымше</l>
+      <l pos="Num">кокымшо</l>
 
       <stg>
-        <st Contlex="KvO">кокымш%{еы%}</st>
+        <st Contlex="KvO">кокымш%{оы%}</st>
       </stg>
+      <stress>ко•кымшо</stress>
     </lg>
 
     <pos>Num</pos>
@@ -1106,26 +1107,6 @@
 
       <tg xml:lang="fin">
         <t>toinen KvO</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e order="1">
-    <lg>
-      <l pos="Num">кокымшо</l>
-
-      <stg>
-        <st Contlex="QNT_">кокымшо</st>
-      </stg>
-
-      <stress>ко•кымшо</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Num"/>
       </tg>
     </mg>
   </e>

@@ -216,7 +216,8 @@ LEXICON N-ava_01
   N-PL-PxPl3-LAT ;
   N-PL-PxPl3-ABE ;
 
-
+LEXICON N-OLD-ORTH-SG-NOM_
++Err/Orth+N+Sg+Nom: # ;
 
 
 
@@ -393,11 +394,11 @@ LEXICON N-SG-PxSg1-COM
  +Sg+PxSg1+Com:%>Е2мге K ;
 
 LEXICON N-SG-PxSg1-INE
- +Sg+PxSg1+Ine:%>Е2мыште K ; ! ??
+ +Sg+PxSg1+Ine:%>Е2мыште K ; !NB_PX_CX
  +Sg+PxSg1+Ine:%>ыштым   K ; !Nx-Cx-Px
 
 LEXICON N-SG-PxSg1-ILL
- +Sg+PxSg1+Ill:%>Е2мышке K ; !??
+ +Sg+PxSg1+Ill:%>Е2мышке K ; !NB_PX_CX
  +Sg+PxSg1+Ill:%>ышкым   K ; !Nx-Cx-Px
 
 LEXICON N-SG-PxSg1-LAT

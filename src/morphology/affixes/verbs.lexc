@@ -181,6 +181,8 @@ LEXICON k-0
         +V+Des+ConNeg:        K           ;
 
 !! V_am, шинчаш шич
+!! this is the proof or consonant stem cf. vowel stem in -ем verbs.
+!! In mrj this is dealt with in twolc
 LEXICON nC-C
                +V+Inf:нч%>А2ш K           ;
              +Ger+Gen:нч%>ын  K           ;
@@ -194,8 +196,8 @@ LEXICON nC-C
         +V+Des+ConNeg:ч       K           ;
 
 !! These need work 2012-09-21
-LEXICON Vam-n/l
-  V_am ;
+!LEXICON Vam-n/l
+!  V_am ; No longer neede 2016-12-26 twolc hanling of prt Sg123 and Pl3 
 
 LEXICON Vam--1t
   # ;
