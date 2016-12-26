@@ -29,9 +29,9 @@ GT_LEXC_SRCS_L1_L2=\
 			 affixes/adjectives.lexc  \
 			 affixes/clitics.lexc     \
 			 affixes/nouns.lexc       \
+			 affixes/numbers.lexc \
 			 affixes/pronouns.lexc    \
 			 affixes/propernouns.lexc \
-			 affixes/quantifiers.lexc \
 			 affixes/verbs.lexc
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
@@ -58,11 +58,11 @@ GENERATED_LEXC_SRCS=\
 			 $(srcdir)/stems/dependents.lexc    \
 			 $(srcdir)/stems/interjections.lexc \
 			 $(srcdir)/stems/nouns.lexc         \
+			 $(srcdir)/stems/numbers.lexc   \
 			 $(srcdir)/stems/particles.lexc     \
 			 $(srcdir)/stems/postpositions.lexc \
 			 $(srcdir)/stems/pronouns.lexc      \
 			 $(srcdir)/stems/propernouns.lexc   \
-			 $(srcdir)/stems/quantifiers.lexc   \
 			 $(srcdir)/stems/verbs.lexc
 
 
@@ -74,11 +74,11 @@ GT_XML_SRCS=\
 			 stems/dependents.xml    \
 			 stems/interjections.xml \
 			 stems/nouns.xml         \
+			 stems/numbers.xml   \
 			 stems/particles.xml     \
 			 stems/postpositions.xml \
 			 stems/pronouns.xml      \
 			 stems/propernouns.xml   \
-			 stems/quantifiers.xml   \
 			 stems/verbs.xml
 
 # Define any additional lexc sources here (compiled on their own):

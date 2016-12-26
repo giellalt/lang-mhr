@@ -1,5 +1,5 @@
 
-LEXICON quantifiers
+LEXICON numbers
 
 амиян:амиян QNT_  "" ;
 вес:вес KvO  "toinen KvO" ;
@@ -42,9 +42,8 @@ LEXICON quantifiers
 кок:кок KvK  "kaksi KvK" ;
 кок-кум:кок-кум QNT_  "" ;
 коктыт:коктыт QNT_  "" ;
-кокшӱдӧ:кокшӱдӧ QNT_  "" ;
-кокымше:кокымш%{еы%} KvO  "toinen KvO" ;
-кокымшо:кокымшо QNT_  "" ;
+кокшӱдӧ:кокшӱдӧ QNT_  "kaksisataa" ;
+кокымшо:кокымш%{оы%} KvO  "toinen KvO" ;
 кокыт:кокыт KvK  "kaksi KvK" ;
 коле:кол%{еы%} KvK  "kaksikymmentä KvK" ;
 коло:коло QNT_  "" ;

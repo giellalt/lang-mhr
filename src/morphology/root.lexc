@@ -455,6 +455,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 %{аы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
 %{еы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
 %{оы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
+%{ӧы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
 %{яы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel preceded by ь
 %{еоыӧØ%}  !!= * @CODE@ PxSg3 final
 %{ыØ%}  !!= * @CODE@ PxSg3 onset
@@ -538,11 +539,11 @@ conjunctions  ;	   !!   @CODE@,
 dependents   ;	   !!   @CODE@, 
 interjections   ;  !!   @CODE@, 
 nouns   ;		   !!   @CODE@, 
+numbers    ;   !!   @CODE@, 
 particles   ;	   !!   @CODE@, 
 postpositions	;  !!   @CODE@, 
 pronouns    ;	   !!   @CODE@, 
 propernouns    ;   !!   @CODE@, 
-quantifiers    ;   !!   @CODE@, 
 verbs   ;		   !!   @CODE@, 
 Abbreviation	;  !!   @CODE@, 
 Acronym		;	   !!   @CODE@, 
