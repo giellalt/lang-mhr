@@ -12,12 +12,12 @@ LEXICON conjunctions
 даже:даже CONJ_  "" ;
 ден:ден CC_  "(vain nominien rinnastus) ja K" ;
 дык:дык CS_  "jos K" ;
-если:если CONJ_  "" ;
+если:если CS_  "" ;
 зато:зато CONJ_  "" ;
 и:и CONJ_  "" ;
 ито:ито CONJ_  "" ;
 кала:кала CONJ_  "" ;
-керек:керек CC_  "vaikka(kin)/(-kaan ei), joskin/kaan (ei) K" ;
+керек:керек CS_  "vaikka(kin)/(-kaan ei), joskin/kaan (ei) K" ;
 кеч:кеч CONJ_  "" ;
 ман:ман CS_  "että, jotta K" ;
 манын:манын CS_  "että; jotta K" ;

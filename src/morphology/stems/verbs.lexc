@@ -92,7 +92,7 @@ LEXICON verbs
 вашталташ:вашталт V_em  "vaihtaa, muuttaa" ;
 ваялаш:ваял V_em  "reunustaa" ;
 ваҥаш:ваҥ V_em  "vartioida, paimentaa; väijyä, seurata" ;
-велаш+Hom1:вел Vam-n/l  "putoilla; läikkyä; virrata" ;
+велаш+Hom1:вел V_am  "putoilla; läikkyä; virrata" ;
 велаш+Hom2:вел V_em  "karistaa; läikyttää; valaa" ;
 велыкташ:велыкт V_em  "karistuttaa; valuttaa" ;
 венчаяш:венчай V_em  "vihkiä" ;
@@ -402,7 +402,7 @@ LEXICON verbs
 каҥашаш:каҥаш V_em  "neuvotella; pohtia" ;
 кекреклаш:кекрекл V_em  "kiekua" ;
 келанаш:келан V_em  "ilahtua; olla tyytyväinen; nauttia" ;
-келаш:кел Vam-n/l  "kahlata; tallata" ;
+келаш:кел V_am  "kahlata; tallata" ;
 келгемдаш:келгемд V_em  "syventää" ;
 келесырланаш:келесырлан V_em  "oikutella; puhua töykeästi/törkeästi" ;
 келшаш:келш V_em  "sopia; suostua" ;
@@ -445,7 +445,7 @@ LEXICON verbs
 коктеланаш:коктелан V_em  "empiä" ;
 кокыралташ:кокыралт V_em  "yskäistä" ;
 кокыраш:кокыр V_em  "yskiä" ;
-колаш+Hom1:кол Vam-n/l  "kuulla" ;
+колаш+Hom1:кол V_am  "kuulla" ;
 колаш+Hom2:кол V_em  "kuolla" ;
 коллективизироватлаш:коллективизироватл V_em  "kollektiv(is)oida" ;
 колташ:колт V_em  "lähettää; päästää; kertoa" ;
@@ -584,7 +584,7 @@ LEXICON verbs
 кынерашлаш:кынерашл V_em  "vyyhtiä" ;
 кынерташ:кынерт V_em  "nojata kyynärpäillä" ;
 кыраклаш:кыракл V_em  "lujittaa" ;
-кыралт:кыралт Vam--1t  "tulla lyödyksi" ;
+кыралташ:кыралт V_am  "tulla lyödyksi" ;
 кыраш:кыр V_em  "hakata; lyödä; koputtaa" ;
 кыркалаш:кыркал V_em  "naulata" ;
 кыркырыкташ:кыркырыкт V_em  "huudattaa; puhaltaa (torvea); viheltää" ;
@@ -612,8 +612,8 @@ LEXICON verbs
 кӱзыкташ:кӱзыкт V_em  "nostaa, suurentaa" ;
 кӱкташ:кӱкт V_em  "keittää; paistaa" ;
 кӱкшемдаш:кӱкшемд V_em  "kohottaa; ylentää" ;
-кӱлаш:кӱл Vam-n/l  "olla tarpeen" ;
-кӱлаш:кӱл Vam-n/l  "täytyy (yksip.)" ;
+кӱлаш:кӱл V_am  "olla tarpeen" ;
+кӱлаш:кӱл V_am  "täytyy (yksip.)" ;
 кӱлткаш:кӱлтк V_em  "sykkiä" ;
 кӱлыпемдаш:кӱлыпемд V_em  "vähentää, tehdä vajaaksi" ;
 кӱнчаш:кӱнч V_em  "kaivaa" ;
@@ -622,8 +622,8 @@ LEXICON verbs
 кӱралаш:кӱрал V_em  "(eläin) maata selällään" ;
 кӱраш:кӱр V_am  "nyhtää, kyniä" ;
 кӱргӱлаш:кӱргӱл V_em  "kuuruttaa" ;
-кӱрлаш:кӱрл Vam-n/l  "repäistä; katkaista" ;
-кӱрлаш:кӱрл Vam-n/l  "irrota; revetä; katketa" ;
+кӱрлаш:кӱрл V_am  "repäistä; katkaista" ;
+кӱрлаш:кӱрл V_am  "irrota; revetä; katketa" ;
 кӱртньылаш:кӱртньыл V_em  "raudoittaa" ;
 кӱрыштыкташ:кӱрыштыкт V_em  "(usein) kiskottaa, katkottaa, nypittää" ;
 кӱсменлаш:кӱсменл V_em  "ohjata (venettä)" ;
@@ -748,7 +748,7 @@ LEXICON verbs
 мамыкаҥдаш:мамыкаҥд V_em  "tahria (untuviin)" ;
 мамыкланаш:мамыклан V_em  "pöyhöttyä" ;
 мамыкландараш:мамыкландар V_em  "pöyhöttää" ;
-манаш:ман Vam-n/l  "sanoa" ;
+манаш:ман V_am  "sanoa" ;
 мараяш:марай V_em  "tahria" ;
 мариноватлаш:мариноватл V_em  "marinoida" ;
 маркироватлаш:маркироватл V_em  "merkitä (kylvörivit)" ;
@@ -805,7 +805,7 @@ LEXICON verbs
 мындырланаш:мындырлан V_em  "elää huolitta; tulla hemmotelluksi; laiskotella" ;
 мырлаш:мырл V_em  "(kissa) kehrätä" ;
 мыскылаш:мыскыл V_em  "pilkata" ;
-мӧҥгешт:мӧҥгешт Vam--1t  "vähentyä" ;
+мӧҥгешташ:мӧҥгешт V_am  "vähentyä" ;
 мӧҥгештараш:мӧҥгештар V_em  "vähentää" ;
 мӱгыралташ:мӱгыралт V_em  "m:en koltaS parkaista; kumahtaa" ;
 мӱгыраш:мӱгыр V_em  "parkua, karjua; kumista, surista" ;
@@ -827,7 +827,7 @@ LEXICON verbs
 наҥгаяш:наҥгай V_em  "viedä" ;
 негызлаш:негызл V_em  "perustaa" ;
 незеремдаш:незеремд V_em  "köyhdyttää" ;
-нелаш:нел Vam-n/l  "niellä" ;
+нелаш:нел V_am  "niellä" ;
 нелемдаш:нелемд V_em  "painaa; vaikeuttaa" ;
 нералташ:нералт V_em  "torkahtaa" ;
 нераш:нер V_em  "torkkua" ;
@@ -999,7 +999,7 @@ LEXICON verbs
 пашымлаш:пашымл V_em  "keskeyttää" ;
 пезменлаш:пезменл V_em  "punnita (puntarilla); kitsastella" ;
 пезнаш:пезн V_em  "vieraantua; (kuv.) kylmetä" ;
-пелаш:пел Vam-n/l  "(ruoka) palaa" ;
+пелаш:пел V_am  "(ruoka) palaa" ;
 пелешаш:пелеш V_em  "sanoa; ääntää (sana)" ;
 пелешткалаш:пелешткал V_em  "(usein) puhua; ääntää (sana)" ;
 пелташ:пелт V_em  "sulattaa (vahaa/rasvaa); polttaa" ;
@@ -1119,7 +1119,7 @@ LEXICON verbs
 пуркаҥаш:пуркаҥ V_am  "kuohkeutua; (leipä) kuivettua" ;
 пуркаҥдараш:пуркаҥдар V_em  "kuohkeuttaa; kuivata (leipä)" ;
 пуркаҥдаш:пуркаҥд V_em  "kuohkeuttaa; kuivata (leipä)" ;
-пурлаш:пурл Vam-n/l  "purra, puraista; haukata" ;
+пурлаш:пурл V_am  "purra, puraista; haukata" ;
 пурташ:пурт V_em  "viedä (sisään); päästää; panna" ;
 пурчылгаш:пурчылг V_em  "(höyhenet) käpristyä" ;
 путлалташ:путлалт V_am  "olla kosittu(na)/kihlattu(na) Vpass" ;
@@ -1222,7 +1222,7 @@ LEXICON verbs
 раҥгаш:раҥг V_em  "olla kovasti nälissään" ;
 рвеземдаш:рвеземд V_em  "nuorentaa" ;
 реагироватлаш:реагироватл V_em  "reagoida" ;
-регенчаҥ:регенчаҥ Vam--1t  "sammaloitua" ;
+регенчаҥаш:регенчаҥ V_am  "sammaloitua" ;
 регенчылаш:регенчыл V_em  "peittää (sammalella) S" ;
 регистрироватлаш:регистрироватл V_em  "kirjata, rekisteröidä" ;
 регулироватлаш:регулироватл V_em  "säännellä, ohjata" ;
@@ -1423,7 +1423,7 @@ LEXICON verbs
 тодылалташ:тодылалт V_am  "vääntyä, katketa, särkyä" ;
 тояш:той V_em  "kätkeä; salata; haudata" ;
 тойлаш:тойл V_em  "peittää messingillä" ;
-толаш+Hom1:тол Vam-n/l  "tulla" ;
+толаш+Hom1:тол V_am  "tulla" ;
 толаш+Hom2:тол V_em  "varastaa, ryöstää; loukuttaa hamppua" ;
 толашаш:толаш V_em  "yrittää; telmiä, metelöidä" ;
 толаштараш:толаштар V_em  "huolestuttaa; kiusata; raiskata" ;
@@ -1570,7 +1570,7 @@ LEXICON verbs
 уке:уке Vkielt  "ei, ei ole Vkielt" ;
 укшинчаш:укши nC-C  "repiä, kiskoa" ;
 укшинчыкташ:укшинчыкт V_em  "oksettaa" ;
-улаш+Hom1:ул Vam-n/l  "olla" ;
+улаш+Hom1:ул V_am  "olla" ;
 улдаш:улд V_em  "rukoilla" ;
 улаш+Hom2:ул V-AUX_  "on (olemassa)" ;
 улмаш:улмаш V-AUX_  "oli; (apuverbi) V" ;
@@ -1584,7 +1584,7 @@ LEXICON verbs
 умылтараш:умылтар V_em  "selittää" ;
 умырташ:умырт V_em  "(sää) lämmetä, (tuuli) tyyntyä" ;
 упкалаш:упкал V_em  "tarttua, siepata" ;
-упшалаш:упшал Vam-n/l  "pukea lakki/hattu (itselle)" ;
+упшалаш:упшал V_am  "pukea lakki/hattu (itselle)" ;
 упшалташ:упшалт V_em  "pukea lakki/hattu (jllek)" ;
 ураш:ур V_em  "(vesi) murtautua" ;
 ураш:ур V_em  "kaivaa, haudata; mullata" ;
@@ -1614,7 +1614,7 @@ LEXICON verbs
 ушныктараш:ушныктар V_em  "menestyä (työssä)" ;
 уштараш:уштар V_em  "yhdistää, lisätä" ;
 уштаркалаш:уштаркал V_em  "yhdistellä, lisäillä" ;
-уэм:уэм Vam--1t  "nuortua, uudistua" ;
+уэмаш:уэм V_am  "nuortua, uudistua" ;
 уэмдаш:уэмд V_em  "nuorentaa, uusia" ;
 уэмдыл:уэмдыл Vam-n/l--1t  "uudistella" ;
 уэтласаш:уэтлас V_em  "kiistää, evätä" ;
@@ -1769,8 +1769,8 @@ LEXICON verbs
 шарныкташ:шарныкт V_em  "muistuttaa" ;
 шекланаш:шеклан V_em  "pitää silmällä; varoa, karttaa; epäillä" ;
 шекландараш:шекландар V_em  "varoittaa" ;
-шелаш:шел Vam-n/l  "pieniä, halkaista; jakaa" ;
-шелаш:шел Vam-n/l  "pilkkoutua, haljeta" ;
+шелаш:шел V_am  "pieniä, halkaista; jakaa" ;
+шелаш:шел V_am  "pilkkoutua, haljeta" ;
 шеледаш:шелед V_em  "jaella, jäsennellä" ;
 шемемдаш:шемемд V_em  "mustata" ;
 шераш+Hom1:шер V_am  "kammata, harjata; nyhtää (villaa); käydä läpi" ;
@@ -1815,7 +1815,7 @@ LEXICON verbs
 шокташ:шокт V_em  "soittaa (soitinta); kuulua" ;
 шокшемдаш:шокшемд V_em  "lämmittää, kuumentaa" ;
 шокшештараш:шокшештар V_em  "lämmittää, kuumentaa" ;
-шолаш+Hom1:шол Vam-n/l  "kiehua, kihista" ;
+шолаш+Hom1:шол V_am  "kiehua, kihista" ;
 шолаш+Hom2:шол V_em  "heitellä, heittää" ;
 шолдымаҥдаш:шолдымаҥд V_em  "kalistaa, kolkuttaa" ;
 шолдыраҥдаш:шолдыраҥд V_em  "suurentaa" ;
@@ -1862,7 +1862,7 @@ LEXICON verbs
 шуйнылаш:шуйныл V_em  "venyillä, (us.) ojen(tau)tua, ulottua; venytellä" ;
 шукемдаш:шукемд V_em  "kertoa, moninkertaistaa; monistaa; lisätä" ;
 шукташ:шукт V_em  "saattaa; johtaa; suorittaa; tyydyttää; ehtiä" ;
-шулаш+Hom1:шул Vam-n/l  "leikata" ;
+шулаш+Hom1:шул V_am  "leikata" ;
 шулаш+Hom2:шул V_em  "sulaa, sulattaa; haihtua" ;
 шулдештараш:шулдештар V_em  "halventaa" ;
 шулдыраҥдаш:шулдыраҥд V_em  "siivittää" ;
@@ -1903,7 +1903,7 @@ LEXICON verbs
 шыжалтараш:шыжалтар V_em  "roiskauttaa" ;
 шыжаш:шыж V_em  "roiskua; (sade) pisaroida" ;
 шыжыкташ:шыжыкт V_em  "roiskuttaa" ;
-шылаш:шыл Vam-n/l  "piiloutua, piileksiä, paeta" ;
+шылаш:шыл V_am  "piiloutua, piileksiä, paeta" ;
 шылташ:шылт V_em  "piilottaa, naamioida" ;
 шым:шым Vkielt  "en (pret.) Vkielt" ;
 шымалгаш:шымалг V_em  "silittyä, tasoittua" ;
@@ -2112,7 +2112,7 @@ LEXICON verbs
 ӱшташ:ӱшт V_am  "lakaista; pyyhkiä, kuivata" ;
 ӱштедаш:ӱштед V_em  "(us.) lakaista; pyyhkiä, kuivailla" ;
 ӱштылкалаш:ӱштылкал V_em  "(us.) lakaista; pyyhkiä, kuivailla" ;
-ӱштышт:ӱштышт Vam--1t  "(us.) lakaista; pyyhkiä, kuivailla" ;
+ӱштышташ:ӱштышт V_am  "(us.) lakaista; pyyhkiä, kuivailla" ;
 ӱшыклаш:ӱшыкл V_em  "suojata (tuulelta/auringolta)" ;
 ӱшыргаш:ӱшырг V_em  "veltostua" ;
 ӱяклыкташ:ӱяклыкт V_em  "oksettaa" ;
