@@ -98,7 +98,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Ine 	   !!≈ * __@CODE@__ 
 +Lat 	   !!≈ * __@CODE@__ lative
 +Dat 	   !!≈ * __@CODE@__ 
-+Cmp 	   !!≈ * __@CODE@__ comparative case
++Cmpr 	   !!≈ * __@CODE@__ comparative case
 +Abe	   !!≈ * __@CODE@__ abessive
 +Voc	   !!≈ * __@CODE@__ vocative
 
@@ -158,7 +158,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Nec	          !!≈ * __@CODE@__ 
 +PrfPrc	          !!≈ * __@CODE@__ 
 +Act	          !!≈ * __@CODE@__ 
-+Pas	          !!≈ * __@CODE@__ 
++Pass	          !!≈ * __@CODE@__ 
 +FutPrc	          !!≈ * __@CODE@__ 
 +NegPrc	          !!≈ * __@CODE@__ 
 +Imprf	          !!≈ * __@CODE@__ 
@@ -493,6 +493,7 @@ Z1      !!≈ * __@CODE@__
 Z2      !!≈ * __@CODE@__ 
 %-      !!≈ * @CODE@ 
 
++Cmp
 !! !!Flag diacritics
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics - only allow compounds

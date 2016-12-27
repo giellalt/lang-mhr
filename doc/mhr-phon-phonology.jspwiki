@@ -8,6 +8,8 @@
  * %{еы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
  * %{оы%}:о  Stem-final vowel variation when stress falls on non-final vowel
  * %{оы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+ * %{ӧы%}:ӧ  Stem-final vowel variation when stress falls on non-final vowel
+ * %{ӧы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
 
  * %{яы%}:я  Stem-final vowel variation when stress falls on non-final vowel
  * %{яы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
@@ -89,6 +91,10 @@ __ stem-final vowel realized %{аы%}:а __
 __ suffix-final vowel realized %{еы%}:ы  __  
 
 __ stem-final vowel realized %{еы%}:е __  
+
+__ suffix-final vowel realized %{ӧы%}:ы  __  
+
+__ stem-final vowel realized %{ӧы%}:ӧ __  
 
 __ suffix-final vowel realized %{оы%}:ы  __  
 

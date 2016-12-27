@@ -53,7 +53,7 @@ here and there in the inflection pattern.
 
  * __+Hom1__ First pattern (let us say -аш)
  * __+Hom2__ Second pattern (let us say -еш)
- * __+Hom2__ Third pattern (if it should exist + even more?)
+ * __+Hom3__ Third pattern (if it should exist + even more?)
 
 The Usage extents are marked using following tags:
 
@@ -99,7 +99,7 @@ The comparative forms are:
 
 Numerals are classified under:
 
- * __+Card__ (hmm, skip +Card?)
+ * __+Card__ (hmm, skip+Card?)
  * __+Ord__ 
 
 
@@ -135,14 +135,10 @@ Other verb forms are
  * __+Inf	__ 
  * __+Ger	__ 
  * __+ConNeg	__ 
- * __+ConNegII__ 
  * __+Neg	__ 
- * __+ImprtII__ 
  * __+Prc	__ 
+ * __+Nec	__ 
  * __+PrfPrc	__ 
- * __+Sup	__ 
- * __+VGen	__ 
- * __+VAbess	__ 
  * __+Act	__ 
  * __+Pas	__ 
  * __+FutPrc	__ 
@@ -425,6 +421,7 @@ symbols in the lexicon files:
  * %{аы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
  * %{еы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
  * %{оы%}  Stem-final vowel variation when stress falls on non-final vowel
+ * %{ӧы%}  Stem-final vowel variation when stress falls on non-final vowel
  * %{яы%}  Stem-final vowel variation when stress falls on non-final vowel preceded by ь
  * %{еоыӧØ%}   PxSg3 final
  * %{ыØ%}   PxSg3 onset
@@ -500,6 +497,7 @@ given the proper use of these flags.
 @U.Cap.Opt@ Here it all starts
 
 The word forms in Meadow Mari language start from the lexeme roots of 
+
 the following basic word classes: 
  * adjectives  ;	    
    adverbs  ;		    
@@ -507,11 +505,11 @@ the following basic word classes:
    dependents   ;	    
    interjections   ;   
    nouns   ;		    
+   numbers    ;    
    particles   ;	    
    postpositions	;   
    pronouns    ;	    
    propernouns    ;    
-   quantifiers    ;    
    verbs   ;		    
    Abbreviation	;   
    Acronym		;	    
