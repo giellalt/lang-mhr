@@ -205,7 +205,7 @@ LEXICON nouns
 агропром:агропром N_  "" ;
 агротехник:агротехник N_  "" ;
 агротехнике:агротехник%{еы%} N_  "maataloustekniikka" ;
-агротехнике:агротехник%{аы%} N-OLD-ORTH-SG_NOM_  "maataloustekniikka" ;
+агротехнике:агротехник%{аы%} N-OLD-ORTH-SG-NOM_  "maataloustekniikka" ;
 агрофирме:агрофирм%{еы%} N_  "" ;
 агрохимий:агрохимий N_  "" ;
 агрохимик:агрохимик N_  "" ;
@@ -298,7 +298,7 @@ LEXICON nouns
 азатувыр:азатувыр N_  "" ;
 азаш:азаш N-VS  "aluna" ;
 азбуко:азбук%{оы%} N_  "aapinen" ;
-азбуко:азбук%{аы%} N-OLD-ORTH-SG_NOM_  "aapinen" ;
+азбуко:азбук%{аы%} N-OLD-ORTH-SG-NOM_  "aapinen" ;
 аздаралтмаш:аздаралтмаш N_  "" ;
 аздарымаш:аздарымаш N-VS  "(haavan) ärsytys" ;
 аздарыше:аздарыше N_  "" ;
@@ -400,7 +400,7 @@ LEXICON nouns
 активизироватлымаш:активизи•роватлымаш N_  "" ;
 активист:активист N_  "" ;
 активистке:активистк%{еы%} N_  "" ;
-активистке:активистк%{аы%} N-OLD-ORTH-SG_NOM_  "" ;
+активистке:активистк%{аы%} N-OLD-ORTH-SG-NOM_  "" ;
 активность:активность N_  "" ;
 активнылык:активнылык N_  "" ;
 актриса:актриса N_  "" ;
@@ -410,11 +410,11 @@ LEXICON nouns
 акул:акул N_  "" ;
 акуло:акуло N_  "" ;
 акустике:акустик%{еы%} N_  "" ;
-акустике:акустик%{аы%} N_-OLD-ORTH-SG_NOM  "" ;
+акустике:акустик%{аы%} N-OLD-ORTH-SG-NOM_  "" ;
 акустике:акустик%{еы%} N_  "" ;
 акушер:акушер N_  "" ;
 акушерке:акушеркеы N_  "" ;
-акушерке:акушеркаы N-OLD-ORTH-SG_NOM_  "" ;
+акушерке:акушеркаы N-OLD-ORTH-SG-NOM_  "" ;
 акцент:акцент N_  "" ;
 акциз:акциз N_  "" ;
 акций:акций N_  "" ;
@@ -582,7 +582,7 @@ LEXICON nouns
 англичан:англичан N_  "englanti" ;
 англичанин:англичанин N_  "englantilainen (mies)" ;
 англичанке:англичанк%{еы%} N_  "englantilainen (nainen)" ;
-англичанке:англичанк%{аы%} N-OLD-ORTH-SG_NOM_  "englantilainen (nainen)" ;
+англичанке:англичанк%{аы%} N-OLD-ORTH-SG-NOM_  "englantilainen (nainen)" ;
 андале:андал%{еы%} N_  "" ;
 андале:андале N_  "" ;
 андрецорва:андрецорва N_  "" ;
@@ -752,7 +752,7 @@ LEXICON nouns
 арест:арест N_  "aresti" ;
 арестант:арестант N_  "vanki (mies)" ;
 арестантке:арестантк%{еы%} N_  "naisvanki" ;
-арестантке:арестантк%{аы%} N-OLD-ORTH-SG_NOM_  "naisvanki" ;
+арестантке:арестантк%{аы%} N-OLD-ORTH-SG-NOM_  "naisvanki" ;
 арестоватлымаш:арестоватлымаш N-VS  "vangitseminen" ;
 арестоватлыме% ad/no% аристократ:арестоватлыме% ad/no% аристократ N_  "" ;
 арза:арза N_  "" ;
@@ -761,7 +761,7 @@ LEXICON nouns
 аристократ:аристократ N_  "" ;
 аристократий:аристократий N_  "" ;
 арифметике:арифметик%{еы%} N_  "aritmetiikka" ;
-арифметике:арифметик%{аы%} N-OLD-ORTH-SG_NOM_  "aritmetiikka" ;
+арифметике:арифметик%{аы%} N-OLD-ORTH-SG-NOM_  "aritmetiikka" ;
 арифмометр:арифмометр N_  "" ;
 арка:арка N-a/e  "ylänne" ;
 аркалык:аркалык N_  "selustinhihna" ;
@@ -805,7 +805,7 @@ LEXICON nouns
 артиллерист:артиллерист N_  "tykkimies" ;
 артист:артист N_  "näyttelijä" ;
 артистке:артистк%{еы%} N_  "näyttelijätär" ;
-артистке:артистк%{аы%} N-OLD-ORTH-SG_NOM_  "näyttelijätär" ;
+артистке:артистк%{аы%} N-OLD-ORTH-SG-NOM_  "näyttelijätär" ;
 артистлык:артистлык N_  "" ;
 артмак:артмак N_  "" ;
 артык:артык N_  "" ;
@@ -871,7 +871,7 @@ LEXICON nouns
 аспе:асп%{еы%} N_  "" ;
 аспирант:аспирант N_  "jatko-opiskelija (mies)" ;
 аспирантке:аспирантк%{еы%} N_  "jatko-opiskelija (nainen)" ;
-аспирантке:аспирантк%{аы%} N-OLD-ORTH-SG_NOM_  "jatko-opiskelija (nainen)" ;
+аспирантке:аспирантк%{аы%} N-OLD-ORTH-SG-NOM_  "jatko-opiskelija (nainen)" ;
 аспирантур:аспирантур N_  "" ;
 аспирантуро:аспирантур%{оы%} N_  "jatko-opiskelu" ;
 аспирантуро:аспирантур%{аы%} N-OLD-ORTH-SG-NOM_  "jatko-opiskelu" ;
@@ -881,7 +881,7 @@ LEXICON nouns
 ассимиляций:ассимиляций N_  "assimilaatio" ;
 ассистент:ассистент N_  "assistentti" ;
 ассистентке:ассистентк%{еы%} N_  "assistentti" ;
-ассистентке:ассистентк%{аы%} N-OLD-ORTH-SG_NOM_  "assistentti" ;
+ассистентке:ассистентк%{аы%} N-OLD-ORTH-SG-NOM_  "assistentti" ;
 ассортимент:ассортимент N_  "lajitelma" ;
 ассоциаций:ассоциаций N_  "assosiaatio" ;
 астар:астар N_  "" ;
@@ -891,7 +891,7 @@ LEXICON nouns
 астрологий:астрологий N_  "" ;
 астронавт:астронавт N_  "" ;
 астронавтика:астронавтик%{аы%} N_  "" ;
-астронавтика:астронавтик%{аы%} N-OLD-ORTH-SG_NOM_  "" ;
+астронавтика:астронавтик%{аы%} N-OLD-ORTH-SG-NOM_  "" ;
 астроном:астроном N_  "astronomi" ;
 астрономий:астрономий N_  "astronomia" ;
 асу:асу N_  "etu" ;
@@ -905,7 +905,7 @@ LEXICON nouns
 асырашудо:асырашуд%{оы%} N_  "" ;
 асьыра:асьыра N_  "" ;
 атаке:атак%{еы%} N_  "hyökkäys" ;
-атаке:атак%{аы%} N-OLD-ORTH-SG_NOM_  "hyökkäys" ;
+атаке:атак%{аы%} N-OLD-ORTH-SG-NOM_  "hyökkäys" ;
 атаковатлымаш:атаковатлымаш N_  "" ;
 аталык:аталык N_  "" ;
 атаман:атаман N_  "atamaani" ;
@@ -927,7 +927,7 @@ LEXICON nouns
 атлет:атлет N_  "atleetti" ;
 атлетик:атлетик N_  "" ;
 атлетике:атлетик%{еы%} N_  "voimistelu" ;
-атлетике:атлетик%{аы%} N-OLD-ORTH-SG_NOM_  "voimistelu" ;
+атлетике:атлетик%{аы%} N-OLD-ORTH-SG-NOM_  "voimistelu" ;
 атлымаш:атлымаш N-VS  "leikkaaminen" ;
 атма:атма N-VS  "(räpylän) kalvo" ;
 атмавара:атмавара N_  "" ;
@@ -963,7 +963,7 @@ LEXICON nouns
 афганец:афганец N_  "afgaani" ;
 аферист:аферист N_  "salamatkustaja" ;
 аферистке:аферистк%{еы%} N_  "salamatkustaja (nainen)" ;
-аферистке:аферистк%{аы%} N-OLD-ORTH-SG_NOM_  "salamatkustaja (nainen)" ;
+аферистке:аферистк%{аы%} N-OLD-ORTH-SG-NOM_  "salamatkustaja (nainen)" ;
 афиш:афиш N_  "" ;
 афиша:афиш%{аы%} N_  "(mainos)juliste" ;
 афише:афише N_  "" ;
@@ -972,7 +972,7 @@ LEXICON nouns
 африкан:африкан N_  "" ;
 африканец:африканец N_  "afrikkalainen (mies)" ;
 африканке:африканк%{еы%} N_  "afrikkalainen (nainen)" ;
-африканке:африканк%{аы%} N-OLD-ORTH-SG_NOM_  "afrikkalainen (nainen)" ;
+африканке:африканк%{аы%} N-OLD-ORTH-SG-NOM_  "afrikkalainen (nainen)" ;
 аффикс:аффикс N_  "" ;
 аффрикат:аффрикат N_  "" ;
 аффрикате:аффрикат%{еы%} N_  "" ;
@@ -1109,7 +1109,7 @@ LEXICON nouns
 балаган:балаган N_  "balagaani (ilveilynäytelmän kulissi)" ;
 балаганщик:балаганщик N_  "" ;
 балалайке:балалайк%{еы%} N_  "balalaikka" ;
-балалайке:балалайк%{аы%} N-OLD-ORTH-SG_NOM_  "balalaikka" ;
+балалайке:балалайк%{аы%} N-OLD-ORTH-SG-NOM_  "balalaikka" ;
 баланс:баланс N_  "(ek.) balanssi" ;
 балансироватлымаш:балансироватлымаш N_  "" ;
 балерина:балерин%{аы%} N_  "ballerina" ;
@@ -1182,9 +1182,9 @@ LEXICON nouns
 баскетбол:баскетбол N_  "koripallo" ;
 баскетболист:баскетболист N_  "koripalloilija (mies)" ;
 баскетболистке:баскетболистк%{еы%} N_  "naiskoripalloilija" ;
-баскетболистке:баскетболистк%{аы%} N-OLD-ORTH-SG_NOM_  "naiskoripalloilija" ;
+баскетболистке:баскетболистк%{аы%} N-OLD-ORTH-SG-NOM_  "naiskoripalloilija" ;
 басне:басн%{еы%} N_  "taru" ;
-басне:басня N-OLD-ORTH-SG_NOM_  "taru" ;
+басне:басня N-OLD-ORTH-SG-NOM_  "taru" ;
 бассейн:бассейн N_  "allas" ;
 бастион:бастион N_  "vallinsarvi" ;
 бастоватлымаш:бастоватлымаш N-VS  "lakko(ilu)" ;
@@ -1196,7 +1196,7 @@ LEXICON nouns
 батон:батон N_  "polakka" ;
 батрак:батрак N_  "maatyöläinen" ;
 батрачке:батрачк%{еы%} N_  "maatyöläinen" ;
-батрачке:батрачк%{аы%} N-OLD-ORTH-SG_NOM_  "maatyöläinen" ;
+батрачке:батрачк%{аы%} N-OLD-ORTH-SG-NOM_  "maatyöläinen" ;
 баттерфляй:баттерфляй N_  "" ;
 бахиле:бахиле N_  "" ;
 бахча:бахча N_  "" ;
@@ -1227,7 +1227,7 @@ LEXICON nouns
 белил:белил N_  "" ;
 беллетрист:беллетрист N_  "" ;
 беллетристике:беллетристик%{еы%} N_  "kaunokirjallisuus" ;
-беллетристике:беллетристик%{аы%} N-OLD-ORTH-SG_NOM_  "kaunokirjallisuus" ;
+беллетристике:беллетристик%{аы%} N-OLD-ORTH-SG-NOM_  "kaunokirjallisuus" ;
 белогвардеец:белогвардеец N_  "valkokaartilainen" ;
 белок:белок N_  "valkuaisaine" ;
 белорус:белорус N_  "valkovenäläinen" ;
@@ -1243,7 +1243,7 @@ LEXICON nouns
 бензоколонко:бензоколонк%{оы%} N_  "" ;
 бензопила:бензопила N_  "" ;
 берданке:берданк%{еы%} N_  "berdan-kivääri" ;
-берданке:берданк%{аы%} N-OLD-ORTH-SG_NOM_  "berdan-kivääri" ;
+берданке:берданк%{аы%} N-OLD-ORTH-SG-NOM_  "berdan-kivääri" ;
 берет:берет N_  "baskeri" ;
 беретке:беретке N_  "" ;
 беседа:бесед%{аы%} N_  "keskustelu(tilaisuus)" ;
@@ -1266,7 +1266,7 @@ LEXICON nouns
 библиотек:библиотек N_  "" ;
 библиотекарь:библиотекарь N_  "kirjastonhoitaja" ;
 библиотеке:библиотек%{еы%} N_  "kirjasto" ;
-библиотеке:библиотек%{аы%} N-OLD-ORTH-SG_NOM_  "kirjasto" ;
+библиотеке:библиотек%{аы%} N-OLD-ORTH-SG-NOM_  "kirjasto" ;
 библиотеке:библиотек%{еы%} N_  "" ;
 библиотечке:библиотечк%{еы%} N_  "" ;
 бигуди:бигуди N_  "" ;
@@ -1288,7 +1288,7 @@ LEXICON nouns
 биржа:бирж%{аы%} N_  "pörssi" ;
 бирже:бирж%{еы%} N_  "" ;
 бирке:бирк%{еы%} N_  "nimilappu" ;
-бирке:бирк%{аы%} N-OLD-ORTH-SG_NOM_  "nimilappu" ;
+бирке:бирк%{аы%} N-OLD-ORTH-SG-NOM_  "nimilappu" ;
 бис:бис N_  "" ;
 биссектрис:биссектрис N_  "" ;
 биссектрисе:биссектрисе N_  "" ;
@@ -1304,7 +1304,7 @@ LEXICON nouns
 блокаде:блокад%{еы%} N_  "" ;
 блокнот:блокнот N_  "lehtiö" ;
 блузко:блузк%{оы%} N_  "pusero" ;
-блузко:блузк%{аы%} N-OLD-ORTH-SG_NOM_  "pusero" ;
+блузко:блузк%{аы%} N-OLD-ORTH-SG-NOM_  "pusero" ;
 блузо:блуз%{оы%} N_  "pusero" ;
 блузо:блуз%{аы%} N-OLD-ORTH-SG-NOM_  "pusero" ;
 бобин:бобин N_  "" ;
@@ -1323,7 +1323,7 @@ LEXICON nouns
 боксер:боксер N_  "nyrkkeilijä" ;
 боксёр:боксёр N_  "" ;
 болванке:болванк%{еы%} N_  "valuharkko" ;
-болванке:болванк%{аы%} N-OLD-ORTH-SG_NOM_  "valuharkko" ;
+болванке:болванк%{аы%} N-OLD-ORTH-SG-NOM_  "valuharkko" ;
 болгар:болгар N_  "" ;
 болгарин:болгарин N_  "bulgaari" ;
 болгарке:болгарке N_  "" ;
@@ -1340,7 +1340,7 @@ LEXICON nouns
 бомбардир:бомбардир N_  "" ;
 бомбардироватлымаш:бомбардироватлымаш N_  "" ;
 бомбардировко:бомбардировк%{оы%} N_  "pommitus" ;
-бомбардировко:бомбардировк%{аы%} N-OLD-ORTH-SG_NOM_  "pommitus" ;
+бомбардировко:бомбардировк%{аы%} N-OLD-ORTH-SG-NOM_  "pommitus" ;
 бомбардировщик:бомбардировщик N_  "pommituslentokone" ;
 бомбитлымаш:бомбитлымаш N_  "" ;
 бомбо:бомб%{оы%} N_  "pommi" ;
@@ -1364,7 +1364,7 @@ LEXICON nouns
 бот:бот N_  "vene" ;
 ботаник:ботаник N_  "kasvitieteilijä" ;
 ботанике:ботаник%{еы%} N_  "kasvitiede" ;
-ботанике:ботаник%{аы%} N-OLD-ORTH-SG_NOM_  "kasvitiede" ;
+ботанике:ботаник%{аы%} N-OLD-ORTH-SG-NOM_  "kasvitiede" ;
 ботинке:ботинк%{еы%} N_  "kenkä" ;
 бото:бот%{оы%} N_  "" ;
 боцман:боцман N_  "pursimies" ;
@@ -1421,7 +1421,7 @@ LEXICON nouns
 буби:буби N_  "" ;
 будильник:будильник N_  "herätyskello" ;
 будко:будк%{оы%} N_  "koppi" ;
-будко:будк%{аы%} N-OLD-ORTH-SG_NOM_  "koppi" ;
+будко:будк%{аы%} N-OLD-ORTH-SG-NOM_  "koppi" ;
 будёновко:будёновк%{оы%} N_  "" ;
 буй:буй N_  "" ;
 буйвол:буйвол N_  "puhveli(härkä)" ;
@@ -1437,7 +1437,7 @@ LEXICON nouns
 булавке:булавк%{еы%} N_  "" ;
 булавке:булавк%{еы%} N_  "nuppineula" ;
 булко:булк%{оы%} N_  "vehnäleipä" ;
-булко:булк%{аы%} N-OLD-ORTH-SG_NOM_  "vehnäleipä" ;
+булко:булк%{аы%} N-OLD-ORTH-SG-NOM_  "vehnäleipä" ;
 бульвар:бульвар N_  "bulevardi" ;
 бульдозер:бульдозер N_  "raivaustraktori" ;
 бульдозерист:бульдозерист N_  "" ;
@@ -1470,7 +1470,7 @@ LEXICON nouns
 бутсо:бутс%{оы%} N_  "jalkapallokenkä" ;
 бутсо:бутс%{еы%} N-OLD-ORTH-SG-NOM_  "jalkapallokenkä" ;
 бутылко:бутылк%{оы%} N_  "pullo" ;
-бутылко:бутылк%{аы%} N-OLD-ORTH-SG_NOM_  "pullo" ;
+бутылко:бутылк%{аы%} N-OLD-ORTH-SG-NOM_  "pullo" ;
 буфер:буфер N_  "puskuri" ;
 буфет:буфет N_  "bufetti" ;
 буфетчик:буфетчик N_  "" ;
@@ -1503,7 +1503,7 @@ LEXICON nouns
 вагон:вагон N_  "vaunu" ;
 вагон-ресторан:ваго•н-ресторан N_  "" ;
 вагонетке:вагонетк%{еы%} N_  "työntövaunu" ;
-вагонетке:вагонетк%{аы%} N-OLD-ORTH-SG_NOM_  "työntövaunu" ;
+вагонетке:вагонетк%{аы%} N-OLD-ORTH-SG-NOM_  "työntövaunu" ;
 вагоновожатый:вагоновожатый N_  "raitiovaunun kuljettaja" ;
 вагонужатыше:вагонужатыше N_  "" ;
 важ:важ N_  "" ;
@@ -1790,7 +1790,7 @@ LEXICON nouns
 вемярым:вемярым N_  "" ;
 вена:вена N_  "" ;
 венгерке:венгерк%{еы%} N_  "unkarilainen (nainen)" ;
-венгерке:венгерк%{аы%} N-OLD-ORTH-SG_NOM_  "unkarilainen (nainen)" ;
+венгерке:венгерк%{аы%} N-OLD-ORTH-SG-NOM_  "unkarilainen (nainen)" ;
 венгр:венгр N_  "unkarilainen (mies)" ;
 венесуэл:венесуэл N_  "" ;
 венок:венок N_  "seppele" ;
@@ -1815,7 +1815,7 @@ LEXICON nouns
 вербоватлалтмаш:вербоватлалтмаш N_  "" ;
 вербоватлымаш:вербоватлымаш N_  "" ;
 вербовко:вербовк%{оы%} N_  "värväys" ;
-вербовко:вербовк%{аы%} N-OLD-ORTH-SG_NOM_  "värväys" ;
+вербовко:вербовк%{аы%} N-OLD-ORTH-SG-NOM_  "värväys" ;
 вербовщик:вербовщик N_  "värvääjä" ;
 верге:верг%{еы%} N_  "" ;
 верге:верг%{еы%} N_  "munuaiset" ;
@@ -1898,7 +1898,7 @@ LEXICON nouns
 взрывчатке:взрывчатк%{еы%} N_  "" ;
 взысканий:взысканий N_  "rangaistus" ;
 взятке:взятк%{еы%} N_  "lahjus" ;
-взятке:взятк%{аы%} N-OLD-ORTH-SG_NOM_  "lahjus" ;
+взятке:взятк%{аы%} N-OLD-ORTH-SG-NOM_  "lahjus" ;
 взяточник:взяточник N_  "" ;
 вибратор:вибратор N_  "" ;
 вибраций:вибраций N_  "" ;
@@ -1946,7 +1946,7 @@ LEXICON nouns
 вик-корно:вик-корно N_  "" ;
 вик-корыш:вик-корыш N_  "" ;
 вике:вике N_  "virna" ;
-вике:вик%{аы%} N-OLD-ORTH-SG_NOM_  "virna" ;
+вике:вик%{аы%} N-OLD-ORTH-SG-NOM_  "virna" ;
 викинг:викинг N_  "" ;
 виклук:виклук N_  "" ;
 виклукаш:виклукаш N_  "" ;
@@ -1966,9 +1966,9 @@ LEXICON nouns
 виктымаш:виктымаш N_  "" ;
 виктыш:виктыш N-VS  "(kankaan) loimi" ;
 вилке:вилк%{еы%} N_  "haarukka" ;
-вилке:вилк%{аы%} N-OLD-ORTH-SG_NOM_  "haarukka" ;
+вилке:вилк%{аы%} N-OLD-ORTH-SG-NOM_  "haarukka" ;
 вилле:вилл%{еы%} N_  "" ;
-вилле:вилл%{аы%} N-OLD-ORTH-SG_NOM_  "" ;
+вилле:вилл%{аы%} N-OLD-ORTH-SG-NOM_  "" ;
 вилыж-винер:вилыж-винер N_  "" ;
 виля:виля N-a/e  "haaska" ;
 вилягарме:вилягарме N_  "" ;
