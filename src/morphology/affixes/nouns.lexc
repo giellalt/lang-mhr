@@ -491,21 +491,21 @@ LEXICON N-SG-PxSg2-ACC
 
 LEXICON N-SG-PxSg2-CMP
  +Sg+PxSg2+Cmpr:%>Е2тла K ; !Nx-Px-Cx
- +Sg+PxSg2+Cmpr:%>лает  K ; !Nx-Cx-Px
+ +Sg+PxSg2+Cmpr:%>лат  K ; !Nx-Cx-Px
 
 LEXICON N-SG-PxSg2-COM
  +Sg+PxSg2+Com:%>Е2тге K ; !Nx-Px-Cx
 
 LEXICON N-SG-PxSg2-INE
  +Sg+PxSg2+Ine:%>ыштет   K ; !NB_CX_PX
- +Sg+PxSg2+Ine:%>Е2тыште K ; !NB_PX_CX
+! +Sg+PxSg2+Ine:%>Е2тыште K ; !NB_PX_CX
 
 LEXICON N-SG-PxSg2-ILL
  +Sg+PxSg2+Ill:%>ышкет   K ; !NB_CX_PX
- +Sg+PxSg2+Ill:%>Е2тышке K ; !NB_PX_CX
+! +Sg+PxSg2+Ill:%>Е2тышке K ; !NB_PX_CX
 
 LEXICON N-SG-PxSg2-LAT
- +Sg+PxSg2+Lat:эшет K ; !NB_CX_PX
+ +Sg+PxSg2+Lat:%>Е2шет K ; !NB_CX_PX CHECKME 2016-12-27
 
 LEXICON N-SG-PxSg2-ABE
  +Sg+PxSg2+Abe:%>Е2тде K ; !NB_PX_CX
@@ -539,10 +539,16 @@ LEXICON N-PL-PxSg2-ACC
 LEXICON N-PL-PxSg2-CMP
  +Pl+PxSg2+Cmpr:%-влакетла  K ; !NB_PX_CX
  +Pl+PxSg2+Cmpr:%-шамычетла K ; !NB_PX_CX
+ +Pl+PxSg2+Cmpr:%>Е2т%-влакла  K ; !PX_NB_CX
+ +Pl+PxSg2+Cmpr:%>Е2т%-шамычла K ; !PX_NB_CX
+ +Pl+PxSg2+Cmpr:%-влаклат  K ; !NB_CX_PX
+ +Pl+PxSg2+Cmpr:%-шамычлат K ; !NB_CX_PX
 
 LEXICON N-PL-PxSg2-COM
  +Pl+PxSg2+Com:%-влакетге  K ; !NB_PX_CX
  +Pl+PxSg2+Com:%-шамычетге K ; !NB_PX_CX
+ +Pl+PxSg2+Com:%>Е2т%-влакге  K ; !PX_NB_CX
+ +Pl+PxSg2+Com:%>Е2т%-шамычге K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg2-INE
  +Pl+PxSg2+Ine:%-влакыштет   K ; !NB_CX_PX
@@ -563,6 +569,8 @@ LEXICON N-PL-PxSg2-LAT
 LEXICON N-PL-PxSg2-ABE
  +Pl+PxSg2+Abe:%-влакетде  K ; !NB_PX_CX
  +Pl+PxSg2+Abe:%-шамычетде K ; !NB_PX_CX
+ +Pl+PxSg2+Abe:%>Е2т%-влакде  K ; !PX_NB_CX
+ +Pl+PxSg2+Abe:%>Е2т%-шамычде K ; !PX_NB_CX
 
 !!Sg3
 LEXICON N-SG-PxSg3-NOM
@@ -592,15 +600,17 @@ LEXICON N-SG-PxSg3-COM
  +Sg+PxSg3+Com:жге K ; !Nx-Px-Cx 2016-10-12 THIS FAR
 
 LEXICON N-SG-PxSg3-INE
- +Sg+PxSg3+Ine:%>ыж%>ште K ;
- +Sg+PxSg3+Ine:жште K ;
+ +Sg+PxSg3+Ine:%>ыштыже K ;
+! +Sg+PxSg3+Ine:%>ыж%>ште K ;
+! +Sg+PxSg3+Ine:жште K ;
 
 LEXICON N-SG-PxSg3-ILL
- +Sg+PxSg3+Ill:%>ыж%>шке K ;
- +Sg+PxSg3+Ill:жшке K ;
+ +Sg+PxSg3+Ill:%>ышкыже K ;
+! +Sg+PxSg3+Ill:%>ыж%>шке K ;
+! +Sg+PxSg3+Ill:жшке K ;
 
 LEXICON N-SG-PxSg3-LAT
- +Sg+PxSg3+Lat:эшше K ;
+ +Sg+PxSg3+Lat:%>Е2шыже K ; !CHECKME 2016-12-27
 
 LEXICON N-SG-PxSg3-ABE
  +Sg+PxSg3+Abe:%>ыж%>де K ;
@@ -611,7 +621,9 @@ LEXICON N-PL-PxSg3-NOM
  +Pl+PxSg3+Nom:%-шамычше K ; !NB_PX_CX
  +Pl+PxSg3+Nom:%>жЫ2%-влакше  K ; !PX_NB_CX
  +Pl+PxSg3+Nom:%>жЫ2%-шамычше K ; !PX_NB_CX
- +Pl+PxSg3+Nom:%>ыж%-влакше  K ; !PX_NB_CX
+ +Pl+PxSg3+Nom:%>ж%-влакше  K ; !PX_NB_CX CHECKME 2016-12-27
+ +Pl+PxSg3+Nom:%>ж%-шамычше K ; !PX_NB_CX
+ +Pl+PxSg3+Nom:%>ыж%-влакше  K ; !PX_NB_CX 
  +Pl+PxSg3+Nom:%>ыж%-шамычше K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg3-GEN
