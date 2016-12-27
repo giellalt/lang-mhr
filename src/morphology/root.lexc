@@ -529,80 +529,68 @@ Z2      !!≈ * __@CODE@__
 
 !! !!The Root lexicon
 
-LEXICON Root  !! @LEXNAME@ 
+LEXICON Root  !! @CODE@ Here it all starts
 
 !! The word forms in Meadow Mari language start from the lexeme roots of 
-!! the following basic word classes 
-adjectives  ;	   !! * @CODE@, 
-adverbs  ;		   !!   @CODE@, 
-conjunctions  ;	   !!   @CODE@, 
-dependents   ;	   !!   @CODE@, 
-interjections   ;  !!   @CODE@, 
-nouns   ;		   !!   @CODE@, 
-numbers    ;   !!   @CODE@, 
-particles   ;	   !!   @CODE@, 
-postpositions	;  !!   @CODE@, 
-pronouns    ;	   !!   @CODE@, 
-propernouns    ;   !!   @CODE@, 
-verbs   ;		   !!   @CODE@, 
-Abbreviation	;  !!   @CODE@, 
-Acronym		;	   !!   @CODE@, 
-Punctuation	;	   !!   @CODE@, 
-urj-Cyrl-ProperNouns ;  !!   @CODE@ 
+<<<<<<< .mine
+!! the following basic word classes: 
+adjectives  ;	   !!= * @CODE@ 
+adverbs  ;		   !!=   @CODE@ 
+conjunctions  ;	   !!=   @CODE@ 
+dependents   ;	   !!=   @CODE@ 
+interjections   ;  !!=   @CODE@ 
+nouns   ;		   !!=   @CODE@ 
+particles   ;	   !!=   @CODE@ 
+postpositions	;  !!=   @CODE@ 
+pronouns    ;	   !!=   @CODE@ 
+propernouns    ;   !!=   @CODE@ 
+quantifiers    ;   !!=   @CODE@ 
+verbs   ;		   !!=   @CODE@ 
+Abbreviation	;  !!=   @CODE@ 
+Acronym		;	   !!=   @CODE@ 
+Punctuation	;	   !!=   @CODE@ 
+urj-Cyrl-ProperNouns ;  !!=   @CODE@ 
 
 ! wordToNumeral	; !This has been moved to GTLANG/src/transcriptions/numbers.lexc
 
 
 !      ############# !
-!! !!  CONTINUATIONS 
+!! !!!  Continuation lexica 
 !      ############# !
 
-LEXICON CONJ_
-+WORK: # ;
-LEXICON CC_
+!! Here comes a set of ragbag continuation lexca.
+
+LEXICON CONJ_ !!= * @CODE@ TODO: why +WORK?
++CC+WORK: # ;
+LEXICON CC_ !!= * @CODE@ conjunctinos
 +CC: # ;
 
-LEXICON CS_
+LEXICON CS_ !!= * @CODE@ subjunctions
 +CS: # ;
 
-LEXICON ADV_
+LEXICON ADV_ !!= * @CODE@ adverbs
 +Adv: K ;
 
-LEXICON AD-A
+LEXICON AD-A !!= * @CODE@ also adverbs
 +Adv: # ;
 
-LEXICON PO_
+LEXICON PO_ !!= * @CODE@ postpositions
 +Po: # ;
 
-LEXICON INTERJ_
+LEXICON INTERJ_ !!= * @CODE@ interjections
 +Interj: # ;
 
-LEXICON Puh-a/e ! XXX do not know
+LEXICON Puh-a/e  !!= * @CODE@  XXX do not know
 N-a/e ;
 
-
-LEXICON Puh ! XXX do not know
+LEXICON Puh  !!= * @CODE@  XXX do not know
 N_ ;
 
-LEXICON PCLE_
+LEXICON PCLE_ !!= * @CODE@ particles, check these
 +Pcle: # ;
 
-
-
-! ####### !
-!! !! AFFIXES 
-! ####### !
-
-
-
-! First aid lexica, these are not defined.
-! They are either typos or unfinished work.
-
-
-
-
-LEXICON X
- # ;
+LEXICON X !!= * @CODE@ for N attributes
++N+Attr: # ;
 
 
 
