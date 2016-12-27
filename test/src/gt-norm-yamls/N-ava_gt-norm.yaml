@@ -74,7 +74,7 @@ Tests:
 
      ава+N+Sg+PxSg1+Nom: авам
      ава+N+Sg+PxSg1+Gen: авамын
-     ава+N+Sg+PxSg1+Dat: авамлан
+     ава+N+Sg+PxSg1+Dat: [авамлан, аваланым]
      ава+N+Sg+PxSg1+Acc: авамым
      ава+N+Sg+PxSg1+Cmp: авамла
      ава+N+Sg+PxSg1+Com: авамге
@@ -85,7 +85,7 @@ Tests:
 
      ава+N+Sg+PxSg2+Nom: ават
      ава+N+Sg+PxSg2+Gen: аватын
-     ава+N+Sg+PxSg2+Dat: аватлан
+     ава+N+Sg+PxSg2+Dat: [аватлан, аваланыт]
      ава+N+Sg+PxSg2+Acc: аватым
      ава+N+Sg+PxSg2+Cmp: аватла
      ава+N+Sg+PxSg2+Com: аватге
@@ -96,7 +96,7 @@ Tests:
 
      ава+N+Sg+PxSg3+Nom: аваже
      ава+N+Sg+PxSg3+Gen: аважын
-     ава+N+Sg+PxSg3+Dat: аважлан
+     ава+N+Sg+PxSg3+Dat: [аважлан, аваланыж]
      ава+N+Sg+PxSg3+Acc: аважым
      ава+N+Sg+PxSg3+Cmp: аважла
      ава+N+Sg+PxSg3+Com: аважге
@@ -107,7 +107,7 @@ Tests:
 
      ава+N+Sg+PxPl1+Nom: авана
      ава+N+Sg+PxPl1+Gen: аванан
-     ава+N+Sg+PxPl1+Dat: аваналан
+     ава+N+Sg+PxPl1+Dat: [аваналан, аваланна]
      ава+N+Sg+PxPl1+Acc: аванам
      ава+N+Sg+PxPl1+Cmp: аванала
      ава+N+Sg+PxPl1+Com: аванаге
@@ -118,7 +118,7 @@ Tests:
 
      ава+N+Sg+PxPl2+Nom: авада
      ава+N+Sg+PxPl2+Gen: авадан
-     ава+N+Sg+PxPl2+Dat: авадалан
+     ава+N+Sg+PxPl2+Dat: [авадалан, аваланда]
      ава+N+Sg+PxPl2+Acc: авадам
      ава+N+Sg+PxPl2+Cmp: авадала
      ава+N+Sg+PxPl2+Com: авадаге
@@ -129,7 +129,7 @@ Tests:
 
      ава+N+Sg+PxPl3+Nom: авашт
      ава+N+Sg+PxPl3+Gen: аваштын
-     ава+N+Sg+PxPl3+Dat: аваштлан
+     ава+N+Sg+PxPl3+Dat: [аваштлан, аваланышт]
      ава+N+Sg+PxPl3+Acc: аваштым
      ава+N+Sg+PxPl3+Cmp: аваштла
      ава+N+Sg+PxPl3+Com: аваштге

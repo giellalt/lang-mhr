@@ -497,51 +497,53 @@ given the proper use of these flags.
 
 !!The Root lexicon
 
-Multichar_Symbols 
+@U.Cap.Opt@ Here it all starts
 
 The word forms in Meadow Mari language start from the lexeme roots of 
-the following basic word classes 
-* @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@, 
-  @U.Cap.Opt@ 
+the following basic word classes: 
+ * adjectives  ;	    
+   adverbs  ;		    
+   conjunctions  ;	    
+   dependents   ;	    
+   interjections   ;   
+   nouns   ;		    
+   particles   ;	    
+   postpositions	;   
+   pronouns    ;	    
+   propernouns    ;    
+   quantifiers    ;    
+   verbs   ;		    
+   Abbreviation	;   
+   Acronym		;	    
+   Punctuation	;	    
+   urj-Cyrl-ProperNouns ;   
 
 
 
- CONTINUATIONS 
+ Continuation lexica 
 
+Here comes a set of ragbag continuation lexca.
 
+ * LEXICON CONJ_  TODO: why +WORK?
+ * LEXICON CC_  conjunctinos
 
+ * LEXICON CS_  subjunctions
 
+ * LEXICON ADV_  adverbs
 
+ * LEXICON AD-A  also adverbs
 
+ * LEXICON PO_  postpositions
 
+ * LEXICON INTERJ_  interjections
 
+ * LEXICON Puh-a/e    XXX do not know
 
+ * LEXICON Puh    XXX do not know
 
+ * LEXICON PCLE_  particles, check these
 
-
-
-AFFIXES 
-
-
-
-
-
-
-
+ * LEXICON X  for N attributes
 
 
 

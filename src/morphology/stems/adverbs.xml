@@ -4,6 +4,27 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+
+  <e order="2">
+    <lg>
+      <l pos="Adv">уке</l>
+
+      <stg>
+        <st Contlex="ADV_">уке</st>
+      </stg>
+    </lg>
+
+    <pos>Adv</pos>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t>ei, ei ole</t>
+      </tg>
+    </mg>
+  </e>
+
   <e order="2">
     <lg>
       <l pos="Adv">абсолютно</l>

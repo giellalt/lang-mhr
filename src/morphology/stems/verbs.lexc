@@ -913,7 +913,7 @@ LEXICON verbs
 ойырлаш:ойырл V_em  "erota" ;
 ойырташ:ойырт V_em  "o:en nalaS valita" ;
 ойыртемлаш:ойыртемл V_em  "tehdä ero" ;
-ок:ок Vkielt  "ei Vkielt" ;
+ок:ок VNegPrsSg3  "ei" ;
 окалаш:окал V_em  "reunustaa nauhakoristeella" ;
 оккупироватлаш:оккупироватл V_em  "miehittää" ;
 окмакланаш:окмаклан V_em  "tyhmistyä; hullutella" ;
@@ -924,7 +924,7 @@ LEXICON verbs
 олмешташ:олмешт V_em  "vaihtaa" ;
 олмыкташ:олмыкт V_em  "korjata" ;
 олташ:олт V_em  "lämmittää" ;
-ом:ом Vkielt  "en Vkielt" ;
+ок:ом VNegPrsSg1  "en" ;
 омдаш:омд V_em  "täyttyä maidolla (rinta/utare)" ;
 омдыкташ:омдыкт V_em  "heruttaa lehmää, imetyttää vasikalla" ;
 омыл:омыл Vkielt  "en ole Vkielt" ;
@@ -955,7 +955,7 @@ LEXICON verbs
 оролаш:орол V_em  "vahtia, suojella" ;
 осалланаш:осаллан V_em  "tehdä pahaa" ;
 осылаш:осыл V_em  "jakaa blini neljään" ;
-от:от Vkielt  "et Vkielt" ;
+ок:от VNegPrsSg2  "et" ;
 отказатлаш:отказатл V_em  "kieltää" ;
 отменитлаш:отменитл V_em  "peruuttaa, lakkauttaa S" ;
 отчислятлаш:отчислятл V_em  "vähentää; erottaa (ihm.)" ;
@@ -1567,7 +1567,6 @@ LEXICON verbs
 узуклаш:узукл V_em  "usuttaa" ;
 уйнаш:уйн V_em  "laahata" ;
 укалеш:укалеш Vkielt  "ei ole Vkielt." ;
-уке:уке Vkielt  "ei, ei ole Vkielt" ;
 укшинчаш:укши nC-C  "repiä, kiskoa" ;
 укшинчыкташ:укшинчыкт V_em  "oksettaa" ;
 улаш+Hom1:ул V_am  "olla" ;
@@ -1989,7 +1988,6 @@ LEXICON verbs
 шӱяҥаш:шӱяҥ V_am  "märkiä" ;
 ызгаш:ызг V_em  "surista" ;
 ылыжташ:ылыжт V_em  "sytyttää; elvyttää" ;
-ыльда:ыльда V-AUX_  "olitte V" ;
 ыльна:ыльна V-AUX_  "olimme V" ;
 ыльым:ыльым V-AUX_  "olin V" ;
 ыльыч:ыльыч V-AUX_  "olit; olivat V" ;

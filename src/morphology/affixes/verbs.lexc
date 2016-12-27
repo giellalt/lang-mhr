@@ -3,31 +3,54 @@
 !! Meadow Mari verbs inflect in persons.
 
 
-! ========================== !
-!! !!Verbal continuation lexica
-! ========================== !
+! =============================== !
+!! !!!Verbal continuation lexica
+! =============================== !
 
+
+!! !!Auxiliaries and unfinished lexica
 
 !! Here are some unfinished verb lexica. TODO: Fix.
 
-LEXICON V
- # ;
-LEXICON V-AUX_
-+V+Aux: # ;
-LEXICON Vem-jykte1
-V_em ;
-LEXICON Vem--Vam-n/l
-V_em ;
-LEXICON Vkielt
+LEXICON V !!= * @CODE@ contains 4 verbs:
++V: # ;
+
+!! * порволыже:порволыж V  "olkoon kirottu! V" ;
+!! * порволышаш:порволышаш V  "tulkoon kirotuksi V" ;
+!! * ситыш:ситыш V  "on riittävästi, riittää V" ;
+!! * улмаште:улмашт V  "(jnk) ollessa (läsnä); jos on V" ;
+
+LEXICON Vkielt !!= @CODE@ TODO: fix
 +V+Neg: # ;
+
+LEXICON VNegPrsSg1 !!= * @CODE@ 
++V+Neg+Prs+Sg1: # ;
+LEXICON VNegPrsSg2 !!= * @CODE@ 
++V+Neg+Prs+Sg2: # ;
+LEXICON VNegPrsSg3 !!= * @CODE@ 
++V+Neg+Prs+Sg3: # ;
+
+LEXICON V-AUX_  !!= @CODE@ TODO: fix
++V+Aux: # ;
+
+
+
+LEXICON Vem--Vam-n/l !!= @CODE@ TODO: fix, this is set to V_em for now.
+V_em ;
+
+LEXICON Vem-jykte1  !!= @CODE@ TODO: fix, this is set to V_em for now.
+V_em ;
+
 
 LEXICON Vam-dependent !!= @CODE@ tags +Depend and goes to V_am
  +Depend: V_am ;
 
 
-!! We divide the verbs in two
+!! !!Regular verbs
 
-!! !!The -am class
+!! We divide the verbs in two, -am and -em
+
+!! !The -am class
 
 LEXICON V_am !!= @CODE@ divides V_am in Mood and infinites
                    +V:      Vam-Mood    ;
@@ -84,7 +107,7 @@ LEXICON Vam-Des
  +Prs+Pl3:%>нешт K ;
 
 
-!! !!The -em class
+!! !The -em class
 
 LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
                    +V:      Vem-Mood    ;
@@ -127,13 +150,13 @@ LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
     +Prt2+Pl3:%>еныт K ;
  +Prt2+ConNeg:%>ен   K ;
 
-LEXICON Vem-Imp
+LEXICON Vem-Imp !!= * @CODE@ 
 ! Повелительное наклонение:
  +Sg3:%>ыжЫ2 K       ;
  +Pl2:%>ыза  K-imprt ;
  +Pl3:%>ышт  K       ;
 
-LEXICON Vem-Des
+LEXICON Vem-Des !!= * @CODE@ 
 ! Желательное наклонение:
  +Prs+Sg1:%>ынем  K ;
  +Prs+Sg2:%>ынет  K ;
@@ -144,7 +167,7 @@ LEXICON Vem-Des
 
 !! !!Special verbs
 !! V_am, возаш : воч
-LEXICON z-C
+LEXICON z-C !!= * @CODE@ 
                +V+Inf:з%>А2ш K           ;
              +Ger+Gen:з%>ын  K           ;
                    +V:ч      non-finites ;
@@ -156,7 +179,7 @@ LEXICON z-C
         +V+Des+ConNeg:ч      K           ;
 
 !! V_am, лукташ : лук
-LEXICON t-0
+LEXICON t-0 !!= * @CODE@ 
                +V+Inf:т%>А2ш K           ;
              +Ger+Gen:т%>ын  K           ;
                    +V:       non-finites ;
@@ -168,7 +191,7 @@ LEXICON t-0
         +V+Des+ConNeg:       K           ;
 
 !! V_am, кушкаш : куш
-LEXICON k-0
+LEXICON k-0 !!= * @CODE@ 
                +V+Inf:к%>А2ш  K           ;
              +Ger+Gen:к%>ын   K           ;
                  +Ger:к%>шыла K           ;
@@ -196,12 +219,10 @@ LEXICON nC-C
         +V+Des+ConNeg:ч       K           ;
 
 !! These need work 2012-09-21
-!LEXICON Vam-n/l
-!  V_am ; No longer neede 2016-12-26 twolc hanling of prt Sg123 and Pl3 
 
-LEXICON Vam--1t
+LEXICON Vam--1t !!= * @CODE@ 
   # ;
-LEXICON Vam-n/l--1t
+LEXICON Vam-n/l--1t !!= * @CODE@ 
    +V+Inf:%>аш K ;
 
 

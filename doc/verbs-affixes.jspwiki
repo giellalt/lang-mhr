@@ -2,18 +2,43 @@
 Meadow Mari verbs inflect in persons.
 
 
-!!Verbal continuation lexica
+!!!Verbal continuation lexica
 
+
+!!Auxiliaries and unfinished lexica
 
 Here are some unfinished verb lexica. TODO: Fix.
+
+ * LEXICON V  contains 4 verbs:
+
+* порволыже:порволыж V  "olkoon kirottu! V" ;
+* порволышаш:порволышаш V  "tulkoon kirotuksi V" ;
+* ситыш:ситыш V  "on riittävästi, riittää V" ;
+* улмаште:улмашт V  "(jnk) ollessa (läsnä); jos on V" ;
+
+ LEXICON Vkielt  TODO: fix
+
+ * LEXICON VNegPrsSg1  
+ * LEXICON VNegPrsSg2  
+ * LEXICON VNegPrsSg3  
+
+ LEXICON V-AUX_   TODO: fix
+
+
+
+ LEXICON Vem--Vam-n/l  TODO: fix, this is set to V_em for now.
+
+ LEXICON Vem-jykte1   TODO: fix, this is set to V_em for now.
 
 
  LEXICON Vam-dependent  tags +Depend and goes to V_am
 
 
-We divide the verbs in two
+!!Regular verbs
 
-!!The -am class
+We divide the verbs in two, -am and -em
+
+!The -am class
 
  LEXICON V_am  divides V_am in Mood and infinites
 
@@ -24,7 +49,7 @@ We divide the verbs in two
 
 
 
-!!The -em class
+!The -em class
 
  LEXICON V_em  divides V_em in Mood and infinites
 
@@ -33,19 +58,27 @@ We divide the verbs in two
 
  LEXICON Vem-Ind   gives all the Ind tenses
 
+ * LEXICON Vem-Imp  
 
+ * LEXICON Vem-Des  
 
 !!Special verbs
 V_am, возаш : воч
+ * LEXICON z-C  
 
 V_am, лукташ : лук
+ * LEXICON t-0  
 
 V_am, кушкаш : куш
+ * LEXICON k-0  
 
 V_am, шинчаш шич
 
 These need work 2012-09-21
+ * LEXICON Vam-n/l  
 
+ * LEXICON Vam--1t  
+ * LEXICON Vam-n/l--1t  
 
 
 
