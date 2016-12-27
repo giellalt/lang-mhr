@@ -327,6 +327,7 @@ LEXICON N-ASSOCPL-INE
 
 LEXICON N-ASSOCPL-ILL
  +AssocPl+Ill:лашке K ;
+ +AssocPl+Ill:лаш K ;
 
 LEXICON N-ASSOCPL-LAT
  +AssocPl+Lat:лаш K ;
@@ -363,6 +364,8 @@ LEXICON N-PL-INE
 LEXICON N-PL-ILL
  +Pl+Ill:-влакышке  K ;
  +Pl+Ill:-шамычышке K ;
+ +Pl+Ill:-влакыш  K ;
+ +Pl+Ill:-шамычыш K ;
 
 LEXICON N-PL-LAT
  +Pl+Lat:-влакеш  K ;
@@ -394,15 +397,16 @@ LEXICON N-SG-PxSg1-COM
  +Sg+PxSg1+Com:%>Е2мге K ;
 
 LEXICON N-SG-PxSg1-INE
- +Sg+PxSg1+Ine:%>Е2мыште K ; !NB_PX_CX
- +Sg+PxSg1+Ine:%>ыштым   K ; !Nx-Cx-Px
+! +Sg+PxSg1+Ine:%>Е2мыште K ; !NB_PX_CX
+ +Sg+PxSg1+Ine:%>ыштем   K ; !Nx-Cx-Px
 
 LEXICON N-SG-PxSg1-ILL
- +Sg+PxSg1+Ill:%>Е2мышке K ; !NB_PX_CX
- +Sg+PxSg1+Ill:%>ышкым   K ; !Nx-Cx-Px
+! +Sg+PxSg1+Ill:%>Е2мышке K ; !NB_PX_CX
+ +Sg+PxSg1+Ill:%>ышкем   K ; !Nx-Cx-Px
 
 LEXICON N-SG-PxSg1-LAT
- +Sg+PxSg1+Lat:эшем K ; !Nx-Cx-Px
+ +Sg+PxSg1+Lat:%>Е2шем K ; !Nx-Cx-Px CHECKME 2016-12-27
+!+Sg+PxSg1+Lat:эшем K ;
 
 LEXICON N-SG-PxSg1-ABE
  +Sg+PxSg1+Abe:%>Е2мде K ; !Nx-Px-Cx
@@ -438,14 +442,18 @@ LEXICON N-PL-PxSg1-CMP
  +Pl+PxSg1+Cmp:%-шамычемла K ; !NB_PX_CX
  +Pl+PxSg1+Cmp:%>Е2м%-влакла   K ; !PX_NB_CX
  +Pl+PxSg1+Cmp:%>Е2м%-шамычла  K ; !PX_NB_CX
+ +Pl+PxSg1+Cmp:%-влаклам  K ; !NB_CX_PX
+ +Pl+PxSg1+Cmp:%-шамычлам K ; !NB_CX_PX
 
 LEXICON N-PL-PxSg1-COM
  +Pl+PxSg1+Com:%-влакемге  K ; !Nx-Px-Cx
  +Pl+PxSg1+Com:%-шамычемге K ; !Nx-Px-Cx
+ +Pl+PxSg1+Com:%>Е2м%-влакге   K ; !PX_NB_CX
+ +Pl+PxSg1+Com:%>Е2м%-шамычге  K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg1-INE
- +Pl+PxSg1+Ine:%-влакемыште  K ; !NB_CX_PX
- +Pl+PxSg1+Ine:%-шамычемыште K ; !NB_CX_PX
+ +Pl+PxSg1+Ine:%-влакыштем  K ; !NB_CX_PX
+ +Pl+PxSg1+Ine:%-шамычыштем K ; !NB_CX_PX
  +Pl+PxSg1+Ine:%>Е2м%-влакыште  K ; !PX_NB_CX
  +Pl+PxSg1+Ine:%>Е2м%-шамычыште K ; !PX_NB_CX
 
@@ -458,10 +466,14 @@ LEXICON N-PL-PxSg1-ILL
 LEXICON N-PL-PxSg1-LAT
  +Pl+PxSg1+Lat:%-влакешем  K ; !Nx-Cx-Px
  +Pl+PxSg1+Lat:%-шамычешем K ; !Nx-Cx-Px
+ +Pl+PxSg1+Lat:%>Е2м%-влакеш  K ; !PX_NB_CX
+ +Pl+PxSg1+Lat:%>Е2м%-шамычеш K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg1-ABE
  +Pl+PxSg1+Abe:%-влакемде  K ; !Nx-Px-Cx
  +Pl+PxSg1+Abe:%-шамычемде K ; !Nx-Px-Cx
+ +Pl+PxSg1+Abe:%>Е2м%-влакде  K ; !PX_NB_CX
+ +Pl+PxSg1+Abe:%>Е2м%-шамычде K ; !PX_NB_CX
 
 !!Sg2
 LEXICON N-SG-PxSg2-NOM
