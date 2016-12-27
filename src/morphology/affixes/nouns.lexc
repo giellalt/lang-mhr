@@ -49,7 +49,7 @@ LEXICON N-ava
 ! +Gen:%>Ы1н    K ; ! Ы1:0, Ы1:ы
 ! +Dat:%>лан    K ;
 ! +Acc:%>Ы1м    K ; ! Ы1:0, Ы1:ы
-! +Cmp:%>ла     K ;
+! +Cmpr:%>ла     K ;
 ! +Com:%>ге     K ;
 ! +Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
 ! +Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
@@ -250,7 +250,7 @@ LEXICON N_
 ! +Gen:%>Ы1н    K ; ! Ы1:0, Ы1:ы
 ! +Dat:%>лан    K ;
 ! +Acc:%>Ы1м    K ; ! Ы1:0, Ы1:ы
-! +Cmp:%>ла     K ;
+! +Cmpr:%>ла     K ;
 ! +Com:%>ге     K ;
 ! +Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
 ! +Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
@@ -301,7 +301,7 @@ LEXICON N-SG-ACC
  +Sg+Acc:%>Ы1м K ;
 
 LEXICON N-SG-CMP
- +Sg+Cmp:ла K ;
+ +Sg+Cmpr:ла K ;
 
 LEXICON N-SG-COM
  +Sg+Com:ге K ;
@@ -350,8 +350,8 @@ LEXICON N-PL-ACC
  +Pl+Acc:-шамычым K ;
 
 LEXICON N-PL-CMP
- +Pl+Cmp:-влакла  K ;
- +Pl+Cmp:-шамычла K ;
+ +Pl+Cmpr:-влакла  K ;
+ +Pl+Cmpr:-шамычла K ;
 
 LEXICON N-PL-COM
  +Pl+Com:-влакге  K ;
@@ -390,8 +390,8 @@ LEXICON N-SG-PxSg1-ACC
  +Sg+PxSg1+Acc:%>Е2мым K ;
 
 LEXICON N-SG-PxSg1-CMP
- +Sg+PxSg1+Cmp:%>Е2мла K ; !Nx-Px-Cx
- +Sg+PxSg1+Cmp:%>лам   K ; !Nx-Cx-Px
+ +Sg+PxSg1+Cmpr:%>Е2мла K ; !Nx-Px-Cx
+ +Sg+PxSg1+Cmpr:%>лам   K ; !Nx-Cx-Px
 
 LEXICON N-SG-PxSg1-COM
  +Sg+PxSg1+Com:%>Е2мге K ;
@@ -438,12 +438,12 @@ LEXICON N-PL-PxSg1-ACC
  +Pl+PxSg1+Acc:%>Е2м%-шамычым K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg1-CMP
- +Pl+PxSg1+Cmp:%-влакемла  K ; !NB_PX_CX
- +Pl+PxSg1+Cmp:%-шамычемла K ; !NB_PX_CX
- +Pl+PxSg1+Cmp:%>Е2м%-влакла   K ; !PX_NB_CX
- +Pl+PxSg1+Cmp:%>Е2м%-шамычла  K ; !PX_NB_CX
- +Pl+PxSg1+Cmp:%-влаклам  K ; !NB_CX_PX
- +Pl+PxSg1+Cmp:%-шамычлам K ; !NB_CX_PX
+ +Pl+PxSg1+Cmpr:%-влакемла  K ; !NB_PX_CX
+ +Pl+PxSg1+Cmpr:%-шамычемла K ; !NB_PX_CX
+ +Pl+PxSg1+Cmpr:%>Е2м%-влакла   K ; !PX_NB_CX
+ +Pl+PxSg1+Cmpr:%>Е2м%-шамычла  K ; !PX_NB_CX
+ +Pl+PxSg1+Cmpr:%-влаклам  K ; !NB_CX_PX
+ +Pl+PxSg1+Cmpr:%-шамычлам K ; !NB_CX_PX
 
 LEXICON N-PL-PxSg1-COM
  +Pl+PxSg1+Com:%-влакемге  K ; !Nx-Px-Cx
@@ -490,8 +490,8 @@ LEXICON N-SG-PxSg2-ACC
  +Sg+PxSg2+Acc:%>Е2тым K ; !Nx-Px-Cx
 
 LEXICON N-SG-PxSg2-CMP
- +Sg+PxSg2+Cmp:%>Е2тла K ; !Nx-Px-Cx
- +Sg+PxSg2+Cmp:%>лает  K ; !Nx-Cx-Px
+ +Sg+PxSg2+Cmpr:%>Е2тла K ; !Nx-Px-Cx
+ +Sg+PxSg2+Cmpr:%>лает  K ; !Nx-Cx-Px
 
 LEXICON N-SG-PxSg2-COM
  +Sg+PxSg2+Com:%>Е2тге K ; !Nx-Px-Cx
@@ -537,8 +537,8 @@ LEXICON N-PL-PxSg2-ACC
  +Pl+PxSg2+Acc:%>Е2т%-шамычым K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg2-CMP
- +Pl+PxSg2+Cmp:%-влакетла  K ; !NB_PX_CX
- +Pl+PxSg2+Cmp:%-шамычетла K ; !NB_PX_CX
+ +Pl+PxSg2+Cmpr:%-влакетла  K ; !NB_PX_CX
+ +Pl+PxSg2+Cmpr:%-шамычетла K ; !NB_PX_CX
 
 LEXICON N-PL-PxSg2-COM
  +Pl+PxSg2+Com:%-влакетге  K ; !NB_PX_CX
@@ -583,9 +583,9 @@ LEXICON N-SG-PxSg3-ACC
  +Sg+PxSg3+Acc:жым K ; !Nx-Px-Cx
 
 LEXICON N-SG-PxSg3-CMP
- +Sg+PxSg3+Cmp:%>ыж%>ла  K ; !Nx-Px-Cx
- +Sg+PxSg3+Cmp:жла  K ; !Nx-Px-Cx
- +Sg+PxSg3+Cmp:лаже K ;
+ +Sg+PxSg3+Cmpr:%>ыж%>ла  K ; !Nx-Px-Cx
+ +Sg+PxSg3+Cmpr:жла  K ; !Nx-Px-Cx
+ +Sg+PxSg3+Cmpr:лаже K ;
 
 LEXICON N-SG-PxSg3-COM
  +Sg+PxSg3+Com:%>ыж%>ге K ; !Nx-Px-Cx 2016-10-12 THIS FAR
@@ -641,8 +641,8 @@ LEXICON N-PL-PxSg3-ACC
  +Pl+PxSg3+Acc:%>ыж%-шамычым K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg3-CMP
- +Pl+PxSg3+Cmp:%-влакшыла  K ;
- +Pl+PxSg3+Cmp:%-шамычшыла K ;
+ +Pl+PxSg3+Cmpr:%-влакшыла  K ;
+ +Pl+PxSg3+Cmpr:%-шамычшыла K ;
 
 LEXICON N-PL-PxSg3-COM
  +Pl+PxSg3+Com:%-влакшыге  K ;
@@ -687,8 +687,8 @@ LEXICON N-SG-PxPl1-ACC
  +Sg+PxPl1+Acc:нам K ;
 
 LEXICON N-SG-PxPl1-CMP
- +Sg+PxPl1+Cmp:нала K ; !NB_PX_CX
- +Sg+PxPl1+Cmp:лана K ; !NB_CX_PX
+ +Sg+PxPl1+Cmpr:нала K ; !NB_PX_CX
+ +Sg+PxPl1+Cmpr:лана K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl1-COM
  +Sg+PxPl1+Com:наге K ;
@@ -734,8 +734,8 @@ LEXICON N-PL-PxPl1-ACC
  +Pl+PxPl1+Acc:%>на%-шамычым K ;   !PX_NB_CX
 
 LEXICON N-PL-PxPl1-CMP
- +Pl+PxPl1+Cmp:%-влакнала  K ;
- +Pl+PxPl1+Cmp:%-шамычнала K ;
+ +Pl+PxPl1+Cmpr:%-влакнала  K ;
+ +Pl+PxPl1+Cmpr:%-шамычнала K ;
 
 LEXICON N-PL-PxPl1-COM
  +Pl+PxPl1+Com:%-влакнаге  K ;
@@ -776,8 +776,8 @@ LEXICON N-SG-PxPl2-ACC
  +Sg+PxPl2+Acc:дам K ;
 
 LEXICON N-SG-PxPl2-CMP
- +Sg+PxPl2+Cmp:дала K ; !NB_PX_CX
- +Sg+PxPl2+Cmp:лада K ; !NB_CX_PX
+ +Sg+PxPl2+Cmpr:дала K ; !NB_PX_CX
+ +Sg+PxPl2+Cmpr:лада K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl2-COM
  +Sg+PxPl2+Com:даге K ;
@@ -823,8 +823,8 @@ LEXICON N-PL-PxPl2-ACC
  +Pl+PxPl2+Acc:%>да%-шамычым K ;  !PX_NB_CX
 
 LEXICON N-PL-PxPl2-CMP
- +Pl+PxPl2+Cmp:%-влакдала  K ;
- +Pl+PxPl2+Cmp:%-шамычдала K ;
+ +Pl+PxPl2+Cmpr:%-влакдала  K ;
+ +Pl+PxPl2+Cmpr:%-шамычдала K ;
 
 LEXICON N-PL-PxPl2-COM
  +Pl+PxPl2+Com:%-влакдаге  K ;
@@ -865,7 +865,7 @@ LEXICON N-SG-PxPl3-ACC
  +Sg+PxPl3+Acc:Ы1штым K ;
 
 LEXICON N-SG-PxPl3-CMP
- +Sg+PxPl3+Cmp:Ы1штла K ;
+ +Sg+PxPl3+Cmpr:Ы1штла K ;
 
 LEXICON N-SG-PxPl3-COM
  +Sg+PxPl3+Com:Ы1штге K ;
@@ -909,8 +909,8 @@ LEXICON N-PL-PxPl3-ACC
  +Pl+PxPl3+Acc:%>Ы1шт%-шамычым K ; !PX_NB_CX
 
 LEXICON N-PL-PxPl3-CMP
- +Pl+PxPl3+Cmp:%-влакыштла  K ;
- +Pl+PxPl3+Cmp:%-шамычыштла K ;
+ +Pl+PxPl3+Cmpr:%-влакыштла  K ;
+ +Pl+PxPl3+Cmpr:%-шамычыштла K ;
 
 LEXICON N-PL-PxPl3-COM
  +Pl+PxPl3+Com:%-влакыштге  K ;
