@@ -53,15 +53,15 @@ LEXICON Vam-dependent !!= @CODE@ tags +Depend and goes to V_am
 !! !The -am class
 
 LEXICON V_am !!= @CODE@ divides V_am in Mood and infinites
-                   +V:      Vam-Mood    ;
-               +V+Inf:%>А2ш K           ;
-           +V+Ger+Gen:%>ын  K           ;
-                   +V:      non-finites ;
- +V+Ind+Prs+ConNeg:      K           ;
-   +V+Ind+Prt1+ConNeg:      K           ;
-      +V+Imprt+ConNeg:      K           ;
-        +V+Des+ConNeg:      K           ;
-         +V+Imprt+Sg2:      K-imprt     ;
+                 +V:      Vam-Mood    ;
+             +V+Inf:%>А2ш K           ;
+         +V+Ger+Gen:%>ын  K           ;
+                 +V:      non-finites ;
+  +V+Ind+Prs+ConNeg:      K           ;
+ +V+Ind+Prt1+ConNeg:      K           ;
+    +V+Imprt+ConNeg:      K           ;
+      +V+Des+ConNeg:      K           ;
+       +V+Imprt+Sg2:      K-imprt     ;
 
 LEXICON Vam-Mood !!= @CODE@ divides in Ind, Imprt, Des
    +Ind: Vam-Ind ;
@@ -91,13 +91,13 @@ LEXICON Vam-Ind !!= @CODE@ gives all the Ind tenses
     +Prt2+Pl3:%>ыныт K ;
  +Prt2+ConNeg:%>ын   K ;
 
-LEXICON Vam-Imp
+LEXICON Vam-Imp  !!= @CODE@ for imperative
 ! Повелительное наклонение:
  +Sg3:%>жЫ2 K       ;
  +Pl2:%>за  K-imprt ;
  +Pl3:%>ышт K       ;
 
-LEXICON Vam-Des
+LEXICON Vam-Des  !!= @CODE@ for desiderative
 ! Желательное наклонение:
  +Prs+Sg1:%>нем  K ;
  +Prs+Sg2:%>нет  K ;
@@ -110,16 +110,16 @@ LEXICON Vam-Des
 !! !The -em class
 
 LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
-                   +V:      Vem-Mood    ;
-               +V+Inf:%>А2ш K           ;
+                 +V:      Vem-Mood    ;
+             +V+Inf:%>А2ш K           ;
 ! Деепричастие образа действия:
-           +V+Ger+Gen:%>ен  K           ;
-                   +V:ы     non-finites ;
- +V+Ind+Prs+ConNeg:%>Ы2  K           ;
-   +V+Ind+Prt1+ConNeg:%>Ы2  K           ;
-      +V+Imprt+ConNeg:%>Ы2  K           ;
-        +V+Des+ConNeg:%>Ы2  K           ;
-         +V+Imprt+Sg2:%>Ы2  K-imprt     ;
+         +V+Ger+Gen:%>ен  K           ;
+                 +V:ы     non-finites ;
+  +V+Ind+Prs+ConNeg:%>Ы2  K           ;
+ +V+Ind+Prt1+ConNeg:%>Ы2  K           ;
+    +V+Imprt+ConNeg:%>Ы2  K           ;
+      +V+Des+ConNeg:%>Ы2  K           ;
+       +V+Imprt+Sg2:%>Ы2  K-imprt     ;
 
 
 LEXICON Vem-Mood !!= @CODE@ divides in Ind, Imprt, Des
@@ -150,13 +150,13 @@ LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
     +Prt2+Pl3:%>еныт K ;
  +Prt2+ConNeg:%>ен   K ;
 
-LEXICON Vem-Imp !!= * @CODE@ 
+LEXICON Vem-Imp !!= * @CODE@ for imperative
 ! Повелительное наклонение:
  +Sg3:%>ыжЫ2 K       ;
  +Pl2:%>ыза  K-imprt ;
  +Pl3:%>ышт  K       ;
 
-LEXICON Vem-Des !!= * @CODE@ 
+LEXICON Vem-Des !!= * @CODE@ for desiderative
 ! Желательное наклонение:
  +Prs+Sg1:%>ынем  K ;
  +Prs+Sg2:%>ынет  K ;
@@ -167,92 +167,90 @@ LEXICON Vem-Des !!= * @CODE@
 
 !! !!Special verbs
 !! V_am, возаш : воч
-LEXICON z-C !!= * @CODE@ 
-               +V+Inf:з%>А2ш K           ;
-             +Ger+Gen:з%>ын  K           ;
-                   +V:ч      non-finites ;
-                   +V:з      Vam-Mood    ;
- +V+Ind+Prs+ConNeg:ч      K           ;
-   +V+Ind+Prt1+ConNeg:ч      K           ;
-      +V+Imprt+ConNeg:ч      K           ;
-         +V+Imprt+Sg2:ч      K-imprt     ;
-        +V+Des+ConNeg:ч      K           ;
+LEXICON z-C !!= * @CODE@
+             +V+Inf:з%>А2ш K           ;
+           +Ger+Gen:з%>ын  K           ;
+                 +V:ч      non-finites ;
+                 +V:з      Vam-Mood    ;
+  +V+Ind+Prs+ConNeg:ч      K           ;
+ +V+Ind+Prt1+ConNeg:ч      K           ;
+    +V+Imprt+ConNeg:ч      K           ;
+       +V+Imprt+Sg2:ч      K-imprt     ;
+      +V+Des+ConNeg:ч      K           ;
 
 !! V_am, лукташ : лук
-LEXICON t-0 !!= * @CODE@ 
-               +V+Inf:т%>А2ш K           ;
-             +Ger+Gen:т%>ын  K           ;
-                   +V:       non-finites ;
-                   +V:т      Vam-Mood    ;
- +V+Ind+Prs+ConNeg:       K           ;
-   +V+Ind+Prt1+ConNeg:       K           ;
-      +V+Imprt+ConNeg:       K           ;
-         +V+Imprt+Sg2:       K-imprt     ;
-        +V+Des+ConNeg:       K           ;
+LEXICON t-0 !!= * @CODE@
+             +V+Inf:т%>А2ш K           ;
+           +Ger+Gen:т%>ын  K           ;
+                 +V:       non-finites ;
+                 +V:т      Vam-Mood    ;
+  +V+Ind+Prs+ConNeg:       K           ;
+ +V+Ind+Prt1+ConNeg:       K           ;
+    +V+Imprt+ConNeg:       K           ;
+       +V+Imprt+Sg2:       K-imprt     ;
+      +V+Des+ConNeg:       K           ;
 
 !! V_am, кушкаш : куш
-LEXICON k-0 !!= * @CODE@ 
-               +V+Inf:к%>А2ш  K           ;
-             +Ger+Gen:к%>ын   K           ;
-                 +Ger:к%>шыла K           ;
-                   +V:        non-finites ;
-                   +V:к       Vam-Mood    ;
- +V+Ind+Prs+ConNeg:        K           ;
-   +V+Ind+Prt1+ConNeg:        K           ;
-      +V+Imprt+ConNeg:        K           ;
-         +V+Imprt+Sg2:        K-imprt     ;
-        +V+Des+ConNeg:        K           ;
+LEXICON k-0 !!= * @CODE@
+             +V+Inf:к%>А2ш  K           ;
+           +Ger+Gen:к%>ын   K           ;
+               +Ger:к%>шыла K           ;
+                 +V:        non-finites ;
+                 +V:к       Vam-Mood    ;
+  +V+Ind+Prs+ConNeg:        K           ;
+ +V+Ind+Prt1+ConNeg:        K           ;
+    +V+Imprt+ConNeg:        K           ;
+       +V+Imprt+Sg2:        K-imprt     ;
+      +V+Des+ConNeg:        K           ;
 
 !! V_am, шинчаш шич
 !! this is the proof or consonant stem cf. vowel stem in -ем verbs.
 !! In mrj this is dealt with in twolc
 LEXICON nC-C
-               +V+Inf:нч%>А2ш K           ;
-             +Ger+Gen:нч%>ын  K           ;
-                 +Ger:ч%>шыла K           ;
-                   +V:ч       non-finites ;
-                   +V:нч      Vam-Mood    ;
- +V+Ind+Prs+ConNeg:ч       K           ;
-   +V+Ind+Prt1+ConNeg:ч       K           ;
-      +V+Imprt+ConNeg:ч       K           ;
-         +V+Imprt+Sg2:ч       K-imprt     ;
-        +V+Des+ConNeg:ч       K           ;
+              +V+Inf:нч%>А2ш K           ;
+            +Ger+Gen:нч%>ын  K           ;
+                +Ger:ч%>шыла K           ;
+                  +V:ч       non-finites ;
+                  +V:нч      Vam-Mood    ;
+   +V+Ind+Prs+ConNeg:ч       K           ;
+  +V+Ind+Prt1+ConNeg:ч       K           ;
+     +V+Imprt+ConNeg:ч       K           ;
+        +V+Imprt+Sg2:ч       K-imprt     ;
+       +V+Des+ConNeg:ч       K           ;
 
 !! These need work 2012-09-21
 
-!LEXICON Vam--1t !!= * @CODE@ 
-!  # ;
-LEXICON Vam-n/l--1t !!= * @CODE@ 
-   +V+Inf:%>аш K ;
+LEXICON Vam-n/l--1t !!= * @CODE@
+ +V+Inf:%>аш K ;
 
 
 
 
 
 LEXICON non-finites !!= @CODE@ contains Mutual endings
-! Neccessitive infinitive
-                    +Inf+Nec:%>ман   K ;
-! Действительное причастие:
-                    +Act+Prc:%>шЫ2   K                        ;
-! Страдательное причастие:
-                    +Pas+Prc:%>мЫ2   K                        ;
-! Причастие будущего времени:
-                     +FutPrc:%>шаш   K                        ;
-! Отрицательное причастие:
-                     +NegPrc:%>дымЫ2 K                        ;
-! Отрицательная форма деепричастия образа действия:
-                    +Ger+Abe:%>де    K                        ;
-! Деепричастие времени (показывают время, предшествующее времени глагола):
-                    +Ger+PrfPrc:%>меке  K                        ;
-! Деепричастие времени (показывает время, последующее за поясняемым действием):
-                  +Ger+Imprf:%>мешке K                        ;
-! Деепричастие времени (добавочное действие, происходящее одновременно с поясняемым действием):
-                     +Der/mO:%>мЫ2   N_                       ;
-                        +Ger:%>шыла  K                        ;
 
-+V→N:маш N_ ;
+   +Inf+Nec:%>ман   K  ; ! Neccessitive infinitive
+   +Act+Prc:%>шЫ2   K  ; ! Действительное причастие
+   +Pas+Prc:%>мЫ2   K  ; ! Страдательное причастие
+    +FutPrc:%>шаш   K  ; ! Причастие будущего времени
+    +NegPrc:%>дымЫ2 K  ; ! Отрицательное причастие
+   +Ger+Abe:%>де    K  ; ! Отрицательная форма деепричастия образа действия:
+   +Ger+Prf:%>меке  K  ; ! Деепричастие времени (показывают время, предшествующее времени глагола):
+ +Ger+Imprf:%>мешке K  ; ! Деепричастие времени 
+                         ! (показывает время, последующее за поясняемым действием)
+    +Der/mO:%>мЫ2   N_ ; ! Деепричастие времени 
+                         ! (добавочное действие, происходящее одновременно с поясняемым действием)
+       +Ger:%>шыла  K  ;
+       +V→N:маш     N_ ;
 
 
+
+
+
+
+
+
+! Old code from 2012
 
 
 !2012-09-21! ! Verbal affixes
