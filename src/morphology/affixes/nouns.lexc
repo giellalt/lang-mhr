@@ -565,6 +565,8 @@ LEXICON N-PL-PxSg2-ILL
 LEXICON N-PL-PxSg2-LAT
  +Pl+PxSg2+Lat:%-влакешет  K ; !NB_CX_PX
  +Pl+PxSg2+Lat:%-шамычешет K ; !NB_CX_PX
+ +Pl+PxSg2+Ill:%>Е2т%-влакеш  K ; !PX_NB_CX
+ +Pl+PxSg2+Ill:%>Е2т%-шамычеш K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg2-ABE
  +Pl+PxSg2+Abe:%-влакетде  K ; !NB_PX_CX
