@@ -1,15 +1,15 @@
-!! Clitics
+!! !!!Eastern Mari Clitics
 ! ---------------
-!! Meadow Mari clitics.
 
 
-LEXICON K
+
+LEXICON K  !!= * @CODE@
                # ;
  +Foc/Ак:%>А2к # ;
  +Foc/Ат:%>А2т # ;
  +Foc/Ыс:%>ыс  # ;
 
-LEXICON K-imprt
+LEXICON K-imprt !!= * @CODE@
             +Foc/ян:%-ян #            ;
                          K            ;
 

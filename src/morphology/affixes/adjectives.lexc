@@ -1,34 +1,35 @@
-!! Adjective inflection
+!! !!! Adjective inflection
 ! --------------------
-!! Meadow Mari ??adjectives compare.
 
-!! LEXICON Comparisons
-! ! +A+pos:0   Cases ;
-! ! +A+cmp:er  Cases ;
-! ! +A+sup:est Cases ;
+!! Meadow Mari adjectives
 
-LEXICON A_
+! LEXICON Comparisons
+!  +A+pos:0   Cases ;
+!  +A+cmp:er  Cases ;
+!  +A+sup:est Cases ;
+
+LEXICON A_  !! LEXICON A underscore
          +A:      K  ; ! missing comparative
     +A+Comp:%>рак #  ;
  +A+Der/MWN:      N_ ;
 
-LEXICON A-a/e
+LEXICON A-a/e  !!= * @CODE@
          +A:      K  ; ! missing comparative
     +A+Comp:%>рак #  ;
  +A+Der/MWN:      N-a/e ;
 
 
 
-LEXICON A/S-a/e ! XXX do not know
+LEXICON A/S-a/e  !!= * @CODE@ redirect to A underscore
   A_ ;
 
-LEXICON A/S-VS
+LEXICON A/S-VS !!= * @CODE@ redirect to A underscore
  A_ ;
 
-LEXICON A-VS
+LEXICON A-VS !!= * @CODE@ redirect to A underscore
  A_ ;
 
-LEXICON A/S
+LEXICON A/S !!= * @CODE@ redirect to A underscore
  A_ ;
 
 

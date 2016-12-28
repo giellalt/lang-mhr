@@ -1,25 +1,24 @@
-LEXICON QNT_
+!! !!!East Mari Numeral inflection
+
+LEXICON QNT_  !!= * @CODE@
 +Qnt: # ;
 
-LEXICON KvMurt
- # ;
+LEXICON KvMurt !!= * @CODE@
++Num: # ;
 
-LEXICON KvK
+LEXICON KvK !!= * @CODE@
 +Num: # ;
 
 
-LEXICON I
- # ;
+LEXICON KvKoll !!= * @CODE@
++Num: # ;
 
-LEXICON KvKoll
- # ;
+LEXICON KvInd !!= * @CODE@
++Num: # ;
 
-LEXICON KvInd
- # ;
-
-LEXICON KvO
- # ;
+LEXICON KvO !!= * @CODE@
++Num: # ;
 
 
-LEXICON Kv-a/e
- # ;
+LEXICON Kv-a/e  !!= * @CODE@
++Num: # ;

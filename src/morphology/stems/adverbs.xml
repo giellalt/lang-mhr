@@ -12,6 +12,7 @@
       <stg>
         <st Contlex="ADV_">уке</st>
       </stg>
+      <stress>у•ке</stress>
     </lg>
 
     <pos>Adv</pos>
@@ -2283,6 +2284,7 @@
       <stg>
         <st Contlex="ADV_">вел%{еы%}</st>
       </stg>
+      <stress>ве•ле</stress>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -5045,10 +5047,23 @@
       <stg>
         <st Contlex="ADV_">гына</st>
       </stg>
+      <stress>гына•</stress>
     </lg>
+
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vain; aivan; juuri; erittäin</t>
+        <t pos="Adv">vain</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">aivan</t>
+        <t pos="Adv">juuri</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">erittäin</t>
       </tg>
     </mg>
   </e>
@@ -5060,10 +5075,11 @@
       <stg>
         <st Contlex="ADV_">гынат</st>
       </stg>
+      <stress>гына•т</stress>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">joskin, vaikka(kin), silti</t>
+        <t pos="Adv">silti</t>
       </tg>
     </mg>
   </e>
@@ -14636,26 +14652,6 @@
       </stg>
 
       <stress>кузат-тугат</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Adv"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e order="1">
-    <lg>
-      <l pos="Adv">кузе</l>
-
-      <stg>
-        <st Contlex="ADV_">кузе</st>
-      </stg>
-
-      <stress>кузе•</stress>
     </lg>
 
     <mg>

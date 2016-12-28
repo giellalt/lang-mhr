@@ -482,26 +482,6 @@
     </mg>
   </e>
 
-  <e order="1">
-    <lg>
-      <l pos="Pcle">веле</l>
-
-      <stg>
-        <st Contlex="PCLE_">веле</st>
-      </stg>
-
-      <stress>ве•ле</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pcle"/>
-      </tg>
-    </mg>
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Pcle">вет</l>
@@ -916,26 +896,6 @@
 
   <e order="1">
     <lg>
-      <l pos="Pcle">гына</l>
-
-      <stg>
-        <st Contlex="PCLE_">гына</st>
-      </stg>
-
-      <stress>гына•</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pcle"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e order="1">
-    <lg>
       <l pos="Pcle">гынай</l>
 
       <stg>
@@ -943,26 +903,6 @@
       </stg>
 
       <stress>гынай</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pcle"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e order="1">
-    <lg>
-      <l pos="Pcle">гынат</l>
-
-      <stg>
-        <st Contlex="PCLE_">гынат</st>
-      </stg>
-
-      <stress>гына•т</stress>
     </lg>
 
     <mg>
@@ -2211,7 +2151,7 @@
       </tg>
     </mg>
   </e>
-
+<!--
   <e order="1">
     <lg>
       <l pos="Pcle">мо</l>
@@ -2231,7 +2171,7 @@
       </tg>
     </mg>
   </e>
-
+-->
   <e order="1">
     <lg>
       <l pos="Pcle">мо-мо</l>

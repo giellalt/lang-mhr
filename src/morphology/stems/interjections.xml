@@ -153,7 +153,7 @@
       <l pos="Interj">ага</l>
 
       <stg>
-        <st Contlex="I">ага</st>
+        <st Contlex="INTERJ_">ага</st>
       </stg>
 
       <stress>ага•</stress>
@@ -388,7 +388,7 @@
       <l pos="Interj">акмук</l>
 
       <stg>
-        <st Contlex="I">акмук</st>
+        <st Contlex="INTERJ_">акмук</st>
       </stg>
     </lg>
 
@@ -436,7 +436,7 @@
       <l pos="Interj">алло</l>
 
       <stg>
-        <st Contlex="I">алло</st>
+        <st Contlex="INTERJ_">алло</st>
       </stg>
 
       <stress>алло•</stress>
@@ -506,7 +506,7 @@
       <l pos="Interj">апчи</l>
 
       <stg>
-        <st Contlex="I">апчи</st>
+        <st Contlex="INTERJ_">апчи</st>
       </stg>
     </lg>
 
@@ -534,7 +534,7 @@
       <l pos="Interj">атан</l>
 
       <stg>
-        <st Contlex="I">атан</st>
+        <st Contlex="INTERJ_">атан</st>
       </stg>
 
       <stress>ата•н</stress>
@@ -564,7 +564,7 @@
       <l pos="Interj">ах</l>
 
       <stg>
-        <st Contlex="I">ах</st>
+        <st Contlex="INTERJ_">ах</st>
       </stg>
 
       <stress>ах</stress>
@@ -678,7 +678,7 @@
       <l pos="Interj">бау</l>
 
       <stg>
-        <st Contlex="I">бау</st>
+        <st Contlex="INTERJ_">бау</st>
       </stg>
 
       <stress>ба•у</stress>
@@ -708,7 +708,7 @@
       <l pos="Interj">бзльоп</l>
 
       <stg>
-        <st Contlex="I">бзльоп</st>
+        <st Contlex="INTERJ_">бзльоп</st>
       </stg>
     </lg>
 
@@ -756,7 +756,7 @@
       <l pos="Interj">буҥ</l>
 
       <stg>
-        <st Contlex="I">буҥ</st>
+        <st Contlex="INTERJ_">буҥ</st>
       </stg>
     </lg>
 
@@ -924,7 +924,7 @@
       <l pos="Interj">вучи-вучи</l>
 
       <stg>
-        <st Contlex="I">вучи-вучи</st>
+        <st Contlex="INTERJ_">вучи-вучи</st>
       </stg>
     </lg>
 
@@ -972,7 +972,7 @@
       <l pos="Interj">дига-дига</l>
 
       <stg>
-        <st Contlex="I">дига-дига</st>
+        <st Contlex="INTERJ_">дига-дига</st>
       </stg>
     </lg>
 
@@ -1040,7 +1040,7 @@
       <l pos="Interj">до-до-до</l>
 
       <stg>
-        <st Contlex="I">до-до-до</st>
+        <st Contlex="INTERJ_">до-до-до</st>
       </stg>
 
       <stress>до-до-до</stress>
@@ -1206,7 +1206,7 @@
       <l pos="Interj">капут</l>
 
       <stg>
-        <st Contlex="I">капут</st>
+        <st Contlex="INTERJ_">капут</st>
       </stg>
     </lg>
 
@@ -1234,7 +1234,7 @@
       <l pos="Interj">караул</l>
 
       <stg>
-        <st Contlex="I">караул</st>
+        <st Contlex="INTERJ_">караул</st>
       </stg>
 
       <stress>карау•л</stress>
@@ -1696,7 +1696,7 @@
       <l pos="Interj">но</l>
 
       <stg>
-        <st Contlex="I">но</st>
+        <st Contlex="INTERJ_">но</st>
       </stg>
 
       <stress>но</stress>
@@ -1786,7 +1786,7 @@
       <l pos="Interj">ой</l>
 
       <stg>
-        <st Contlex="I">ой</st>
+        <st Contlex="INTERJ_">ой</st>
       </stg>
 
       <stress>ой</stress>
@@ -1856,7 +1856,7 @@
       <l pos="Interj">ох</l>
 
       <stg>
-        <st Contlex="I">ох</st>
+        <st Contlex="INTERJ_">ох</st>
       </stg>
 
       <stress>ох</stress>
@@ -2046,7 +2046,7 @@
       <l pos="Interj">пырыс</l>
 
       <stg>
-        <st Contlex="I">пырыс</st>
+        <st Contlex="INTERJ_">пырыс</st>
       </stg>
     </lg>
 
@@ -2074,7 +2074,7 @@
       <l pos="Interj">пытыш-кайыш</l>
 
       <stg>
-        <st Contlex="I">пытыш-кайыш</st>
+        <st Contlex="INTERJ_">пытыш-кайыш</st>
       </stg>
     </lg>
 
@@ -2122,7 +2122,7 @@
       <l pos="Interj">пӧчӧк</l>
 
       <stg>
-        <st Contlex="I">пӧчӧк</st>
+        <st Contlex="INTERJ_">пӧчӧк</st>
       </stg>
 
       <stress>пӧчӧ•к</stress>
@@ -2480,7 +2480,7 @@
       <l pos="Interj">ура</l>
 
       <stg>
-        <st Contlex="I">ура</st>
+        <st Contlex="INTERJ_">ура</st>
       </stg>
 
       <stress>ура•</stress>
@@ -2510,7 +2510,7 @@
       <l pos="Interj">уф-ф</l>
 
       <stg>
-        <st Contlex="I">уф-ф</st>
+        <st Contlex="INTERJ_">уф-ф</st>
       </stg>
 
       <stress>уф-ф</stress>
@@ -2540,7 +2540,7 @@
       <l pos="Interj">фу</l>
 
       <stg>
-        <st Contlex="I">фу</st>
+        <st Contlex="INTERJ_">фу</st>
       </stg>
 
       <stress>фу</stress>
@@ -2590,7 +2590,7 @@
       <l pos="Interj">фу-ӱ</l>
 
       <stg>
-        <st Contlex="I">фу-ӱ</st>
+        <st Contlex="INTERJ_">фу-ӱ</st>
       </stg>
     </lg>
 
@@ -2618,7 +2618,7 @@
       <l pos="Interj">чабач</l>
 
       <stg>
-        <st Contlex="I">чабач</st>
+        <st Contlex="INTERJ_">чабач</st>
       </stg>
     </lg>
 
@@ -2686,7 +2686,7 @@
       <l pos="Interj">чеверын</l>
 
       <stg>
-        <st Contlex="I">чеверын</st>
+        <st Contlex="INTERJ_">чеверын</st>
       </stg>
 
       <stress>чеве•рын</stress>
@@ -2716,7 +2716,7 @@
       <l pos="Interj">чи-чи-чи</l>
 
       <stg>
-        <st Contlex="I">чи-чи-чи</st>
+        <st Contlex="INTERJ_">чи-чи-чи</st>
       </stg>
 
       <stress>чи-чи-чи</stress>
@@ -2746,7 +2746,7 @@
       <l pos="Interj">чиви-чиви-чиви</l>
 
       <stg>
-        <st Contlex="I">чиви-чиви-чиви</st>
+        <st Contlex="INTERJ_">чиви-чиви-чиви</st>
       </stg>
     </lg>
 
@@ -3128,7 +3128,7 @@
       <l pos="Interj">чур-чурат</l>
 
       <stg>
-        <st Contlex="I">чур-чурат</st>
+        <st Contlex="INTERJ_">чур-чурат</st>
       </stg>
     </lg>
 
@@ -3196,7 +3196,7 @@
       <l pos="Interj">чыда-чыда</l>
 
       <stg>
-        <st Contlex="I">чыда-чыда</st>
+        <st Contlex="INTERJ_">чыда-чыда</st>
       </stg>
     </lg>
 
@@ -3372,7 +3372,7 @@
       <l pos="Interj">шабаш</l>
 
       <stg>
-        <st Contlex="I">шабаш</st>
+        <st Contlex="INTERJ_">шабаш</st>
       </stg>
 
       <stress>шаба•ш</stress>
@@ -3402,7 +3402,7 @@
       <l pos="Interj">шатын</l>
 
       <stg>
-        <st Contlex="I">шатын</st>
+        <st Contlex="INTERJ_">шатын</st>
       </stg>
 
       <stress>ша•тын</stress>
@@ -3540,7 +3540,7 @@
       <l pos="Interj">э-э</l>
 
       <stg>
-        <st Contlex="I">э-э</st>
+        <st Contlex="INTERJ_">э-э</st>
       </stg>
 
       <stress>э-э</stress>
@@ -3610,7 +3610,7 @@
       <l pos="Interj">эй</l>
 
       <stg>
-        <st Contlex="I">эй</st>
+        <st Contlex="INTERJ_">эй</st>
       </stg>
 
       <stress>эй</stress>
@@ -3660,7 +3660,7 @@
       <l pos="Interj">эх</l>
 
       <stg>
-        <st Contlex="I">эх</st>
+        <st Contlex="INTERJ_">эх</st>
       </stg>
 
       <stress>эх</stress>
@@ -3710,7 +3710,7 @@
       <l pos="Interj">я</l>
 
       <stg>
-        <st Contlex="I">я</st>
+        <st Contlex="INTERJ_">я</st>
       </stg>
 
       <stress>я</stress>

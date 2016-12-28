@@ -162,7 +162,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="Conj">joskin</t>
+        <t pos="Conj">vaikkakin</t>
       </tg>
     </mg>
   </e>
@@ -684,7 +685,7 @@
       <l pos="Conj">теве</l>
 
       <stg>
-        <st Contlex="K">тев%{еы%}</st>
+        <st Contlex="CONJ_">тев%{еы%}</st>
       </stg>
     </lg>
 
@@ -840,7 +841,7 @@
       <l pos="Conj">я</l>
 
       <stg>
-        <st Contlex="K">я</st>
+        <st Contlex="CONJ_">я</st>
       </stg>
 
       <stress>я</stress>
