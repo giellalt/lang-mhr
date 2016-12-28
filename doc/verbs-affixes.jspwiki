@@ -46,7 +46,9 @@ We divide the verbs in two, -am and -em
 
  LEXICON Vam-Ind  gives all the Ind tenses
 
+ LEXICON Vam-Imp   for imperative
 
+ LEXICON Vam-Des   for desiderative
 
 
 !The -em class
@@ -58,19 +60,19 @@ We divide the verbs in two, -am and -em
 
  LEXICON Vem-Ind   gives all the Ind tenses
 
- * LEXICON Vem-Imp  
+ * LEXICON Vem-Imp  for imperative
 
- * LEXICON Vem-Des  
+ * LEXICON Vem-Des  for desiderative
 
 !!Special verbs
 V_am, возаш : воч
- * LEXICON z-C  
+ * LEXICON z-C 
 
 V_am, лукташ : лук
- * LEXICON t-0  
+ * LEXICON t-0 
 
 V_am, кушкаш : куш
- * LEXICON k-0  
+ * LEXICON k-0 
 
 V_am, шинчаш шич
 this is the proof or consonant stem cf. vowel stem in -ем verbs.
@@ -78,13 +80,19 @@ In mrj this is dealt with in twolc
 
 These need work 2012-09-21
 
- * LEXICON Vam-n/l--1t  
+ * LEXICON Vam-n/l--1t 
 
 
 
 
 
  LEXICON non-finites  contains Mutual endings
+
+
+
+
+
+
 
 
 

@@ -1,37 +1,41 @@
-LEXICON Pimp
- # ;
+!! !!!Eastern Mari pronoun inflection
 
-LEXICON Pmuu
+!! This is still not written, all case endings are missing
+
+LEXICON Pimp  !!= * @CODE@
++Pron: # ;
+
+LEXICON Pmuu !!= * @CODE@
 +Interj: # ; ! Several Pmuu do not belong here
 
-LEXICON PRON-IR_
+LEXICON PRON-IR_ !!= * @CODE@
 +Pron+Interr: # ;
 +Pron+Rel: # ;
 
-LEXICON PronP
+LEXICON PronP !!= * @CODE@
 +Pron: # ;
 
-LEXICON PronD
+LEXICON PronD !!= * @CODE@
 +Pron: # ;
 
-LEXICON PRON_
+LEXICON PRON_ !!= * @CODE@
 +Pron: # ;
 
-LEXICON PronRes
+LEXICON PronRes !!= * @CODE@
 +Pron: # ;
 
-LEXICON PronI
+LEXICON PronI !!= * @CODE@
 +Pron: # ;
 
-LEXICON PronIR
+LEXICON PronIR !!= * @CODE@
 +Pron+Interr: # ;
 
-LEXICON PronInd
+LEXICON PronInd !!= * @CODE@
 +Pron+Ind: # ;
 
-LEXICON PronDem
+LEXICON PronDem !!= * @CODE@
 +Pron+Dem: # ;
 
-LEXICON PronRef
+LEXICON PronRef !!= * @CODE@
 +Pron+Refl: # ;
 
