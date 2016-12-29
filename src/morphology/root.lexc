@@ -40,7 +40,6 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Pron   !!≈ * __@CODE@__ = pronouns
 +CS	    !!≈ * __@CODE@__ = subjunctions
 +CC	    !!≈ * __@CODE@__ = conjunctions
-!+Adp   !!≈ * __@CODE@__ = adpositions
 +Po	    !!≈ * __@CODE@__ = postpositions
 +Pr	    !!≈ * __@CODE@__ = prepositons
 +Interj !!≈ * __@CODE@__ = interjections
@@ -50,399 +49,401 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 !! !POS subtags
 !! The parts of speech are further split up into:
 
-+Prop      !!≈ * __@CODE@__ 
-+Pers      !!≈ * __@CODE@__ 
-+Dem       !!≈ * __@CODE@__ 
-+Interr    !!≈ * __@CODE@__ 
-+Refl      !!≈ * __@CODE@__ 
-+Recipr    !!≈ * __@CODE@__ 
-+Rel       !!≈ * __@CODE@__   
-+Indef     !!≈ * __@CODE@__ 
-+Aux       !!≈ * __@CODE@__ 
-+Patr      !!≈ * __@CODE@__ patronym, look at this in other cyr fsts.
++Prop      !!≈ * __@CODE@__ = Proper noun
++Pers      !!≈ * __@CODE@__ = Personal pronoun
++Dem       !!≈ * __@CODE@__ = Demonstrative pronoun
++Interr    !!≈ * __@CODE@__ = Interrogative pronoun
++Refl      !!≈ * __@CODE@__ = Reflexive pronoun
++Recipr    !!≈ * __@CODE@__ = Reciprocal pronoun
++Rel       !!≈ * __@CODE@__ = Relative pronoun
++Indef     !!≈ * __@CODE@__ = Indefinite pronoun
++Patr      !!≈ * __@CODE@__ = patronym, look at this in other cyr fsts.
++Aux       !!≈ * __@CODE@__ = Auxiliary verb
++Depend   !!≈ * __@CODE@__ = ( pair verbs that do not occur independently get this marker.)
 
 
+
+!! The nominals are inflected in the following numbers
+
++Sg		   !!≈ * __@CODE@__ = 
++Pl		   !!≈ * __@CODE@__ = 
++AssocPl   !!≈ * __@CODE@__ = 
+
+!! The nominals are inflected in the following Case and Number
+
++Nom 	   !!≈ * __@CODE@__ = 
++Gen 	   !!≈ * __@CODE@__ = 
++Acc 	   !!≈ * __@CODE@__ = 
++Com 	   !!≈ * __@CODE@__ = conitative
++Ill 	   !!≈ * __@CODE@__ = 
++Ine 	   !!≈ * __@CODE@__ = 
++Lat 	   !!≈ * __@CODE@__ = lative
++Dat 	   !!≈ * __@CODE@__ = 
++Cmpr 	   !!≈ * __@CODE@__ = comparative case
++Abe	   !!≈ * __@CODE@__ = abessive
++Voc	   !!≈ * __@CODE@__ = vocative
+
+!! The possession is marked as such:
+
++PxSg1  !!≈ * __@CODE@__ = 
++PxSg2  !!≈ * __@CODE@__ = 
++PxSg3  !!≈ * __@CODE@__ = 
++PxPl1  !!≈ * __@CODE@__ = 
++PxPl2  !!≈ * __@CODE@__ = 
++PxPl3  !!≈ * __@CODE@__ = 
+
+!! The comparative forms are:
++Comp      !!≈ * __@CODE@__ = comparative (not: not Cmp)
++Superl     !!≈ * __@CODE@__ = superlative
+ 
+!! Numerals are classified under:
+
++Card   !!≈ * __@CODE@__ = (hmm, skip+Card?)
++Ord   !!≈ * __@CODE@__ = 
+ 
+ 
+!! Note the attributive tag, in defferent contexts
+
++Attr   !!≈ * __@CODE@__ = 
+
+!! Verb moods are:
+
++Ind       !!≈ * __@CODE@__ = indicative
++Cond      !!≈ * __@CODE@__ = conditional
++Imprt     !!≈ * __@CODE@__ = imperative
++Des       !!≈ * __@CODE@__ = desiderative
+
+!! Verb tenses are:
+
++Prs       !!≈ * __@CODE@__ = present
++Prt1      !!≈ * __@CODE@__ = 1st preterite, direct observation
++Prt2      !!≈ * __@CODE@__ = 2nd preterite, indirect narrative, conclusion
+
+!! Verb personal forms are:
+
++Sg1          !!≈ * __@CODE@__ = 
++Sg2          !!≈ * __@CODE@__ = 
++Sg3          !!≈ * __@CODE@__ = 
++Pl1          !!≈ * __@CODE@__ = 
++Pl2          !!≈ * __@CODE@__ = 
++Pl3          !!≈ * __@CODE@__ = 
+
+!! Other verb forms are
+
++Inf	          !!≈ * __@CODE@__ = Infinitive
++Ger	          !!≈ * __@CODE@__ = Gerund
++Neg	          !!≈ * __@CODE@__ = Negation verb
++ConNeg	          !!≈ * __@CODE@__ = Invariant main verb in negation expression
++Prc	          !!≈ * __@CODE@__ = Participle
++Nec	          !!≈ * __@CODE@__ = Necessive infinitive
++PrfPrc	          !!≈ * __@CODE@__ = Perfective participle
++FutPrc	          !!≈ * __@CODE@__ = Future participle
++NegPrc	          !!≈ * __@CODE@__ = Negative participle
++Imprf	          !!≈ * __@CODE@__ = Imperfective (?)
++Act	          !!≈ * __@CODE@__ = Active
++Pass	          !!≈ * __@CODE@__ = Passive
+
+
+!! Question and Focus particles:
++Qst      !!≈ * __@CODE@__ = 
++Foc    !!≈ * __@CODE@__ = 
+ 
+! -ат/-ят, -ак/-як, -с/-ыс
++Foc/Ат       !!≈ * __@CODE@__ = -at focus particla
++Foc/Ак       !!≈ * __@CODE@__ = -ak focus particle
++Foc/Ыс	      !!≈ * __@CODE@__ = -ys focus particle
++Foc/ян	      !!≈ * __@CODE@__ = -jan focus particle
+
+
+!! !Derivations
+
++Der/MWN      !!≈ * __@CODE@__ = Modifyer without noun (better: +A+Sg+Nom etc.)
+
+!! Abbreviated words are classified with:
++ABBR         !!≈ * __@CODE@__ = for abbreviations that (may) contain period
++ACR          !!≈ * __@CODE@__ = acronyms
+
+!! Special symbols are classified with:
+
++CLB           !!≈ * __@CODE@__ = clause and sentence boundary symbols
++PUNCT         !!≈ * __@CODE@__ = other punctuation marks
++LEFT          !!≈ * __@CODE@__ = paired symbols
++RIGHT         !!≈ * __@CODE@__ = paired symbols
+
+!! The verbs are syntactically split according to transitivity:
++TV       !!≈ * __@CODE@__ = 
++IV       !!≈ * __@CODE@__ = 
+
+!! Special multiword units are analysed with:
++Multi    !!≈ * __@CODE@__ = 
+ 
+!! Non-dictionary words can be recognised with:
++Guess    !!≈ * __@CODE@__ = 
+ 
 !! !Homony tags
 
 !! These are especially for verbs. Note that this is __not__
 !! a semantic distinction, we talk about paradigms deviating
 !! here and there in the inflection pattern.
 
-+Hom1     !!≈ * __@CODE@__ First pattern (let us say -аш)
-+Hom2     !!≈ * __@CODE@__ Second pattern (let us say -еш)
-+Hom3     !!≈ * __@CODE@__ Third pattern (if it should exist + even more?)
++Hom1     !!≈ * __@CODE@__ = First pattern (let us say -аш)
++Hom2     !!≈ * __@CODE@__ = Second pattern (let us say -еш)
++Hom3     !!≈ * __@CODE@__ = Third pattern (if it should exist + even more?)
+
+!! !Usage tags
 
 !! The Usage extents are marked using following tags:
 
-+Err/Orth        !!≈ * __@CODE@__ orthographical error (analysed, not accepted in speller)
-+Use/-Spell      !!≈ * __@CODE@__ accepted in normative FST but not in speller
-
- 
-+Use/Test !!≈ * __@CODE@__  Dealing with lative form 2012-10-27 аваеш, пашаш
-!!
-+Depend   !!≈ * __@CODE@__ ( pair verbs that do not occur independently get this marker.)
-
-!! The nominals are inflected in the following numbers
-
-+Sg		   !!≈ * __@CODE@__ 
-+Pl		   !!≈ * __@CODE@__ 
-+AssocPl   !!≈ * __@CODE@__ 
-
-!! The nominals are inflected in the following Case and Number
-
-+Nom 	   !!≈ * __@CODE@__ 
-+Gen 	   !!≈ * __@CODE@__ 
-+Acc 	   !!≈ * __@CODE@__ 
-+Com 	   !!≈ * __@CODE@__ conitative
-+Ill 	   !!≈ * __@CODE@__ 
-+Ine 	   !!≈ * __@CODE@__ 
-+Lat 	   !!≈ * __@CODE@__ lative
-+Dat 	   !!≈ * __@CODE@__ 
-+Cmpr 	   !!≈ * __@CODE@__ comparative case
-+Abe	   !!≈ * __@CODE@__ abessive
-+Voc	   !!≈ * __@CODE@__ vocative
-
-!! The possession is marked as such:
-
-+PxSg1  !!≈ * __@CODE@__ 
-+PxSg2  !!≈ * __@CODE@__ 
-+PxSg3  !!≈ * __@CODE@__ 
-+PxPl1  !!≈ * __@CODE@__ 
-+PxPl2  !!≈ * __@CODE@__ 
-+PxPl3  !!≈ * __@CODE@__ 
-
-!! The comparative forms are:
-+Comp      !!≈ * __@CODE@__ comparative (not: not Cmp)
-+Superl     !!≈ * __@CODE@__ superlative
- 
-!! Numerals are classified under:
-
-+Card   !!≈ * __@CODE@__ (hmm, skip+Card?)
-+Ord   !!≈ * __@CODE@__ 
- 
- 
-!! Note the attributive tag, in defferent contexts
-
-+Attr   !!≈ * __@CODE@__ 
-
-!! Verb moods are:
-
-+Ind       !!≈ * __@CODE@__ indicative
-+Cond      !!≈ * __@CODE@__ conditional
-+Imprt     !!≈ * __@CODE@__ imperative
-+Des       !!≈ * __@CODE@__ desiderative
++Err/Orth        !!≈ * __@CODE@__ = orthographical error (analysed, not accepted in speller)
++Use/-Spell      !!≈ * __@CODE@__ = accepted in normative FST but not in speller
++Use/Test !!≈ * __@CODE@__ =  Dealing with lative form 2012-10-27 аваеш, пашаш
 
 
-!! Verb tenses are:
-
-+Prs       !!≈ * __@CODE@__ present
-+Prt1      !!≈ * __@CODE@__ 1st preterite, direct observation
-+Prt2      !!≈ * __@CODE@__ 2nd preterite, indirect narrative, conclusion
-
-!! Verb personal forms are:
-
-+Sg1          !!≈ * __@CODE@__ 
-+Sg2          !!≈ * __@CODE@__ 
-+Sg3          !!≈ * __@CODE@__ 
-+Pl1          !!≈ * __@CODE@__ 
-+Pl2          !!≈ * __@CODE@__ 
-+Pl3          !!≈ * __@CODE@__ 
-
-!! Other verb forms are
-
-+Inf	          !!≈ * __@CODE@__ 
-+Ger	          !!≈ * __@CODE@__ 
-+ConNeg	          !!≈ * __@CODE@__ 
-+Neg	          !!≈ * __@CODE@__ 
-+Prc	          !!≈ * __@CODE@__ 
-+Nec	          !!≈ * __@CODE@__ 
-+PrfPrc	          !!≈ * __@CODE@__ 
-+Act	          !!≈ * __@CODE@__ 
-+Pass	          !!≈ * __@CODE@__ 
-+FutPrc	          !!≈ * __@CODE@__ 
-+NegPrc	          !!≈ * __@CODE@__ 
-+Imprf	          !!≈ * __@CODE@__ 
-
-!! Abbreviated words are classified with:
-+ABBR         !!≈ * __@CODE@__ for abbreviations that (may) contain period
-+ACR          !!≈ * __@CODE@__ acronyms
-
-!! Special symbols are classified with:
-
-+CLB           !!≈ * __@CODE@__ clause and sentence boundary symbols
-+PUNCT         !!≈ * __@CODE@__ other punctuation marks
-+LEFT          !!≈ * __@CODE@__ paired symbols
-+RIGHT         !!≈ * __@CODE@__ paired symbols
-
-!! The verbs are syntactically split according to transitivity:
-+TV       !!≈ * __@CODE@__ 
-+IV       !!≈ * __@CODE@__ 
-!! Special multiword units are analysed with:
-+Multi    !!≈ * __@CODE@__ 
- 
-!! Non-dictionary words can be recognised with:
-+Guess    !!≈ * __@CODE@__ 
- 
-
-!! Question and Focus particles:
-+Qst      !!≈ * __@CODE@__ 
-+Foc    !!≈ * __@CODE@__ 
- 
-! -ат/-ят, -ак/-як, -с/-ыс
-+Foc/Ат       !!≈ * __@CODE@__ 
-+Foc/Ак       !!≈ * __@CODE@__ 
-+Foc/Ыс	      !!≈ * __@CODE@__ 
-+Foc/ян	      !!≈ * __@CODE@__ 
-
-
-!! Derivations
-
-+Der/MWN      !!≈ * __@CODE@__ Modifyer without noun (better: +A+Sg+Nom etc.
-
+!! !Semantic tags
 
 ! Semantic tags to help disambiguation & synt. analysis: (before POS)
 ! Borrowed from main/langs/sme/src/morphology/root.lexc
-+Sem/Act         !!≈ * __@CODE@__ Activity
-+Sem/Amount      !!≈ * __@CODE@__ Amount
-+Sem/Ani         !!≈ * __@CODE@__ Animate
-+Sem/Aniprod     !!≈ * __@CODE@__ Animal Product
-+Sem/Body        !!≈ * __@CODE@__ Bodypart
-+Sem/Body-abstr  !!≈ * __@CODE@__ siellu, vuoig?a, jierbmi
-+Sem/Build       !!≈ * __@CODE@__ Building
-+Sem/Build-part  !!≈ * __@CODE@__ Part of Bulding, like the closet
-+Sem/Cat         !!≈ * __@CODE@__ Category
-+Sem/Clth        !!≈ * __@CODE@__ Clothes
-+Sem/Clth-jewl   !!≈ * __@CODE@__ Jewelery
-+Sem/Clth-part   !!≈ * __@CODE@__ part of clothes, boallu, sávdnji...
-+Sem/Ctain       !!≈ * __@CODE@__ Container
-+Sem/Ctain-abstr !!≈ * __@CODE@__ Abstract container like bank account
++Sem/Act         !!≈ * __@CODE@__ = Activity
++Sem/Amount      !!≈ * __@CODE@__ = Amount
++Sem/Ani         !!≈ * __@CODE@__ = Animate
++Sem/Aniprod     !!≈ * __@CODE@__ = Animal Product
++Sem/Body        !!≈ * __@CODE@__ = Bodypart
++Sem/Body-abstr  !!≈ * __@CODE@__ = siellu, vuoig?a, jierbmi
++Sem/Build       !!≈ * __@CODE@__ = Building
++Sem/Build-part  !!≈ * __@CODE@__ = Part of Bulding, like the closet
++Sem/Cat         !!≈ * __@CODE@__ = Category
++Sem/Clth        !!≈ * __@CODE@__ = Clothes
++Sem/Clth-jewl   !!≈ * __@CODE@__ = Jewelery
++Sem/Clth-part   !!≈ * __@CODE@__ = part of clothes, boallu, sávdnji...
++Sem/Ctain       !!≈ * __@CODE@__ = Container
++Sem/Ctain-abstr !!≈ * __@CODE@__ = Abstract container like bank account
 +Sem/Ctain-clth  !!≈ * __@CODE@__
-+Sem/Curr        !!≈ * __@CODE@__ Currency like dollár, Not Money
-+Sem/Dance       !!≈ * __@CODE@__ Dance
-+Sem/Dir         !!≈ * __@CODE@__ Direction like GPS-kursa
-+Sem/Domain      !!≈ * __@CODE@__ Domain like politics, reindeerherding (a system of actions)
-+Sem/Drink       !!≈ * __@CODE@__ Drink
-+Sem/Dummytag    !!≈ * __@CODE@__ Dummytag
-+Sem/Edu         !!≈ * __@CODE@__ Educational event
-+Sem/Event       !!≈ * __@CODE@__ Event
-+Sem/Feat        !!≈ * __@CODE@__ Feature, like Árvu
-+Sem/Feat-phys   !!≈ * __@CODE@__ Physiological feature, ivdni, fárda
-+Sem/Feat-psych  !!≈ * __@CODE@__ Psychological feauture
-+Sem/Feat-measr  !!≈ * __@CODE@__ Psychological feauture
-+Sem/Fem         !!≈ * __@CODE@__ Female name
-+Sem/Food        !!≈ * __@CODE@__ Food
-+Sem/Food-med    !!≈ * __@CODE@__ Medicine
-+Sem/Furn        !!≈ * __@CODE@__ Furniture
-+Sem/Game        !!≈ * __@CODE@__ Game
-+Sem/Geom        !!≈ * __@CODE@__ Geometrical object
-+Sem/Group       !!≈ * __@CODE@__ Animal or Human Group
-+Sem/Hum         !!≈ * __@CODE@__ Human
-+Sem/Hum-abstr   !!≈ * __@CODE@__ Human abstract
-+Sem/Ideol       !!≈ * __@CODE@__ Ideology
-+Sem/Lang        !!≈ * __@CODE@__ Language
-+Sem/Mal         !!≈ * __@CODE@__ Male name
-+Sem/Mat         !!≈ * __@CODE@__ Material for producing things
-+Sem/Measr       !!≈ * __@CODE@__ Measure
-+Sem/Money       !!≈ * __@CODE@__ Has to do with money, like wages, not Curr(ency)
-+Sem/Obj         !!≈ * __@CODE@__ Object
-+Sem/Obj-clo         !!≈ * __@CODE@__ Cloth
-+Sem/Obj-cogn        !!≈ * __@CODE@__ Cloth
-+Sem/Obj-el          !!≈ * __@CODE@__ (Electrical) machine or apparatus
-+Sem/Obj-ling        !!≈ * __@CODE@__ Object with something written on it
-+Sem/Obj-rope        !!≈ * __@CODE@__ flexible ropelike object
-+Sem/Obj-surfc       !!≈ * __@CODE@__ Surface object
-+Sem/Org         !!≈ * __@CODE@__ Organisation
-+Sem/Part        !!≈ * __@CODE@__ Feature, oassi, bealli
-+Sem/Perc-cogn       !!≈ * __@CODE@__ Cognative perception
-+Sem/Perc-emo        !!≈ * __@CODE@__ Emotional perception
-+Sem/Perc-phys       !!≈ * __@CODE@__ Physical perception
-+Sem/Perc-psych      !!≈ * __@CODE@__ Physical perception
-+Sem/Plant       !!≈ * __@CODE@__ Plant
-+Sem/Plant-part      !!≈ * __@CODE@__ Plant part
-+Sem/Plc         !!≈ * __@CODE@__ Place
-+Sem/Plc-abstr       !!≈ * __@CODE@__ Abstract place
-+Sem/Plc-elevate     !!≈ * __@CODE@__ Place
-+Sem/Plc-line        !!≈ * __@CODE@__ Place
-+Sem/Plc-water       !!≈ * __@CODE@__ Place
-+Sem/Pos         !!≈ * __@CODE@__ Position (as in social position job)
-+Sem/Process     !!≈ * __@CODE@__ Process
-+Sem/Prod        !!≈ * __@CODE@__ Product
-+Sem/Prod-audio      !!≈ * __@CODE@__ Audio product
-+Sem/Prod-cogn       !!≈ * __@CODE@__ Cognition product
-+Sem/Prod-ling       !!≈ * __@CODE@__ Linguistic product
-+Sem/Prod-vis        !!≈ * __@CODE@__ Visual product
-+Sem/Rel         !!≈ * __@CODE@__ Relation
-+Sem/Route       !!≈ * __@CODE@__ Name of a Route
-+Sem/Rule        !!≈ * __@CODE@__ Rule or convention
-+Sem/Semcon      !!≈ * __@CODE@__ Semantic concept
-+Sem/Sign        !!≈ * __@CODE@__ Sign (e.g. numbers, punctuation) 
-+Sem/Sport       !!≈ * __@CODE@__ Sport
-+Sem/State       !!≈ * __@CODE@__ 
-+Sem/State-sick      !!≈ * __@CODE@__ Illness
-+Sem/Substnc     !!≈ * __@CODE@__ Substance, like Air and Water
-+Sem/Sur         !!≈ * __@CODE@__ Surname
-+Sem/Symbol      !!≈ * __@CODE@__ Symbol
-+Sem/Time        !!≈ * __@CODE@__ Time
-+Sem/Tool        !!≈ * __@CODE@__ Prototypical tool for repairing things
-+Sem/Tool-catch      !!≈ * __@CODE@__ Tool used for catching (e.g. fish)
-+Sem/Tool-clean      !!≈ * __@CODE@__ Tool used for cleaning
-+Sem/Tool-it         !!≈ * __@CODE@__ Tool used in IT
-+Sem/Tool-measr      !!≈ * __@CODE@__ Tool used for measuring
-+Sem/Tool-music      !!≈ * __@CODE@__ Music instrument
-+Sem/Tool-write      !!≈ * __@CODE@__ Writing tool
-+Sem/Txt         !!≈ * __@CODE@__ Text (girji, lávlla...)
-+Sem/Veh         !!≈ * __@CODE@__ Vehicle
-+Sem/Wpn         !!≈ * __@CODE@__ Weapon
-+Sem/Wthr        !!≈ * __@CODE@__ The Weather or the state of ground
++Sem/Curr        !!≈ * __@CODE@__ = Currency like dollár, Not Money
++Sem/Dance       !!≈ * __@CODE@__ = Dance
++Sem/Dir         !!≈ * __@CODE@__ = Direction like GPS-kursa
++Sem/Domain      !!≈ * __@CODE@__ = Domain like politics, reindeerherding (a system of actions)
++Sem/Drink       !!≈ * __@CODE@__ = Drink
++Sem/Dummytag    !!≈ * __@CODE@__ = Dummytag
++Sem/Edu         !!≈ * __@CODE@__ = Educational event
++Sem/Event       !!≈ * __@CODE@__ = Event
++Sem/Feat        !!≈ * __@CODE@__ = Feature, like Árvu
++Sem/Feat-phys   !!≈ * __@CODE@__ = Physiological feature, ivdni, fárda
++Sem/Feat-psych  !!≈ * __@CODE@__ = Psychological feauture
++Sem/Feat-measr  !!≈ * __@CODE@__ = Psychological feauture
++Sem/Fem         !!≈ * __@CODE@__ = Female name
++Sem/Food        !!≈ * __@CODE@__ = Food
++Sem/Food-med    !!≈ * __@CODE@__ = Medicine
++Sem/Furn        !!≈ * __@CODE@__ = Furniture
++Sem/Game        !!≈ * __@CODE@__ = Game
++Sem/Geom        !!≈ * __@CODE@__ = Geometrical object
++Sem/Group       !!≈ * __@CODE@__ = Animal or Human Group
++Sem/Hum         !!≈ * __@CODE@__ = Human
++Sem/Hum-abstr   !!≈ * __@CODE@__ = Human abstract
++Sem/Ideol       !!≈ * __@CODE@__ = Ideology
++Sem/Lang        !!≈ * __@CODE@__ = Language
++Sem/Mal         !!≈ * __@CODE@__ = Male name
++Sem/Mat         !!≈ * __@CODE@__ = Material for producing things
++Sem/Measr       !!≈ * __@CODE@__ = Measure
++Sem/Money       !!≈ * __@CODE@__ = Has to do with money, like wages, not Curr(ency)
++Sem/Obj         !!≈ * __@CODE@__ = Object
++Sem/Obj-clo         !!≈ * __@CODE@__ = Cloth
++Sem/Obj-cogn        !!≈ * __@CODE@__ = Cloth
++Sem/Obj-el          !!≈ * __@CODE@__ = (Electrical) machine or apparatus
++Sem/Obj-ling        !!≈ * __@CODE@__ = Object with something written on it
++Sem/Obj-rope        !!≈ * __@CODE@__ = flexible ropelike object
++Sem/Obj-surfc       !!≈ * __@CODE@__ = Surface object
++Sem/Org         !!≈ * __@CODE@__ = Organisation
++Sem/Part        !!≈ * __@CODE@__ = Feature, oassi, bealli
++Sem/Perc-cogn       !!≈ * __@CODE@__ = Cognative perception
++Sem/Perc-emo        !!≈ * __@CODE@__ = Emotional perception
++Sem/Perc-phys       !!≈ * __@CODE@__ = Physical perception
++Sem/Perc-psych      !!≈ * __@CODE@__ = Physical perception
++Sem/Plant       !!≈ * __@CODE@__ = Plant
++Sem/Plant-part      !!≈ * __@CODE@__ = Plant part
++Sem/Plc         !!≈ * __@CODE@__ = Place
++Sem/Plc-abstr       !!≈ * __@CODE@__ = Abstract place
++Sem/Plc-elevate     !!≈ * __@CODE@__ = Place
++Sem/Plc-line        !!≈ * __@CODE@__ = Place
++Sem/Plc-water       !!≈ * __@CODE@__ = Place
++Sem/Pos         !!≈ * __@CODE@__ = Position (as in social position job)
++Sem/Process     !!≈ * __@CODE@__ = Process
++Sem/Prod        !!≈ * __@CODE@__ = Product
++Sem/Prod-audio      !!≈ * __@CODE@__ = Audio product
++Sem/Prod-cogn       !!≈ * __@CODE@__ = Cognition product
++Sem/Prod-ling       !!≈ * __@CODE@__ = Linguistic product
++Sem/Prod-vis        !!≈ * __@CODE@__ = Visual product
++Sem/Rel         !!≈ * __@CODE@__ = Relation
++Sem/Route       !!≈ * __@CODE@__ = Name of a Route
++Sem/Rule        !!≈ * __@CODE@__ = Rule or convention
++Sem/Semcon      !!≈ * __@CODE@__ = Semantic concept
++Sem/Sign        !!≈ * __@CODE@__ = Sign (e.g. numbers, punctuation) 
++Sem/Sport       !!≈ * __@CODE@__ = Sport
++Sem/State       !!≈ * __@CODE@__ = 
++Sem/State-sick      !!≈ * __@CODE@__ = Illness
++Sem/Substnc     !!≈ * __@CODE@__ = Substance, like Air and Water
++Sem/Sur         !!≈ * __@CODE@__ = Surname
++Sem/Symbol      !!≈ * __@CODE@__ = Symbol
++Sem/Time        !!≈ * __@CODE@__ = Time
++Sem/Tool        !!≈ * __@CODE@__ = Prototypical tool for repairing things
++Sem/Tool-catch      !!≈ * __@CODE@__ = Tool used for catching (e.g. fish)
++Sem/Tool-clean      !!≈ * __@CODE@__ = Tool used for cleaning
++Sem/Tool-it         !!≈ * __@CODE@__ = Tool used in IT
++Sem/Tool-measr      !!≈ * __@CODE@__ = Tool used for measuring
++Sem/Tool-music      !!≈ * __@CODE@__ = Music instrument
++Sem/Tool-write      !!≈ * __@CODE@__ = Writing tool
++Sem/Txt         !!≈ * __@CODE@__ = Text (girji, lávlla...)
++Sem/Veh         !!≈ * __@CODE@__ = Vehicle
++Sem/Wpn         !!≈ * __@CODE@__ = Weapon
++Sem/Wthr        !!≈ * __@CODE@__ = The Weather or the state of ground
 
 
 
 !! Multiple Semantic tags:
 
-+Sem/Act_Group					       !!≈ * __@CODE@__ 
-+Sem/Act_Plc					       !!≈ * __@CODE@__ 
-+Sem/Act_Route					       !!≈ * __@CODE@__ 
-+Sem/Amount_Build				       !!≈ * __@CODE@__ 
-+Sem/Amount_Semcon				       !!≈ * __@CODE@__ 
-+Sem/Ani_Body-abstr_Hum			       !!≈ * __@CODE@__ 
-+Sem/Ani_Build					       !!≈ * __@CODE@__ 
-+Sem/Ani_Build-part				       !!≈ * __@CODE@__ 
-+Sem/Ani_Build_Hum_Txt			       !!≈ * __@CODE@__ 
-+Sem/Ani_Group					       !!≈ * __@CODE@__ 
-+Sem/Ani_Group_Hum				       !!≈ * __@CODE@__ 
-+Sem/Ani_Hum					       !!≈ * __@CODE@__ 
-+Sem/Ani_Hum_Plc				       !!≈ * __@CODE@__ 
-+Sem/Ani_Hum_Time				       !!≈ * __@CODE@__ 
-+Sem/Ani_Plc					       !!≈ * __@CODE@__ 
-+Sem/Ani_Plc_Txt				       !!≈ * __@CODE@__ 
-+Sem/Ani_Time					       !!≈ * __@CODE@__ 
-+Sem/Ani_Veh					       !!≈ * __@CODE@__ 
-+Sem/Aniprod_Hum				       !!≈ * __@CODE@__ 
-+Sem/Aniprod_Obj-clo			       !!≈ * __@CODE@__ 
-+Sem/Aniprod_Perc-phys			       !!≈ * __@CODE@__ 
-+Sem/Aniprod_Plc				       !!≈ * __@CODE@__ 
-+Sem/Body-abstr_Prod-audio_Semcon      !!≈ * __@CODE@__ 
-+Sem/Body_Body-abstr			       !!≈ * __@CODE@__ 
-+Sem/Body_Clth					       !!≈ * __@CODE@__ 
-+Sem/Body_Food					       !!≈ * __@CODE@__ 
-+Sem/Body_Group_Hum				       !!≈ * __@CODE@__ 
-+Sem/Body_Hum					       !!≈ * __@CODE@__ 
-+Sem/Body_Mat					       !!≈ * __@CODE@__ 
-+Sem/Body_Measr					       !!≈ * __@CODE@__ 
-+Sem/Body_Obj_Tool-catch		       !!≈ * __@CODE@__ 
-+Sem/Body_Plc					       !!≈ * __@CODE@__ 
-+Sem/Body_Time					       !!≈ * __@CODE@__ 
-+Sem/Build-part_Plc				       !!≈ * __@CODE@__ 
-+Sem/Build_Build-part			       !!≈ * __@CODE@__ 
-+Sem/Build_Clth-part			       !!≈ * __@CODE@__ 
-+Sem/Build_Edu_Org				       !!≈ * __@CODE@__ 
-+Sem/Build_Event_Org			       !!≈ * __@CODE@__ 
-+Sem/Build_Org					       !!≈ * __@CODE@__ 
-+Sem/Build_Route				       !!≈ * __@CODE@__ 
-+Sem/Clth-jewl_Curr				       !!≈ * __@CODE@__ 
-+Sem/Clth-jewl_Money			       !!≈ * __@CODE@__ 
-+Sem/Clth-jewl_Plant			       !!≈ * __@CODE@__ 
-+Sem/Clth_Hum					       !!≈ * __@CODE@__ 
-+Sem/Ctain-abstr_Org			       !!≈ * __@CODE@__ 
-+Sem/Ctain-clth_Plant			       !!≈ * __@CODE@__ 
-+Sem/Ctain-clth_Veh				       !!≈ * __@CODE@__ 
-+Sem/Ctain_Feat-phys			       !!≈ * __@CODE@__ 
-+Sem/Ctain_Furn					       !!≈ * __@CODE@__ 
-+Sem/Ctain_Tool					       !!≈ * __@CODE@__ 
-+Sem/Ctain_Tool-measr			       !!≈ * __@CODE@__ 
-+Sem/Curr_Org					       !!≈ * __@CODE@__ 
-+Sem/Dance_Org					       !!≈ * __@CODE@__ 
-+Sem/Dance_Prod-audio			       !!≈ * __@CODE@__ 
-+Sem/Domain_Food-med			       !!≈ * __@CODE@__ 
-+Sem/Domain_Prod-audio			       !!≈ * __@CODE@__ 
-+Sem/Edu_Event					       !!≈ * __@CODE@__ 
-+Sem/Edu_Group_Hum				       !!≈ * __@CODE@__ 
-+Sem/Edu_Mat					       !!≈ * __@CODE@__ 
-+Sem/Edu_Org					       !!≈ * __@CODE@__ 
-+Sem/Event_Food					       !!≈ * __@CODE@__ 
-+Sem/Event_Hum					       !!≈ * __@CODE@__ 
-+Sem/Event_Plc					       !!≈ * __@CODE@__ 
-+Sem/Event_Time					       !!≈ * __@CODE@__ 
-+Sem/Feat-phys_Tool-write		       !!≈ * __@CODE@__ 
-+Sem/Feat-phys_Veh				       !!≈ * __@CODE@__ 
-+Sem/Feat-phys_Wthr				       !!≈ * __@CODE@__ 
-+Sem/Feat-psych_Hum				       !!≈ * __@CODE@__ 
-+Sem/Feat_Plant					       !!≈ * __@CODE@__ 
-+Sem/Food_Perc-phys				       !!≈ * __@CODE@__ 
-+Sem/Food_Plant					       !!≈ * __@CODE@__ 
-+Sem/Game_Obj-play				       !!≈ * __@CODE@__ 
-+Sem/Geom_Obj					       !!≈ * __@CODE@__ 
-+Sem/Group_Hum					       !!≈ * __@CODE@__ 
-+Sem/Group_Hum_Org				       !!≈ * __@CODE@__ 
-+Sem/Group_Hum_Plc				       !!≈ * __@CODE@__ 
-+Sem/Group_Hum_Prod-vis			       !!≈ * __@CODE@__ 
-+Sem/Group_Org					       !!≈ * __@CODE@__ 
-+Sem/Group_Sign					       !!≈ * __@CODE@__ 
-+Sem/Group_Txt					       !!≈ * __@CODE@__ 
-+Sem/Hum_Lang					       !!≈ * __@CODE@__ 
-+Sem/Hum_Lang_Plc				       !!≈ * __@CODE@__ 
-+Sem/Hum_Lang_Time				       !!≈ * __@CODE@__ 
-+Sem/Hum_Obj					       !!≈ * __@CODE@__ 
-+Sem/Hum_Org					       !!≈ * __@CODE@__ 
-+Sem/Hum_Plant					       !!≈ * __@CODE@__ 
-+Sem/Hum_Plc					       !!≈ * __@CODE@__ 
-+Sem/Hum_Tool					       !!≈ * __@CODE@__ 
-+Sem/Hum_Veh					       !!≈ * __@CODE@__ 
-+Sem/Hum_Wthr					       !!≈ * __@CODE@__ 
-+Sem/Lang_Tool					       !!≈ * __@CODE@__ 
-+Sem/Mat_Plant					       !!≈ * __@CODE@__ 
-+Sem/Mat_Txt					       !!≈ * __@CODE@__ 
-+Sem/Measr_Time					       !!≈ * __@CODE@__ 
-+Sem/Money_Obj					       !!≈ * __@CODE@__ 
-+Sem/Money_Txt					       !!≈ * __@CODE@__ 
-+Sem/Obj-play					       !!≈ * __@CODE@__ 
-+Sem/Obj-play_Sport				       !!≈ * __@CODE@__ 
-+Sem/Obj_Semcon					       !!≈ * __@CODE@__ 
-+Sem/Clth-jewl_Org				       !!≈ * __@CODE@__ 
-+Sem/Org_Rule					       !!≈ * __@CODE@__ 
-+Sem/Org_Txt					       !!≈ * __@CODE@__ 
-+Sem/Org_Veh					       !!≈ * __@CODE@__ 
-+Sem/Part_Prod-cogn				       !!≈ * __@CODE@__ 
-+Sem/Perc-emo_Wthr				       !!≈ * __@CODE@__ 
-+Sem/Plant_Plant-part			       !!≈ * __@CODE@__ 
-+Sem/Plant_Tool					       !!≈ * __@CODE@__ 
-+Sem/Plant_Tool-measr			       !!≈ * __@CODE@__ 
-+Sem/Plc-abstr_Rel_State		       !!≈ * __@CODE@__ 
-+Sem/Plc-abstr_Route			       !!≈ * __@CODE@__ 
-+Sem/Plc_Pos					       !!≈ * __@CODE@__ 
-+Sem/Plc_Route					       !!≈ * __@CODE@__ 
-+Sem/Plc_Substnc				       !!≈ * __@CODE@__ 
-+Sem/Plc_Substnc_Wthr			       !!≈ * __@CODE@__ 
-+Sem/Plc_Time					       !!≈ * __@CODE@__ 
-+Sem/Plc_Tool-catch				       !!≈ * __@CODE@__ 
-+Sem/Plc_Wthr					       !!≈ * __@CODE@__ 
-+Sem/Prod-audio_Txt				       !!≈ * __@CODE@__ 
-+Sem/Prod-cogn_Txt				       !!≈ * __@CODE@__ 
-+Sem/Semcon_Txt					       !!≈ * __@CODE@__ 
-+Sem/Obj_State					       !!≈ * __@CODE@__ 
-+Sem/Substnc_Wthr				       !!≈ * __@CODE@__ 
-+Sem/Time_Wthr					       !!≈ * __@CODE@__ 
++Sem/Act_Group					       !!≈ * __@CODE@__ = 
++Sem/Act_Plc					       !!≈ * __@CODE@__ = 
++Sem/Act_Route					       !!≈ * __@CODE@__ = 
++Sem/Amount_Build				       !!≈ * __@CODE@__ = 
++Sem/Amount_Semcon				       !!≈ * __@CODE@__ = 
++Sem/Ani_Body-abstr_Hum			       !!≈ * __@CODE@__ = 
++Sem/Ani_Build					       !!≈ * __@CODE@__ = 
++Sem/Ani_Build-part				       !!≈ * __@CODE@__ = 
++Sem/Ani_Build_Hum_Txt			       !!≈ * __@CODE@__ = 
++Sem/Ani_Group					       !!≈ * __@CODE@__ = 
++Sem/Ani_Group_Hum				       !!≈ * __@CODE@__ = 
++Sem/Ani_Hum					       !!≈ * __@CODE@__ = 
++Sem/Ani_Hum_Plc				       !!≈ * __@CODE@__ = 
++Sem/Ani_Hum_Time				       !!≈ * __@CODE@__ = 
++Sem/Ani_Plc					       !!≈ * __@CODE@__ = 
++Sem/Ani_Plc_Txt				       !!≈ * __@CODE@__ = 
++Sem/Ani_Time					       !!≈ * __@CODE@__ = 
++Sem/Ani_Veh					       !!≈ * __@CODE@__ = 
++Sem/Aniprod_Hum				       !!≈ * __@CODE@__ = 
++Sem/Aniprod_Obj-clo			       !!≈ * __@CODE@__ = 
++Sem/Aniprod_Perc-phys			       !!≈ * __@CODE@__ = 
++Sem/Aniprod_Plc				       !!≈ * __@CODE@__ = 
++Sem/Body-abstr_Prod-audio_Semcon      !!≈ * __@CODE@__ = 
++Sem/Body_Body-abstr			       !!≈ * __@CODE@__ = 
++Sem/Body_Clth					       !!≈ * __@CODE@__ = 
++Sem/Body_Food					       !!≈ * __@CODE@__ = 
++Sem/Body_Group_Hum				       !!≈ * __@CODE@__ = 
++Sem/Body_Hum					       !!≈ * __@CODE@__ = 
++Sem/Body_Mat					       !!≈ * __@CODE@__ = 
++Sem/Body_Measr					       !!≈ * __@CODE@__ = 
++Sem/Body_Obj_Tool-catch		       !!≈ * __@CODE@__ = 
++Sem/Body_Plc					       !!≈ * __@CODE@__ = 
++Sem/Body_Time					       !!≈ * __@CODE@__ = 
++Sem/Build-part_Plc				       !!≈ * __@CODE@__ = 
++Sem/Build_Build-part			       !!≈ * __@CODE@__ = 
++Sem/Build_Clth-part			       !!≈ * __@CODE@__ = 
++Sem/Build_Edu_Org				       !!≈ * __@CODE@__ = 
++Sem/Build_Event_Org			       !!≈ * __@CODE@__ = 
++Sem/Build_Org					       !!≈ * __@CODE@__ = 
++Sem/Build_Route				       !!≈ * __@CODE@__ = 
++Sem/Clth-jewl_Curr				       !!≈ * __@CODE@__ = 
++Sem/Clth-jewl_Money			       !!≈ * __@CODE@__ = 
++Sem/Clth-jewl_Plant			       !!≈ * __@CODE@__ = 
++Sem/Clth_Hum					       !!≈ * __@CODE@__ = 
++Sem/Ctain-abstr_Org			       !!≈ * __@CODE@__ = 
++Sem/Ctain-clth_Plant			       !!≈ * __@CODE@__ = 
++Sem/Ctain-clth_Veh				       !!≈ * __@CODE@__ = 
++Sem/Ctain_Feat-phys			       !!≈ * __@CODE@__ = 
++Sem/Ctain_Furn					       !!≈ * __@CODE@__ = 
++Sem/Ctain_Tool					       !!≈ * __@CODE@__ = 
++Sem/Ctain_Tool-measr			       !!≈ * __@CODE@__ = 
++Sem/Curr_Org					       !!≈ * __@CODE@__ = 
++Sem/Dance_Org					       !!≈ * __@CODE@__ = 
++Sem/Dance_Prod-audio			       !!≈ * __@CODE@__ = 
++Sem/Domain_Food-med			       !!≈ * __@CODE@__ = 
++Sem/Domain_Prod-audio			       !!≈ * __@CODE@__ = 
++Sem/Edu_Event					       !!≈ * __@CODE@__ = 
++Sem/Edu_Group_Hum				       !!≈ * __@CODE@__ = 
++Sem/Edu_Mat					       !!≈ * __@CODE@__ = 
++Sem/Edu_Org					       !!≈ * __@CODE@__ = 
++Sem/Event_Food					       !!≈ * __@CODE@__ = 
++Sem/Event_Hum					       !!≈ * __@CODE@__ = 
++Sem/Event_Plc					       !!≈ * __@CODE@__ = 
++Sem/Event_Time					       !!≈ * __@CODE@__ = 
++Sem/Feat-phys_Tool-write		       !!≈ * __@CODE@__ = 
++Sem/Feat-phys_Veh				       !!≈ * __@CODE@__ = 
++Sem/Feat-phys_Wthr				       !!≈ * __@CODE@__ = 
++Sem/Feat-psych_Hum				       !!≈ * __@CODE@__ = 
++Sem/Feat_Plant					       !!≈ * __@CODE@__ = 
++Sem/Food_Perc-phys				       !!≈ * __@CODE@__ = 
++Sem/Food_Plant					       !!≈ * __@CODE@__ = 
++Sem/Game_Obj-play				       !!≈ * __@CODE@__ = 
++Sem/Geom_Obj					       !!≈ * __@CODE@__ = 
++Sem/Group_Hum					       !!≈ * __@CODE@__ = 
++Sem/Group_Hum_Org				       !!≈ * __@CODE@__ = 
++Sem/Group_Hum_Plc				       !!≈ * __@CODE@__ = 
++Sem/Group_Hum_Prod-vis			       !!≈ * __@CODE@__ = 
++Sem/Group_Org					       !!≈ * __@CODE@__ = 
++Sem/Group_Sign					       !!≈ * __@CODE@__ = 
++Sem/Group_Txt					       !!≈ * __@CODE@__ = 
++Sem/Hum_Lang					       !!≈ * __@CODE@__ = 
++Sem/Hum_Lang_Plc				       !!≈ * __@CODE@__ = 
++Sem/Hum_Lang_Time				       !!≈ * __@CODE@__ = 
++Sem/Hum_Obj					       !!≈ * __@CODE@__ = 
++Sem/Hum_Org					       !!≈ * __@CODE@__ = 
++Sem/Hum_Plant					       !!≈ * __@CODE@__ = 
++Sem/Hum_Plc					       !!≈ * __@CODE@__ = 
++Sem/Hum_Tool					       !!≈ * __@CODE@__ = 
++Sem/Hum_Veh					       !!≈ * __@CODE@__ = 
++Sem/Hum_Wthr					       !!≈ * __@CODE@__ = 
++Sem/Lang_Tool					       !!≈ * __@CODE@__ = 
++Sem/Mat_Plant					       !!≈ * __@CODE@__ = 
++Sem/Mat_Txt					       !!≈ * __@CODE@__ = 
++Sem/Measr_Time					       !!≈ * __@CODE@__ = 
++Sem/Money_Obj					       !!≈ * __@CODE@__ = 
++Sem/Money_Txt					       !!≈ * __@CODE@__ = 
++Sem/Obj-play					       !!≈ * __@CODE@__ = 
++Sem/Obj-play_Sport				       !!≈ * __@CODE@__ = 
++Sem/Obj_Semcon					       !!≈ * __@CODE@__ = 
++Sem/Clth-jewl_Org				       !!≈ * __@CODE@__ = 
++Sem/Org_Rule					       !!≈ * __@CODE@__ = 
++Sem/Org_Txt					       !!≈ * __@CODE@__ = 
++Sem/Org_Veh					       !!≈ * __@CODE@__ = 
++Sem/Part_Prod-cogn				       !!≈ * __@CODE@__ = 
++Sem/Perc-emo_Wthr				       !!≈ * __@CODE@__ = 
++Sem/Plant_Plant-part			       !!≈ * __@CODE@__ = 
++Sem/Plant_Tool					       !!≈ * __@CODE@__ = 
++Sem/Plant_Tool-measr			       !!≈ * __@CODE@__ = 
++Sem/Plc-abstr_Rel_State		       !!≈ * __@CODE@__ = 
++Sem/Plc-abstr_Route			       !!≈ * __@CODE@__ = 
++Sem/Plc_Pos					       !!≈ * __@CODE@__ = 
++Sem/Plc_Route					       !!≈ * __@CODE@__ = 
++Sem/Plc_Substnc				       !!≈ * __@CODE@__ = 
++Sem/Plc_Substnc_Wthr			       !!≈ * __@CODE@__ = 
++Sem/Plc_Time					       !!≈ * __@CODE@__ = 
++Sem/Plc_Tool-catch				       !!≈ * __@CODE@__ = 
++Sem/Plc_Wthr					       !!≈ * __@CODE@__ = 
++Sem/Prod-audio_Txt				       !!≈ * __@CODE@__ = 
++Sem/Prod-cogn_Txt				       !!≈ * __@CODE@__ = 
++Sem/Semcon_Txt					       !!≈ * __@CODE@__ = 
++Sem/Obj_State					       !!≈ * __@CODE@__ = 
++Sem/Substnc_Wthr				       !!≈ * __@CODE@__ = 
++Sem/Time_Wthr					       !!≈ * __@CODE@__ = 
 
 
 !! Semantics are classified with
-!+Sem/Kin    !!≈ * __@CODE@__  Kinship term (reflected in special PxSg2 forms),
-!+Sem/Divinity !!≈ * __@CODE@__  Divinity (god personified),
-! +Sem/Constellation !!≈ * __@CODE@__  Constellation,
-! +Sem/Kin	  !!≈ * __@CODE@__ Kin term
-! +Sem/Patr   	  !!≈ * __@CODE@__  Patronym
-! +Sem/Rvr    !!≈ * __@CODE@__  name of river or water way, media of transportation,
-! +Sem/Inanim !!≈ * __@CODE@__  Inanimate,
-! +Sem/NonHum !!≈ * __@CODE@__  Nonhuman,
+!+Sem/Kin    !!≈ * __@CODE@__ =  Kinship term (reflected in special PxSg2 forms),
+!+Sem/Divinity !!≈ * __@CODE@__ =  Divinity (god personified),
+! +Sem/Constellation !!≈ * __@CODE@__ =  Constellation,
+! +Sem/Kin	  !!≈ * __@CODE@__ = Kin term
+! +Sem/Patr   	  !!≈ * __@CODE@__ =  Patronym
+! +Sem/Rvr    !!≈ * __@CODE@__ =  name of river or water way, media of transportation,
+! +Sem/Inanim !!≈ * __@CODE@__ =  Inanimate,
+! +Sem/NonHum !!≈ * __@CODE@__ =  Nonhuman,
 
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
- +V→N 	         !!≈ * __@CODE@__ 
-+V→V 	         !!≈ * __@CODE@__ 
-+V→A	         !!≈ * __@CODE@__ 
-+N→A	         !!≈ * __@CODE@__ 
-+Der/xxx        !!≈ * __@CODE@__ 
-+Der/mO	         !!≈ * __@CODE@__ 
+ +V→N 	         !!≈ * __@CODE@__ = 
++V→V 	         !!≈ * __@CODE@__ = 
++V→A	         !!≈ * __@CODE@__ = 
++N→A	         !!≈ * __@CODE@__ = 
++Der/xxx        !!≈ * __@CODE@__ = 
++Der/mO	         !!≈ * __@CODE@__ = 
 
 !! Morphophonology
 ! ---------------
@@ -462,35 +463,35 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 {aä}       !!≈ * @CODE@ for vowel harmony
 {oö}       !!≈ * @CODE@ for vowel harmony
 {uü}       !!≈ * @CODE@ for vowel harmony
-е1 	        !!≈ * __@CODE@__ 
-а1 	        !!≈ * __@CODE@__ 
-и1 	        !!≈ * __@CODE@__ 
-у1 	        !!≈ * __@CODE@__ 
-ӱ1 	        !!≈ * __@CODE@__ 
-я1	        !!≈ * __@CODE@__ 
+е1 	        !!≈ * __@CODE@__ = 
+а1 	        !!≈ * __@CODE@__ = 
+и1 	        !!≈ * __@CODE@__ = 
+у1 	        !!≈ * __@CODE@__ = 
+ӱ1 	        !!≈ * __@CODE@__ = 
+я1	        !!≈ * __@CODE@__ = 
 
 ! JMR 2012-09-18
-Е2 	     !!≈ * __@CODE@__ 
-А2 	     !!≈ * __@CODE@__ 
-Ы1 	     !!≈ * __@CODE@__ 
-Ы2	     !!≈ * __@CODE@__ 
-%>	     !!≈ * __@CODE@__ 
-+TEST    !!≈ * __@CODE@__ 
+Е2 	     !!≈ * __@CODE@__ = 
+А2 	     !!≈ * __@CODE@__ = 
+Ы1 	     !!≈ * __@CODE@__ = 
+Ы2	     !!≈ * __@CODE@__ = 
+%>	     !!≈ * __@CODE@__ = 
++TEST    !!≈ * __@CODE@__ = 
 
 !! And following triggers to control variation
 {front}    !!≈ * @CODE@ 
 {back}     !!≈ * @CODE@ 
-X1      !!≈ * __@CODE@__ 
-X2      !!≈ * __@CODE@__ 
-X3      !!≈ * __@CODE@__ 
-X4      !!≈ * __@CODE@__ 
-X5      !!≈ * __@CODE@__ 
-X6      !!≈ * __@CODE@__ 
-X7      !!≈ * __@CODE@__ 
-X8      !!≈ * __@CODE@__ 
-X9      !!≈ * __@CODE@__ 
-Z1      !!≈ * __@CODE@__ 
-Z2      !!≈ * __@CODE@__ 
+X1      !!≈ * __@CODE@__ = 
+X2      !!≈ * __@CODE@__ = 
+X3      !!≈ * __@CODE@__ = 
+X4      !!≈ * __@CODE@__ = 
+X5      !!≈ * __@CODE@__ = 
+X6      !!≈ * __@CODE@__ = 
+X7      !!≈ * __@CODE@__ = 
+X8      !!≈ * __@CODE@__ = 
+X9      !!≈ * __@CODE@__ = 
+Z1      !!≈ * __@CODE@__ = 
+Z2      !!≈ * __@CODE@__ = 
 %-      !!≈ * @CODE@ 
 
 +Cmp

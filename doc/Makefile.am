@@ -9,18 +9,26 @@
 
 if CAN_DOCC
 
-JSP_PAGES=root-morphology.jspwiki
-# clitics-morphology.jspwiki       \
-# compounding-morphology.jspwiki   \
+JSP_PAGES=root-morphology.jspwiki  \
+		  verbs-affixes.jspwiki \
+		  adjectives-affixes.jspwiki       \
+		  clitics-affixes.jspwiki       \
+		  nouns-affixes.jspwiki            \
+		  numbers-affixes.jspwiki           \
+		  pronouns-affixes.jspwiki           \
+		  propernouns-affixes.jspwiki      \
+		  disambiguation-syntax.jspwiki \
+		  mhr-phon-phonology.jspwiki 
 # abbreviations-stems.jspwiki      \
 # acronyms-stems.jspwiki           \
+# adjectives-oahpa-affixes.jspwiki \
 # adjectives-oahpa-stems.jspwiki   \
 # adjectives-stems.jspwiki         \
 # adpositions-stems.jspwiki        \
 # adverbs-stems.jspwiki            \
+# compounding-morphology.jspwiki   \
 # conjunctions-stems.jspwiki       \
 # interjections-stems.jspwiki      \
-# nouns-oahpa-stems.jspwiki        \
 # nouns-stems.jspwiki              \
 # numerals-stems.jspwiki           \
 # particles-stems.jspwiki          \
@@ -30,12 +38,6 @@ JSP_PAGES=root-morphology.jspwiki
 # smi-propernouns-stems.jspwiki    \
 # subjunctions-stems.jspwiki       \
 # verbs-stems.jspwiki              \
-# adjectives-oahpa-affixes.jspwiki \
-# adjectives-affixes.jspwiki       \
-# nouns-affixes.jspwiki            \
-# propernouns-affixes.jspwiki      \
-# verbs-affixes.jspwiki
-
 ALLINONE_JSP_PAGE=$(srcdir)/$(GTLANG).jspwiki
 
 LINKS=$(srcdir)/Links.jspwiki

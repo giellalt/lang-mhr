@@ -4743,7 +4743,7 @@
       <l pos="Pron">нине</l>
 
       <stg>
-        <st Contlex="PronD">нин%{еы%}</st>
+        <st Contlex="PronDem">нин%{еы%}</st>
       </stg>
 
       <stress>ни•не</stress>
@@ -4753,7 +4753,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>nämä PronD</t>
+        <t>nämä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -4799,7 +4799,7 @@
       <l pos="Pron">нуне</l>
 
       <stg>
-        <st Contlex="PronD">нун%{еы%}</st>
+        <st Contlex="PronDem">нун%{еы%}</st>
       </stg>
     </lg>
 
@@ -4807,7 +4807,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ne PronD</t>
+        <t>ne PronDem</t>
       </tg>
     </mg>
   </e>
@@ -4837,7 +4837,7 @@
       <l pos="Pron">саде</l>
 
       <stg>
-        <st Contlex="PronD">сад%{еы%}</st>
+        <st Contlex="PronDem">сад%{еы%}</st>
       </stg>
 
       <stress>са•де</stress>
@@ -4847,7 +4847,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tuo, se PronD</t>
+        <t>tuo, se PronDem</t>
       </tg>
     </mg>
   </e>
@@ -4857,7 +4857,7 @@
       <l pos="Pron">садлан</l>
 
       <stg>
-        <st Contlex="PronD">садлан</st>
+        <st Contlex="PronDem">садлан</st>
       </stg>
 
       <stress>садла•н</stress>
@@ -4867,7 +4867,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>siksi PronD</t>
+        <t>siksi PronDem</t>
       </tg>
     </mg>
   </e>
@@ -4917,7 +4917,7 @@
       <l pos="Pron">сандене</l>
 
       <stg>
-        <st Contlex="PronD">санден%{еы%}</st>
+        <st Contlex="PronDem">санден%{еы%}</st>
       </stg>
     </lg>
 
@@ -4925,7 +4925,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>siksi PronD</t>
+        <t>siksi PronDem</t>
       </tg>
     </mg>
   </e>
@@ -4935,7 +4935,7 @@
       <l pos="Pron">седе</l>
 
       <stg>
-        <st Contlex="PronD">сед%{еы%}</st>
+        <st Contlex="PronDem">сед%{еы%}</st>
       </stg>
 
       <stress>се•де</stress>
@@ -4945,7 +4945,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tämä PronD</t>
+        <t>tämä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5015,7 +5015,7 @@
       <l pos="Pron">тембал</l>
 
       <stg>
-        <st Contlex="PronD">тембал</st>
+        <st Contlex="PronDem">тембал</st>
       </stg>
     </lg>
 
@@ -5023,7 +5023,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tämä (lähin) PronD</t>
+        <t>tämä (lähin) PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5069,7 +5069,7 @@
       <l pos="Pron">тидат-тудат</l>
 
       <stg>
-        <st Contlex="PronD">тидат-тудат</st>
+        <st Contlex="PronDem">тидат-тудат</st>
       </stg>
     </lg>
 
@@ -5077,7 +5077,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>sitä ja tätä PronD</t>
+        <t>sitä ja tätä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5123,7 +5123,7 @@
       <l pos="Pron">тиде</l>
 
       <stg>
-        <st Contlex="PronD">тид%{еы%}</st>
+        <st Contlex="PronDem">тид%{еы%}</st>
       </stg>
     </lg>
 
@@ -5131,7 +5131,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tämä PronD</t>
+        <t>tämä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5141,7 +5141,7 @@
       <l pos="Pron">тидӱлан</l>
 
       <stg>
-        <st Contlex="PronD">тидӱлан</st>
+        <st Contlex="PronDem">тидӱлан</st>
       </stg>
     </lg>
 
@@ -5149,7 +5149,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tälle PronD</t>
+        <t>tälle PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5307,7 +5307,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>sellainen, tuollainen PronD</t>
+        <t>sellainen, tuollainen PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5337,7 +5337,7 @@
       <l pos="Pron">тугане</l>
 
       <stg>
-        <st Contlex="PronD">туган%{еы%}</st>
+        <st Contlex="PronDem">туган%{еы%}</st>
       </stg>
 
       <stress>туга•не</stress>
@@ -5347,7 +5347,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>sellainen, tuollainen PronD</t>
+        <t>sellainen, tuollainen PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5377,7 +5377,7 @@
       <l pos="Pron">туге</l>
 
       <stg>
-        <st Contlex="PronD">туге</st>
+        <st Contlex="PronDem">туге</st>
       </stg>
 
       <stress>туге•</stress>
@@ -5387,7 +5387,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>siten, niin PronD</t>
+        <t>siten, niin PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5497,7 +5497,7 @@
       <l pos="Pron">туде</l>
 
       <stg>
-        <st Contlex="PronD">туд%{еы%}</st>
+        <st Contlex="PronDem">туд%{еы%}</st>
       </stg>
     </lg>
 
@@ -5505,7 +5505,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tuo, se PronD</t>
+        <t>tuo, se PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5533,7 +5533,7 @@
       <l pos="Pron">тудлан</l>
 
       <stg>
-        <st Contlex="PronD">тудлан</st>
+        <st Contlex="PronDem">тудлан</st>
       </stg>
     </lg>
 
@@ -5541,7 +5541,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tuolle PronD</t>
+        <t>tuolle PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5585,7 +5585,7 @@
       <l pos="Pron">тудыже</l>
 
       <stg>
-        <st Contlex="PronD">тудыж%{еы%}</st>
+        <st Contlex="PronDem">тудыж%{еы%}</st>
       </stg>
     </lg>
 
@@ -5593,7 +5593,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>se (tunnetuista), tuo PronD</t>
+        <t>se (tunnetuista), tuo PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5621,7 +5621,7 @@
       <l pos="Pron">тудым</l>
 
       <stg>
-        <st Contlex="PronD">тудым</st>
+        <st Contlex="PronDem">тудым</st>
       </stg>
     </lg>
 
@@ -5629,7 +5629,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>sitä PronD</t>
+        <t>sitä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5657,7 +5657,7 @@
       <l pos="Pron">тудын</l>
 
       <stg>
-        <st Contlex="PronD">тудын</st>
+        <st Contlex="PronDem">тудын</st>
       </stg>
     </lg>
 
@@ -5665,7 +5665,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>sen PronD</t>
+        <t>sen PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5735,7 +5735,7 @@
       <l pos="Pron">тунам</l>
 
       <stg>
-        <st Contlex="PronD">тунам</st>
+        <st Contlex="PronDem">тунам</st>
       </stg>
 
       <stress>туна•м</stress>
@@ -5745,7 +5745,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>silloin PronD</t>
+        <t>silloin PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5835,7 +5835,7 @@
       <l pos="Pron">тунар</l>
 
       <stg>
-        <st Contlex="PronD">тунар</st>
+        <st Contlex="PronDem">тунар</st>
       </stg>
 
       <stress>туна•р</stress>
@@ -5845,7 +5845,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>niin/näin paljon; (mitä...) sitä PronD</t>
+        <t>niin/näin paljon; (mitä...) sitä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5855,7 +5855,7 @@
       <l pos="Pron">тунаре</l>
 
       <stg>
-        <st Contlex="PronD">тунар%{еы%}</st>
+        <st Contlex="PronDem">тунар%{еы%}</st>
       </stg>
 
       <stress>туна•ре</stress>
@@ -5865,7 +5865,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>niin/näin paljon; (mitä...) sitä PronD</t>
+        <t>niin/näin paljon; (mitä...) sitä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5915,7 +5915,7 @@
       <l pos="Pron">туш</l>
 
       <stg>
-        <st Contlex="PronD">туш</st>
+        <st Contlex="PronDem">туш</st>
       </stg>
 
       <stress>туш</stress>
@@ -5925,7 +5925,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>sinne PronD</t>
+        <t>sinne PronDem</t>
       </tg>
     </mg>
   </e>
@@ -5975,7 +5975,7 @@
       <l pos="Pron">тушак</l>
 
       <stg>
-        <st Contlex="PronD">тушак</st>
+        <st Contlex="PronDem">тушак</st>
       </stg>
     </lg>
 
@@ -5983,7 +5983,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>sinne PronD</t>
+        <t>sinne PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6013,7 +6013,7 @@
       <l pos="Pron">тушан</l>
 
       <stg>
-        <st Contlex="PronD">тушан</st>
+        <st Contlex="PronDem">тушан</st>
       </stg>
 
       <stress>туша•н</stress>
@@ -6023,7 +6023,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>siellä PronD</t>
+        <t>siellä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6053,7 +6053,7 @@
       <l pos="Pron">тушеч</l>
 
       <stg>
-        <st Contlex="PronD">тушеч</st>
+        <st Contlex="PronDem">тушеч</st>
       </stg>
 
       <stress>туше•ч</stress>
@@ -6063,7 +6063,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tuolta, sieltä PronD</t>
+        <t>tuolta, sieltä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6073,7 +6073,7 @@
       <l pos="Pron">тушечын</l>
 
       <stg>
-        <st Contlex="PronD">тушечын</st>
+        <st Contlex="PronDem">тушечын</st>
       </stg>
 
       <stress>туше•чын</stress>
@@ -6083,7 +6083,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tuolta, sieltä PronD</t>
+        <t>tuolta, sieltä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6093,7 +6093,7 @@
       <l pos="Pron">тушке</l>
 
       <stg>
-        <st Contlex="PronD">тушк%{еы%}</st>
+        <st Contlex="PronDem">тушк%{еы%}</st>
       </stg>
     </lg>
 
@@ -6101,7 +6101,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>sinne PronD</t>
+        <t>sinne PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6131,7 +6131,7 @@
       <l pos="Pron">туште</l>
 
       <stg>
-        <st Contlex="PronD">тушт%{еы%}</st>
+        <st Contlex="PronDem">тушт%{еы%}</st>
       </stg>
     </lg>
 
@@ -6139,7 +6139,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>siinä, siellä, tuolla PronD</t>
+        <t>siinä, siellä, tuolla PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6169,7 +6169,7 @@
       <l pos="Pron">ты</l>
 
       <stg>
-        <st Contlex="PronD">ты</st>
+        <st Contlex="PronDem">ты</st>
       </stg>
 
       <stress>ты</stress>
@@ -6179,7 +6179,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tämä PronD</t>
+        <t>tämä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6289,7 +6289,7 @@
       <l pos="Pron">тыгай</l>
 
       <stg>
-        <st Contlex="PronD">тыгай</st>
+        <st Contlex="PronDem">тыгай</st>
       </stg>
 
       <stress>тыга•й</stress>
@@ -6299,7 +6299,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tällainen, sellainen PronD</t>
+        <t>tällainen, sellainen PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6349,7 +6349,7 @@
       <l pos="Pron">тыгане</l>
 
       <stg>
-        <st Contlex="PronD">тыган%{еы%}</st>
+        <st Contlex="PronDem">тыган%{еы%}</st>
       </stg>
 
       <stress>тыга•не</stress>
@@ -6359,7 +6359,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tälläinen, sellainen PronD</t>
+        <t>tälläinen, sellainen PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6369,7 +6369,7 @@
       <l pos="Pron">тыгат</l>
 
       <stg>
-        <st Contlex="PronD">тыгат</st>
+        <st Contlex="PronDem">тыгат</st>
       </stg>
     </lg>
 
@@ -6377,7 +6377,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>niinkin PronD</t>
+        <t>niinkin PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6387,7 +6387,7 @@
       <l pos="Pron">тыгат-тугат</l>
 
       <stg>
-        <st Contlex="PronD">тыгат-тугат</st>
+        <st Contlex="PronDem">тыгат-тугат</st>
       </stg>
     </lg>
 
@@ -6395,7 +6395,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>niin ja näin PronD</t>
+        <t>niin ja näin PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6445,7 +6445,7 @@
       <l pos="Pron">тыге</l>
 
       <stg>
-        <st Contlex="PronD">тыг%{еы%}</st>
+        <st Contlex="PronDem">тыг%{еы%}</st>
       </stg>
 
       <stress>тыге•</stress>
@@ -6455,7 +6455,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>täten, tällä tavalla, näin, niin PronD</t>
+        <t>täten, tällä tavalla, näin, niin PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6739,7 +6739,7 @@
       <l pos="Pron">тылеч</l>
 
       <stg>
-        <st Contlex="PronD">тылеч</st>
+        <st Contlex="PronDem">тылеч</st>
       </stg>
 
       <stress>тыле•ч</stress>
@@ -6749,7 +6749,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tämän, tätä PronD</t>
+        <t>tämän, tätä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6819,7 +6819,7 @@
       <l pos="Pron">тынар</l>
 
       <stg>
-        <st Contlex="PronD">тынар</st>
+        <st Contlex="PronDem">тынар</st>
       </stg>
 
       <stress>тына•р</stress>
@@ -6829,7 +6829,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>näin/niin paljon PronD</t>
+        <t>näin/niin paljon PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6839,7 +6839,7 @@
       <l pos="Pron">тынарак</l>
 
       <stg>
-        <st Contlex="PronD">тынарак</st>
+        <st Contlex="PronDem">тынарак</st>
       </stg>
     </lg>
 
@@ -6847,7 +6847,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>yhtä paljon PronD</t>
+        <t>yhtä paljon PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6857,7 +6857,7 @@
       <l pos="Pron">тынаре</l>
 
       <stg>
-        <st Contlex="PronD">тынар%{еы%}</st>
+        <st Contlex="PronDem">тынар%{еы%}</st>
       </stg>
 
       <stress>тына•ре</stress>
@@ -6867,7 +6867,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>näin/niin paljon PronD</t>
+        <t>näin/niin paljon PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6897,7 +6897,7 @@
       <l pos="Pron">тыш</l>
 
       <stg>
-        <st Contlex="PronD">тыш</st>
+        <st Contlex="PronDem">тыш</st>
       </stg>
 
       <stress>тыш</stress>
@@ -6907,7 +6907,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tänne, tähän PronD</t>
+        <t>tänne, tähän PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6937,7 +6937,7 @@
       <l pos="Pron">тышак</l>
 
       <stg>
-        <st Contlex="PronD">тышак</st>
+        <st Contlex="PronDem">тышак</st>
       </stg>
 
       <stress>тыша•к</stress>
@@ -6947,7 +6947,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tässä, täällä PronD</t>
+        <t>tässä, täällä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6977,7 +6977,7 @@
       <l pos="Pron">тышан</l>
 
       <stg>
-        <st Contlex="PronD">тышан</st>
+        <st Contlex="PronDem">тышан</st>
       </stg>
 
       <stress>тыша•н</stress>
@@ -6987,7 +6987,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tässä, täällä PronD</t>
+        <t>tässä, täällä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -6997,7 +6997,7 @@
       <l pos="Pron">тышан-тушан</l>
 
       <stg>
-        <st Contlex="PronD">тышан-тушан</st>
+        <st Contlex="PronDem">тышан-тушан</st>
       </stg>
     </lg>
 
@@ -7005,7 +7005,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>siellä (sun) täällä PronD</t>
+        <t>siellä (sun) täällä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -7035,7 +7035,7 @@
       <l pos="Pron">тышеч</l>
 
       <stg>
-        <st Contlex="PronD">тышеч</st>
+        <st Contlex="PronDem">тышеч</st>
       </stg>
 
       <stress>тыше•ч</stress>
@@ -7045,7 +7045,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>täältä, tästä PronD</t>
+        <t>täältä, tästä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -7055,7 +7055,7 @@
       <l pos="Pron">тышеч-тушеч</l>
 
       <stg>
-        <st Contlex="PronD">тышеч-тушеч</st>
+        <st Contlex="PronDem">тышеч-тушеч</st>
       </stg>
     </lg>
 
@@ -7063,7 +7063,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>sieltä (sun) täältä, hädin tuskin PronD</t>
+        <t>sieltä (sun) täältä, hädin tuskin PronDem</t>
       </tg>
     </mg>
   </e>
@@ -7073,7 +7073,7 @@
       <l pos="Pron">тышечын</l>
 
       <stg>
-        <st Contlex="PronD">тышечын</st>
+        <st Contlex="PronDem">тышечын</st>
       </stg>
 
       <stress>тыше•чын</stress>
@@ -7083,7 +7083,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>täältä, tästä PronD</t>
+        <t>täältä, tästä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -7113,7 +7113,7 @@
       <l pos="Pron">тышкат-тушкат</l>
 
       <stg>
-        <st Contlex="PronD">тышкат-тушкат</st>
+        <st Contlex="PronDem">тышкат-тушкат</st>
       </stg>
     </lg>
 
@@ -7121,7 +7121,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>sinne (ja) tänne PronD</t>
+        <t>sinne (ja) tänne PronDem</t>
       </tg>
     </mg>
   </e>
@@ -7151,7 +7151,7 @@
       <l pos="Pron">тышке</l>
 
       <stg>
-        <st Contlex="PronD">тышк%{еы%}</st>
+        <st Contlex="PronDem">тышк%{еы%}</st>
       </stg>
 
       <stress>ты•шке</stress>
@@ -7161,7 +7161,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>tänne, tähän PronD</t>
+        <t>tänne, tähän PronDem</t>
       </tg>
     </mg>
   </e>
@@ -7179,7 +7179,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>sinne (sun) tänne, jotakuinkin PronD</t>
+        <t>sinne (sun) tänne, jotakuinkin PronDem</t>
       </tg>
     </mg>
   </e>
@@ -7309,7 +7309,7 @@
       <l pos="Pron">тыште</l>
 
       <stg>
-        <st Contlex="PronD">тышт%{еы%}</st>
+        <st Contlex="PronDem">тышт%{еы%}</st>
       </stg>
 
       <stress>ты•ште</stress>
@@ -7319,7 +7319,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>täällä, tässä PronD</t>
+        <t>täällä, tässä PronDem</t>
       </tg>
     </mg>
   </e>
@@ -7329,7 +7329,7 @@
       <l pos="Pron">тыште-туште</l>
 
       <stg>
-        <st Contlex="PronD">тыште-тушт%{еы%}</st>
+        <st Contlex="PronDem">тыште-тушт%{еы%}</st>
       </stg>
     </lg>
 
@@ -7337,7 +7337,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>siellä täällä, paikoin PronD</t>
+        <t>siellä täällä</t>
+        <t>paikoin</t>
       </tg>
     </mg>
   </e>

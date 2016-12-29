@@ -1,0 +1,205 @@
+
+Eastern Mari disambiguation file
+
+
+ !!!Delimiters 
+
+Sentence delimiters: "<.>" "<!>" "<?>" "<...>" "<¶>" sent 
+
+
+!!!Tags and sets 
+
+
+!!Tags
+
+This section lists all the tags inherited from the fst, and used as tags
+in the syntactic analysis. The next section, __Sets__, contains sets defined
+on the basis of the tags listed here, those set names are not visible in the output.
+
+
+Beginning and end of sentence
+
+BOS
+EOS
+
+
+
+
+!Parts of speech tags
+
+N
+V
+A
+Adv
+CC
+CS
+Interj
+Pron
+Num
+Pcle
+Clt
+Po
+
+WORD is the set of all POS
+
+!Verbal morphology tags
+
+ConNeg
+Cond
+Des
+Fut
+Ger
+Imprt
+Imprt
+Ind
+Inf
+Nec
+Neg
+Pl1
+Pl2
+Pl3
+Pos
+Prf
+Prs
+Prt1
+Prt2
+Sg1
+Sg2
+Sg3
+
+!Numeral tags
+
+Sg
+Pl
+
+!Case tags
+
+Nom
+Gen
+Abl
+Dat
+Com
+Cns
+Acc
+Ins
+Ine
+Ill
+Cmpr (case)
+
+!Other nominal tags
+
+
+
+
+
+
+Dem
+ABBR
+
+!Adjective comparison tags
+Superl
+Comp
+
+!Possessive suffix tags
+
+PxSg1 
+PxSg2 
+PxSg3 
+PxPl1 
+PxPl2 
+PxPl3 
+
+!Mumeral tags
+
+
+!Punctuation marks
+CLB
+PUCT
+LEFT
+RIGHT
+COMMA
+
+!Derivation tags
+Der/MWN
+Der/sa
+
+!!Sets
+
+* __CASE__ = all cases
+* __OBLCASE__ = All cases except Nom
+* __VFIN__ = All moods
+
+Rule section
+
+
+* __Dem__ if noun follows
+
+
+!!Early, word-internal rules
+
+* __CmpTst__ remove CmpTst if not 1 N
+* __CmpTst2__ Select CmpTst in all other cases
+
+
+!CC or Pcle
+
+
+!Derivations
+
+* __RemDerMWN__ if noun follows
+* __Dersa__ if noun follows
+* __SelDerMWN__ select Der/MWN if noun follows
+
+!Cases
+
+* __AccNeedsVerb__ prefers Nom (TODO: does this make sense?)
+
+!Numerals
+
+
+!Pronouns
+
+!Postpositions
+
+* __PoNeedsGen__ removes postposition if the word to the left is not Gen
+
+
+!!Verbs
+
+!Finite verb or Gerundium
+
+* __FinNotGer__ removes Ger if there is a Ind Prt2 Sg3 in the clause
+
+!First or third person
+
+* __Sg1NotSg3__ removes Prt1 Sg3 when Pers Sg1 Nom in same clause
+
+* __Sg3NotSg1__ removes Prt1 Sg1 when there is no Pers Sg1 Nom in same clause
+** This may be too strong, it precludes zero Sg1 subjects
+
+!ConNeg or not
+* __NoConNeg1__ No ConNeg if no Neg to the left
+* __NoConNeg2__ No ConNeg if another ConNeg to the left
+
+!Imperative or noun
+
+* __NotImpWhenInd__
+* __NotImpWhenWords1__
+* __NotImpWhenWords2__
+
+!да
+
+* __da1__ Adv initially
+
+* __da2__ CC elsewhere
+
+!и
+
+!Interjection
+
+* __NoExclNoInterj__
+
+
+
+
+__AifVövny__ selects A if вӧвны somewhere to the left

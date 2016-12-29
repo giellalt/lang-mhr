@@ -55,7 +55,7 @@ Case suffixes
 
  * LEXICON N-SG-ACC 
 
- * LEXICON N-SG-CMP 
+ * LEXICON N-SG-CMPR 
 
  * LEXICON N-SG-COM 
 
@@ -84,7 +84,7 @@ Case suffixes
 
  * LEXICON N-PL-ACC 
 
- * LEXICON N-PL-CMP 
+ * LEXICON N-PL-CMPR 
 
  * LEXICON N-PL-COM 
 
@@ -106,7 +106,7 @@ Case suffixes
 
  * LEXICON N-SG-PxSg1-ACC 
 
- * LEXICON N-SG-PxSg1-CMP 
+ * LEXICON N-SG-PxSg1-CMPR 
 
  * LEXICON N-SG-PxSg1-COM 
 
@@ -127,7 +127,7 @@ Case suffixes
 
  * LEXICON N-PL-PxSg1-ACC 
 
- * LEXICON N-PL-PxSg1-CMP 
+ * LEXICON N-PL-PxSg1-CMPR  
 
  * LEXICON N-PL-PxSg1-COM 
 
@@ -148,7 +148,7 @@ Case suffixes
 
  * LEXICON N-SG-PxSg2-ACC 
 
- * LEXICON N-SG-PxSg2-CMP 
+ * LEXICON N-SG-PxSg2-CMPR 
 
  * LEXICON N-SG-PxSg2-COM 
 
@@ -169,7 +169,7 @@ Case suffixes
 
  * LEXICON N-PL-PxSg2-ACC 
 
- * LEXICON N-PL-PxSg2-CMP 
+ * LEXICON N-PL-PxSg2-CMPR 
 
  * LEXICON N-PL-PxSg2-COM 
 
@@ -188,7 +188,7 @@ Case suffixes
 
  * LEXICON N-SG-PxSg3-ACC 
 
- * LEXICON N-SG-PxSg3-CMP 
+ * LEXICON N-SG-PxSg3-CMPR 
 
  * LEXICON N-SG-PxSg3-COM 
 
@@ -209,7 +209,7 @@ Case suffixes
 
  * LEXICON N-PL-PxSg3-ACC 
 
- * LEXICON N-PL-PxSg3-CMP 
+ * LEXICON N-PL-PxSg3-CMPR 
 
  * LEXICON N-PL-PxSg3-COM 
 
@@ -230,7 +230,7 @@ Case suffixes
 
  * LEXICON N-SG-PxPl1-ACC 
 
- * LEXICON N-SG-PxPl1-CMP 
+ * LEXICON N-SG-PxPl1-CMPR 
 
  * LEXICON N-SG-PxPl1-COM 
 
@@ -251,7 +251,7 @@ Case suffixes
 
  * LEXICON N-PL-PxPl1-ACC 
 
- * LEXICON N-PL-PxPl1-CMP 
+ * LEXICON N-PL-PxPl1-CMPR 
 
  * LEXICON N-PL-PxPl1-COM 
 
@@ -272,7 +272,7 @@ Case suffixes
 
  * LEXICON N-SG-PxPl2-ACC 
 
- * LEXICON N-SG-PxPl2-CMP 
+ * LEXICON N-SG-PxPl2-CMPR 
 
  * LEXICON N-SG-PxPl2-COM 
 
@@ -291,7 +291,7 @@ Case suffixes
 
  * LEXICON N-PL-PxPl2-ACC 
 
- * LEXICON N-PL-PxPl2-CMP 
+ * LEXICON N-PL-PxPl2-CMPR 
 
  * LEXICON N-PL-PxPl2-COM 
 
@@ -312,7 +312,7 @@ Case suffixes
 
  * LEXICON N-SG-PxPl3-ACC 
 
- * LEXICON N-SG-PxPl3-CMP 
+ * LEXICON N-SG-PxPl3-CMPR 
 
  * LEXICON N-SG-PxPl3-COM 
 
@@ -332,7 +332,7 @@ Case suffixes
 
  * LEXICON N-PL-PxPl3-ACC 
 
- * LEXICON N-PL-PxPl3-CMP 
+ * LEXICON N-PL-PxPl3-CMPR 
 
  * LEXICON N-PL-PxPl3-COM 
 
