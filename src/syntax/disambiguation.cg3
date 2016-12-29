@@ -1,227 +1,269 @@
 
+#!! Eastern Mari disambiguation file
 
 
-
-# ========== #
-# Delimiters #
-# ========== #
+# ================ #
+#!!  !!!Delimiters 
+# ================ #
 
 DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" sent ;
+#!! Sentence delimiters: "<.>" "<!>" "<?>" "<...>" "<¶>" sent 
 
 #PARENTHESES = "<$(>" "<$)>" "<$[>" "<$]>" "<${>" "<$}>" "<$«>" "<$»>" ;
 
 # ============= #
-# Tags and sets #
+#!! !!!Tags and sets 
 # ============= #
 
 SETS
 
-# I define end of clause and beginning of clause in a way so that the file
-# may be read both by the CG-2 and the vislcg formalisms.
+#!! !!Tags
 
-LIST BOS = (>>>) (<s>);
-LIST EOS = (<<<) (</s>);
+#!! This section lists all the tags inherited from the fst, and used as tags
+#!! in the syntactic analysis. The next section, __Sets__, contains sets defined
+#!! on the basis of the tags listed here, those set names are not visible in the output.
+
+
+#!! Beginning and end of sentence
+
+LIST BOS = (>>>) (<s>); #!! BOS
+LIST EOS = (<<<) (</s>); #!! EOS
+
+# We define end of clause and beginning of clause in a way so that the file
+# may be read both by the CG-2 and the vislcg formalisms.
 
 LIST CmpTest = CmpTest ;
 
 LIST Err = Err ; 
 
-LIST N = N ; 
-LIST V = V ; 
-LIST A = A ; 
+#!! !Parts of speech tags
 
-LIST Adv = Adv ; 
-LIST CC = CC ; 
-LIST CS = CS ; 
-LIST Interj = Interj interj ij; 
-LIST Pron = Pron ; 
-LIST Num = Num ; 
-LIST Pcle = Pcle ; 
-LIST Clt = Clt ; 
-LIST Po = Po ; 
-LIST Dem = Dem ;
+LIST N = N ;                    #!! N
+LIST V = V ;                    #!! V
+LIST A = A ;                    #!! A
+LIST Adv = Adv ; 				#!! Adv
+LIST CC = CC ; 					#!! CC
+LIST CS = CS ; 					#!! CS
+LIST Interj = Interj interj ij; #!! Interj
+LIST Pron = Pron ; 				#!! Pron
+LIST Num = Num ; 				#!! Num
+LIST Pcle = Pcle ; 				#!! Pcle
+LIST Clt = Clt ; 				#!! Clt
+LIST Po = Po ; 					#!! Po
 
+#!! WORD is the set of all POS
 LIST WORD = N V A Adv CC CS Interj Pron Num Pcle Clt Po ;
 
+#!! !Verbal morphology tags
 
-LIST Prs = Prs ; 
-LIST Fut = Fut ; 
-LIST Fut1 = Fut1 ; 
-LIST Imprt = Imprt ;
-LIST Prt1 = Prt1 ; 
-LIST Prt2 = Prt2 ; 
-LIST Prf = Prf ; 
-LIST PrfIpf = PrfIpf ; 
-LIST HstPrf = HstPrf ; 
-LIST PluPrf = PluPrf ; 
-LIST HstPluPrf = HstPluPrf ; 
-LIST Ind = Ind ind ; 
-LIST Imp = Imp ; 
-LIST Cond = Cond cond ; 
-LIST Opt = Opt opt ; 
+LIST ConNeg = ConNeg conneg; #!! ConNeg
+LIST Cond = Cond cond ; 	 #!! Cond
+LIST Des = Des des ;		 #!! Des
+LIST Fut = Fut ; 			 #!! Fut
+LIST Ger = Ger ger ;		 #!! Ger
+LIST Imprt = Imprt ;		 #!! Imprt
+LIST Imprt = Imprt ; 		 #!! Imprt
+LIST Ind = Ind ind ; 		 #!! Ind
+LIST Inf = Inf ; 			 #!! Inf
+LIST Nec = Nec nec ;         #!! Nec
+LIST Neg = Neg neg ; 		 #!! Neg
+LIST Pl1 = Pl1 ; 			 #!! Pl1
+LIST Pl2 = Pl2 ; 			 #!! Pl2
+LIST Pl3 = Pl3 ; 			 #!! Pl3
+LIST Pos = Pos ; 			 #!! Pos
+LIST Prf = Prf ; 			 #!! Prf
+LIST Prs = Prs ; 			 #!! Prs
+LIST Prt1 = Prt1 ; 			 #!! Prt1
+LIST Prt2 = Prt2 ; 			 #!! Prt2
+LIST Sg1 = Sg1 ; 			 #!! Sg1
+LIST Sg2 = Sg2 ; 			 #!! Sg2
+LIST Sg3 = Sg3 ; 			 #!! Sg3
 
-LIST Sg1 = Sg1 ; 
-LIST Sg2 = Sg2 ; 
-LIST Sg3 = Sg3 ; 
-LIST Pl1 = Pl1 ; 
-LIST Pl2 = Pl2 ; 
-LIST Pl3 = Pl3 ; 
-LIST Inf = Inf ; 
-LIST Pos = Pos ; 
-LIST Neg = Neg neg ; 
-LIST ConNeg = ConNeg conneg; 
+#!! !Numeral tags
 
-LIST Sg = Sg sg ; 
-LIST Pl = Pl pl ; 
-LIST Nom = Nom nom ; 
-LIST Gen = Gen gen ; 
-LIST Abl = Abl abl ; 
-LIST Dat = Dat dat ; 
-LIST Com = Com com ; 
-LIST Cns = Cns cns ; 
+LIST Sg = Sg sg ; 	  #!! Sg
+LIST Pl = Pl pl ; 	  #!! Pl
 
-LIST Acc = Acc acc ; 
-LIST Ins = Ins ins ; 
-LIST Ine = Ine ine ; 
-LIST Ill = Ill ill ; 
+#!! !Case tags
 
-LIST Ela = Ela ela ; 
-LIST Car = Car car ; 
-LIST Egr = Egr egr ; 
-LIST Tra = Tra tra ; 
+LIST Nom = Nom nom ;  #!! Nom
+LIST Gen = Gen gen ;  #!! Gen
+LIST Abl = Abl abl ;  #!! Abl
+LIST Dat = Dat dat ;  #!! Dat
+LIST Com = Com com ;  #!! Com
+LIST Cns = Cns cns ;  #!! Cns
+LIST Acc = Acc acc ;   #!! Acc
+LIST Ins = Ins ins ;   #!! Ins
+LIST Ine = Ine ine ;   #!! Ine
+LIST Ill = Ill ill ;   #!! Ill
+LIST Cmpr = Cmpr ; 	   #!! Cmpr (case)
+		
+#!! !Other nominal tags
+					   
+LIST Pers = Pers ;	   #!! 
+LIST Refl = Refl ; 	   #!! 
+LIST Rel = Rel ; 	   #!! 
+LIST Interr = Interr ; #!! 
+LIST Recipr = Recipr ; #!! 
+LIST Dem = Dem ;				#!! Dem
+LIST ABBR = ABBR ;	  #!! ABBR
 
-LIST Apr = Apr apr ; 
-LIST Ter = Ter ter ; 
-LIST Abe = Abe abe ; 
-LIST Prl = Prl prl ; 
+#!! !Adjective comparison tags
+LIST Superl = Superl ; #!! Superl
+LIST Comp = Comp ; 	   #!! Comp
 
-LIST HabObj = HabObj ; 
-LIST Instr = Instr ; 
-LIST Superl = Superl ; 
-LIST Comp = Comp ; 
+#!! !Possessive suffix tags
 
-LIST Pers = Pers ;
-LIST Refl = Refl ; 
-LIST Rel = Rel ; 
-LIST Interr = Interr ; 
-LIST Recipr = Recipr ; 
+LIST PxSg1 = PxSg1 ; #!! PxSg1 
+LIST PxSg2 = PxSg2 ; #!! PxSg2 
+LIST PxSg3 = PxSg3 ; #!! PxSg3 
+LIST PxPl1 = PxPl1 ; #!! PxPl1 
+LIST PxPl2 = PxPl2 ; #!! PxPl2 
+LIST PxPl3 = PxPl3 ; #!! PxPl3 
 
-LIST PxSg1 = PxSg1 ; 
-LIST PxSg2 = PxSg2 ; 
-LIST PxSg3 = PxSg3 ; 
-LIST PxPl1 = PxPl1 ; 
-LIST PxPl2 = PxPl2 ; 
-LIST PxPl3 = PxPl3 ; 
-
+#!! !Mumeral tags
 LIST Card = Card ; 
-
 LIST Coll = Coll ; 
-LIST Comp = Comp ; 
-
 LIST Ord = Ord ; 
 LIST Temp = Temp ; 
 
-LIST AN = AN ; 
-LIST ANA = ANA ; 
-LIST ANAA = ANAA ; 
-LIST CHOZH = CHOZH ; 
-LIST IG = IG ; 
+#LIST AN = AN ; 
+#LIST ANA = ANA ; 
+#LIST ANAA = ANAA ; 
+#LIST CHOZH = CHOZH ; 
+#LIST IG = IG ; 
+#
+#LIST Instr = Instr ; 
+#
+#LIST KEZHLO = KEZHLO ; 
+#LIST MOZ = MOZ ; 
+#LIST MYS = MYS ; 
+#LIST MYST = MYST ; 
+#LIST OM = OM ; 
+#
+#LIST SOR = SOR ; 
+#LIST TODZ = TODZ ; 
+#LIST TYR = TYR ; 
+#LIST TYRJI = TYRJI ; 
 
-LIST Instr = Instr ; 
+#!! !Punctuation marks
+LIST CLB = CLB ; 	  #!! CLB
+LIST PUNCT = PUNCT ;  #!! PUCT
+LIST LEFT = LEFT ; 	  #!! LEFT
+LIST RIGHT = RIGHT ;  #!! RIGHT
+LIST COMMA = "," ;	  #!! COMMA
 
-LIST KEZHLO = KEZHLO ; 
-LIST MOZ = MOZ ; 
-LIST MYS = MYS ; 
-LIST MYST = MYST ; 
-LIST OM = OM ; 
+#!! !Derivation tags
+LIST Der/MWN = Der/MWN ; #!! Der/MWN
+LIST Der/са = Der/са ;	 #!! Der/sa
 
-LIST SOR = SOR ; 
-LIST TODZ = TODZ ; 
-LIST TYR = TYR ; 
-LIST TYRJI = TYRJI ; 
+#!! !!Sets
 
-LIST CLB = CLB ; 
-LIST PUNCT = PUNCT ; 
-LIST ABBR = ABBR ;
-LIST LEFT = LEFT ; 
-LIST RIGHT = RIGHT ; 
-LIST COMMA = "," ;
+LIST CASE = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Cmpr ; #!! * __CASE__ = all cases
+SET OBLCASE = CASE - Nom ; #!! * __OBLCASE__ = All cases except Nom
+SET VFIN = Ind | Cond | Des | Imprt ; #!! * __VFIN__ = All moods
 
-LIST Der/MWN = Der/MWN ;
-LIST Der/са = Der/са ;
-
-LIST CASE = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Ela Car Egr Tra Apr Ter Abe Prl ;
-SET OBLCASE = CASE - Nom ;
-
-SET V-FIN = Ind | Cond | Opt ; 
+#!! Rule section
 
 SECTION
 
+#!! * __Dem__ if noun follows
+SELECT:Dem Dem IF (0 Dem)(1 N + Nom);
 
-SELECT Dem IF (0 Dem)(1 N + Nom);
 
+#!! !!Early, word-internal rules
 
-# Early, word-internal rules
-
+#!! * __CmpTst__ remove CmpTst if not 1 N
 REMOVE:CmpTst CmpTest IF (NOT 1 N);
+#!! * __CmpTst2__ Select CmpTst in all other cases
 SELECT:CmpTst2 CmpTest ; # Kill'em all
 
 
-# CC or Pcle
+#!! !CC or Pcle
 
-REMOVE CC IF (-1 BOS)(0 Pcle);
+REMOVE:PcleNotCC CC IF (-1 BOS)(0 Pcle);
 
-# Derivations
-REMOVE (Der/MWN N Nom) IF (1 N);	
-REMOVE Der/са IF (0 ("<(.*)са>"r) + A);
-SELECT (Der/MWN) IF (0 A)(*1 EOS BARRIER N);
+#!! !Derivations
+
+#!! * __RemDerMWN__ if noun follows
+REMOVE:RemDerMWN (Der/MWN N Nom) IF (1 N);	
+#!! * __Dersa__ if noun follows
+REMOVE:Dersa Der/са IF (0 ("<(.*)са>"r) + A);
+#!! * __SelDerMWN__ select Der/MWN if noun follows
+SELECT:SelDerMWN (Der/MWN) IF (0 A)(*1 EOS BARRIER N);
 	
-# Cases
+#!! !Cases
 
-# Numerals
+#!! * __AccNeedsVerb__ prefers Nom (TODO: does this make sense?)
+REMOVE:AccNeedsVerb Acc IF (0C Nom OR Acc) (NOT -1* VFIN BARRIER BOS) (NOT -1* VFIN BARRIER EOS);
 
-REMOVE (Abs) IF (0 Der/MWN + N + Sg + Nom);
+#!! !Numerals
 
-# Pronouns
+REMOVE:IkNum (Pron) IF (0 ("ик"))(1 N + Sg); 
+
+#!! !Pronouns
 REMOVE Interr IF (-2 N)(-1 (","))(0 Rel);
 
-# Verbs
-# =====
+#!! !Postpositions
 
-# First or third person
+#!! * __PoNeedsGen__ removes postposition if the word to the left is not Gen
+REMOVE:PoNeedsGen Po IF (NOT -1 Gen);
 
-REMOVE (Prt1 Sg3) IF (*-1 (Pers Sg1 Nom) BARRIER N + Nom OR Pers + Sg3 + Nom)(0 (V Prt1 Sg1));
 
-REMOVE (Prt1 Sg1) IF (NOT *0 (Pers Sg1 Nom)) ;
-# This may be too strong, it precludes zero Sg1 subjects
+#!! !!Verbs
+#     =====
 
-# ConNeg or not
-REMOVE ConNeg IF (NOT *-1 Neg BARRIER CLB);
-REMOVE ConNeg IF (-1* ConNeg BARRIER Neg);
+#!! !Finite verb or Gerundium
 
-# Imperative or noun
+#!! * __FinNotGer__ removes Ger if there is a Ind Prt2 Sg3 in the clause
+REMOVE:FinNotGer Ger IF (0 Ind + Prt2 + Sg3)(NOT *0 VFIN);
 
+#!! !First or third person
+
+#!! * __Sg1NotSg3__ removes Prt1 Sg3 when Pers Sg1 Nom in same clause
+REMOVE:Sg1NotSg3 (Prt1 Sg3) IF (*-1 (Pers Sg1 Nom) BARRIER N + Nom OR Pers + Sg3 + Nom)(0 (V Prt1 Sg1));
+
+#!! * __Sg3NotSg1__ removes Prt1 Sg1 when there is no Pers Sg1 Nom in same clause
+REMOVE:Sg3NotSg1 (Prt1 Sg1) IF (NOT *0 (Pers Sg1 Nom)) ;
+#!! ** This may be too strong, it precludes zero Sg1 subjects
+
+#!! !ConNeg or not
+#!! * __NoConNeg1__ No ConNeg if no Neg to the left
+REMOVE:NoConNeg1 ConNeg IF (NOT *-1 Neg BARRIER CLB);
+#!! * __NoConNeg2__ No ConNeg if another ConNeg to the left
+REMOVE:NoConNeg2 ConNeg IF (-1* ConNeg BARRIER Neg);
+
+#!! !Imperative or noun
+
+#!! * __NotImpWhenInd__
 REMOVE:NotImpWhenInd Imprt IF (*-1C Ind);
-REMOVE:NotImpWhenWords Imprt IF (-1 N)(0 N);
-REMOVE:NotImpWhenWords Imprt IF (-1 WORD LINK *-1 BOS BARRIER Imprt);
+#!! * __NotImpWhenWords1__
+REMOVE:NotImpWhenWords1 Imprt IF (-1 N)(0 N);
+#!! * __NotImpWhenWords2__
+REMOVE:NotImpWhenWords2 Imprt IF (-1 WORD LINK *-1 BOS BARRIER Imprt);
 
-# да
+#!! !да
 
+#!! * __da1__ Adv initially
 SELECT:da1 Adv IF (-1 BOS)(0 ("да"))(1 EOS OR COMMA);
 ## Да, я знаю
 
+#!! * __da2__ CC elsewhere
 REMOVE:da2 Adv IF (0 ("да"));
 ## Коми да мари
 
-# и
-REMOVE ABBR IF (0 CC)(NOT 1 ("."));
-REMOVE Pcle IF (-1 N + $$CASE)(1 N + $$CASE);
+#!! !и
+REMOVE:iNotAbbr ABBR IF (0 CC)(NOT 1 ("."));
+REMOVE:iNotPcle Pcle IF (-1 N + $$CASE)(1 N + $$CASE);
 
-REMOVE Interj IF (NOT 1* ("!") BARRIER COMMA) ;
+#!! !Interjection
 
-REMOVE Acc IF (0C Nom OR Acc) (NOT -1* V-FIN BARRIER BOS) (NOT -1* V-FIN BARRIER EOS);
+#!! * __NoExclNoInterj__
+REMOVE:NoExclNoInterj Interj IF (NOT 1* ("!") BARRIER COMMA) ;
+
 
 
 # Predicative
 
-SELECT A IF (*-1 ("вӧвны") BARRIER N);
+#!! __AifVövny__ selects A if вӧвны somewhere to the left
+SELECT:AifVövny A IF (*-1 ("вӧвны") BARRIER N);
