@@ -4,8 +4,7 @@ Meadow Mari verbs inflect in persons.
 
 !!!Verbal continuation lexica
 
-
-!!Auxiliaries and unfinished lexica
+!!Unfinished lexica
 
 Here are some unfinished verb lexica. TODO: Fix.
 
@@ -16,11 +15,14 @@ Here are some unfinished verb lexica. TODO: Fix.
 * ситыш:ситыш V  "on riittävästi, riittää V" ;
 * улмаште:улмашт V  "(jnk) ollessa (läsnä); jos on V" ;
 
- LEXICON Vkielt  TODO: fix
+!!Auxiliary verbs 
 
- * LEXICON VNegPrsSg1  
- * LEXICON VNegPrsSg2  
- * LEXICON VNegPrsSg3  
+Some of these are directed directly from root.lexc
+
+   LEXICON verbs_not_from_xml    
+
+ LEXICON negverb  TODO: fix
+
 
  LEXICON V-AUX_   TODO: fix
 

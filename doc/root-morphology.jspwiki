@@ -512,8 +512,10 @@ the following basic word classes:
    particles   ;	    
    postpositions	;   
    pronouns    ;	    
+   pronouns_not_from_xml ;	    
    propernouns    ;    
    verbs   ;		    
+   verbs_not_from_xml ;    
    Abbreviation	;   
    Acronym		;	    
    Punctuation	;	    

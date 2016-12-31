@@ -1,6 +1,73 @@
 !! !!!Eastern Mari pronoun inflection
 
-!! This is still not written, all case endings are missing
+!! !!Lexica directed from root.lexc
+
+LEXICON pronouns_not_from_xml !!= * @CODE@
+мый+Pron+Pers: MYJ ;	
+тый+Pron+Pers: TYJ ;	
+тудо+Pron: TUDO ;	
+тудо+Pron: TIDE ;	
+
+
+LEXICON MYJ !!= * @CODE@
++Sg+Nom:мый # ;
++Sg+Gen:мыйын # ;
++Sg+Acc:мыйым # ;
++Sg+Dat:мыланем #;
++Sg+Com:мыйла # ;
++Sg+Cmp:мыйге # ;
++Pl+Nom:ме # ;
++Pl+Gen:мемнан # ;
++Pl+Acc:мемнам # ;
++Pl+Dat:мыланна #;
++Pl+Dat+Use/NG:мемналан #;
++Pl+Com:мела # ;
++Pl+Cmp:меге # ;
+
+LEXICON TYJ !!= * @CODE@
++Sg+Nom:тый # ;
++Sg+Gen:тыйын # ;
++Sg+Acc:тыйым # ;
++Sg+Dat:тыланет #;
++Sg+Com:тыйла # ;
++Sg+Cmp:тыйге # ;
++Pl+Nom:те # ;
++Pl+Gen:темнан # ;
++Pl+Acc:темнам # ;
++Pl+Dat:тыланна #;
++Pl+Dat+Use/NG:тендалан #;
++Pl+Com:тела # ;
++Pl+Cmp:теге # ;
+
+LEXICON TUDO !!= * @CODE@
++Pers+Sg+Nom:тудо # ;
++Pers+Sg+Gen:тудын # ;
++Pers+Sg+Acc:тудым # ;
++Pers+Sg+Dat:тудылан #;
++Pers+Sg+Com:тудыла # ;
++Pers+Sg+Cmp:туды # ;
++Pers+Pl+Nom:нуно # ;
++Pers+Pl+Gen:нунын # ;
++Pers+Pl+Acc:нуным # ;
++Pers+Pl+Dat:нунылан #;
++Pers+Pl+Com:нуныла # ;
++Pers+Pl+Cmp:нуны # ;
+
+LEXICON TIDE !!= * @CODE@ todo: fix
++Dem+Sg+Nom:тиде # ;
++Dem+Sg+Gen:тидын # ;
++Dem+Sg+Acc:тидым # ;
++Dem+Sg+Dat:тидылан #;
++Dem+Sg+Com:тидыла # ;
++Dem+Sg+Cmp:тиды # ;
++Dem+Pl+Nom:нуно # ;
++Dem+Pl+Gen:нунын # ;
++Dem+Pl+Acc:нуным # ;
++Dem+Pl+Dat:нунылан #;
++Dem+Pl+Com:нуныла # ;
++Dem+Pl+Cmp:нуны # ;
+
+!! !!Pronoun lexica from xml
 
 LEXICON Pimp  !!= * @CODE@
 +Pron: # ;
@@ -11,9 +78,6 @@ LEXICON Pmuu !!= * @CODE@
 LEXICON PRON-IR_ !!= * @CODE@
 +Pron+Interr: # ;
 +Pron+Rel: # ;
-
-LEXICON PronP !!= * @CODE@
-+Pron: # ;
 
 LEXICON PRON_ !!= * @CODE@
 +Pron: # ;
