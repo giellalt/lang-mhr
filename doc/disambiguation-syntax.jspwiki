@@ -1,28 +1,33 @@
 
-Eastern Mari disambiguation file
+This is the Eastern Mari disambiguation file. It chooses
+the correct morphological analyses in any given sentence context.
+
+The file first defines sentence delimiters and tags and sets.
+Thereafter come the rules, each rule is listed below.
 
 
- !!!Delimiters 
+ !!!Sentence delimiters 
 
-Sentence delimiters: "<.>" "<!>" "<?>" "<...>" "<¶>" sent 
+The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent 
 
 
-!!!Tags and sets 
+
+The __Tags__ section lists all the tags inherited from the fst, and defines them for
+use in the syntactic analysis. 
+The tags are documented in the root.lexc file, and here only listed for reference.
+
+The next section, __Sets__, contains sets defined
+on the basis of the tags listed here, those set names are not visible in the output.
 
 
 !!Tags
 
-This section lists all the tags inherited from the fst, and used as tags
-in the syntactic analysis. The next section, __Sets__, contains sets defined
-on the basis of the tags listed here, those set names are not visible in the output.
 
 
-Beginning and end of sentence
+!Beginning and end of sentence
 
 BOS
 EOS
-
-
 
 
 !Parts of speech tags
@@ -42,30 +47,37 @@ Po
 
 WORD is the set of all POS
 
-!Verbal morphology tags
-
-ConNeg
-Cond
-Des
-Fut
-Ger
-Imprt
-Imprt
-Ind
-Inf
-Nec
-Neg
-Pl1
-Pl2
-Pl3
-Pos
-Prf
+!Verbal tense and mood tags
 Prs
 Prt1
 Prt2
+Fut
+Imprt
+Ind
+Cond
+Des
+
+!Other verbal tags
+Act
+ConNeg
+FutPrc
+Ger
+Inf
+Nec
+Neg
+NegPrc
+Pass
+Prc
+PrfPrc
+
+Verbal person-number tags
 Sg1
 Sg2
 Sg3
+Pl1
+Pl2
+Pl3
+
 
 !Numeral tags
 
@@ -88,15 +100,17 @@ Cmpr (case)
 
 !Other nominal tags
 
-
-
-
-
-
+Pers 
+Refl
+Rel
+Interr
+Recipr
 Dem
 ABBR
 
 !Adjective comparison tags
+
+Pos (?)
 Superl
 Comp
 
@@ -111,8 +125,13 @@ PxPl3
 
 !Mumeral tags
 
+Card
+Coll
+Ord
+Temp (?)
 
 !Punctuation marks
+
 CLB
 PUCT
 LEFT
@@ -123,16 +142,26 @@ COMMA
 Der/MWN
 Der/sa
 
+!Particles
+Qst
+Foc
+
+
+!Tags for internal testing
+CmpTest
+Err
+
 !!Sets
 
 * __CASE__ = all cases
 * __OBLCASE__ = All cases except Nom
 * __VFIN__ = All moods
 
-Rule section
+!!!Rule section
 
 
-* __Dem__ if noun follows
+
+
 
 
 !!Early, word-internal rules
@@ -150,6 +179,12 @@ Rule section
 * __Dersa__ if noun follows
 * __SelDerMWN__ select Der/MWN if noun follows
 
+Adjectives
+
+* __AdjNotN__
+
+* __AdjNotAdv__
+
 !Cases
 
 * __AccNeedsVerb__ prefers Nom (TODO: does this make sense?)
@@ -158,6 +193,10 @@ Rule section
 
 
 !Pronouns
+* __NotInterr__ if Rel
+
+* __Dem__ if noun follows
+
 
 !Postpositions
 
@@ -169,6 +208,8 @@ Rule section
 !Finite verb or Gerundium
 
 * __FinNotGer__ removes Ger if there is a Ind Prt2 Sg3 in the clause
+
+* __GerNotFin__  Ger if there is a Ind next
 
 !First or third person
 
@@ -194,6 +235,7 @@ Rule section
 * __da2__ CC elsewhere
 
 !и
+* __iNotAbbr__
 
 !Interjection
 

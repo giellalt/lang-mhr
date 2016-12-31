@@ -7,28 +7,70 @@
 !! !!!Verbal continuation lexica
 ! =============================== !
 
-
-!! !!Auxiliaries and unfinished lexica
+!! !!Unfinished lexica
 
 !! Here are some unfinished verb lexica. TODO: Fix.
 
 LEXICON V !!= * @CODE@ contains 4 verbs:
-+V: # ;
++V+WORK: # ;
 
 !! * порволыже:порволыж V  "olkoon kirottu! V" ;
 !! * порволышаш:порволышаш V  "tulkoon kirotuksi V" ;
 !! * ситыш:ситыш V  "on riittävästi, riittää V" ;
 !! * улмаште:улмашт V  "(jnk) ollessa (läsnä); jos on V" ;
 
-LEXICON Vkielt !!= @CODE@ TODO: fix
-+V+Neg: # ;
+!! !!Auxiliary verbs 
 
-LEXICON VNegPrsSg1 !!= * @CODE@ 
-+V+Neg+Prs+Sg1: # ;
-LEXICON VNegPrsSg2 !!= * @CODE@ 
-+V+Neg+Prs+Sg2: # ;
-LEXICON VNegPrsSg3 !!= * @CODE@ 
-+V+Neg+Prs+Sg3: # ;
+!! Some of these are directed directly from root.lexc
+
+LEXICON verbs_not_from_xml   !!=   @CODE@ 
+ок+V+Neg: negverb ;
+улаш+V: ulasj ;
+
+LEXICON negverb !!= @CODE@ TODO: fix
++Prs+Sg1:ом # ;
++Prs+Sg2:от # ;
++Prs+Sg3:ок # ;
++Prs+Sg3+Use/NG:огеш # ;
++Prs+Pl1:она # ;
++Prs+Pl1+Use/NG:огына # ;
++Prs+Pl2:ода # ;
++Prs+Pl2+Use/NG:огыда # ;
++Prs+Pl3:огыт # ;
++Prt1+Sg1:шым # ;
++Prt1+Sg2:шыч # ;
++Prt1+Sg3:ыш # ;
++Prt1+Pl1:ышна # ;
++Prt1+Pl2:ышта # ;
++Prt1+Pl3:ышт # ;
++Prt2+Sg1:омыл # ;
++Prt2+Sg2:отыл # ;
++Prt2+Sg3:огыл # ;
++Prt2+Pl1:онал # ;
++Prt2+Pl2:одал # ;
++Prt2+Pl3:огытыл # ;
++Imprt+Sg2:ит # ;
++Imprt+Pl2:ида # ;
+
+LEXICON ulasj
++Prs+Sg1:улам K ;
++Prs+Sg2:улат K ;
++Prs+Sg3:улеш K ;
++Prs+Pl1:улына K ;
++Prs+Pl2:улыда K ;
++Prs+Pl3:улыт K ;
++Prt1+Sg1:ылым K ;
++Prt1+Sg2:ылыч K ;
++Prt1+Sg3:ыле K ;
++Prt1+Pl1:ыльна K ;
++Prt1+Pl2:ыльда K ;
++Prt1+Pl3:ылыч K ;
++Prt2+Sg1:улынам K ;
++Prt2+Sg2:улынат K ;
++Prt2+Sg3:улмаш K ;
++Prt2+Pl1:улынна K ;
++Prt2+Pl2:улында K ;
++Prt2+Pl3:улыныт K ;
 
 LEXICON V-AUX_  !!= @CODE@ TODO: fix
 +V+Aux: # ;

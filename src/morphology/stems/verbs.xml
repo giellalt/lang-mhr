@@ -4503,9 +4503,6 @@
     <lg>
       <l pos="V">ида</l>
 
-      <stg>
-        <st Contlex="Vkielt">ида</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -4514,7 +4511,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>älkää Vkielt</t>
+        <t>älkää</t>
       </tg>
     </mg>
   </e>
@@ -4979,9 +4976,6 @@
     <lg>
       <l pos="V">ит</l>
 
-      <stg>
-        <st Contlex="Vkielt">ит</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -4990,7 +4984,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>älä Vkielt</t>
+        <t>älä</t>
       </tg>
     </mg>
   </e>
@@ -17615,9 +17609,6 @@
     <lg>
       <l pos="V">огеш</l>
 
-      <stg>
-        <st Contlex="Vkielt">огеш</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -17626,7 +17617,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ei Vkielt</t>
+        <t>ei</t>
       </tg>
     </mg>
   </e>
@@ -17635,9 +17626,6 @@
     <lg>
       <l pos="V">огыда</l>
 
-      <stg>
-        <st Contlex="Vkielt">огыда</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -17646,7 +17634,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ette Vkielt</t>
+        <t>ette</t>
       </tg>
     </mg>
   </e>
@@ -17655,9 +17643,6 @@
     <lg>
       <l pos="V">огыдал</l>
 
-      <stg>
-        <st Contlex="Vkielt">огыдал</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -17666,7 +17651,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ette ole Vkielt</t>
+        <t>ette ole</t>
       </tg>
     </mg>
   </e>
@@ -17675,9 +17660,6 @@
     <lg>
       <l pos="V">огыл</l>
 
-      <stg>
-        <st Contlex="Vkielt">огыл</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -17686,7 +17668,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ei ole Vkielt</t>
+        <t>ei ole</t>
       </tg>
     </mg>
   </e>
@@ -17695,9 +17677,6 @@
     <lg>
       <l pos="V">огым</l>
 
-      <stg>
-        <st Contlex="Vkielt">огым</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -17706,7 +17685,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>en Vkielt</t>
+        <t>en</t>
       </tg>
     </mg>
   </e>
@@ -17715,9 +17694,6 @@
     <lg>
       <l pos="V">огына</l>
 
-      <stg>
-        <st Contlex="Vkielt">огына</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -17726,7 +17702,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>emme Vkielt</t>
+        <t>emme</t>
       </tg>
     </mg>
   </e>
@@ -17735,9 +17711,6 @@
     <lg>
       <l pos="V">огынал</l>
 
-      <stg>
-        <st Contlex="Vkielt">огынал</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -17746,7 +17719,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>emme ole Vkielt</t>
+        <t>emme ole</t>
       </tg>
     </mg>
   </e>
@@ -17755,9 +17728,6 @@
     <lg>
       <l pos="V">огыт</l>
 
-      <stg>
-        <st Contlex="Vkielt">огыт</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -17766,7 +17736,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>et Vkielt</t>
+        <t>et</t>
       </tg>
     </mg>
   </e>
@@ -17775,9 +17745,6 @@
     <lg>
       <l pos="V">огыт</l>
 
-      <stg>
-        <st Contlex="Vkielt">огыт</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -17786,7 +17753,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>eivät Vkielt</t>
+        <t>eivät</t>
       </tg>
     </mg>
   </e>
@@ -17795,9 +17762,6 @@
     <lg>
       <l pos="V">огытыл</l>
 
-      <stg>
-        <st Contlex="Vkielt">огытыл</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -17806,7 +17770,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>eivät ole Vkielt</t>
+        <t>eivät ole</t>
       </tg>
     </mg>
   </e>
@@ -17815,9 +17779,6 @@
     <lg>
       <l pos="V">ода</l>
 
-      <stg>
-        <st Contlex="Vkielt">ода</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -17826,7 +17787,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ette Vkielt</t>
+        <t>ette</t>
       </tg>
     </mg>
   </e>
@@ -17835,9 +17796,6 @@
     <lg>
       <l pos="V">одал</l>
 
-      <stg>
-        <st Contlex="Vkielt">одал</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -17846,7 +17804,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ette ole Vkielt</t>
+        <t>ette ole</t>
       </tg>
     </mg>
   </e>
@@ -18134,10 +18092,6 @@
   <e order="2">
     <lg>
       <l pos="V">ок</l>
-
-      <stg>
-        <st Contlex="VNegPrsSg3">ок</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -18353,26 +18307,6 @@
 
   <e order="2">
     <lg>
-      <l pos="V">ок</l>
-
-      <stg>
-        <st Contlex="VNegPrsSg1">ом</st>
-      </stg>
-    </lg>
-
-    <pos>V</pos>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>en</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e order="2">
-    <lg>
       <l pos="V">омдаш</l>
 
       <stg>
@@ -18411,45 +18345,7 @@
     </mg>
   </e>
 
-  <e order="2">
-    <lg>
-      <l pos="V">омыл</l>
 
-      <stg>
-        <st Contlex="Vkielt">омыл</st>
-      </stg>
-    </lg>
-
-    <pos>V-Aux</pos>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>en ole Vkielt</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e order="2">
-    <lg>
-      <l pos="V">омыл</l>
-
-      <stg>
-        <st Contlex="Vkielt">омыл</st>
-      </stg>
-    </lg>
-
-    <pos>V-Aux</pos>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>en ole Vkielt</t>
-      </tg>
-    </mg>
-  </e>
 
   <e order="2">
     <lg>
@@ -18495,9 +18391,6 @@
     <lg>
       <l pos="V">она</l>
 
-      <stg>
-        <st Contlex="Vkielt">она</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -18506,7 +18399,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>emme Vkielt</t>
+        <t>emme</t>
       </tg>
     </mg>
   </e>
@@ -18515,9 +18408,6 @@
     <lg>
       <l pos="V">онал</l>
 
-      <stg>
-        <st Contlex="Vkielt">онал</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -18526,7 +18416,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>emme ole Vkielt</t>
+        <t>emme ole</t>
       </tg>
     </mg>
   </e>
@@ -18971,25 +18861,6 @@
     </mg>
   </e>
 
-  <e order="2">
-    <lg>
-      <l pos="V">ок</l>
-
-      <stg>
-        <st Contlex="VNegPrsSg2">от</st>
-      </stg>
-    </lg>
-
-    <pos>V</pos>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>et</t>
-      </tg>
-    </mg>
-  </e>
 
   <e order="2">
     <lg>
@@ -19055,9 +18926,6 @@
     <lg>
       <l pos="V">отыл</l>
 
-      <stg>
-        <st Contlex="Vkielt">отыл</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -19066,7 +18934,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>et ole Vkielt</t>
+        <t>et ole</t>
       </tg>
     </mg>
   </e>
@@ -19075,9 +18943,6 @@
     <lg>
       <l pos="V">отыл</l>
 
-      <stg>
-        <st Contlex="Vkielt">отыл</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -19086,7 +18951,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>et ole Vkielt</t>
+        <t>et ole</t>
       </tg>
     </mg>
   </e>
@@ -31142,9 +31007,6 @@
     <lg>
       <l pos="V">укалеш</l>
 
-      <stg>
-        <st Contlex="Vkielt">укалеш</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -31153,7 +31015,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ei ole Vkielt.</t>
+        <t>ei ole</t>
       </tg>
     </mg>
   </e>
@@ -31201,9 +31063,6 @@
     <lg>
       <l hid="Hom1" pos="V">улаш</l>
 
-      <stg>
-        <st Contlex="V_am">ул</st>
-      </stg>
 
       <stress>ула•ш</stress>
     </lg>
@@ -37886,9 +37745,6 @@
     <lg>
       <l pos="V">шым</l>
 
-      <stg>
-        <st Contlex="Vkielt">шым</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -37897,7 +37753,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>en (pret.) Vkielt</t>
+        <t>en (pret.)</t>
       </tg>
     </mg>
   </e>
@@ -38307,9 +38163,6 @@
     <lg>
       <l pos="V">шыч</l>
 
-      <stg>
-        <st Contlex="Vkielt">шыч</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -38318,7 +38171,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>et (pret.) Vkielt</t>
+        <t>et (pret.)</t>
       </tg>
     </mg>
   </e>
@@ -39730,9 +39583,6 @@
     <lg>
       <l pos="V">ынеда</l>
 
-      <stg>
-        <st Contlex="Vkielt">ынеда</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -39741,7 +39591,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ette halua Vkielt</t>
+        <t>ette halua</t>
       </tg>
     </mg>
   </e>
@@ -39750,9 +39600,7 @@
     <lg>
       <l pos="V">ынеж</l>
 
-      <stg>
-        <st Contlex="Vkielt">ынеж</st>
-      </stg>
+
     </lg>
 
     <pos>V-Aux</pos>
@@ -39761,7 +39609,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ei halua Vkielt</t>
+        <t>ei halua</t>
       </tg>
     </mg>
   </e>
@@ -39770,9 +39618,6 @@
     <lg>
       <l pos="V">ынем</l>
 
-      <stg>
-        <st Contlex="Vkielt">ынем</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -39781,7 +39626,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>en halua Vkielt</t>
+        <t>en halua</t>
       </tg>
     </mg>
   </e>
@@ -39789,10 +39634,6 @@
   <e order="2">
     <lg>
       <l pos="V">ынена</l>
-
-      <stg>
-        <st Contlex="Vkielt">ынена</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -39801,7 +39642,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>emme halua Vkielt</t>
+        <t>emme halua</t>
       </tg>
     </mg>
   </e>
@@ -39809,10 +39650,6 @@
   <e order="2">
     <lg>
       <l pos="V">ынет</l>
-
-      <stg>
-        <st Contlex="Vkielt">ынет</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -39821,7 +39658,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>et halua Vkielt</t>
+        <t>et halua</t>
       </tg>
     </mg>
   </e>
@@ -39829,10 +39666,6 @@
   <e order="2">
     <lg>
       <l pos="V">ынешт</l>
-
-      <stg>
-        <st Contlex="Vkielt">ынешт</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -39841,7 +39674,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>eivät halua Vkielt</t>
+        <t>eivät halua</t>
       </tg>
     </mg>
   </e>
@@ -39849,10 +39682,6 @@
   <e order="2">
     <lg>
       <l pos="V">ынже</l>
-
-      <stg>
-        <st Contlex="Vkielt">ынж</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -39861,27 +39690,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>älköön Vkielt</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e order="2">
-    <lg>
-      <l pos="V">ынышт</l>
-
-      <stg>
-        <st Contlex="Vkielt">ынышт</st>
-      </stg>
-    </lg>
-
-    <pos>V-Aux</pos>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>älkööt Vkielt</t>
+        <t>älkööt</t>
       </tg>
     </mg>
   </e>
@@ -39889,10 +39698,6 @@
   <e order="2">
     <lg>
       <l pos="V">ыраш</l>
-
-      <stg>
-        <st Contlex="V_em">ыр</st>
-      </stg>
 
       <stress>ыра•ш</stress>
     </lg>
@@ -40029,10 +39834,6 @@
   <e order="2">
     <lg>
       <l pos="V">ыш</l>
-
-      <stg>
-        <st Contlex="Vkielt">ыш</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -40041,7 +39842,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ei (pret.) Vkielt</t>
+        <t>ei (pret.)</t>
       </tg>
     </mg>
   </e>
@@ -40049,10 +39850,6 @@
   <e order="2">
     <lg>
       <l pos="V">ышда</l>
-
-      <stg>
-        <st Contlex="Vkielt">ышда</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -40061,7 +39858,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ette (pret.) Vkielt</t>
+        <t>ette (pret.)</t>
       </tg>
     </mg>
   </e>
@@ -40069,10 +39866,6 @@
   <e order="2">
     <lg>
       <l pos="V">ышна</l>
-
-      <stg>
-        <st Contlex="Vkielt">ышна</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -40081,7 +39874,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>emme (pret.) Vkielt</t>
+        <t>emme (pret.)</t>
       </tg>
     </mg>
   </e>
@@ -40089,10 +39882,6 @@
   <e order="2">
     <lg>
       <l pos="V">ышт</l>
-
-      <stg>
-        <st Contlex="Vkielt">ышт</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -40101,7 +39890,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>eivät (pret.) Vkielt</t>
+        <t>eivät (pret.)</t>
       </tg>
     </mg>
   </e>
@@ -40147,10 +39936,6 @@
   <e order="2">
     <lg>
       <l pos="V">ышым</l>
-
-      <stg>
-        <st Contlex="Vkielt">ышым</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -40159,7 +39944,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>en (pret.) Vkielt</t>
+        <t>en (pret.)</t>
       </tg>
     </mg>
   </e>
@@ -40167,10 +39952,6 @@
   <e order="2">
     <lg>
       <l pos="V">ышыч</l>
-
-      <stg>
-        <st Contlex="Vkielt">ышыч</st>
-      </stg>
     </lg>
 
     <pos>V-Aux</pos>
@@ -40179,7 +39960,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>et (pret.) Vkielt</t>
+        <t>et (pret.)</t>
       </tg>
     </mg>
   </e>
