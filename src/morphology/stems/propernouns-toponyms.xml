@@ -1,0 +1,1716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="">
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Виса</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_КУДО">Виса</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="N" type="Prop">Вичымбал</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Вичымбал</st>
+      </stg>
+
+      <stress>Вичымба•л</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Индешкугарня</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Индешкугарня</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Иргаза</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Иргаза</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Йыгыр</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Йыгыр</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Кол</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Кол</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Коркашӱдыр</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Коркашӱдыр</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Лев</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Лев</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="1">
+    <lg>
+      <l pos="N" type="Prop">Овен</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Овен</st>
+      </stg>
+
+      <stress>О•вен</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Презе</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Презе</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Рак</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Рак</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Сабантуй</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Сабантуй</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Семык</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Семык</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Скорпион</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Скорпион</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Шоктешӱдыр</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Шоктешӱдыр</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Шорык</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Шорык</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+
+  <e order="2">
+    <lg>
+      <l pos="N" type="Prop">Шорыкйол</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Шорыкйол</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Австралий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Австралий</st>
+      </stg>
+
+      <stress>Австра•лий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Australia</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Австрий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Австрий</st>
+      </stg>
+
+      <stress>Австрий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Азий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Азий</st>
+      </stg>
+
+      <stress>А•зий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Aasia</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Албаний</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Албаний</st>
+      </stg>
+
+      <stress>Алба•ний</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Albania</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Альп</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Альп</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Alpit</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Америке</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Америк%{еы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Америк%{аы%}</st>
+      </stg>
+
+      <stress>Аме•рике</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Amerikka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Англий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Англий</st>
+      </stg>
+
+      <stress>А•нглий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Englanti</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Арабий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Арабий</st>
+      </stg>
+
+      <stress>Ара•бий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Arabia</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Аргентине</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Аргентин%{еы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Аргентин%{аы%}</st>
+      </stg>
+
+      <stress>Аргенти•не</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Argentiina</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Атлантике</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Атлантик%{еы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Атлантик%{аы%}</st>
+      </stg>
+
+      <stress>Атла•нтике</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Atlantti</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Афины</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Афины</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Ateena</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Африке</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Африк%{еы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Африк%{аы%}</st>
+      </stg>
+
+      <stress>А•фрике</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Afrikka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Балтик</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Балтик</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Itämeri</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Бельгий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Бельгий</st>
+      </stg>
+
+      <stress>Бе•льгий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Belgia</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Болгарий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Болгарий</st>
+      </stg>
+
+      <stress>Болга•рий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Bulgaria</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Бразилий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Бразилий</st>
+      </stg>
+
+      <stress>Брази•лий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Brasilia</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Будапешт</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Будапешт</st>
+      </stg>
+
+      <stress>Будапе•шт</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Budapest</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Вак-сола</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Вак-сола</st>
+      </stg>
+
+      <stress>Вак-сола</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Варшаве</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Варшав%{еы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Варшав%{аы%}</st>
+      </stg>
+
+      <stress>Варша•ва</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Varsova</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Василь-ола</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Василь-ола</st>
+      </stg>
+
+      <stress>Василь-ола</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Венгрий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Венгрий</st>
+      </stg>
+
+      <stress>Ве•нгрий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Unkari</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Виче</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Вич%{еы%}</st>
+      </stg>
+
+      <stress>Ви•че</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Vjatka</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Германий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Германий</st>
+      </stg>
+
+      <stress>Герма•ний</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Saksa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Дунай</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Дунай</st>
+      </stg>
+
+      <stress>Дуна•й</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Tonava</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Европа</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Европ%{аы%}</st>
+      </stg>
+
+      <stress>Евро•па</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Eurooppa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Израиль</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Израиль</st>
+      </stg>
+
+      <stress>Изра•иль</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Ильна-ола</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Ильна-ола</st>
+      </stg>
+
+      <stress>Ильна-ола</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Исландий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Исландий</st>
+      </stg>
+
+      <stress>Исла•ндий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Испаний</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Испаний</st>
+      </stg>
+
+      <stress>Испа•ний</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Espanja</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Италий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Италий</st>
+      </stg>
+
+      <stress>Италий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Italia</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Йошкар-Ола</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Йошкар-Ола</st>
+      </stg>
+
+      <stress>Йошка•р-Ола•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Какшан</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Какшан</st>
+      </stg>
+
+      <stress>Какша•н</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">(joki) Koks`aga</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Карелий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Карелий</st>
+      </stg>
+
+      <stress>Каре•лий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Karjala</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Китай</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Китай</st>
+      </stg>
+
+      <stress>Кита•й</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Kiina</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Лайыш-ола</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Лайыш-ола</st>
+      </stg>
+
+      <stress>Лайыш-ола</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Лапландий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Лапландий</st>
+      </stg>
+
+      <stress>Лапла•ндий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Ленинград</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Ленинград</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Leningrad</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Ленин-ола</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Ленин-ола</st>
+      </stg>
+
+      <stress>Ленин-ола</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Мариэл</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Мариэл</st>
+      </stg>
+
+      <stress>Мариэ•л</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Моско</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Моско</st>
+      </stg>
+
+      <stress>Моско•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Moskova</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Нидерландий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Нидерландий</st>
+      </stg>
+
+      <stress>Нидерла•ндий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Нидерландий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Нидерландий</st>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Alankomaat</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Новгород</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Новгород</st>
+      </stg>
+
+      <stress>Но•вгород</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Норвегий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Норвегий</st>
+      </stg>
+
+      <stress>Норве•гий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Петербург</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Петербург</st>
+      </stg>
+
+      <stress>Петербу•рг</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Польшо</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Польш%{оы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Польш%{аы%}</st>
+      </stg>
+
+      <stress>По•льшо</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Puola</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Прибалтике</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Прибалтик%{еы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Прибалтик%{аы%}</st>
+      </stg>
+
+      <stress>Приба•лтике</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Baltia</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Пӱрӧ-ола</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Пӱрӧ-ола</st>
+      </stg>
+
+      <stress>Пӱрӧ-ола</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Риге</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Риг%{еы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Риг%{аы%}</st>
+      </stg>
+
+      <stress>Ри•ге</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Riika</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Россий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Россий</st>
+      </stg>
+
+      <stress>Росси•й</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Venäjä</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Румыний</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Румыний</st>
+      </stg>
+
+      <stress>Румы•ний</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Romania</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Санкт-Петербург</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Санкт-Петербург</st>
+      </stg>
+
+      <stress>Санкт-Петербург</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Сия-ола</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Сия-ола</st>
+      </stg>
+
+      <stress>Сия-ола</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Суоми</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Суоми</st>
+      </stg>
+
+      <stress>Су•оми</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Сымбыр-ола</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Сымбыр-ола</st>
+      </stg>
+
+      <stress>Сымбыр-ола</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Таллинн</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Таллинн</st>
+      </stg>
+
+      <stress>Та•ллинн</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Tallinna</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Финляндий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Финляндий</st>
+      </stg>
+
+      <stress>Финля•ндий</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Suomi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Хельсинки</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Хельсинки</st>
+      </stg>
+
+      <stress>Хе•льсинки</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Helsinki</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Чoрай</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Чoрай</st>
+      </stg>
+
+      <stress>Чoрай</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Чарла</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Чарла</st>
+      </stg>
+
+      <stress>Чарла•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">(vanh.) JoSkar-Ola</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Чолман</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Чолман</st>
+      </stg>
+
+      <stress>Чолман</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Kama</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Швеций</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Швеций</st>
+      </stg>
+
+      <stress>Шве•ций</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Ruotsi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Шернур</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Шернур</st>
+      </stg>
+
+      <stress>Шернур</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Элнет</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Элнет</st>
+      </stg>
+
+      <stress>Элне•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Iletjoki</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Эстоний</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Эстоний</st>
+      </stg>
+
+      <stress>Эсто•ний</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+        <t pos="N" type="Prop">Viro</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Юл</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Юл</st>
+      </stg>
+
+      <stress>Юл</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Volga</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Ӱпӧ</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Ӱп%{ӧы%}</st>
+      </stg>
+
+      <stress>Ӱпӧ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Ufa</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Евразий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Евразий</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Euraasia</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Горький</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Горький</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Gorki</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Турций</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Турций</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Turkki</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Франций</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Франций</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Ranska</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Океаний</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Океаний</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Okeania</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Индий</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Индий</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Intia</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Чуваший</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Чуваший</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Tšuvaššia</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Греций</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Греций</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Kreikka</t>
+      </tg>
+    </mg>
+  </e>
+
+<e><lg><l pos="N" type="Prop">Латвий</l><stg><st Contlex="PROP-PLC_">Латвий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Latvia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Японий</l><stg><st Contlex="PROP-PLC_">Японий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Japani</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Колумбий</l><stg><st Contlex="PROP-PLC_">Колумбий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Kolumbia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Даний</l><stg><st Contlex="PROP-PLC_">Даний</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Tanska</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Швейцарий</l><stg><st Contlex="PROP-PLC_">Швейцарий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Sveitsi</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Кений</l><stg><st Contlex="PROP-PLC_">Кений</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Kenia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Британий</l><stg><st Contlex="PROP-PLC_">Британий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Britania</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Боливий</l><stg><st Contlex="PROP-PLC_">Боливий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Bolivia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Чехословакий</l><stg><st Contlex="PROP-PLC_">Чехословакий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Tšekoslovakia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Скандинавий</l><stg><st Contlex="PROP-PLC_">Скандинавий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Skandinavia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Индонезий</l><stg><st Contlex="PROP-PLC_">Индонезий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Indonesia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Венеций</l><stg><st Contlex="PROP-PLC_">Венеций</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Venetsia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Белоруссий</l><stg><st Contlex="PROP-PLC_">Белоруссий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Belorussia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Булгарий</l><stg><st Contlex="PROP-PLC_">Булгарий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Bulgaria</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Чехий</l><stg><st Contlex="PROP-PLC_">Чехий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Tšekki</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Хорватий</l><stg><st Contlex="PROP-PLC_">Хорватий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Horvatia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Словений</l><stg><st Contlex="PROP-PLC_">Словений</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Slovenia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Зеландий</l><stg><st Contlex="PROP-PLC_">Зеландий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Seelanti</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Абхазий</l><stg><st Contlex="PROP-PLC_">Абхазий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Abhasia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Эфиопий</l><stg><st Contlex="PROP-PLC_">Эфиопий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Etiopia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Флоренций</l><stg><st Contlex="PROP-PLC_">Флоренций</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Firentsia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Словакий</l><stg><st Contlex="PROP-PLC_">Словакий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Slovakia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Осетий</l><stg><st Contlex="PROP-PLC_">Осетий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Osetia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Малайзий</l><stg><st Contlex="PROP-PLC_">Малайзий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Malasia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Калифорний</l><stg><st Contlex="PROP-PLC_">Калифорний</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Kalifornia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Грузий</l><stg><st Contlex="PROP-PLC_">Грузий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Gruusia</t><t pos="N" type="Prop">Georgia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Танзаний</l><stg><st Contlex="PROP-PLC_">Танзаний</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Tansania</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сирий</l><stg><st Contlex="PROP-PLC_">Сирий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Syria</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сербий</l><stg><st Contlex="PROP-PLC_">Сербий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Serbia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Нигерий</l><stg><st Contlex="PROP-PLC_">Нигерий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Nigeria</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ирландий</l><stg><st Contlex="PROP-PLC_">Ирландий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Irlanti</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Гренландий</l><stg><st Contlex="PROP-PLC_">Гренландий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Gröönlanti</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Виргиний</l><stg><st Contlex="PROP-PLC_">Виргиний</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Virginia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Великобританий</l><stg><st Contlex="PROP-PLC_">Великобританий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Suur-Britania</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Хакасий</l><stg><st Contlex="PROP-PLC_">Хакасий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Hakassia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Сардиний</l><stg><st Contlex="PROP-PLC_">Сардиний</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Sardinia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Португалий</l><stg><st Contlex="PROP-PLC_">Португалий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Portugalia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Киргизий</l><stg><st Contlex="PROP-PLC_">Киргизий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Kirgisia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Калмыкий</l><stg><st Contlex="PROP-PLC_">Калмыкий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Kalmykia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ингушетий</l><stg><st Contlex="PROP-PLC_">Ингушетий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Ingušetia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Голландий</l><stg><st Contlex="PROP-PLC_">Голландий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Hollanti</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Филадельфий</l><stg><st Contlex="PROP-PLC_">Филадельфий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Philadelfia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Босний</l><stg><st Contlex="PROP-PLC_">Босний</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Bosnia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Армений</l><stg><st Contlex="PROP-PLC_">Армений</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Armenia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Якутий</l><stg><st Contlex="PROP-PLC_">Якутий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Jakutia</t><t pos="N" type="Prop">Saha</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Тасманий</l><stg><st Contlex="PROP-PLC_">Тасманий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Tasmania</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Софий</l><stg><st Contlex="PROP-PLC_">Софий</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Sofia</t></tg></mg></e>
+</r>

@@ -9,8 +9,11 @@ LEXICON PROP-OLD-ORTH-SG-NOM_  !!= * @CODE@
 
 
 LEXICON PROP_  !!= * @CODE@
- +N+Prop+Sg+Nom: # ;
+ +N+Prop: N-ava_01 ; !!= * @CODE@ decline like common nouns
 
+LEXICON PROP-PLC_  !!= * @CODE@
+ +Sem/Plc+N+Prop: N-ava_01 ; !!= * @CODE@ decline like common nouns
+ +N+Prop+Der/ысЕ:%>ыс%{еоыӧØ%} A_ ; !CHECKME 2017-1-1
 
 !! !!Male given name for deriving patronyms 
 
