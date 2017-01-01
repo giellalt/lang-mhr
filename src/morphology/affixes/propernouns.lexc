@@ -4,6 +4,10 @@
 !! Meadow Mari proper nouns inflect in the same cases as regular
 !! nouns, but with a colon (':') as separator. (???)
 
+LEXICON PROP-OLD-ORTH-SG-NOM_  !!= * @CODE@
++Err/Orth+N+Prop+Sg+Nom: # ;
+
+
 LEXICON PROP_  !!= * @CODE@
  +N+Prop+Sg+Nom: # ;
 

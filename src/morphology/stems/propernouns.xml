@@ -383,13 +383,14 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Америка</l>
+      <l pos="N" type="Prop">Америке</l>
 
       <stg>
-        <st Contlex="PROP_">Америка</st>
+        <st Contlex="PROP_">Америк%{еы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Америк%{аы%}</st>
       </stg>
 
-      <stress>Аме•рика</stress>
+      <stress>Аме•рике</stress>
     </lg>
 
     <mg>
@@ -497,13 +498,14 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Атлантика</l>
+      <l pos="N" type="Prop">Атлантике</l>
 
       <stg>
-        <st Contlex="PROP_">Атлантик%{аы%}</st>
+        <st Contlex="PROP_">Атлантик%{еы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Атлантик%{аы%}</st>
       </stg>
 
-      <stress>Атла•нтика</stress>
+      <stress>Атла•нтике</stress>
     </lg>
 
     <mg>
@@ -553,13 +555,14 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Африка</l>
+      <l pos="N" type="Prop">Африке</l>
 
       <stg>
-        <st Contlex="PROP_">Африк%{аы%}</st>
+        <st Contlex="PROP_">Африк%{еы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Африк%{аы%}</st>
       </stg>
 
-      <stress>А•фрика</stress>
+      <stress>А•фрике</stress>
     </lg>
 
     <mg>
@@ -1973,13 +1976,14 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Польша</l>
+      <l pos="N" type="Prop">Польшо</l>
 
       <stg>
-        <st Contlex="PROP_">Польш%{аы%}</st>
+        <st Contlex="PROP_">Польш%{оы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Польш%{аы%}</st>
       </stg>
 
-      <stress>По•льша</stress>
+      <stress>По•льшо</stress>
     </lg>
 
     <mg>
@@ -2011,13 +2015,14 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Прибалтика</l>
+      <l pos="N" type="Prop">Прибалтике</l>
 
       <stg>
-        <st Contlex="PROP_">Прибалтик%{аы%}</st>
+        <st Contlex="PROP_">Прибалтик%{еы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Прибалтик%{аы%}</st>
       </stg>
 
-      <stress>Приба•лтика</stress>
+      <stress>Приба•лтике</stress>
     </lg>
 
     <mg>
@@ -2163,13 +2168,14 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Рига</l>
+      <l pos="N" type="Prop">Риге</l>
 
       <stg>
-        <st Contlex="PROP_">Риг%{аы%}</st>
+        <st Contlex="PROP_">Риг%{еы%}</st>
+        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Риг%{аы%}</st>
       </stg>
 
-      <stress>Ри•га</stress>
+      <stress>Ри•ге</stress>
     </lg>
 
     <mg>
