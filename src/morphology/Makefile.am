@@ -63,6 +63,7 @@ GENERATED_LEXC_SRCS=\
 			 $(srcdir)/stems/postpositions.lexc \
 			 $(srcdir)/stems/pronouns.lexc      \
 			 $(srcdir)/stems/propernouns.lexc   \
+			 $(srcdir)/stems/propernouns-toponyms.lexc   \
 			 $(srcdir)/stems/verbs.lexc
 
 
@@ -79,6 +80,7 @@ GT_XML_SRCS=\
 			 stems/postpositions.xml \
 			 stems/pronouns.xml      \
 			 stems/propernouns.xml   \
+			 stems/propernouns-toponyms.xml   \
 			 stems/verbs.xml
 
 # Define any additional lexc sources here (compiled on their own):

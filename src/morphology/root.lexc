@@ -158,6 +158,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 !! !Derivations
 
 +Der/MWN      !!≈ * __@CODE@__ = Modifyer without noun (better: +A+Sg+Nom etc.)
++Der/исЕ      !!≈ * __@CODE@__ = Used with place names
 
 !! Abbreviated words are classified with:
 +ABBR         !!≈ * __@CODE@__ = for abbreviations that (may) contain period
@@ -544,6 +545,7 @@ postpositions	;  !!=   @CODE@
 pronouns    ;	   !!=   @CODE@ 
 pronouns_not_from_xml ;	   !!=   @CODE@ 
 propernouns    ;   !!=   @CODE@ 
+propernouns-toponyms    ;   !!=   @CODE@ 
 verbs   ;		   !!=   @CODE@ 
 verbs_not_from_xml ;   !!=   @CODE@ 
 Abbreviation	;  !!=   @CODE@ 
