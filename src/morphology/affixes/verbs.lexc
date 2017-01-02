@@ -53,6 +53,7 @@ LEXICON negverb !!= @CODE@ TODO: fix
 +Imprt+Pl2:ида # ;
 
 LEXICON ulasj
++Inf:улаш K ;
 +Prs+Sg1:улам K ;
 +Prs+Sg2:улат K ;
 +Prs+Sg3:улеш K ;
@@ -172,10 +173,10 @@ LEXICON Vem-Mood !!= @CODE@ divides in Ind, Imprt, Des
 LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
   +Prs+Sg1:%>ем   K ;
   +Prs+Sg2:%>ет   K ;
-  +Prs+Sg3:%>а    K ;
+  +Prs+Sg3:%>А2    K ;
   +Prs+Pl1:%>ена  K ;
   +Prs+Pl2:%>еда  K ;
-  +Prs+Pl3:%>ат   K ;
+  +Prs+Pl3:%>А2т   K ;
 ! Первое прошедшее время:
     +Prt1+Sg1:%>ышым K ;
     +Prt1+Sg2:%>ышыч K ;
