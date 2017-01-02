@@ -1,16 +1,20 @@
-! Mari twol file
+!! !!!Mari twol file
 
 Alphabet
 
-! Letters of the alphabet
-а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ
-А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ
+!! !!Letters of the alphabet
+а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ !!= * @CODE@
+А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ !!= * @CODE@
 
-! other symbols
-   %- !0
+!! other symbols
+   %- !!= * @CODE@
 
-! Archiphonemes for vowels
-  е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я
+!! Archiphonemes for vowels
+  е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я  !!= * @CODE@ 
+  Ы1:ы Ы1:0 Ы2:ы Ы2:0   !!= * @CODE@ 
+  А1:а А1:ӓ   !!= * @CODE@ 
+  Е2:е Е2:0 А2:а А2:я  !!= * @CODE@ 
+
 %{аы%}:а !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
 %{аы%}:ы !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
 %{еы%}:е !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
@@ -35,9 +39,6 @@ Alphabet
 
 !  Е1:Е А1:А И1:И У1:У Ӱ1:Ӱ
 !JMR 2012-09-18
-  Ы1:ы Ы1:0 Ы2:ы Ы2:0 
- А1:а А1:ӓ 
-  Е2:е Е2:0 А2:а А2:я
 
 ! Boundary symbols
 ! old !  +  /  {  _  $  }  @  ~  &  #
@@ -46,28 +47,28 @@ Alphabet
 ! X1:0 X2:0 X3:0 X4:0 X5:0 X6:0 X7:0 X8:0 X9:0 Z1:0 Z2:0
 
 ! JMR 2012-09-18
- %>
+ %>   !!= * @CODE@ 
 
 
  ;
 
 
-
+!! !!Sets
 Sets
-Vo =   о у ё ю О У Ё Ю ;
-VO =   ӧ ӱ Ӧ Ӱ;
-Ve =   а е и э я А Е И Э Я ;
-Vws =  Vo VO Ve ы Ы ; 
 
-Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш 
-       Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;
-Cst =  к п т ф х ц ч ш с 
-       К П Т Ф Х Ц Ч Ш Ц ;
+Vo =   о у ё ю О У Ё Ю ;   !!= * @CODE@ 
+VO =   ӧ ӱ Ӧ Ӱ;              !!= * @CODE@ 
+Ve =   а е и э я А Е И Э Я ;  !!= * @CODE@ 
+Vws =  Vo VO Ve ы Ы ;   !!= * @CODE@ 
 
-Ltrs = Vws Cns  ъ ь Ъ Ь ;
+Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш   !!= * @CODE@ 
+       Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;    !!= @CODE@ 
+Cst =  к п т ф х ц ч ш с      !!= * @CODE@ 
+       К П Т Ф Х Ц Ч Ш Ц ;    !!= @CODE@ 
 
-all =  Ltrs  %- ;
+Ltrs = Vws Cns  ъ ь Ъ Ь ;   !!= * @CODE@ 
 
+all =  Ltrs  %- ;    !!= * @CODE@ 
 
 
 
@@ -75,7 +76,7 @@ Definitions
 
 
 
-
+!! !!Rules
 Rules
 
 
@@ -206,9 +207,9 @@ Rules
 !! __ @RULENAME@ __
   0:й <=> Vws _ [ %{яы%}:ы | %{еы%}:ы ] ;
 
-
 !!€ а0%{яы%}%>Ы1м
 !!€ айы%>0м
+
 
 
 !begin %{еоӧØ%}
@@ -244,39 +245,59 @@ Rules
 
 !end %{еоӧØ%}
 
+"Clitics in At and Ak take onset glide = a"
+!! __ @RULENAME@ __  
+  А2:а <=> [ Cns ( Ы2:0 ) | :Vws ] %> _ [ т | к | м | ш | .#. ] ;
  
-"Clitics in At and Ak take onset glide"
+"Clitics in At and Ak take onset glide = ja"
 !! __ @RULENAME@ __  
   А2:я <=> ь:0 %> _ [ т | к | м | ш ] ;
 ! "A2 as я in й-final stems"
            й:0 %> _  ;
+
 
 "й Deletion in front of я Suffix and others"
 !! __ @RULENAME@ __  
   й:0 <=> _ %>: [ :я | :е | :и | :ю ]  ;
           _     [ :я | :е | :и | :ю ] [ .#. | %- ] ;
 
-
 !!€ кий>А2ш
 !!€ ки0>яш
 
-"Clitics in At and Ak take onset glide"
-!! __ @RULENAME@ __  
-  А2:а <=> [ Cns ( Ы2:0 ) | :Vws ] %> _ [ т | к | м | ш ] ;
+!"йа suffix as я 1"
+!! __ @RULENAME@ __
+!й:0 <=> Vow _ %>: а: ;
+
+!"йа suffix as я 2"
+!! __ @RULENAME@ __
+!а:я <=> Vow й: %>: _ ;
+
+!!€ кай>А2
+!!€ ка0>я 
+
+!!€ кутыр>А2
+!!€ кутыр>а 
+
+
 
 ! Devoicing
 "Onset consonant devoicing"
- ж:ш <=> [ Cst | ж ] %> _ Ы2: ;
+!! __ @RULENAME@ __
+ж:ш <=> [ Cst | ж ] %> _ Ы2: ;
          [ Cst | ж ] %> %{ыØ%}:0 _ %{еоыӧØ%}: ;  
 
-! just to see whether other tests pass:
-!!€ а
-!!€ б
 
 
 "Disallow PxSg3 in ыж everywhere except after ш "
+!! __ @RULENAME@ __
 ы:ы /<= [Ltrs - ш] %> _ ж [.#.| %-]  ;
 !!€ йолташ%>ыж#
 !!€ йолташ%>ыж#
 !!$ олма%>ыж#
 !!$ олма%>ыж#
+
+
+
+! just to see whether other tests pass:
+!!€ а
+!!€ б
