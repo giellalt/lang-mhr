@@ -155,17 +155,13 @@ LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
          +V+Ger+Gen:%>ен  K           ;
                  +V:ы     non-finites ;
           +V+ConNeg:%>Ы2  K           ;
-!  +V+Ind+Prs+ConNeg:%>Ы2  K           ;
-! +V+Ind+Prt1+ConNeg:%>Ы2  K           ;
-!    +V+Imprt+ConNeg:%>Ы2  K           ;
-!      +V+Des+ConNeg:%>Ы2  K           ;
        +V+Imprt+Sg2:%>Ы2  K-imprt     ;
 
 
 LEXICON Vem-Mood !!= @CODE@ divides in Ind, Imprt, Des
-   +Ind: Vem-Ind ;
- +Imprt: Vem-Imp ;
-   +Des: Vem-Des ;
+    +Ind: Vem-Ind ;
+  +Imprt: Vem-Imp ;
+    +Des: Vem-Des ;
 
 LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
   +Prs+Sg1:%>ем   K ;
@@ -188,8 +184,7 @@ LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
     +Prt2+Pl1:%>енна K ;
     +Prt2+Pl2:%>енда K ;
     +Prt2+Pl3:%>еныт K ;
-! +Prt2+ConNeg:%>ен   K ;
-     +ConNeg:%>ен   K ;
+
 LEXICON Vem-Imp !!= * @CODE@ for imperative
 ! Повелительное наклонение:
  +Sg3:%>ыжЫ2 K       ;
