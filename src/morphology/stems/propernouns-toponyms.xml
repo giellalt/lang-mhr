@@ -996,6 +996,25 @@
   </e>
   <e>
     <lg>
+      <l pos="N" type="Prop">Морко</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_">Морк%{оы%}</st>
+      </stg>
+
+      <stress>Мо•рко</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Morko</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N" type="Prop">Моско</l>
 
       <stg>
