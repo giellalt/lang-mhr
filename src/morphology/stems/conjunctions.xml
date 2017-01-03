@@ -530,10 +530,10 @@
 
   <e>
     <lg>
-      <l pos="Conj">пуйте</l>
+      <l pos="CS">пуйте</l>
 
       <stg>
-        <st Contlex="K">пуйт%{еы%}</st>
+        <st Contlex="CS_">пуйт%{еы%}</st>
       </stg>
     </lg>
     <mg>
@@ -551,10 +551,10 @@
 
   <e>
     <lg>
-      <l pos="Conj">пуйто</l>
+      <l pos="CS">пуйто</l>
 
       <stg>
-        <st Contlex="CONJ_">пуйто</st>
+        <st Contlex="CS_">пуйто</st>
       </stg>
 
       <stress>пу•йто</stress>
@@ -564,7 +564,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CS">kuin</t>
       </tg>
     </mg>
   </e>
