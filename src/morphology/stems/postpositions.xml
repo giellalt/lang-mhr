@@ -4,7 +4,26 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  >
+
+  <e>
+    <lg>
+      <l pos="Po">улмаште</l>
+
+      <stg>
+        <st Contlex="PO_">улмашт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t>(jnk) ollessa (läsnä)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e order="2">
     <lg>
       <l pos="Po">вара</l>
 

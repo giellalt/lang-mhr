@@ -9877,31 +9877,10 @@
     </mg>
   </e>
 
-  <e>
-    <lg>
-      <l hid="Hom1" pos="V">кочаш</l>
-
-      <stg>
-        <st Contlex="Vam-dependent">коч</st>
-      </stg>
-
-      <stress>коча•ш</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="V">syödä; kirveltää</t>
-      </tg>
-    </mg>
-
-    <!-- ! XXX resolve -->
-  </e>
 
   <e>
     <lg>
-      <l hid="Hom2" pos="V">кочаш</l>
+      <l pos="V">кочаш</l>
 
       <stg>
         <st Contlex="V_em">коч</st>
@@ -12992,7 +12971,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="V">лийшаш</l>
 
@@ -15118,7 +15097,7 @@
       <l hid="Hom1" pos="V">мияш</l>
 
       <stg>
-        <st Contlex="Vem--Vam-n/l">мий</st>
+        <st Contlex="V_em">мий</st>
       </stg>
     </lg>
 
@@ -20808,45 +20787,6 @@
     </mg>
   </e>
 
-  <e>
-    <lg>
-      <l pos="V">порволыже</l>
-
-      <stg>
-        <st Contlex="V">порволыж</st>
-      </stg>
-    </lg>
-
-    <pos>V-Aux</pos>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>olkoon kirottu! V</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="V">порволышаш</l>
-
-      <stg>
-        <st Contlex="V">порволышаш</st>
-      </stg>
-    </lg>
-
-    <pos>V-Aux</pos>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>tulkoon kirotuksi V</t>
-      </tg>
-    </mg>
-  </e>
 
   <e>
     <lg>
@@ -20884,6 +20824,9 @@
 
       <tg xml:lang="fin">
         <t pos="V">aloittaa</t>
+      </tg>
+      <tg xml:lang="eng">
+        <t pos="V">start</t>
       </tg>
     </mg>
   </e>
@@ -21688,7 +21631,7 @@
       <l pos="V">пукшаш</l>
 
       <stg>
-        <st Contlex="Vem-jykte1">пукш</st>
+        <st Contlex="V_em">пукш</st>
       </stg>
     </lg>
 
@@ -25697,26 +25640,6 @@
 
       <tg xml:lang="fin">
         <t pos="V">riittää</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="V">ситыш</l>
-
-      <stg>
-        <st Contlex="V">ситыш</st>
-      </stg>
-    </lg>
-
-    <pos>V-Aux</pos>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>on riittävästi, riittää V</t>
       </tg>
     </mg>
   </e>
@@ -31094,7 +31017,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="V">улмаш</l>
 
@@ -31114,25 +31037,6 @@
     </mg>
   </e>
 
-  <e>
-    <lg>
-      <l pos="V">улмаште</l>
-
-      <stg>
-        <st Contlex="V">улмашт</st>
-      </stg>
-    </lg>
-
-    <pos>V-Aux</pos>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>(jnk) ollessa (läsnä); jos on V</t>
-      </tg>
-    </mg>
-  </e>
 
   <e>
     <lg>
@@ -31948,10 +31852,10 @@
 
   <e>
     <lg>
-      <l pos="V">уэмдыл</l>
+      <l pos="V">уэмдылаш</l>
 
       <stg>
-        <st Contlex="Vam-n/l--1t">уэмдыл</st>
+        <st Contlex="V_am">уэмдыл</st>
       </stg>
     </lg>
 
@@ -39477,7 +39381,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="V">ыльна</l>
 
@@ -39875,10 +39779,10 @@
 
   <e>
     <lg>
-      <l pos="V">ыштал</l>
+      <l pos="V">ышталаш</l>
 
       <stg>
-        <st Contlex="Vam-n/l--1t">ыштал</st>
+        <st Contlex="V_am">ыштал</st>
       </stg>
     </lg>
 
