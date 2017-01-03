@@ -209,7 +209,7 @@ LEXICON N_  !!= * @CODE@ redirects to N-ava_01
 ! +Com:%>ге     K ;
 ! +Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
 ! +Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
-! +Lat:%>Ы1ш    K ;
+! +Lat:%>Е1ш    K ;
 ! +Abe:%>де     K ;
 
 !LEXICON N_Px_Px-Nb-Cx
@@ -271,7 +271,7 @@ LEXICON N-SG-ILL !!= * @CODE@
 
 LEXICON N-SG-LAT !!= * @CODE@
           +Sg+Lat:еш    K ;
-! +Use/Test+Sg+Lat:%>Е2ш K ; ! turn off for a while
+! +Use/Test+Sg+Lat:%>Е1ш K ; ! turn off for a while
 
 LEXICON N-SG-ABE !!= * @CODE@
  +Sg+Abe:де K ;
@@ -363,7 +363,7 @@ LEXICON N-SG-PxSg1-ILL !!= * @CODE@
  +Sg+PxSg1+Ill:%>ышкем   K ; !NB_CX_PX
 
 LEXICON N-SG-PxSg1-LAT !!= * @CODE@
- +Sg+PxSg1+Lat:%>Е2шем K ; !NB_CX_PX CHECKME 2016-12-27
+ +Sg+PxSg1+Lat:%>Е1шем K ; !NB_CX_PX CHECKME 2016-12-27
 !+Sg+PxSg1+Lat:эшем K ;
 
 LEXICON N-SG-PxSg1-ABE !!= * @CODE@
@@ -464,7 +464,7 @@ LEXICON N-SG-PxSg2-ILL !!= * @CODE@
 ! +Sg+PxSg2+Ill:%>Е2тышке K ; !NB_PX_CX
 
 LEXICON N-SG-PxSg2-LAT !!= * @CODE@
- +Sg+PxSg2+Lat:%>Е2шет K ; !NB_CX_PX CHECKME 2016-12-27
+ +Sg+PxSg2+Lat:%>Е1шет K ; !NB_CX_PX CHECKME 2016-12-27
 
 LEXICON N-SG-PxSg2-ABE !!= * @CODE@
  +Sg+PxSg2+Abe:%>Е2тде K ; !NB_PX_CX
@@ -574,7 +574,7 @@ LEXICON N-SG-PxSg3-ILL !!= * @CODE@
 ! +Sg+PxSg3+Ill:жшке K ;
 
 LEXICON N-SG-PxSg3-LAT !!= * @CODE@
- +Sg+PxSg3+Lat:%>Е2шыже K ; !CHECKME 2016-12-27
+ +Sg+PxSg3+Lat:%>Е1шыже K ; !CHECKME 2016-12-27
 
 LEXICON N-SG-PxSg3-ABE !!= * @CODE@
  +Sg+PxSg3+Abe:%>ыж%>де K ;
