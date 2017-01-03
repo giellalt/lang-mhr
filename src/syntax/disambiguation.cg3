@@ -185,8 +185,18 @@ SELECT:CmpTst2 CmpTest ; # Kill'em all
 
 
 #!! !CC or Pcle
+#!! * __teveteve1__ gives CC if two теве
+SELECT:teveteve1 CC IF (0   ("теве"))(*1 ("теве"));
+#!! * __teveteve1__ gives CC if two теве
+SELECT:teveteve2 CC IF (*-1 ("теве"))(0  ("теве"));
+#!! * __onlyteve__ gives Pcle if two теве
+REMOVE:onlyteve  CC IF (0 ("теве"));
 
+#!! * __PcleNotCC__ Lauseen alussa on Pcle
 REMOVE:PcleNotCC CC IF (-1 BOS)(0 Pcle);
+
+
+
 
 #!! !Derivations
 
