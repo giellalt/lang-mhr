@@ -4,7 +4,7 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">адыштан</l>
 
@@ -32,7 +32,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">ай</l>
 
@@ -60,7 +60,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">ай</l>
 
@@ -88,7 +88,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">айда</l>
 
@@ -108,7 +108,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">айза</l>
 
@@ -128,7 +128,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">акыре</l>
 
@@ -148,7 +148,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">ала</l>
 
@@ -178,7 +178,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">ала•-ала</l>
 
@@ -198,7 +198,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e exclude="fst">
     <lg>
       <l pos="Pcle">але</l>
 
@@ -218,7 +218,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">алят</l>
 
@@ -238,7 +238,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">аман</l>
 
@@ -258,7 +258,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">ане</l>
 
@@ -288,7 +288,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">анян</l>
 
@@ -308,7 +308,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">анят</l>
 
@@ -338,7 +338,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">аттан</l>
 
@@ -358,7 +358,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">а•йста</l>
 
@@ -378,7 +378,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">буль-буль</l>
 
@@ -406,7 +406,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">бырлоч</l>
 
@@ -434,7 +434,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">вара</l>
 
@@ -462,7 +462,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">векат</l>
 
@@ -482,7 +482,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">вет</l>
 
@@ -512,7 +512,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">витне</l>
 
@@ -532,7 +532,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">вообще</l>
 
@@ -552,7 +552,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">вот</l>
 
@@ -582,7 +582,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">вудо-вуде</l>
 
@@ -610,7 +610,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">вудык-вудык</l>
 
@@ -638,7 +638,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">вуж-вуж</l>
 
@@ -666,7 +666,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">вузык</l>
 
@@ -694,7 +694,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">выде-вуде</l>
 
@@ -722,7 +722,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">выж-ж</l>
 
@@ -750,7 +750,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">выргӱп</l>
 
@@ -778,7 +778,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">вырлоч</l>
 
@@ -806,7 +806,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">вышт</l>
 
@@ -834,7 +834,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">гала</l>
 
@@ -864,7 +864,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">гын</l>
 
@@ -894,7 +894,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">гынай</l>
 
@@ -914,7 +914,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">да</l>
 
@@ -944,7 +944,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">даже</l>
 
@@ -964,7 +964,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">докан</l>
 
@@ -984,7 +984,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">дык</l>
 
@@ -1004,7 +1004,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">дыр</l>
 
@@ -1034,7 +1034,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">дӱр-дӱр</l>
 
@@ -1062,7 +1062,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">жалке</l>
 
@@ -1082,7 +1082,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">и</l>
 
@@ -1112,7 +1112,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">иже</l>
 
@@ -1132,7 +1132,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">икманаш</l>
 
@@ -1152,7 +1152,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">ите</l>
 
@@ -1172,7 +1172,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">йок</l>
 
@@ -1192,7 +1192,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">йывылдик</l>
 
@@ -1220,7 +1220,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">йыли-юли</l>
 
@@ -1248,7 +1248,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">йышт-юшт</l>
 
@@ -1276,7 +1276,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">йӧра</l>
 
@@ -1306,7 +1306,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">йӧрш</l>
 
@@ -1326,7 +1326,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кавуй</l>
 
@@ -1354,7 +1354,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">кай</l>
 
@@ -1374,7 +1374,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">калт-калт</l>
 
@@ -1402,7 +1402,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">керек</l>
 
@@ -1432,7 +1432,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">кернак</l>
 
@@ -1452,7 +1452,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">кернакак</l>
 
@@ -1472,7 +1472,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">кеч</l>
 
@@ -1492,7 +1492,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кигик-когок</l>
 
@@ -1520,7 +1520,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">киндончылне</l>
 
@@ -1548,7 +1548,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кис-кис</l>
 
@@ -1576,7 +1576,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">конешне</l>
 
@@ -1596,7 +1596,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">коп</l>
 
@@ -1624,7 +1624,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кочыри-и-к</l>
 
@@ -1652,7 +1652,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кроп</l>
 
@@ -1680,7 +1680,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">крӱп</l>
 
@@ -1708,7 +1708,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кузе-гынат</l>
 
@@ -1736,7 +1736,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кукареку-ку-у</l>
 
@@ -1764,7 +1764,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кыж-гож</l>
 
@@ -1792,7 +1792,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кылде-голде</l>
 
@@ -1820,7 +1820,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кылт-калт</l>
 
@@ -1848,7 +1848,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кычыр-кочыр</l>
 
@@ -1876,7 +1876,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кыштыр-коштыр</l>
 
@@ -1904,7 +1904,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">кӱш-ш</l>
 
@@ -1932,7 +1932,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">лаваса</l>
 
@@ -1952,7 +1952,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">лавысан</l>
 
@@ -1972,7 +1972,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">ларт-ларт-ларт</l>
 
@@ -2000,7 +2000,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">ласа</l>
 
@@ -2020,7 +2020,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">ласан</l>
 
@@ -2040,7 +2040,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">лыб-лыб-лыб</l>
 
@@ -2068,7 +2068,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">лыдыр-ладыр</l>
 
@@ -2096,7 +2096,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">лыпте-лопте</l>
 
@@ -2124,7 +2124,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">лӱч</l>
 
@@ -2152,7 +2152,7 @@
     </mg>
   </e>
 <!--
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">мо</l>
 
@@ -2172,7 +2172,7 @@
     </mg>
   </e>
 -->
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">мо-мо</l>
 
@@ -2192,7 +2192,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">можыч</l>
 
@@ -2212,7 +2212,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">моли</l>
 
@@ -2232,7 +2232,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">монь</l>
 
@@ -2262,7 +2262,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">мутлан</l>
 
@@ -2282,7 +2282,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">на</l>
 
@@ -2312,7 +2312,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">наверне</l>
 
@@ -2332,7 +2332,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">неужели</l>
 
@@ -2362,7 +2362,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">нечыве</l>
 
@@ -2382,7 +2382,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">ни</l>
 
@@ -2410,7 +2410,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">ну</l>
 
@@ -2440,7 +2440,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">огла</l>
 
@@ -2468,7 +2468,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">огыла</l>
 
@@ -2488,7 +2488,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">очыни</l>
 
@@ -2508,7 +2508,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">пис-пис-пис</l>
 
@@ -2536,7 +2536,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">пожале</l>
 
@@ -2556,7 +2556,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">пожалуй</l>
 
@@ -2576,7 +2576,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">пожалуйста</l>
 
@@ -2606,7 +2606,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">порылий</l>
 
@@ -2626,7 +2626,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">просто</l>
 
@@ -2646,7 +2646,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">псльоп</l>
 
@@ -2674,7 +2674,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">пуйто</l>
 
@@ -2694,7 +2694,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">разве</l>
 
@@ -2724,7 +2724,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">райзе</l>
 
@@ -2752,7 +2752,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">раш</l>
 
@@ -2780,7 +2780,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">рушт</l>
 
@@ -2808,7 +2808,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">садак</l>
 
@@ -2828,7 +2828,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">садыге</l>
 
@@ -2848,7 +2848,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">содыки</l>
 
@@ -2868,7 +2868,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">теве</l>
 
@@ -2898,7 +2898,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">тевыс</l>
 
@@ -2918,7 +2918,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">тек</l>
 
@@ -2938,7 +2938,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">те•вак</l>
 
@@ -2958,7 +2958,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">те•ве-теве</l>
 
@@ -2978,7 +2978,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">то-то</l>
 
@@ -2998,7 +2998,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">товат</l>
 
@@ -3018,7 +3018,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">товатат</l>
 
@@ -3038,7 +3038,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">товро</l>
 
@@ -3058,7 +3058,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">тожо</l>
 
@@ -3078,7 +3078,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">туалгын</l>
 
@@ -3098,7 +3098,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">тугалмо</l>
 
@@ -3118,7 +3118,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">туге</l>
 
@@ -3138,7 +3138,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">туде</l>
 
@@ -3166,7 +3166,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">тук-тук</l>
 
@@ -3194,7 +3194,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">тулечла</l>
 
@@ -3214,7 +3214,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">тӧве</l>
 
@@ -3242,7 +3242,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">тӧвӧ</l>
 
@@ -3262,7 +3262,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">ужат</l>
 
@@ -3282,27 +3282,7 @@
     </mg>
   </e>
 
-  <e order="1">
-    <lg>
-      <l pos="Pcle">уке</l>
-
-      <stg>
-        <st Contlex="PCLE_">уке</st>
-      </stg>
-
-      <stress>у•ке</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pcle"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">уна</l>
 
@@ -3322,7 +3302,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">чай</l>
 
@@ -3352,7 +3332,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">чияк-чияк</l>
 
@@ -3380,7 +3360,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">чолт-чолт</l>
 
@@ -3408,7 +3388,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">чоштыр-чоштыр</l>
 
@@ -3436,7 +3416,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">чыдыр-чодыр</l>
 
@@ -3464,7 +3444,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">чынак</l>
 
@@ -3484,7 +3464,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">чынакак</l>
 
@@ -3504,7 +3484,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">чырык</l>
 
@@ -3532,7 +3512,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">шеремет</l>
 
@@ -3560,7 +3540,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">шол</l>
 
@@ -3590,7 +3570,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">шолдырдок</l>
 
@@ -3618,7 +3598,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">шолт-шолт</l>
 
@@ -3646,7 +3626,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">шуй-шуй</l>
 
@@ -3674,7 +3654,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">шыве-шове</l>
 
@@ -3702,7 +3682,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">шыве-шыве</l>
 
@@ -3730,7 +3710,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">шылт-шолт</l>
 
@@ -3758,7 +3738,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">шырт-шорт</l>
 
@@ -3786,7 +3766,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">шыҥ-шыҥ</l>
 
@@ -3814,7 +3794,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">эла</l>
 
@@ -3834,7 +3814,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">эн</l>
 
@@ -3862,7 +3842,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">эсмаса</l>
 
@@ -3882,7 +3862,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">эсогыл</l>
 
@@ -3902,7 +3882,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">юмашне</l>
 
@@ -3930,7 +3910,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">юмончылне</l>
 
@@ -3958,7 +3938,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">юргылдым-юргылдым</l>
 
@@ -3986,7 +3966,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">юрт</l>
 
@@ -4014,7 +3994,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">юшт</l>
 
@@ -4042,7 +4022,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Pcle">я</l>
 
@@ -4070,7 +4050,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Pcle">ӓлӓсӓ</l>
 

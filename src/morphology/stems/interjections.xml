@@ -4,7 +4,7 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">а</l>
 
@@ -24,7 +24,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">а-а-а</l>
 
@@ -44,7 +44,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">аваже</l>
 
@@ -72,7 +72,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">авай</l>
 
@@ -100,7 +100,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">авап</l>
 
@@ -120,7 +120,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">авий</l>
 
@@ -148,7 +148,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">ага</l>
 
@@ -178,7 +178,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">аж</l>
 
@@ -198,7 +198,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ажыж-ажыж</l>
 
@@ -218,7 +218,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ай</l>
 
@@ -238,7 +238,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ай-ай</l>
 
@@ -258,7 +258,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ай-юй</l>
 
@@ -278,7 +278,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ай-яй</l>
 
@@ -298,7 +298,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">айда</l>
 
@@ -326,7 +326,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">айста</l>
 
@@ -354,7 +354,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">акай</l>
 
@@ -383,7 +383,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">акмук</l>
 
@@ -411,7 +411,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">алат-булат</l>
 
@@ -431,7 +431,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">алло</l>
 
@@ -461,7 +461,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">амин</l>
 
@@ -481,7 +481,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">аппа</l>
 
@@ -501,7 +501,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">апчи</l>
 
@@ -529,7 +529,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">атан</l>
 
@@ -559,7 +559,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">ах</l>
 
@@ -589,7 +589,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">ачаже</l>
 
@@ -617,7 +617,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">ачай</l>
 
@@ -645,7 +645,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">ачий</l>
 
@@ -673,7 +673,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">бау</l>
 
@@ -703,7 +703,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">бзльоп</l>
 
@@ -731,7 +731,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">бо-бо-бо</l>
 
@@ -751,7 +751,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">буҥ</l>
 
@@ -779,7 +779,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">виви</l>
 
@@ -799,7 +799,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">види-види</l>
 
@@ -819,7 +819,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">вичиклай-вичиклай</l>
 
@@ -839,7 +839,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">вор-ведынь</l>
 
@@ -859,7 +859,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ворсокыр</l>
 
@@ -879,7 +879,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ври</l>
 
@@ -899,7 +899,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">вуй-вуй-вуй</l>
 
@@ -919,7 +919,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">вучи-вучи</l>
 
@@ -947,7 +947,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">высмылла</l>
 
@@ -967,7 +967,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">дига-дига</l>
 
@@ -995,7 +995,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">дига•-дига</l>
 
@@ -1015,7 +1015,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">до-до</l>
 
@@ -1035,7 +1035,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">до-до-до</l>
 
@@ -1065,7 +1065,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">еҥгай</l>
 
@@ -1093,7 +1093,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">изием</l>
 
@@ -1121,7 +1121,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ия</l>
 
@@ -1141,7 +1141,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">йывылдик</l>
 
@@ -1161,7 +1161,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">кавуй</l>
 
@@ -1181,7 +1181,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">калтак</l>
 
@@ -1201,7 +1201,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">капут</l>
 
@@ -1229,7 +1229,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">караул</l>
 
@@ -1259,7 +1259,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">карон</l>
 
@@ -1279,7 +1279,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">кис-кис</l>
 
@@ -1299,7 +1299,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">киямат</l>
 
@@ -1319,7 +1319,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">кокай</l>
 
@@ -1347,7 +1347,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ку-уш</l>
 
@@ -1367,7 +1367,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">кувай</l>
 
@@ -1395,7 +1395,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">кугызай</l>
 
@@ -1423,7 +1423,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">курскай</l>
 
@@ -1451,7 +1451,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">кш-кш</l>
 
@@ -1471,7 +1471,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">кыз-за</l>
 
@@ -1491,7 +1491,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">кыслӧрӧк</l>
 
@@ -1511,7 +1511,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">кыш</l>
 
@@ -1531,7 +1531,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">кыш-кыш</l>
 
@@ -1551,7 +1551,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">кӧш-кӧш</l>
 
@@ -1571,7 +1571,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">кӱснӧк</l>
 
@@ -1591,7 +1591,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">мардаш</l>
 
@@ -1611,7 +1611,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">мор-мужо</l>
 
@@ -1631,7 +1631,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">муктар</l>
 
@@ -1651,7 +1651,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">на</l>
 
@@ -1671,7 +1671,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">налят</l>
 
@@ -1691,7 +1691,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">но</l>
 
@@ -1721,7 +1721,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">но-но</l>
 
@@ -1741,7 +1741,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">нок</l>
 
@@ -1761,7 +1761,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">нӧ-ӧ</l>
 
@@ -1781,7 +1781,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">ой</l>
 
@@ -1811,7 +1811,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ой-ой</l>
 
@@ -1831,7 +1831,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ок</l>
 
@@ -1851,7 +1851,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">ох</l>
 
@@ -1881,7 +1881,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">оч</l>
 
@@ -1901,7 +1901,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">оч-оч</l>
 
@@ -1921,7 +1921,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">папали</l>
 
@@ -1941,7 +1941,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">пачай</l>
 
@@ -1961,7 +1961,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">пис-пис-пис</l>
 
@@ -1981,7 +1981,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">потий</l>
 
@@ -2001,7 +2001,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">пучук</l>
 
@@ -2021,7 +2021,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">пфу</l>
 
@@ -2041,7 +2041,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">пырыс</l>
 
@@ -2069,7 +2069,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">пытыш-кайыш</l>
 
@@ -2097,7 +2097,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">пы•тыш-кайыш</l>
 
@@ -2117,7 +2117,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">пӧчӧк</l>
 
@@ -2147,7 +2147,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">пӧчӧп</l>
 
@@ -2167,7 +2167,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">пӹрӧс</l>
 
@@ -2187,7 +2187,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ракмат</l>
 
@@ -2207,7 +2207,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ракмат-мардаш</l>
 
@@ -2227,7 +2227,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">салам</l>
 
@@ -2247,7 +2247,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">се</l>
 
@@ -2267,7 +2267,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">тек</l>
 
@@ -2295,7 +2295,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">тпрӱгӓ</l>
 
@@ -2315,7 +2315,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">тпрӱгӓнӓ</l>
 
@@ -2335,7 +2335,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">тпрӱй-тпрӱй</l>
 
@@ -2355,7 +2355,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">трӧ</l>
 
@@ -2375,7 +2375,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">тьфу</l>
 
@@ -2395,7 +2395,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">тӹрӧ</l>
 
@@ -2415,7 +2415,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">у-уй</l>
 
@@ -2435,7 +2435,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">у-юй</l>
 
@@ -2455,7 +2455,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">уа•ч-уач</l>
 
@@ -2475,7 +2475,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">ура</l>
 
@@ -2505,7 +2505,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">уф-ф</l>
 
@@ -2535,7 +2535,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">фу</l>
 
@@ -2565,7 +2565,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">фу-у</l>
 
@@ -2585,7 +2585,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">фу-ӱ</l>
 
@@ -2613,7 +2613,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">чабач</l>
 
@@ -2641,7 +2641,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чвӧ</l>
 
@@ -2661,7 +2661,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чеве</l>
 
@@ -2681,7 +2681,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">чеверын</l>
 
@@ -2711,7 +2711,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">чи-чи-чи</l>
 
@@ -2741,7 +2741,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">чиви-чиви-чиви</l>
 
@@ -2769,7 +2769,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чиви•-чиви•-чиви</l>
 
@@ -2789,7 +2789,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чида</l>
 
@@ -2809,7 +2809,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чий-чий</l>
 
@@ -2829,7 +2829,27 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
+    <lg>
+      <l pos="Interj">уке</l>
+
+      <stg>
+        <st Contlex="INTERJ_">уке</st>
+      </stg>
+
+      <stress>у•ке</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
     <lg>
       <l pos="Interj">чий-чий-чий</l>
 
@@ -2849,7 +2869,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чо</l>
 
@@ -2869,7 +2889,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чо-але</l>
 
@@ -2889,7 +2909,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чо-чо</l>
 
@@ -2909,7 +2929,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чо-чо-чо</l>
 
@@ -2929,7 +2949,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">чонеем</l>
 
@@ -2957,7 +2977,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">чонем</l>
 
@@ -2985,7 +3005,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чу</l>
 
@@ -3005,7 +3025,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чу-але</l>
 
@@ -3025,7 +3045,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чу-чу</l>
 
@@ -3045,7 +3065,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">чуза</l>
 
@@ -3075,7 +3095,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">чукай</l>
 
@@ -3103,7 +3123,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чур</l>
 
@@ -3123,7 +3143,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">чур-чурат</l>
 
@@ -3151,7 +3171,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чывыли-чывыли</l>
 
@@ -3171,7 +3191,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чывӧ</l>
 
@@ -3191,7 +3211,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">чыда-чыда</l>
 
@@ -3219,7 +3239,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чыдай-чыдай</l>
 
@@ -3239,7 +3259,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чыда•-чыда</l>
 
@@ -3259,7 +3279,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чӧв</l>
 
@@ -3279,7 +3299,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чӧвӧ</l>
 
@@ -3299,7 +3319,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">чӱчӱй</l>
 
@@ -3327,7 +3347,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чӹвӧ</l>
 
@@ -3347,7 +3367,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">чӹвӧч</l>
 
@@ -3367,7 +3387,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">шабаш</l>
 
@@ -3397,7 +3417,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">шатын</l>
 
@@ -3427,7 +3447,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">шеремет</l>
 
@@ -3447,7 +3467,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">шоляш</l>
 
@@ -3475,7 +3495,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">штрӧ</l>
 
@@ -3495,7 +3515,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">штӧт</l>
 
@@ -3515,7 +3535,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ышиш</l>
 
@@ -3535,7 +3555,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">э-э</l>
 
@@ -3565,7 +3585,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">э-эй</l>
 
@@ -3585,7 +3605,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">эвлесь</l>
 
@@ -3605,7 +3625,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">эй</l>
 
@@ -3635,7 +3655,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">эк</l>
 
@@ -3655,7 +3675,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">эх</l>
 
@@ -3685,7 +3705,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">юмашне</l>
 
@@ -3705,7 +3725,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">я</l>
 
@@ -3735,7 +3755,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ярымдык</l>
 
@@ -3755,7 +3775,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ӓйвий</l>
 
@@ -3775,7 +3795,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ӧтӧт</l>
 
@@ -3795,7 +3815,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ӧчӧч</l>
 
@@ -3815,7 +3835,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ӧш</l>
 
@@ -3835,7 +3855,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ӧӱ-ӧӱ</l>
 
@@ -3855,7 +3875,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Interj">ӱдырем</l>
 
@@ -3883,7 +3903,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Interj">ӱзӱ</l>
 
