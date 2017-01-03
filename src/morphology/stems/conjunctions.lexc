@@ -18,13 +18,13 @@ LEXICON conjunctions
 ито:ито CONJ_  "" ;
 кала:кала CONJ_  "" ;
 керек:керек CS_  "vaikka(kin)/(-kaan ei), joskin/kaan (ei) K" ;
-кеч:кеч CONJ_  "" ;
-ман:ман CS_  "että, jotta K" ;
+кеч:кеч CS_  "" ;
+ман:ман CS_  "että, jotta" ;
 манын:манын CS_  "että; jotta K" ;
 ни:ни CONJ_  "" ;
-но:но CS_  "mutta K" ;
-потомушто:потомушто CONJ_  "" ;
-пуйте:пуйт%{еы%} CS_  "ikään kuin K" ;
+но:но CC_  "mutta" ;
+потомушто:потомушто CS_  "" ;
+пуйте:пуйт%{еы%} CS_  "ikään kuin" ;
 пуйто:пуйто CS_  "kuin" ;
 садак:садак K  "yhtä kaikki K" ;
 садиктак:садиктак K  "yhtä kaikki K" ;
