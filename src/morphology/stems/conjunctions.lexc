@@ -24,14 +24,14 @@ LEXICON conjunctions
 ни:ни CONJ_  "" ;
 но:но CS_  "mutta K" ;
 потомушто:потомушто CONJ_  "" ;
-пуйте:пуйт%{еы%} K  "ikään kuin K" ;
-пуйто:пуйто CONJ_  "" ;
+пуйте:пуйт%{еы%} CS_  "ikään kuin K" ;
+пуйто:пуйто CS_  "kuin" ;
 садак:садак K  "yhtä kaikki K" ;
 садиктак:садиктак K  "yhtä kaikki K" ;
 садлан:садлан CONJ_  "" ;
 санден:санден CONJ_  "" ;
 сандене:сандене CONJ_  "" ;
-теве:тев%{еы%} CC_  "milloin...milloin" ;
+теве:тев%{еы%} CC_  "milloin ... milloin ..." ;
 то:то CONJ_  "" ;
 тольке:тольк%{еы%} CS_  "mutta K" ;
 только:только CONJ_  "" ;
