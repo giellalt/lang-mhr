@@ -4,7 +4,7 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e order="2">
+  <e>
     <lg>
       <l pos="CC">а</l>
 
@@ -29,7 +29,7 @@
     <!-- At some point K, but K0 seems better -->
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="CC">ала</l>
 
@@ -55,7 +55,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="CC">але</l>
 
@@ -81,7 +81,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">ато</l>
 
@@ -101,7 +101,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">вет</l>
 
@@ -121,7 +121,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="CS">гын</l>
 
@@ -147,12 +147,12 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
-      <l pos="Conj">гынат</l>
+      <l pos="CS">гынат</l>
 
       <stg>
-        <st Contlex="CONJ_">гынат</st>
+        <st Contlex="CS_">гынат</st>
       </stg>
 
       <stress>гына•т</stress>
@@ -162,13 +162,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj">joskin</t>
-        <t pos="Conj">vaikkakin</t>
+        <t pos="CS">joskin</t>
+        <t pos="CS">vaikkakin</t>
       </tg>
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="CC">да</l>
 
@@ -194,7 +194,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">даже</l>
 
@@ -214,7 +214,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="CC">ден</l>
 
@@ -240,7 +240,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="CS">дык</l>
 
@@ -266,7 +266,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="CS">если</l>
 
@@ -286,7 +286,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">зато</l>
 
@@ -306,7 +306,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">и</l>
 
@@ -326,7 +326,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">ито</l>
 
@@ -346,7 +346,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">кала</l>
 
@@ -366,7 +366,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="CS">керек</l>
 
@@ -392,7 +392,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">кеч</l>
 
@@ -412,7 +412,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Conj">ман</l>
 
@@ -436,7 +436,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Conj">манын</l>
 
@@ -462,7 +462,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">ни</l>
 
@@ -482,7 +482,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Conj">но</l>
 
@@ -508,7 +508,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">потомушто</l>
 
@@ -528,7 +528,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Conj">пуйте</l>
 
@@ -536,9 +536,6 @@
         <st Contlex="K">пуйт%{еы%}</st>
       </stg>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
         <defNative/>
 
@@ -552,7 +549,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">пуйто</l>
 
@@ -572,7 +569,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Conj">садак</l>
 
@@ -580,9 +577,6 @@
         <st Contlex="K">садак</st>
       </stg>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
         <defNative/>
 
@@ -596,7 +590,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Conj">садиктак</l>
 
@@ -604,9 +598,6 @@
         <st Contlex="K">садиктак</st>
       </stg>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
         <defNative/>
 
@@ -620,7 +611,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">садлан</l>
 
@@ -640,7 +631,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">санден</l>
 
@@ -660,7 +651,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">сандене</l>
 
@@ -680,17 +671,14 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
-      <l pos="Conj">теве</l>
+      <l pos="CC">теве</l>
 
       <stg>
-        <st Contlex="CONJ_">тев%{еы%}</st>
+        <st Contlex="CC_">тев%{еы%}</st>
       </stg>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
         <defNative/>
 
@@ -699,12 +687,12 @@
       </tg>
 
       <tg xml:lang="fin">
-        <t>milloin...milloin K</t>
+        <t>milloin...milloin</t>
       </tg>
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">то</l>
 
@@ -724,7 +712,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Conj">тольке</l>
 
@@ -748,7 +736,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="Conj">только</l>
 
@@ -768,12 +756,12 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
-      <l pos="Conj">укегын</l>
+      <l pos="CS">укегын</l>
 
       <stg>
-        <st Contlex="CONJ_">укегын</st>
+        <st Contlex="CS_">укегын</st>
       </stg>
 
       <stress>укегын</stress>
@@ -788,7 +776,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Conj">что</l>
 
@@ -812,7 +800,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="Conj">чтобы</l>
 
@@ -836,19 +824,16 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
-      <l pos="Conj">я</l>
+      <l pos="CC">я</l>
 
       <stg>
-        <st Contlex="CONJ_">я</st>
+        <st Contlex="CC_">я</st>
       </stg>
 
       <stress>я</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
         <defNative/>
 
