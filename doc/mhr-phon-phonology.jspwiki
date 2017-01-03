@@ -1,7 +1,25 @@
+!!!Mari twol file
+
+This file contains rules for morphophonological alternations, such as
+vowel harmony, stem vowel changes, palatalisation, etc.
+
+We define our symbols ('''Alphabet'''), some '''Sets''', and then the '''Rules'''
 
 
+!!Letters of the alphabet
+ * а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
+ * А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
 
+other symbols
+ *    %- 
 
+Archiphonemes for vowels, Giellatekno style
+ *   е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
+ *   Ы1:ы Ы1:0 Ы2:ы Ы2:0    
+ *   А1:а А1:ӓ    
+ *   Е2:е Е2:0 А2:а А2:я   
+
+Archiphonemes for vowels, Apertium style
  * %{аы%}:а  Stem-final vowel variation when stress falls on non-final vowel
  * %{аы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
  * %{еы%}:е  Stem-final vowel variation when stress falls on non-final vowel
@@ -26,23 +44,33 @@
 
 
 
+ *  %>    
+
+
+
+
+!!Sets
+
+ * Vo =   о у ё ю О У Ё Ю ;    
+ * VO =   ӧ ӱ Ӧ Ӱ;               
+ * Ve =   а е и э я А Е И Э Я ;   
+ * Vws =  Vo VO Ve ы Ы ;    
+
+ * Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш    
+        Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     
+ * Cst =  к п т ф х ц ч ш с       
+        К П Т Ф Х Ц Ч Ш Ц ;     
+
+ * Ltrs = Vws Cns  ъ ь Ъ Ь ;    
+
+ * all =  Ltrs  %- ;     
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+!!Rules
 
 
 __ Palatal mark loss before vowel __ 
@@ -109,9 +137,9 @@ __ stem-final vowel realized %{яы%}:я __
 
 __ stem-internal glide realized in  0:й %{яы%}:ы  __
 
-
 * __а0%{яы%}%>Ы1м __
 * __айы%>0м __
+
 
 
 __ suffix-final vowel loss after stem-final vowel %{еоыӧØ%} to ZERO __  
@@ -126,23 +154,39 @@ __ suffix-final vowel realized as +Front +Round in word-final position %{еоы�
 
 
 
+__ Clitics in At and Ak take onset glide = a __  
 
-__ Clitics in At and Ak take onset glide __  
+__ Clitics in At and Ak take onset glide = ja __  
+
 
 __ й Deletion in front of я Suffix and others __  
-
 
 * __кий>А2ш __
 * __ки0>яш __
 
-__ Clitics in At and Ak take onset glide __  
+__ й Deletion in front of я Suffix and others __
+
+__ й Deletion in front of я Suffix and others __
+
+* __кай>А2 __
+* __ка0>я __
+
+* __кутыр>А2 __
+* __кутыр>а __
+
+
+
+__ Onset consonant devoicing __
+
+
+
+__ Disallow PxSg3 in ыж everywhere except after ш  __
+* __йолташ%>ыж# __
+* __йолташ%>ыж# __
+* __*олма%>ыж# __ (is not standard language)
+* __*олма%>ыж# __ (is not standard language)
+
 
 
 * __а __
 * __б __
-
-
-* __йолташ%>ыж# __
-* __йолташ%>ыж# __
-* __*олма%>ыж# __ (is not standard language)
-* __*олма%>ыж# __ (is not standard language)
