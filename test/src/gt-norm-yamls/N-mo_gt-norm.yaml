@@ -37,15 +37,13 @@ Tests:
 # Lat ! Обстоятельственный падеж - Lative - отвечает на вопрос кушан? «где»?
 # Abe ! Лишительный падеж - Abessive - отвечает на вопрос кӧ деч посна? мо деч посна? «без кого, без чего?»
 
-  Noun - ава: # Noun 'mother'
+  Noun - мо: # Noun 'what' - OK, not a noun ...
 
-     ава+N+Sg+Nom: ава
-     ава+N+Sg+PxSg1+Nom: авам
-     ава+N+Sg+Nom+Foc/Ат: ават
-     ава+N+Sg+Gen: аван
-     ава+N+Sg+Dat: авалан
-     ава+N+Pl+Nom: [ава-влак, ава-шамыч]
-     ава+N+Sg+PxSg3+Nom: [аваже, аваж]
+     мо+N+Sg+Nom: мо
+     мо+N+Sg+PxSg1+Nom: моэм
+     мо+N+Sg+Nom+Foc/Ат: моат
+     мо+N+Sg+Gen: мон
+     мо+N+Sg+Dat: молан
+     мо+N+Pl+Nom: [мо-влак, мо-шамыч]
+     мо+N+Sg+PxSg3+Nom: [можо, мож]
 
-     ава+N+Voc: авай
-     ава+N+Voc+PxSg1: аваем
