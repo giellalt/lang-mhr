@@ -4,6 +4,27 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+
+  <e order="1">
+    <lg>
+      <l pos="Pcle">теве</l>
+
+      <stg>
+        <st Contlex="PCLE_">теве</st>
+      </stg>
+
+      <stress>те•ве</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">kas</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
     <lg>
       <l pos="Pcle">адыштан</l>

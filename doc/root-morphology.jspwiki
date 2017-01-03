@@ -141,6 +141,7 @@ Question and Focus particles:
 !Derivations
 
  * __+Der/MWN__ = Modifyer without noun (better: +A+Sg+Nom etc.)
+ * __+Der/исЕ__ = Used with place names
 
 Abbreviated words are classified with:
  * __+ABBR__ = for abbreviations that (may) contain period
@@ -514,6 +515,7 @@ the following basic word classes:
    pronouns    ;	    
    pronouns_not_from_xml ;	    
    propernouns    ;    
+   propernouns-toponyms    ;    
    verbs   ;		    
    verbs_not_from_xml ;    
    Abbreviation	;   

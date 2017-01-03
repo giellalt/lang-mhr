@@ -3,8 +3,14 @@
 Meadow Mari proper nouns inflect in the same cases as regular
 nouns, but with a colon (':') as separator. (???)
 
- * LEXICON PROP_  
+ * LEXICON PROP-OLD-ORTH-SG-NOM_  
 
+
+ * LEXICON PROP_  
+ *  +N+Prop: N-ava_01 ;  decline like common nouns
+
+ * LEXICON PROP-PLC_  
+ *  +Sem/Plc+N+Prop: N-ava_01 ;  decline like common nouns
 
 !!Male given name for deriving patronyms 
 

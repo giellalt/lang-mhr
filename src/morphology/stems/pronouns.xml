@@ -4950,25 +4950,6 @@
     </mg>
   </e>
 
-  <e order="1">
-    <lg>
-      <l pos="Pron">теве</l>
-
-      <stg>
-        <st Contlex="PRON_">теве</st>
-      </stg>
-
-      <stress>те•ве</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
 
   <e order="2">
     <lg>
@@ -6368,26 +6349,6 @@
 
       <tg xml:lang="fin">
         <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e order="2">
-    <lg>
-      <l pos="Pron">тыге</l>
-
-      <stg>
-        <st Contlex="PronDem">тыг%{еы%}</st>
-      </stg>
-
-      <stress>тыге•</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>täten, tällä tavalla, näin, niin</t>
       </tg>
     </mg>
   </e>
