@@ -49,6 +49,9 @@ Tests:
      ава+N+Sg+Ill: авашке # не употребляется
      ава+N+Sg+Lat: аваеш # не употребляется
      ава+N+Sg+Abe: аваде
+     ава+N+Sg+Nom+Foc/Ат: ават
+     ава+N+Voc: авай
+     ава+N+Voc+PxSg1: аваем
 
      ава+N+AssocPl+Nom: авамыт
      ава+N+AssocPl+Gen: авамытын
@@ -94,7 +97,7 @@ Tests:
      ава+N+Sg+PxSg2+Lat: аватеш # не употребляется
      ава+N+Sg+PxSg2+Abe: аватде
 
-     ава+N+Sg+PxSg3+Nom: аваже
+     ава+N+Sg+PxSg3+Nom: [аваже, аваж] #CHECKME
      ава+N+Sg+PxSg3+Gen: аважын
      ава+N+Sg+PxSg3+Dat: [аважлан, аваланыж]
      ава+N+Sg+PxSg3+Acc: аважым
