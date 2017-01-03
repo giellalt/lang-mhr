@@ -394,10 +394,10 @@
 
   <e>
     <lg>
-      <l pos="Conj">кеч</l>
+      <l pos="CS">кеч</l>
 
       <stg>
-        <st Contlex="CONJ_">кеч</st>
+        <st Contlex="CS_">кеч</st>
       </stg>
 
       <stress>кеч</stress>
@@ -414,7 +414,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">ман</l>
+      <l pos="CS">ман</l>
 
       <stg>
         <st Contlex="CS_">ман</st>
@@ -431,14 +431,14 @@
       </tg>
 
       <tg xml:lang="fin">
-        <t>että, jotta K</t>
+        <t>että, jotta</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">манын</l>
+      <l pos="CS">манын</l>
 
       <stg>
         <st Contlex="CS_">манын</st>
@@ -484,17 +484,14 @@
 
   <e>
     <lg>
-      <l pos="Conj">но</l>
+      <l pos="CC">но</l>
 
       <stg>
-        <st Contlex="CS_">но</st>
+        <st Contlex="CC_">но</st>
       </stg>
 
       <stress>но</stress>
     </lg>
-
-    <pos>CS</pos>
-
     <mg>
         <defNative/>
 
@@ -503,17 +500,17 @@
       </tg>
 
       <tg xml:lang="fin">
-        <t>mutta K</t>
+        <t>mutta</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">потомушто</l>
+      <l pos="CS">потомушто</l>
 
       <stg>
-        <st Contlex="CONJ_">потомушто</st>
+        <st Contlex="CS_">потомушто</st>
       </stg>
 
       <stress>потому•што</stress>
@@ -544,7 +541,7 @@
       </tg>
 
       <tg xml:lang="fin">
-        <t>ikään kuin K</t>
+        <t>ikään kuin</t>
       </tg>
     </mg>
   </e>
