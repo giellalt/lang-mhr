@@ -11,8 +11,8 @@
 
 !! Here are some unfinished verb lexica. TODO: Fix.
 
-LEXICON V !!= * @CODE@ contains 4 verbs:
-+V+WORK: # ;
+!LEXICON V !!= * @CODE@ contains 4 verbs:
+!+V+WORK: # ;
 
 !! * порволыже:порволыж V  "olkoon kirottu! V" ;
 !! * порволышаш:порволышаш V  "tulkoon kirotuksi V" ;
@@ -79,8 +79,8 @@ LEXICON V-AUX_  !!= @CODE@ TODO: fix
 
 
 
-LEXICON Vam-dependent !!= @CODE@ tags +Depend and goes to V_am
- +Depend: V_am ;
+!LEXICON Vam-dependent !!= @CODE@ tags +Depend and goes to V_am
+! +Depend: V_am ;
 
 
 !! !!Regular verbs
