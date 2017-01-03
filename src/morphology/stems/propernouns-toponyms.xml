@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="">
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Виса</l>
 
@@ -14,7 +14,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="N" type="Prop">Вичымбал</l>
 
@@ -34,7 +34,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Индешкугарня</l>
 
@@ -48,7 +48,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Иргаза</l>
 
@@ -62,7 +62,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Йыгыр</l>
 
@@ -76,7 +76,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Кол</l>
 
@@ -90,7 +90,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Коркашӱдыр</l>
 
@@ -104,7 +104,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Лев</l>
 
@@ -118,7 +118,7 @@
     </mg>
   </e>
 
-  <e order="1">
+  <e>
     <lg>
       <l pos="N" type="Prop">Овен</l>
 
@@ -138,7 +138,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Презе</l>
 
@@ -152,7 +152,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Рак</l>
 
@@ -166,7 +166,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Сабантуй</l>
 
@@ -180,7 +180,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Семык</l>
 
@@ -194,7 +194,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Скорпион</l>
 
@@ -208,7 +208,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Шоктешӱдыр</l>
 
@@ -222,7 +222,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Шорык</l>
 
@@ -236,7 +236,7 @@
     </mg>
   </e>
 
-  <e order="2">
+  <e>
     <lg>
       <l pos="N" type="Prop">Шорыкйол</l>
 
