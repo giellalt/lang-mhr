@@ -26,34 +26,6 @@
 
   <e order="2">
     <lg>
-      <l pos="Num">вес</l>
-
-      <stg>
-        <st Contlex="KvO">вес</st>
-      </stg>
-    </lg>
-
-    <pos>Num</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>toinen KvO</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e order="2">
-    <lg>
       <l pos="Num">весе</l>
 
       <stg>

@@ -1,6 +1,6 @@
 !! !!!Verb inflection
 ! ---------------
-!! Meadow Mari verbs inflect in persons.
+!! Meadow Mari verb inflection.
 
 
 ! =============================== !
@@ -69,6 +69,7 @@ LEXICON ulasj
 +Prt2+Sg1:улынам K ;
 +Prt2+Sg2:улынат K ;
 +Prt2+Sg3:улмаш K ;
++Prt2+Sg3+Use/NG:улмашын K ;
 +Prt2+Pl1:улынна K ;
 +Prt2+Pl2:улында K ;
 +Prt2+Pl3:улыныт K ;
@@ -76,13 +77,6 @@ LEXICON ulasj
 LEXICON V-AUX_  !!= @CODE@ TODO: fix
 +V+Aux: # ;
 
-
-
-LEXICON Vem--Vam-n/l !!= @CODE@ TODO: fix, this is set to V_em for now.
-V_em ;
-
-LEXICON Vem-jykte1  !!= @CODE@ TODO: fix, this is set to V_em for now.
-V_em ;
 
 
 LEXICON Vam-dependent !!= @CODE@ tags +Depend and goes to V_am
@@ -100,10 +94,11 @@ LEXICON V_am !!= @CODE@ divides V_am in Mood and infinites
              +V+Inf:%>А2ш K           ;
          +V+Ger+Gen:%>ын  K           ;
                  +V:      non-finites ;
-  +V+Ind+Prs+ConNeg:      K           ;
- +V+Ind+Prt1+ConNeg:      K           ;
-    +V+Imprt+ConNeg:      K           ;
-      +V+Des+ConNeg:      K           ;
+          +V+ConNeg: K ;
+!  +V+Ind+Prs+ConNeg:      K           ;
+! +V+Ind+Prt1+ConNeg:      K           ;
+!    +V+Imprt+ConNeg:      K           ;
+!      +V+Des+ConNeg:      K           ;
        +V+Imprt+Sg2:      K-imprt     ;
 
 LEXICON Vam-Mood !!= @CODE@ divides in Ind, Imprt, Des
@@ -132,7 +127,8 @@ LEXICON Vam-Ind !!= @CODE@ gives all the Ind tenses
     +Prt2+Pl1:%>ынна K ;
     +Prt2+Pl2:%>ында K ;
     +Prt2+Pl3:%>ыныт K ;
- +Prt2+ConNeg:%>ын   K ;
+! +Prt2+ConNeg:%>ын   K ;
+      +ConNeg:%>ын   K ;
 
 LEXICON Vam-Imp  !!= @CODE@ for imperative
 ! Повелительное наклонение:
@@ -158,10 +154,11 @@ LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
 ! Деепричастие образа действия:
          +V+Ger+Gen:%>ен  K           ;
                  +V:ы     non-finites ;
-  +V+Ind+Prs+ConNeg:%>Ы2  K           ;
- +V+Ind+Prt1+ConNeg:%>Ы2  K           ;
-    +V+Imprt+ConNeg:%>Ы2  K           ;
-      +V+Des+ConNeg:%>Ы2  K           ;
+          +V+ConNeg:%>Ы2  K           ;
+!  +V+Ind+Prs+ConNeg:%>Ы2  K           ;
+! +V+Ind+Prt1+ConNeg:%>Ы2  K           ;
+!    +V+Imprt+ConNeg:%>Ы2  K           ;
+!      +V+Des+ConNeg:%>Ы2  K           ;
        +V+Imprt+Sg2:%>Ы2  K-imprt     ;
 
 
@@ -191,8 +188,8 @@ LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
     +Prt2+Pl1:%>енна K ;
     +Prt2+Pl2:%>енда K ;
     +Prt2+Pl3:%>еныт K ;
- +Prt2+ConNeg:%>ен   K ;
-
+! +Prt2+ConNeg:%>ен   K ;
+     +ConNeg:%>ен   K ;
 LEXICON Vem-Imp !!= * @CODE@ for imperative
 ! Повелительное наклонение:
  +Sg3:%>ыжЫ2 K       ;
@@ -215,11 +212,12 @@ LEXICON z-C !!= * @CODE@
            +Ger+Gen:з%>ын  K           ;
                  +V:ч      non-finites ;
                  +V:з      Vam-Mood    ;
-  +V+Ind+Prs+ConNeg:ч      K           ;
- +V+Ind+Prt1+ConNeg:ч      K           ;
-    +V+Imprt+ConNeg:ч      K           ;
+      +V+ConNeg:ч K ;
+! +V+Ind+Prs+ConNeg:ч      K           ;
+! +V+Ind+Prt1+ConNeg:ч      K           ;
+!    +V+Imprt+ConNeg:ч      K           ;
        +V+Imprt+Sg2:ч      K-imprt     ;
-      +V+Des+ConNeg:ч      K           ;
+!      +V+Des+ConNeg:ч      K           ;
 
 !! V_am, лукташ : лук
 LEXICON t-0 !!= * @CODE@
@@ -227,11 +225,12 @@ LEXICON t-0 !!= * @CODE@
            +Ger+Gen:т%>ын  K           ;
                  +V:       non-finites ;
                  +V:т      Vam-Mood    ;
-  +V+Ind+Prs+ConNeg:       K           ;
- +V+Ind+Prt1+ConNeg:       K           ;
-    +V+Imprt+ConNeg:       K           ;
++V+ConNeg: K ;
+!+V+Ind+Prs+ConNeg:       K           ;
+! +V+Ind+Prt1+ConNeg:       K           ;
+!    +V+Imprt+ConNeg:       K           ;
        +V+Imprt+Sg2:       K-imprt     ;
-      +V+Des+ConNeg:       K           ;
+!      +V+Des+ConNeg:       K           ;
 
 !! V_am, кушкаш : куш
 LEXICON k-0 !!= * @CODE@
@@ -240,11 +239,12 @@ LEXICON k-0 !!= * @CODE@
                +Ger:к%>шыла K           ;
                  +V:        non-finites ;
                  +V:к       Vam-Mood    ;
-  +V+Ind+Prs+ConNeg:        K           ;
- +V+Ind+Prt1+ConNeg:        K           ;
-    +V+Imprt+ConNeg:        K           ;
++V+ConNeg: K ;
+!+V+Ind+Prs+ConNeg:        K           ;
+! +V+Ind+Prt1+ConNeg:        K           ;
+!    +V+Imprt+ConNeg:        K           ;
        +V+Imprt+Sg2:        K-imprt     ;
-      +V+Des+ConNeg:        K           ;
+!      +V+Des+ConNeg:        K           ;
 
 !! V_am, шинчаш шич
 !! this is the proof or consonant stem cf. vowel stem in -ем verbs.
@@ -255,16 +255,14 @@ LEXICON nC-C
                 +Ger:ч%>шыла K           ;
                   +V:ч       non-finites ;
                   +V:нч      Vam-Mood    ;
-   +V+Ind+Prs+ConNeg:ч       K           ;
-  +V+Ind+Prt1+ConNeg:ч       K           ;
-     +V+Imprt+ConNeg:ч       K           ;
++V+ConNeg: K ;
+!+V+Ind+Prs+ConNeg:ч       K           ;
+!  +V+Ind+Prt1+ConNeg:ч       K           ;
+!     +V+Imprt+ConNeg:ч       K           ;
         +V+Imprt+Sg2:ч       K-imprt     ;
-       +V+Des+ConNeg:ч       K           ;
+!       +V+Des+ConNeg:ч       K           ;
 
 !! These need work 2012-09-21
-
-LEXICON Vam-n/l--1t !!= * @CODE@
- +V+Inf:%>аш K ;
 
 
 

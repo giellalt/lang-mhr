@@ -6,6 +6,24 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
+      <l pos="Interj">порволыжо</l>
+
+      <stg>
+        <st Contlex="INTERJ_">порволыж</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t>olkoon kirottu! V</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Interj">а</l>
 
       <stg>

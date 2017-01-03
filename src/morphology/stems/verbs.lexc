@@ -495,8 +495,7 @@ LEXICON verbs
 котырланаш:котырлан V_em  "ruvettua" ;
 котьланаш:котьлан V_em  "(leipä) kuivettua" ;
 кочалгаш:кочалг V_em  "kitkeröityä" ;
-кочаш+Hom1:коч Vam-dependent  "syödä; kirveltää" ;
-кочаш+Hom2:коч V_em  "kitkeröityä" ;
+кочаш:коч V_em  "kitkeröityä" ;
 кочештараш:кочештар V_em  "kitkeröittää" ;
 кочыктараш:кочыктар V_em  "kitkeröittää" ;
 кочыртаташ:кочыртат V_em  "narahtaa; kirskuttaa" ;
@@ -652,7 +651,6 @@ LEXICON verbs
 левыкташ:левыкт V_em  "sulattaa; lämmittää (nestettä)" ;
 лекташ:лек t-0  "lähteä, mennä; tulla esiin; saada alkunsa" ;
 лиедаш:лиед V_em  "tapahtua" ;
-лийшаш:лийшаш V-AUX_  "pitää olla V" ;
 лишемдаш:лишемд V_em  "lähentää" ;
 лишитлаш:лишитл V_em  "riistää oikeudet" ;
 лияш:лий V_am  "voi, saa" ;
@@ -759,7 +757,7 @@ LEXICON verbs
 меҥыргаш:меҥырг V_em  "kuihtua" ;
 меҥырташ:меҥырт V_em  "lakata kasvamasta" ;
 мияш+Hom2:мий V_em  "mennä, tulla" ;
-мияш+Hom1:мий Vem--Vam-n/l  "olla kanssakäymisessä Vem-Vam" ;
+мияш+Hom1:мий V_em  "olla kanssakäymisessä Vem-Vam" ;
 минироватлаш:минироватл V_em  "miinoittaa" ;
 миоҥлаш:миоҥл V_em  "naukua" ;
 мобилизоватлаш:мобилизоватл V_em  "mobilisoida" ;
@@ -1031,8 +1029,6 @@ LEXICON verbs
 поранаш:поран V_em  "myrskytä, pyryttää" ;
 пораҥдаш:пораҥд V_em  "liata (liidulla)" ;
 порволаш:порвол V_em  "vajota, luhistua; olla kirottu" ;
-порволыже:порволыж V  "olkoon kirottu! V" ;
-порволышаш:порволышаш V  "tulkoon kirotuksi V" ;
 поремдаш:поремд V_em  "hyvitellä, suostutella" ;
 послаш:посл V_em  "aloittaa" ;
 почаш:поч V_am  "avata; keksiä; purkaa" ;
@@ -1075,7 +1071,7 @@ LEXICON verbs
 пужыкташ:пужыкт V_em  "purattaa; pilaannuttaa; väännättää; lyöttää hajalle" ;
 пузыргаш:пузырг V_em  "työntyä, pursua" ;
 пукшаш:пукш V_em  "syöttää, elättää" ;
-пукшаш:пукш Vem-jykte1  "syöttää ja juottaa, elättää" ;
+пукшаш:пукш V_em  "syöttää ja juottaa, elättää" ;
 пулдырташ:пулдырт V_em  "(viiriäinen) kiljua" ;
 пулчаш:пулч V_em  "pukea ja käyttää Sarpan- ja naSmak-päähinettä S" ;
 пулышнаш:пулышн V_em  "rauhoittua" ;
@@ -1277,7 +1273,6 @@ LEXICON verbs
 систаш:сист V_em  "houkutella lintuja pillillä" ;
 ситараш:ситар V_em  "elää kituuttaa; varustaa; saattaa loppuun" ;
 ситаш:сит V_em  "riittää" ;
-ситыш:ситыш V  "on riittävästi, riittää V" ;
 скыртлаш:скыртл V_em  "aumata" ;
 служитлаш:служитл V_em  "työskennellä; palvella" ;
 смолалаш:смолал V_em  "tervata" ;
@@ -1546,8 +1541,6 @@ LEXICON verbs
 укшинчыкташ:укшинчыкт V_em  "oksettaa" ;
 улдаш:улд V_em  "rukoilla" ;
 улаш+Hom2:ул V-AUX_  "on (olemassa)" ;
-улмаш:улмаш V-AUX_  "oli; (apuverbi) V" ;
-улмаште:улмашт V  "(jnk) ollessa (läsnä); jos on V" ;
 улмашын:улмашын V-AUX_  "oli; (apuverbi) V" ;
 улнаш:улн V_em  "väsyä; hautua" ;
 умаш:ум V_em  "kasvaa, itää (hyvin); menestyä" ;
@@ -1589,7 +1582,7 @@ LEXICON verbs
 уштаркалаш:уштаркал V_em  "yhdistellä, lisäillä" ;
 уэмаш:уэм V_am  "nuortua, uudistua" ;
 уэмдаш:уэмд V_em  "nuorentaa, uusia" ;
-уэмдыл:уэмдыл Vam-n/l--1t  "uudistella" ;
+уэмдылаш:уэмдыл V_am  "uudistella" ;
 уэтласаш:уэтлас V_em  "kiistää, evätä" ;
 уэшталташ:уэшталт V_em  "haukotella (kerran)" ;
 уэштыкташ:уэштыкт V_em  "haukotuttaa" ;
@@ -1960,7 +1953,6 @@ LEXICON verbs
 шӱяҥаш:шӱяҥ V_am  "märkiä" ;
 ызгаш:ызг V_em  "surista" ;
 ылыжташ:ылыжт V_em  "sytyttää; elvyttää" ;
-ыльна:ыльна V-AUX_  "olimme V" ;
 ыльым:ыльым V-AUX_  "olin V" ;
 ыльыч:ыльыч V-AUX_  "olit; olivat V" ;
 ымдылаш:ымдыл V_em  "hyökätä" ;
@@ -1970,7 +1962,7 @@ LEXICON verbs
 ырлаш:ырл V_em  "murista, karjua" ;
 ырыкташ:ырыкт V_em  "lämmittää" ;
 ырыштараш:ырыштар V_em  "ärsyttää" ;
-ыштал:ыштал Vam-n/l--1t  "tehdä (vähän), tekeytyä" ;
+ышталаш:ыштал V_am  "tehdä (vähän), tekeytyä" ;
 ышташ:ышт V_em  "tehdä" ;
 ыҥлаш:ыҥл V_em  "ymmärtää" ;
 эвакуироватлаш:эвакуироватл V_em  "evakuoida" ;
