@@ -125,9 +125,11 @@ Rules
 
 "suffix-final vowel loss after stem-final vowel"
 !! __ @RULENAME@ __  
-  Ы2:0 <=> Vws %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ л | г | ш | д | Е2: | А2: ] ;
+  Ы2:0 <=> Vws %> Ы1: ш [ т | к ]  _ %> [ л | г | ш | д | Е2: | А2: ] ;
+! Vws %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ л | г | ш | д | Е2: | А2: ] ;
 ! Vws %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
-           Cns %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ е ш |Е1: ш | А2: ] ;
+           Cns %> Ы1: ш [ т | к ]  _ %> [ е ш |Е1: ш | А2: ] ;
+!           Cns %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ е ш |Е1: ш | А2: ] ;
 
 "suffix-final vowel realized after stem-final consonant"
 !! __ @RULENAME@ __  
@@ -272,7 +274,7 @@ Rules
 
 "Clitics in At and Ak take onset glide = a"
 !! __ @RULENAME@ __  
-  А2:а <=> [ Cns ( Ы2:0 ) |%{еы%}:|%{оы%}:|%{ӧы%}:|ю| :е|:э|:о|:ӧ|:ӱ|:и|:у ] %> _ [ т | к | м | ш | .#. ] ;
+  А2:а <=> [ Cns ( Ы2:0 |%{еы%}:|%{оы%}:|%{ӧы%}:)|ю| :е|:э|:о|:ӧ|:ӱ|:и|:у ] %> _ [ т | к | м | ш | .#. ] ;
  
 "Clitics in At and Ak take onset glide = ja"
 !! __ @RULENAME@ __  
@@ -337,7 +339,9 @@ Rules
 з:ч <=> Vow _  %> [м|ш|д] ;
 
 
-
+"Disallow PxSg3 in ж everywhere except after :Vow "
+!! __ @RULENAME@ __
+ж:ж /<= [:Ltrs - :Vow] %> _ [.#.| %-]  ;
 
 "Disallow PxSg3 in ыж everywhere except after ш "
 !! __ @RULENAME@ __
