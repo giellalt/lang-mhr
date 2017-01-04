@@ -91,6 +91,11 @@ LEXICON PronI !!= * @CODE@
 LEXICON PronIR !!= * @CODE@
 +Pron+Interr: # ;
 
+LEXICON PRON-INTERR/REL_
++Pron+Interr: N-ava_01 ;
++Pron+Rel: N-ava_01 ;
+
+
 LEXICON PronInd !!= * @CODE@
 +Pron+Ind: # ;
 

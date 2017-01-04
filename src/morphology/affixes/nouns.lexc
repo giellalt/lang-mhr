@@ -251,7 +251,7 @@ LEXICON N-SG-GEN !!= * @CODE@
  +Sg+Gen:%>Ы1н K ;
 
 LEXICON N-SG-DAT !!= * @CODE@
- +Sg+Dat:лан K ;
+ +Sg+Dat:%>лан K ;
 
 LEXICON N-SG-ACC !!= * @CODE@
  +Sg+Acc:%>Ы1м K ;

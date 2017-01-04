@@ -37,12 +37,12 @@ Tests:
 # Lat ! Обстоятельственный падеж - Lative - отвечает на вопрос кушан? «где»?
 # Abe ! Лишительный падеж - Abessive - отвечает на вопрос кӧ деч посна? мо деч посна? «без кого, без чего?»
 
-  Noun - кӧ: # Noun 'who' - OK, not a noun
+  Pronoun - кӧ: # Pronoun 'who' - OK, not a noun
 
-     кӧ+N+Sg+Nom: кӧ
-     кӧ+N+Sg+PxSg1+Nom: кӧэм
-     кӧ+N+Sg+Nom+Foc/Ат: кӧат
-     кӧ+N+Sg+Gen: кӧн
-     кӧ+N+Sg+Dat: кӧлан
-     кӧ+N+Pl+Nom: [кӧ-влак, кӧ-шамыч]
-     кӧ+N+Sg+PxSg3+Nom: [кӧжӧ, кӧж]
+     кӧ+Pron+Interr+Sg+Nom: кӧ
+     кӧ+Pron+Interr+Sg+PxSg1+Nom: кӧэм
+     кӧ+Pron+Interr+Sg+Nom+Foc/Ат: кӧат
+     кӧ+Pron+Interr+Sg+Gen: кӧн
+     кӧ+Pron+Interr+Sg+Dat: кӧлан
+     кӧ+Pron+Interr+Pl+Nom: [кӧ-влак, кӧ-шамыч]
+     кӧ+Pron+Interr+Sg+PxSg3+Nom: [кӧжӧ, кӧж]
