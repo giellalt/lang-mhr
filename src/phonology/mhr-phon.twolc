@@ -70,8 +70,8 @@ Vws =  Vo VO Ve ы Ы ;   !!= * @CODE@
 
 Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш   !!= * @CODE@ 
        Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;    !!= @CODE@ 
-Cst =  к п т ф х ц ч ш с      !!= * @CODE@ 
-       К П Т Ф Х Ц Ч Ш Ц ;    !!= @CODE@ 
+Cst =  б в г д ж з к п с т ф х ц ч ш      !!= * @CODE@ 
+       Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш ;    !!= @CODE@ 
 
 Ltrs = Vws Cns  ъ ь Ъ Ь ;   !!= * @CODE@ 
 
@@ -90,6 +90,9 @@ Rules
 "Palatal mark loss before vowel"
 !! __ @RULENAME@ __ 
     ь:0  <=>   _ (%{еы%}:|%{оы%}:|%{ӧы%}:) %> [А2:|Е2:] ;
+!! имне+N+Sg+Nom+Foc/Ат
+!!€ имнь%{еы%}%>А2т
+!!€ имн00%>ят
                _ %{яы%}: .#. ;
 !!€ башнь%{яы%}
 !!€ башн0я
@@ -109,7 +112,7 @@ Rules
 
 "Onset vowel Е2 realized in suffix э"
 !! __ @RULENAME@ __  
-  Е2:э <=> [у|ӱ|и|ю|о] %> _ ;
+  Е2:э <=> [у|ӱ|и|ю|о|ӧ] %> _ ;
 
 "Onset vowel Е2 realized in suffix ZERO"
 !! __ @RULENAME@ __  
@@ -192,7 +195,7 @@ Rules
 
 "suffix-final vowel realized %{еы%}:ы "
 !! __ @RULENAME@ __  
-  %{еы%}:ы <=>  [Cns (ь)| Vow 0: ] _ %> [ л | г | ш | д | Ы1: ] ;
+  %{еы%}:ы <=>  [Cns (ь)| Vow 0: ] _ %> [ л | г | ш | ж | д | Ы1: ] ;
 
 "stem-final vowel realized %{еы%}:е"
 !! __ @RULENAME@ __  
@@ -200,7 +203,7 @@ Rules
 
 "suffix-final vowel realized %{ӧы%}:ы "
 !! __ @RULENAME@ __  
-  %{ӧы%}:ы <=>  [Cns (ь)| Vow 0: ] _ %> [ л | г | ш | д | Ы1: ] ;
+  %{ӧы%}:ы <=>  [Cns (ь)| Vow 0: ] _ %> [ л | г | ш | ж | д | Ы1: ] ;
 
 "stem-final vowel realized %{ӧы%}:ӧ"
 !! __ @RULENAME@ __  
@@ -208,7 +211,7 @@ Rules
 
 "suffix-final vowel realized %{оы%}:ы "
 !! __ @RULENAME@ __  
-  %{оы%}:ы <=>  Cns (ь:) _ %> [ л | г | ш | д | Ы1: ] ;
+  %{оы%}:ы <=>  Cns (ь:) _ %> [ л | г | ш | ж | д | Ы1: ] ;
 
 "stem-final vowel realized %{оы%}:о"
 !! __ @RULENAME@ __  
@@ -273,7 +276,7 @@ Rules
  
 "Clitics in At and Ak take onset glide = ja"
 !! __ @RULENAME@ __  
-  А2:я <=> ь:0 (%{еы%}:|%{оы%}:|%{ӧы%}:) %> _ [ т | к | м | ш ] ;
+  А2:я <=> ь: (%{еы%}:|%{оы%}:|%{ӧы%}:) %> _ [ т | к | м | ш | # ] ;
 !! когыльо+N+Sg+Nom+Foc/Ат
 !!€ когыль%{оы%}%>А2т
 !!€ когыл00%>ят
@@ -314,8 +317,7 @@ Rules
 ! Devoicing
 "Onset consonant devoicing"
 !! __ @RULENAME@ __
-ж:ш <=> [ Cst | ж ] %> _ Ы2: ;
-         [ Cst | ж ] %> %{ыØ%}:0 _ %{еоыӧØ%}: ;  
+ж:ш <=> Cst  %> _ Ы2: ;
 
 ! Consonant loss
 "Stem-final consonant loss т"
