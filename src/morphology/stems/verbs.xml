@@ -2332,7 +2332,7 @@
       <l pos="V">вичкынчаш</l>
 
       <stg>
-        <st Contlex="nC-C">вичкы</st>
+        <st Contlex="V_am">вичкынч</st>
       </stg>
     </lg>
 
@@ -2407,6 +2407,15 @@
 
   <e>
     <lg>
+      <l pos="V">вияҥаш</l><stg><st Contlex="V_am">вияҥ</st></stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="V">вияҥдаш</l>
 
       <stg>
@@ -2430,7 +2439,7 @@
       <l hid="Hom3" pos="V">возаш</l>
 
       <stg>
-        <st Contlex="z-C">во</st>
+        <st Contlex="V_am">воз</st>
       </stg>
     </lg>
 
@@ -6690,7 +6699,7 @@
       <l pos="V">йӱгынчаш</l>
 
       <stg>
-        <st Contlex="nC-C">йӱгы</st>
+        <st Contlex="V_am">йӱгынч</st>
       </stg>
     </lg>
 
@@ -7366,7 +7375,7 @@
       <l pos="V">камвозаш</l>
 
       <stg>
-        <st Contlex="z-C">камво</st>
+        <st Contlex="V_am">камвоз</st>
       </stg>
     </lg>
 
@@ -9935,6 +9944,15 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="V">кочкаш</l><stg><st Contlex="V_am">кочк</st></stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
 
   <e>
     <lg>
@@ -11143,7 +11161,7 @@
       <l pos="V">кушкаш</l>
 х
       <stg>
-        <st Contlex="k-0">куш</st>
+        <st Contlex="V_am">куш</st>
       </stg>
     </lg>
 
@@ -11926,7 +11944,7 @@
       <l pos="V">кӧргынчаш</l>
 
       <stg>
-        <st Contlex="nC-C">кӧргы</st>
+        <st Contlex="V_am">кӧргынч</st>
       </stg>
     </lg>
 
@@ -12938,7 +12956,7 @@
       <l pos="V">лекташ</l>
 
       <stg>
-        <st Contlex="t-0">лек</st>
+        <st Contlex="V_am">лект</st>
       </stg>
     </lg>
 
@@ -13254,7 +13272,7 @@
       <l pos="V">локшинчаш</l>
 
       <stg>
-        <st Contlex="nC-C">локши</st>
+        <st Contlex="V_am">локшинч</st>
       </stg>
     </lg>
 
@@ -13532,7 +13550,7 @@
       <l pos="V">лудыкташ</l>
 
       <stg>
-        <st Contlex="t-0">лудык</st>
+        <st Contlex="V_am">лудыкт</st>
       </stg>
     </lg>
 
@@ -13550,7 +13568,7 @@
       <l pos="V">лукташ</l>
 
       <stg>
-        <st Contlex="t-0">лук</st>
+        <st Contlex="V_am">лукт</st>
       </stg>
     </lg>
 
@@ -15789,7 +15807,7 @@
       <l pos="V">мушкаш</l>
 
       <stg>
-        <st Contlex="k-0">муш</st>
+        <st Contlex="V_am">мушк</st>
       </stg>
     </lg>
 
@@ -16937,7 +16955,7 @@
       <l pos="V">нушкаш</l>
 
       <stg>
-        <st Contlex="k-0">нуш</st>
+        <st Contlex="V_am">нушк</st>
       </stg>
     </lg>
 
@@ -22167,7 +22185,7 @@
       <l pos="V">пушкынчаш</l>
 
       <stg>
-        <st Contlex="nC-C">пушкы</st>
+        <st Contlex="V_am">пушкынч</st>
       </stg>
     </lg>
 
@@ -23621,7 +23639,7 @@
       <l pos="V">пӱчкаш</l>
 
       <stg>
-        <st Contlex="k-0">пӱч</st>
+        <st Contlex="V_am">пӱч</st>
       </stg>
     </lg>
 
@@ -23679,7 +23697,7 @@
       <l pos="V">пӱшкынчаш</l>
 
       <stg>
-        <st Contlex="nC-C">пӱшкы</st>
+        <st Contlex="V_am">пӱшкынч</st>
       </stg>
     </lg>
 
@@ -30173,7 +30191,7 @@
       <l pos="V">тӱрвынчаш</l>
 
       <stg>
-        <st Contlex="nC-C">тӱрвы</st>
+        <st Contlex="V_am">тӱрвынч</st>
       </stg>
     </lg>
 
@@ -30927,7 +30945,7 @@
       <l pos="V">укшинчаш</l>
 
       <stg>
-        <st Contlex="nC-C">укши</st>
+        <st Contlex="V_am">укшинч</st>
       </stg>
     </lg>
 
@@ -35180,7 +35198,7 @@
       <l pos="V">шинчаш</l>
 
       <stg>
-        <st Contlex="nC-C">ши</st>
+        <st Contlex="V_am">шинч</st>
       </stg>
     </lg>
 
@@ -35722,7 +35740,7 @@
       <l pos="V">шокташ</l>
 
       <stg>
-        <st Contlex="t-0">шок</st>
+        <st Contlex="V_am">шокт</st>
       </stg>
     </lg>
 
@@ -37090,7 +37108,7 @@
       <l pos="V">шупшыкташ</l>
 
       <stg>
-        <st Contlex="t-0">шупшык</st>
+        <st Contlex="V_am">шупшыкт</st>
       </stg>
     </lg>
 
@@ -38385,7 +38403,7 @@
       <l pos="V">шӱгынчаш</l>
 
       <stg>
-        <st Contlex="nC-C">шӱгы</st>
+        <st Contlex="V_am">шӱгынч</st>
       </stg>
     </lg>
 
@@ -38958,6 +38976,15 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="V">шӱртняш</l><stg><st Contlex="V_em">шӱртнь</st></stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+    </mg>
+  </e>
 
   <e>
     <lg>
@@ -39088,7 +39115,7 @@
       <l pos="V">шӱшкаш</l>
 
       <stg>
-        <st Contlex="k-0">шӱш</st>
+        <st Contlex="V_am">шӱш</st>
       </stg>
     </lg>
 
@@ -41380,7 +41407,7 @@
       <l pos="V">ӱгынчаш</l>
 
       <stg>
-        <st Contlex="nC-C">ӱгы</st>
+        <st Contlex="V_am">ӱгынч</st>
       </stg>
     </lg>
 
@@ -41538,7 +41565,7 @@
       <l pos="V">ӱпшынчаш</l>
 
       <stg>
-        <st Contlex="nC-C">ӱпшы</st>
+        <st Contlex="V_am">ӱпшынч</st>
       </stg>
     </lg>
 
