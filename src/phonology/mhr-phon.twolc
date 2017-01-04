@@ -66,14 +66,14 @@ Sets
 Vo =   о у ё ю О У Ё Ю ;   !!= * @CODE@ 
 VO =   ӧ ӱ Ӧ Ӱ;              !!= * @CODE@ 
 Ve =   а е и э я А Е И Э Я ;  !!= * @CODE@ 
-Vws =  Vo VO Ve ы Ы ;   !!= * @CODE@ 
+Vow =  Vo VO Ve ы Ы ;   !!= * @CODE@ 
 
 Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш   !!= * @CODE@ 
        Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;    !!= @CODE@ 
 Cst =  б в г д ж з к п с т ф х ц ч ш      !!= * @CODE@ 
        Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш ;    !!= @CODE@ 
 
-Ltrs = Vws Cns  ъ ь Ъ Ь ;   !!= * @CODE@ 
+Ltrs = Vow Cns  ъ ь Ъ Ь ;   !!= * @CODE@ 
 
 all =  Ltrs  %- ;    !!= * @CODE@ 
 
@@ -102,7 +102,7 @@ Rules
 ! JMR 2012-09-18
 "Onset vowel loss in suffix"
 !! __ @RULENAME@ __  
- Vx:0 <=>        [:Vws|%{еы%}:|%{оы%}:|%{ӧы%}:] %> _ ;
+ Vx:0 <=>        [:Vow|%{еы%}:|%{оы%}:|%{ӧы%}:] %> _ ;
            %> ж Ы2: %> _ ;
         where Vx in (Ы1) ;
 
@@ -125,9 +125,9 @@ Rules
 
 "suffix-final vowel loss after stem-final vowel"
 !! __ @RULENAME@ __  
-  Ы2:0 <=> Vws %> Ы1: ш [ т | к ]  _ %> [ л | г | ш | д | Е2: | А2: ] ;
-! Vws %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ л | г | ш | д | Е2: | А2: ] ;
-! Vws %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
+  Ы2:0 <=> Vow %> Ы1: ш [ т | к ]  _ %> [ л | г | ш | д | Е2: | А2: ] ;
+! Vow %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ л | г | ш | д | Е2: | А2: ] ;
+! Vow %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
            Cns %> Ы1: ш [ т | к ]  _ %> [ е ш |Е1: ш | А2: ] ;
 !           Cns %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ е ш |Е1: ш | А2: ] ;
          _ %> [Е2:|А2:] ;
@@ -135,7 +135,7 @@ Rules
 "suffix-final vowel realized after stem-final consonant"
 !! __ @RULENAME@ __  
   Ы2:ы <=>  Cns %> [ ж: | д ы м ] _ %> [ л | г | ш [ т | к ] | д | Ы1: ] ;
-            Vws %> [ ж | д ы м ] _ %> Ы1: [ м | н ] ;
+            Vow %> [ ж | д ы м ] _ %> Ы1: [ м | н ] ;
 !            %>  Ы1: ш [ т | к ]  _ %> Ы1: ;
 
 "suffix-final vowel realized as -Round in word-final position"
@@ -222,18 +222,18 @@ Rules
 
 "suffix-final vowel realized %{яы%}:ы "
 !! __ @RULENAME@ __  
-  %{яы%}:ы <=>  [Cns ь| Vws й] _ %>: [ л | г | ш | д | Ы1: ] ;
+  %{яы%}:ы <=>  [Cns ь| Vow й] _ %>: [ л | г | ш | д | Ы1: ] ;
         
 "stem-final vowel realized %{яы%}:я"
 !! __ @RULENAME@ __  
-  %{яы%}:я <=> [Cns ь:| Vws 0:] _ [ .#. | %- ] ;
+  %{яы%}:я <=> [Cns ь:| Vow 0:] _ [ .#. | %- ] ;
 
 !!€ башнь%{яы%}
 !!€ башн0я
 
 "stem-internal glide realized in  0:й %{яы%}:ы "
 !! __ @RULENAME@ __
-  0:й <=> Vws _ [ %{яы%}:ы | %{еы%}:ы ] ;
+  0:й <=> Vow _ [ %{яы%}:ы | %{еы%}:ы ] ;
 
 !!€ а0%{яы%}%>Ы1м
 !!€ айы%>0м
@@ -243,13 +243,13 @@ Rules
 !2017-01-03!!begin %{еоӧØ%}
 !2017-01-03!"suffix-final vowel loss after stem-final vowel %{еоыӧØ%} to ZERO"
 !2017-01-03!!! __ @RULENAME@ __  
-!2017-01-03!  %{еоыӧØ%}:0 <=> Vws %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
+!2017-01-03!  %{еоыӧØ%}:0 <=> Vow %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
 !2017-01-03!           Cns %> [ Ы1: ш [ т | к ] | ж: ] _ %> [ е ш | А2: ] ;
 !2017-01-03!
 !2017-01-03!"suffix-final vowel realized after stem-final consonant %{еоыӧØ%} to ы "
 !2017-01-03!!! __ @RULENAME@ __  
 !2017-01-03!  %{еоыӧØ%}:ы <=>  Cns %> [ ж: | д ы м ] _ %> [ л | г | ш [ т | к ] | д | Ы1: ] ;
-!2017-01-03!            Vws %> [ ж | д ы м ] _ %> Ы1: [ м | н ] ;
+!2017-01-03!            Vow %> [ ж | д ы м ] _ %> Ы1: [ м | н ] ;
 !2017-01-03!!            %>  Ы1: ш [ т | к ]  _ %> Ы1: ;
 !2017-01-03!
 !2017-01-03!"suffix-final vowel realized as -Round in word-final position %{еоыӧØ%} 2 е"
@@ -346,7 +346,7 @@ Rules
 
 "Disallow PxSg3 in ж everywhere except after :Vow "
 !! __ @RULENAME@ __
-ж:ж /<= [:Ltrs - :Vow] %> _ [.#.| %-]  ;
+ж:ж /<= [:Ltrs - :Vow] %> _ [.#.| %-|#]  ;
 
 "Disallow PxSg3 in ыж everywhere except after ш "
 !! __ @RULENAME@ __

@@ -542,7 +542,7 @@ LEXICON N-PL-PxSg2-ABE
 LEXICON N-SG-PxSg3-NOM !!= * @CODE@
  +Sg+PxSg3+Nom:%>ыж K ; !NB_PX_CX Only after ш see twolc
  +Sg+PxSg3+Nom:%>жЫ2 K ; !NB_PX_CX
- +Sg+PxSg3+Nom:%>ж K ; !NB_PX_CX
+ +Sg+PxSg3+Nom:%>ж # ; !NB_PX_CX
 
 LEXICON N-SG-PxSg3-GEN !!= * @CODE@
  +Sg+PxSg3+Gen:%>ыж%>ын K ; !NB_PX_CX
