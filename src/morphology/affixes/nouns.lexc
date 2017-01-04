@@ -421,6 +421,8 @@ LEXICON N-PL-PxSg1-ILL !!= * @CODE@
  +Pl+PxSg1+Ill:%-шамычышкем  K ; !NB_CX_PX
  +Pl+PxSg1+Ill:%>Е2м%-влакышке  K ; !PX_NB_CX
  +Pl+PxSg1+Ill:%>Е2м%-шамычышке K ; !PX_NB_CX
+ +Pl+PxSg1+Ill:%>Е2м%-влакыш  K ; !PX_NB_CX
+ +Pl+PxSg1+Ill:%>Е2м%-шамычыш K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg1-LAT !!= * @CODE@
  +Pl+PxSg1+Lat:%-влакешем  K ; !NB_CX_PX
@@ -585,12 +587,12 @@ LEXICON N-SG-PxSg3-ABE !!= * @CODE@
 LEXICON N-PL-PxSg3-NOM !!= * @CODE@
  +Pl+PxSg3+Nom:%-влакше  K ; !NB_PX_CX
  +Pl+PxSg3+Nom:%-шамычше K ; !NB_PX_CX
- +Pl+PxSg3+Nom:%>жЫ2%-влакше  K ; !PX_NB_CX
- +Pl+PxSg3+Nom:%>жЫ2%-шамычше K ; !PX_NB_CX
- +Pl+PxSg3+Nom:%>ж%-влакше  K ; !PX_NB_CX CHECKME 2016-12-27
- +Pl+PxSg3+Nom:%>ж%-шамычше K ; !PX_NB_CX
- +Pl+PxSg3+Nom:%>ыж%-влакше  K ; !PX_NB_CX 
- +Pl+PxSg3+Nom:%>ыж%-шамычше K ; !PX_NB_CX
+ +Pl+PxSg3+Nom:%>жЫ2%-влак  K ; !PX_NB_CX
+ +Pl+PxSg3+Nom:%>жЫ2%-шамыч K ; !PX_NB_CX
+ +Pl+PxSg3+Nom:%>ж%-влак  K ; !PX_NB_CX CHECKME 2016-12-27
+ +Pl+PxSg3+Nom:%>ж%-шамыч K ; !PX_NB_CX
+ +Pl+PxSg3+Nom:%>ыж%-влак  K ; !PX_NB_CX 
+ +Pl+PxSg3+Nom:%>ыж%-шамыч K ; !PX_NB_CX
 
 LEXICON N-PL-PxSg3-GEN !!= * @CODE@
  +Pl+PxSg3+Gen:%-влакшын  K ; !NB_PX_CX
@@ -907,26 +909,26 @@ LEXICON N-SG-PxPl3-DAT !!= * @CODE@
  +Sg+PxPl3+Dat:%>ланышт K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl3-ACC !!= * @CODE@
- +Sg+PxPl3+Acc:Ы1штым K ;
+ +Sg+PxPl3+Acc:%>Ы1штым K ;
 
 LEXICON N-SG-PxPl3-CMPR !!= * @CODE@
- +Sg+PxPl3+Cmpr:Ы1штла K ; !NB_CX_PX
- +Sg+PxPl3+Cmpr:лашт K ; !NB_CX_PX
+ +Sg+PxPl3+Cmpr:%>Ы1штла K ; !NB_CX_PX
+ +Sg+PxPl3+Cmpr:%>лашт K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl3-COM !!= * @CODE@
- +Sg+PxPl3+Com:Ы1штге K ;
+ +Sg+PxPl3+Com:%>Ы1штге K ;
 
 LEXICON N-SG-PxPl3-INE !!= * @CODE@
- +Sg+PxPl3+Ine:Ы1штыште K ;
+ +Sg+PxPl3+Ine:%>Ы1штыште K ;
 
 LEXICON N-SG-PxPl3-ILL !!= * @CODE@
- +Sg+PxPl3+Ill:Ы1штышке K ;
+ +Sg+PxPl3+Ill:%>Ы1штышке K ;
 
 LEXICON N-SG-PxPl3-LAT !!= * @CODE@
- +Sg+PxPl3+Lat:эшышт K ;
+ +Sg+PxPl3+Lat:%>эшышт K ;
 
 LEXICON N-SG-PxPl3-ABE !!= * @CODE@
- +Sg+PxPl3+Abe:Ы1штде K ;
+ +Sg+PxPl3+Abe:%>Ы1штде K ;
 
 LEXICON N-PL-PxPl3-NOM !!= * @CODE@
  +Pl+PxPl3+Nom:%-влакышт  K ; !NB_PX_CX
