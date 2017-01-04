@@ -1,5 +1,5 @@
-!!!Verb inflection
-Meadow Mari verbs inflect in persons.
+
+Meadow Mari verb inflection.
 
 
 !!!Verbal continuation lexica
@@ -8,7 +8,6 @@ Meadow Mari verbs inflect in persons.
 
 Here are some unfinished verb lexica. TODO: Fix.
 
- * LEXICON V  contains 4 verbs:
 
 * порволыже:порволыж V  "olkoon kirottu! V" ;
 * порволышаш:порволышаш V  "tulkoon kirotuksi V" ;
@@ -28,12 +27,6 @@ Some of these are directed directly from root.lexc
 
 
 
- LEXICON Vem--Vam-n/l  TODO: fix, this is set to V_em for now.
-
- LEXICON Vem-jykte1   TODO: fix, this is set to V_em for now.
-
-
- LEXICON Vam-dependent  tags +Depend and goes to V_am
 
 
 !!Regular verbs
@@ -68,21 +61,8 @@ We divide the verbs in two, -am and -em
 
 !!Special verbs
 V_am, возаш : воч
- * LEXICON z-C 
-
-V_am, лукташ : лук
- * LEXICON t-0 
-
-V_am, кушкаш : куш
- * LEXICON k-0 
-
-V_am, шинчаш шич
-this is the proof or consonant stem cf. vowel stem in -ем verbs.
-In mrj this is dealt with in twolc
 
 These need work 2012-09-21
-
- * LEXICON Vam-n/l--1t 
 
 
 

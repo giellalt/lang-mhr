@@ -15,7 +15,7 @@ other symbols
 
 Archiphonemes for vowels, Giellatekno style
  *   е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
- *   Ы1:ы Ы1:0 Ы2:ы Ы2:0    
+ *  Ы2:ы Ы2:0    Variation in еоыӧØ
  *   А1:а А1:ӓ    
  *   Е2:е Е2:0 А2:а А2:я   
 
@@ -43,6 +43,9 @@ Archiphonemes for vowels, Apertium style
  * %{ьØ%}:0   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
 
 
+ *  Е1:е  for lative
+
+
 
  *  %>    
 
@@ -58,8 +61,8 @@ Archiphonemes for vowels, Apertium style
 
  * Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш    
         Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     
- * Cst =  к п т ф х ц ч ш с       
-        К П Т Ф Х Ц Ч Ш Ц ;     
+ * Cst =  б в г д ж з к п с т ф х ц ч ш       
+        Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш ;     
 
  * Ltrs = Vws Cns  ъ ь Ъ Ь ;    
 
@@ -74,6 +77,9 @@ Archiphonemes for vowels, Apertium style
 
 
 __ Palatal mark loss before vowel __ 
+имне+N+Sg+Nom+Foc/Ат
+* __имнь%{еы%}%>А2т __
+* __имн00%>ят __
 * __башнь%{яы%} __
 * __башн0я __
 
@@ -81,7 +87,11 @@ __ Palatal mark loss before vowel __
 
 __ Onset vowel loss in suffix __  
 
-__ Onset vowel Е2 realized in suffix __  
+__ Onset vowel Е2 realized in suffix е __  
+
+__ Onset vowel Е2 realized in suffix э __  
+
+__ Onset vowel Е2 realized in suffix ZERO __  
 
 __ Onset vowel Ы1 realized in suffix __  
 
@@ -116,6 +126,9 @@ __ suffix-final vowel realized %{аы%}:ы  __
 
 __ stem-final vowel realized %{аы%}:а __  
 
+__ Stem-final non-stressed vowel loss __
+
+
 __ suffix-final vowel realized %{еы%}:ы  __  
 
 __ stem-final vowel realized %{еы%}:е __  
@@ -142,21 +155,17 @@ __ stem-internal glide realized in  0:й %{яы%}:ы  __
 
 
 
-__ suffix-final vowel loss after stem-final vowel %{еоыӧØ%} to ZERO __  
-
-__ suffix-final vowel realized after stem-final consonant %{еоыӧØ%} to ы  __  
-
-__ suffix-final vowel realized as -Round in word-final position %{еоыӧØ%} 2 е __  
-
-__ suffix-final vowel realized as +Back +Round in word-final position %{еоыӧØ%} 2 о  __  
-
-__ suffix-final vowel realized as +Front +Round in word-final position %{еоыӧØ%} 2 ӧ  __  
-
-
 
 __ Clitics in At and Ak take onset glide = a __  
 
 __ Clitics in At and Ak take onset glide = ja __  
+когыльо+N+Sg+Nom+Foc/Ат
+* __когыль%{оы%}%>А2т __
+* __когыл00%>ят __
+
+
+__ Clitics in At and Ak take ZERO __
+
 
 
 __ й Deletion in front of я Suffix and others __  
@@ -178,7 +187,16 @@ __ й Deletion in front of я Suffix and others __
 
 __ Onset consonant devoicing __
 
+__ Stem-final consonant loss т __
 
+__ Stem-final consonant loss к __
+
+__ Stem-final consonant loss н __
+
+__ Stem-final consonant variation з:ч __
+
+
+__ Disallow PxSg3 in ж everywhere except after :Vow  __
 
 __ Disallow PxSg3 in ыж everywhere except after ш  __
 * __йолташ%>ыж# __

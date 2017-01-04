@@ -223,11 +223,13 @@ Adjectives
 * __Sg1NotSg3__ removes Prt1 Sg3 when Pers Sg1 Nom in same clause
 
 * __Sg3NotSg1__ removes Prt1 Sg1 when there is no Pers Sg1 Nom in same clause
-** This may be too strong, it precludes zero Sg1 subjects
+** This definitely is too strong, it precludes zero Sg1 subjects
+
 
 !ConNeg or not
 * __NoConNeg1__ No ConNeg if no Neg to the left
 * __NoConNeg2__ No ConNeg if another ConNeg to the left
+
 
 !Imperative or noun
 
