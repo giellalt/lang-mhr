@@ -44,6 +44,7 @@ Alphabet
 
 %{ьØ%}:0  !!= * @CODE@ for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
 
+
  Е1:е !!= * @CODE@ for lative
 
 !  Е1:Е А1:А И1:И У1:У Ӱ1:Ӱ
@@ -88,7 +89,7 @@ Rules
 
 "Palatal mark loss before vowel"
 !! __ @RULENAME@ __ 
-    ь:0  <=>   _ (%{еы%}:|%{оы%}:|%{ӧы%}:) %>: [А2:|Е2:] ;
+    ь:0  <=>   _ (%{еы%}:|%{оы%}:|%{ӧы%}:) %> [А2:|Е2:] ;
                _ %{яы%}: .#. ;
 !!€ башнь%{яы%}
 !!€ башн0я
@@ -98,7 +99,7 @@ Rules
 ! JMR 2012-09-18
 "Onset vowel loss in suffix"
 !! __ @RULENAME@ __  
- Vx:0 <=>        :Vws %> _ ;
+ Vx:0 <=>        [:Vws|%{еы%}:|%{оы%}:|%{ӧы%}:] %> _ ;
            %> ж Ы2: %> _ ;
         where Vx in (Ы1) ;
 
@@ -191,7 +192,7 @@ Rules
 
 "suffix-final vowel realized %{еы%}:ы "
 !! __ @RULENAME@ __  
-  %{еы%}:ы <=>  [Cns (ь)| Vow 0: ] _ %>: [ л | г | ш | д | Ы1: ] ;
+  %{еы%}:ы <=>  [Cns (ь)| Vow 0: ] _ %> [ л | г | ш | д | Ы1: ] ;
 
 "stem-final vowel realized %{еы%}:е"
 !! __ @RULENAME@ __  
@@ -199,7 +200,7 @@ Rules
 
 "suffix-final vowel realized %{ӧы%}:ы "
 !! __ @RULENAME@ __  
-  %{ӧы%}:ы <=>  [Cns (ь)| Vow 0: ] _ %>: [ л | г | ш | д | Ы1: ] ;
+  %{ӧы%}:ы <=>  [Cns (ь)| Vow 0: ] _ %> [ л | г | ш | д | Ы1: ] ;
 
 "stem-final vowel realized %{ӧы%}:ӧ"
 !! __ @RULENAME@ __  
@@ -207,7 +208,7 @@ Rules
 
 "suffix-final vowel realized %{оы%}:ы "
 !! __ @RULENAME@ __  
-  %{оы%}:ы <=>  Cns (ь:) _ %>: [ л | г | ш | д | Ы1: ] ;
+  %{оы%}:ы <=>  Cns (ь:) _ %> [ л | г | ш | д | Ы1: ] ;
 
 "stem-final vowel realized %{оы%}:о"
 !! __ @RULENAME@ __  
@@ -273,6 +274,10 @@ Rules
 "Clitics in At and Ak take onset glide = ja"
 !! __ @RULENAME@ __  
   А2:я <=> ь:0 (%{еы%}:|%{оы%}:|%{ӧы%}:) %> _ [ т | к | м | ш ] ;
+!! когыльо+N+Sg+Nom+Foc/Ат
+!!€ когыль%{оы%}%>А2т
+!!€ когыл00%>ят
+
 ! "A2 as я in й-final stems"
            й:0 (%{еы%}:|%{оы%}:|%{ӧы%}:) %> _  ;
 
@@ -311,6 +316,24 @@ Rules
 !! __ @RULENAME@ __
 ж:ш <=> [ Cst | ж ] %> _ Ы2: ;
          [ Cst | ж ] %> %{ыØ%}:0 _ %{еоыӧØ%}: ;  
+
+! Consonant loss
+"Stem-final consonant loss т"
+!! __ @RULENAME@ __
+т:0 <=> [ к ] _ %> [м|ш|д] ;
+
+"Stem-final consonant loss к"
+!! __ @RULENAME@ __
+к:0 <=> [ ш |ч ] _ %> [м|ш|д] ;
+
+"Stem-final consonant loss н"
+!! __ @RULENAME@ __
+н:0 <=> _ ч  %> [м|ш|д] ;
+
+"Stem-final consonant variation з:ч"
+!! __ @RULENAME@ __
+з:ч <=> Vow _  %> [м|ш|д] ;
+
 
 
 

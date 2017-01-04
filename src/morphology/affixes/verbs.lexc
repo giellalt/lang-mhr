@@ -202,60 +202,60 @@ LEXICON Vem-Des !!= * @CODE@ for desiderative
 
 !! !!Special verbs
 !! V_am, возаш : воч
-LEXICON z-C !!= * @CODE@
-             +V+Inf:з%>А2ш K           ;
-           +Ger+Gen:з%>ын  K           ;
-                 +V:ч      non-finites ;
-                 +V:з      Vam-Mood    ;
-      +V+ConNeg:ч K ;
-! +V+Ind+Prs+ConNeg:ч      K           ;
-! +V+Ind+Prt1+ConNeg:ч      K           ;
-!    +V+Imprt+ConNeg:ч      K           ;
-       +V+Imprt+Sg2:ч      K-imprt     ;
-!      +V+Des+ConNeg:ч      K           ;
-
-!! V_am, лукташ : лук
-LEXICON t-0 !!= * @CODE@
-             +V+Inf:т%>А2ш K           ;
-           +Ger+Gen:т%>ын  K           ;
-                 +V:       non-finites ;
-                 +V:т      Vam-Mood    ;
-+V+ConNeg: K ;
-!+V+Ind+Prs+ConNeg:       K           ;
-! +V+Ind+Prt1+ConNeg:       K           ;
-!    +V+Imprt+ConNeg:       K           ;
-       +V+Imprt+Sg2:       K-imprt     ;
-!      +V+Des+ConNeg:       K           ;
-
-!! V_am, кушкаш : куш
-LEXICON k-0 !!= * @CODE@
-             +V+Inf:к%>А2ш  K           ;
-           +Ger+Gen:к%>ын   K           ;
-               +Ger:к%>шыла K           ;
-                 +V:        non-finites ;
-                 +V:к       Vam-Mood    ;
-+V+ConNeg: K ;
-!+V+Ind+Prs+ConNeg:        K           ;
-! +V+Ind+Prt1+ConNeg:        K           ;
-!    +V+Imprt+ConNeg:        K           ;
-       +V+Imprt+Sg2:        K-imprt     ;
-!      +V+Des+ConNeg:        K           ;
-
-!! V_am, шинчаш шич
-!! this is the proof or consonant stem cf. vowel stem in -ем verbs.
-!! In mrj this is dealt with in twolc
-LEXICON nC-C
-              +V+Inf:нч%>А2ш K           ;
-            +Ger+Gen:нч%>ын  K           ;
-                +Ger:ч%>шыла K           ;
-                  +V:ч       non-finites ;
-                  +V:нч      Vam-Mood    ;
-+V+ConNeg: K ;
-!+V+Ind+Prs+ConNeg:ч       K           ;
-!  +V+Ind+Prt1+ConNeg:ч       K           ;
-!     +V+Imprt+ConNeg:ч       K           ;
-        +V+Imprt+Sg2:ч       K-imprt     ;
-!       +V+Des+ConNeg:ч       K           ;
+!2017-01-04!LEXICON z-C !!= * @CODE@
+!2017-01-04!             +V+Inf:з%>А2ш K           ;
+!2017-01-04!           +Ger+Gen:з%>ын  K           ;
+!2017-01-04!                 +V:ч      non-finites ;
+!2017-01-04!                 +V:з      Vam-Mood    ;
+!2017-01-04!      +V+ConNeg:ч K ;
+!2017-01-04!! +V+Ind+Prs+ConNeg:ч      K           ;
+!2017-01-04!! +V+Ind+Prt1+ConNeg:ч      K           ;
+!2017-01-04!!    +V+Imprt+ConNeg:ч      K           ;
+!2017-01-04!       +V+Imprt+Sg2:ч      K-imprt     ;
+!2017-01-04!!      +V+Des+ConNeg:ч      K           ;
+!2017-01-04!
+!2017-01-04!!! V_am, лукташ : лук
+!2017-01-04!LEXICON t-0 !!= * @CODE@
+!2017-01-04!             +V+Inf:т%>А2ш K           ;
+!2017-01-04!           +Ger+Gen:т%>ын  K           ;
+!2017-01-04!                 +V:       non-finites ;
+!2017-01-04!                 +V:т      Vam-Mood    ;
+!2017-01-04!+V+ConNeg: K ;
+!2017-01-04!!+V+Ind+Prs+ConNeg:       K           ;
+!2017-01-04!! +V+Ind+Prt1+ConNeg:       K           ;
+!2017-01-04!!    +V+Imprt+ConNeg:       K           ;
+!2017-01-04!       +V+Imprt+Sg2:       K-imprt     ;
+!2017-01-04!!      +V+Des+ConNeg:       K           ;
+!2017-01-04!
+!2017-01-04!!! V_am, кушкаш : куш
+!2017-01-04!LEXICON k-0 !!= * @CODE@
+!2017-01-04!             +V+Inf:к%>А2ш  K           ;
+!2017-01-04!           +Ger+Gen:к%>ын   K           ;
+!2017-01-04!               +Ger:к%>шыла K           ;
+!2017-01-04!                 +V:        non-finites ;
+!2017-01-04!                 +V:к       Vam-Mood    ;
+!2017-01-04!+V+ConNeg: K ;
+!2017-01-04!!+V+Ind+Prs+ConNeg:        K           ;
+!2017-01-04!! +V+Ind+Prt1+ConNeg:        K           ;
+!2017-01-04!!    +V+Imprt+ConNeg:        K           ;
+!2017-01-04!       +V+Imprt+Sg2:        K-imprt     ;
+!2017-01-04!!      +V+Des+ConNeg:        K           ;
+!2017-01-04!
+!2017-01-04!!! V_am, шинчаш шич
+!2017-01-04!!! this is the proof or consonant stem cf. vowel stem in -ем verbs.
+!2017-01-04!!! In mrj this is dealt with in twolc
+!2017-01-04!LEXICON nC-C
+!2017-01-04!              +V+Inf:нч%>А2ш K           ;
+!2017-01-04!            +Ger+Gen:нч%>ын  K           ;
+!2017-01-04!                +Ger:ч%>шыла K           ;
+!2017-01-04!                  +V:ч       non-finites ;
+!2017-01-04!                  +V:нч      Vam-Mood    ;
+!2017-01-04!+V+ConNeg: K ;
+!2017-01-04!!+V+Ind+Prs+ConNeg:ч       K           ;
+!2017-01-04!!  +V+Ind+Prt1+ConNeg:ч       K           ;
+!2017-01-04!!     +V+Imprt+ConNeg:ч       K           ;
+!2017-01-04!        +V+Imprt+Sg2:ч       K-imprt     ;
+!2017-01-04!!       +V+Des+ConNeg:ч       K           ;
 
 !! These need work 2012-09-21
 
@@ -267,7 +267,7 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
 
    +Inf+Nec:%>ман   K  ; ! Neccessitive infinitive
    +Act+Prc:%>шЫ2   K  ; ! Действительное причастие
-   +Pas+Prc:%>мЫ2   K  ; ! Страдательное причастие
+   +Pass+Prc:%>мЫ2   K  ; ! Страдательное причастие
     +FutPrc:%>шаш   K  ; ! Причастие будущего времени
     +NegPrc:%>дымЫ2 K  ; ! Отрицательное причастие
    +Ger+Abe:%>де    K  ; ! Отрицательная форма деепричастия образа действия:
@@ -370,7 +370,7 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
 !2012-09-21! LEXICON W2
 !       2012-09-21! +Inf+Nec:X2ман   K0   "INF-NESESS"        ;
 !       2012-09-21! +Ptc+Act:$ше1    W    "PART-AKT"          ;
-!       2012-09-21! +Ptc+Pas:$ме1    W    "PART-PASS"         ;
+!       2012-09-21! +Ptc+Pass:$ме1    W    "PART-PASS"         ;
 !       2012-09-21! +Ptc+Fut:$шаш    W    "PART-FUT"          ;
 !       2012-09-21! +Ptc+Neg:$дыме1  W    "PART-NEG"          ;
 ! 2012-09-21! +Ger+Instr+Neg:X7де    S-a  "GER-INSTR-NEG"     ;
