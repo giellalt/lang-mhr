@@ -322,6 +322,10 @@ Rules
 !! __ @RULENAME@ __
 ж:ш <=> Cst  %> _ Ы2: ;
 
+"Onset consonant devoicing"
+!! __ @RULENAME@ __
+з:с <=> Cst %> _ :Vow ;
+
 ! Consonant loss
 "Stem-final consonant loss т"
 !! __ @RULENAME@ __
@@ -337,7 +341,7 @@ Rules
 
 "Stem-final consonant variation з:ч"
 !! __ @RULENAME@ __
-з:ч <=> Vow _  %> [м|ш|д] ;
+з:ч <=> Vow _  %> [м|ш|д|н|#|ж:ш|з:с|с] ;
 
 
 "Disallow PxSg3 in ж everywhere except after :Vow "
