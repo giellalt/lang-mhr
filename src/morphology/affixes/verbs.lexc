@@ -109,7 +109,7 @@ LEXICON Vam-Mood !!= @CODE@ divides in Ind, Imprt, Des
 LEXICON Vam-Ind !!= @CODE@ gives all the Ind tenses
   +Prs+Sg1:%>А2м  K ;
   +Prs+Sg2:%>А2т  K ;
-  +Prs+Sg3:%>еш   K ;
+  +Prs+Sg3:%>Е2ш   K ;
   +Prs+Pl1:%>ына  K ;
   +Prs+Pl2:%>ыда  K ;
   +Prs+Pl3:%>ыт   K ;
