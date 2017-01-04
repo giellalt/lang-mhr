@@ -141,16 +141,19 @@ Rules
 "suffix-final vowel realized as -Round in word-final position"
 !! __ @RULENAME@ __  
   Ы2:е <=> :Ve [ Cns (ь:) | й | :ы | :0 |й]* %> (%{ьØ%}:) ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+  :Ve [ Cns (ь) | :ы | :0 |й]* ш %> т _ [ .#. | %- ] ;
 !           :Ve [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
 "suffix-final vowel realized as +Back +Round in word-final position"
 !! __ @RULENAME@ __  
   Ы2:о <=> :Vo [ Cns (ь) | :ы | :0 |й]* %> (%{ьØ%}:) ( ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+  :Vo [ Cns (ь) | :ы | :0 |й]* ш %> т _ [ .#. | %- ] ;
 !           :Vo [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
 "suffix-final vowel realized as +Front +Round in word-final position"
 !! __ @RULENAME@ __  
   Ы2:ӧ <=> :VO [ Cns (ь) | :ы | :0 |й]* %> (%{ьØ%}:) ( ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+  :VO [ Cns (ь) | :ы | :0 |й]* ш %> т _ [ .#. | %- ] ;
 !           :VO [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
 
@@ -349,14 +352,21 @@ Rules
 !!€ воз>са
 !!€ воч>са
 
-"Disallow PxSg3 in ж everywhere except after :Vow "
+"Disallow PxSg3 in ж no where except after :Vow "
 !! __ @RULENAME@ __
 ж:ж /<= [:Ltrs - :Vow] %> _ [.#.| %-]  ;
 
-
-"Disallow PxSg3 in ыж everywhere except after ш "
+"Disallow Sg+Ill in тЫ2 everywhere except after stem-final ш "
 !! __ @RULENAME@ __
-ы:ы /<= [Ltrs - ш] %> _ ж [.#.| %-]  ;
+т:т /<= [Ltrs - ш ] %> _ Ы2:  ;
+!! йӧратымаш+N+Sg+Ine
+!!€ йӧратымаш%>тЫ2
+!!€ йӧратымаш%>те
+
+
+"Disallow PxSg3 in ыж no where except after ш "
+!! __ @RULENAME@ __
+ы:ы /<= [Ltrs - ш] %> _ ж (Ы2:) [.#.| %-]  ;
 !!€ йолташ%>ыж#
 !!€ йолташ%>ыж#
 !!$ олма%>ыж#

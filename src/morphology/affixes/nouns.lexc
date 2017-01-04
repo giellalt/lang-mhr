@@ -264,6 +264,8 @@ LEXICON N-SG-COM !!= * @CODE@
 
 LEXICON N-SG-INE !!= * @CODE@
  +Sg+Ine:%>Ы1штЫ2 K ;
+ +Sg+Ine:%>тЫ2 K ;
+
 
 LEXICON N-SG-ILL !!= * @CODE@
  +Sg+Ill:%>Ы1шкЫ2 K ;
@@ -541,6 +543,7 @@ LEXICON N-PL-PxSg2-ABE
 !! !Sg Sg3
 LEXICON N-SG-PxSg3-NOM !!= * @CODE@
  +Sg+PxSg3+Nom:%>ыж K ; !NB_PX_CX Only after ш see twolc
+ +Sg+PxSg3+Nom:%>ыжЫ2 K ; !NB_PX_CX Only after ш see twolc
  +Sg+PxSg3+Nom:%>жЫ2 K ; !NB_PX_CX
  +Sg+PxSg3+Nom:%>ж # ; !NB_PX_CX
 
@@ -959,8 +962,8 @@ LEXICON N-PL-PxPl3-ACC !!= * @CODE@
 LEXICON N-PL-PxPl3-CMPR !!= * @CODE@
  +Pl+PxPl3+Cmpr:%-влакыштла  K ; !NB_PX_CX
  +Pl+PxPl3+Cmpr:%-шамычыштла K ; !NB_PX_CX
- +Pl+PxPl3+Lat:%>Ы1шт%-влакла  K ; !PX_NB_CX
- +Pl+PxPl3+Lat:%>Ы1шт%-шамычла K ; !PX_NB_CX
+ +Pl+PxPl3+Cmpr:%>Ы1шт%-влакла  K ; !PX_NB_CX
+ +Pl+PxPl3+Cmpr:%>Ы1шт%-шамычла K ; !PX_NB_CX
  +Pl+PxPl3+Cmpr:%-влаклашт  K ; !NB_CX_PX
  +Pl+PxPl3+Cmpr:%-шамычлашт K ; !NB_CX_PX
 
