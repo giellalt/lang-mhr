@@ -323,27 +323,27 @@ Rules
 ! Devoicing
 "Onset consonant devoicing"
 !! __ @RULENAME@ __
-ж:ш <=> Cst  %> _ Ы2: ;
+ж:ш <=> Cst (:0)  %> _ Ы2: ;
 
 "Onset consonant devoicing"
 !! __ @RULENAME@ __
-з:с <=> Cst %> _ :Vow ;
+з:с <=> Cst (:0) %> _ :Vow ;
 
 ! Consonant loss
 "Stem-final consonant loss т"
 !! __ @RULENAME@ __
-т:0 <=> [ к ] _ %> [м|ш|д] ;
+т:0 <=> [ к ] _ [%> [м|ш|д|н|ж:ш|з:с|с]|.#.| %- я н] ;
 
 "Stem-final consonant loss к"
 !! __ @RULENAME@ __
-к:0 <=> [ ш |ч ] _ %> [м|ш|д] ;
+к:0 <=> [ ш |ч ] _ [%> [м|ш|д|н|ж:ш|з:с|с]|.#.| %- я н] ;
 
 "Stem-final consonant loss н"
 !! __ @RULENAME@ __
-н:0 <=> _ ч  %> [м|ш|д] ;
+н:0 <=> _ ч [%> [м|ш|д|н|ж:ш|з:с|с]|.#.| %- я н] ;
 
 "Stem-final consonant variation з:ч"
-з:ч <=> Vow _  %> [м|ш|д|н|.#.|ж:ш|з:с|с] ;
+з:ч <=> Vow _  [%> [м|ш|д|н|ж:ш|з:с|с]|.#.| %- я н] ;
 
 
 !!€ воз>
