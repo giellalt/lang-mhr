@@ -12,6 +12,7 @@ Alphabet
 А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ !!= * @CODE@
 
 !! other symbols
+•:0
    %- !!= * @CODE@
 
 !! Archiphonemes for vowels, Giellatekno style
@@ -81,7 +82,11 @@ all =  Ltrs  %- ;    !!= * @CODE@
 
 Definitions
 
+BackRounded = [ :Vo (•:) [ Cns: |й:|%{ьØ%}:| :ы | %> | Ы1: ]*  ] ;
 
+FrontRounded = [:VO  (•:) [ Cns: |й:|%{ьØ%}:| :ы | %> | Ы1: ]* ] ;
+
+FrontUnrounded = [ [:Ve (•:) |ы •:] [ Cns: |й:|%{ьØ%}:| :ы | %> | Ы1: ]*  ] ;
 
 !! !!Rules
 Rules
@@ -138,28 +143,29 @@ Rules
             Vow %> [ ж | д ы м ] _ %> Ы1: [ м | н ] ;
 !            %>  Ы1: ш [ т | к ]  _ %> Ы1: ;
 
-"suffix-final vowel realized as -Round in word-final position"
+"suffix-final vowel realized as -Round in word-final position е "
 !! __ @RULENAME@ __  
-  Ы2:е <=> :Ve [ Cns (ь:) | й | :ы | :0 |й]* %> (%{ьØ%}:) ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
-  :Ve [ Cns (ь) | :ы | :0 |й]* ш %> т _ [ .#. | %- ] ;
+  Ы2:е <=>  FrontUnrounded %> (%{ьØ%}:) ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+! [:Ve|ы •:] [ Cns (ь:) | й | :ы | :0 |й]* %> (%{ьØ%}:) ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+  FrontUnrounded [ ш %> т| й:] _ [ .#. | %- ] ;
 !           :Ve [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
-"suffix-final vowel realized as +Back +Round in word-final position"
+"suffix-final vowel realized as +Back +Round in word-final position о "
 !! __ @RULENAME@ __  
-  Ы2:о <=> :Vo [ Cns (ь) | :ы | :0 |й]* %> (%{ьØ%}:) ( ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
-  :Vo [ Cns (ь) | :ы | :0 |й]* ш %> т _ [ .#. | %- ] ;
+  Ы2:о <=> BackRounded  %> (%{ьØ%}:) ( ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+  BackRounded [ш %> т| й:] _ [ .#. | %- ] ;
 !           :Vo [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
-"suffix-final vowel realized as +Front +Round in word-final position"
+"suffix-final vowel realized as +Front +Round in word-final position ӧ "
 !! __ @RULENAME@ __  
-  Ы2:ӧ <=> :VO [ Cns (ь) | :ы | :0 |й]* %> (%{ьØ%}:) ( ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
-  :VO [ Cns (ь) | :ы | :0 |й]* ш %> т _ [ .#. | %- ] ;
+  Ы2:ӧ <=> FrontRounded %> (%{ьØ%}:) ( ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+  FrontRounded  [ш %> т| й:] _ [ .#. | %- ] ;
 !           :VO [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
 
 "%{ьØ%}:ь"
 !! __ @RULENAME@ __
- %{ьØ%}:ь <=> [н|л] %> _ ;
+ %{ьØ%}:ь <=> [н|л] %> _ ы [м|ч] ;
 !! толам+V+Ind+Prt1+Sg1
 !!€ тол%>%{ьØ%}ым
 !!€ тол%>ьым
