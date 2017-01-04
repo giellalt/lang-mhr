@@ -255,8 +255,10 @@ SELECT:GerNotFin Ger IF (1 Ind) ;
 REMOVE:Sg1NotSg3 (Prt1 Sg3) IF (*-1 (Pers Sg1 Nom) BARRIER N + Nom OR Pers + Sg3 + Nom)(0 (V Prt1 Sg1));
 
 #!! * __Sg3NotSg1__ removes Prt1 Sg1 when there is no Pers Sg1 Nom in same clause
-REMOVE:Sg3NotSg1 (Prt1 Sg1) IF (NOT *0 (Pers Sg1 Nom)) ;
-#!! ** This may be too strong, it precludes zero Sg1 subjects
+#REMOVE:Sg3NotSg1 (Prt1 Sg1) IF (NOT *0 (Pers Sg1 Nom)) ;
+#!! ** This definitely is too strong, it precludes zero Sg1 subjects
+
+SELECT Neg IF (1 ConNeg);
 
 #!! !ConNeg or not
 #!! * __NoConNeg1__ No ConNeg if no Neg to the left
@@ -264,6 +266,7 @@ REMOVE:NoConNeg1 ConNeg IF (NOT *-1 Neg BARRIER CLB);
 #!! * __NoConNeg2__ No ConNeg if another ConNeg to the left
 REMOVE:NoConNeg2 ConNeg IF (-1* ConNeg BARRIER Neg);
 
+	
 #!! !Imperative or noun
 
 #!! * __NotImpWhenInd__
