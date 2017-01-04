@@ -198,7 +198,7 @@ Rules
 
 "suffix-final vowel realized %{еы%}:ы "
 !! __ @RULENAME@ __  
-  %{еы%}:ы <=>  [Cns (ь)| Vow 0: ] _ %> [ л | г | ш | ж | д | Ы1: ] ;
+  %{еы%}:ы <=>  [Cns (ь)| Vws 0: ] _ %> [ л | г | ш | ж | д | Ы1: ] ;
 
 "stem-final vowel realized %{еы%}:е"
 !! __ @RULENAME@ __  
@@ -206,7 +206,7 @@ Rules
 
 "suffix-final vowel realized %{ӧы%}:ы "
 !! __ @RULENAME@ __  
-  %{ӧы%}:ы <=>  [Cns (ь)| Vow 0: ] _ %> [ л | г | ш | ж | д | Ы1: ] ;
+  %{ӧы%}:ы <=>  [Cns (ь)| Vws 0: ] _ %> [ л | г | ш | ж | д | Ы1: ] ;
 
 "stem-final vowel realized %{ӧы%}:ӧ"
 !! __ @RULENAME@ __  
@@ -303,11 +303,11 @@ Rules
 
 !"йа suffix as я 1"
 !! __ @RULENAME@ __
-!й:0 <=> Vow _ %>: а: ;
+!й:0 <=> Vws _ %>: а: ;
 
 !"йа suffix as я 2"
 !! __ @RULENAME@ __
-!а:я <=> Vow й: %>: _ ;
+!а:я <=> Vws й: %>: _ ;
 
 !!€ кай>А2
 !!€ ка0>я 
@@ -340,13 +340,19 @@ Rules
 н:0 <=> _ ч  %> [м|ш|д] ;
 
 "Stem-final consonant variation з:ч"
-!! __ @RULENAME@ __
-з:ч <=> Vow _  %> [м|ш|д|н|#|ж:ш|з:с|с] ;
+з:ч <=> Vow _  %> [м|ш|д|н|.#.|ж:ш|з:с|с] ;
 
 
-"Disallow PxSg3 in ж everywhere except after :Vow "
+!!€ воз>
+!!€ воч>
+
+!!€ воз>са
+!!€ воч>са
+
+"Disallow PxSg3 in ж everywhere except after :Vws "
 !! __ @RULENAME@ __
-ж:ж /<= [:Ltrs - :Vow] %> _ [.#.| %-|#]  ;
+ж:ж /<= [:Ltrs - :Vow] %> _ [.#.| %-]  ;
+
 
 "Disallow PxSg3 in ыж everywhere except after ш "
 !! __ @RULENAME@ __
