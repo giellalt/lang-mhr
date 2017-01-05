@@ -7310,7 +7310,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкаланда</l>
 
@@ -7328,7 +7328,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкаланем</l>
 
@@ -7347,7 +7347,7 @@
   </e>
 
   <e>
-    <lg>
+    <lg exclude="fst">
       <l pos="Pron">шкаланет</l>
 
       <stg>
@@ -7364,7 +7364,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкаланже</l>
 
@@ -7382,7 +7382,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкаланна</l>
 
@@ -7400,7 +7400,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкаланышт</l>
 
@@ -7436,7 +7436,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шканем</l>
 
@@ -7454,7 +7454,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шканет</l>
 
@@ -7472,7 +7472,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шканже</l>
 
@@ -7526,7 +7526,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шке</l>
 
@@ -7586,7 +7586,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкемым</l>
 
@@ -7604,7 +7604,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкемын</l>
 
@@ -7622,7 +7622,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкенам</l>
 
@@ -7640,7 +7640,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкенан</l>
 
@@ -7658,7 +7658,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкендам</l>
 
@@ -7676,7 +7676,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкендан</l>
 
@@ -7694,7 +7694,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкендым</l>
 
@@ -7712,7 +7712,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкендын</l>
 
@@ -7730,7 +7730,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкенжым</l>
 
@@ -7748,7 +7748,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкенжын</l>
 
@@ -7766,7 +7766,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкеныштым</l>
 
