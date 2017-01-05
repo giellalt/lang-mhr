@@ -26,6 +26,12 @@ DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" sent ;
 #!! The next section, __Sets__, contains sets defined
 #!! on the basis of the tags listed here, those set names are not visible in the output.
 
+LIST DAT-V = "куанаш" ;
+
+LIST DAT-PO = "верч" "кӧра" ;
+
+LIST DAT-A = "поян" "тале" "пайдале" ;
+
 SETS
 
 #!! !!Tags
@@ -204,16 +210,19 @@ REMOVE:PcleNotCC CC IF (-1 BOS)(0 Pcle);
 REMOVE:RemDerMWN (Der/MWN N Nom) IF (1 N);	
 #!! * __Dersa__ if noun follows
 REMOVE:Dersa Der/са IF (0 ("<(.*)са>"r) + A);
-#!! * __SelDerMWN__ select Der/MWN if noun follows
+#!! * __SelDerMWN__ select Der/MWN if no noun follows
 SELECT:SelDerMWN (Der/MWN) IF (0 A)(*1 EOS BARRIER N);
 	
 #!! Adjectives
 
-#!! * __AdjNotN__
+#!! * __AdjNotN__ if N or A to the right
 REMOVE:AdjNotN N IF (0 A)(1 A OR N);
 
-#!! * __AdjNotAdv__
+#!! * __AdjNotAdv__ if N to the right
 REMOVE:AdjNotAdv Adv IF (0 A)(1 A OR N);
+
+#!! * __AdjNotPron__ if N to the right
+REMOVE:AdjNotPron Pron IF (0 A)(1 N);
 
 #!! !Cases
 
@@ -222,20 +231,37 @@ REMOVE:AccNeedsVerb Acc IF (0C Nom OR Acc) (NOT -1* VFIN BARRIER BOS) (NOT -1* V
 
 #!! !Numerals
 
-REMOVE:IkNum (Pron) IF (0 ("ик"))(1 N + Sg); 
+#!! * __IkNumN__ ik is num before N Sg
+REMOVE:IkNumN (Pron) IF (0 ("ик"))(1 N + Sg); 
+#!! * __IkNumAN__ ik is num before A N Sg
+REMOVE:IkNumAN (Pron) IF (0 ("ик"))(1 A)(2 N + Sg); 
+
+#!! * __KumNumAN__ ik is num before A N Sg
+REMOVE:KumNumAN N IF (0 ("кум"))(1 A OR N);
 
 #!! !Pronouns
 #!! * __NotInterr__ if Rel
 REMOVE:NotInterr Interr IF (-2 N)(-1 (","))(0 Rel);
+REMOVE:Interr Rel IF (0 Interr)(*1 ("?"));
 
 #!! * __Dem__ if noun follows
 SELECT:Dem Dem IF (0 Dem)(1 N + Nom);
 
+#!! * __уке__
+SELECT:AdvUke Adv IF (0 ("уке"))(1 CLB OR EOS OR ("гын"));
 
 #!! !Postpositions
 
 #!! * __PoNeedsGen__ removes postposition if the word to the left is not Gen
 REMOVE:PoNeedsGen Po IF (NOT -1 Gen);
+
+#!! !!Adverbs
+
+SELECT:modat ("мо") IF (0 ("молан"))(*0 DAT-V OR DAT-PO OR DAT-A BARRIER CLB) ;
+
+#!! * __molan__ awaiting rules for dative verbs subcategorising for mo Dat
+REMOVE:molan ("мо") IF (0 ("молан")) ;
+#SELECT:molan ("мо") IF (0 ("молан")) ;
 
 
 #!! !!Verbs
@@ -248,6 +274,10 @@ REMOVE:FinNotGer Ger IF (0 Ind + Prt2 + Sg3)(NOT *0 VFIN);
 
 #!! * __GerNotFin__  Ger if there is a Ind next
 SELECT:GerNotFin Ger IF (1 Ind) ;
+
+
+#!! * __GerNotFin__  Ger if there is a Ger da Ger VFin
+SELECT:GerNotFin2 Ger IF (1 CC)(2C Ger) ;
 
 #!! !First or third person
 
