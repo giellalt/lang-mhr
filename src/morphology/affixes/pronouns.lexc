@@ -7,7 +7,7 @@ LEXICON pronouns_not_from_xml !!= * @CODE@
 тый+Pron+Pers: TYJ ;	
 тудо+Pron: TUDO ;	
 тиде+Pron: TIDE ;	
-
+шке+Pron+Refl: SHKE ;
 
 LEXICON MYJ !!= * @CODE@
 +Sg+Nom:мый # ;
@@ -66,6 +66,41 @@ LEXICON TIDE !!= * @CODE@ todo: fix
 +Dem+Pl+Dat:нунылан #;
 +Dem+Pl+Com:нуныла # ;
 +Dem+Pl+Cmp:нуны # ;
+
+LEXICON SHKE
++Sg+Nom+PxSg1:шке # ;
++Sg+Gen+PxSg1:шкемын # ;
++Sg+Acc+PxSg1:шкемым # ;
++Sg+Dat+PxSg1:шканем #;
++Sg+Dat+PxSg1:шкаланем #;
++Sg+Nom+PxSg2:шке # ;
++Sg+Gen+PxSg2:шкендын # ;
++Sg+Acc+PxSg2:шкендым # ;
++Sg+Dat+PxSg2:шканет #;
++Sg+Dat+PxSg2:шкаланет #;
++Sg+Nom+PxSg3:шке # ;
++Sg+Gen+PxSg3:шкенжын # ;
++Sg+Acc+PxSg3:шкенжым # ;
++Sg+Dat+PxSg3:шканже #;
++Sg+Dat+PxSg3:шкаланже #;
+!+Sg+Com:шкыйла # ;
+!+Sg+Cmp:шкыйге # ;
++Pl+Nom+PxPl1:шке # ;
++Pl+Gen+PxPl1:шкенан # ;
++Pl+Acc+PxPl1:шкенам # ;
++Pl+Dat+PxPl1:шкaнна #;
++Pl+Dat+PxPl1+Use/NG:шкаланна #;
++Pl+Nom+PxPl2:шке # ;
++Pl+Gen+PxPl2:шкендан # ;
++Pl+Acc+PxPl2:шкендам # ;
++Pl+Dat+PxPl2:шкaнда #;
++Pl+Dat+PxPl2+Use/NG:шкаланда #;
++Pl+Nom+PxPl3:шке # ;
++Pl+Gen+PxPl3:шкеныштан # ;
++Pl+Acc+PxPl3:шкеныштам # ;
++Pl+Dat+PxPl3:шкaнышт #;
++Pl+Dat+PxPl3+Use/NG:шкаланышт #;
+
 
 !! !!Pronoun lexica from xml
 
