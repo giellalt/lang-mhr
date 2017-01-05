@@ -5017,7 +5017,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">тиде</l>
 
@@ -6037,25 +6037,6 @@
     </mg>
   </e>
 
-  <e>
-    <lg>
-      <l pos="Pron">тушто</l>
-
-      <stg>
-        <st Contlex="PRON_">тушто</st>
-      </stg>
-
-      <stress>ту•што</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
 
   <e>
     <lg>
