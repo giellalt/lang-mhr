@@ -52,6 +52,7 @@ Alphabet
 !JMR 2012-09-18
 
 ! Boundary symbols
+%^END:0		  !!= * @CODE@ for -ам verb final, i.e. Imprf
 ! old !  +  /  {  _  $  }  @  ~  &  # (old = Jorma 1985)
 
 ! JMR 2012-09-18
@@ -82,11 +83,11 @@ all =  Ltrs  %- ;    !!= * @CODE@
 
 Definitions
 
-BackRounded = [ :Vo (•:) [ Cns: |й:|%{ьØ%}:| :ы | %> | Ы1: ]*  ] ;
+BackRounded = [ :Vo (•:) [ Cns: |й:|ь:|%{ьØ%}:| :ы | %> | Ы1: ]*  ] ;
 
-FrontRounded = [:VO  (•:) [ Cns: |й:|%{ьØ%}:| :ы | %> | Ы1: ]* ] ;
+FrontRounded = [:VO  (•:) [ Cns: |й:|ь:|%{ьØ%}:| :ы | %> | Ы1: ]* ] ;
 
-FrontUnrounded = [ [:Ve (•:) |ы •:] [ Cns: |й:|%{ьØ%}:| :ы | %> | Ы1: ]*  ] ;
+FrontUnrounded = [ [:Ve (•:) |ы •:] [ Cns: |й:|ь:|%{ьØ%}:| :ы | %> | Ы1: ]*  ] ;
 
 !! !!Rules
 Rules
@@ -94,7 +95,7 @@ Rules
 
 "Palatal mark loss before vowel"
 !! __ @RULENAME@ __ 
-    ь:0  <=>   _ (%{еы%}:|%{оы%}:|%{ӧы%}:) %> [А2:|Е2:] ;
+    ь:0  <=>   _ (%{еы%}:|%{оы%}:|%{ӧы%}:) %> [А2:|Е2:|е] ;
 !! имне+N+Sg+Nom+Foc/Ат
 !!€ имнь%{еы%}%>А2т
 !!€ имн00%>ят
@@ -145,20 +146,20 @@ Rules
 
 "suffix-final vowel realized as -Round in word-final position е "
 !! __ @RULENAME@ __  
-  Ы2:е <=>  FrontUnrounded %> (%{ьØ%}:) ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+  Ы2:е <=>  FrontUnrounded %> (%{ьØ%}:) ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. |%^END:| %- ] ;
 ! [:Ve|ы •:] [ Cns (ь:) | й | :ы | :0 |й]* %> (%{ьØ%}:) ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
   FrontUnrounded [ ш %> т| й:] _ [ .#. | %- ] ;
 !           :Ve [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
 "suffix-final vowel realized as +Back +Round in word-final position о "
 !! __ @RULENAME@ __  
-  Ы2:о <=> BackRounded  %> (%{ьØ%}:) ( ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+  Ы2:о <=> BackRounded  %> (%{ьØ%}:) ( ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. |%^END:| %- ] ;
   BackRounded [ш %> т| й:] _ [ .#. | %- ] ;
 !           :Vo [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
 "suffix-final vowel realized as +Front +Round in word-final position ӧ "
 !! __ @RULENAME@ __  
-  Ы2:ӧ <=> FrontRounded %> (%{ьØ%}:) ( ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+  Ы2:ӧ <=> FrontRounded %> (%{ьØ%}:) ( ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. |%^END:| %- ] ;
   FrontRounded  [ш %> т| й:] _ [ .#. | %- ] ;
 !           :VO [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
@@ -327,29 +328,29 @@ Rules
 
 
 ! Devoicing
-"Onset consonant devoicing"
+"Onset consonant devoicing ж:ш "
 !! __ @RULENAME@ __
 ж:ш <=> Cst (:0)  %> _ Ы2: ;
 
-"Onset consonant devoicing"
+"Onset consonant devoicing з:с "
 !! __ @RULENAME@ __
 з:с <=> Cst (:0) %> _ :Vow ;
 
 ! Consonant loss
 "Stem-final consonant loss т"
 !! __ @RULENAME@ __
-т:0 <=> [ к ] _ [%> [м|ш|д|н|ж:ш|з:с|с]|.#.| %- я н] ;
+т:0 <=> [ к ] _ [%> [м|ш|д|н|ж:ш|з:с|с]|%^END:| %- я н] ;
 
 "Stem-final consonant loss к"
 !! __ @RULENAME@ __
-к:0 <=> [ ш |ч ] _ [%> [м|ш|д|н|ж:ш|з:с|с]|.#.| %- я н] ;
+к:0 <=> [ ш |ч ] _ [%> [м|ш|д|н|ж:ш|з:с|с]|%^END:| %- я н] ;
 
 "Stem-final consonant loss н"
 !! __ @RULENAME@ __
-н:0 <=> _ ч [%> [м|ш|д|н|ж:ш|з:с|с]|.#.| %- я н] ;
+н:0 <=> _ ч [%> [м|ш|д|н|ж:ш|з:с|с]|%^END:| %- я н] ;
 
 "Stem-final consonant variation з:ч"
-з:ч <=> Vow _  [%> [м|ш|д|н|ж:ш|з:с|с]|.#.| %- я н] ;
+з:ч <=> Vow _  [%> [м|ш|д|н|ж:ш|з:с|с]|%^END:| %- я н] ;
 
 
 !!€ воз>
