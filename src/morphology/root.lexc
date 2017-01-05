@@ -68,6 +68,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Sg		   !!≈ * __@CODE@__ = 
 +Pl		   !!≈ * __@CODE@__ = 
 +AssocPl   !!≈ * __@CODE@__ = 
++LocPl	   !!≈ * __@CODE@__ =
 
 !! The nominals are inflected in the following Case and Number
 
@@ -195,6 +196,20 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 !! !Usage tags
 
 !! The Usage extents are marked using following tags:
+
+ +Use/Marg        !!≈ * __@CODE@__ marginal
+ +Use/-PLX        !!≈ * __@CODE@__ Excluded in PLX-speller
+ +Use/SpellNoSugg !!≈ * __@CODE@__ recognized but not suggested in speller
+ +Use/Circ        !!≈ * __@CODE@__ circular paths (old ^C^)
+ +Use/CircN       !!≈ * __@CODE@__ circular paths for the numerals (old ^N^)
+ +Use/NG          !!≈ * __@CODE@__ not-generate, for ped generation isme-ped.fst
+ +Use/MT          !!≈ * __@CODE@__ Generate for MT only, for restricting analyses needed 
+                  !!               for MT generation not to pop up elsewhere
+ +Use/NGminip     !!≈ * __@CODE@__ Not for miniparadigm in VD dicts
+ +Use/Disamb      !!≈ * __@CODE@__ means that the following is only used in the analyser feeding the disambiguator
+ +Use/GC          !!≈ * __@CODE@__ only retained in the HFST Grammar Checker disambiguation analyser
+ +Use/-PMatch     !!≈ * __@CODE@__ Do not include in fst's made for hfst-pmatch
+ +MWESplit        !!≈ * __@CODE@__ Split point for MWE
 
 +Err/Orth        !!≈ * __@CODE@__ = orthographical error (analysed, not accepted in speller)
 +Use/-Spell      !!≈ * __@CODE@__ = accepted in normative FST but not in speller
