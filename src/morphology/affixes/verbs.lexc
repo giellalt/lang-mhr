@@ -94,12 +94,12 @@ LEXICON V_am !!= @CODE@ divides V_am in Mood and infinites
              +V+Inf:%>А2ш K           ;
          +V+Ger+Gen:%>ын  K           ;
                  +V:      non-finites ;
-          +V+ConNeg: K ;
+          +V+ConNeg:%^END K ;
 !  +V+Ind+Prs+ConNeg:      K           ;
 ! +V+Ind+Prt1+ConNeg:      K           ;
 !    +V+Imprt+ConNeg:      K           ;
 !      +V+Des+ConNeg:      K           ;
-       +V+Imprt+Sg2:      K-imprt     ;
+       +V+Imprt+Sg2:%^END      K-imprt     ;
 
 LEXICON Vam-Mood !!= @CODE@ divides in Ind, Imprt, Des
    +Ind: Vam-Ind ;
@@ -187,7 +187,7 @@ LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
 
 LEXICON Vem-Imp !!= * @CODE@ for imperative
 ! Повелительное наклонение:
- +Sg3:%>ыжЫ2 K       ;
+ +Sg3:ы%>жЫ2 K       ; ! Note position of boundary break, between ы and жЫ2
  +Pl2:%>ыза  K-imprt ;
  +Pl3:%>ышт  K       ;
 

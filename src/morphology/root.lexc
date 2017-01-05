@@ -497,6 +497,8 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +TEST    !!≈ * __@CODE@__ = 
 
 !! And following triggers to control variation
+%^END		  !!= * @CODE@ for -ам verb final, i.e. Imprf
+
 {front}    !!≈ * @CODE@ 
 {back}     !!≈ * @CODE@ 
 X1      !!≈ * __@CODE@__ = 
