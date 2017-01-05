@@ -585,6 +585,7 @@ LEXICON N-SG-PxSg3-LAT !!= * @CODE@
 LEXICON N-SG-PxSg3-ABE !!= * @CODE@
  +Sg+PxSg3+Abe:%>ыж%>де K ;
  +Sg+PxSg3+Abe:жде K ;
+ +Sg+PxSg3+Abe:жыде K ;
 
 !! !Pl Sg3
 LEXICON N-PL-PxSg3-NOM !!= * @CODE@
@@ -727,7 +728,7 @@ LEXICON N-SG-PxPl1-ILL !!= * @CODE@
  +Sg+PxPl1+Ill:%>ышкына K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl1-LAT !!= * @CODE@
- +Sg+PxPl1+Lat:%>эшна K ;
+ +Sg+PxPl1+Lat:%>Е1шна K ;
 
 LEXICON N-SG-PxPl1-ABE !!= * @CODE@
  +Sg+PxPl1+Abe:%>наде K ;
@@ -829,7 +830,7 @@ LEXICON N-SG-PxPl2-ILL
  +Sg+PxPl2+Ill:ышкыда K ; !NB_CX_PX
 
 LEXICON N-SG-PxPl2-LAT !!= * @CODE@
- +Sg+PxPl2+Lat:эшда K ;
+ +Sg+PxPl2+Lat:Е1шда K ;
 
 LEXICON N-SG-PxPl2-ABE !!= * @CODE@
  +Sg+PxPl2+Abe:даде K ;
@@ -928,7 +929,7 @@ LEXICON N-SG-PxPl3-ILL !!= * @CODE@
  +Sg+PxPl3+Ill:%>Ы1штышке K ;
 
 LEXICON N-SG-PxPl3-LAT !!= * @CODE@
- +Sg+PxPl3+Lat:%>эшышт K ;
+ +Sg+PxPl3+Lat:%>Е1шышт K ;
 
 LEXICON N-SG-PxPl3-ABE !!= * @CODE@
  +Sg+PxPl3+Abe:%>Ы1штде K ;
