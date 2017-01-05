@@ -164,11 +164,11 @@ LEXICON Vem-Mood !!= @CODE@ divides in Ind, Imprt, Des
     +Des: Vem-Des ;
 
 LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
-  +Prs+Sg1:%>ем   K ;
-  +Prs+Sg2:%>ет   K ;
+  +Prs+Sg1:%>Е2м   K ;
+  +Prs+Sg2:%>Е2т   K ;
   +Prs+Sg3:%>А2    K ;
-  +Prs+Pl1:%>ена  K ;
-  +Prs+Pl2:%>еда  K ;
+  +Prs+Pl1:%>Е2на  K ;
+  +Prs+Pl2:%>Е2да  K ;
   +Prs+Pl3:%>А2т   K ;
 ! Первое прошедшее время:
     +Prt1+Sg1:%>ышым K ;
@@ -178,12 +178,12 @@ LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
     +Prt1+Pl2:%>ышда K ;
     +Prt1+Pl3:%>ышт  K ;
 ! Второе прошедшее время:
-    +Prt2+Sg1:%>енам K ;
-    +Prt2+Sg2:%>енат K ;
-    +Prt2+Sg3:%>ен   K ;
-    +Prt2+Pl1:%>енна K ;
-    +Prt2+Pl2:%>енда K ;
-    +Prt2+Pl3:%>еныт K ;
+    +Prt2+Sg1:%>Е2нам K ;
+    +Prt2+Sg2:%>Е2нат K ;
+    +Prt2+Sg3:%>Е2н   K ;
+    +Prt2+Pl1:%>Е2нна K ;
+    +Prt2+Pl2:%>Е2нда K ;
+    +Prt2+Pl3:%>Е2ныт K ;
 
 LEXICON Vem-Imp !!= * @CODE@ for imperative
 ! Повелительное наклонение:
