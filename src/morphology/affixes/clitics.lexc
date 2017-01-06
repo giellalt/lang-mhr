@@ -4,10 +4,13 @@
 
 
 LEXICON K  !!= * @CODE@
+ +Foc/Ыс:%>ыс # ;
+              K_at ;
+
+LEXICON K_at
                # ;
  +Foc/Ак:%>А2к # ;
  +Foc/Ат:%>А2т # ;
- +Foc/Ыс:%>ыс  # ;
 
 LEXICON K-imprt !!= * @CODE@
             +Foc/ян:%-ян #            ;
