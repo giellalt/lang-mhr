@@ -7546,7 +7546,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкеак</l>
 
@@ -7566,7 +7566,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">шкеат</l>
 
