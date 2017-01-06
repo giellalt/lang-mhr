@@ -168,6 +168,12 @@ LIST Foc = Foc ; #!! Foc
 LIST CmpTest = CmpTest ; #!! CmpTest
 LIST Err = Err ; #!! Err
 
+LIST @ADVL> = @ADVL> ;
+LIST @>P = @>P ;
+LIST @>N = @>N ;
+LIST @OBJ> = @OBJ> ;
+LIST @SUBJ> = SUBJ> ;
+LIST @+FMAINV = @+FMAINV ;
 #!! !!Sets
 
 LIST CASE = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Cmpr ; #!! * __CASE__ = all cases
@@ -331,3 +337,16 @@ REMOVE:NoExclNoInterj Interj IF (NOT 1* ("!") BARRIER COMMA) ;
 
 #!! __AifVövny__ selects A if вӧвны somewhere to the left
 SELECT:AifVövny A IF (*-1 ("вӧвны") BARRIER N);
+
+
+SECTION
+
+MAP:shkepo @>P TARGET ("шке") IF (1 Po);
+
+MAP:shkeadvl @ADVL> TARGET ("шке") IF (NOT 0 OBLCASE)(NOT 1 N);
+MAP:shkeattr @>N TARGET ("шке") IF (NOT 0 OBLCASE)(1 N);
+
+
+MAP:obj @OBJ> TARGET Acc (*1 V);
+MAP:subj @SUBJ> TARGET Nom (*1 V);
+MAP:vfin @+FMAINV TARGET Ind ;
