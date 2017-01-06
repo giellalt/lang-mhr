@@ -56,14 +56,14 @@ The nominals are inflected in the following numbers
 
 The nominals are inflected in the following Case and Number
 
- * __+Nom 	__ = 
- * __+Gen 	__ = 
- * __+Acc 	__ = 
- * __+Com 	__ = conitative
- * __+Ill 	__ = 
- * __+Ine 	__ = 
+ * __+Nom 	__ = nominative
+ * __+Gen 	__ = genitive
+ * __+Acc 	__ = accusative
+ * __+Com 	__ = comitative
+ * __+Ill 	__ = illative
+ * __+Ine 	__ = inessive
  * __+Lat 	__ = lative
- * __+Dat 	__ = 
+ * __+Dat 	__ = dative
  * __+Cmpr 	__ = comparative case
  * __+Abe	__ = abessive
  * __+Voc	__ = vocative
@@ -141,7 +141,8 @@ Question and Focus particles:
 
 !Derivations
 
- * __+Der/MWN__ = Modifyer without noun (better: +A+Sg+Nom etc.)
+ * __+Der/MWN__ = Modifier without noun (better: +A+Sg+Nom etc.)
+ * __+Der/Poss__ = Originally genitive form without a head
  * __+Der/исЕ__ = Used with place names
  * __+Der/дымаш__ = Negative nominalization
 

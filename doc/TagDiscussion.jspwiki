@@ -1,0 +1,121 @@
+
+This document discusses some unclear cases in the tagging.
+
+!!!Plural
+
+Mari has 4 plural suffixes.
+
+# пӧрт-влак = Plural +Pl
+# пӧрт-шамыч = Plural +Pl
+# Трондмыт = Trond and his friends / family etc. +AssocPl
+# яллаште, яллашке, ялла гыч, ... +LocusPl
+## ял = village, -ла is a plural used in combination with local 
+   cases. -влак/-шамыч could be used here as well, but -ла is
+   sort of preferred
+
+Difference between (1) and (2) is dialectal. (3) is
+associative plural. (4) is referring to several locations.
+
+The plurals 1-3 trigger Pl3 agreement in verbs, the fourth one does not.
+
+!!! Derivational genitive
+
+We have no tag of the derivational genitive 
+* мемнан-влак = наши.
+* мый мемнаным ужам = I see ours
+* Шке шонымашым шуктыман, а __еҥыным__ огыл. - You have to carry out your own wishes, not __those of others__. еҥ-ын-ым: other.person-GEN-ACC
+
+
+{{{
+мемнаным = мый+Pron+Pers+Pl+Gen+Der/Poss+N+Sg+Acc
+
+мемнаным = мый+Pron+Pers+Pl+Der/Poss+N+Sg+Acc
+
+"<мемнаным>"
+    "мый" Pron* Pers Pl Der/Ellipsis N Sg Acc
+
+    "мый" Pron* Pers Pl Der/MWN N Sg Acc
+}}}
+
+
+ пурышо лӱддымӧ разведчик шуко годым    шкенжын-шамычше дене кылым телефон але 
+ 
+ 
+ 
+!!!Abessive
+
+Productive in Western, sporadic in Eastern, forbidden by normative grammars.
+
+
+!!!Vocative
+
+ава to авай = vocative with -и for a class of nouns (Jeremy should deliver a list)
+
+* a. авай = авай N Sg Nom (not optimal because no info on vocativity)
+* b. авай = ава N Sg Voc (bad because of case stacking)
+* c. авай = 
+** ава+N+Der/Voc+N+Sg+Nom (morphology)
+** "ава" N* Der/Voc N Sg Nom (input to syntax, which will be @Vocative
+
+It seems (c) is the best.
+
+ӱдыр to ӱдырем = for all (other) words - do not mark
+
+* a. Keep the morphology as Px, add @Vocative in the syntax
+* b. Have an analysis Der/Voc parallel to Px and then disambiguate
+
+It seems (a) for удыр and (c) for авай is best.
+
+!!!Possessive suffixes
+
+* PxSg1, PxSg2 ok
+* What about PxSg3, which is also used as what some call a clitic
+** a. two tags: PxSg3 and +Cl
+** b. one tag PxSg3 and two syntaxtic tags
+
+!!!Superlative
+
+# tag it for one word
+# not tag it
+
+==> Tag it
+
+!!!Cardinality
+
+* +Card 
+* +Ord 
+
+Skip Card? Skip Ord?
+
+!!!Moods
+
+Throw out +Cond
+
++Imprt: We want all attested forms, also Sg1?
+
++Inf may have +Dat
+
+!!!Infinite forms
+
+All other gerunds are missing -- they should be declared.
+
+We want to have all +Prc as fused tags
+
+* +ActPrc
+* +PassPrc
+* +FutPrc
+* +NegPrc
+
+Then +Act and +Pass do not exist.
+
++Foc/я is missing, add it.
+
++Der/ .. a lot of tags just not implemented yet.
+
+
+
+
+
+
+
+
