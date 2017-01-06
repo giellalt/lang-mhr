@@ -7,20 +7,20 @@
 
 
 # ================ #
-#!!  !!!Sentence delimiters 
+#!!  !!!Sentence delimiters
 # ================ #
 
 DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" sent ;
-#!! The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent 
+#!! The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
 
 #PARENTHESES = "<$(>" "<$)>" "<$[>" "<$]>" "<${>" "<$}>" "<$«>" "<$»>" ;
 
 # ============= #
-# !!!Tags and sets 
+# !!!Tags and sets
 # ============= #
 
 #!! The __Tags__ section lists all the tags inherited from the fst, and defines them for
-#!! use in the syntactic analysis. 
+#!! use in the syntactic analysis.
 #!! The tags are documented in the root.lexc file, and here only listed for reference.
 
 #!! The next section, __Sets__, contains sets defined
@@ -114,10 +114,10 @@ LIST Ins = Ins ins ;   #!! Ins
 LIST Ine = Ine ine ;   #!! Ine
 LIST Ill = Ill ill ;   #!! Ill
 LIST Cmpr = Cmpr ; 	   #!! Cmpr (case)
-		
+
 #!! !Other nominal tags
-					   
-LIST Pers = Pers ;	   #!! Pers 
+
+LIST Pers = Pers ;	   #!! Pers
 LIST Refl = Refl ; 	   #!! Refl
 LIST Rel = Rel ; 	   #!! Rel
 LIST Interr = Interr ; #!! Interr
@@ -133,14 +133,14 @@ LIST Comp = Comp ; 	   #!! Comp
 
 #!! !Possessive suffix tags
 
-LIST PxSg1 = PxSg1 ; #!! PxSg1 
-LIST PxSg2 = PxSg2 ; #!! PxSg2 
-LIST PxSg3 = PxSg3 ; #!! PxSg3 
-LIST PxPl1 = PxPl1 ; #!! PxPl1 
-LIST PxPl2 = PxPl2 ; #!! PxPl2 
-LIST PxPl3 = PxPl3 ; #!! PxPl3 
+LIST PxSg1 = PxSg1 ; #!! PxSg1
+LIST PxSg2 = PxSg2 ; #!! PxSg2
+LIST PxSg3 = PxSg3 ; #!! PxSg3
+LIST PxPl1 = PxPl1 ; #!! PxPl1
+LIST PxPl2 = PxPl2 ; #!! PxPl2
+LIST PxPl3 = PxPl3 ; #!! PxPl3
 
-#!! !Mumeral tags
+#!! !Numeral tags
 
 LIST Card = Card ; #!! Card
 LIST Coll = Coll ;  #!! Coll
@@ -207,18 +207,18 @@ REMOVE:onlyteve  CC IF (0 ("теве"));
 #!! * __PcleNotCC__ Lauseen alussa on Pcle
 REMOVE:PcleNotCC CC IF (-1 BOS)(0 Pcle);
 
-
+SELECT:Posna Po IF (-1 ("деч"))(0 ("посна"))
 
 
 #!! !Derivations
 
 #!! * __RemDerMWN__ if noun follows
-REMOVE:RemDerMWN (Der/MWN N Nom) IF (1 N);	
+REMOVE:RemDerMWN (Der/MWN N Nom) IF (1 N);
 #!! * __Dersa__ if noun follows
 REMOVE:Dersa Der/са IF (0 ("<(.*)са>"r) + A);
 #!! * __SelDerMWN__ select Der/MWN if no noun follows
 SELECT:SelDerMWN (Der/MWN) IF (0 A)(*1 EOS BARRIER N);
-	
+
 #!! Adjectives
 
 #!! * __AdjNotN__ if N or A to the right
@@ -238,9 +238,9 @@ REMOVE:AccNeedsVerb Acc IF (0C Nom OR Acc) (NOT -1* VFIN BARRIER BOS) (NOT -1* V
 #!! !Numerals
 
 #!! * __IkNumN__ ik is num before N Sg
-REMOVE:IkNumN (Pron) IF (0 ("ик"))(1 N + Sg); 
+REMOVE:IkNumN (Pron) IF (0 ("ик"))(1 N + Sg);
 #!! * __IkNumAN__ ik is num before A N Sg
-REMOVE:IkNumAN (Pron) IF (0 ("ик"))(1 A)(2 N + Sg); 
+REMOVE:IkNumAN (Pron) IF (0 ("ик"))(1 A)(2 N + Sg);
 
 #!! * __KumNumAN__ ik is num before A N Sg
 REMOVE:KumNumAN N IF (0 ("кум"))(1 A OR N);
@@ -258,8 +258,12 @@ SELECT:AdvUke Adv IF (0 ("уке"))(1 CLB OR EOS OR ("гын"));
 
 #!! !Postpositions
 
+
+
 #!! * __PoNeedsGen__ removes postposition if the word to the left is not Gen
-REMOVE:PoNeedsGen Po IF (NOT -1 Gen);
+REMOVE:PoNeedsGen Po IF (NOT -1 Gen OR Nom);
+
+
 
 #!! !!Adverbs
 
@@ -302,7 +306,7 @@ REMOVE:NoConNeg1 ConNeg IF (NOT *-1 Neg BARRIER CLB);
 #!! * __NoConNeg2__ No ConNeg if another ConNeg to the left
 REMOVE:NoConNeg2 ConNeg IF (-1* ConNeg BARRIER Neg);
 
-	
+
 #!! !Imperative or noun
 
 #!! * __NotImpWhenInd__
@@ -311,6 +315,10 @@ REMOVE:NotImpWhenInd Imprt IF (*-1C Ind);
 REMOVE:NotImpWhenWords1 Imprt IF (-1 N)(0 N);
 #!! * __NotImpWhenWords2__
 REMOVE:NotImpWhenWords2 Imprt IF (-1 WORD LINK *-1 BOS BARRIER Imprt);
+
+#!! !Some more verb rules
+#!! *__NotANoun__
+REMOVE:NotANoun N IF (-1 Adv)(0 V)(1 EOS OR COMMA);
 
 #!! !да
 
