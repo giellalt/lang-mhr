@@ -52,6 +52,7 @@ The nominals are inflected in the following numbers
  * __+Sg		__ = 
  * __+Pl		__ = 
  * __+AssocPl__ = 
+ * __+LocPl	__ =
 
 The nominals are inflected in the following Case and Number
 
@@ -142,6 +143,7 @@ Question and Focus particles:
 
  * __+Der/MWN__ = Modifyer without noun (better: +A+Sg+Nom etc.)
  * __+Der/исЕ__ = Used with place names
+ * __+Der/дымаш__ = Negative nominalization
 
 Abbreviated words are classified with:
  * __+ABBR__ = for abbreviations that (may) contain period
@@ -177,6 +179,20 @@ here and there in the inflection pattern.
 !Usage tags
 
 The Usage extents are marked using following tags:
+
+ * __+Use/Marg__ marginal
+ * __+Use/-PLX__ Excluded in PLX-speller
+ * __+Use/SpellNoSugg__ recognized but not suggested in speller
+ * __+Use/Circ__ circular paths (old ^C^)
+ * __+Use/CircN__ circular paths for the numerals (old ^N^)
+ * __+Use/NG__ not-generate, for ped generation isme-ped.fst
+ * __+Use/MT__ Generate for MT only, for restricting analyses needed 
+              for MT generation not to pop up elsewhere
+ * __+Use/NGminip__ Not for miniparadigm in VD dicts
+ * __+Use/Disamb__ means that the following is only used in the analyser feeding the disambiguator
+ * __+Use/GC__ only retained in the HFST Grammar Checker disambiguation analyser
+ * __+Use/-PMatch__ Do not include in fst's made for hfst-pmatch
+ * __+MWESplit__ Split point for MWE
 
  * __+Err/Orth__ = orthographical error (analysed, not accepted in speller)
  * __+Use/-Spell__ = accepted in normative FST but not in speller
@@ -452,6 +468,8 @@ symbols in the lexicon files:
  * __+TEST__ = 
 
 And following triggers to control variation
+ * %^END		   for -ам verb final, i.e. Imprf
+
  * {front} 
  * {back} 
  * __X1__ = 

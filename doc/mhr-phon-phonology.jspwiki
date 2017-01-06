@@ -46,6 +46,7 @@ Archiphonemes for vowels, Apertium style
  *  Е1:е  for lative
 
 
+ * %^END:0		   for -ам verb final, i.e. Imprf
 
  *  %>    
 
@@ -57,16 +58,17 @@ Archiphonemes for vowels, Apertium style
  * Vo =   о у ё ю О У Ё Ю ;    
  * VO =   ӧ ӱ Ӧ Ӱ;               
  * Ve =   а е и э я А Е И Э Я ;   
- * Vws =  Vo VO Ve ы Ы ;    
+ * Vow =  Vo VO Ve ы Ы ;    
 
  * Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш    
         Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     
  * Cst =  б в г д ж з к п с т ф х ц ч ш       
         Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш ;     
 
- * Ltrs = Vws Cns  ъ ь Ъ Ь ;    
+ * Ltrs = Vow Cns  ъ ь Ъ Ь ;    
 
  * all =  Ltrs  %- ;     
+
 
 
 
@@ -84,7 +86,6 @@ __ Palatal mark loss before vowel __
 * __башн0я __
 
 
-
 __ Onset vowel loss in suffix __  
 
 __ Onset vowel Е2 realized in suffix е __  
@@ -100,11 +101,11 @@ __ suffix-final vowel loss after stem-final vowel __
 
 __ suffix-final vowel realized after stem-final consonant __  
 
-__ suffix-final vowel realized as -Round in word-final position __  
+__ suffix-final vowel realized as -Round in word-final position е  __  
 
-__ suffix-final vowel realized as +Back +Round in word-final position __  
+__ suffix-final vowel realized as +Back +Round in word-final position о  __  
 
-__ suffix-final vowel realized as +Front +Round in word-final position __  
+__ suffix-final vowel realized as +Front +Round in word-final position ӧ  __  
 
 
 __ %{ьØ%}:ь __
@@ -185,7 +186,9 @@ __ й Deletion in front of я Suffix and others __
 
 
 
-__ Onset consonant devoicing __
+__ Onset consonant devoicing ж:ш  __
+
+__ Onset consonant devoicing з:с  __
 
 __ Stem-final consonant loss т __
 
@@ -193,12 +196,23 @@ __ Stem-final consonant loss к __
 
 __ Stem-final consonant loss н __
 
-__ Stem-final consonant variation з:ч __
 
 
-__ Disallow PxSg3 in ж everywhere except after :Vow  __
+* __воз> __
+* __воч> __
 
-__ Disallow PxSg3 in ыж everywhere except after ш  __
+* __воз>са __
+* __воч>са __
+
+__ Disallow PxSg3 in ж no where except after :Vow  __
+
+__ Disallow Sg+Ill in тЫ2 everywhere except after stem-final ш  __
+йӧратымаш+N+Sg+Ine
+* __йӧратымаш%>тЫ2 __
+* __йӧратымаш%>те __
+
+
+__ Disallow PxSg3 in ыж no where except after ш  __
 * __йолташ%>ыж# __
 * __йолташ%>ыж# __
 * __*олма%>ыж# __ (is not standard language)
