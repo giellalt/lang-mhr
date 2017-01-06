@@ -12,12 +12,14 @@ LEXICON pronouns_not_from_xml !!= * @CODE@
 LEXICON MYJ !!= * @CODE@
 +Sg+Nom:мый # ;
 +Sg+Gen:мыйын # ;
++Sg+Der/Poss:мыйын N_ ;
 +Sg+Acc:мыйым # ;
 +Sg+Dat:мыланем #;
 +Sg+Com:мыйге # ;
 +Sg+Cmpr:мыйла # ;
 +Pl+Nom:ме # ;
 +Pl+Gen:мемнан # ;
++Pl+Der/Poss:мемнан N_ ;
 +Pl+Acc:мемнам # ;
 +Pl+Dat:мыланна #;
 +Pl+Dat+Use/NG:мемналан #;
@@ -27,12 +29,14 @@ LEXICON MYJ !!= * @CODE@
 LEXICON TYJ !!= * @CODE@
 +Sg+Nom:тый # ;
 +Sg+Gen:тыйын # ;
++Sg+Der/Poss:тыйын N_ ;
 +Sg+Acc:тыйым # ;
 +Sg+Dat:тыланет #;
 +Sg+Com:тыйге # ;
 +Sg+Cmpr:тыйла # ;
 +Pl+Nom:те # ;
 +Pl+Gen:темнан # ;
++Pl+Der/Poss:темнан N_ ;
 +Pl+Acc:темнам # ;
 +Pl+Dat:тыланна #;
 +Pl+Dat+Use/NG:тендалан #;
@@ -42,12 +46,14 @@ LEXICON TYJ !!= * @CODE@
 LEXICON TUDO !!= * @CODE@
 +Pers+Sg+Nom:тудо # ;
 +Pers+Sg+Gen:тудын # ;
++Sg+Der/Poss:тудын N_ ;
 +Pers+Sg+Acc:тудым # ;
 +Pers+Sg+Dat:тудылан #;
 +Pers+Sg+Com:тудыге # ;
 +Pers+Sg+Cmpr:тудла # ;
 +Pers+Pl+Nom:нуно # ;
 +Pers+Pl+Gen:нунын # ;
++Pl+Der/Poss:нунын N_ ;
 +Pers+Pl+Acc:нуным # ;
 +Pers+Pl+Dat:нунылан #;
 +Pers+Pl+Com:нуныге # ;
@@ -56,12 +62,14 @@ LEXICON TUDO !!= * @CODE@
 LEXICON TIDE !!= * @CODE@ 
 +Dem+Sg+Nom:тиде # ;
 +Dem+Sg+Gen:тидын # ;
++Sg+Der/Poss:тидын N_ ;
 +Dem+Sg+Acc:тидым # ;
 +Dem+Sg+Dat:тидылан #;
 +Dem+Sg+Com:тидыге # ;
 +Dem+Sg+Cmpr:тидыла # ;
 +Dem+Pl+Nom:нине # ;
 +Dem+Pl+Gen:нинын # ;
++Pl+Der/Poss:нинын N_ ;
 +Dem+Pl+Acc:ниным # ;
 +Dem+Pl+Dat:нинылан #;
 +Dem+Pl+Com:ниныге # ;
@@ -73,26 +81,32 @@ LEXICON SHKE !!= * @CODE@
 +Nom+PxPl3:шкешт K_at ;
 
 +Gen+PxSg1:шкемын K_at ;
++PxSg1+Der/Poss:шкемын N_ ;
 +Acc+PxSg1:шкемым K_at ;
 +Dat+PxSg1:шканем K_at;
 +Dat+PxSg1+Use/NG:шкаланем K_at;
 +Gen+PxSg2:шкендын K_at ;
++PxSg2+Der/Poss:шкендын N_ ;
 +Acc+PxSg2:шкендым K_at ;
 +Dat+PxSg2:шканет K_at;
 +Dat+PxSg2+Use/NG:шкаланет K_at;
 +Gen+PxSg3:шкенжын K_at ;
++PxSg3+Der/Poss:шкенжын N_ ;
 +Acc+PxSg3:шкенжым K_at ;
 +Dat+PxSg3:шканже K_at;
 +Dat+PxSg3+Use/NG:шкаланже K_at;
 +Gen+PxPl1:шкенан K_at ;
++PxPl1+Der/Poss:шкенан N_ ;
 +Acc+PxPl1:шкенам K_at ;
 +Dat+PxPl1:шкaнна K_at;
 +Dat+PxPl1+Use/NG:шкаланна K_at;
 +Gen+PxPl2:шкендан K_at ;
++PxPl2+Der/Poss:шкендан N_ ;
 +Acc+PxPl2:шкендам K_at ;
 +Dat+PxPl2:шкaнда K_at;
 +Dat+PxPl2+Use/NG:шкаланда K_at;
 +Gen+PxPl3:шкеныштын K_at ;
++PxPl3+Der/Poss:шкеныштын N_ ;
 +Acc+PxPl3:шкеныштым K_at ;
 +Dat+PxPl3:шкaнышт K_at;
 +Dat+PxPl3+Use/NG:шкаланышт K_at;
