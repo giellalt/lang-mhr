@@ -72,14 +72,14 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 
 !! The nominals are inflected in the following Case and Number
 
-+Nom 	   !!≈ * __@CODE@__ = 
-+Gen 	   !!≈ * __@CODE@__ = 
-+Acc 	   !!≈ * __@CODE@__ = 
-+Com 	   !!≈ * __@CODE@__ = conitative
-+Ill 	   !!≈ * __@CODE@__ = 
-+Ine 	   !!≈ * __@CODE@__ = 
++Nom 	   !!≈ * __@CODE@__ = nominative
++Gen 	   !!≈ * __@CODE@__ = genitive
++Acc 	   !!≈ * __@CODE@__ = accusative
++Com 	   !!≈ * __@CODE@__ = comitative
++Ill 	   !!≈ * __@CODE@__ = illative
++Ine 	   !!≈ * __@CODE@__ = inessive
 +Lat 	   !!≈ * __@CODE@__ = lative
-+Dat 	   !!≈ * __@CODE@__ = 
++Dat 	   !!≈ * __@CODE@__ = dative
 +Cmpr 	   !!≈ * __@CODE@__ = comparative case
 +Abe	   !!≈ * __@CODE@__ = abessive
 +Voc	   !!≈ * __@CODE@__ = vocative
