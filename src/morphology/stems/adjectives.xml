@@ -124027,24 +124027,6 @@
 
   <e>
     <lg>
-      <l pos="A">шкенан</l>
-
-      <stg>
-        <st Contlex="A_">шкенан</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="A">kotimainen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="A">шкет</l>
 
       <stg>
@@ -124069,6 +124051,27 @@
         <t pos="A">yksityinen</t>
       </tg>
     </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">шке</l>
+
+      <stg>
+        <st Contlex="A_">шке</st>
+      </stg>
+
+      <stress>шке</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">oma</t>
+      </tg>
+    </mg>
+
   </e>
 
   <e>
