@@ -6,8 +6,9 @@ Meadow Mari noun inflection
 
  * LEXICON N-ava  to N-ava_01 and vocatives
 
-
  * LEXICON N-ava_01  to all case-number lexica
+
+ * LEXICON   N-ava_01_obl  to obl only
 
 
 
@@ -29,12 +30,6 @@ Meadow Mari noun inflection
 
 
  * LEXICON N_   redirects to N-ava_01
-
-
-
-
-
-
 
 
  * LEXICON N-a/e  to N underscore
@@ -346,6 +341,12 @@ Case suffixes
  * LEXICON N-PL-PxPl3-LAT 
 
  * LEXICON N-PL-PxPl3-ABE 
+
+
+
+
+
+
 
 
 
