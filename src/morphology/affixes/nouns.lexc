@@ -10,9 +10,11 @@ LEXICON N-ava !!= * @CODE@ to N-ava_01 and vocatives
         +N+Voc:%>й  #        ;
   +N+Voc+PxSg1:%>ем #        ;
 
-
 LEXICON N-ava_01 !!= * @CODE@ to all case-number lexica
   N-SG-NOM       ;
+  N-ava_01_obl ;
+
+LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
   N-SG-GEN       ;
   N-SG-DAT       ;
   N-SG-ACC       ;
@@ -191,52 +193,6 @@ LEXICON N_  !!= * @CODE@ redirects to N-ava_01
                    +N: N-ava_01      ; 
 +N+N→A:%>дымЫ2 A_ ;
 
-! 2012-10-26 Jaska!+N: N_NB_Nb-Px-Cx ;
-! 2012-10-26 Jaska!+N: N_Px_Px-Nb-Cx ;
-
-!LEXICON N_NB_Nb-Px-Cx
-!      +Sg:        N_Cx_Nb-Px-Cx ;
-!      +Pl:%-влак  N_Cx_Nb-Px-Cx ;
-!      +Pl:%-шамыч N_Cx_Nb-Px-Cx ;
-! +AssocPl:%>мыт   N_Cx_Nb-Px-Cx ;
-!      +Sg:        N_Px_Nb-Px-Cx ;
-!      +Pl:%-влак  N_Px_Nb-Px-Cx ;
-!      +Pl:%-шамыч N_Px_Nb-Px-Cx ;
-
-!LEXICON N_Px_Nb-Px-Cx
-! +PxSg1:%>Е2м  N_Cx_Nb-Px-Cx ; ! Е2:0, Е2:е
-! +PxSg2:%>Е2т  N_Cx_Nb-Px-Cx ; ! Е2:0, Е2:е
-! +PxSg3:%>жЫ2  N_Cx_Nb-Px-Cx ;
-! +PxPl1:%>на   N_Cx_Nb-Px-Cx ;
-! +PxPl2:%>да   N_Cx_Nb-Px-Cx ;
-! +PxPl3:%>Ы1шт N_Cx_Nb-Px-Cx ; ! Ы1:0, Ы1:ы
-
-!LEXICON N_Cx_Nb-Px-Cx
-! +Nom:         K ;
-! +Gen:%>Ы1н    K ; ! Ы1:0, Ы1:ы
-! +Dat:%>лан    K ;
-! +Acc:%>Ы1м    K ; ! Ы1:0, Ы1:ы
-! +Cmpr:%>ла     K ;
-! +Com:%>ге     K ;
-! +Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
-! +Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
-! +Lat:%>Е1ш    K ;
-! +Abe:%>де     K ;
-
-!LEXICON N_Px_Px-Nb-Cx
-! +PxSg1:%>Е2м  N_Nb_Px-Nb-Cx ; ! Е2:0, Е2:е
-! +PxSg2:%>Е2т  N_Nb_Px-Nb-Cx ; ! Е2:0, Е2:е
-! +PxSg3:%>жЫ2  N_Nb_Px-Nb-Cx ;
-! +PxPl1:%>на   N_Nb_Px-Nb-Cx ;
-! +PxPl2:%>да   N_Nb_Px-Nb-Cx ;
-! +PxPl3:%>Ы1шт N_Nb_Px-Nb-Cx ; ! Ы1:0, Ы1:ы
-
-!LEXICON N_Nb_Px-Nb-Cx
-! +Pl:%-влак  N_Cx_Px-Nb-Cx ;
-! +Pl:%-шамыч N_Cx_Px-Nb-Cx ;
-
-!LEXICON N_Cx_Px-Nb-Cx
-!  N_Cx_Nb-Px-Cx ;
 
 LEXICON N-a/e !!= * @CODE@ to N underscore
   N_ ;
@@ -1091,3 +1047,49 @@ LEXICON N-PL-PxPl3-ABE !!= * @CODE@
 ! +Lat:%>еш     K ; ! Check this again
 ! +Abe:%>де     K ;
 
+! 2012-10-26 Jaska!+N: N_NB_Nb-Px-Cx ;
+! 2012-10-26 Jaska!+N: N_Px_Px-Nb-Cx ;
+
+!LEXICON N_NB_Nb-Px-Cx
+!      +Sg:        N_Cx_Nb-Px-Cx ;
+!      +Pl:%-влак  N_Cx_Nb-Px-Cx ;
+!      +Pl:%-шамыч N_Cx_Nb-Px-Cx ;
+! +AssocPl:%>мыт   N_Cx_Nb-Px-Cx ;
+!      +Sg:        N_Px_Nb-Px-Cx ;
+!      +Pl:%-влак  N_Px_Nb-Px-Cx ;
+!      +Pl:%-шамыч N_Px_Nb-Px-Cx ;
+
+!LEXICON N_Px_Nb-Px-Cx
+! +PxSg1:%>Е2м  N_Cx_Nb-Px-Cx ; ! Е2:0, Е2:е
+! +PxSg2:%>Е2т  N_Cx_Nb-Px-Cx ; ! Е2:0, Е2:е
+! +PxSg3:%>жЫ2  N_Cx_Nb-Px-Cx ;
+! +PxPl1:%>на   N_Cx_Nb-Px-Cx ;
+! +PxPl2:%>да   N_Cx_Nb-Px-Cx ;
+! +PxPl3:%>Ы1шт N_Cx_Nb-Px-Cx ; ! Ы1:0, Ы1:ы
+
+!LEXICON N_Cx_Nb-Px-Cx
+! +Nom:         K ;
+! +Gen:%>Ы1н    K ; ! Ы1:0, Ы1:ы
+! +Dat:%>лан    K ;
+! +Acc:%>Ы1м    K ; ! Ы1:0, Ы1:ы
+! +Cmpr:%>ла     K ;
+! +Com:%>ге     K ;
+! +Ine:%>Ы1штЫ2 K ; ! Ы1:0, Ы1:ы
+! +Ill:%>Ы1шкЫ2 K ; ! Ы1:0, Ы1:ы
+! +Lat:%>Е1ш    K ;
+! +Abe:%>де     K ;
+
+!LEXICON N_Px_Px-Nb-Cx
+! +PxSg1:%>Е2м  N_Nb_Px-Nb-Cx ; ! Е2:0, Е2:е
+! +PxSg2:%>Е2т  N_Nb_Px-Nb-Cx ; ! Е2:0, Е2:е
+! +PxSg3:%>жЫ2  N_Nb_Px-Nb-Cx ;
+! +PxPl1:%>на   N_Nb_Px-Nb-Cx ;
+! +PxPl2:%>да   N_Nb_Px-Nb-Cx ;
+! +PxPl3:%>Ы1шт N_Nb_Px-Nb-Cx ; ! Ы1:0, Ы1:ы
+
+!LEXICON N_Nb_Px-Nb-Cx
+! +Pl:%-влак  N_Cx_Px-Nb-Cx ;
+! +Pl:%-шамыч N_Cx_Px-Nb-Cx ;
+
+!LEXICON N_Cx_Px-Nb-Cx
+!  N_Cx_Nb-Px-Cx ;
