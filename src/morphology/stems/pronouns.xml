@@ -5021,27 +5021,9 @@
     <lg>
       <l pos="Pron">тиде</l>
 
-      <stg>
-        <st Contlex="PronDem">тиде</st>
-      </stg>
-
       <stress>ти•де</stress>
     </lg>
-
-    <mg>
-      <defNative/>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">тиде</l>
-
-      <stg>
-        <st Contlex="PronDem">тид%{еы%}</st>
-      </stg>
-    </lg>
-
+    
     <mg>
       <defNative/>
 
