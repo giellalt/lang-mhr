@@ -6,14 +6,14 @@ The file first defines sentence delimiters and tags and sets.
 Thereafter come the rules, each rule is listed below.
 
 
- !!!Sentence delimiters 
+ !!!Sentence delimiters
 
-The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent 
+The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
 
 
 
 The __Tags__ section lists all the tags inherited from the fst, and defines them for
-use in the syntactic analysis. 
+use in the syntactic analysis.
 The tags are documented in the root.lexc file, and here only listed for reference.
 
 The next section, __Sets__, contains sets defined
@@ -103,7 +103,7 @@ Cmpr (case)
 
 !Other nominal tags
 
-Pers 
+Pers
 Refl
 Rel
 Interr
@@ -119,14 +119,14 @@ Comp
 
 !Possessive suffix tags
 
-PxSg1 
-PxSg2 
-PxSg3 
-PxPl1 
-PxPl2 
-PxPl3 
+PxSg1
+PxSg2
+PxSg3
+PxPl1
+PxPl2
+PxPl3
 
-!Mumeral tags
+!Numeral tags
 
 Card
 Coll
@@ -182,7 +182,6 @@ Err
 
 
 
-
 !Derivations
 
 * __RemDerMWN__ if noun follows
@@ -190,6 +189,7 @@ Err
 * __SelDerMWN__ select Der/MWN if no noun follows
 
 Adjectives
+
 
 * __AdjNotN__ if N or A to the right
 
@@ -217,7 +217,11 @@ Adjectives
 
 !Postpositions
 
+
+
 * __PoNeedsGen__ removes postposition if the word to the left is not Gen
+
+
 
 !!Adverbs
 
@@ -254,6 +258,9 @@ Adjectives
 * __NotImpWhenInd__
 * __NotImpWhenWords1__
 * __NotImpWhenWords2__
+
+!Some more verb rules
+*__NotANoun__
 
 !да
 
