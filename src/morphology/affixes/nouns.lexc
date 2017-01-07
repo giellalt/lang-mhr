@@ -332,7 +332,7 @@ LEXICON N-PL-NOM !!= * @CODE@
 LEXICON N-PL-GEN !!= * @CODE@
  +Pl+Gen:-влакын  K ;
  +Pl+Gen:-шамычын K ;
- +Der/Poss: N_ ;
+! +Der/Poss: N_ ;
 
 LEXICON N-PL-DAT !!= * @CODE@
  +Pl+Dat:-влаклан  K ;
