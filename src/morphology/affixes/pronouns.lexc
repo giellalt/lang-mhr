@@ -12,14 +12,14 @@ LEXICON pronouns_not_from_xml !!= * @CODE@
 LEXICON MYJ !!= * @CODE@
 +Sg+Nom:мый # ;
 +Sg+Gen:мыйын # ;
-+Sg+Der/Poss:мыйын N_ ;
++Sg+Der/Poss:мыйын N-ava_01_obl ;
 +Sg+Acc:мыйым # ;
 +Sg+Dat:мыланем #;
 +Sg+Com:мыйге # ;
 +Sg+Cmpr:мыйла # ;
 +Pl+Nom:ме # ;
 +Pl+Gen:мемнан # ;
-+Pl+Der/Poss:мемнан N_ ;
++Pl+Der/Poss:мемнан N-ava_01_obl ;
 +Pl+Acc:мемнам # ;
 +Pl+Dat:мыланна #;
 +Pl+Dat+Use/NG:мемналан #;
@@ -29,14 +29,14 @@ LEXICON MYJ !!= * @CODE@
 LEXICON TYJ !!= * @CODE@
 +Sg+Nom:тый # ;
 +Sg+Gen:тыйын # ;
-+Sg+Der/Poss:тыйын N_ ;
++Sg+Der/Poss:тыйын N-ava_01_obl ;
 +Sg+Acc:тыйым # ;
 +Sg+Dat:тыланет #;
 +Sg+Com:тыйге # ;
 +Sg+Cmpr:тыйла # ;
 +Pl+Nom:те # ;
 +Pl+Gen:темнан # ;
-+Pl+Der/Poss:темнан N_ ;
++Pl+Der/Poss:темнан N-ava_01_obl ;
 +Pl+Acc:темнам # ;
 +Pl+Dat:тыланна #;
 +Pl+Dat+Use/NG:тендалан #;
@@ -46,14 +46,14 @@ LEXICON TYJ !!= * @CODE@
 LEXICON TUDO !!= * @CODE@
 +Pers+Sg+Nom:тудо # ;
 +Pers+Sg+Gen:тудын # ;
-+Sg+Der/Poss:тудын N_ ;
++Sg+Der/Poss:тудын N-ava_01_obl ;
 +Pers+Sg+Acc:тудым # ;
 +Pers+Sg+Dat:тудлан #;
 +Pers+Sg+Com:тудыге # ;
 +Pers+Sg+Cmpr:тудла # ;
 +Pers+Pl+Nom:нуно # ;
 +Pers+Pl+Gen:нунын # ;
-+Pl+Der/Poss:нунын N_ ;
++Pl+Der/Poss:нунын N-ava_01_obl ;
 +Pers+Pl+Acc:нуным # ;
 +Pers+Pl+Dat:нунылан #;
 +Pers+Pl+Com:нуныге # ;
@@ -62,14 +62,14 @@ LEXICON TUDO !!= * @CODE@
 LEXICON TIDE !!= * @CODE@ 
 +Dem+Sg+Nom:тиде # ;
 +Dem+Sg+Gen:тидын # ;
-+Sg+Der/Poss:тидын N_ ;
++Sg+Der/Poss:тидын N-ava_01_obl ;
 +Dem+Sg+Acc:тидым # ;
 +Dem+Sg+Dat:тидлан #;
 +Dem+Sg+Com:тидыге # ;
 +Dem+Sg+Cmpr:тидыла # ;
 +Dem+Pl+Nom:нине # ;
 +Dem+Pl+Gen:нинын # ;
-+Pl+Der/Poss:нинын N_ ;
++Pl+Der/Poss:нинын N-ava_01_obl ;
 +Dem+Pl+Acc:ниным # ;
 +Dem+Pl+Dat:нинылан #;
 +Dem+Pl+Com:ниныге # ;
@@ -81,32 +81,32 @@ LEXICON SHKE !!= * @CODE@
 +Nom+PxPl3:шкешт K_at ;
 
 +Gen+PxSg1:шкемын K_at ;
-+PxSg1+Der/Poss:шкемын N_ ;
++PxSg1+Der/Poss:шкемын N-ava_01_obl ;
 +Acc+PxSg1:шкемым K_at ;
 +Dat+PxSg1:шканем K_at;
 +Dat+PxSg1+Use/NG:шкаланем K_at;
 +Gen+PxSg2:шкендын K_at ;
-+PxSg2+Der/Poss:шкендын N_ ;
++PxSg2+Der/Poss:шкендын N-ava_01_obl ;
 +Acc+PxSg2:шкендым K_at ;
 +Dat+PxSg2:шканет K_at;
 +Dat+PxSg2+Use/NG:шкаланет K_at;
 +Gen+PxSg3:шкенжын K_at ;
-+PxSg3+Der/Poss:шкенжын N_ ;
++PxSg3+Der/Poss:шкенжын N-ava_01_obl ;
 +Acc+PxSg3:шкенжым K_at ;
 +Dat+PxSg3:шканже K_at;
 +Dat+PxSg3+Use/NG:шкаланже K_at;
 +Gen+PxPl1:шкенан K_at ;
-+PxPl1+Der/Poss:шкенан N_ ;
++PxPl1+Der/Poss:шкенан N-ava_01_obl ;
 +Acc+PxPl1:шкенам K_at ;
 +Dat+PxPl1:шкaнна K_at;
 +Dat+PxPl1+Use/NG:шкаланна K_at;
 +Gen+PxPl2:шкендан K_at ;
-+PxPl2+Der/Poss:шкендан N_ ;
++PxPl2+Der/Poss:шкендан N-ava_01_obl ;
 +Acc+PxPl2:шкендам K_at ;
 +Dat+PxPl2:шкaнда K_at;
 +Dat+PxPl2+Use/NG:шкаланда K_at;
 +Gen+PxPl3:шкеныштын K_at ;
-+PxPl3+Der/Poss:шкеныштын N_ ;
++PxPl3+Der/Poss:шкеныштын N-ava_01_obl ;
 +Acc+PxPl3:шкеныштым K_at ;
 +Dat+PxPl3:шкaнышт K_at;
 +Dat+PxPl3+Use/NG:шкаланышт K_at;
