@@ -207,7 +207,7 @@ REMOVE:onlyteve  CC IF (0 ("теве"));
 #!! * __PcleNotCC__ Lauseen alussa on Pcle
 REMOVE:PcleNotCC CC IF (-1 BOS)(0 Pcle);
 
-SELECT:Posna Po IF (-1 ("деч"))(0 ("посна"))
+SELECT:Posna Po IF (-1 ("деч"))(0 ("посна"));
 
 
 #!! !Derivations
