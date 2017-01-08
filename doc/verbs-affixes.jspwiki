@@ -4,16 +4,6 @@ Meadow Mari verb inflection.
 
 !!!Verbal continuation lexica
 
-!!Unfinished lexica
-
-Here are some unfinished verb lexica. TODO: Fix.
-
-
-* порволыже:порволыж V  "olkoon kirottu! V" ;
-* порволышаш:порволышаш V  "tulkoon kirotuksi V" ;
-* ситыш:ситыш V  "on riittävästi, riittää V" ;
-* улмаште:улмашт V  "(jnk) ollessa (läsnä); jos on V" ;
-
 !!Auxiliary verbs 
 
 Some of these are directed directly from root.lexc
@@ -24,8 +14,6 @@ Some of these are directed directly from root.lexc
 
 
  LEXICON V-AUX_   TODO: fix
-
-
 
 
 
@@ -41,30 +29,22 @@ We divide the verbs in two, -am and -em
 
  LEXICON Vam-Ind  gives all the Ind tenses
 
- LEXICON Vam-Imp   for imperative
+ LEXICON Vam-Imp   for imperative, Повелительное наклонение:
 
- LEXICON Vam-Des   for desiderative
+ LEXICON Vam-Des   for desiderative, Желательное наклонение:
 
 
 !The -em class
 
  LEXICON V_em  divides V_em in Mood and infinites
 
-
  LEXICON Vem-Mood  divides in Ind, Imprt, Des
 
  LEXICON Vem-Ind   gives all the Ind tenses
 
- * LEXICON Vem-Imp  for imperative
+ * LEXICON Vem-Imp  for imperative, Повелительное наклонение:
 
- * LEXICON Vem-Des  for desiderative
-
-!!Special verbs
-V_am, возаш : воч
-
-These need work 2012-09-21
-
-
+ * LEXICON Vem-Des  for desiderative, Желательное наклонение:
 
 
 
@@ -80,6 +60,15 @@ These need work 2012-09-21
 
 
 
+
+
+
+
+
+!!Special verbs
+V_am, возаш : воч
+
+These need work 2012-09-21
 
 
 
