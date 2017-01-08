@@ -51,27 +51,21 @@ Tests:
      ола+N+Sg+Lat: олаш
      ола+N+Sg+Abe: оладе
 
-     ола+N+AssocPl+Nom: олала
-     ола+N+AssocPl+Gen: олалан
-     ола+N+AssocPl+Dat: олалалан
-     ола+N+AssocPl+Acc: олалам
-     ола+N+AssocPl+Cmpr: олалала
-     ола+N+AssocPl+Com: олалаге
-     ола+N+AssocPl+Ine: олалаште
-     ола+N+AssocPl+Ill: [олалашке, олалаш]
-     ола+N+AssocPl+Lat: олалаш
-     ола+N+AssocPl+Abe: олаладе
+     ола+N+LocPl+Nom: олала
+     ола+N+LocPl+Ine: олалаште
+     ола+N+LocPl+Ill: [олалашке, олалаш]
+     ола+N+LocPl+Lat: олалаш
 
- # ihminen   ола+N+AssocPl+Nom: оламыт
- #    ола+N+AssocPl+Gen: оламытын
- #    ола+N+AssocPl+Dat: оламытлан
- #    ола+N+AssocPl+Acc: оламытым
- #    ола+N+AssocPl+Cmpr: оламытла
- #    ола+N+AssocPl+Com: оламытге
- #    ола+N+AssocPl+Ine: оламытыште
- #    ола+N+AssocPl+Ill: [оламытышке, оламытыш]
- #    ола+N+AssocPl+Lat: оламытеш
- #    ола+N+AssocPl+Abe: оламытде
+     ола+N+AssocPl+Nom: оламыт
+     ола+N+AssocPl+Gen: оламытын
+     ола+N+AssocPl+Dat: оламытлан
+     ола+N+AssocPl+Acc: оламытым
+     ола+N+AssocPl+Cmpr: оламытла
+     ола+N+AssocPl+Com: оламытге
+     ола+N+AssocPl+Ine: оламытыште
+     ола+N+AssocPl+Ill: [оламытышке, оламытыш]
+     ола+N+AssocPl+Lat: оламытеш
+     ола+N+AssocPl+Abe: оламытде
 
      ола+N+Pl+Nom: [ола-влак, ола-шамыч]
      ола+N+Pl+Gen: [ола-влакын, ола-шамычын]

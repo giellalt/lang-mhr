@@ -23,27 +23,21 @@ Tests:
      кол+N+Sg+Lat: колеш
      кол+N+Sg+Abe: колде
 
-     кол+N+AssocPl+Nom: колла
-     кол+N+AssocPl+Gen: коллан
-     кол+N+AssocPl+Dat: коллалан
-     кол+N+AssocPl+Acc: коллам
-     кол+N+AssocPl+Cmpr: коллала
-     кол+N+AssocPl+Com: коллаге
-     кол+N+AssocPl+Ine: коллаште
-     кол+N+AssocPl+Ill: [коллашке, коллаш]
-     кол+N+AssocPl+Lat: коллаш
-     кол+N+AssocPl+Abe: колладе
+     кол+N+LocPl+Nom: колла
+     кол+N+LocPl+Ine: коллаште
+     кол+N+LocPl+Ill: [коллашке, коллаш]
+     кол+N+LocPl+Lat: коллаш
 
- # ihminen   кол+N+AssocPl+Nom: колмыт
- #    кол+N+AssocPl+Gen: колмытын
- #    кол+N+AssocPl+Dat: колмытлан
- #    кол+N+AssocPl+Acc: колмытым
- #    кол+N+AssocPl+Cmpr: колмытла
- #    кол+N+AssocPl+Com: колмытге
- #    кол+N+AssocPl+Ine: колмытыште
- #    кол+N+AssocPl+Ill: [колмытышке, колмытыш]
- #    кол+N+AssocPl+Lat: колмытеш
- #    кол+N+AssocPl+Abe: колмытде
+     кол+N+AssocPl+Nom: колмыт
+     кол+N+AssocPl+Gen: колмытын
+     кол+N+AssocPl+Dat: колмытлан
+     кол+N+AssocPl+Acc: колмытым
+     кол+N+AssocPl+Cmpr: колмытла
+     кол+N+AssocPl+Com: колмытге
+     кол+N+AssocPl+Ine: колмытыште
+     кол+N+AssocPl+Ill: [колмытышке, колмытыш]
+     кол+N+AssocPl+Lat: колмытеш
+     кол+N+AssocPl+Abe: колмытде
 
      кол+N+Pl+Nom: [кол-влак, кол-шамыч]
      кол+N+Pl+Gen: [кол-влакын, кол-шамычын]
