@@ -13,6 +13,7 @@ Alphabet
 
 !! other symbols
 •:0
+ʼ:0
    %- !!= * @CODE@
 
 !! Archiphonemes for vowels, Giellatekno style
@@ -83,11 +84,11 @@ all =  Ltrs  %- ;    !!= * @CODE@
 
 Definitions
 
-BackRounded = [ :Vo (•:) [ Cns: |й:|ь:|%{ьØ%}:| :ы | %> | Ы1: ]*  ] ;
+BackRounded = [ :Vo (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: ]*  ] ;
 
-FrontRounded = [:VO  (•:) [ Cns: |й:|ь:|%{ьØ%}:| :ы | %> | Ы1: ]* ] ;
+FrontRounded = [:VO  (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: ]* ] ;
 
-FrontUnrounded = [ [:Ve (•:) |ы •:] [ Cns: |й:|ь:|%{ьØ%}:| :ы | %> | Ы1: ]*  ] ;
+FrontUnrounded = [ [:Ve (•:) |ы •:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: ]*  ] ;
 
 !! !!Rules
 Rules
@@ -114,7 +115,7 @@ Rules
 
 "Onset vowel Е2 realized in suffix е"
 !! __ @RULENAME@ __  
-  Е2:е <=> [Cns (ь:)|й:|%{еы%}:|%{оы%}:|%{ӧы%}:] %> _ ;
+  Е2:е <=> [Cns ((ʼ:) ь:)|й:|%{еы%}:|%{оы%}:|%{ӧы%}:] %> _ ;
 
 "Onset vowel Е2 realized in suffix э"
 !! __ @RULENAME@ __  
@@ -126,7 +127,7 @@ Rules
 
 "Onset vowel Ы1 realized in suffix"
 !! __ @RULENAME@ __  
-  Ы1:ы <=> [ Cns (ь:) | й ] %> _ ;
+  Ы1:ы <=> [ Cns ((ʼ:) ь:) | й ] %> _ ;
 
 
 "suffix-final vowel loss after stem-final vowel"
@@ -148,7 +149,7 @@ Rules
 "suffix-final vowel realized as -Round in word-final position е "
 !! __ @RULENAME@ __  
   Ы2:е <=>  FrontUnrounded %> (%{ьØ%}:) ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. |%^END:| %- ] ;
-! [:Ve|ы •:] [ Cns (ь:) | й | :ы | :0 |й]* %> (%{ьØ%}:) ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
+! [:Ve|ы •:] [ Cns ((ʼ:) ь:) | й | :ы | :0 |й]* %> (%{ьØ%}:) ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ .#. | %- ] ;
   FrontUnrounded [ ш %> т| й:] _ [ .#. | %- ] ;
 !           :Ve [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
 
@@ -213,7 +214,7 @@ Rules
 
 "stem-final vowel realized %{еы%}:е"
 !! __ @RULENAME@ __  
-  %{еы%}:е <=> Cns (ь:) _ [ .#. | %- ] ;
+  %{еы%}:е <=> Cns ((ʼ:) ь:) _ [ .#. | %- ] ;
 
 "suffix-final vowel realized %{ӧы%}:ы "
 !! __ @RULENAME@ __  
@@ -225,11 +226,11 @@ Rules
 
 "suffix-final vowel realized %{оы%}:ы "
 !! __ @RULENAME@ __  
-  %{оы%}:ы <=>  Cns (ь:) _ %> [ л | г | ш | ж | д | Ы1: ] ;
+  %{оы%}:ы <=>  Cns ((ʼ:) ь:) _ %> [ л | г | ш | ж | д | Ы1: ] ;
 
 "stem-final vowel realized %{оы%}:о"
 !! __ @RULENAME@ __  
-  %{оы%}:о <=> Cns (ь:) _ [ .#. | %- ] ;
+  %{оы%}:о <=> Cns ((ʼ:) ь:) _ [ .#. | %- ] ;
 
 "suffix-final vowel realized %{яы%}:ы "
 !! __ @RULENAME@ __  
@@ -237,7 +238,7 @@ Rules
         
 "stem-final vowel realized %{яы%}:я"
 !! __ @RULENAME@ __  
-  %{яы%}:я <=> [Cns ь:| Vow 0:] _ [ .#. | %- ] ;
+  %{яы%}:я <=> [Cns (ʼ:) ь:| Vow 0:] _ [ .#. | %- ] ;
 
 !!€ башнь%{яы%}
 !!€ башн0я
@@ -290,7 +291,7 @@ Rules
  
 "Clitics in At and Ak take onset glide = ja"
 !! __ @RULENAME@ __  
-  А2:я <=> Cns ь: (%{еы%}:0|%{оы%}:0|%{ӧы%}:0) %> _ [ т | к | м | ш | # ] ;
+  А2:я <=> Cns (ʼ:) ь: (%{еы%}:0|%{оы%}:0|%{ӧы%}:0) %> _ [ т | к | м | ш | # ] ;
 !! когыльо+N+Sg+Nom+Foc/Ат
 !!€ когыль%{оы%}%>А2т
 !!€ когыл00%>ят
