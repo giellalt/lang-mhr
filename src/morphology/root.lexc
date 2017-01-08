@@ -68,7 +68,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Sg		   !!≈ * __@CODE@__ = 
 +Pl		   !!≈ * __@CODE@__ = 
 +AssocPl   !!≈ * __@CODE@__ = 
-+LocPl	   !!≈ * __@CODE@__ =
++LocPl	   !!≈ * __@CODE@__ = location, better witho LocusPl to avoid Loc case?
 
 !! The nominals are inflected in the following Case and Number
 

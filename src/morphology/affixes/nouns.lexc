@@ -573,8 +573,8 @@ LEXICON N-SG-PxSg3-LAT !!= * @CODE@
  +Sg+PxSg3+Lat:%>Е2шыже K ; !CHECKME 2016-12-27
 
 LEXICON N-SG-PxSg3-ABE !!= * @CODE@
- +Sg+PxSg3+Abe:%>ыж%>де K ;
- +Sg+PxSg3+Abe:жде K ;
+! +Sg+PxSg3+Abe:%>ыж%>де K ; ! have a look at this
+! +Sg+PxSg3+Abe:жде K ;! have a look at this
  +Sg+PxSg3+Abe:жыде K ;
 
 !! !Pl Sg3
