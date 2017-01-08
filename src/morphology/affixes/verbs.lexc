@@ -7,18 +7,6 @@
 !! !!!Verbal continuation lexica
 ! =============================== !
 
-!! !!Unfinished lexica
-
-!! Here are some unfinished verb lexica. TODO: Fix.
-
-!LEXICON V !!= * @CODE@ contains 4 verbs:
-!+V+WORK: # ;
-
-!! * порволыже:порволыж V  "olkoon kirottu! V" ;
-!! * порволышаш:порволышаш V  "tulkoon kirotuksi V" ;
-!! * ситыш:ситыш V  "on riittävästi, riittää V" ;
-!! * улмаште:улмашт V  "(jnk) ollessa (läsnä); jos on V" ;
-
 !! !!Auxiliary verbs 
 
 !! Some of these are directed directly from root.lexc
@@ -79,10 +67,6 @@ LEXICON V-AUX_  !!= @CODE@ TODO: fix
 
 
 
-!LEXICON Vam-dependent !!= @CODE@ tags +Depend and goes to V_am
-! +Depend: V_am ;
-
-
 !! !!Regular verbs
 
 !! We divide the verbs in two, -am and -em
@@ -95,11 +79,7 @@ LEXICON V_am !!= @CODE@ divides V_am in Mood and infinites
          +V+Ger+Gen:%>ын  K           ;
                  +V:      non-finites ;
           +V+ConNeg:%^END K ;
-!  +V+Ind+Prs+ConNeg:      K           ;
-! +V+Ind+Prt1+ConNeg:      K           ;
-!    +V+Imprt+ConNeg:      K           ;
-!      +V+Des+ConNeg:      K           ;
-       +V+Imprt+Sg2:%^END      K-imprt     ;
+       +V+Imprt+Sg2:%^END K-imprt     ;
 
 LEXICON Vam-Mood !!= @CODE@ divides in Ind, Imprt, Des
    +Ind: Vam-Ind ;
@@ -127,17 +107,13 @@ LEXICON Vam-Ind !!= @CODE@ gives all the Ind tenses
     +Prt2+Pl1:%>ынна K ;
     +Prt2+Pl2:%>ында K ;
     +Prt2+Pl3:%>ыныт K ;
-! +Prt2+ConNeg:%>ын   K ;
-      +ConNeg:%>ын   K ;
 
-LEXICON Vam-Imp  !!= @CODE@ for imperative
-! Повелительное наклонение:
+LEXICON Vam-Imp  !!= @CODE@ for imperative, Повелительное наклонение:
  +Sg3:%>жЫ2 K       ;
  +Pl2:%>за  K-imprt ;
  +Pl3:%>ышт K       ;
 
-LEXICON Vam-Des  !!= @CODE@ for desiderative
-! Желательное наклонение:
+LEXICON Vam-Des  !!= @CODE@ for desiderative, Желательное наклонение:
  +Prs+Sg1:%>нем  K ;
  +Prs+Sg2:%>нет  K ;
  +Prs+Sg3:%>неже K ;
@@ -156,7 +132,6 @@ LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
                  +V:ы     non-finites ;
           +V+ConNeg:%>Ы2  K           ;
        +V+Imprt+Sg2:%>Ы2  K-imprt     ;
-
 
 LEXICON Vem-Mood !!= @CODE@ divides in Ind, Imprt, Des
     +Ind: Vem-Ind ;
@@ -185,81 +160,18 @@ LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
     +Prt2+Pl2:%>Е2нда K ;
     +Prt2+Pl3:%>Е2ныт K ;
 
-LEXICON Vem-Imp !!= * @CODE@ for imperative
-! Повелительное наклонение:
+LEXICON Vem-Imp !!= * @CODE@ for imperative, Повелительное наклонение:
  +Sg3:ы%>жЫ2 K       ; ! Note position of boundary break, between ы and жЫ2
  +Pl2:%>ыза  K-imprt ;
  +Pl3:%>ышт  K       ;
 
-LEXICON Vem-Des !!= * @CODE@ for desiderative
-! Желательное наклонение:
+LEXICON Vem-Des !!= * @CODE@ for desiderative, Желательное наклонение:
  +Prs+Sg1:%>ынем  K ;
  +Prs+Sg2:%>ынет  K ;
  +Prs+Sg3:%>ынеже K ;
  +Prs+Pl1:%>ынена K ;
  +Prs+Pl2:%>ынеда K ;
  +Prs+Pl3:%>ынешт K ;
-
-!! !!Special verbs
-!! V_am, возаш : воч
-!2017-01-04!LEXICON z-C !!= * @CODE@
-!2017-01-04!             +V+Inf:з%>А2ш K           ;
-!2017-01-04!           +Ger+Gen:з%>ын  K           ;
-!2017-01-04!                 +V:ч      non-finites ;
-!2017-01-04!                 +V:з      Vam-Mood    ;
-!2017-01-04!      +V+ConNeg:ч K ;
-!2017-01-04!! +V+Ind+Prs+ConNeg:ч      K           ;
-!2017-01-04!! +V+Ind+Prt1+ConNeg:ч      K           ;
-!2017-01-04!!    +V+Imprt+ConNeg:ч      K           ;
-!2017-01-04!       +V+Imprt+Sg2:ч      K-imprt     ;
-!2017-01-04!!      +V+Des+ConNeg:ч      K           ;
-!2017-01-04!
-!2017-01-04!!! V_am, лукташ : лук
-!2017-01-04!LEXICON t-0 !!= * @CODE@
-!2017-01-04!             +V+Inf:т%>А2ш K           ;
-!2017-01-04!           +Ger+Gen:т%>ын  K           ;
-!2017-01-04!                 +V:       non-finites ;
-!2017-01-04!                 +V:т      Vam-Mood    ;
-!2017-01-04!+V+ConNeg: K ;
-!2017-01-04!!+V+Ind+Prs+ConNeg:       K           ;
-!2017-01-04!! +V+Ind+Prt1+ConNeg:       K           ;
-!2017-01-04!!    +V+Imprt+ConNeg:       K           ;
-!2017-01-04!       +V+Imprt+Sg2:       K-imprt     ;
-!2017-01-04!!      +V+Des+ConNeg:       K           ;
-!2017-01-04!
-!2017-01-04!!! V_am, кушкаш : куш
-!2017-01-04!LEXICON k-0 !!= * @CODE@
-!2017-01-04!             +V+Inf:к%>А2ш  K           ;
-!2017-01-04!           +Ger+Gen:к%>ын   K           ;
-!2017-01-04!               +Ger:к%>шыла K           ;
-!2017-01-04!                 +V:        non-finites ;
-!2017-01-04!                 +V:к       Vam-Mood    ;
-!2017-01-04!+V+ConNeg: K ;
-!2017-01-04!!+V+Ind+Prs+ConNeg:        K           ;
-!2017-01-04!! +V+Ind+Prt1+ConNeg:        K           ;
-!2017-01-04!!    +V+Imprt+ConNeg:        K           ;
-!2017-01-04!       +V+Imprt+Sg2:        K-imprt     ;
-!2017-01-04!!      +V+Des+ConNeg:        K           ;
-!2017-01-04!
-!2017-01-04!!! V_am, шинчаш шич
-!2017-01-04!!! this is the proof or consonant stem cf. vowel stem in -ем verbs.
-!2017-01-04!!! In mrj this is dealt with in twolc
-!2017-01-04!LEXICON nC-C
-!2017-01-04!              +V+Inf:нч%>А2ш K           ;
-!2017-01-04!            +Ger+Gen:нч%>ын  K           ;
-!2017-01-04!                +Ger:ч%>шыла K           ;
-!2017-01-04!                  +V:ч       non-finites ;
-!2017-01-04!                  +V:нч      Vam-Mood    ;
-!2017-01-04!+V+ConNeg: K ;
-!2017-01-04!!+V+Ind+Prs+ConNeg:ч       K           ;
-!2017-01-04!!  +V+Ind+Prt1+ConNeg:ч       K           ;
-!2017-01-04!!     +V+Imprt+ConNeg:ч       K           ;
-!2017-01-04!        +V+Imprt+Sg2:ч       K-imprt     ;
-!2017-01-04!!       +V+Des+ConNeg:ч       K           ;
-
-!! These need work 2012-09-21
-
-
 
 
 
@@ -400,6 +312,69 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
 
 !LEXICON C !!= @CODE@ gives Comparative rak
 ! +Comp:&рак Lex0 "rak" ;
+
+
+
+
+!! !!Special verbs
+!! V_am, возаш : воч
+!2017-01-04!LEXICON z-C !!= * @CODE@
+!2017-01-04!             +V+Inf:з%>А2ш K           ;
+!2017-01-04!           +Ger+Gen:з%>ын  K           ;
+!2017-01-04!                 +V:ч      non-finites ;
+!2017-01-04!                 +V:з      Vam-Mood    ;
+!2017-01-04!      +V+ConNeg:ч K ;
+!2017-01-04!! +V+Ind+Prs+ConNeg:ч      K           ;
+!2017-01-04!! +V+Ind+Prt1+ConNeg:ч      K           ;
+!2017-01-04!!    +V+Imprt+ConNeg:ч      K           ;
+!2017-01-04!       +V+Imprt+Sg2:ч      K-imprt     ;
+!2017-01-04!!      +V+Des+ConNeg:ч      K           ;
+!2017-01-04!
+!2017-01-04!!! V_am, лукташ : лук
+!2017-01-04!LEXICON t-0 !!= * @CODE@
+!2017-01-04!             +V+Inf:т%>А2ш K           ;
+!2017-01-04!           +Ger+Gen:т%>ын  K           ;
+!2017-01-04!                 +V:       non-finites ;
+!2017-01-04!                 +V:т      Vam-Mood    ;
+!2017-01-04!+V+ConNeg: K ;
+!2017-01-04!!+V+Ind+Prs+ConNeg:       K           ;
+!2017-01-04!! +V+Ind+Prt1+ConNeg:       K           ;
+!2017-01-04!!    +V+Imprt+ConNeg:       K           ;
+!2017-01-04!       +V+Imprt+Sg2:       K-imprt     ;
+!2017-01-04!!      +V+Des+ConNeg:       K           ;
+!2017-01-04!
+!2017-01-04!!! V_am, кушкаш : куш
+!2017-01-04!LEXICON k-0 !!= * @CODE@
+!2017-01-04!             +V+Inf:к%>А2ш  K           ;
+!2017-01-04!           +Ger+Gen:к%>ын   K           ;
+!2017-01-04!               +Ger:к%>шыла K           ;
+!2017-01-04!                 +V:        non-finites ;
+!2017-01-04!                 +V:к       Vam-Mood    ;
+!2017-01-04!+V+ConNeg: K ;
+!2017-01-04!!+V+Ind+Prs+ConNeg:        K           ;
+!2017-01-04!! +V+Ind+Prt1+ConNeg:        K           ;
+!2017-01-04!!    +V+Imprt+ConNeg:        K           ;
+!2017-01-04!       +V+Imprt+Sg2:        K-imprt     ;
+!2017-01-04!!      +V+Des+ConNeg:        K           ;
+!2017-01-04!
+!2017-01-04!!! V_am, шинчаш шич
+!2017-01-04!!! this is the proof or consonant stem cf. vowel stem in -ем verbs.
+!2017-01-04!!! In mrj this is dealt with in twolc
+!2017-01-04!LEXICON nC-C
+!2017-01-04!              +V+Inf:нч%>А2ш K           ;
+!2017-01-04!            +Ger+Gen:нч%>ын  K           ;
+!2017-01-04!                +Ger:ч%>шыла K           ;
+!2017-01-04!                  +V:ч       non-finites ;
+!2017-01-04!                  +V:нч      Vam-Mood    ;
+!2017-01-04!+V+ConNeg: K ;
+!2017-01-04!!+V+Ind+Prs+ConNeg:ч       K           ;
+!2017-01-04!!  +V+Ind+Prt1+ConNeg:ч       K           ;
+!2017-01-04!!     +V+Imprt+ConNeg:ч       K           ;
+!2017-01-04!        +V+Imprt+Sg2:ч       K-imprt     ;
+!2017-01-04!!       +V+Des+ConNeg:ч       K           ;
+
+!! These need work 2012-09-21
+
 
 
 
