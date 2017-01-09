@@ -535,7 +535,7 @@ LEXICON N-SG-PxSg3-NOM !!= * @CODE@
  +Sg+PxSg3+Nom:%>ыж K ; !NB_PX_CX Only after ш see twolc
  +Sg+PxSg3+Nom:%>ыжЫ2 K ; !NB_PX_CX Only after ш see twolc
  +Sg+PxSg3+Nom:%>жЫ2 K ; !NB_PX_CX
- +Sg+PxSg3+Nom:%>ж # ; !NB_PX_CX
+ +Sg+PxSg3+Nom:%>ж K ; !NB_PX_CX
 
 LEXICON N-SG-PxSg3-GEN !!= * @CODE@
  +Sg+PxSg3+Gen:%>ыж%>ын K ; !NB_PX_CX
@@ -563,11 +563,11 @@ LEXICON N-SG-PxSg3-COM !!= * @CODE@
  +Sg+PxSg3+Com:%>ж%>ге K ; !NB_PX_CX 2016-10-12 THIS FAR
 
 LEXICON N-SG-PxSg3-INE !!= * @CODE@
- +Sg+PxSg3+Ine:%>Ы1штыже K ; !NB_CX_PX
+ +Sg+PxSg3+Ine:%>Ы1шты%>жЫ2 K ; !NB_CX_PX
 
 
 LEXICON N-SG-PxSg3-ILL !!= * @CODE@
- +Sg+PxSg3+Ill:%>Ы1шкыже K ; !NB_CX_PX
+ +Sg+PxSg3+Ill:%>Ы1шкы%>жЫ2 K ; !NB_CX_PX
 
 
 LEXICON N-SG-PxSg3-LAT !!= * @CODE@

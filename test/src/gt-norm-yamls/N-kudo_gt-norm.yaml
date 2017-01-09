@@ -39,10 +39,10 @@ Tests:
 
   Noun - кудо: # Noun 'hut'
 
-     кудо+N+Sg+Nom: кудо
-     кудо+N+Sg+PxSg1+Nom: кудем
-     кудо+N+Sg+Nom+Foc/Ат: кудат
-     кудо+N+Sg+Gen: кудын
-     кудо+N+Sg+Dat: кудылан
-     кудо+N+Pl+Nom: [кудо-влак, кудо-шамыч]
-     кудо+N+Sg+PxSg3+Nom: [кудыжо, кудыж]
+     кудо+Hom2+N+Sg+Nom: кудо
+     кудо+Hom2+N+Sg+PxSg1+Nom: кудем
+     кудо+Hom2+N+Sg+Nom+Foc/Ат: кудат
+     кудо+Hom2+N+Sg+Gen: кудын
+     кудо+Hom2+N+Sg+Dat: кудылан
+     кудо+Hom2+N+Pl+Nom: [кудо-влак, кудо-шамыч]
+     кудо+Hom2+N+Sg+PxSg3+Nom: [кудыжо, кудыж]
