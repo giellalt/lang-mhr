@@ -128,7 +128,7 @@ LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
                  +V:      Vem-Mood    ;
              +V+Inf:%>А2ш K           ;
 ! Деепричастие образа действия:
-         +V+Ger+Gen:%>ен  K           ;
+         +V+Ger+Gen:%>Е2н  K           ;
                  +V:ы     non-finites ;
           +V+ConNeg:%>Ы2%^END  K           ;
        +V+Imprt+Sg2:%>Ы2%^END  K-imprt     ;

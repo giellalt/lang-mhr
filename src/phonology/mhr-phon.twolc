@@ -84,11 +84,11 @@ all =  Ltrs  %- ;    !!= * @CODE@
 
 Definitions
 
-BackRounded = [ :Vo (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: ]*  ] ;
+BackRounded = [ :Vo (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:о| Ы2:ы]*  ] ;
 
-FrontRounded = [:VO  (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: ]* ] ;
+FrontRounded = [:VO  (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]* ] ;
 
-FrontUnrounded = [ [:Ve (•:) |ы •:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: ]*  ] ;
+FrontUnrounded = [ [:Ve (•:) |ы •:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы]*  ] ;
 
 !! !!Rules
 Rules
@@ -148,9 +148,9 @@ Rules
 "suffix-final vowel realized as -Round in word-final position е "
 !! __ @RULENAME@ __  
   Ы2:е <=>
-  FrontUnrounded %> (%{ьØ%}:) [ ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ] _ [ .#. |%^END:| %- ] ;
+  FrontUnrounded %> (%{ьØ%}:) [ ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | д| ш | м | д ы м ] _ [ .#. |%^END:| %- ] ;
   FrontUnrounded %> %{ьØ%}: _ [ .#. |%^END:| %- ] ;
- [:Ve (•:) |ы •:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: ]+ %> _ [ .#. |%^END:| %- ] ;
+ [:Ve (•:) |ы •:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы ]+ %> _ [ .#. |%^END:| %- ] ;
  Vow (•:) Cns:* [:Ve (•:) |ы •:] %> _ [ .#. |%^END:| %- ] ;
 
   FrontUnrounded [ ш %> т| й:] _ [ .#. | %- ] ;
@@ -160,9 +160,9 @@ Rules
 "suffix-final vowel realized as +Back +Round in word-final position о "
 !! __ @RULENAME@ __  
   Ы2:о <=>
- BackRounded  %> (%{ьØ%}:) [ ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ] _ [ .#. |%^END:| %- ] ;
+ BackRounded  %> (%{ьØ%}:) [ ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | д| ш | м | д ы м ] _ [ .#. |%^END:| %- ] ;
  BackRounded  %> %{ьØ%}:  _ [ .#. |%^END:| %- ] ;
- :Vo (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: ]+  %>  _ [ .#. |%^END:| %- ] ;
+ :Vo (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:о| Ы2:ы ]+  %>  _ [ .#. |%^END:| %- ] ;
  Vow (•:) Cns:* :Vo (•:) %>  _ [ .#. |%^END:| %- ] ;
 
   BackRounded [ш %> т| й:] _ [ .#. | %- ] ;
@@ -172,9 +172,9 @@ Rules
 "suffix-final vowel realized as +Front +Round in word-final position ӧ "
 !! __ @RULENAME@ __  
   Ы2:ӧ <=>
- FrontRounded %> (%{ьØ%}:) [ ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ] _ [ .#. |%^END:| %- ] ;
+ FrontRounded %> (%{ьØ%}:) [ ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | д| ш | м | д ы м ] _ [ .#. |%^END:| %- ] ;
  FrontRounded %> %{ьØ%}: _ [ .#. |%^END:| %- ] ;
- :VO  (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: ]+ %> _ [ .#. |%^END:| %- ] ;
+ :VO  (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]+ %> _ [ .#. |%^END:| %- ] ;
  Vow (•:) Cns:* :VO (•:) %> _ [ .#. |%^END:| %- ] ;
   FrontRounded  [ш %> т| й:] _ [ .#. | %- ] ;
 !           :VO [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
@@ -224,7 +224,10 @@ Rules
 
 "suffix-final vowel realized %{еы%}:ы "
 !! __ @RULENAME@ __  
-  %{еы%}:ы <=>  [Cns (ь)| Vow (•:) 0: ] _ %> [ л | г | ш | ж | д | Ы1: ] ;
+  %{еы%}:ы <=>  [Cns ((ʼ:) ь)| Vow (•:) 0: ] _ %> [ л | г | ш | ж | д | Ы1: ] ;
+!! имне+N+Sg+PxSg3+Nom horse/hevonen
+!!€ имнʼь%{еы%}%>жЫ2
+!!€ имн0ьы%>же
 
 "stem-final vowel realized %{еы%}:е"
 !! __ @RULENAME@ __  
@@ -232,11 +235,11 @@ Rules
 
 "suffix-final vowel realized %{ӧы%}:ы "
 !! __ @RULENAME@ __  
-  %{ӧы%}:ы <=>  [Cns (ь)| Vow (•:) 0: ] _ %> [ л | г | ш | ж | д | Ы1: ] ;
+  %{ӧы%}:ы <=>  [Cns ((ʼ:) ь)| Vow (•:) 0: ] _ %> [ л | г | ш | ж | д | Ы1: ] ;
 
 "stem-final vowel realized %{ӧы%}:ӧ"
 !! __ @RULENAME@ __  
-  %{ӧы%}:ӧ <=> Cns (ь) _ [ .#. | %- ] ;
+  %{ӧы%}:ӧ <=> Cns ((ʼ:) ь) _ [ .#. | %- ] ;
 
 "suffix-final vowel realized %{оы%}:ы "
 !! __ @RULENAME@ __  
@@ -248,7 +251,7 @@ Rules
 
 "suffix-final vowel realized %{яы%}:ы "
 !! __ @RULENAME@ __  
-  %{яы%}:ы <=>  [Cns ь| Vow (•:) й] _ %>: [ л | г | ш | д | Ы1: ] ;
+  %{яы%}:ы <=>  [Cns (ʼ:) ь| Vow (•:) й] _ %>: [ л | г | ш | д | Ы1: ] ;
         
 "stem-final vowel realized %{яы%}:я"
 !! __ @RULENAME@ __  
@@ -269,7 +272,7 @@ Rules
 
 "Clitics in At and Ak take onset glide = a"
 !! __ @RULENAME@ __  
-  А2:а <=> [ Cns ( Ы2:0 |%{еы%}:0|%{оы%}:0|%{ӧы%}:0)|ю| Е2:е|Е2:э|[е|э|о|ӧ|ӱ|и|у] (•:) ] %> _ [ т | к | м | ш | .#. ] ;
+  А2:а <=> [ Cns ( Ы2:0 |%{еы%}:|%{оы%}:|%{ӧы%}:)| Е2:е|Е2:э|[е|э|о|ӧ|ӱ|и|ю|у] (•:) ] %> _ [ т | к | м | ш | .#. ] ;
  
 "Clitics in At and Ak take onset glide = ja"
 !! __ @RULENAME@ __  
