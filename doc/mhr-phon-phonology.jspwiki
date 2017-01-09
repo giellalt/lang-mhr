@@ -86,7 +86,7 @@ __ Palatal mark loss before vowel __
 * __башн0я __
 
 
-__ Onset vowel loss in suffix __  
+__ Onset vowel loss in suffix after stem vowel __  
 
 __ Onset vowel Е2 realized in suffix е __  
 
@@ -99,14 +99,18 @@ __ Onset vowel Ы1 realized in suffix __
 
 __ suffix-final vowel loss after stem-final vowel __  
 
-* __пу>Ы2 __
-* __пу>0 __
+* __пу>Ы2%^END __
+* __пу>00 __
 
 __ suffix-final vowel realized after stem-final consonant __  
 
 __ suffix-final vowel realized as -Round in word-final position е  __  
 
+
+
 __ suffix-final vowel realized as +Back +Round in word-final position о  __  
+
+
 
 __ suffix-final vowel realized as +Front +Round in word-final position ӧ  __  
 
@@ -208,6 +212,10 @@ __ Stem-final consonant loss н __
 * __воч>са __
 
 __ Disallow PxSg3 in ж no where except after :Vow  __
+* __ава%>ж%>де __
+* __ава%>ж%>де __
+* __*кол%>ж%>де __ (is not standard language)
+* __*кол%>ж%>де __ (is not standard language)
 
 __ Disallow Sg+Ill in тЫ2 everywhere except after stem-final ш  __
 йӧратымаш+N+Sg+Ine
@@ -220,7 +228,10 @@ __ Disallow PxSg3 in ыж no where except after ш  __
 * __йолташ%>ыж# __
 * __*олма%>ыж# __ (is not standard language)
 * __*олма%>ыж# __ (is not standard language)
-
+* __кол%>жы%>де __
+* __кол%>жы%>де __
+* __*ава%>жы%>де __ (is not standard language)
+* __*ава%>жы%>де __ (is not standard language)
 
 
 * __а __
