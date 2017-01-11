@@ -467,8 +467,8 @@ LEXICON verbs
 возалташ+Hom1:возалт V_am  "" ;
 возалташ+Hom2:возалт V_am  "" ;
 возалташ:возалт V_em  "" ;
-возаш:воз V_am  "käydä pitkäkseen; laskeutua" ;
-возаш:воз V_em  "kirjoittaa" ;
+возаш+Hom1:воз V_am  "käydä pitkäkseen; laskeutua" ;
+возаш+Hom2:воз V_em  "kirjoittaa" ;
 возгалаш:возгал V_em  "kirjoitella" ;
 возедаш:возед V_em  "" ;
 возедылаш:возедыл V_am  "" ;
@@ -5464,8 +5464,8 @@ LEXICON verbs
 токмакемаш:токмакем V_am  "" ;
 толалташ+Hom1:толалт V_am  "" ;
 толалташ+Hom2:толалт V_am  "" ;
-толаш:тол V_am  "tulla" ;
-толаш:тол V_em  "varastaa, ryöstää; loukuttaa hamppua" ;
+толаш+Hom1:тол V_am  "tulla" ;
+толаш+Hom2:тол V_em  "varastaa, ryöstää; loukuttaa hamppua" ;
 толашаш:толаш V_em  "yrittää; telmiä, metelöidä" ;
 толаштараш:толаштар V_em  "huolestuttaa; kiusata; raiskata" ;
 толаштарылаш:толаштарыл V_am  "" ;
@@ -6992,9 +6992,9 @@ LEXICON verbs
 шуаралташ:шуаралт V_am  "" ;
 шуараш:шуар V_em  "karkaista, karaista" ;
 шуаш+Hom1:шу V_am  "saapua; saavuttaa; kohdata; tulla" ;
-шуаш+Hom2:шу V_am  "" ;
-шуаш+Hom3:шу V_am  "veistää; leikata, paloitella" ;
-шуаш:шу V_em  "" ;
+шуаш+Hom1:шу V_am  "" ;
+шуаш+Hom1:шу V_am  "veistää; leikata, paloitella" ;
+шуаш+Hom2:шу V_em  "" ;
 шуаҥаш:шуаҥ V_am  "" ;
 шуваш:шув V_em  "" ;
 шувыматаш:шувымат V_em  "" ;
@@ -7427,8 +7427,8 @@ LEXICON verbs
 шӱштыраҥдаш:шӱштыраҥд V_em  "" ;
 шӱштыргаш:шӱштырг V_em  "hapertua, murentua, kuohkeutua" ;
 шӱштырташ:шӱштырт V_em  "hapertaa, murentaa, kuohkeuttaa" ;
-шӱяш:шӱй V_am  "mädäntyä" ;
-шӱяш:шӱй V_em  "" ;
+шӱяш+Hom1:шӱй V_am  "mädäntyä" ;
+шӱяш+Hom2:шӱй V_em  "" ;
 шӱяшлалташ:шӱяшлалт V_am  "" ;
 шӱяшлаш:шӱяшл V_em  "sitoa parittain" ;
 шӱяшлылаш:шӱяшлыл V_am  "" ;
