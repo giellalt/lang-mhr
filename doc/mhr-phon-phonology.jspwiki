@@ -60,8 +60,8 @@ Archiphonemes for vowels, Apertium style
  * Ve =   а е и э я А Е И Э Я ;   
  * Vow =  Vo VO Ve ы Ы ;    
 
- * Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш    
-        Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     
+ * Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш    
+        Б В Г Д Ж З Й К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     
  * Cst =  б в г д ж з к п с т ф х ц ч ш       
         Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш ;     
 
@@ -138,6 +138,9 @@ __ Stem-final non-stressed vowel loss __
 
 
 __ suffix-final vowel realized %{еы%}:ы  __  
+имне+N+Sg+PxSg3+Nom horse/hevonen
+* __имнʼь%{еы%}%>жЫ2 __
+* __имн0ьы%>же __
 
 __ stem-final vowel realized %{еы%}:е __  
 
@@ -194,6 +197,8 @@ __ й Deletion in front of я Suffix and others __
 
 
 __ Onset consonant devoicing ж:ш  __
+* __авалтымаш%>жы%>ла __
+* __авалтымаш%>шы%>ла __
 
 __ Onset consonant devoicing з:с  __
 
