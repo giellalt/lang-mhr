@@ -20766,23 +20766,10 @@
      <tg xml:lang="eng">
        <t>to blabber, to jabber, to gabble, to chatter</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">йылмешташ</l>
-     <stg>
-       <st Contlex="V_em">йылмешт</st>
-     </stg> <stress>йылмешта•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">lörpöttää</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -23996,27 +23983,13 @@
      <tg xml:lang="eng">
        <t>to rain</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
+     <tg xml:lang="fin">
+       <t pos="V">sataa</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
-
- <e order="1">
-   <lg>
-     <l pos="V">йӱраш</l>
-     <stg>
-       <st Contlex="V_em">йӱр</st>
-     </stg> <stress>йӱра•ш</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="V">sataa</t>
-     </tg>
-   </mg>
-</e>
-
  <e order="2">
    <lg>
      <l pos="V">йӱрешташ</l>
@@ -54475,23 +54448,10 @@
      <tg xml:lang="eng">
        <t>to roll (something in mouth)</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">мугылтылаш</l>
-     <stg>
-       <st Contlex="V_em">мугылтыл</st>
-     </stg> <stress>мугылтыла•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">pyöritellä (suussaan)</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -70964,23 +70924,10 @@
      <tg xml:lang="eng">
        <t>to grow decrepit, to become decrepit, to decay, to become ramshackled</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">плокаҥаш</l>
-     <stg>
-       <st Contlex="V_em">плокаҥ</st>
-     </stg> <stress>плокаҥа•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">rumentua</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -71583,23 +71530,10 @@
      <tg xml:lang="eng">
        <t>to become rich, to get rich, to be enriched, to be added to, to grow; to equip oneself, to be equipped with, to fit oneself out, to supply oneself</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">пойдаралташ</l>
-     <stg>
-       <st Contlex="V_em">пойдаралт</st>
-     </stg> <stress>пойдаралта•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">rikastua; varustautua</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -73545,23 +73479,10 @@
      <tg xml:lang="eng">
        <t>to mutter, to mumble; {figuratively}to chatter, to talk trash, to speak mockingly, to humiliate</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">поҥгартылаш</l>
-     <stg>
-       <st Contlex="V_em">поҥгартыл</st>
-     </stg> <stress>поҥгартыла•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">mutista</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -78076,25 +77997,13 @@
    </lg>
    <mg> <defNative/>
      <tg xml:lang="eng">
-       <t>{transitive}to fry; {transitive}to steam</t>
+       <t pos="V" val="TV">fry</t>
+       <t pos="V" val="TV">steam</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
+     <tg xml:lang="fin">
+       <t pos="V" val="TV">paistaa</t>
      </tg>
      <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">пуштылаш</l>
-     <stg>
-       <st Contlex="V_em">пуштыл</st>
-     </stg> <stress>пуштыла•ш</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="V">paistaa</t>
      </tg>
    </mg>
 </e>
@@ -84733,23 +84642,10 @@
      <tg xml:lang="eng">
        <t>to beat, to lash; {figuratively}to tuck in, to eat greedily, to devour; {figuratively}to rebuff, to defend oneself</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">роведаш</l>
-     <stg>
-       <st Contlex="V_em">ровед</st>
-     </stg> <stress>роведа•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">ruoskia</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -89169,23 +89065,10 @@
      <tg xml:lang="eng">
        <t>{intransitive}to surrender</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">сдаватлалташ</l>
-     <stg>
-       <st Contlex="V_em">сдаватлалт</st>
-     </stg> <stress>сдаватлалта•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">antautua; tuntua</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -91961,23 +91844,10 @@
      <tg xml:lang="eng">
        <t>to become deaf, to go deaf</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">соҥгыремаш</l>
-     <stg>
-       <st Contlex="V_em">соҥгырем</st>
-     </stg> <stress>соҥгырема•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">kuuroutua</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -105403,23 +105273,10 @@
      <tg xml:lang="eng">
        <t>to correct, to amend; to repair, to fix, to mend; to deal with, to take care of</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">тӧрлылаш</l>
-     <stg>
-       <st Contlex="V_em">тӧрлыл</st>
-     </stg> <stress>тӧрлыла•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">tasoitella, suoristella</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -108731,23 +108588,10 @@
      <tg xml:lang="eng">
        <t>to pray</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">удылаш</l>
-     <stg>
-       <st Contlex="V_em">удыл</st>
-     </stg> <stress>удыла•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">rukoilla</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -115597,22 +115441,9 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="V">maalauttaa, värjäyttää; tahrauttaa; kaunisteluttaa</t>
+       <t pos="V">maalailla, värjäillä; kaunistella; petellä</t>
      </tg>
      <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">чиялтылаш</l>
-     <stg>
-       <st Contlex="V_em">чиялтыл</st>
-     </stg> <stress>чиялтыла•ш</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="V">maalailla, värjäillä; kaunistella; petellä</t>
      </tg>
    </mg>
 </e>
@@ -127952,23 +127783,10 @@
      <tg xml:lang="eng">
        <t>to be stretched, to become stretched, to stretch; {intransitive}to stretch out, to extend (in a certain direction); {figuratively}to move one after another, to move slowly; to drift, to spread slowly (smoke, fog, smells); to stretch oneself, to stretch</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">шуйнылаш</l>
-     <stg>
-       <st Contlex="V_em">шуйныл</st>
-     </stg> <stress>шуйныла•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">venyillä, (us.) ojen(tau)tua, ulottua; venytellä</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -139024,23 +138842,10 @@
      <tg xml:lang="eng">
        <t>to flatter, to adulate, to fawn on, to ingratiate oneself with</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">юмедаш</l>
-     <stg>
-       <st Contlex="V_em">юмед</st>
-     </stg> <stress>юмеда•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">imarrella</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -142458,23 +142263,10 @@
      <tg xml:lang="eng">
        <t>to be covered with shadows, to be covered by shadow, to be enveloped in shade; {figuratively}to grow dark, to grow gloomy, to be darkened, to darken</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-
- <e order="1">
-   <lg>
-     <l pos="V">ӱмылаҥаш</l>
-     <stg>
-       <st Contlex="V_em">ӱмылаҥ</st>
-     </stg> <stress>ӱмылаҥа•ш</stress>
-   </lg>
-   <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="V">varjostua</t>
+     </tg>
+     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
