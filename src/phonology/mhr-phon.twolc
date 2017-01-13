@@ -53,6 +53,7 @@ Alphabet
 !JMR 2012-09-18
 
 ! Boundary symbols
+%^V2IMPRT:0	!!= * @CODE@ for -ем verbs in й
 %^END:0		  !!= * @CODE@ for -ам verb final, i.e. Imprf
 ! old !  +  /  {  _  $  }  @  ~  &  # (old = Jorma 1985)
 
@@ -73,6 +74,8 @@ Vow =  Vo VO Ve ы Ы ;   !!= * @CODE@
 
 Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш   !!= * @CODE@ 
        Б В Г Д Ж З Й К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;    !!= @CODE@ 
+CnsNoj =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш   !!= * @CODE@ 
+          Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;    !!= @CODE@ 
 Cst =  б в г д ж з к п с т ф х ц ч ш      !!= * @CODE@ 
        Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш ;    !!= @CODE@ 
 
@@ -135,9 +138,14 @@ Rules
            Cns %> Ы1: ш [ т | к ]  _ %> [ е ш |Е1: ш | А2: ] ;
                                    _ %> [Е2:|А2:] ;
                   .#. (Cns) [у|ӱ|ӧ|о|е|э] (•:) %> _ %^END:  ; ! пуаш : пу
-
+!! пуаш+V+Imprt+Sg2
 !!€ пу>Ы2%^END
 !!€ пу>00
+
+!! кияш+V+Imprt+Sg2
+!!€ кий%>Ы2%^END
+!!€ ки0%>е0
+
 
 "suffix-final vowel realized after stem-final consonant"
 !! __ @RULENAME@ __  
@@ -154,7 +162,7 @@ Rules
  Vow (•:) Cns:* [:Ve (•:) |ы •:] %> _ [ .#. |%^END:| %- ] ;
 
   FrontUnrounded [ ш %> т| й:] _ [ .#. | %- ] ;
-!           :Ve [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
+
 
 
 "suffix-final vowel realized as +Back +Round in word-final position о "
@@ -166,7 +174,7 @@ Rules
  Vow (•:) Cns:* :Vo (•:) %>  _ [ .#. |%^END:| %- ] ;
 
   BackRounded [ш %> т| й:] _ [ .#. | %- ] ;
-!           :Vo [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
+
 
 
 "suffix-final vowel realized as +Front +Round in word-final position ӧ "
@@ -177,7 +185,7 @@ Rules
  :VO  (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]+ %> _ [ .#. |%^END:| %- ] ;
  Vow (•:) Cns:* :VO (•:) %> _ [ .#. |%^END:| %- ] ;
   FrontRounded  [ш %> т| й:] _ [ .#. | %- ] ;
-!           :VO [ Cns | :ы | :0 ]* %> [ ж: ] _ %> Ы1: ш [ .#. | %- | %> ] ;
+
 
 
 "%{ьØ%}:ь"
@@ -272,11 +280,11 @@ Rules
 
 "Clitics in At and Ak take onset glide = a"
 !! __ @RULENAME@ __  
-  А2:а <=> [ Cns ( Ы2:0 |%{еы%}:|%{оы%}:|%{ӧы%}:)| Е2:е|Е2:э|[е|э|о|ӧ|ӱ|и|ю|у] (•:) ] %> _ [ т | к | м | ш | .#. ] ;
+  А2:а <=> [ CnsNoj ( Ы2:0 |%{еы%}:|%{оы%}:|%{ӧы%}:)| Е2:е|Е2:э|[е|э|о|ӧ|ӱ|и|ю|у] (•:) ] %> _ [ т | к | м | ш | .#. ] ;
  
 "Clitics in At and Ak take onset glide = ja"
 !! __ @RULENAME@ __  
-  А2:я <=> [Cns (ʼ:) ь:|й:0 ] (%{еы%}:0|%{оы%}:0|%{ӧы%}:0) %> _ [ т | к | м | ш | # ] ;
+  А2:я <=> [CnsNoj (ʼ:) ь:|й:0 ] (%{еы%}:0|%{оы%}:0|%{ӧы%}:0) %> _ [ т | к | м | ш | # ] ;
 !! когыльо+N+Sg+Nom+Foc/Ат
 !!€ когыль%{оы%}%>А2т
 !!€ когыл00%>ят
@@ -377,6 +385,12 @@ Rules
 !!€ кол%>жы%>де
 !!$ ава%>жы%>де
 !!$ ава%>жы%>де
+
+
+"Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs "
+!! __ @RULENAME@ __
+%^V2IMPRT:0 /<= _ ;
+ except .#. (Cns) [у|ӱ|ӧ|о|е|э|ю|и|ы] (•:) й %> _ ;
 
 
 ! just to see whether other tests pass:
