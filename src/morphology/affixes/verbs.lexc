@@ -132,6 +132,8 @@ LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
                  +V:ы     non-finites ;
           +V+ConNeg:%>Ы2%^END  K           ;
        +V+Imprt+Sg2:%>Ы2%^END  K-imprt     ;
+          +V+ConNeg:%>%^V2IMPRT  K           ; ! Only single-syllables in й
+       +V+Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
 
 LEXICON Vem-Mood !!= @CODE@ divides in Ind, Imprt, Des
     +Ind: Vem-Ind ;
