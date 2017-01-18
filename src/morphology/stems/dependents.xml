@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">акрет</l>
          <stg>
@@ -11,10 +11,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -27,7 +24,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">андри</l>
          <stg>
@@ -36,10 +33,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -48,7 +42,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">аш</l>
          <stg>
@@ -57,10 +51,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -69,7 +60,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">вещевой</l>
          <stg>
@@ -78,10 +69,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -90,7 +78,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">винительный</l>
          <stg>
@@ -99,10 +87,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -111,7 +96,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">водительский</l>
          <stg>
@@ -120,10 +105,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -132,7 +114,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">вувер</l>
          <stg>
@@ -141,10 +123,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -153,7 +132,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">вуйым-почым</l>
          <stg>
@@ -162,10 +141,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -174,7 +150,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">грецкий</l>
          <stg>
@@ -183,10 +159,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -195,7 +168,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">дательный</l>
          <stg>
@@ -204,10 +177,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -216,7 +186,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">домовой</l>
          <stg>
@@ -225,10 +195,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -237,7 +204,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">доплатной</l>
          <stg>
@@ -246,10 +213,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -258,7 +222,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">желательный</l>
          <stg>
@@ -267,10 +231,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -279,7 +240,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">зеркальный</l>
          <stg>
@@ -288,10 +249,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -300,7 +258,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">изъявительный</l>
          <stg>
@@ -309,10 +267,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -321,7 +276,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">именительный</l>
          <stg>
@@ -330,10 +285,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -342,7 +294,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">йолт</l>
          <stg>
@@ -351,10 +303,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -363,7 +312,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">йолчием</l>
          <stg>
@@ -372,10 +321,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -384,7 +330,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">йоҥ-йоҥ</l>
          <stg>
@@ -393,10 +339,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -405,7 +348,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">йора</l>
          <stg>
@@ -414,10 +357,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -426,7 +366,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">йошток</l>
          <stg>
@@ -435,10 +375,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -447,7 +384,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">йывыштык</l>
          <stg>
@@ -456,10 +393,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -468,7 +402,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">йыра</l>
          <stg>
@@ -477,10 +411,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -489,7 +420,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">кадем</l>
          <stg>
@@ -498,10 +429,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -510,7 +438,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">каштанат-лай</l>
          <stg>
@@ -519,10 +447,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -531,7 +456,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">коҥ</l>
          <stg>
@@ -540,10 +465,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -552,7 +474,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">коҥгок</l>
          <stg>
@@ -561,10 +483,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -573,7 +492,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">копыж-ж</l>
          <stg>
@@ -582,10 +501,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -594,7 +510,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">косвенный</l>
          <stg>
@@ -603,10 +519,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -615,7 +528,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">кулай</l>
          <stg>
@@ -624,10 +537,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -636,7 +546,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">кумалтыш</l>
          <stg>
@@ -645,10 +555,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -657,7 +564,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">кумыжвуян</l>
          <stg>
@@ -666,10 +573,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -678,7 +582,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">кыдач-покшеч</l>
          <stg>
@@ -687,10 +591,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -699,7 +600,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">кыр-гор</l>
          <stg>
@@ -708,10 +609,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -720,7 +618,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">кырпак</l>
          <stg>
@@ -729,10 +627,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -741,7 +636,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">лицевой</l>
          <stg>
@@ -750,10 +645,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -762,7 +654,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">логарӱмбал</l>
          <stg>
@@ -771,10 +663,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -783,7 +672,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">лодыш</l>
          <stg>
@@ -792,10 +681,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -804,7 +690,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">лоштак</l>
          <stg>
@@ -813,10 +699,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -825,7 +708,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">луэш</l>
          <stg>
@@ -834,10 +717,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -846,7 +726,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">лӱмаш</l>
          <stg>
@@ -855,10 +735,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -867,7 +744,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">махым</l>
          <stg>
@@ -876,10 +753,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -888,7 +762,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">машинно-тракторный</l>
          <stg>
@@ -897,10 +771,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -909,7 +780,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">местный</l>
          <stg>
@@ -918,10 +789,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -930,7 +798,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">направительный</l>
          <stg>
@@ -939,10 +807,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -951,7 +816,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">нашатырный</l>
          <stg>
@@ -960,10 +825,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -972,7 +834,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">нелеш</l>
          <stg>
@@ -981,10 +843,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -993,7 +852,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">ноля</l>
          <stg>
@@ -1002,10 +861,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1014,7 +870,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">обстоятельственный</l>
          <stg>
@@ -1023,10 +879,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1035,7 +888,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">олмештыш</l>
          <stg>
@@ -1044,10 +897,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1056,7 +906,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">оръеҥ</l>
          <stg>
@@ -1065,10 +915,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1077,7 +924,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">отчетно-сайлымаш</l>
          <stg>
@@ -1086,10 +933,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1098,7 +942,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">ошын</l>
          <stg>
@@ -1107,10 +951,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1119,7 +960,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">перспективный</l>
          <stg>
@@ -1128,10 +969,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1140,7 +978,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">пжик</l>
          <stg>
@@ -1149,10 +987,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1161,7 +996,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">пиж</l>
          <stg>
@@ -1170,10 +1005,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1182,7 +1014,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">повелительный</l>
          <stg>
@@ -1191,10 +1023,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1203,7 +1032,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">повествовательный</l>
          <stg>
@@ -1212,10 +1041,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1224,7 +1050,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">подвесной</l>
          <stg>
@@ -1233,10 +1059,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1245,7 +1068,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">пожа</l>
          <stg>
@@ -1254,10 +1077,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1266,7 +1086,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">понудительный</l>
          <stg>
@@ -1275,10 +1095,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1287,7 +1104,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">почеш</l>
          <stg>
@@ -1296,10 +1113,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1308,7 +1122,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">пӧтынь</l>
          <stg>
@@ -1317,10 +1131,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1329,7 +1140,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">превосходный</l>
          <stg>
@@ -1338,10 +1149,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1350,7 +1158,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">препинаний</l>
          <stg>
@@ -1359,10 +1167,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1371,7 +1176,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">придаточный</l>
          <stg>
@@ -1380,10 +1185,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1392,7 +1194,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">пунчеж</l>
          <stg>
@@ -1401,10 +1203,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1413,7 +1212,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">пӱчмыла</l>
          <stg>
@@ -1422,10 +1221,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1434,7 +1230,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">пыч</l>
          <stg>
@@ -1443,10 +1239,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1455,7 +1248,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">пычык</l>
          <stg>
@@ -1464,10 +1257,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1476,7 +1266,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">рад</l>
          <stg>
@@ -1485,10 +1275,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1497,7 +1284,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">родительный</l>
          <stg>
@@ -1506,10 +1293,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1518,7 +1302,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">роп</l>
          <stg>
@@ -1527,10 +1311,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1539,7 +1320,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">ручной</l>
          <stg>
@@ -1548,10 +1329,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1560,7 +1338,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">рӱп</l>
          <stg>
@@ -1569,10 +1347,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1581,7 +1356,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">сип</l>
          <stg>
@@ -1590,10 +1365,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1602,7 +1374,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">скорый</l>
          <stg>
@@ -1611,10 +1383,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1623,7 +1392,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">сообщений</l>
          <stg>
@@ -1632,10 +1401,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1644,7 +1410,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">сослагательный</l>
          <stg>
@@ -1653,10 +1419,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1665,7 +1428,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">страдательный</l>
          <stg>
@@ -1674,10 +1437,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1686,7 +1446,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">так</l>
          <stg>
@@ -1695,10 +1455,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1707,7 +1464,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">такеш</l>
          <stg>
@@ -1716,10 +1473,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1728,7 +1482,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">тап</l>
          <stg>
@@ -1737,10 +1491,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1749,7 +1500,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">ташлама</l>
          <stg>
@@ -1758,10 +1509,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1770,7 +1518,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">тойки-мойки</l>
          <stg>
@@ -1779,10 +1527,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1791,7 +1536,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">торланен</l>
          <stg>
@@ -1800,10 +1545,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1812,7 +1554,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">тортен</l>
          <stg>
@@ -1821,10 +1563,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1833,7 +1572,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">тӧтырет</l>
          <stg>
@@ -1842,10 +1581,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1854,7 +1590,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">тулеч</l>
          <stg>
@@ -1863,10 +1599,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1875,7 +1608,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">тӱп</l>
          <stg>
@@ -1884,10 +1617,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1896,7 +1626,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">тӱран</l>
          <stg>
@@ -1905,10 +1635,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1917,7 +1644,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">тыҥгас</l>
          <stg>
@@ -1926,10 +1653,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1938,7 +1662,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">уголок</l>
          <stg>
@@ -1947,10 +1671,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1959,7 +1680,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">удобрений</l>
          <stg>
@@ -1968,10 +1689,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1980,7 +1698,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">условный</l>
          <stg>
@@ -1989,10 +1707,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2001,7 +1716,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">уша</l>
          <stg>
@@ -2010,10 +1725,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2022,7 +1734,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">ӱдырлыклан</l>
          <stg>
@@ -2031,10 +1743,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2043,7 +1752,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">ӱдырлыкеш</l>
          <stg>
@@ -2052,10 +1761,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2064,7 +1770,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">чаня</l>
          <stg>
@@ -2073,10 +1779,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2085,7 +1788,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">чатлама</l>
          <stg>
@@ -2094,10 +1797,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2106,7 +1806,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">честь</l>
          <stg>
@@ -2115,10 +1815,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2127,7 +1824,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">чроҥ</l>
          <stg>
@@ -2136,10 +1833,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2148,7 +1842,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">чурк</l>
          <stg>
@@ -2157,10 +1851,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2169,7 +1860,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">чӱч</l>
          <stg>
@@ -2178,10 +1869,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2190,7 +1878,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">чылдыр-чолдыр</l>
          <stg>
@@ -2199,10 +1887,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2211,7 +1896,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">чыли</l>
          <stg>
@@ -2220,10 +1905,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2232,7 +1914,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">шагыл</l>
          <stg>
@@ -2241,10 +1923,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2253,7 +1932,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">шемын</l>
          <stg>
@@ -2262,10 +1941,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2274,7 +1950,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">шожым</l>
          <stg>
@@ -2283,10 +1959,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2295,7 +1968,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">шот</l>
          <stg>
@@ -2304,10 +1977,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2316,7 +1986,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">шоч</l>
          <stg>
@@ -2325,10 +1995,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2337,7 +2004,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">шу-у</l>
          <stg>
@@ -2346,10 +2013,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2358,7 +2022,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">шӱшкыш</l>
          <stg>
@@ -2367,10 +2031,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2379,7 +2040,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">шӱшпык</l>
          <stg>
@@ -2388,10 +2049,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2400,7 +2058,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">ыресан</l>
          <stg>
@@ -2409,10 +2067,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2421,7 +2076,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">юпке</l>
          <stg>
@@ -2430,19 +2085,16 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
-            <t/>
+            <t pos="Adv">prone</t>
          </tg>
          <tg xml:lang="fin">
             <t>U. kiAS maata oikoisena X</t>
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">ямым</l>
          <stg>
@@ -2451,10 +2103,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2463,7 +2112,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">ямынза</l>
          <stg>
@@ -2472,10 +2121,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2484,7 +2130,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">кӱсе</l>
          <stg>
@@ -2493,10 +2139,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2505,7 +2148,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">леҥге</l>
          <stg>
@@ -2514,10 +2157,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2526,7 +2166,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">намызе</l>
          <stg>
@@ -2535,10 +2175,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2547,7 +2184,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">ньыге-нюге</l>
          <stg>
@@ -2556,10 +2193,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2568,7 +2202,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">рӱшке</l>
          <stg>
@@ -2577,10 +2211,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2589,7 +2220,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">туаде</l>
          <stg>
@@ -2598,10 +2229,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2610,7 +2238,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">улме</l>
          <stg>
@@ -2619,10 +2247,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2631,7 +2256,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">умыландарыше</l>
          <stg>
@@ -2640,10 +2265,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2652,7 +2274,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">шутыдыме</l>
          <stg>
@@ -2661,10 +2283,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2673,7 +2292,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">шутыме</l>
          <stg>
@@ -2682,10 +2301,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -2694,7 +2310,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+   <e>
       <lg>
          <l pos="Dep">юнге</l>
          <stg>
@@ -2703,10 +2319,7 @@
       </lg>
       <pos>N</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>

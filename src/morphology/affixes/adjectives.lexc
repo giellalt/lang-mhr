@@ -3,10 +3,14 @@
 
 !! Meadow Mari adjectives
 
-! LEXICON Comparisons
-!  +A+pos:0   Cases ;
-!  +A+cmp:er  Cases ;
-!  +A+sup:est Cases ;
+LEXICON A-ATTR_ ! йошкарге:йошкар
++A+Attr: #;
+
+LEXICON A-GEN-ATTR_ ! ава >> Sg_Gen аван:аван
++A+Attr: #;
+
+LEXICON A_OLD-ORTH
++A: #; !йӧрыктымӧ:йӧрыктым%{еы%}
 
 LEXICON A_  !! LEXICON A underscore
          +A:      K  ; ! missing comparative
