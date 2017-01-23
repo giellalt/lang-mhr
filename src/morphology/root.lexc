@@ -193,6 +193,8 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Hom1     !!≈ * __@CODE@__ = First pattern (let us say -ам)
 +Hom2     !!≈ * __@CODE@__ = Second pattern (let us say -ем)
 +Hom3     !!≈ * __@CODE@__ = Third pattern (if it should exist + even more?)
++Hom4	  !!≈ * __@CODE@__ = 
++Hom5	  !!≈ * __@CODE@__ = 
 
 !! !Usage tags
 
