@@ -573,6 +573,9 @@ LEXICON N-SG-PxSg3-ILL !!= * @CODE@
 LEXICON N-SG-PxSg3-LAT !!= * @CODE@
  +Sg+PxSg3+Lat:%>Е2шыже K ; !CHECKME 2016-12-27
 
+ +Sg+PxSg3+Lat:%>Е2шыж K ; !CHECKME 2017-01-23
+ +Sg+PxSg3+Lat:%>Е2шше K ; !CHECKME 2017-01-23 
+
 LEXICON N-SG-PxSg3-ABE !!= * @CODE@
  +Sg+PxSg3+Abe:%>ыж%>де K ; ! йолташ%>ыж%>де twolc
  +Sg+PxSg3+Abe:%>ж%>де K ;! ава%>ж%>де twolc
