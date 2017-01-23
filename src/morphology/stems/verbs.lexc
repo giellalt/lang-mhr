@@ -2358,8 +2358,8 @@ LEXICON verbs
 кӱкташ:кӱкт V_em  "keittää; paistaa" ;
 кӱкшемаш:кӱкшем V_am  "" ;
 кӱкшемдаш:кӱкшемд V_em  "kohottaa; ylentää" ;
-кӱлаш:кӱл V_am  "täytyy (yksip.)" ;
-кӱлаш:кӱл V_em  "" ;
+кӱлаш+Hom1:кӱл V_am  "täytyy (yksip.)" ;
+кӱлаш+Hom2:кӱл V_em  "" ;
 кӱлгымандаш:кӱлгыманд V_em  "" ;
 кӱлдыртаташ:кӱлдыртат V_em  "" ;
 кӱлдӱклаш:кӱлдӱкл V_em  "" ;
@@ -6800,9 +6800,9 @@ LEXICON verbs
 шинчалташ+Hom2:шинчалт V_em  "istua (jnk aikaa)" ;
 шинчалумаш:шинчалум V_em  "" ;
 шинчанужаш:шинчануж V_am  "" ;
-шинчаш:шинч V_am  "istuutua; ryhtyä" ;
-шинчаш+Hom1:шинч V_em  "istua, olla" ;
-шинчаш+Hom2:шинч V_em  "tietää" ;
+шинчаш+Hom1:шинч V_am  "istuutua; ryhtyä" ;
+шинчаш+Hom2:шинч V_em  "istua, olla" ;
+шинчаш+Hom3:шинч V_em  "tietää" ;
 шинчедаш:шинчед V_em  "" ;
 шинчедылаш:шинчедыл V_am  "" ;
 шинчыкташ:шинчыкт V_em  "" ;
@@ -6979,9 +6979,9 @@ LEXICON verbs
 шуаралташ:шуаралт V_am  "" ;
 шуараш:шуар V_em  "karkaista, karaista" ;
 шуаш+Hom1:шу V_am  "saapua; saavuttaa; kohdata; tulla" ;
-шуаш+Hom1:шу V_am  "" ;
-шуаш+Hom1:шу V_am  "veistää; leikata, paloitella" ;
-шуаш+Hom2:шу V_em  "" ;
+шуаш+Hom2:шу V_am  "" ;
+шуаш+Hom3:шу V_am  "veistää; leikata, paloitella" ;
+шуаш+Hom4:шу V_em  "" ;
 шуаҥаш:шуаҥ V_am  "" ;
 шуваш:шув V_em  "" ;
 шувыматаш:шувымат V_em  "" ;

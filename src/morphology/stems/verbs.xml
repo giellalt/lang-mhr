@@ -42901,7 +42901,7 @@
 
  <e order="2">
    <lg>
-     <l pos="V">кӱлаш</l>
+     <l hid="Hom1" pos="V">кӱлаш</l>
      <stg>
        <st Contlex="V_am">кӱл</st>
      </stg> <stress>кӱла•ш (-ам)</stress>
@@ -42921,7 +42921,7 @@
 
  <e order="2">
    <lg>
-     <l pos="V">кӱлаш</l>
+     <l hid="Hom2" pos="V">кӱлаш</l>
      <stg>
        <st Contlex="V_em">кӱл</st>
      </stg> <stress>кӱла•ш (-ем)</stress>
@@ -123845,7 +123845,7 @@
 
  <e order="2">
    <lg>
-     <l pos="V">шинчаш</l>
+     <l hid="Hom1" pos="V">шинчаш</l>
      <stg>
        <st Contlex="V_am">шинч</st>
      </stg> <stress>шинча•ш (-ам)</stress>
@@ -123864,7 +123864,7 @@
 
  <e order="2">
    <lg>
-     <l hid="Hom1" pos="V">шинчаш</l>
+     <l hid="Hom2" pos="V">шинчаш</l>
      <stg>
        <st Contlex="V_em">шинч</st>
      </stg> <stress>шинча•ш (-ем) [1]</stress>
@@ -123883,7 +123883,7 @@
 
  <e order="2">
    <lg>
-     <l hid="Hom2" pos="V">шинчаш</l>
+     <l hid="Hom3" pos="V">шинчаш</l>
      <stg>
        <st Contlex="V_em">шинч</st>
      </stg> <stress>шинча•ш (-ем) [2]</stress>
@@ -127119,7 +127119,7 @@
 
  <e order="2">
    <lg>
-     <l hid="Hom1" pos="V">шуаш</l>
+     <l hid="Hom2" pos="V">шуаш</l>
      <stg>
        <st Contlex="V_am">шу</st>
      </stg> <stress>шуа•ш (-ам) [2]</stress>
@@ -127137,7 +127137,7 @@
 
  <e order="2">
    <lg>
-     <l hid="Hom1" pos="V">шуаш</l>
+     <l hid="Hom3" pos="V">шуаш</l>
      <stg>
        <st Contlex="V_am">шу</st>
      </stg> <stress>шуа•ш (-ам) [3]</stress>
@@ -127156,7 +127156,7 @@
 
  <e order="2">
    <lg>
-     <l hid="Hom2" pos="V">шуаш</l>
+     <l hid="Hom4" pos="V">шуаш</l>
      <stg>
        <st Contlex="V_em">шу</st>
      </stg> <stress>шуа•ш (-эм)</stress>
