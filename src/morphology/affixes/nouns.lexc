@@ -564,10 +564,12 @@ LEXICON N-SG-PxSg3-COM !!= * @CODE@
 
 LEXICON N-SG-PxSg3-INE !!= * @CODE@
  +Sg+PxSg3+Ine:%>Ы1шты%>жЫ2 K ; !NB_CX_PX
+ +Sg+PxSg3+Ine:%>Ы1шты%>ж K ; !NB_CX_PX
 
 
 LEXICON N-SG-PxSg3-ILL !!= * @CODE@
  +Sg+PxSg3+Ill:%>Ы1шкы%>жЫ2 K ; !NB_CX_PX
+ +Sg+PxSg3+Ill:%>Ы1шкы%>ж K ; !NB_CX_PX
 
 
 LEXICON N-SG-PxSg3-LAT !!= * @CODE@
