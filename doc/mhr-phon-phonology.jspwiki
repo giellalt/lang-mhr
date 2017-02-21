@@ -46,6 +46,7 @@ Archiphonemes for vowels, Apertium style
  *  Е1:е  for lative
 
 
+ * %^V2IMPRT:0	 for -ем verbs in й
  * %^END:0		   for -ам verb final, i.e. Imprf
 
  *  %>    
@@ -62,6 +63,8 @@ Archiphonemes for vowels, Apertium style
 
  * Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш    
         Б В Г Д Ж З Й К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     
+ * CnsNoj =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш    
+           Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     
  * Cst =  б в г д ж з к п с т ф х ц ч ш       
         Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш ;     
 
@@ -98,9 +101,14 @@ __ Onset vowel Ы1 realized in suffix __
 
 
 __ suffix-final vowel loss after stem-final vowel __  
-
+пуаш+V+Imprt+Sg2
 * __пу>Ы2%^END __
 * __пу>00 __
+
+кияш+V+Imprt+Sg2
+* __кий%>Ы2%^END __
+* __ки0%>е0 __
+
 
 __ suffix-final vowel realized after stem-final consonant __  
 
@@ -108,11 +116,14 @@ __ suffix-final vowel realized as -Round in word-final position е  __
 
 
 
+
 __ suffix-final vowel realized as +Back +Round in word-final position о  __  
 
 
 
+
 __ suffix-final vowel realized as +Front +Round in word-final position ӧ  __  
+
 
 
 __ %{ьØ%}:ь __
@@ -237,6 +248,9 @@ __ Disallow PxSg3 in ыж no where except after ш  __
 * __кол%>жы%>де __
 * __*ава%>жы%>де __ (is not standard language)
 * __*ава%>жы%>де __ (is not standard language)
+
+
+__ Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs  __
 
 
 * __а __

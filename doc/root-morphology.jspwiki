@@ -173,9 +173,11 @@ These are especially for verbs. Note that this is __not__
 a semantic distinction, we talk about paradigms deviating
 here and there in the inflection pattern.
 
- * __+Hom1__ = First pattern (let us say -аш)
- * __+Hom2__ = Second pattern (let us say -еш)
+ * __+Hom1__ = First pattern (let us say -ам)
+ * __+Hom2__ = Second pattern (let us say -ем)
  * __+Hom3__ = Third pattern (if it should exist + even more?)
+ * __+Hom4	__ = 
+ * __+Hom5	__ = 
 
 !Usage tags
 
@@ -469,6 +471,7 @@ symbols in the lexicon files:
  * __+TEST__ = 
 
 And following triggers to control variation
+ * %^V2IMPRT	 for -ем verbs in й
  * %^END		   for -ам verb final, i.e. Imprf
 
  * {front} 
