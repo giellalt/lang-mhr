@@ -1,0 +1,19 @@
+
+This document contains notes on the (so far) unsystematic testing of the mhr fst.
+
+
+!!!Corpus coverage
+
+|| Date   || Words || Not recognised || % not rec
+|  170303 | 2535534 | 743752 | 0.29
+
+
+Commands:
+
+{{{
+words:
+ccat -r rusbound/converted/mhr/|preprocess|grep '[ашертыуиопюжасдфгчйкльъэщзхцвбнмя]' | wc -l
+
+unrecognised words:
+ccat -r rusbound/converted/mhr/|preprocess|grep '[ашертыуиопюжасдфгчйкльъэщзхцвбнмя]' | umhr|grep '+?'|wc -l
+}}}    
