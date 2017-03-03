@@ -574,6 +574,8 @@ verbs_not_from_xml ;   !!=   @CODE@
 Abbreviation	;  !!=   @CODE@ 
 Acronym		;	   !!=   @CODE@ 
 Punctuation	;	   !!=   @CODE@ 
+Exceptions ;  !!= * @CODE@ 
+ 
 urj-Cyrl-ProperNouns ;  !!=   @CODE@ 
 
 ! wordToNumeral	; !This has been moved to GTLANG/src/transcriptions/numbers.lexc

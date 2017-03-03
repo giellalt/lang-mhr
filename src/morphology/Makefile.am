@@ -26,6 +26,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/abbreviations.lexc \
 			 stems/acronyms.lexc      \
 			 stems/punctuation.lexc   \
+			 stems/exceptions.lexc   \
 			 affixes/adjectives.lexc  \
 			 affixes/clitics.lexc     \
 			 affixes/nouns.lexc       \
