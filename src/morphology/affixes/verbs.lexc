@@ -74,7 +74,7 @@ LEXICON ulasj
 !! !The -am class
 
 LEXICON V_am-N !!= @CODE@ divides V_am in Mood and infinites
- +V+Ger+Gen: K ;
+ +V+Ger+Gen:%^END K ;
   V_am ;
 LEXICON V_am !!= @CODE@ divides V_am in Mood and infinites
                  +V:      Vam-Mood    ;
@@ -128,8 +128,8 @@ LEXICON Vam-Des  !!= @CODE@ for desiderative, Желательное накло�
 !! !The -em class
 
 LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
- V_em-1SYLL ;
-          +V+Ger+Gen:  K ; !CHECKME
+ V_em-1SYLL ; 
+          +V+Ger+Gen:  K ; !CHECKME is %>Ы2%^END required
 	  
 LEXICON V_em-1SYLL !!= @CODE@ These are single syllable V_em verbs, which do not include bare-stem gerunds in their paradigms
                  +V:      Vem-Mood    ;
