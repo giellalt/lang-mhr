@@ -161,7 +161,7 @@ Rules
  [:Ve (•:) |ы •:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы ]+ %> _ [ .#. |%^END:| %- ] ;
  Vow (•:) Cns:* [:Ve (•:) |ы •:] %> _ [ .#. |%^END:| %- ] ;
 
-  FrontUnrounded [ ш %> т| й:] _ [ .#. | %- ] ;
+  FrontUnrounded [ ш %> [т|к]| й:] _ [ .#. | %- ] ;
 
 
 
@@ -173,7 +173,7 @@ Rules
  :Vo (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:о| Ы2:ы ]+  %>  _ [ .#. |%^END:| %- ] ;
  Vow (•:) Cns:* :Vo (•:) %>  _ [ .#. |%^END:| %- ] ;
 
-  BackRounded [ш %> т| й:] _ [ .#. | %- ] ;
+  BackRounded [ш %> [т|к]| й:] _ [ .#. | %- ] ;
 
 
 
@@ -184,7 +184,7 @@ Rules
  FrontRounded %> %{ьØ%}: _ [ .#. |%^END:| %- ] ;
  :VO  (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]+ %> _ [ .#. |%^END:| %- ] ;
  Vow (•:) Cns:* :VO (•:) %> _ [ .#. |%^END:| %- ] ;
-  FrontRounded  [ш %> т| й:] _ [ .#. | %- ] ;
+  FrontRounded  [ш %> [т|к]| й:] _ [ .#. | %- ] ;
 
 
 
@@ -364,12 +364,19 @@ Rules
 !!$ кол%>ж%>де
 !!$ кол%>ж%>де
 
-"Disallow Sg+Ill in тЫ2 everywhere except after stem-final ш "
+"Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш "
 !! __ @RULENAME@ __
 т:т /<= [Ltrs - ш ] (•:) %> _ Ы2:  ;
 !! йӧратымаш+N+Sg+Ine
 !!€ йӧратымаш%>тЫ2
 !!€ йӧратымаш%>те
+
+"Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш "
+!! __ @RULENAME@ __
+к:к /<= [Ltrs - ш ] (•:) %> _ Ы2:  ;
+!! авалтымаш+N+Sg+Ine
+!!€ авалтымаш%>кЫ2
+!!€ авалтымаш%>ке
 
 
 "Disallow PxSg3 in ыж no where except after ш "
