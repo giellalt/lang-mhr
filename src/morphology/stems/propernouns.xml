@@ -2,6 +2,82 @@
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="">
   <e>
     <lg>
+      <l pos="N" type="Prop">Корамас</l>
+
+      <stg>
+        <st Contlex="PROP_">Корамас</st>
+      </stg>
+
+      <stress>Корамас</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Морко</l>
+
+      <stg>
+        <st Contlex="PROP_">Морко</st>
+      </stg>
+
+      <stress>Морко</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Кыргори</l>
+
+      <stg>
+        <st Contlex="PROP_">Кыргори</st>
+      </stg>
+
+      <stress>Кыргори</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Царевококшайский</l>
+
+      <stg>
+        <st Contlex="PROP_">Царевококшайский</st>
+      </stg>
+
+      <stress>Царевококшайский</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Prop"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N" type="Prop">Аймет</l>
 
       <stg>
