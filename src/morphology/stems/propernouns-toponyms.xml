@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="">
 <e>
    <lg>
-     <l pos="N" type="Prop">Абхазий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Абхазий</l>
      <stg>
        <st Contlex="PROP-PLC_">Абхазий</st>
      </stg>
@@ -14,7 +14,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Австралий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Австралий</l>
      <stg>
        <st Contlex="PROP-PLC_">Австра•лий</st>
      </stg> <stress>Австра•лий [1]</stress>
@@ -32,7 +32,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Албаний</l>
+     <l pos="N" sem_type="Plc" type="Prop">Албаний</l>
      <stg>
        <st Contlex="PROP-PLC_">Алба•ний</st>
      </stg> <stress>Алба•ний</stress>
@@ -50,7 +50,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Алжир</l>
+     <l pos="N" sem_type="Plc" type="Prop">Алжир</l>
      <stg>
        <st Contlex="PROP-PLC_">Алжи•р</st>
      </stg> <stress>Алжи•р [1]</stress>
@@ -67,7 +67,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Альп</l>
+     <l pos="N" sem_type="Plc" type="Prop">Альп</l>
      <stg>
        <st Contlex="PROP-PLC_">Альп</st>
      </stg> <stress>Альп</stress>
@@ -85,7 +85,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Америке</l>
+     <l pos="N" sem_type="Plc" type="Prop">Америке</l>
      <stg>
        <st Contlex="PROP-PLC_">Аме•рик%{еы%}</st>
        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Америк%{аы%}</st>
@@ -104,7 +104,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Антарктиде</l>
+     <l pos="N" sem_type="Plc" type="Prop">Антарктиде</l>
      <stg>
        <st Contlex="PROP-PLC_">Антаркти•д%{еы%}</st>
      </stg> <stress>Антаркти•де</stress>
@@ -121,7 +121,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Антарктике</l>
+     <l pos="N" sem_type="Plc" type="Prop">Антарктике</l>
      <stg>
        <st Contlex="PROP-PLC_">Анта•рктик%{еы%}</st>
      </stg> <stress>Анта•рктике</stress>
@@ -138,7 +138,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Арабий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Арабий</l>
      <stg>
        <st Contlex="PROP-PLC_">Арабий</st>
      </stg> <stress>Ара•бий</stress>
@@ -151,7 +151,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Аравий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Аравий</l>
      <stg>
        <st Contlex="PROP-PLC_">Ара•вий</st>
      </stg> <stress>Ара•вий</stress>
@@ -168,7 +168,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Аргентине</l>
+     <l pos="N" sem_type="Plc" type="Prop">Аргентине</l>
      <stg>
        <st Contlex="PROP-PLC_">Аргенти•н%{еы%}</st>
        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Аргентин%{аы%}</st>
@@ -187,7 +187,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Армений</l>
+     <l pos="N" sem_type="Plc" type="Prop">Армений</l>
      <stg>
        <st Contlex="PROP-PLC_">Арме•ний</st>
      </stg> <stress>Арме•ний</stress>
@@ -205,7 +205,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Атлантике</l>
+     <l pos="N" sem_type="Plc" type="Prop">Атлантике</l>
      <stg>
        <st Contlex="PROP-PLC_">Атла•нтик%{еы%}</st>
        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Атлантик%{аы%}</st>
@@ -224,7 +224,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Афины</l>
+     <l pos="N" sem_type="Plc" type="Prop">Афины</l>
      <stg>
        <st Contlex="PROP-PLC_">Афины</st>
      </stg>
@@ -239,7 +239,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Афин</l>
+     <l pos="N" sem_type="Plc" type="Prop">Афин</l>
      <stg>
        <st Contlex="PROP-PLC_">Афи•н</st>
      </stg> <stress>Афи•н</stress>
@@ -256,7 +256,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Австрий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Австрий</l>
      <stg>
        <st Contlex="PROP-PLC_">А•встрий</st>
      </stg> <stress>А•встрий</stress>
@@ -273,7 +273,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Азий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Азий</l>
      <stg>
        <st Contlex="PROP-PLC_">А•зий</st>
      </stg> <stress>А•зий [1]</stress>
@@ -291,7 +291,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Англий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Англий</l>
      <stg>
        <st Contlex="PROP-PLC_">А•нглий</st>
      </stg> <stress>А•нглий</stress>
@@ -309,7 +309,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Арктике</l>
+     <l pos="N" sem_type="Plc" type="Prop">Арктике</l>
      <stg>
        <st Contlex="PROP-PLC_">А•рктик%{еы%}</st>
      </stg> <stress>А•рктике</stress>
@@ -326,7 +326,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Африке</l>
+     <l pos="N" sem_type="Plc" type="Prop">Африке</l>
      <stg>
        <st Contlex="PROP-PLC_">А•фрик%{еы%}</st>
        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Африк%{аы%}</st>
@@ -345,7 +345,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Балтий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Балтий</l>
      <stg>
        <st Contlex="PROP-PLC_">Ба•лтий</st>
      </stg> <stress>Ба•лтий</stress>
@@ -362,7 +362,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Балтик</l>
+     <l pos="N" sem_type="Plc" type="Prop">Балтик</l>
      <stg>
        <st Contlex="PROP-PLC_">Ба•лтик</st>
      </stg> <stress>Ба•лтик</stress>
@@ -380,7 +380,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Белоруссий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Белоруссий</l>
      <stg>
        <st Contlex="PROP-PLC_">Белору•ссий</st>
      </stg> <stress>Белору•ссий</stress>
@@ -398,7 +398,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Бельгий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Бельгий</l>
      <stg>
        <st Contlex="PROP-PLC_">Бе•льгий</st>
      </stg> <stress>Бе•льгий [2]</stress>
@@ -416,7 +416,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Бирма</l>
+     <l pos="N" sem_type="Plc" type="Prop">Бирма</l>
      <stg>
        <st Contlex="PROP-PLC_">Би•рма</st>
      </stg> <stress>Би•рма%</stress>
@@ -433,7 +433,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Болгарий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Болгарий</l>
      <stg>
        <st Contlex="PROP-PLC_">Болга•рий</st>
      </stg> <stress>Болга•рий</stress>
@@ -450,7 +450,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Боливий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Боливий</l>
      <stg>
        <st Contlex="PROP-PLC_">Боли•вий</st>
      </stg> <stress>Боли•вий</stress>
@@ -468,7 +468,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Босний</l>
+     <l pos="N" sem_type="Plc" type="Prop">Босний</l>
      <stg>
        <st Contlex="PROP-PLC_">Босний</st>
      </stg>
@@ -481,7 +481,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Бразилий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Бразилий</l>
      <stg>
        <st Contlex="PROP-PLC_">Брази•лий</st>
      </stg> <stress>Брази•лий [1]</stress>
@@ -499,7 +499,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Британий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Британий</l>
      <stg>
        <st Contlex="PROP-PLC_">Брита•ний</st>
      </stg> <stress>Брита•ний</stress>
@@ -517,7 +517,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Брӱссел</l>
+     <l pos="N" sem_type="Plc" type="Prop">Брӱссел</l>
      <stg>
        <st Contlex="PROP-PLC_">Брӱссе•л</st>
      </stg> <stress>Брӱссе•л</stress>
@@ -534,7 +534,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Будапешт</l>
+     <l pos="N" sem_type="Plc" type="Prop">Будапешт</l>
      <stg>
        <st Contlex="PROP-PLC_">Будапе•шт</st>
      </stg> <stress>Будапе•шт</stress>
@@ -552,7 +552,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Булгарий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Булгарий</l>
      <stg>
        <st Contlex="PROP-PLC_">Булгарий</st>
      </stg>
@@ -565,7 +565,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Бутан</l>
+     <l pos="N" sem_type="Plc" type="Prop">Бутан</l>
      <stg>
        <st Contlex="PROP-PLC_">Бута•н</st>
      </stg> <stress>Бута•н</stress>
@@ -582,7 +582,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Вавилон</l>
+     <l pos="N" sem_type="Plc" type="Prop">Вавилон</l>
      <stg>
        <st Contlex="PROP-PLC_">Вавило•н</st>
      </stg> <stress>Вавило•н</stress>
@@ -599,7 +599,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Вак-сола</l>
+     <l pos="N" sem_type="Plc" type="Prop">Вак-сола</l>
      <stg>
        <st Contlex="PROP-PLC_">Вак-сола</st>
      </stg> <stress>Вак-сола</stress>
@@ -612,7 +612,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Варшаве</l>
+     <l pos="N" sem_type="Plc" type="Prop">Варшаве</l>
      <stg>
        <st Contlex="PROP-PLC_">Варша•в%{еы%}</st>
        <st Contlex="PROP-OLD-ORTH-SG-NOM_">Варшав%{аы%}</st>
@@ -631,7 +631,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Василь-ола</l>
+     <l pos="N" sem_type="Plc" type="Prop">Василь-ола</l>
      <stg>
        <st Contlex="PROP-PLC_">Василь-ола</st>
      </stg> <stress>Василь-ола</stress>
@@ -644,7 +644,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Великобританий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Великобританий</l>
      <stg>
        <st Contlex="PROP-PLC_">Великобрита•ний</st>
      </stg> <stress>Великобрита•ний</stress>
@@ -662,7 +662,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Венеций</l>
+     <l pos="N" sem_type="Plc" type="Prop">Венеций</l>
      <stg>
        <st Contlex="PROP-PLC_">Венеций</st>
      </stg>
@@ -675,7 +675,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Вена</l>
+     <l pos="N" sem_type="Plc" type="Prop">Вена</l>
      <stg>
        <st Contlex="PROP-PLC_">Ве•на</st>
      </stg> <stress>Ве•на%</stress>
@@ -692,7 +692,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Венгрий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Венгрий</l>
      <stg>
        <st Contlex="PROP-PLC_">Ве•нгрий</st>
      </stg> <stress>Ве•нгрий</stress>
@@ -710,7 +710,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Виргиний</l>
+     <l pos="N" sem_type="Plc" type="Prop">Виргиний</l>
      <stg>
        <st Contlex="PROP-PLC_">Виргиний</st>
      </stg>
@@ -723,7 +723,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Виса</l>
+     <l pos="N" sem_type="Plc" type="Prop">Виса</l>
      <stg>
        <st Contlex="PROP-PLC_">Виса•</st>
      </stg> <stress>Виса• [2]</stress>
@@ -740,7 +740,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Вичымбал</l>
+     <l pos="N" sem_type="Plc" type="Prop">Вичымбал</l>
      <stg>
        <st Contlex="PROP-PLC_">Вичымбал</st>
      </stg> <stress>Вичымба•л</stress>
@@ -753,7 +753,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Виче</l>
+     <l pos="N" sem_type="Plc" type="Prop">Виче</l>
      <stg>
        <st Contlex="PROP-PLC_">Ви•ч%{еы%}</st>
      </stg> <stress>Ви•че</stress>
@@ -788,7 +788,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Вӱтла</l>
+     <l pos="N" sem_type="Plc" type="Prop">Вӱтла</l>
      <stg>
        <st Contlex="PROP-PLC_">Вӱтла•</st>
      </stg> <stress>Вӱтла•</stress>
@@ -805,7 +805,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Вӱрзым</l>
+     <l pos="N" sem_type="Plc" type="Prop">Вӱрзым</l>
      <stg>
        <st Contlex="PROP-PLC_">Вӱ•рзым</st>
      </stg> <stress>Вӱ•рзым [2]</stress>
@@ -822,7 +822,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Германий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Германий</l>
      <stg>
        <st Contlex="PROP-PLC_">Герма•ний</st>
      </stg> <stress>Герма•ний</stress>
@@ -840,7 +840,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Голландий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Голландий</l>
      <stg>
        <st Contlex="PROP-PLC_">Голландий</st>
      </stg>
@@ -853,7 +853,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Гондван</l>
+     <l pos="N" sem_type="Plc" type="Prop">Гондван</l>
      <stg>
        <st Contlex="PROP-PLC_">Гондва•н</st>
      </stg> <stress>Гондва•н</stress>
@@ -870,7 +870,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Горький</l>
+     <l pos="N" sem_type="Plc" type="Prop">Горький</l>
      <stg>
        <st Contlex="PROP-PLC_">Горький</st>
      </stg>
@@ -883,7 +883,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Господь</l>
+     <l pos="N" sem_type="Plc" type="Prop">Господь</l>
      <stg>
        <st Contlex="PROP-PLC_">Госпо•дь</st>
      </stg> <stress>Госпо•дь</stress>
@@ -900,7 +900,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Гренландий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Гренландий</l>
      <stg>
        <st Contlex="PROP-PLC_">Гренландий</st>
      </stg>
@@ -913,7 +913,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Греций</l>
+     <l pos="N" sem_type="Plc" type="Prop">Греций</l>
      <stg>
        <st Contlex="PROP-PLC_">Гре•ций</st>
      </stg> <stress>Гре•ций</stress>
@@ -931,7 +931,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Грузий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Грузий</l>
      <stg>
        <st Contlex="PROP-PLC_">Гру•зий</st>
      </stg> <stress>Гру•зий</stress>
@@ -950,7 +950,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Даний</l>
+     <l pos="N" sem_type="Plc" type="Prop">Даний</l>
      <stg>
        <st Contlex="PROP-PLC_">Да•ний</st>
      </stg> <stress>Да•ний</stress>
@@ -968,7 +968,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Девон</l>
+     <l pos="N" sem_type="Plc" type="Prop">Девон</l>
      <stg>
        <st Contlex="PROP-PLC_">Дево•н</st>
      </stg> <stress>Дево•н</stress>
@@ -985,7 +985,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Дунай</l>
+     <l pos="N" sem_type="Plc" type="Prop">Дунай</l>
      <stg>
        <st Contlex="PROP-PLC_">Дуна•й</st>
      </stg> <stress>Дуна•й</stress>
@@ -1003,7 +1003,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Евразий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Евразий</l>
      <stg>
        <st Contlex="PROP-PLC_">Евра•зий</st>
      </stg> <stress>Евра•зий</stress>
@@ -1021,7 +1021,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Европо</l>
+     <l pos="N" sem_type="Plc" type="Prop">Европо</l>
      <stg>
        <st Contlex="PROP-PLC_">Евро•п%{оы%}</st>
        <st Contlex="PROP-PLC_">Евро•п%{оы%}</st>
@@ -1040,7 +1040,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Египет</l>
+     <l pos="N" sem_type="Plc" type="Prop">Египет</l>
      <stg>
        <st Contlex="PROP-PLC_">Еги•пет</st>
      </stg> <stress>Еги•пет</stress>
@@ -1057,7 +1057,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Запад</l>
+     <l pos="N" sem_type="Plc" type="Prop">Запад</l>
      <stg>
        <st Contlex="PROP-PLC_">За•пад</st>
      </stg> <stress>За•пад [2]</stress>
@@ -1074,7 +1074,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Зеландий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Зеландий</l>
      <stg>
        <st Contlex="PROP-PLC_">Зеландий</st>
      </stg>
@@ -1087,7 +1087,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Иерусалим</l>
+     <l pos="N" sem_type="Plc" type="Prop">Иерусалим</l>
      <stg>
        <st Contlex="PROP-PLC_">Иерусали•м</st>
      </stg> <stress>Иерусали•м</stress>
@@ -1104,7 +1104,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Израиль</l>
+     <l pos="N" sem_type="Plc" type="Prop">Израиль</l>
      <stg>
        <st Contlex="PROP-PLC_">Изра•иль</st>
      </stg> <stress>Изра•иль</stress>
@@ -1121,7 +1121,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Ильна-ола</l>
+     <l pos="N" sem_type="Plc" type="Prop">Ильна-ола</l>
      <stg>
        <st Contlex="PROP-PLC_">Ильна-ола</st>
      </stg> <stress>Ильна-ола</stress>
@@ -1134,7 +1134,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Илянгече</l>
+     <l pos="N" sem_type="Plc" type="Prop">Илянгече</l>
      <stg>
        <st Contlex="PROP-PLC_">Илянге•ч%{еы%}</st>
      </stg> <stress>Илянге•че</stress>
@@ -1151,7 +1151,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Ингушетий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Ингушетий</l>
      <stg>
        <st Contlex="PROP-PLC_">Ингушетий</st>
      </stg>
@@ -1164,7 +1164,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Индешкугарня</l>
+     <l pos="N" sem_type="Plc" type="Prop">Индешкугарня</l>
      <stg>
        <st Contlex="PROP-PLC_">Индешкугарня•</st>
      </stg> <stress>Индешкугарня•</stress>
@@ -1181,7 +1181,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Индонезий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Индонезий</l>
      <stg>
        <st Contlex="PROP-PLC_">Индоне•зий</st>
      </stg> <stress>Индоне•зий</stress>
@@ -1199,7 +1199,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Иргаза</l>
+     <l pos="N" sem_type="Plc" type="Prop">Иргаза</l>
      <stg>
        <st Contlex="PROP-PLC_">Иргаза•</st>
      </stg> <stress>Иргаза• [2]</stress>
@@ -1216,7 +1216,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Ирландий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Ирландий</l>
      <stg>
        <st Contlex="PROP-PLC_">Ирландий</st>
      </stg>
@@ -1229,7 +1229,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Исландий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Исландий</l>
      <stg>
        <st Contlex="PROP-PLC_">Исла•ндий</st>
      </stg> <stress>Исла•ндий</stress>
@@ -1246,7 +1246,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Испаний</l>
+     <l pos="N" sem_type="Plc" type="Prop">Испаний</l>
      <stg>
        <st Contlex="PROP-PLC_">Испа•ний</st>
      </stg> <stress>Испа•ний</stress>
@@ -1264,7 +1264,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Италий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Италий</l>
      <stg>
        <st Contlex="PROP-PLC_">Ита•лий</st>
      </stg> <stress>Ита•лий</stress>
@@ -1282,7 +1282,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Индий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Индий</l>
      <stg>
        <st Contlex="PROP-PLC_">И•ндий</st>
      </stg> <stress>И•ндий</stress>
@@ -1300,7 +1300,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Йошкар-Ола</l>
+     <l pos="N" sem_type="Plc" type="Prop">Йошкар-Ола</l>
      <stg>
        <st Contlex="PROP-PLC_">Йошка•р-Ола•</st>
      </stg> <stress>Йошка•р-Ола•</stress>
@@ -1317,7 +1317,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Йыгыр</l>
+     <l pos="N" sem_type="Plc" type="Prop">Йыгыр</l>
      <stg>
        <st Contlex="PROP-PLC_">Йы•гыр</st>
      </stg> <stress>Йы•гыр [2]</stress>
@@ -1334,7 +1334,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Йӱдвелшӱдыр</l>
+     <l pos="N" sem_type="Plc" type="Prop">Йӱдвелшӱдыр</l>
      <stg>
        <st Contlex="PROP-PLC_">Йӱдвелшӱ•дыр</st>
      </stg> <stress>Йӱдвелшӱ•дыр</stress>
@@ -1351,7 +1351,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Кавказ</l>
+     <l pos="N" sem_type="Plc" type="Prop">Кавказ</l>
      <stg>
        <st Contlex="PROP-PLC_">Кавка•з</st>
      </stg> <stress>Кавка•з</stress>
@@ -1368,7 +1368,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Казахстан</l>
+     <l pos="N" sem_type="Plc" type="Prop">Казахстан</l>
      <stg>
        <st Contlex="PROP-PLC_">Казахста•н</st>
      </stg> <stress>Казахста•н</stress>
@@ -1385,7 +1385,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Какшан</l>
+     <l pos="N" sem_type="Plc" type="Prop">Какшан</l>
      <stg>
        <st Contlex="PROP-PLC_">Какша•н</st>
      </stg> <stress>Какша•н</stress>
@@ -1403,7 +1403,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Калифорний</l>
+     <l pos="N" sem_type="Plc" type="Prop">Калифорний</l>
      <stg>
        <st Contlex="PROP-PLC_">Калифорний</st>
      </stg>
@@ -1416,7 +1416,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Калмыкий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Калмыкий</l>
      <stg>
        <st Contlex="PROP-PLC_">Калмыкий</st>
      </stg>
@@ -1429,7 +1429,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Карелий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Карелий</l>
      <stg>
        <st Contlex="PROP-PLC_">Каре•лий</st>
      </stg> <stress>Каре•лий</stress>
@@ -1447,7 +1447,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Кений</l>
+     <l pos="N" sem_type="Plc" type="Prop">Кений</l>
      <stg>
        <st Contlex="PROP-PLC_">Кений</st>
      </stg>
@@ -1460,7 +1460,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Кипр</l>
+     <l pos="N" sem_type="Plc" type="Prop">Кипр</l>
      <stg>
        <st Contlex="PROP-PLC_">Кипр</st>
      </stg> <stress>Кипр</stress>
@@ -1477,7 +1477,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Киргизий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Киргизий</l>
      <stg>
        <st Contlex="PROP-PLC_">Кирги•зий</st>
      </stg> <stress>Кирги•зий</stress>
@@ -1495,7 +1495,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Китай</l>
+     <l pos="N" sem_type="Plc" type="Prop">Китай</l>
      <stg>
        <st Contlex="PROP-PLC_">Кита•й</st>
      </stg> <stress>Кита•й [2]</stress>
@@ -1513,7 +1513,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Кол</l>
+     <l pos="N" sem_type="Plc" type="Prop">Кол</l>
      <stg>
        <st Contlex="PROP-PLC_">Кол</st>
      </stg> <stress>Кол [2]</stress>
@@ -1531,7 +1531,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Колумбий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Колумбий</l>
      <stg>
        <st Contlex="PROP-PLC_">Колумбий</st>
      </stg>
@@ -1544,7 +1544,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Коркашӱдыр</l>
+     <l pos="N" sem_type="Plc" type="Prop">Коркашӱдыр</l>
      <stg>
        <st Contlex="PROP-PLC_">Коркашӱ•дыр</st>
      </stg> <stress>Коркашӱ•дыр</stress>
@@ -1561,7 +1561,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Крым</l>
+     <l pos="N" sem_type="Plc" type="Prop">Крым</l>
      <stg>
        <st Contlex="PROP-PLC_">Крым</st>
      </stg> <stress>Крым</stress>
@@ -1578,7 +1578,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Кукарка</l>
+     <l pos="N" sem_type="Plc" type="Prop">Кукарка</l>
      <stg>
        <st Contlex="PROP-PLC_">Кукарка•</st>
      </stg> <stress>Кукарка•</stress>
@@ -1595,7 +1595,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Куба</l>
+     <l pos="N" sem_type="Plc" type="Prop">Куба</l>
      <stg>
        <st Contlex="PROP-PLC_">Ку•ба</st>
      </stg> <stress>Ку•ба%</stress>
@@ -1612,7 +1612,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Кундыш</l>
+     <l pos="N" sem_type="Plc" type="Prop">Кундыш</l>
      <stg>
        <st Contlex="PROP-PLC_">Ку•ндыш</st>
      </stg> <stress>Ку•ндыш [2]</stress>
@@ -1629,7 +1629,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Лайыш-ола</l>
+     <l pos="N" sem_type="Plc" type="Prop">Лайыш-ола</l>
      <stg>
        <st Contlex="PROP-PLC_">Лайыш-ола</st>
      </stg> <stress>Лайыш-ола</stress>
@@ -1642,7 +1642,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Лапландий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Лапландий</l>
      <stg>
        <st Contlex="PROP-PLC_">Лапла•ндий</st>
      </stg> <stress>Лапла•ндий</stress>
@@ -1659,7 +1659,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Латвий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Латвий</l>
      <stg>
        <st Contlex="PROP-PLC_">Латвий</st>
      </stg>
@@ -1672,7 +1672,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Лев</l>
+     <l pos="N" sem_type="Plc" type="Prop">Лев</l>
      <stg>
        <st Contlex="PROP-PLC_">Лев</st>
      </stg> <stress>Лев [2]</stress>
@@ -1689,7 +1689,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Ленин-ола</l>
+     <l pos="N" sem_type="Plc" type="Prop">Ленин-ола</l>
      <stg>
        <st Contlex="PROP-PLC_">Ленин-ола</st>
      </stg> <stress>Ленин-ола</stress>
@@ -1702,7 +1702,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Ленинград</l>
+     <l pos="N" sem_type="Plc" type="Prop">Ленинград</l>
      <stg>
        <st Contlex="PROP-PLC_">Ленингра•д</st>
      </stg> <stress>Ленингра•д</stress>
@@ -1720,7 +1720,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Ливан</l>
+     <l pos="N" sem_type="Plc" type="Prop">Ливан</l>
      <stg>
        <st Contlex="PROP-PLC_">Лива•н</st>
      </stg> <stress>Лива•н</stress>
@@ -1737,7 +1737,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Ливий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Ливий</l>
      <stg>
        <st Contlex="PROP-PLC_">Ли•вий</st>
      </stg> <stress>Ли•вий</stress>
@@ -1754,7 +1754,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Лумӱдыр</l>
+     <l pos="N" sem_type="Plc" type="Prop">Лумӱдыр</l>
      <stg>
        <st Contlex="PROP-PLC_">Лумӱ•дыр</st>
      </stg> <stress>Лумӱ•дыр</stress>
@@ -1771,7 +1771,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Малайзий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Малайзий</l>
      <stg>
        <st Contlex="PROP-PLC_">Малайзий</st>
      </stg>
@@ -1784,7 +1784,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Мариэл</l>
+     <l pos="N" sem_type="Plc" type="Prop">Мариэл</l>
      <stg>
        <st Contlex="PROP-PLC_">Мариэл</st>
      </stg> <stress>Мариэ•л</stress>
@@ -1797,7 +1797,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Мишкан</l>
+     <l pos="N" sem_type="Plc" type="Prop">Мишкан</l>
      <stg>
        <st Contlex="PROP-PLC_">Мишка•н</st>
      </stg> <stress>Мишка•н</stress>
@@ -1814,7 +1814,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Мланде</l>
+     <l pos="N" sem_type="Plc" type="Prop">Мланде</l>
      <stg>
        <st Contlex="PROP-PLC_">Мла•нд%{еы%}</st>
      </stg> <stress>Мла•нде [2]</stress>
@@ -1831,7 +1831,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Мормон</l>
+     <l pos="N" sem_type="Plc" type="Prop">Мормон</l>
      <stg>
        <st Contlex="PROP-PLC_">Мормо•н</st>
      </stg> <stress>Мормо•н</stress>
@@ -1848,7 +1848,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Москва</l>
+     <l pos="N" sem_type="Plc" type="Prop">Москва</l>
      <stg>
        <st Contlex="PROP-PLC_">Москва•</st>
      </stg> <stress>Москва•</stress>
@@ -1865,7 +1865,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Моско</l>
+     <l pos="N" sem_type="Plc" type="Prop">Моско</l>
      <stg>
        <st Contlex="PROP-PLC_">Моско•</st>
      </stg> <stress>Моско•</stress>
@@ -1883,7 +1883,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Морко</l>
+     <l pos="N" sem_type="Plc" type="Prop">Морко</l>
      <stg>
        <st Contlex="PROP-PLC_">Мо•рк%{оы%}</st>
      </stg> <stress>Мо•рко</stress>
@@ -1901,7 +1901,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Мӱнхен</l>
+     <l pos="N" sem_type="Plc" type="Prop">Мӱнхен</l>
      <stg>
        <st Contlex="PROP-PLC_">Мӱ•нхен</st>
      </stg> <stress>Мӱ•нхен</stress>
@@ -1918,7 +1918,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Назарет</l>
+     <l pos="N" sem_type="Plc" type="Prop">Назарет</l>
      <stg>
        <st Contlex="PROP-PLC_">Назаре•т</st>
      </stg> <stress>Назаре•т</stress>
@@ -1935,7 +1935,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Нигерий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Нигерий</l>
      <stg>
        <st Contlex="PROP-PLC_">Нигерий</st>
      </stg>
@@ -1948,7 +1948,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Нидерландий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Нидерландий</l>
      <stg>
        <st Contlex="PROP-PLC_">Нидерла•ндий</st>
      </stg> <stress>Нидерла•ндий</stress>
@@ -1966,7 +1966,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Норвегий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Норвегий</l>
      <stg>
        <st Contlex="PROP-PLC_">Норве•гий</st>
      </stg> <stress>Норве•гий</stress>
@@ -1983,7 +1983,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Новгород</l>
+     <l pos="N" sem_type="Plc" type="Prop">Новгород</l>
      <stg>
        <st Contlex="PROP-PLC_">Но•вгород</st>
      </stg> <stress>Но•вгород</stress>
@@ -2000,7 +2000,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Овен</l>
+     <l pos="N" sem_type="Plc" type="Prop">Овен</l>
      <stg>
        <st Contlex="PROP-PLC_">О•вен</st>
      </stg> <stress>О•вен</stress>
@@ -2017,7 +2017,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Озаҥ</l>
+     <l pos="N" sem_type="Plc" type="Prop">Озаҥ</l>
      <stg>
        <st Contlex="PROP-PLC_">Оза•ҥ</st>
      </stg> <stress>Оза•ҥ</stress>
@@ -2034,7 +2034,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Океаний</l>
+     <l pos="N" sem_type="Plc" type="Prop">Океаний</l>
      <stg>
        <st Contlex="PROP-PLC_">Океа•ний</st>
      </stg> <stress>Океа•ний</stress>
@@ -2052,7 +2052,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Осетий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Осетий</l>
      <stg>
        <st Contlex="PROP-PLC_">Осе•тий</st>
      </stg> <stress>Осе•тий</stress>
@@ -2070,7 +2070,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Памар</l>
+     <l pos="N" sem_type="Plc" type="Prop">Памар</l>
      <stg>
        <st Contlex="PROP-PLC_">Пама•р</st>
      </stg> <stress>Пама•р</stress>
@@ -2087,7 +2087,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Пангей</l>
+     <l pos="N" sem_type="Plc" type="Prop">Пангей</l>
      <stg>
        <st Contlex="PROP-PLC_">Панге•й</st>
      </stg> <stress>Панге•й</stress>
@@ -2104,7 +2104,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Париж</l>
+     <l pos="N" sem_type="Plc" type="Prop">Париж</l>
      <stg>
        <st Contlex="PROP-PLC_">Пари•ж</st>
      </stg> <stress>Пари•ж</stress>
@@ -2121,7 +2121,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Петербург</l>
+     <l pos="N" sem_type="Plc" type="Prop">Петербург</l>
      <stg>
        <st Contlex="PROP-PLC_">Петербу•рг</st>
      </stg> <stress>Петербу•рг</stress>
@@ -2138,7 +2138,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Пикшызе</l>
+     <l pos="N" sem_type="Plc" type="Prop">Пикшызе</l>
      <stg>
        <st Contlex="PROP-PLC_">Пи•кшыз%{еы%}</st>
      </stg> <stress>Пи•кшызе [2]</stress>
@@ -2155,7 +2155,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Пижым</l>
+     <l pos="N" sem_type="Plc" type="Prop">Пижым</l>
      <stg>
        <st Contlex="PROP-PLC_">Пи•жым</st>
      </stg> <stress>Пи•жым</stress>
@@ -2172,7 +2172,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Португалий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Португалий</l>
      <stg>
        <st Contlex="PROP-PLC_">Португа•лий</st>
      </stg> <stress>Португа•лий</stress>
@@ -2190,7 +2190,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Польша</l>
+     <l pos="N" sem_type="Plc" type="Prop">Польша</l>
      <stg>
        <st Contlex="PROP-PLC_">По•льша</st>
      </stg> <stress>По•льша%</stress>
@@ -2208,7 +2208,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Презе</l>
+     <l pos="N" sem_type="Plc" type="Prop">Презе</l>
      <stg>
        <st Contlex="PROP-PLC_">Пре•з%{еы%}</st>
      </stg> <stress>Пре•зе [2]</stress>
@@ -2225,7 +2225,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Прибалтика</l>
+     <l pos="N" sem_type="Plc" type="Prop">Прибалтика</l>
      <stg>
        <st Contlex="PROP-PLC_">Приба•лтика</st>
      </stg> <stress>Приба•лтика%</stress>
@@ -2243,7 +2243,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Провой</l>
+     <l pos="N" sem_type="Plc" type="Prop">Провой</l>
      <stg>
        <st Contlex="PROP-PLC_">Прово•й</st>
      </stg> <stress>Прово•й [2]</stress>
@@ -2260,7 +2260,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Пӱевӱд</l>
+     <l pos="N" sem_type="Plc" type="Prop">Пӱевӱд</l>
      <stg>
        <st Contlex="PROP-PLC_">Пӱевӱ•д</st>
      </stg> <stress>Пӱевӱ•д</stress>
@@ -2277,7 +2277,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Пӱнчер</l>
+     <l pos="N" sem_type="Plc" type="Prop">Пӱнчер</l>
      <stg>
        <st Contlex="PROP-PLC_">Пӱнче•р</st>
      </stg> <stress>Пӱнче•р [2]</stress>
@@ -2294,7 +2294,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Пӱрывӱд</l>
+     <l pos="N" sem_type="Plc" type="Prop">Пӱрывӱд</l>
      <stg>
        <st Contlex="PROP-PLC_">Пӱрывӱ•д</st>
      </stg> <stress>Пӱрывӱ•д</stress>
@@ -2311,7 +2311,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Пӱрӧ-ола</l>
+     <l pos="N" sem_type="Plc" type="Prop">Пӱрӧ-ола</l>
      <stg>
        <st Contlex="PROP-PLC_">Пӱрӧ-ола</st>
      </stg> <stress>Пӱрӧ-ола</stress>
@@ -2324,7 +2324,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Пӱрӧ</l>
+     <l pos="N" sem_type="Plc" type="Prop">Пӱрӧ</l>
      <stg>
        <st Contlex="PROP-PLC_">Пӱ•р%{ӧы%}</st>
      </stg> <stress>Пӱ•рӧ [2]</stress>
@@ -2341,7 +2341,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Рак</l>
+     <l pos="N" sem_type="Plc" type="Prop">Рак</l>
      <stg>
        <st Contlex="PROP-PLC_">Рак</st>
      </stg> <stress>Рак [2]</stress>
@@ -2358,7 +2358,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Реформаций</l>
+     <l pos="N" sem_type="Plc" type="Prop">Реформаций</l>
      <stg>
        <st Contlex="PROP-PLC_">Реформа•ций</st>
      </stg> <stress>Реформа•ций</stress>
@@ -2375,7 +2375,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Рим</l>
+     <l pos="N" sem_type="Plc" type="Prop">Рим</l>
      <stg>
        <st Contlex="PROP-PLC_">Рим</st>
      </stg> <stress>Рим [1]</stress>
@@ -2392,7 +2392,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Рига</l>
+     <l pos="N" sem_type="Plc" type="Prop">Рига</l>
      <stg>
        <st Contlex="PROP-PLC_">Ри•га</st>
      </stg> <stress>Ри•га%</stress>
@@ -2410,7 +2410,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Россий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Россий</l>
      <stg>
        <st Contlex="PROP-PLC_">Росси•й</st>
      </stg> <stress>Росси•й</stress>
@@ -2428,7 +2428,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Рошто</l>
+     <l pos="N" sem_type="Plc" type="Prop">Рошто</l>
      <stg>
        <st Contlex="PROP-PLC_">Рошто•</st>
      </stg> <stress>Рошто•</stress>
@@ -2445,7 +2445,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Румыний</l>
+     <l pos="N" sem_type="Plc" type="Prop">Румыний</l>
      <stg>
        <st Contlex="PROP-PLC_">Румы•ний</st>
      </stg> <stress>Румы•ний</stress>
@@ -2463,7 +2463,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Русь</l>
+     <l pos="N" sem_type="Plc" type="Prop">Русь</l>
      <stg>
        <st Contlex="PROP-PLC_">Русь</st>
      </stg> <stress>Русь</stress>
@@ -2480,7 +2480,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">США</l>
+     <l pos="N" sem_type="Plc" type="Prop">США</l>
      <stg>
        <st Contlex="PROP-PLC_">США</st>
      </stg> <stress>США</stress>
@@ -2497,7 +2497,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Сабантуй</l>
+     <l pos="N" sem_type="Plc" type="Prop">Сабантуй</l>
      <stg>
        <st Contlex="PROP-PLC_">Сабанту•й</st>
      </stg> <stress>Сабанту•й</stress>
@@ -2514,7 +2514,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Санкт-Петербург</l>
+     <l pos="N" sem_type="Plc" type="Prop">Санкт-Петербург</l>
      <stg>
        <st Contlex="PROP-PLC_">Санкт-Петербу•рг</st>
      </stg> <stress>Санкт-Петербу•рг</stress>
@@ -2531,7 +2531,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Сардиний</l>
+     <l pos="N" sem_type="Plc" type="Prop">Сардиний</l>
      <stg>
        <st Contlex="PROP-PLC_">Сардиний</st>
      </stg>
@@ -2544,7 +2544,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Семык</l>
+     <l pos="N" sem_type="Plc" type="Prop">Семык</l>
      <stg>
        <st Contlex="PROP-PLC_">Се•мык</st>
      </stg> <stress>Се•мык</stress>
@@ -2561,7 +2561,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Сербий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Сербий</l>
      <stg>
        <st Contlex="PROP-PLC_">Сербий</st>
      </stg>
@@ -2574,7 +2574,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Сибирь</l>
+     <l pos="N" sem_type="Plc" type="Prop">Сибирь</l>
      <stg>
        <st Contlex="PROP-PLC_">Сиби•рь</st>
      </stg> <stress>Сиби•рь</stress>
@@ -2591,7 +2591,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Сирий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Сирий</l>
      <stg>
        <st Contlex="PROP-PLC_">Сирий</st>
      </stg>
@@ -2604,7 +2604,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Сия-ола</l>
+     <l pos="N" sem_type="Plc" type="Prop">Сия-ола</l>
      <stg>
        <st Contlex="PROP-PLC_">Сия-ола</st>
      </stg> <stress>Сия-ола</stress>
@@ -2617,7 +2617,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Скандинавий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Скандинавий</l>
      <stg>
        <st Contlex="PROP-PLC_">Скандинавий</st>
      </stg>
@@ -2630,7 +2630,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Скорпион</l>
+     <l pos="N" sem_type="Plc" type="Prop">Скорпион</l>
      <stg>
        <st Contlex="PROP-PLC_">Скорпио•н</st>
      </stg> <stress>Скорпио•н [2]</stress>
@@ -2647,7 +2647,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Словакий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Словакий</l>
      <stg>
        <st Contlex="PROP-PLC_">Словакий</st>
      </stg>
@@ -2660,7 +2660,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Словений</l>
+     <l pos="N" sem_type="Plc" type="Prop">Словений</l>
      <stg>
        <st Contlex="PROP-PLC_">Словений</st>
      </stg>
@@ -2673,7 +2673,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Совинформбюро</l>
+     <l pos="N" sem_type="Plc" type="Prop">Совинформбюро</l>
      <stg>
        <st Contlex="PROP-PLC_">Совинформбюро•</st>
      </stg> <stress>Совинформбюро•</stress>
@@ -2690,7 +2690,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Софий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Софий</l>
      <stg>
        <st Contlex="PROP-PLC_">Софий</st>
      </stg>
@@ -2703,7 +2703,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Стамбул</l>
+     <l pos="N" sem_type="Plc" type="Prop">Стамбул</l>
      <stg>
        <st Contlex="PROP-PLC_">Стамбу•л</st>
      </stg> <stress>Стамбу•л</stress>
@@ -2720,7 +2720,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Суоми</l>
+     <l pos="N" sem_type="Plc" type="Prop">Суоми</l>
      <stg>
        <st Contlex="PROP-PLC_">Су•оми</st>
      </stg> <stress>Су•оми</stress>
@@ -2737,7 +2737,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Сымбыр-ола</l>
+     <l pos="N" sem_type="Plc" type="Prop">Сымбыр-ола</l>
      <stg>
        <st Contlex="PROP-PLC_">Сымбыр-ола</st>
      </stg> <stress>Сымбыр-ола</stress>
@@ -2750,7 +2750,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Сӱрем</l>
+     <l pos="N" sem_type="Plc" type="Prop">Сӱрем</l>
      <stg>
        <st Contlex="PROP-PLC_">Сӱре•м</st>
      </stg> <stress>Сӱре•м</stress>
@@ -2767,7 +2767,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Танзаний</l>
+     <l pos="N" sem_type="Plc" type="Prop">Танзаний</l>
      <stg>
        <st Contlex="PROP-PLC_">Танзаний</st>
      </stg>
@@ -2780,7 +2780,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Тасманий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Тасманий</l>
      <stg>
        <st Contlex="PROP-PLC_">Тасманий</st>
      </stg>
@@ -2793,7 +2793,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Таллинн</l>
+     <l pos="N" sem_type="Plc" type="Prop">Таллинн</l>
      <stg>
        <st Contlex="PROP-PLC_">Та•ллинн</st>
      </stg> <stress>Та•ллинн</stress>
@@ -2811,7 +2811,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Турций</l>
+     <l pos="N" sem_type="Plc" type="Prop">Турций</l>
      <stg>
        <st Contlex="PROP-PLC_">Ту•рций</st>
      </stg> <stress>Ту•рций</stress>
@@ -2829,7 +2829,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Тымбай</l>
+     <l pos="N" sem_type="Plc" type="Prop">Тымбай</l>
      <stg>
        <st Contlex="PROP-PLC_">Тымба•й</st>
      </stg> <stress>Тымба•й</stress>
@@ -2846,7 +2846,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Угарман</l>
+     <l pos="N" sem_type="Plc" type="Prop">Угарман</l>
      <stg>
        <st Contlex="PROP-PLC_">Угарма•н</st>
      </stg> <stress>Угарма•н</stress>
@@ -2863,7 +2863,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Удмуртий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Удмуртий</l>
      <stg>
        <st Contlex="PROP-PLC_">Удму•ртий</st>
      </stg> <stress>Удму•ртий</stress>
@@ -2880,7 +2880,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Унчо</l>
+     <l pos="N" sem_type="Plc" type="Prop">Унчо</l>
      <stg>
        <st Contlex="PROP-PLC_">У•нч%{оы%}</st>
      </stg> <stress>У•нчо [2]</stress>
@@ -2897,7 +2897,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Филадельфий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Филадельфий</l>
      <stg>
        <st Contlex="PROP-PLC_">Филадельфий</st>
      </stg>
@@ -2910,7 +2910,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Финляндий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Финляндий</l>
      <stg>
        <st Contlex="PROP-PLC_">Финля•ндий</st>
      </stg> <stress>Финля•ндий</stress>
@@ -2928,7 +2928,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Флоренций</l>
+     <l pos="N" sem_type="Plc" type="Prop">Флоренций</l>
      <stg>
        <st Contlex="PROP-PLC_">Флоренций</st>
      </stg>
@@ -2941,7 +2941,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Франций</l>
+     <l pos="N" sem_type="Plc" type="Prop">Франций</l>
      <stg>
        <st Contlex="PROP-PLC_">Фра•нций</st>
      </stg> <stress>Фра•нций</stress>
@@ -2959,7 +2959,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Хакасий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Хакасий</l>
      <stg>
        <st Contlex="PROP-PLC_">Хакасий</st>
      </stg>
@@ -2972,7 +2972,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Хельсинки</l>
+     <l pos="N" sem_type="Plc" type="Prop">Хельсинки</l>
      <stg>
        <st Contlex="PROP-PLC_">Хе•льсинки</st>
      </stg> <stress>Хе•льсинки</stress>
@@ -2990,7 +2990,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Хорватий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Хорватий</l>
      <stg>
        <st Contlex="PROP-PLC_">Хорва•тий</st>
      </stg> <stress>Хорва•тий</stress>
@@ -3008,7 +3008,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Чoрай</l>
+     <l pos="N" sem_type="Plc" type="Prop">Чoрай</l>
      <stg>
        <st Contlex="PROP-PLC_">Чoрай</st>
      </stg> <stress>Чoрай</stress>
@@ -3021,7 +3021,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Чарла</l>
+     <l pos="N" sem_type="Plc" type="Prop">Чарла</l>
      <stg>
        <st Contlex="PROP-PLC_">Чарла•</st>
      </stg> <stress>Чарла•</stress>
@@ -3039,7 +3039,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Чебоксар</l>
+     <l pos="N" sem_type="Plc" type="Prop">Чебоксар</l>
      <stg>
        <st Contlex="PROP-PLC_">Чебокса•р</st>
      </stg> <stress>Чебокса•р</stress>
@@ -3056,7 +3056,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Чека</l>
+     <l pos="N" sem_type="Plc" type="Prop">Чека</l>
      <stg>
        <st Contlex="PROP-PLC_">Чека•</st>
      </stg> <stress>Чека•</stress>
@@ -3073,7 +3073,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Чехий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Чехий</l>
      <stg>
        <st Contlex="PROP-PLC_">Чехий</st>
      </stg>
@@ -3086,7 +3086,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Чехословакий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Чехословакий</l>
      <stg>
        <st Contlex="PROP-PLC_">Чехослова•кий</st>
      </stg> <stress>Чехослова•кий</stress>
@@ -3104,7 +3104,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Чолман</l>
+     <l pos="N" sem_type="Plc" type="Prop">Чолман</l>
      <stg>
        <st Contlex="PROP-PLC_">Чолма•н</st>
      </stg> <stress>Чолма•н</stress>
@@ -3122,7 +3122,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Чуваший</l>
+     <l pos="N" sem_type="Plc" type="Prop">Чуваший</l>
      <stg>
        <st Contlex="PROP-PLC_">Чува•ший</st>
      </stg> <stress>Чува•ший</stress>
@@ -3140,7 +3140,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Чыкма</l>
+     <l pos="N" sem_type="Plc" type="Prop">Чыкма</l>
      <stg>
        <st Contlex="PROP-PLC_">Чыкма•</st>
      </stg> <stress>Чыкма• [2]</stress>
@@ -3157,7 +3157,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Шварцвальд</l>
+     <l pos="N" sem_type="Plc" type="Prop">Шварцвальд</l>
      <stg>
        <st Contlex="PROP-PLC_">Шва•рцвальд</st>
      </stg> <stress>Шва•рцвальд</stress>
@@ -3174,7 +3174,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Швейцарий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Швейцарий</l>
      <stg>
        <st Contlex="PROP-PLC_">Швейца•рий</st>
      </stg> <stress>Швейца•рий</stress>
@@ -3192,7 +3192,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Швеций</l>
+     <l pos="N" sem_type="Plc" type="Prop">Швеций</l>
      <stg>
        <st Contlex="PROP-PLC_">Шве•ций</st>
      </stg> <stress>Шве•ций</stress>
@@ -3210,7 +3210,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Шернур</l>
+     <l pos="N" sem_type="Plc" type="Prop">Шернур</l>
      <stg>
        <st Contlex="PROP-PLC_">Шерну•р</st>
      </stg> <stress>Шерну•р</stress>
@@ -3227,7 +3227,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Шоктешӱдыр</l>
+     <l pos="N" sem_type="Plc" type="Prop">Шоктешӱдыр</l>
      <stg>
        <st Contlex="PROP-PLC_">Шоктешӱ•дыр</st>
      </stg> <stress>Шоктешӱ•дыр</stress>
@@ -3244,7 +3244,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Шолэҥер</l>
+     <l pos="N" sem_type="Plc" type="Prop">Шолэҥер</l>
      <stg>
        <st Contlex="PROP-PLC_">Шолэҥе•р</st>
      </stg> <stress>Шолэҥе•р</stress>
@@ -3261,7 +3261,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Шорык</l>
+     <l pos="N" sem_type="Plc" type="Prop">Шорык</l>
      <stg>
        <st Contlex="PROP-PLC_">Шо•рык</st>
      </stg> <stress>Шо•рык [2]</stress>
@@ -3278,7 +3278,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Шорыкйол</l>
+     <l pos="N" sem_type="Plc" type="Prop">Шорыкйол</l>
      <stg>
        <st Contlex="PROP-PLC_">Шорыкйо•л</st>
      </stg> <stress>Шорыкйо•л</stress>
@@ -3295,7 +3295,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Шупашкар</l>
+     <l pos="N" sem_type="Plc" type="Prop">Шупашкар</l>
      <stg>
        <st Contlex="PROP-PLC_">Шупашка•р</st>
      </stg> <stress>Шупашка•р</stress>
@@ -3312,7 +3312,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Шур</l>
+     <l pos="N" sem_type="Plc" type="Prop">Шур</l>
      <stg>
        <st Contlex="PROP-PLC_">Шур</st>
      </stg> <stress>Шур [3]</stress>
@@ -3329,7 +3329,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Шыжывазар</l>
+     <l pos="N" sem_type="Plc" type="Prop">Шыжывазар</l>
      <stg>
        <st Contlex="PROP-PLC_">Шыжываза•р</st>
      </stg> <stress>Шыжываза•р</stress>
@@ -3346,7 +3346,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Шынчара</l>
+     <l pos="N" sem_type="Plc" type="Prop">Шынчара</l>
      <stg>
        <st Contlex="PROP-PLC_">Шынчара•</st>
      </stg> <stress>Шынчара•</stress>
@@ -3363,7 +3363,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Элнет</l>
+     <l pos="N" sem_type="Plc" type="Prop">Элнет</l>
      <stg>
        <st Contlex="PROP-PLC_">Элне•т</st>
      </stg> <stress>Элне•т</stress>
@@ -3381,7 +3381,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Эрмитаж</l>
+     <l pos="N" sem_type="Plc" type="Prop">Эрмитаж</l>
      <stg>
        <st Contlex="PROP-PLC_">Эрмита•ж</st>
      </stg> <stress>Эрмита•ж</stress>
@@ -3398,7 +3398,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Эстоний</l>
+     <l pos="N" sem_type="Plc" type="Prop">Эстоний</l>
      <stg>
        <st Contlex="PROP-PLC_">Эсто•ний</st>
      </stg> <stress>Эсто•ний</stress>
@@ -3417,7 +3417,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Эфиопий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Эфиопий</l>
      <stg>
        <st Contlex="PROP-PLC_">Эфиопий</st>
      </stg>
@@ -3430,7 +3430,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Юл</l>
+     <l pos="N" sem_type="Plc" type="Prop">Юл</l>
      <stg>
        <st Contlex="PROP-PLC_">Юл</st>
      </stg> <stress>Юл</stress>
@@ -3448,7 +3448,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Юлсер-Ола</l>
+     <l pos="N" sem_type="Plc" type="Prop">Юлсер-Ола</l>
      <stg>
        <st Contlex="PROP-PLC_">Юлсе•р-Ола•</st>
      </stg> <stress>Юлсе•р-Ола•</stress>
@@ -3465,7 +3465,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Юникод</l>
+     <l pos="N" sem_type="Plc" type="Prop">Юникод</l>
      <stg>
        <st Contlex="PROP-PLC_">Юнико•д</st>
      </stg> <stress>Юнико•д</stress>
@@ -3482,7 +3482,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Якутий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Якутий</l>
      <stg>
        <st Contlex="PROP-PLC_">Якутий</st>
      </stg>
@@ -3496,7 +3496,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Японий</l>
+     <l pos="N" sem_type="Plc" type="Prop">Японий</l>
      <stg>
        <st Contlex="PROP-PLC_">Япо•ний</st>
      </stg> <stress>Япо•ний</stress>
@@ -3514,7 +3514,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Яраҥ</l>
+     <l pos="N" sem_type="Plc" type="Prop">Яраҥ</l>
      <stg>
        <st Contlex="PROP-PLC_">Яра•ҥ</st>
      </stg> <stress>Яра•ҥ</stress>
@@ -3531,7 +3531,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">фарер</l>
+     <l pos="N" sem_type="Plc" type="Prop">фарер</l>
      <stg>
        <st Contlex="PROP-PLC_">фаре•р</st>
      </stg> <stress>фаре•р</stress>
@@ -3548,7 +3548,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Ӱшӱт</l>
+     <l pos="N" sem_type="Plc" type="Prop">Ӱшӱт</l>
      <stg>
        <st Contlex="PROP-PLC_">Ӱшӱ•т</st>
      </stg> <stress>Ӱшӱ•т</stress>
@@ -3565,7 +3565,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" type="Prop">Ӱпӧ</l>
+     <l pos="N" sem_type="Plc" type="Prop">Ӱпӧ</l>
      <stg>
        <st Contlex="PROP-PLC_">Ӱ•п%{ӧы%}</st>
      </stg> <stress>Ӱ•пӧ [2]</stress>

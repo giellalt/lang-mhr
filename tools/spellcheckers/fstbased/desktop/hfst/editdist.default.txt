@@ -15,12 +15,15 @@
 л
 м
 н
+ҥ
 о
+ӧ
 п
 р
 с
 т
 у
+ӱ
 ф
 х
 ц
@@ -48,12 +51,15 @@
 Л
 М
 Н
+Ҥ
 О
+Ӧ
 П
 Р
 С
 Т
 У
+Ӱ
 Ф
 Х
 Ц
@@ -85,7 +91,9 @@
 @@
 
 ## Transition pair specifications + weight:
-a	á	0.4
+о	ӧ	0.4
+у	ӱ	0.4
+н	ҥ	0.4
 
 ## Swaps:
 ## Change dh into hd with the weight 0.5:
