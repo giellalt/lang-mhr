@@ -1,0 +1,9765 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mhr">
+<e>
+   <lg>
+     <l pos="Descr">апчи</l>
+     <stg>
+       <st Contlex="DESCR_">апчи•</st>
+     </stg><stress>апчи•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sneezing) achoo!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бах</l>
+     <stg>
+       <st Contlex="DESCR_">бах</st>
+     </stg><stress>бах</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>boom (abrupt low sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">брдоҥ</l>
+     <stg>
+       <st Contlex="DESCR_">брдоҥ</st>
+     </stg><stress>брдоҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound of an impact)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">брдӱҥ</l>
+     <stg>
+       <st Contlex="DESCR_">брдӱҥ</st>
+     </stg><stress>брдӱҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(gunshot)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">брльоп</l>
+     <stg>
+       <st Contlex="DESCR_">брльоп</st>
+     </stg><stress>брльоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(falling into water with a splash)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">буж</l>
+     <stg>
+       <st Contlex="DESCR_">буж</st>
+     </stg><stress>буж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(flying birds, wind)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">буль-буль</l>
+     <stg>
+       <st Contlex="DESCR_">буль-буль</st>
+     </stg><stress>буль-буль</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(gargling, blubbering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">буҥ</l>
+     <stg>
+       <st Contlex="DESCR_">буҥ</st>
+     </stg><stress>буҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(shot, sudden drop, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бух</l>
+     <stg>
+       <st Contlex="DESCR_">бух</st>
+     </stg><stress>бух</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(gunshots, explosions, falls)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бушт</l>
+     <stg>
+       <st Contlex="DESCR_">бушт</st>
+     </stg><stress>бушт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crash, collision)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бызгӱп</l>
+     <stg>
+       <st Contlex="DESCR_">бызгӱ•п</st>
+     </stg><stress>бызгӱ•п</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>thump (dull sound caused by a fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быздӱҥ</l>
+     <stg>
+       <st Contlex="DESCR_">быздӱ•ҥ</st>
+     </stg><stress>быздӱ•ҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(buzzing sound after a fall or after being hit by a hard object)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бызльоп</l>
+     <stg>
+       <st Contlex="DESCR_">бызльо•п</st>
+     </stg><stress>бызльо•п</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a sharp blow)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быргӱп</l>
+     <stg>
+       <st Contlex="DESCR_">быргӱ•п</st>
+     </stg><stress>быргӱ•п</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>thump (dull noise of a fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бырдӱҥ</l>
+     <stg>
+       <st Contlex="DESCR_">бырдӱ•ҥ</st>
+     </stg><stress>бырдӱ•ҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(gunshot)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бырлоч</l>
+     <stg>
+       <st Contlex="DESCR_">бырло•ч</st>
+     </stg><stress>бырло•ч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slapping, cracking, banging, hitting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бырльоп</l>
+     <stg>
+       <st Contlex="DESCR_">бырльо•п</st>
+     </stg><stress>бырльо•п</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fall, slap, hit)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быр-р</l>
+     <stg>
+       <st Contlex="DESCR_">быр-р</st>
+     </stg><stress>быр-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(bird taking flight)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ва-ак</l>
+     <stg>
+       <st Contlex="DESCR_">ва-ак</st>
+     </stg><stress>ва-ак</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>quack (duck)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вжик</l>
+     <stg>
+       <st Contlex="DESCR_">вжик</st>
+     </stg><stress>вжик</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quickly)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">врек-врек</l>
+     <stg>
+       <st Contlex="DESCR_">врек-врек</st>
+     </stg><stress>врек-врек</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a cat or hare jumping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вуди-вуди</l>
+     <stg>
+       <st Contlex="DESCR_">вуди•-вуди•</st>
+     </stg><stress>вуди•-вуди•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slow and peculiar manner of walking); (a duck call, used to beckon ducks)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вудо-вудо</l>
+     <stg>
+       <st Contlex="DESCR_">ву•до-ву•до</st>
+     </stg><stress>ву•до-ву•до</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something unclear, vague)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вудык-вудык</l>
+     <stg>
+       <st Contlex="DESCR_">ву•дык-ву•дык</st>
+     </stg><stress>ву•дык-ву•дык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(shaking of something bushy, shaggy)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вуж</l>
+     <stg>
+       <st Contlex="DESCR_">вуж</st>
+     </stg><stress>вуж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound of wind)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вуж-вуж</l>
+     <stg>
+       <st Contlex="DESCR_">вуж-вуж</st>
+     </stg><stress>вуж-вуж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound of wind)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вуж-ж</l>
+     <stg>
+       <st Contlex="DESCR_">вуж-ж</st>
+     </stg><stress>вуж-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a bird rapidly taking off, wind, fire, droning in one's head)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вур-вур</l>
+     <stg>
+       <st Contlex="DESCR_">вур-вур</st>
+     </stg><stress>вур-вур</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(restlessness, agitation)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вурк</l>
+     <stg>
+       <st Contlex="DESCR_">вурк</st>
+     </stg><stress>вурк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fear)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вурт [1]</l>
+     <stg>
+       <st Contlex="DESCR_">вурт [1]</st>
+     </stg><stress>вурт [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quick, sudden, unexpected action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вушт</l>
+     <stg>
+       <st Contlex="DESCR_">вушт</st>
+     </stg><stress>вушт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quick, momentary and gentle motion); (muffled abrupt sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выде-вудо</l>
+     <stg>
+       <st Contlex="DESCR_">вы•де-ву•до</st>
+     </stg><stress>вы•де-ву•до</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something which can only be seen or heard indistinctly)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выдык-вудык</l>
+     <stg>
+       <st Contlex="DESCR_">вы•дык-ву•дык</st>
+     </stg><stress>вы•дык-ву•дык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something which can only be seen or heard indistinctly)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выж</l>
+     <stg>
+       <st Contlex="DESCR_">выж</st>
+     </stg><stress>выж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(many, a large quantity); (rapid action, quick action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выж-вуж</l>
+     <stg>
+       <st Contlex="DESCR_">выж-вуж</st>
+     </stg><stress>выж-вуж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid momentary action); (dizziness)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выж-выж</l>
+     <stg>
+       <st Contlex="DESCR_">выж-выж</st>
+     </stg><stress>выж-выж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid action, quick action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выж-ж</l>
+     <stg>
+       <st Contlex="DESCR_">выж-ж</st>
+     </stg><stress>выж-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid disappearance); (hum of light wind)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выжик</l>
+     <stg>
+       <st Contlex="DESCR_">выжи•к</st>
+     </stg><stress>выжи•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid action, quick action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вый-вый</l>
+     <stg>
+       <st Contlex="DESCR_">вый-вый</st>
+     </stg><stress>вый-вый</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(gentle falling of leaves, feathers, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вылт-вулт</l>
+     <stg>
+       <st Contlex="DESCR_">вылт-вулт</st>
+     </stg><stress>вылт-вулт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(staggering, reeling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выль-выль</l>
+     <stg>
+       <st Contlex="DESCR_">выль-выль</st>
+     </stg><stress>выль-выль</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выр</l>
+     <stg>
+       <st Contlex="DESCR_">выр</st>
+     </stg><stress>выр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(flapping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выр-вур</l>
+     <stg>
+       <st Contlex="DESCR_">выр-вур</st>
+     </stg><stress>выр-вур</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapidly executed action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выр-выр</l>
+     <stg>
+       <st Contlex="DESCR_">выр-выр</st>
+     </stg><stress>выр-выр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a light object rotating when falling); top, spinning top, spintop</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выргӱп</l>
+     <stg>
+       <st Contlex="DESCR_">выргӱ•п</st>
+     </stg><stress>выргӱ•п</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(heavy objects falling, making a dull noise)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вырлоч</l>
+     <stg>
+       <st Contlex="DESCR_">вырло•ч</st>
+     </stg><stress>вырло•ч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(splash)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">выр-р</l>
+     <stg>
+       <st Contlex="DESCR_">выр-р</st>
+     </stg><stress>выр-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(flapping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вычыл-вычыл [2]</l>
+     <stg>
+       <st Contlex="DESCR_">вы•чыл-вы•чыл [2]</st>
+     </stg><stress>вы•чыл-вы•чыл [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>chirp-chirp (twittering of birds)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вышт-вышт</l>
+     <stg>
+       <st Contlex="DESCR_">вышт-вышт</st>
+     </stg><stress>вышт-вышт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quickly and loudly)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гож</l>
+     <stg>
+       <st Contlex="DESCR_">гож</st>
+     </stg><stress>гож</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rustling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гож-гож</l>
+     <stg>
+       <st Contlex="DESCR_">гож-гож</st>
+     </stg><stress>гож-гож</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rustling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гор-гор</l>
+     <stg>
+       <st Contlex="DESCR_">гор-гор</st>
+     </stg><stress>гор-гор</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hoarse sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">грӱп</l>
+     <stg>
+       <st Contlex="DESCR_">грӱп</st>
+     </stg><stress>грӱп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a heavy object falling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гуж</l>
+     <stg>
+       <st Contlex="DESCR_">гуж</st>
+     </stg><stress>гуж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hollow rumble)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гуж-ж</l>
+     <stg>
+       <st Contlex="DESCR_">гуж-ж</st>
+     </stg><stress>гуж-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(wind)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гу-у-уй</l>
+     <stg>
+       <st Contlex="DESCR_">гу-у-уй</st>
+     </stg><stress>гу-у-уй</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden drop from great height)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гӱдӧ-гӱдӧ</l>
+     <stg>
+       <st Contlex="DESCR_">гӱ•дӧ-гӱ•дӧ</st>
+     </stg><stress>гӱ•дӧ-гӱ•дӧ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(movement of a herd)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гӱж</l>
+     <stg>
+       <st Contlex="DESCR_">гӱж</st>
+     </stg><stress>гӱж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rustling of trees); (flock of birds)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гӱжге¤</l>
+     <stg>
+       <st Contlex="DESCR_">гӱ•жге¤</st>
+     </stg><stress>гӱ•жге¤</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rustling of trees)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гӱлдырдык</l>
+     <stg>
+       <st Contlex="DESCR_">гӱ•лдырдык</st>
+     </stg><stress>гӱ•лдырдык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(unevenly spinning object)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гӱр-гӱр-гӱр</l>
+     <stg>
+       <st Contlex="DESCR_">гӱр-гӱр-гӱр</st>
+     </stg><stress>гӱр-гӱр-гӱр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rolling, rumbling, purring)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гыж-гож</l>
+     <stg>
+       <st Contlex="DESCR_">гыж-гож</st>
+     </stg><stress>гыж-гож</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(scratching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гылде-галде</l>
+     <stg>
+       <st Contlex="DESCR_">гы•лде-га•лде</st>
+     </stg><stress>гы•лде-га•лде</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knocking of a rolling object)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гылде-голдо</l>
+     <stg>
+       <st Contlex="DESCR_">гы•лде-го•лдо</st>
+     </stg><stress>гы•лде-го•лдо</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(loud drop)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гылдыр-голдыр</l>
+     <stg>
+       <st Contlex="DESCR_">гы•лдыр-го•лдыр</st>
+     </stg><stress>гы•лдыр-го•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>in a flirtatious manner</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гыр-гӱр</l>
+     <stg>
+       <st Contlex="DESCR_">гыр-гӱр</st>
+     </stg><stress>гыр-гӱр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rattling, rolling, scratching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дин-дин</l>
+     <stg>
+       <st Contlex="DESCR_">дин-дин</st>
+     </stg><stress>дин-дин</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>ting-a-ling (e.g., a bell)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">динь-динь</l>
+     <stg>
+       <st Contlex="DESCR_">динь-динь</st>
+     </stg><stress>динь-динь</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>ting-a-ling (e.g., a bell)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дувыр-довыр</l>
+     <stg>
+       <st Contlex="DESCR_">ду•выр-до•выр</st>
+     </stg><stress>ду•выр-до•выр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rumble caused by, e.g., a fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дур-р-р</l>
+     <stg>
+       <st Contlex="DESCR_">дур-р-р</st>
+     </stg><stress>дур-р-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(muffled uneven noise, humming, hum, buzzing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дӱвыр</l>
+     <stg>
+       <st Contlex="DESCR_">дӱ•выр</st>
+     </stg><stress>дӱ•выр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rumble, rattle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дӱвырге¤</l>
+     <stg>
+       <st Contlex="DESCR_">дӱ•вырге¤</st>
+     </stg><stress>дӱ•вырге¤</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(heavy fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дӱвыр-р-рӱшт</l>
+     <stg>
+       <st Contlex="DESCR_">дӱ•выр-р-рӱшт</st>
+     </stg><stress>дӱ•выр-р-рӱшт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rumbling with a sudden end)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дӱл-дӱл</l>
+     <stg>
+       <st Contlex="DESCR_">дӱл-дӱл</st>
+     </stg><stress>дӱл-дӱл</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sky gradually growing lighter during sunrise)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дӱҥ</l>
+     <stg>
+       <st Contlex="DESCR_">дӱҥ</st>
+     </stg><stress>дӱҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(prolonged muffled sound after something is dropped or hit)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дӱп-дӱп</l>
+     <stg>
+       <st Contlex="DESCR_">дӱп-дӱп</st>
+     </stg><stress>дӱп-дӱп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(repeated muffled thud)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дӱр-дӱр</l>
+     <stg>
+       <st Contlex="DESCR_">дӱр-дӱр</st>
+     </stg><stress>дӱр-дӱр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound of thunder)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дыбе-дӧбӧ</l>
+     <stg>
+       <st Contlex="DESCR_">ды•бе-дӧ•бӧ</st>
+     </stg><stress>ды•бе-дӧ•бӧ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(running)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дыр-дыр-дыр</l>
+     <stg>
+       <st Contlex="DESCR_">дыр-дыр-дыр</st>
+     </stg><stress>дыр-дыр-дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(shivering, shaking, rattling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жыж-жыж-ж</l>
+     <stg>
+       <st Contlex="DESCR_">жыж-жыж-ж</st>
+     </stg><stress>жыж-жыж-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(buzzing insects)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">з-з-з</l>
+     <stg>
+       <st Contlex="DESCR_">з-з-з</st>
+     </stg><stress>з-з-з</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(buzzing of bees, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йовыж</l>
+     <stg>
+       <st Contlex="DESCR_">йо•выж</st>
+     </stg><stress>йо•выж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(inconspicuous, imperceptible activity)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йож-йож</l>
+     <stg>
+       <st Contlex="DESCR_">йож-йож</st>
+     </stg><stress>йож-йож</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(whistling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йолдыр</l>
+     <stg>
+       <st Contlex="DESCR_">йо•лдыр</st>
+     </stg><stress>йо•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound of a bell)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йолт</l>
+     <stg>
+       <st Contlex="DESCR_">йолт</st>
+     </stg><stress>йолт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(bright light, blaze); (rapid action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йолт-йолт</l>
+     <stg>
+       <st Contlex="DESCR_">йолт-йолт</st>
+     </stg><stress>йолт-йолт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(subtle movement, gentle movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йоҥ</l>
+     <stg>
+       <st Contlex="DESCR_">йоҥ</st>
+     </stg><stress>йоҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(ringing, muffled sound); completely, totally, utterly; {linguistics}voiced</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йоҥге¤</l>
+     <stg>
+       <st Contlex="DESCR_">йо•ҥге¤</st>
+     </stg><stress>йо•ҥге¤</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(ringing sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йоҥгыр</l>
+     <stg>
+       <st Contlex="DESCR_">йо•ҥгыр</st>
+     </stg><stress>йо•ҥгыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(ringing sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йоҥ-йоҥ</l>
+     <stg>
+       <st Contlex="DESCR_">йоҥ-йоҥ</st>
+     </stg><stress>йоҥ-йоҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(ringing sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йор-йор</l>
+     <stg>
+       <st Contlex="DESCR_">йор-йор</st>
+     </stg><stress>йор-йор</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(pouring water, gushing water)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йорт</l>
+     <stg>
+       <st Contlex="DESCR_">йорт</st>
+     </stg><stress>йорт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(abrupt change in a person's state of mind, etc.); (sharp, rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йоч</l>
+     <stg>
+       <st Contlex="DESCR_">йоч</st>
+     </stg><stress>йоч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp pain)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йоч-йоч</l>
+     <stg>
+       <st Contlex="DESCR_">йоч-йоч</st>
+     </stg><stress>йоч-йоч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden pain)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йочырге¤</l>
+     <stg>
+       <st Contlex="DESCR_">йо•чырге¤</st>
+     </stg><stress>йо•чырге¤</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(squeaking, creaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йоштырт-йоштырт</l>
+     <stg>
+       <st Contlex="DESCR_">йо•штырт-йо•штырт</st>
+     </stg><stress>йо•штырт-йо•штырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(snow crunching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыве-юво</l>
+     <stg>
+       <st Contlex="DESCR_">йы•ве-ю•во</st>
+     </stg><stress>йы•ве-ю•во</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(noiseless, imperceptible motion)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йывыж-йовыж</l>
+     <stg>
+       <st Contlex="DESCR_">йы•выж-йо•выж</st>
+     </stg><stress>йы•выж-йо•выж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йывыж-йывыж</l>
+     <stg>
+       <st Contlex="DESCR_">йы•выж-йы•выж</st>
+     </stg><stress>йы•выж-йы•выж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йывыж-ювыж</l>
+     <stg>
+       <st Contlex="DESCR_">йы•выж-ю•выж</st>
+     </stg><stress>йы•выж-ю•выж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыж</l>
+     <stg>
+       <st Contlex="DESCR_">йыж</st>
+     </stg><stress>йыж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(gentle sound of wind, breeze)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыж-выж</l>
+     <stg>
+       <st Contlex="DESCR_">йыж-выж</st>
+     </stg><stress>йыж-выж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something soft)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыжик-йожик</l>
+     <stg>
+       <st Contlex="DESCR_">йыжи•к-йожи•к</st>
+     </stg><stress>йыжи•к-йожи•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(whetting a scythe)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыж-йож</l>
+     <stg>
+       <st Contlex="DESCR_">йыж-йож</st>
+     </stg><stress>йыж-йож</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(mowing with a scythe)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыж-йыж</l>
+     <stg>
+       <st Contlex="DESCR_">йыж-йыж</st>
+     </stg><stress>йыж-йыж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(silent, imperceptible movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыжок</l>
+     <stg>
+       <st Contlex="DESCR_">йыжо•к</st>
+     </stg><stress>йыжо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a lash or whip)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыж-юж</l>
+     <stg>
+       <st Contlex="DESCR_">йыж-юж</st>
+     </stg><stress>йыж-юж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp, sudden movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыз</l>
+     <stg>
+       <st Contlex="DESCR_">йыз</st>
+     </stg><stress>йыз</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(smooth sliding movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыз-з</l>
+     <stg>
+       <st Contlex="DESCR_">йыз-з</st>
+     </stg><stress>йыз-з</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(smooth sliding movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыз-юз</l>
+     <stg>
+       <st Contlex="DESCR_">йыз-юз</st>
+     </stg><stress>йыз-юз</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slow movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йылде-йолдо</l>
+     <stg>
+       <st Contlex="DESCR_">йы•лде-йо•лдо</st>
+     </stg><stress>йы•лде-йо•лдо</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sparkling, bright shine); (rapid action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йылдыр</l>
+     <stg>
+       <st Contlex="DESCR_">йы•лдыр</st>
+     </stg><stress>йы•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(glass breaking); (sparkling, glittering, twinkling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йылдырге</l>
+     <stg>
+       <st Contlex="DESCR_">йы•лдырге</st>
+     </stg><stress>йы•лдырге</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>playfully, frivolously; smooth-tongued, flattering; (clatter of something falling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йылдырдок</l>
+     <stg>
+       <st Contlex="DESCR_">йылдырдо•к</st>
+     </stg><stress>йылдырдо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(amazement, fear)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йылдыр-йолдыр</l>
+     <stg>
+       <st Contlex="DESCR_">йы•лдыр-йо•лдыр</st>
+     </stg><stress>йы•лдыр-йо•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quick, interrupted shining)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йылдыр-йылдыр</l>
+     <stg>
+       <st Contlex="DESCR_">йы•лдыр-йы•лдыр</st>
+     </stg><stress>йы•лдыр-йы•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(water purling); (playful movement, light step); (kind words)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йылдыроҥ</l>
+     <stg>
+       <st Contlex="DESCR_">йылдыро•ҥ</st>
+     </stg><stress>йылдыро•ҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(glass breaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йылдырым-йылдырым</l>
+     <stg>
+       <st Contlex="DESCR_">йы•лдырым-йы•лдырым</st>
+     </stg><stress>йы•лдырым-йы•лдырым</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(smooth motion)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыли-юли</l>
+     <stg>
+       <st Contlex="DESCR_">йыли•-юли•</st>
+     </stg><stress>йыли•-юли•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sparkling, glittering, gleaming); faint, flickering</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыл-йол</l>
+     <stg>
+       <st Contlex="DESCR_">йыл-йол</st>
+     </stg><stress>йыл-йол</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quick, intermittent actions); (instantaneous action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыл-йыл</l>
+     <stg>
+       <st Contlex="DESCR_">йыл-йыл</st>
+     </stg><stress>йыл-йыл</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(weak shimmering, shining, glittering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йылт [2]</l>
+     <stg>
+       <st Contlex="DESCR_">йылт [2]</st>
+     </stg><stress>йылт [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(glittering, gleaming)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йылте-йолто</l>
+     <stg>
+       <st Contlex="DESCR_">йы•лте-йо•лто</st>
+     </stg><stress>йы•лте-йо•лто</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(flashing, shining)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йылт-йолт</l>
+     <stg>
+       <st Contlex="DESCR_">йылт-йолт</st>
+     </stg><stress>йылт-йолт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(flashing, shining - fire, lightning, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йылт-юлт</l>
+     <stg>
+       <st Contlex="DESCR_">йылт-юлт</st>
+     </stg><stress>йылт-юлт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(flashing, shining - fire, lightning, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыл-юл</l>
+     <stg>
+       <st Contlex="DESCR_">йыл-юл</st>
+     </stg><stress>йыл-юл</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>shining, glittering (fire, eyes)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыҥге-йоҥго</l>
+     <stg>
+       <st Contlex="DESCR_">йы•ҥге-йо•ҥго</st>
+     </stg><stress>йы•ҥге-йо•ҥго</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(ringing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыҥгыр-йоҥгыр</l>
+     <stg>
+       <st Contlex="DESCR_">йы•ҥгыр-йо•ҥгыр</st>
+     </stg><stress>йы•ҥгыр-йо•ҥгыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(ringing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыҥгыр-йыҥгыр</l>
+     <stg>
+       <st Contlex="DESCR_">йы•ҥгыр-йы•ҥгыр</st>
+     </stg><stress>йы•ҥгыр-йы•ҥгыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(ringing, tinkling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыҥ-йоҥ</l>
+     <stg>
+       <st Contlex="DESCR_">йыҥ-йоҥ</st>
+     </stg><stress>йыҥ-йоҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(ringing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыҥ-йыҥ</l>
+     <stg>
+       <st Contlex="DESCR_">йыҥ-йыҥ</st>
+     </stg><stress>йыҥ-йыҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(bell ringing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыпте-йопто</l>
+     <stg>
+       <st Contlex="DESCR_">йы•пте-йо•пто</st>
+     </stg><stress>йы•пте-йо•пто</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clumsy movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыптык-йоптык</l>
+     <stg>
+       <st Contlex="DESCR_">йы•птык-йо•птык</st>
+     </stg><stress>йы•птык-йо•птык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clumsy movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йырге-йорге¤</l>
+     <stg>
+       <st Contlex="DESCR_">йы•рге-йо•рге¤</st>
+     </stg><stress>йы•рге-йо•рге¤</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound of water purling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыр-йыр [2]</l>
+     <stg>
+       <st Contlex="DESCR_">йыр-йыр [2]</st>
+     </stg><stress>йыр-йыр [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(an abundant amount of tears)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йырк-юрк</l>
+     <stg>
+       <st Contlex="DESCR_">йырк-юрк</st>
+     </stg><stress>йырк-юрк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a hop)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыр-р</l>
+     <stg>
+       <st Contlex="DESCR_">йыр-р</st>
+     </stg><stress>йыр-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fluids flowing, draining)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йырт-юрт</l>
+     <stg>
+       <st Contlex="DESCR_">йырт-юрт</st>
+     </stg><stress>йырт-юрт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid, sudden movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыр-юр</l>
+     <stg>
+       <st Contlex="DESCR_">йыр-юр</st>
+     </stg><stress>йыр-юр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid, sudden movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыче-ючо</l>
+     <stg>
+       <st Contlex="DESCR_">йы•че-ю•чо</st>
+     </stg><stress>йы•че-ю•чо</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(worries)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йычи-вучи</l>
+     <stg>
+       <st Contlex="DESCR_">йычи•-вучи•</st>
+     </stg><stress>йычи•-вучи•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slow movement); (one at a time)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыч-йоч</l>
+     <stg>
+       <st Contlex="DESCR_">йыч-йоч</st>
+     </stg><stress>йыч-йоч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(unexpected fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыч-йыч</l>
+     <stg>
+       <st Contlex="DESCR_">йыч-йыч</st>
+     </stg><stress>йыч-йыч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hectic movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йычык-йочык</l>
+     <stg>
+       <st Contlex="DESCR_">йы•чык-йо•чык</st>
+     </stg><stress>йы•чык-йо•чык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunching, creaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йычыли-ючыли</l>
+     <stg>
+       <st Contlex="DESCR_">йычыли•-ючыли•</st>
+     </stg><stress>йычыли•-ючыли•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quiet rustling of leaves)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йычыл-ючыл</l>
+     <stg>
+       <st Contlex="DESCR_">йы•чыл-ю•чыл</st>
+     </stg><stress>йы•чыл-ю•чыл</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(idleness)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йычыл-ячыл</l>
+     <stg>
+       <st Contlex="DESCR_">йы•чыл-я•чыл</st>
+     </stg><stress>йы•чыл-я•чыл</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slow movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йычырик</l>
+     <stg>
+       <st Contlex="DESCR_">йычыри•к</st>
+     </stg><stress>йычыри•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creaking of doors, gates)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыч-юч</l>
+     <stg>
+       <st Contlex="DESCR_">йыч-юч</st>
+     </stg><stress>йыч-юч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp, hurried movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыште-вушто</l>
+     <stg>
+       <st Contlex="DESCR_">йы•ште-ву•што</st>
+     </stg><stress>йы•ште-ву•што</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(whispers)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йышт-йошт</l>
+     <stg>
+       <st Contlex="DESCR_">йышт-йошт</st>
+     </stg><stress>йышт-йошт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid, sharp movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йышт-юшт</l>
+     <stg>
+       <st Contlex="DESCR_">йышт-юшт</st>
+     </stg><stress>йышт-юшт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">калт-калт</l>
+     <stg>
+       <st Contlex="DESCR_">калт-калт</st>
+     </stg><stress>калт-калт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knocking sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кар-р</l>
+     <stg>
+       <st Contlex="DESCR_">кар-р</st>
+     </stg><stress>кар-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cawing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">карт-карт</l>
+     <stg>
+       <st Contlex="DESCR_">карт-карт</st>
+     </stg><stress>карт-карт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(scratching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кигик-когок</l>
+     <stg>
+       <st Contlex="DESCR_">киги•к-кого•к</st>
+     </stg><stress>киги•к-кого•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>honk-honk (sound geese make)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ковыж-ж-ж</l>
+     <stg>
+       <st Contlex="DESCR_">ковы•ж-ж-ж</st>
+     </stg><stress>ковы•ж-ж-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hair standing on end)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">когыльдок</l>
+     <stg>
+       <st Contlex="DESCR_">когыльдо•к</st>
+     </stg><stress>когыльдо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hardness, roughness)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кодыр-кодыр</l>
+     <stg>
+       <st Contlex="DESCR_">ко•дыр-ко•дыр</st>
+     </stg><stress>ко•дыр-ко•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(scratching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кож-гож</l>
+     <stg>
+       <st Contlex="DESCR_">кож-гож</st>
+     </stg><stress>кож-гож</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rustling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кож-ж-ж</l>
+     <stg>
+       <st Contlex="DESCR_">кож-ж-ж</st>
+     </stg><stress>кож-ж-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rustling); (heavy breathing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кожик-кожик</l>
+     <stg>
+       <st Contlex="DESCR_">кожи•к-кожи•к</st>
+     </stg><stress>кожи•к-кожи•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(shallow, irregular breathing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">колт</l>
+     <stg>
+       <st Contlex="DESCR_">колт</st>
+     </stg><stress>колт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(chopping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">колт-колт</l>
+     <stg>
+       <st Contlex="DESCR_">колт-колт</st>
+     </stg><stress>колт-колт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knock on a door, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">коҥ</l>
+     <stg>
+       <st Contlex="DESCR_">коҥ</st>
+     </stg><stress>коҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">коҥгыльдок</l>
+     <stg>
+       <st Contlex="DESCR_">коҥгыльдо•к</st>
+     </stg><stress>коҥгыльдо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid hardening)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">коҥ-коҥ</l>
+     <stg>
+       <st Contlex="DESCR_">коҥ-коҥ</st>
+     </stg><stress>коҥ-коҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(dull, muffled rattling, knocking); {ethnography}(simple string instrument)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">коҥ-коҥгок</l>
+     <stg>
+       <st Contlex="DESCR_">коҥ-коҥго•к</st>
+     </stg><stress>коҥ-коҥго•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(empty)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">коп</l>
+     <stg>
+       <st Contlex="DESCR_">коп</st>
+     </stg><stress>коп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something being grabbed quickly); (light thump made by small object falling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">коп-коп</l>
+     <stg>
+       <st Contlex="DESCR_">коп-коп</st>
+     </stg><stress>коп-коп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knocking of knuckles on board, shoes on floor, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">копток [1]</l>
+     <stg>
+       <st Contlex="DESCR_">копто•к [1]</st>
+     </stg><stress>копто•к [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(loud fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">коптырок</l>
+     <stg>
+       <st Contlex="DESCR_">коптыро•к</st>
+     </stg><stress>коптыро•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(plopping down)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">коптыр-р</l>
+     <stg>
+       <st Contlex="DESCR_">копты•р-р</st>
+     </stg><stress>копты•р-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(plopping down)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">копыжге¤</l>
+     <stg>
+       <st Contlex="DESCR_">ко•пыжге¤</st>
+     </stg><stress>ко•пыжге¤</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cold shiver)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">копыж-ж</l>
+     <stg>
+       <st Contlex="DESCR_">копы•ж-ж</st>
+     </stg><stress>копы•ж-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fear, quiet horror, disgust, coldness)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кор-гор-гор</l>
+     <stg>
+       <st Contlex="DESCR_">кор-гор-гор</st>
+     </stg><stress>кор-гор-гор</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rustling, scratching, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">корт [1]</l>
+     <stg>
+       <st Contlex="DESCR_">корт [1]</st>
+     </stg><stress>корт [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden grab, sudden grip)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">корт-корт</l>
+     <stg>
+       <st Contlex="DESCR_">корт-корт</st>
+     </stg><stress>корт-корт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp crunching, sharp crackling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кочыр</l>
+     <stg>
+       <st Contlex="DESCR_">ко•чыр</st>
+     </stg><stress>ко•чыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creaking, rubbing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кочырик</l>
+     <stg>
+       <st Contlex="DESCR_">кочыри•к</st>
+     </stg><stress>кочыри•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creaking, squeaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кочырт</l>
+     <stg>
+       <st Contlex="DESCR_">ко•чырт</st>
+     </stg><stress>ко•чырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cracking sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кошт</l>
+     <stg>
+       <st Contlex="DESCR_">кошт</st>
+     </stg><stress>кошт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(action carried out in a split second)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">коштыр</l>
+     <stg>
+       <st Contlex="DESCR_">ко•штыр</st>
+     </stg><stress>ко•штыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(squeaking, creaking, crunching, rustling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">крек</l>
+     <stg>
+       <st Contlex="DESCR_">крек</st>
+     </stg><stress>крек</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound made by hen)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кре-эк</l>
+     <stg>
+       <st Contlex="DESCR_">кре-эк</st>
+     </stg><stress>кре-эк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound made by hen)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">крлоп</l>
+     <stg>
+       <st Contlex="DESCR_">крлоп</st>
+     </stg><stress>крлоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(bang, blow)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">крлӱк-крлӱк</l>
+     <stg>
+       <st Contlex="DESCR_">крлӱк-крлӱк</st>
+     </stg><stress>крлӱк-крлӱк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rough cough, barking cough)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">крок</l>
+     <stg>
+       <st Contlex="DESCR_">крок</st>
+     </stg><stress>крок</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(snort, sharp cough)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кроп</l>
+     <stg>
+       <st Contlex="DESCR_">кроп</st>
+     </stg><stress>кроп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(noise lasting for a moment, fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">крӧк-крӧк</l>
+     <stg>
+       <st Contlex="DESCR_">крӧк-крӧк</st>
+     </stg><stress>крӧк-крӧк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a pig grunting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">крӱп</l>
+     <stg>
+       <st Contlex="DESCR_">крӱп</st>
+     </stg><stress>крӱп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>thud (something falling, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">куак</l>
+     <stg>
+       <st Contlex="DESCR_">куа•к</st>
+     </stg><stress>куа•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cawing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кудыр [2]</l>
+     <stg>
+       <st Contlex="DESCR_">ку•дыр [2]</st>
+     </stg><stress>ку•дыр [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound made by a black grouse); (rustling of grass, dry leaves, sand, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кудыр-годыр</l>
+     <stg>
+       <st Contlex="DESCR_">ку•дыр-го•дыр</st>
+     </stg><stress>ку•дыр-го•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кукареку-ку-у</l>
+     <stg>
+       <st Contlex="DESCR_">кукареку•-ку-у</st>
+     </stg><stress>кукареку•-ку-у</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>cock-a-doodle-doo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ку-кук</l>
+     <stg>
+       <st Contlex="DESCR_">ку-кук</st>
+     </stg><stress>ку-кук</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>cuckoo (a cuckoo's song)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">куньыр-куньыр</l>
+     <stg>
+       <st Contlex="DESCR_">ку•ньыр-ку•ньыр</st>
+     </stg><stress>ку•ньыр-ку•ньыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(awkward, clumsy movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">куп-коп</l>
+     <stg>
+       <st Contlex="DESCR_">куп-коп</st>
+     </stg><stress>куп-коп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(impact, clang, jingle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">куптык-коптык</l>
+     <stg>
+       <st Contlex="DESCR_">ку•птык-ко•птык</st>
+     </stg><stress>ку•птык-ко•птык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(awkward, clumsy)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">куптыр-коптыр</l>
+     <stg>
+       <st Contlex="DESCR_">ку•птыр-ко•птыр</st>
+     </stg><stress>ку•птыр-ко•птыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clumsy action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">курлык-курлык</l>
+     <stg>
+       <st Contlex="DESCR_">ку•рлык-ку•рлык</st>
+     </stg><stress>ку•рлык-ку•рлык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crane's call)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кутр-кутр</l>
+     <stg>
+       <st Contlex="DESCR_">кутр-кутр</st>
+     </stg><stress>кутр-кутр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunching of snow)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кучыри-кучыри</l>
+     <stg>
+       <st Contlex="DESCR_">кучыри•-кучыри•</st>
+     </stg><stress>кучыри•-кучыри•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunching, crackling, grinding)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кӱдӧ-гӱдӧ</l>
+     <stg>
+       <st Contlex="DESCR_">кӱ•дӧ-гӱ•дӧ</st>
+     </stg><stress>кӱ•дӧ-гӱ•дӧ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a crowd of people stomping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кӱкӱк [1]</l>
+     <stg>
+       <st Contlex="DESCR_">кӱкӱ•к [1]</st>
+     </stg><stress>кӱкӱ•к [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cry of a cuckoo)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кӱкӱрекрек</l>
+     <stg>
+       <st Contlex="DESCR_">кӱкӱрекре•к</st>
+     </stg><stress>кӱкӱрекре•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>cock-a-doodle-doo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кӱлдыр</l>
+     <stg>
+       <st Contlex="DESCR_">кӱ•лдыр</st>
+     </stg><stress>кӱ•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a metal object falling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кӱлдыр-гӧлдыр</l>
+     <stg>
+       <st Contlex="DESCR_">кӱ•лдыр-гӧ•лдыр</st>
+     </stg><stress>кӱ•лдыр-гӧ•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(metal objects clanking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кӱлт-кӱлт</l>
+     <stg>
+       <st Contlex="DESCR_">кӱлт-кӱлт</st>
+     </stg><stress>кӱлт-кӱлт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knocking, tapping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кӱр-р</l>
+     <stg>
+       <st Contlex="DESCR_">кӱр-р</st>
+     </stg><stress>кӱр-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rumbling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыве-ково</l>
+     <stg>
+       <st Contlex="DESCR_">кы•ве-ко•во</st>
+     </stg><stress>кы•ве-ко•во</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quick movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кывыж-говыж</l>
+     <stg>
+       <st Contlex="DESCR_">кы•выж-го•выж</st>
+     </stg><stress>кы•выж-го•выж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement that creates a noise)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кывыз-ковыз</l>
+     <stg>
+       <st Contlex="DESCR_">кы•выз-ко•выз</st>
+     </stg><stress>кы•выз-ко•выз</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slow movement of a large person)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кывыр-говыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•выр-го•выр</st>
+     </stg><stress>кы•выр-го•выр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кывыр-ковыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•выр-ко•выр</st>
+     </stg><stress>кы•выр-ко•выр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кывырт-ковырт</l>
+     <stg>
+       <st Contlex="DESCR_">кы•вырт-ко•вырт</st>
+     </stg><stress>кы•вырт-ко•вырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(large person falling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кывышт-ковышт</l>
+     <stg>
+       <st Contlex="DESCR_">кы•вышт-ко•вышт</st>
+     </stg><stress>кы•вышт-ко•вышт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(careful movements)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыгыр-кагыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•гыр-ка•гыр</st>
+     </stg><stress>кы•гыр-ка•гыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(turning)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыгыр-кугыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•гыр-ку•гыр</st>
+     </stg><stress>кы•гыр-ку•гыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(twisting and turning); serpentine, winding</t>
+     </tg>
+   </mg>
+</e><!-- comment >ad/de< -->
+<e>
+   <lg>
+     <l pos="Descr">кыде-годо</l>
+     <stg>
+       <st Contlex="DESCR_">кы•де-го•до</st>
+     </stg><stress>кы•де-го•до</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыдет-кыт-кыт</l>
+     <stg>
+       <st Contlex="DESCR_">кыде•т-кыт-кыт</st>
+     </stg><stress>кыде•т-кыт-кыт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a chicken clucking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыдыр-годыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•дыр-го•дыр</st>
+     </stg><stress>кы•дыр-го•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(swift and rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыдыр-кадыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•дыр-ка•дыр</st>
+     </stg><stress>кы•дыр-ка•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crookedly)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыдыр-кодыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•дыр-ко•дыр</st>
+     </stg><stress>кы•дыр-ко•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(swift and rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыдыр-кудыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•дыр-ку•дыр</st>
+     </stg><stress>кы•дыр-ку•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something crooked)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыдыр-кыдыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•дыр-кы•дыр</st>
+     </stg><stress>кы•дыр-кы•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(scratching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыж</l>
+     <stg>
+       <st Contlex="DESCR_">кыж</st>
+     </stg><stress>кыж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(silent, barely noticeable movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыж-гож</l>
+     <stg>
+       <st Contlex="DESCR_">кыж-гож</st>
+     </stg><stress>кыж-гож</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rustling, swift movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыжик-кожик</l>
+     <stg>
+       <st Contlex="DESCR_">кыжи•к-кожи•к</st>
+     </stg><stress>кыжи•к-кожи•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound of a scythe)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыж-кыж</l>
+     <stg>
+       <st Contlex="DESCR_">кыж-кыж</st>
+     </stg><stress>кыж-кыж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(muffled scratching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кылде-голдо</l>
+     <stg>
+       <st Contlex="DESCR_">кы•лде-го•лдо</st>
+     </stg><stress>кы•лде-го•лдо</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(muffled knocking, noise)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кылдыр-голдыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•лдыр-го•лдыр</st>
+     </stg><stress>кы•лдыр-го•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(muffled knocking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кылдырдик</l>
+     <stg>
+       <st Contlex="DESCR_">кылдырди•к</st>
+     </stg><stress>кылдырди•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(door creaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кылдырдок</l>
+     <stg>
+       <st Contlex="DESCR_">кылдырдо•к</st>
+     </stg><stress>кылдырдо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(plumping down)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кылдырым-кылдырым</l>
+     <stg>
+       <st Contlex="DESCR_">кы•лдырым-кы•лдырым</st>
+     </stg><stress>кы•лдырым-кы•лдырым</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(smooth movement, walking in a flirtatious manner); (sounds of a gusli)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кылтиҥ-кылтиҥ</l>
+     <stg>
+       <st Contlex="DESCR_">кылти•ҥ-кылти•ҥ</st>
+     </stg><stress>кылти•ҥ-кылти•ҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(strings of a gusli)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кылт-калт</l>
+     <stg>
+       <st Contlex="DESCR_">кылт-калт</st>
+     </stg><stress>кылт-калт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>tick tock (a watch, clock)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кылт-колт</l>
+     <stg>
+       <st Contlex="DESCR_">кылт-колт</st>
+     </stg><stress>кылт-колт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>tick tock (a watch, clock)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кылт-кылт</l>
+     <stg>
+       <st Contlex="DESCR_">кылт-кылт</st>
+     </stg><stress>кылт-кылт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knocking, rapping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кылток</l>
+     <stg>
+       <st Contlex="DESCR_">кылто•к</st>
+     </stg><stress>кылто•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(gulping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыльдыр-кыльдыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•льдыр-кы•льдыр</st>
+     </stg><stress>кы•льдыр-кы•льдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(flirtatious walking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыпте-копто</l>
+     <stg>
+       <st Contlex="DESCR_">кы•пте-ко•пто</st>
+     </stg><stress>кы•пте-ко•пто</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(awkward movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыптык-коптык</l>
+     <stg>
+       <st Contlex="DESCR_">кы•птык-ко•птык</st>
+     </stg><stress>кы•птык-ко•птык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(awkward movement, clumsy movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыптырге</l>
+     <stg>
+       <st Contlex="DESCR_">кы•птырге</st>
+     </stg><stress>кы•птырге</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clumsy fall, awkward fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыптырдик</l>
+     <stg>
+       <st Contlex="DESCR_">кыптырди•к</st>
+     </stg><stress>кыптырди•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыптыр-коптыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•птыр-ко•птыр</st>
+     </stg><stress>кы•птыр-ко•птыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fat person walking slowly, waddling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кырве-корво</l>
+     <stg>
+       <st Contlex="DESCR_">кы•рве-ко•рво</st>
+     </stg><stress>кы•рве-ко•рво</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(panting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыр-гор</l>
+     <stg>
+       <st Contlex="DESCR_">кыр-гор</st>
+     </stg><stress>кыр-гор</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(scratching sounds, rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыр-гыр</l>
+     <stg>
+       <st Contlex="DESCR_">кыр-гыр</st>
+     </stg><stress>кыр-гыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(scratching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кырлоп</l>
+     <stg>
+       <st Contlex="DESCR_">кырло•п</st>
+     </stg><stress>кырло•п</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(e.g., fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кырлӱк</l>
+     <stg>
+       <st Contlex="DESCR_">кырлӱ•к</st>
+     </stg><stress>кырлӱ•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rough cough, barking cough)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кырлӱк-кырлӱк</l>
+     <stg>
+       <st Contlex="DESCR_">кырлӱ•к-кырлӱ•к</st>
+     </stg><stress>кырлӱ•к-кырлӱ•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rough cough, barking cough)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кырт-карт</l>
+     <stg>
+       <st Contlex="DESCR_">кырт-карт</st>
+     </stg><stress>кырт-карт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(scratching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кырт-корт</l>
+     <stg>
+       <st Contlex="DESCR_">кырт-корт</st>
+     </stg><stress>кырт-корт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quick and agile movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кырт-кырт</l>
+     <stg>
+       <st Contlex="DESCR_">кырт-кырт</st>
+     </stg><stress>кырт-кырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>barely, just barely; almost, nearly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кырык-кырык</l>
+     <stg>
+       <st Contlex="DESCR_">кы•рык-кы•рык</st>
+     </stg><stress>кы•рык-кы•рык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound made by woodpecker)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кытыр-котыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•тыр-ко•тыр</st>
+     </stg><stress>кы•тыр-ко•тыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(scratching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыч-куч</l>
+     <stg>
+       <st Contlex="DESCR_">кыч-куч</st>
+     </stg><stress>кыч-куч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quick movements)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кычыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•чыр</st>
+     </stg><stress>кы•чыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creaking of doors, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кычырик</l>
+     <stg>
+       <st Contlex="DESCR_">кычыри•к</st>
+     </stg><stress>кычыри•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp creak)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кычыр-кочыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•чыр-ко•чыр</st>
+     </stg><stress>кы•чыр-ко•чыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кышт-кошт</l>
+     <stg>
+       <st Contlex="DESCR_">кышт-кошт</st>
+     </stg><stress>кышт-кошт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quiet rustling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кышт-кышт</l>
+     <stg>
+       <st Contlex="DESCR_">кышт-кышт</st>
+     </stg><stress>кышт-кышт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quiet movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыштыр-коштыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•штыр-ко•штыр</st>
+     </stg><stress>кы•штыр-ко•штыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rustling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыштыр-кыштыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•штыр-кы•штыр</st>
+     </stg><stress>кы•штыр-кы•штыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лай-луй</l>
+     <stg>
+       <st Contlex="DESCR_">лай-луй</st>
+     </stg><stress>лай-луй</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(smooth motion)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лап [2]</l>
+     <stg>
+       <st Contlex="DESCR_">лап [2]</st>
+     </stg><stress>лап [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(falling, hit, bang, splash)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ларк-ларк</l>
+     <stg>
+       <st Contlex="DESCR_">ларк-ларк</st>
+     </stg><stress>ларк-ларк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound made by a number of birds)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ларт-ларт</l>
+     <stg>
+       <st Contlex="DESCR_">ларт-ларт</st>
+     </stg><stress>ларт-ларт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quacking of ducks)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лат-лат-лат</l>
+     <stg>
+       <st Contlex="DESCR_">лат-лат-лат</st>
+     </stg><stress>лат-лат-лат</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>hah-hah-hah (laughter)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лач-лач</l>
+     <stg>
+       <st Contlex="DESCR_">лач-лач</st>
+     </stg><stress>лач-лач</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(champing, popping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лодо-лодо</l>
+     <stg>
+       <st Contlex="DESCR_">ло•до-ло•до</st>
+     </stg><stress>ло•до-ло•до</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(loud and animated discussion)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лож-ж</l>
+     <stg>
+       <st Contlex="DESCR_">лож-ж</st>
+     </stg><stress>лож-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rain)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лозыр-лозыр</l>
+     <stg>
+       <st Contlex="DESCR_">ло•зыр-ло•зыр</st>
+     </stg><stress>ло•зыр-ло•зыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(smacking of lips, kneading, mashing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лой</l>
+     <stg>
+       <st Contlex="DESCR_">лой</st>
+     </stg><stress>лой</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(soft and smooth descent, landing, movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лойык-лойык</l>
+     <stg>
+       <st Contlex="DESCR_">ло•йык-ло•йык</st>
+     </stg><stress>ло•йык-ло•йык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(shaking, juddering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лоп [2]</l>
+     <stg>
+       <st Contlex="DESCR_">лоп [2]</st>
+     </stg><stress>лоп [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clap, slap, hit, bang)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лоп-лоп</l>
+     <stg>
+       <st Contlex="DESCR_">лоп-лоп</st>
+     </stg><stress>лоп-лоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clap, slap, stroke)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лоптык-лоптык</l>
+     <stg>
+       <st Contlex="DESCR_">ло•птык-ло•птык</st>
+     </stg><stress>ло•птык-ло•птык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(mixing, e.g., of dough)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лоптырдик</l>
+     <stg>
+       <st Contlex="DESCR_">лоптырди•к</st>
+     </stg><stress>лоптырди•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(stepping through liquid, mud, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лор-лор</l>
+     <stg>
+       <st Contlex="DESCR_">лор-лор</st>
+     </stg><stress>лор-лор</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hoarse laughter, loud laughter); (boiling, bubbling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лорок-лорок</l>
+     <stg>
+       <st Contlex="DESCR_">лоро•к-лоро•к</st>
+     </stg><stress>лоро•к-лоро•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hoarse cry, croaking of frogs)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лот-лот</l>
+     <stg>
+       <st Contlex="DESCR_">лот-лот</st>
+     </stg><stress>лот-лот</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(booming laughter, loud and prolonged laughter); (rattling, rumbling, e.g., of a car, wagon)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лотырт</l>
+     <stg>
+       <st Contlex="DESCR_">лоты•рт</st>
+     </stg><stress>лоты•рт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunching, crackling, crushing, sound of flattening something)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лоч</l>
+     <stg>
+       <st Contlex="DESCR_">лоч</st>
+     </stg><stress>лоч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hit, crash, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лоч-лоч</l>
+     <stg>
+       <st Contlex="DESCR_">лоч-лоч</st>
+     </stg><stress>лоч-лоч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hit, noise)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лочо-лочо</l>
+     <stg>
+       <st Contlex="DESCR_">ло•чо-ло•чо</st>
+     </stg><stress>ло•чо-ло•чо</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(difficulty)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лӧж-лӧж</l>
+     <stg>
+       <st Contlex="DESCR_">лӧж-лӧж</st>
+     </stg><stress>лӧж-лӧж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rustling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лӧч-лӧч</l>
+     <stg>
+       <st Contlex="DESCR_">лӧч-лӧч</st>
+     </stg><stress>лӧч-лӧч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clap, hit)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лучи-лучик</l>
+     <stg>
+       <st Contlex="DESCR_">лучи•-лучи•к</st>
+     </stg><stress>лучи•-лучи•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(squeaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лӱч</l>
+     <stg>
+       <st Contlex="DESCR_">лӱч</st>
+     </stg><stress>лӱч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>bang (sound of a gunshot)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лӱч-лӱч</l>
+     <stg>
+       <st Contlex="DESCR_">лӱч-лӱч</st>
+     </stg><stress>лӱч-лӱч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hits, shots, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыбе-лобо</l>
+     <stg>
+       <st Contlex="DESCR_">лы•бе-ло•бо</st>
+     </stg><stress>лы•бе-ло•бо</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(noise, sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыбе-лыбе</l>
+     <stg>
+       <st Contlex="DESCR_">лы•бе-лы•бе</st>
+     </stg><stress>лы•бе-лы•бе</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(trembling, shaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыб-лыб</l>
+     <stg>
+       <st Contlex="DESCR_">лыб-лыб</st>
+     </stg><stress>лыб-лыб</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(trembling, gentle shaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыве-лово</l>
+     <stg>
+       <st Contlex="DESCR_">лы•ве-ло•во</st>
+     </stg><stress>лы•ве-ло•во</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a large bird taking flight)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыве-лыве</l>
+     <stg>
+       <st Contlex="DESCR_">лы•ве-лы•ве</st>
+     </stg><stress>лы•ве-лы•ве</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(trembling); gently, tenderly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лывык-ловык</l>
+     <stg>
+       <st Contlex="DESCR_">лы•вык-ло•вык</st>
+     </stg><stress>лы•вык-ло•вык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fluttering, waving, swaying)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лывыр-ловыр</l>
+     <stg>
+       <st Contlex="DESCR_">лы•выр-ло•выр</st>
+     </stg><stress>лы•выр-ло•выр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(walking in something liquid, on something unfirm)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыге-лыге</l>
+     <stg>
+       <st Contlex="DESCR_">лы•ге-лы•ге</st>
+     </stg><stress>лы•ге-лы•ге</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(weak noise, rustling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыдык-ладык</l>
+     <stg>
+       <st Contlex="DESCR_">лы•дык-ла•дык</st>
+     </stg><stress>лы•дык-ла•дык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(waddling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыдык-лодык</l>
+     <stg>
+       <st Contlex="DESCR_">лы•дык-ло•дык</st>
+     </stg><stress>лы•дык-ло•дык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clumsy movement, awkward movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыдырик</l>
+     <stg>
+       <st Contlex="DESCR_">лыдыри•к</st>
+     </stg><stress>лыдыри•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыдыр-ладыр</l>
+     <stg>
+       <st Contlex="DESCR_">лы•дыр-ла•дыр</st>
+     </stg><stress>лы•дыр-ла•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slow movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыдыр-лодыр</l>
+     <stg>
+       <st Contlex="DESCR_">лы•дыр-ло•дыр</st>
+     </stg><stress>лы•дыр-ло•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slow movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыдырт</l>
+     <stg>
+       <st Contlex="DESCR_">лы•дырт</st>
+     </stg><stress>лы•дырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(bent over)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыж(-ж)</l>
+     <stg>
+       <st Contlex="DESCR_">лыж(-ж)</st>
+     </stg><stress>лыж(-ж)</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(peace, tranquillity); (feeling of weakness, powerlessness); (weak noise, rustling); quiet, calm, gentle, light</t>
+     </tg>
+   </mg>
+</e><!-- comment >ad/de< -->
+<e>
+   <lg>
+     <l pos="Descr">лыж-ж</l>
+     <stg>
+       <st Contlex="DESCR_">лыж-ж</st>
+     </stg><stress>лыж-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыж-лож</l>
+     <stg>
+       <st Contlex="DESCR_">лыж-лож</st>
+     </stg><stress>лыж-лож</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clumsy, awkward activity)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыж-луж</l>
+     <stg>
+       <st Contlex="DESCR_">лыж-луж</st>
+     </stg><stress>лыж-луж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sprawling, spreading)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыж-лыж</l>
+     <stg>
+       <st Contlex="DESCR_">лыж-лыж</st>
+     </stg><stress>лыж-лыж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rustling, smooth motion, gentle motion)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыз-лоз</l>
+     <stg>
+       <st Contlex="DESCR_">лыз-лоз</st>
+     </stg><stress>лыз-лоз</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something shaggy)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лызыр-лозыр</l>
+     <stg>
+       <st Contlex="DESCR_">лы•зыр-ло•зыр</st>
+     </stg><stress>лы•зыр-ло•зыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sloshing of mud, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лый-лай</l>
+     <stg>
+       <st Contlex="DESCR_">лый-лай</st>
+     </stg><stress>лый-лай</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(gentle, smooth movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лый-лой</l>
+     <stg>
+       <st Contlex="DESCR_">лый-лой</st>
+     </stg><stress>лый-лой</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(swaying, swinging, rocking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лый-луй</l>
+     <stg>
+       <st Contlex="DESCR_">лый-луй</st>
+     </stg><stress>лый-луй</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quick disappearance)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лый-лый</l>
+     <stg>
+       <st Contlex="DESCR_">лый-лый</st>
+     </stg><stress>лый-лый</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(smooth, gentle motion)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыйык-лайык</l>
+     <stg>
+       <st Contlex="DESCR_">лы•йык-ла•йык</st>
+     </stg><stress>лы•йык-ла•йык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slow and regular motion)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыйык-лыйык</l>
+     <stg>
+       <st Contlex="DESCR_">лы•йык-лы•йык</st>
+     </stg><stress>лы•йык-лы•йык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(jumping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лык-лык</l>
+     <stg>
+       <st Contlex="DESCR_">лык-лык</st>
+     </stg><stress>лык-лык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cheerful laughter)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыҥге-лоҥго</l>
+     <stg>
+       <st Contlex="DESCR_">лы•ҥге-ло•ҥго</st>
+     </stg><stress>лы•ҥге-ло•ҥго</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(movement up and down); (thinness of clouds, fogs, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыпе-лопо</l>
+     <stg>
+       <st Contlex="DESCR_">лы•пе-ло•по</st>
+     </stg><stress>лы•пе-ло•по</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(wings flapping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лып-лоп</l>
+     <stg>
+       <st Contlex="DESCR_">лып-лоп</st>
+     </stg><stress>лып-лоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>anyhow, slapdash, in a slipshod way</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лып-лып</l>
+     <stg>
+       <st Contlex="DESCR_">лып-лып</st>
+     </stg><stress>лып-лып</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(weak movement, slow movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыпте-лопто</l>
+     <stg>
+       <st Contlex="DESCR_">лы•пте-ло•пто</st>
+     </stg><stress>лы•пте-ло•пто</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(flapping of wings, clumsy and awkard movements)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыпте-лыпте</l>
+     <stg>
+       <st Contlex="DESCR_">лы•пте-лы•пте</st>
+     </stg><stress>лы•пте-лы•пте</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clouds gathering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыпти-лопти</l>
+     <stg>
+       <st Contlex="DESCR_">лыпти•-лопти•</st>
+     </stg><stress>лыпти•-лопти•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(carelessness, casualness)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыр-лор</l>
+     <stg>
+       <st Contlex="DESCR_">лыр-лор</st>
+     </stg><stress>лыр-лор</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(water flowing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыр-лыр</l>
+     <stg>
+       <st Contlex="DESCR_">лыр-лыр</st>
+     </stg><stress>лыр-лыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(water flowing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыртык-лартык</l>
+     <stg>
+       <st Contlex="DESCR_">лы•ртык-ла•ртык</st>
+     </stg><stress>лы•ртык-ла•ртык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(whining)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыт-лыт-лыт</l>
+     <stg>
+       <st Contlex="DESCR_">лыт-лыт-лыт</st>
+     </stg><stress>лыт-лыт-лыт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rippling laughter)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыче-лочо</l>
+     <stg>
+       <st Contlex="DESCR_">лы•че-ло•чо</st>
+     </stg><stress>лы•че-ло•чо</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crackling, crunching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыч-лоч</l>
+     <stg>
+       <st Contlex="DESCR_">лыч-лоч</st>
+     </stg><stress>лыч-лоч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crackling, crunching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыч-лӱч</l>
+     <stg>
+       <st Contlex="DESCR_">лыч-лӱч</st>
+     </stg><stress>лыч-лӱч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(gunfire, explosions)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лычок</l>
+     <stg>
+       <st Contlex="DESCR_">лычо•к</st>
+     </stg><stress>лычо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hitting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лычыр-лочыр</l>
+     <stg>
+       <st Contlex="DESCR_">лы•чыр-ло•чыр</st>
+     </stg><stress>лы•чыр-ло•чыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clumsy movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лышт-лышт</l>
+     <stg>
+       <st Contlex="DESCR_">лышт-лышт</st>
+     </stg><stress>лышт-лышт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slow movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лыштыр-лӱштыр</l>
+     <stg>
+       <st Contlex="DESCR_">лы•штыр-лӱ•штыр</st>
+     </stg><stress>лы•штыр-лӱ•штыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(spreading tree, branchy tree)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">льоп</l>
+     <stg>
+       <st Contlex="DESCR_">льоп</st>
+     </stg><stress>льоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">льоп-льоп</l>
+     <stg>
+       <st Contlex="DESCR_">льоп-льоп</st>
+     </stg><stress>льоп-льоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sloshing of water, mud)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">льызыр-льозыр</l>
+     <stg>
+       <st Contlex="DESCR_">льы•зыр-льо•зыр</st>
+     </stg><stress>льы•зыр-льо•зыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(water squelching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">льып [1]</l>
+     <stg>
+       <st Contlex="DESCR_">льып [1]</st>
+     </stg><stress>льып [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden rapid sinking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">льып-ляп</l>
+     <stg>
+       <st Contlex="DESCR_">льып-ляп</st>
+     </stg><stress>льып-ляп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>a little bit, slightly, a bit (washing, rinsing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">льыптырик-льыптырик</l>
+     <stg>
+       <st Contlex="DESCR_">льыптыри•к-льыптыри•к</st>
+     </stg><stress>льыптыри•к-льыптыри•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(jumping, skipping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">льыр-льыр</l>
+     <stg>
+       <st Contlex="DESCR_">льыр-льыр</st>
+     </stg><stress>льыр-льыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(flowing, murmuring)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">люрге</l>
+     <stg>
+       <st Contlex="DESCR_">лю•рге</st>
+     </stg><stress>лю•рге</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sobbing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">люр-люр</l>
+     <stg>
+       <st Contlex="DESCR_">люр-люр</st>
+     </stg><stress>люр-люр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(group of people laughing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мыге-муго</l>
+     <stg>
+       <st Contlex="DESCR_">мы•ге-му•го</st>
+     </stg><stress>мы•ге-му•го</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>vaguely, quietly, indistinctly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мыгылдык</l>
+     <stg>
+       <st Contlex="DESCR_">мы•гылдык</st>
+     </stg><stress>мы•гылдык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(looking confused)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мыгыль-мугыль</l>
+     <stg>
+       <st Contlex="DESCR_">мы•гыль-му•гыль</st>
+     </stg><stress>мы•гыль-му•гыль</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something unclear, hard to distinguish); disorderedly, in confusion (clouds)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мызыр-музыр</l>
+     <stg>
+       <st Contlex="DESCR_">мы•зыр-му•зыр</st>
+     </stg><stress>мы•зыр-му•зыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slow movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мык-мок</l>
+     <stg>
+       <st Contlex="DESCR_">мык-мок</st>
+     </stg><stress>мык-мок</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(stammering, faltering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мык-мук</l>
+     <stg>
+       <st Contlex="DESCR_">мык-мук</st>
+     </stg><stress>мык-мук</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(stammering, faltering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мыль-муль</l>
+     <stg>
+       <st Contlex="DESCR_">мыль-муль</st>
+     </stg><stress>мыль-муль</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(unclear or fuzzy sight)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мыньык-муньык</l>
+     <stg>
+       <st Contlex="DESCR_">мы•ньык-му•ньык</st>
+     </stg><stress>мы•ньык-му•ньык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(trembling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мыньык-мыньык</l>
+     <stg>
+       <st Contlex="DESCR_">мы•ньык-мы•ньык</st>
+     </stg><stress>мы•ньык-мы•ньык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(shaking movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мыр-мыр</l>
+     <stg>
+       <st Contlex="DESCR_">мыр-мыр</st>
+     </stg><stress>мыр-мыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a cat purring)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мырт-мырт</l>
+     <stg>
+       <st Contlex="DESCR_">мырт-мырт</st>
+     </stg><stress>мырт-мырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(waddling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мяу</l>
+     <stg>
+       <st Contlex="DESCR_">мяу•</st>
+     </stg><stress>мяу•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>meow</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ньорик-ньорик</l>
+     <stg>
+       <st Contlex="DESCR_">ньори•к-ньори•к</st>
+     </stg><stress>ньори•к-ньори•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(blowing one's nose loudly)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ньыге-нюго</l>
+     <stg>
+       <st Contlex="DESCR_">ньы•ге-ню•го</st>
+     </stg><stress>ньы•ге-ню•го</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ньыз-нюз</l>
+     <stg>
+       <st Contlex="DESCR_">ньыз-нюз</st>
+     </stg><stress>ньыз-нюз</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(silently, without being noticed)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ньымыр-нямыр</l>
+     <stg>
+       <st Contlex="DESCR_">ньы•мыр-ня•мыр</st>
+     </stg><stress>ньы•мыр-ня•мыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(weak, flabby, watery, jelly-like)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ньырик-ньорик</l>
+     <stg>
+       <st Contlex="DESCR_">ньыри•к-ньори•к</st>
+     </stg><stress>ньыри•к-ньори•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(playing the accordion poorly)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">нюрк-нюрк</l>
+     <stg>
+       <st Contlex="DESCR_">нюрк-нюрк</st>
+     </stg><stress>нюрк-нюрк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cautious movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пжик</l>
+     <stg>
+       <st Contlex="DESCR_">пжик</st>
+     </stg><stress>пжик</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid execution of an action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пзльоп</l>
+     <stg>
+       <st Contlex="DESCR_">пзльоп</st>
+     </stg><stress>пзльоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clumsy fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">подыге¤</l>
+     <stg>
+       <st Contlex="DESCR_">по•дыге¤</st>
+     </stg><stress>по•дыге¤</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(large drops of water falling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">полт</l>
+     <stg>
+       <st Contlex="DESCR_">полт</st>
+     </stg><stress>полт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(small objects falling or water dripping); (instantaneous, momentary action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">поҥ-ҥ</l>
+     <stg>
+       <st Contlex="DESCR_">поҥ-ҥ</st>
+     </stg><stress>поҥ-ҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(headache, buzzing in one's head); (hit against a hollow or porous object)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">порт [2]</l>
+     <stg>
+       <st Contlex="DESCR_">порт [2]</st>
+     </stg><stress>порт [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid motion, e.g., of a glance)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пӧк-пӧк</l>
+     <stg>
+       <st Contlex="DESCR_">пӧк-пӧк</st>
+     </stg><stress>пӧк-пӧк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(inhalation and exhalation of tobacco smoke)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пӧлтӧк</l>
+     <stg>
+       <st Contlex="DESCR_">пӧлтӧ•к</st>
+     </stg><stress>пӧлтӧ•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden abrupt action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пӧш</l>
+     <stg>
+       <st Contlex="DESCR_">пӧш</st>
+     </stg><stress>пӧш</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(walking through deep snow)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пӧшт</l>
+     <stg>
+       <st Contlex="DESCR_">пӧшт</st>
+     </stg><stress>пӧшт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(walking through deep snow)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">псльоп</l>
+     <stg>
+       <st Contlex="DESCR_">псльоп</st>
+     </stg><stress>псльоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>splash</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">птлоч</l>
+     <stg>
+       <st Contlex="DESCR_">птлоч</st>
+     </stg><stress>птлоч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound of a shot, explosion)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пужик-пужик</l>
+     <stg>
+       <st Contlex="DESCR_">пужи•к-пужи•к</st>
+     </stg><stress>пужи•к-пужи•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(things being thrown up in the air)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пук</l>
+     <stg>
+       <st Contlex="DESCR_">пук</st>
+     </stg><stress>пук</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(release of air, gas or smoke, e.g., when smoking a pipe)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пулдыр-пулдыр</l>
+     <stg>
+       <st Contlex="DESCR_">пу•лдыр-пу•лдыр</st>
+     </stg><stress>пу•лдыр-пу•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(e.g., something hot being dropped into water)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пулт</l>
+     <stg>
+       <st Contlex="DESCR_">пулт</st>
+     </stg><stress>пулт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden rapid appearance or disappearance)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пуль</l>
+     <stg>
+       <st Contlex="DESCR_">пуль</st>
+     </stg><stress>пуль</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(small forward lip movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пульдыр</l>
+     <stg>
+       <st Contlex="DESCR_">пу•льдыр</st>
+     </stg><stress>пу•льдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(smug smile)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пульт [2]</l>
+     <stg>
+       <st Contlex="DESCR_">пульт [2]</st>
+     </stg><stress>пульт [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid appearance or disappearance)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пульт-пульдырик</l>
+     <stg>
+       <st Contlex="DESCR_">пульт-пульдыри•к</st>
+     </stg><stress>пульт-пульдыри•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quail's cry)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пульт-пульт</l>
+     <stg>
+       <st Contlex="DESCR_">пульт-пульт</st>
+     </stg><stress>пульт-пульт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(disappearance)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пультык</l>
+     <stg>
+       <st Contlex="DESCR_">пу•льтык</st>
+     </stg><stress>пу•льтык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid complete disappearance)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пурт</l>
+     <stg>
+       <st Contlex="DESCR_">пурт</st>
+     </stg><stress>пурт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp movement, sudden display of emotion, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пусту-пусту</l>
+     <stg>
+       <st Contlex="DESCR_">пусту•-пусту•</st>
+     </stg><stress>пусту•-пусту•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(lisping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пут-пульдырик</l>
+     <stg>
+       <st Contlex="DESCR_">пут-пульдыри•к</st>
+     </stg><stress>пут-пульдыри•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a cry of a quail)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пучук</l>
+     <stg>
+       <st Contlex="DESCR_">пучу•к</st>
+     </stg><stress>пучу•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>thud!, plonk! (a fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пучыр-почыр</l>
+     <stg>
+       <st Contlex="DESCR_">пу•чыр-по•чыр</st>
+     </stg><stress>пу•чыр-по•чыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slovenly and untidy appeartance); terry</t>
+     </tg>
+   </mg>
+</e><!-- comment >ad/de< -->
+<e>
+   <lg>
+     <l pos="Descr">пуш-пуш</l>
+     <stg>
+       <st Contlex="DESCR_">пуш-пуш</st>
+     </stg><stress>пуш-пуш</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(emission of air, gas or steam)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пушт-пушт</l>
+     <stg>
+       <st Contlex="DESCR_">пушт-пушт</st>
+     </stg><stress>пушт-пушт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cooking porridge, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пӱж-пӱж</l>
+     <stg>
+       <st Contlex="DESCR_">пӱж-пӱж</st>
+     </stg><stress>пӱж-пӱж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(heavy breathing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыгыльым-пыгыльым</l>
+     <stg>
+       <st Contlex="DESCR_">пы•гыльым-пы•гыльым</st>
+     </stg><stress>пы•гыльым-пы•гыльым</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(awl making birch bark shoes)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыде-подо</l>
+     <stg>
+       <st Contlex="DESCR_">пы•де-по•до</st>
+     </stg><stress>пы•де-по•до</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(abrupt and muffled hits, falls)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыдыр-пыдыр</l>
+     <stg>
+       <st Contlex="DESCR_">пы•дыр-пы•дыр</st>
+     </stg><stress>пы•дыр-пы•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(small and frequent)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыж</l>
+     <stg>
+       <st Contlex="DESCR_">пыж</st>
+     </stg><stress>пыж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(matches being lit)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыж-пож</l>
+     <stg>
+       <st Contlex="DESCR_">пыж-пож</st>
+     </stg><stress>пыж-пож</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(heavy breathing, panting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пызгӱп</l>
+     <stg>
+       <st Contlex="DESCR_">пызгӱ•п</st>
+     </stg><stress>пызгӱ•п</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clumsy fall, plop)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пызльоп</l>
+     <stg>
+       <st Contlex="DESCR_">пызльо•п</st>
+     </stg><stress>пызльо•п</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(soft fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыз-пыз</l>
+     <stg>
+       <st Contlex="DESCR_">пыз-пыз</st>
+     </stg><stress>пыз-пыз</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rolling felt)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пый-й-й</l>
+     <stg>
+       <st Contlex="DESCR_">пый-й-й</st>
+     </stg><stress>пый-й-й</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(insects humming, buzzing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пый-пый</l>
+     <stg>
+       <st Contlex="DESCR_">пый-пый</st>
+     </stg><stress>пый-пый</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(wood creaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пык-пок</l>
+     <stg>
+       <st Contlex="DESCR_">пык-пок</st>
+     </stg><stress>пык-пок</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(puffing at a cigarette, drawing at a cigarette)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пылде-полдо</l>
+     <stg>
+       <st Contlex="DESCR_">пы•лде-по•лдо</st>
+     </stg><stress>пы•лде-по•лдо</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(muffled repeated thumps, e.g., from something falling); (rapid momentary movement); muddle-headed, light-headed, thoughtless; muddle-headedly, thoughtlessly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пылдыр-полдыр</l>
+     <stg>
+       <st Contlex="DESCR_">пы•лдыр-по•лдыр</st>
+     </stg><stress>пы•лдыр-по•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something falling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пылик-полык</l>
+     <stg>
+       <st Contlex="DESCR_">пы•лик-по•лык</st>
+     </stg><stress>пы•лик-по•лык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(flickering object)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыл-пул</l>
+     <stg>
+       <st Contlex="DESCR_">пыл-пул</st>
+     </stg><stress>пыл-пул</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(awkward and clumsy movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пылтик</l>
+     <stg>
+       <st Contlex="DESCR_">пылти•к</st>
+     </stg><stress>пылти•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid disappearance); float, fishing float</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пылтик-пылтик</l>
+     <stg>
+       <st Contlex="DESCR_">пылти•к-пылти•к</st>
+     </stg><stress>пылти•к-пылти•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(pumping, pulse)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пылт-палт</l>
+     <stg>
+       <st Contlex="DESCR_">пылт-палт</st>
+     </stg><stress>пылт-палт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(irregular flickering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пылт-полт</l>
+     <stg>
+       <st Contlex="DESCR_">пылт-полт</st>
+     </stg><stress>пылт-полт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(dull fall, liquids dripping); (uneven movement, irregular flickering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пылт-пулт</l>
+     <stg>
+       <st Contlex="DESCR_">пылт-пулт</st>
+     </stg><stress>пылт-пулт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(things disappearing one after another)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пылт-пылт</l>
+     <stg>
+       <st Contlex="DESCR_">пылт-пылт</st>
+     </stg><stress>пылт-пылт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(exhaling smoke, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пылтым-пылтым</l>
+     <stg>
+       <st Contlex="DESCR_">пы•лтым-пы•лтым</st>
+     </stg><stress>пы•лтым-пы•лтым</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(uneven movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пылтыҥ-пылтыҥ</l>
+     <stg>
+       <st Contlex="DESCR_">пы•лтыҥ-пы•лтыҥ</st>
+     </stg><stress>пы•лтыҥ-пы•лтыҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(uneven movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пылык-полык</l>
+     <stg>
+       <st Contlex="DESCR_">пы•лык-по•лык</st>
+     </stg><stress>пы•лык-по•лык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(flickering objects that appear and disappear)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыль</l>
+     <stg>
+       <st Contlex="DESCR_">пыль</st>
+     </stg><stress>пыль</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(smiling, implies flattery)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыль-воль</l>
+     <stg>
+       <st Contlex="DESCR_">пыль-воль</st>
+     </stg><stress>пыль-воль</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыльдыр</l>
+     <stg>
+       <st Contlex="DESCR_">пы•льдыр</st>
+     </stg><stress>пы•льдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(discreet smile)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыльдырым-пыльдырым</l>
+     <stg>
+       <st Contlex="DESCR_">пы•льдырым-пы•льдырым</st>
+     </stg><stress>пы•льдырым-пы•льдырым</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(small jumps)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыльти-польти</l>
+     <stg>
+       <st Contlex="DESCR_">пыльти•-польти•</st>
+     </stg><stress>пыльти•-польти•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rhythmic beats)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыльт-льоп</l>
+     <stg>
+       <st Contlex="DESCR_">пыльт-льоп</st>
+     </stg><stress>пыльт-льоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(bubbles bursting, porridge cooking, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыльт-польт</l>
+     <stg>
+       <st Contlex="DESCR_">пыльт-польт</st>
+     </stg><stress>пыльт-польт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(large raindrops falling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыльт-пыльт</l>
+     <stg>
+       <st Contlex="DESCR_">пыльт-пыльт</st>
+     </stg><stress>пыльт-пыльт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(dripping, trickling, drops falling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыргылдым-пыргылдым</l>
+     <stg>
+       <st Contlex="DESCR_">пы•ргылдым-пы•ргылдым</st>
+     </stg><stress>пы•ргылдым-пы•ргылдым</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slow movement with little jumps)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыр-пыр</l>
+     <stg>
+       <st Contlex="DESCR_">пыр-пыр</st>
+     </stg><stress>пыр-пыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(little wings flapping); (little objects flickering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыр-р</l>
+     <stg>
+       <st Contlex="DESCR_">пыр-р</st>
+     </stg><stress>пыр-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(little wings flapping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыртке</l>
+     <stg>
+       <st Contlex="DESCR_">пы•ртке</st>
+     </stg><stress>пы•ртке</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(trembling, throbbing, twinkling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыртлӱч</l>
+     <stg>
+       <st Contlex="DESCR_">пыртлӱ•ч</st>
+     </stg><stress>пыртлӱ•ч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a weapon being fired)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пырт-пурт</l>
+     <stg>
+       <st Contlex="DESCR_">пырт-пурт</st>
+     </stg><stress>пырт-пурт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пырт-пырт</l>
+     <stg>
+       <st Contlex="DESCR_">пырт-пырт</st>
+     </stg><stress>пырт-пырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(silent movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пытлоч</l>
+     <stg>
+       <st Contlex="DESCR_">пытло•ч</st>
+     </stg><stress>пытло•ч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(short muffled sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пытлӱч</l>
+     <stg>
+       <st Contlex="DESCR_">пытлӱ•ч</st>
+     </stg><stress>пытлӱ•ч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden muffled sound, gunshot)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыч</l>
+     <stg>
+       <st Contlex="DESCR_">пыч</st>
+     </stg><stress>пыч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(blinking one's eyes)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыч-пыч</l>
+     <stg>
+       <st Contlex="DESCR_">пыч-пыч</st>
+     </stg><stress>пыч-пыч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(blinking one's eyes)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыш-пуш</l>
+     <stg>
+       <st Contlex="DESCR_">пыш-пуш</st>
+     </stg><stress>пыш-пуш</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(soft repeating sound, coughing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыш-пыш</l>
+     <stg>
+       <st Contlex="DESCR_">пыш-пыш</st>
+     </stg><stress>пыш-пыш</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quiet, repeating, monotonous sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыште-пушто</l>
+     <stg>
+       <st Contlex="DESCR_">пы•ште-пу•што</st>
+     </stg><stress>пы•ште-пу•што</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound of quiet conversations, whispering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пышт-пошт</l>
+     <stg>
+       <st Contlex="DESCR_">пышт-пошт</st>
+     </stg><stress>пышт-пошт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(soft and quiet sound, coughing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пышт-пушт</l>
+     <stg>
+       <st Contlex="DESCR_">пышт-пушт</st>
+     </stg><stress>пышт-пушт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quiet puffing, sputtering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыштыр-поштыр</l>
+     <stg>
+       <st Contlex="DESCR_">пы•штыр-по•штыр</st>
+     </stg><stress>пы•штыр-по•штыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыштыр-пуштыр</l>
+     <stg>
+       <st Contlex="DESCR_">пы•штыр-пу•штыр</st>
+     </stg><stress>пы•штыр-пу•штыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыштырт-пыштырт</l>
+     <stg>
+       <st Contlex="DESCR_">пы•штырт-пы•штырт</st>
+     </stg><stress>пы•штырт-пы•штырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рашт-рашт [1]</l>
+     <stg>
+       <st Contlex="DESCR_">рашт-рашт [1]</st>
+     </stg><stress>рашт-рашт [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hands clapping, finger snapping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рия-рия</l>
+     <stg>
+       <st Contlex="DESCR_">рия•-рия•</st>
+     </stg><stress>рия•-рия•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(bagpipes)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">роп</l>
+     <stg>
+       <st Contlex="DESCR_">роп</st>
+     </stg><stress>роп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp blow)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">роп-роп</l>
+     <stg>
+       <st Contlex="DESCR_">роп-роп</st>
+     </stg><stress>роп-роп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(noisy movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">роч</l>
+     <stg>
+       <st Contlex="DESCR_">роч</st>
+     </stg><stress>роч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рочек</l>
+     <stg>
+       <st Contlex="DESCR_">роче•к</st>
+     </stg><stress>роче•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рочке¤</l>
+     <stg>
+       <st Contlex="DESCR_">ро•чке¤</st>
+     </stg><stress>ро•чке¤</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рочыге¤</l>
+     <stg>
+       <st Contlex="DESCR_">ро•чыге¤</st>
+     </stg><stress>ро•чыге¤</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crackling, crunching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рочык</l>
+     <stg>
+       <st Contlex="DESCR_">ро•чык</st>
+     </stg><stress>ро•чык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cracking, jerking - e.g., of bones)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рошт</l>
+     <stg>
+       <st Contlex="DESCR_">рошт</st>
+     </stg><stress>рошт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">роштке¤</l>
+     <stg>
+       <st Contlex="DESCR_">ро•штке¤</st>
+     </stg><stress>ро•штке¤</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>energetically, briskly, precisely; at a measured pace, with a firm tread; (sharp and loud movement, noise)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рошт-рошт</l>
+     <stg>
+       <st Contlex="DESCR_">рошт-рошт</st>
+     </stg><stress>рошт-рошт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(loud clapping, loud applause); at a measured pace, with a firm tread</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">руй</l>
+     <stg>
+       <st Contlex="DESCR_">руй</st>
+     </stg><stress>руй</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fear, terror)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рушт</l>
+     <stg>
+       <st Contlex="DESCR_">рушт</st>
+     </stg><stress>рушт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рӱҥ</l>
+     <stg>
+       <st Contlex="DESCR_">рӱҥ</st>
+     </stg><stress>рӱҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(blast, fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рӱп [1]</l>
+     <stg>
+       <st Contlex="DESCR_">рӱп [1]</st>
+     </stg><stress>рӱп [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(loud dull sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рӱч</l>
+     <stg>
+       <st Contlex="DESCR_">рӱч</st>
+     </stg><stress>рӱч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рӱшт</l>
+     <stg>
+       <st Contlex="DESCR_">рӱшт</st>
+     </stg><stress>рӱшт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(dull sound of a blast, fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рыве-рово</l>
+     <stg>
+       <st Contlex="DESCR_">ры•ве-ро•во</st>
+     </stg><stress>ры•ве-ро•во</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(random, erratic, spasmodic sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рыж-рӱж</l>
+     <stg>
+       <st Contlex="DESCR_">рыж-рӱж</st>
+     </stg><stress>рыж-рӱж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(noise, rumbling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рыз</l>
+     <stg>
+       <st Contlex="DESCR_">рыз</st>
+     </stg><stress>рыз</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рыче-рочо</l>
+     <stg>
+       <st Contlex="DESCR_">ры•че-ро•чо</st>
+     </stg><stress>ры•че-ро•чо</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cracking, crackling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рыч-роч</l>
+     <stg>
+       <st Contlex="DESCR_">рыч-роч</st>
+     </stg><stress>рыч-роч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cracking, crackling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рыч-рӱч</l>
+     <stg>
+       <st Contlex="DESCR_">рыч-рӱч</st>
+     </stg><stress>рыч-рӱч</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creaking, squeaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рышт-рошт</l>
+     <stg>
+       <st Contlex="DESCR_">рышт-рошт</st>
+     </stg><stress>рышт-рошт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp sound, loud creaking); firmly, confidently</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рышт-рӱшт</l>
+     <stg>
+       <st Contlex="DESCR_">рышт-рӱшт</st>
+     </stg><stress>рышт-рӱшт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(loud dull sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">соп-соп</l>
+     <stg>
+       <st Contlex="DESCR_">соп-соп</st>
+     </stg><stress>соп-соп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(loud flapping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">соптык</l>
+     <stg>
+       <st Contlex="DESCR_">со•птык</st>
+     </stg><stress>со•птык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(lisp)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сор [1]</l>
+     <stg>
+       <st Contlex="DESCR_">сор [1]</st>
+     </stg><stress>сор [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rustling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сӧлдырем-сӧлдырем</l>
+     <stg>
+       <st Contlex="DESCR_">сӧлдыре•м-сӧлдыре•м</st>
+     </stg><stress>сӧлдыре•м-сӧлдыре•м</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(heavy and clumsy steps)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">срӧп</l>
+     <stg>
+       <st Contlex="DESCR_">срӧп</st>
+     </stg><stress>срӧп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(noisy slurping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">суй-суй</l>
+     <stg>
+       <st Contlex="DESCR_">суй-суй</st>
+     </stg><stress>суй-суй</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(heavy steps, heavy movements)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сывыр-совыр</l>
+     <stg>
+       <st Contlex="DESCR_">сы•выр-со•выр</st>
+     </stg><stress>сы•выр-со•выр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(splashing while washing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сыҥге-соҥго</l>
+     <stg>
+       <st Contlex="DESCR_">сы•ҥге-со•ҥго</st>
+     </stg><stress>сы•ҥге-со•ҥго</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rocking, swinging from side to side)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сыҥгыльдик-соҥгыльдик</l>
+     <stg>
+       <st Contlex="DESCR_">сыҥгыльди•к-соҥгыльди•к</st>
+     </stg><stress>сыҥгыльди•к-соҥгыльди•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(limping, swinging from one side to the other)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сыҥгыльдым-соҥгыльдым</l>
+     <stg>
+       <st Contlex="DESCR_">сы•ҥгыльдым-со•ҥгыльдым</st>
+     </stg><stress>сы•ҥгыльдым-со•ҥгыльдым</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(limping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сыҥ-суҥ</l>
+     <stg>
+       <st Contlex="DESCR_">сыҥ-суҥ</st>
+     </stg><stress>сыҥ-суҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(swaying from side to side, stumbling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сып-соп</l>
+     <stg>
+       <st Contlex="DESCR_">сып-соп</st>
+     </stg><stress>сып-соп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(feet stamping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сыпте-сопто</l>
+     <stg>
+       <st Contlex="DESCR_">сы•пте-со•пто</st>
+     </stg><stress>сы•пте-со•пто</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(shifting one's feet, swaying from foot to foot)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сыптык-соптык</l>
+     <stg>
+       <st Contlex="DESCR_">сы•птык-со•птык</st>
+     </stg><stress>сы•птык-со•птык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(shifting one's feet, swaying from foot to foot)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сыптыр-соптыр</l>
+     <stg>
+       <st Contlex="DESCR_">сы•птыр-со•птыр</st>
+     </stg><stress>сы•птыр-со•птыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clumsy movement, awkward movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сырып-сорып</l>
+     <stg>
+       <st Contlex="DESCR_">сы•рып-со•рып</st>
+     </stg><stress>сы•рып-со•рып</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(splashing water, e.g., on one's face)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тали-дали</l>
+     <stg>
+       <st Contlex="DESCR_">тали•-дали•</st>
+     </stg><stress>тали•-дали•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(accordion being played)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">та-та-та</l>
+     <stg>
+       <st Contlex="DESCR_">та-та-та</st>
+     </stg><stress>та-та-та</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(regular abrupt sounds)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тик-так</l>
+     <stg>
+       <st Contlex="DESCR_">тик-так</st>
+     </stg><stress>тик-так</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>tick-tock (clock)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тлиҥта-ти-та</l>
+     <stg>
+       <st Contlex="DESCR_">тли•ҥта-ти-та</st>
+     </stg><stress>тли•ҥта-ти-та</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a lark singing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тлиҥ-тлиҥ</l>
+     <stg>
+       <st Contlex="DESCR_">тлиҥ-тлиҥ</st>
+     </stg><stress>тлиҥ-тлиҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a bell ringing, glass breaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тли-тли-тли</l>
+     <stg>
+       <st Contlex="DESCR_">тли-тли-тли</st>
+     </stg><stress>тли-тли-тли</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(small bell ringing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тойки-мойки</l>
+     <stg>
+       <st Contlex="DESCR_">тойки•-мойки•</st>
+     </stg><stress>тойки•-мойки•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(playful word used in songs)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тоҥ</l>
+     <stg>
+       <st Contlex="DESCR_">тоҥ</st>
+     </stg><stress>тоҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(ringing blow); motionlessly, still</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тоҥ-тоҥ</l>
+     <stg>
+       <st Contlex="DESCR_">тоҥ-тоҥ</st>
+     </stg><stress>тоҥ-тоҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(ringing blow); very firmly, very tightly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">топ-топ</l>
+     <stg>
+       <st Contlex="DESCR_">топ-топ</st>
+     </stg><stress>топ-топ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(tramping, footfalls)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">топ-топыр</l>
+     <stg>
+       <st Contlex="DESCR_">топ-то•пыр</st>
+     </stg><stress>топ-то•пыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(galloping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">торк</l>
+     <stg>
+       <st Contlex="DESCR_">торк</st>
+     </stg><stress>торк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp movement, becoming upright)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тормылдык</l>
+     <stg>
+       <st Contlex="DESCR_">то•рмылдык</st>
+     </stg><stress>то•рмылдык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>freak, cripple</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тӧп [1]</l>
+     <stg>
+       <st Contlex="DESCR_">тӧп [1]</st>
+     </stg><stress>тӧп [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(lack of motion)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тӧп [2]</l>
+     <stg>
+       <st Contlex="DESCR_">тӧп [2]</st>
+     </stg><stress>тӧп [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(muffled fall)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тӧпыр-тӧпыр</l>
+     <stg>
+       <st Contlex="DESCR_">тӧ•пыр-тӧ•пыр</st>
+     </stg><stress>тӧ•пыр-тӧ•пыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(slow and clumsy movements)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тӧт-тӧт</l>
+     <stg>
+       <st Contlex="DESCR_">тӧт-тӧт</st>
+     </stg><stress>тӧт-тӧт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(horn)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тра-та-та</l>
+     <stg>
+       <st Contlex="DESCR_">тра-та-та</st>
+     </stg><stress>тра-та-та</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(abrupt sounds of, e.g., of a drum, machine gun)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тр-р-р</l>
+     <stg>
+       <st Contlex="DESCR_">тр-р-р</st>
+     </stg><stress>тр-р-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(chattering, clicking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тук</l>
+     <stg>
+       <st Contlex="DESCR_">тук</st>
+     </stg><stress>тук</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hit, knock)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тук-тук</l>
+     <stg>
+       <st Contlex="DESCR_">тук-тук</st>
+     </stg><stress>тук-тук</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knocking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тури-тур-тур</l>
+     <stg>
+       <st Contlex="DESCR_">тури•-тур-тур</st>
+     </stg><stress>тури•-тур-тур</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(lark's song); {figuratively}lark,{scientific}Alauda</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тӱвӧ-тӱвӧ</l>
+     <stg>
+       <st Contlex="DESCR_">тӱ•вӧ-тӱ•вӧ</st>
+     </stg><stress>тӱ•вӧ-тӱ•вӧ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(repeated knocks, repeated blows)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тӱвӱдӱп-тӱвӱдӱп</l>
+     <stg>
+       <st Contlex="DESCR_">тӱвӱдӱ•п-тӱвӱдӱ•п</st>
+     </stg><stress>тӱвӱдӱ•п-тӱвӱдӱ•п</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rhythmic blows, rhythmic knocking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тӱм-тӱм [2]</l>
+     <stg>
+       <st Contlex="DESCR_">тӱм-тӱм [2]</st>
+     </stg><stress>тӱм-тӱм [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound of a drum)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тӱҥ-дӱҥ</l>
+     <stg>
+       <st Contlex="DESCR_">тӱҥ-дӱҥ</st>
+     </stg><stress>тӱҥ-дӱҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(thud, thump)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тӱҥ-ҥ</l>
+     <stg>
+       <st Contlex="DESCR_">тӱҥ-ҥ</st>
+     </stg><stress>тӱҥ-ҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(springiness, movement of something elastic)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тӱп-тӱп</l>
+     <stg>
+       <st Contlex="DESCR_">тӱп-тӱп</st>
+     </stg><stress>тӱп-тӱп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(thud)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тӱр [3]</l>
+     <stg>
+       <st Contlex="DESCR_">тӱр [3]</st>
+     </stg><stress>тӱр [3]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(puffs of smoke or steam)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тӱр-тӱр</l>
+     <stg>
+       <st Contlex="DESCR_">тӱр-тӱр</st>
+     </stg><stress>тӱр-тӱр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quivering, shiver)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыбе-дӱбӧ</l>
+     <stg>
+       <st Contlex="DESCR_">ты•бе-дӱ•бӧ</st>
+     </stg><stress>ты•бе-дӱ•бӧ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rhythmic drumming)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыве-дово</l>
+     <stg>
+       <st Contlex="DESCR_">ты•ве-до•во</st>
+     </stg><stress>ты•ве-до•во</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(muffled sound of rapid or disorderly movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыве-дыве</l>
+     <stg>
+       <st Contlex="DESCR_">ты•ве-ды•ве</st>
+     </stg><stress>ты•ве-ды•ве</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(dancing, stamping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыве-тӧвӧ</l>
+     <stg>
+       <st Contlex="DESCR_">ты•ве-тӧ•вӧ</st>
+     </stg><stress>ты•ве-тӧ•вӧ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(confusion, surprise)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тывыдок-тывыдок</l>
+     <stg>
+       <st Contlex="DESCR_">тывыдо•к-тывыдо•к</st>
+     </stg><stress>тывыдо•к-тывыдо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(tramping, clattering of hooves)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тывыдӱп</l>
+     <stg>
+       <st Contlex="DESCR_">тывыдӱ•п</st>
+     </stg><stress>тывыдӱ•п</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(staccato drumming)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тывыдым-тывыдым</l>
+     <stg>
+       <st Contlex="DESCR_">тывыды•м-тывыды•м</st>
+     </stg><stress>тывыды•м-тывыды•м</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(dancing with stamping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыж-вуж</l>
+     <stg>
+       <st Contlex="DESCR_">тыж-вуж</st>
+     </stg><stress>тыж-вуж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid disappearance); (buzzing in one's head, sense of dullness)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тык-мук</l>
+     <stg>
+       <st Contlex="DESCR_">тык-мук</st>
+     </stg><stress>тык-мук</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hesitation, hitch in speech, confusion, pronunciation difficulties)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тык-тык</l>
+     <stg>
+       <st Contlex="DESCR_">тык-тык</st>
+     </stg><stress>тык-тык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>tap-tap (knocking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыл-дыл</l>
+     <stg>
+       <st Contlex="DESCR_">тыл-дыл</st>
+     </stg><stress>тыл-дыл</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(tears welling up)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыл'ик-тальык</l>
+     <stg>
+       <st Contlex="DESCR_">тыл'и•к-та•льык</st>
+     </stg><stress>тыл'и•к-та•льык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(gentle rocking on water)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыл-тал</l>
+     <stg>
+       <st Contlex="DESCR_">тыл-тал</st>
+     </stg><stress>тыл-тал</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rocking, swaying)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыл-тыл</l>
+     <stg>
+       <st Contlex="DESCR_">тыл-тыл</st>
+     </stg><stress>тыл-тыл</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(to the brim, completely filled)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыҥ [1]</l>
+     <stg>
+       <st Contlex="DESCR_">тыҥ [1]</st>
+     </stg><stress>тыҥ [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden stop)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыҥ [4]</l>
+     <stg>
+       <st Contlex="DESCR_">тыҥ [4]</st>
+     </stg><stress>тыҥ [4]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(resounding muffled knock)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыҥге-тоҥго</l>
+     <stg>
+       <st Contlex="DESCR_">ты•ҥге-то•ҥго</st>
+     </stg><stress>ты•ҥге-то•ҥго</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(swaying, staggering, reeling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыҥгыл-туҥгыл</l>
+     <stg>
+       <st Contlex="DESCR_">ты•ҥгыл-ту•ҥгыл</st>
+     </stg><stress>ты•ҥгыл-ту•ҥгыл</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(awkward movements, stiffness of body parts)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыҥгыр-туҥгыр</l>
+     <stg>
+       <st Contlex="DESCR_">ты•ҥгыр-ту•ҥгыр</st>
+     </stg><stress>ты•ҥгыр-ту•ҥгыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something uneven, bumpy)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыҥ-тӱҥ</l>
+     <stg>
+       <st Contlex="DESCR_">тыҥ-тӱҥ</st>
+     </stg><stress>тыҥ-тӱҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(resounding knocks, footsteps)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыҥ-тыҥ</l>
+     <stg>
+       <st Contlex="DESCR_">тыҥ-тыҥ</st>
+     </stg><stress>тыҥ-тыҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid running, pulsation)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыпке-топко</l>
+     <stg>
+       <st Contlex="DESCR_">ты•пке-то•пко</st>
+     </stg><stress>ты•пке-то•пко</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(footsteps)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тып-топ</l>
+     <stg>
+       <st Contlex="DESCR_">тып-топ</st>
+     </stg><stress>тып-топ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(footsteps)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тып-тып</l>
+     <stg>
+       <st Contlex="DESCR_">тып-тып</st>
+     </stg><stress>тып-тып</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(tapping, patting, rapping, footsteps)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыпыр-топыр</l>
+     <stg>
+       <st Contlex="DESCR_">ты•пыр-то•пыр</st>
+     </stg><stress>ты•пыр-то•пыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(footsteps, light stamping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыри-тори</l>
+     <stg>
+       <st Contlex="DESCR_">тыри•-тори•</st>
+     </stg><stress>тыри•-тори•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(an accordion being played quickly)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыр-тур</l>
+     <stg>
+       <st Contlex="DESCR_">тыр-тур</st>
+     </stg><stress>тыр-тур</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">уак-уак</l>
+     <stg>
+       <st Contlex="DESCR_">уа•к-уа•к</st>
+     </stg><stress>уа•к-уа•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>quack-quack (sound made by ducks)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">уж-ж</l>
+     <stg>
+       <st Contlex="DESCR_">уж-ж</st>
+     </stg><stress>уж-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound of fall, flight)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">уйт-уйт</l>
+     <stg>
+       <st Contlex="DESCR_">уйт-уйт</st>
+     </stg><stress>уйт-уйт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(whistling sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">у-уге¤</l>
+     <stg>
+       <st Contlex="DESCR_">у-у•ге¤</st>
+     </stg><stress>у-у•ге¤</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(humming, buzzing, howling, with a din)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">учик-учик</l>
+     <stg>
+       <st Contlex="DESCR_">учи•к-учи•к</st>
+     </stg><stress>учи•к-учи•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(swinging, swaying)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">уэк-уэк</l>
+     <stg>
+       <st Contlex="DESCR_">уэ•к-уэ•к</st>
+     </stg><stress>уэ•к-уэ•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>hoot hoot (sound made by owls)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">фийт</l>
+     <stg>
+       <st Contlex="DESCR_">фийт</st>
+     </stg><stress>фийт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a bullet flying)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">фыр-р</l>
+     <stg>
+       <st Contlex="DESCR_">фыр-р</st>
+     </stg><stress>фыр-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(snorting, sniffing, snoring)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">фыр-фыр</l>
+     <stg>
+       <st Contlex="DESCR_">фыр-фыр</st>
+     </stg><stress>фыр-фыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(waving, flapping of wings)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">хорр-хорр</l>
+     <stg>
+       <st Contlex="DESCR_">хорр-хорр</st>
+     </stg><stress>хорр-хорр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sound made by birds)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">хыр-хыр</l>
+     <stg>
+       <st Contlex="DESCR_">хыр-хыр</st>
+     </stg><stress>хыр-хыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(a cat purring)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чаҥ-чаҥ</l>
+     <stg>
+       <st Contlex="DESCR_">чаҥ-чаҥ</st>
+     </stg><stress>чаҥ-чаҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(ringing, strokes)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чап [2]</l>
+     <stg>
+       <st Contlex="DESCR_">чап [2]</st>
+     </stg><stress>чап [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something flat dropping into water)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чап-чап</l>
+     <stg>
+       <st Contlex="DESCR_">чап-чап</st>
+     </stg><stress>чап-чап</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(beating with sauna whisk)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чжик</l>
+     <stg>
+       <st Contlex="DESCR_">чжик</st>
+     </stg><stress>чжик</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(whistling flight)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чжок</l>
+     <stg>
+       <st Contlex="DESCR_">чжок</st>
+     </stg><stress>чжок</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sniffle, sniff, crack (whip))</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чжоп</l>
+     <stg>
+       <st Contlex="DESCR_">чжоп</st>
+     </stg><stress>чжоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(spitting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чзин-чзин</l>
+     <stg>
+       <st Contlex="DESCR_">чзин-чзин</st>
+     </stg><stress>чзин-чзин</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>ting-a-ling (clanging, clinking, jingling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чийык-чийык</l>
+     <stg>
+       <st Contlex="DESCR_">чи•йык-чи•йык</st>
+     </stg><stress>чи•йык-чи•йык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(tweeting, twittering of a titmouse)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чик-чирик</l>
+     <stg>
+       <st Contlex="DESCR_">чик-чири•к</st>
+     </stg><stress>чик-чири•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crickets chirping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чинь</l>
+     <stg>
+       <st Contlex="DESCR_">чинь</st>
+     </stg><stress>чинь</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(ringing sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиҥ-чоҥ</l>
+     <stg>
+       <st Contlex="DESCR_">чиҥ-чоҥ</st>
+     </stg><stress>чиҥ-чоҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(glass ringing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиок-чиок</l>
+     <stg>
+       <st Contlex="DESCR_">чио•к-чио•к</st>
+     </stg><stress>чио•к-чио•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(twittering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чип-чип</l>
+     <stg>
+       <st Contlex="DESCR_">чип-чип</st>
+     </stg><stress>чип-чип</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(used to call chickens)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чияк-чияк</l>
+     <stg>
+       <st Contlex="DESCR_">чия•к-чия•к</st>
+     </stg><stress>чия•к-чия•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>cheep cheep (sound made by chicks)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чодыр</l>
+     <stg>
+       <st Contlex="DESCR_">чо•дыр</st>
+     </stg><stress>чо•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(glass shattering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чож</l>
+     <stg>
+       <st Contlex="DESCR_">чож</st>
+     </stg><stress>чож</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hissing, fizzing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чок-чок</l>
+     <stg>
+       <st Contlex="DESCR_">чок-чок</st>
+     </stg><stress>чок-чок</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knocks, taps)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чолдыр</l>
+     <stg>
+       <st Contlex="DESCR_">чо•лдыр</st>
+     </stg><stress>чо•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(glass breaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чолдырдок</l>
+     <stg>
+       <st Contlex="DESCR_">чолдырдо•к</st>
+     </stg><stress>чолдырдо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(snap, rumble, crash)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чолдырок</l>
+     <stg>
+       <st Contlex="DESCR_">чолдыро•к</st>
+     </stg><stress>чолдыро•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(door or gate slamming)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чолдырт</l>
+     <stg>
+       <st Contlex="DESCR_">чо•лдырт</st>
+     </stg><stress>чо•лдырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rattling, clanging)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чолт</l>
+     <stg>
+       <st Contlex="DESCR_">чолт</st>
+     </stg><stress>чолт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(bang, crack)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чолт-чолт</l>
+     <stg>
+       <st Contlex="DESCR_">чолт-чолт</st>
+     </stg><stress>чолт-чолт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(short intermittent sounds)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чоҥ-чоҥ</l>
+     <stg>
+       <st Contlex="DESCR_">чоҥ-чоҥ</st>
+     </stg><stress>чоҥ-чоҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sledge hammer)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чоп</l>
+     <stg>
+       <st Contlex="DESCR_">чоп</st>
+     </stg><stress>чоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(smack, kiss)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чоп-чоп</l>
+     <stg>
+       <st Contlex="DESCR_">чоп-чоп</st>
+     </stg><stress>чоп-чоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(squelching sound); (a liquid dripping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чопыж</l>
+     <stg>
+       <st Contlex="DESCR_">чо•пыж</st>
+     </stg><stress>чо•пыж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(squelching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чор-р</l>
+     <stg>
+       <st Contlex="DESCR_">чор-р</st>
+     </stg><stress>чор-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(glass breaking); (electric bell, buzzer)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чотыр-р</l>
+     <stg>
+       <st Contlex="DESCR_">чо•тыр-р</st>
+     </stg><stress>чо•тыр-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(gnashing of teeth)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чошт</l>
+     <stg>
+       <st Contlex="DESCR_">чошт</st>
+     </stg><stress>чошт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp tool hitting something); (sudden movement, action); (spitting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чоштыр-р</l>
+     <stg>
+       <st Contlex="DESCR_">чо•штыр-р</st>
+     </stg><stress>чо•штыр-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunching, rustling, crackling of dry grass, leaves, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чоштыр-чоштыр</l>
+     <stg>
+       <st Contlex="DESCR_">чо•штыр-чо•штыр</st>
+     </stg><stress>чо•штыр-чо•штыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cutting with sickle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чош-ш</l>
+     <stg>
+       <st Contlex="DESCR_">чош-ш</st>
+     </stg><stress>чош-ш</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(murmur, mumble)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чрик-чрик</l>
+     <stg>
+       <st Contlex="DESCR_">чрик-чрик</st>
+     </stg><stress>чрик-чрик</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(spraying water, spraying liquid)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чрок</l>
+     <stg>
+       <st Contlex="DESCR_">чрок</st>
+     </stg><stress>чрок</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(tearing paper)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чроҥ</l>
+     <stg>
+       <st Contlex="DESCR_">чроҥ</st>
+     </stg><stress>чроҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(smack, slap, blow)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чуж-ж</l>
+     <stg>
+       <st Contlex="DESCR_">чуж-ж</st>
+     </stg><stress>чуж-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hissing, whistling of a flying object, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чужик [1]</l>
+     <stg>
+       <st Contlex="DESCR_">чужи•к [1]</st>
+     </stg><stress>чужи•к [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(spattering, trickle of liquid)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чуй</l>
+     <stg>
+       <st Contlex="DESCR_">чуй</st>
+     </stg><stress>чуй</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement, swift movement); (lengthy movements, slow gestures); sullenly, gloomily, with displeasure, intently</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чуйык-чуйык</l>
+     <stg>
+       <st Contlex="DESCR_">чу•йык-чу•йык</st>
+     </stg><stress>чу•йык-чу•йык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quick movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чук-чук</l>
+     <stg>
+       <st Contlex="DESCR_">чук-чук</st>
+     </stg><stress>чук-чук</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>oink-oink (pig grunting); pig</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чурик [2]</l>
+     <stg>
+       <st Contlex="DESCR_">чури•к [2]</st>
+     </stg><stress>чури•к [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>intently, watchfully, with bated breath; suddenly, immediately, instantly; (pricks, stabs, shocks)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чурк</l>
+     <stg>
+       <st Contlex="DESCR_">чурк</st>
+     </stg><stress>чурк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(starting, freezing, alertness after a surprise); (sharp movement, swift movement, sudden movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чур-р</l>
+     <stg>
+       <st Contlex="DESCR_">чур-р</st>
+     </stg><stress>чур-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(bubbling, boiling, rumbling, grumbling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чуч [2]</l>
+     <stg>
+       <st Contlex="DESCR_">чуч [2]</st>
+     </stg><stress>чуч [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(blinking, flickering, fire going out)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чушт</l>
+     <stg>
+       <st Contlex="DESCR_">чушт</st>
+     </stg><stress>чушт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hissing, whistling, thudding)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чӱк</l>
+     <stg>
+       <st Contlex="DESCR_">чӱк</st>
+     </stg><stress>чӱк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(direct blow, head-on impact)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыве-чово</l>
+     <stg>
+       <st Contlex="DESCR_">чы•ве-чо•во</st>
+     </stg><stress>чы•ве-чо•во</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(champing, a liquid squelch, splashing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыве-чыве</l>
+     <stg>
+       <st Contlex="DESCR_">чы•ве-чы•ве</st>
+     </stg><stress>чы•ве-чы•ве</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(water splashing while washing, bathing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чывыр-чавыр</l>
+     <stg>
+       <st Contlex="DESCR_">чы•выр-ча•выр</st>
+     </stg><stress>чы•выр-ча•выр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(water splashing, sprinkling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыгак-чыгак</l>
+     <stg>
+       <st Contlex="DESCR_">чыга•к-чыга•к</st>
+     </stg><stress>чыга•к-чыга•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(magpie singing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыге-мого</l>
+     <stg>
+       <st Contlex="DESCR_">чы•ге-мо•го</st>
+     </stg><stress>чы•ге-мо•го</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(indistinct and not overly loud voices)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыге-чого</l>
+     <stg>
+       <st Contlex="DESCR_">чы•ге-чо•го</st>
+     </stg><stress>чы•ге-чо•го</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(birds twittering, chirping); (lively conversation, noise, shouting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыде-чодо</l>
+     <stg>
+       <st Contlex="DESCR_">чы•де-чо•до</st>
+     </stg><stress>чы•де-чо•до</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crackling, crunching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыде-чыде</l>
+     <stg>
+       <st Contlex="DESCR_">чы•де-чы•де</st>
+     </stg><stress>чы•де-чы•де</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(burning cold, prickling, irritation)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыдыр</l>
+     <stg>
+       <st Contlex="DESCR_">чы•дыр</st>
+     </stg><stress>чы•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden sharp pain, irritation, tingling, burning)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыдырик</l>
+     <stg>
+       <st Contlex="DESCR_">чыдыри•к</st>
+     </stg><stress>чыдыри•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp pain, irritation, burning); lean, very slim</t>
+     </tg>
+   </mg>
+</e><!-- comment >ad/de< -->
+<e>
+   <lg>
+     <l pos="Descr">чыдыр-чодыр</l>
+     <stg>
+       <st Contlex="DESCR_">чы•дыр-чо•дыр</st>
+     </stg><stress>чы•дыр-чо•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crackling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыдыр-чыдыр</l>
+     <stg>
+       <st Contlex="DESCR_">чы•дыр-чы•дыр</st>
+     </stg><stress>чы•дыр-чы•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fear)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыж [1]</l>
+     <stg>
+       <st Contlex="DESCR_">чыж [1]</st>
+     </stg><stress>чыж [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(burning, irritation, pain)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыж-ж</l>
+     <stg>
+       <st Contlex="DESCR_">чыж-ж</st>
+     </stg><stress>чыж-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(jet of water splashing); (hissing, fizzing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыжик-чожик</l>
+     <stg>
+       <st Contlex="DESCR_">чыжи•к-чожи•к</st>
+     </stg><stress>чыжи•к-чожи•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rhythmic tinkling, clinking, chinking, jingling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыжок</l>
+     <stg>
+       <st Contlex="DESCR_">чыжо•к</st>
+     </stg><stress>чыжо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sniffing); (scratching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыжоп</l>
+     <stg>
+       <st Contlex="DESCR_">чыжо•п</st>
+     </stg><stress>чыжо•п</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sniffing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыж-чож</l>
+     <stg>
+       <st Contlex="DESCR_">чыж-чож</st>
+     </stg><stress>чыж-чож</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rhythmic sharp ringing sounds); (sharp hiss)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыж-чуж</l>
+     <stg>
+       <st Contlex="DESCR_">чыж-чуж</st>
+     </stg><stress>чыж-чуж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(whistling, screeching, hissing of something flying by)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чый [1]</l>
+     <stg>
+       <st Contlex="DESCR_">чый [1]</st>
+     </stg><stress>чый [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(stare)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чый [2]</l>
+     <stg>
+       <st Contlex="DESCR_">чый [2]</st>
+     </stg><stress>чый [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(bird whistle, twittering, chirping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыйок</l>
+     <stg>
+       <st Contlex="DESCR_">чыйо•к</st>
+     </stg><stress>чыйо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(squeaking, squeak)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чый-чуй</l>
+     <stg>
+       <st Contlex="DESCR_">чый-чуй</st>
+     </stg><stress>чый-чуй</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement, flashing); (intent look, alert look, hostile look); (sparkling eyes, twinkling eyes); (flying object whistling by)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чый-чый</l>
+     <stg>
+       <st Contlex="DESCR_">чый-чый</st>
+     </stg><stress>чый-чый</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чык-лок</l>
+     <stg>
+       <st Contlex="DESCR_">чык-лок</st>
+     </stg><stress>чык-лок</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clicking one's tongue); (clicking, trilling sound made by animals); (something hard being knocked)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чык-чок</l>
+     <stg>
+       <st Contlex="DESCR_">чык-чок</st>
+     </stg><stress>чык-чок</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hasty action, hurried action, rapid action); (clicking, clattering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чык-чык</l>
+     <stg>
+       <st Contlex="DESCR_">чык-чык</st>
+     </stg><stress>чык-чык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something dense, tight)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чылде-чолдо</l>
+     <stg>
+       <st Contlex="DESCR_">чы•лде-чо•лдо</st>
+     </stg><stress>чы•лде-чо•лдо</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(thud, clatter)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чылдырдик</l>
+     <stg>
+       <st Contlex="DESCR_">чылдырди•к</st>
+     </stg><stress>чылдырди•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(tingling, jingling, clanking, rumbling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чылдырдок</l>
+     <stg>
+       <st Contlex="DESCR_">чылдырдо•к</st>
+     </stg><stress>чылдырдо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(plopping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чылдырт</l>
+     <stg>
+       <st Contlex="DESCR_">чы•лдырт</st>
+     </stg><stress>чы•лдырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(jingling, tingling, clanking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чылдыр-чолдыр</l>
+     <stg>
+       <st Contlex="DESCR_">чы•лдыр-чо•лдыр</st>
+     </stg><stress>чы•лдыр-чо•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clattering, clanking, tinkling, jingling, creaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыли-вули</l>
+     <stg>
+       <st Contlex="DESCR_">чыли•-вули•</st>
+     </stg><stress>чыли•-вули•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sparkling, twinkling, glittering, shining, gleaming)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чылик-чолик</l>
+     <stg>
+       <st Contlex="DESCR_">чыли•к-чоли•к</st>
+     </stg><stress>чыли•к-чоли•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(twittering, chirping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыли-мули</l>
+     <stg>
+       <st Contlex="DESCR_">чыли•-мули•</st>
+     </stg><stress>чыли•-мули•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sparkling, gleaming, flickering, glimmering, shimmering, light at sunrise)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чылтиҥ-чылтиҥ</l>
+     <stg>
+       <st Contlex="DESCR_">чылти•ҥ-чылти•ҥ</st>
+     </stg><stress>чылти•ҥ-чылти•ҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(metal, glass or ice vibrating)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чылт-чолт</l>
+     <stg>
+       <st Contlex="DESCR_">чылт-чолт</st>
+     </stg><stress>чылт-чолт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clicking, knocking, tinkling, clinking, e.g., glass or metal)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чылт-чылт</l>
+     <stg>
+       <st Contlex="DESCR_">чылт-чылт</st>
+     </stg><stress>чылт-чылт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clicking, knocking, tinkling, clinking, e.g., glass or metal)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыл-чол</l>
+     <stg>
+       <st Contlex="DESCR_">чыл-чол</st>
+     </stg><stress>чыл-чол</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fire or eyes shining, twinkling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыл-чыл</l>
+     <stg>
+       <st Contlex="DESCR_">чыл-чыл</st>
+     </stg><stress>чыл-чыл</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(flickering, twinkling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чынек</l>
+     <stg>
+       <st Contlex="DESCR_">чыне•к</st>
+     </stg><stress>чыне•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(call of a woodpecker)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыҥгыр-чоҥгыр</l>
+     <stg>
+       <st Contlex="DESCR_">чы•ҥгыр-чо•ҥгыр</st>
+     </stg><stress>чы•ҥгыр-чо•ҥгыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(jingling, tinkling, clanging, clanking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыҥ-чыҥ</l>
+     <stg>
+       <st Contlex="DESCR_">чыҥ-чыҥ</st>
+     </stg><stress>чыҥ-чыҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(jingling, tinkling, clanging, clanking); neatly, tidily, in order</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чып</l>
+     <stg>
+       <st Contlex="DESCR_">чып</st>
+     </stg><stress>чып</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(dripping, dropping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыпте-чопто</l>
+     <stg>
+       <st Contlex="DESCR_">чы•пте-чо•пто</st>
+     </stg><stress>чы•пте-чо•пто</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sloshing, squelching, smacking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыпток</l>
+     <stg>
+       <st Contlex="DESCR_">чыпто•к</st>
+     </stg><stress>чыпто•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(kiss)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыптык-чыптык</l>
+     <stg>
+       <st Contlex="DESCR_">чы•птык-чы•птык</st>
+     </stg><stress>чы•птык-чы•птык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knocking, hitting something soft)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чып-чоп</l>
+     <stg>
+       <st Contlex="DESCR_">чып-чоп</st>
+     </stg><stress>чып-чоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sloshing, squelching, smacking); (dripping, dropping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чып-чып</l>
+     <stg>
+       <st Contlex="DESCR_">чып-чып</st>
+     </stg><stress>чып-чып</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sloshing, squelching, smacking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыпыж-чопыж</l>
+     <stg>
+       <st Contlex="DESCR_">чы•пыж-чо•пыж</st>
+     </stg><stress>чы•пыж-чо•пыж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sloshing, squelching, smacking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чырак-чырак</l>
+     <stg>
+       <st Contlex="DESCR_">чыра•к-чыра•к</st>
+     </stg><stress>чыра•к-чыра•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crickets, grasshoppers chirping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыри-чори</l>
+     <stg>
+       <st Contlex="DESCR_">чыри•-чори•</st>
+     </stg><stress>чыри•-чори•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(squeal, piercing scream)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыри-чури</l>
+     <stg>
+       <st Contlex="DESCR_">чыри•-чури•</st>
+     </stg><stress>чыри•-чури•</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(gleaming, glittering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чырк-вурк</l>
+     <stg>
+       <st Contlex="DESCR_">чырк-вурк</st>
+     </stg><stress>чырк-вурк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fidgeting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чырк-чурк</l>
+     <stg>
+       <st Contlex="DESCR_">чырк-чурк</st>
+     </stg><stress>чырк-чурк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыр-чор</l>
+     <stg>
+       <st Contlex="DESCR_">чыр-чор</st>
+     </stg><stress>чыр-чор</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rattling, clattering, pattering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыр-чыр</l>
+     <stg>
+       <st Contlex="DESCR_">чыр-чыр</st>
+     </stg><stress>чыр-чыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(grasshoppers chirping); (purling, murmuring)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чырык [2]</l>
+     <stg>
+       <st Contlex="DESCR_">чы•рык [2]</st>
+     </stg><stress>чы•рык [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(confusion, embarrassment)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чырык-чурык</l>
+     <stg>
+       <st Contlex="DESCR_">чы•рык-чу•рык</st>
+     </stg><stress>чы•рык-чу•рык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чытыр-чотыр</l>
+     <stg>
+       <st Contlex="DESCR_">чы•тыр-чо•тыр</st>
+     </stg><stress>чы•тыр-чо•тыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crackling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чышт [1]</l>
+     <stg>
+       <st Contlex="DESCR_">чышт [1]</st>
+     </stg><stress>чышт [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(spitting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чышт-чошт</l>
+     <stg>
+       <st Contlex="DESCR_">чышт-чошт</st>
+     </stg><stress>чышт-чошт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cutting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыштыр-чоштыр</l>
+     <stg>
+       <st Contlex="DESCR_">чы•штыр-чо•штыр</st>
+     </stg><stress>чы•штыр-чо•штыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cutting); (knocking, lashing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шадыр</l>
+     <stg>
+       <st Contlex="DESCR_">ша•дыр</st>
+     </stg><stress>ша•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(squeak, creak)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шарт-шарт</l>
+     <stg>
+       <st Contlex="DESCR_">шарт-шарт</st>
+     </stg><stress>шарт-шарт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(quick and brisk pace, energetic action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шльоп</l>
+     <stg>
+       <st Contlex="DESCR_">шльоп</st>
+     </stg><stress>шльоп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(heavy object falling into liquid)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шогырдик</l>
+     <stg>
+       <st Contlex="DESCR_">шогырди•к</st>
+     </stg><stress>шогырди•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(magpie chirping); (tapping, knocking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шодо-шодо</l>
+     <stg>
+       <st Contlex="DESCR_">шо•до-шо•до</st>
+     </stg><stress>шо•до-шо•до</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(walking through grass, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шодыр</l>
+     <stg>
+       <st Contlex="DESCR_">шо•дыр</st>
+     </stg><stress>шо•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crackling, crunching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шодырдок</l>
+     <stg>
+       <st Contlex="DESCR_">шодырдо•к</st>
+     </stg><stress>шодырдо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunching, creaking); (sudden action, phenomenon)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шодырок</l>
+     <stg>
+       <st Contlex="DESCR_">шодыро•к</st>
+     </stg><stress>шодыро•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crackle, crunch)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шодыр-шодыр</l>
+     <stg>
+       <st Contlex="DESCR_">шо•дыр-шо•дыр</st>
+     </stg><stress>шо•дыр-шо•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шоик</l>
+     <stg>
+       <st Contlex="DESCR_">шои•к</st>
+     </stg><stress>шои•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(whistle, piercing sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шой [2]</l>
+     <stg>
+       <st Contlex="DESCR_">шой [2]</st>
+     </stg><stress>шой [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(whistle, piercing sound)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шолдырдик</l>
+     <stg>
+       <st Contlex="DESCR_">шолдырди•к</st>
+     </stg><stress>шолдырди•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(jingling, tinkling, clinking, e.g., of metal items)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шолдырдок</l>
+     <stg>
+       <st Contlex="DESCR_">шолдырдо•к</st>
+     </stg><stress>шолдырдо•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knock, rumble)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шолт</l>
+     <stg>
+       <st Contlex="DESCR_">шолт</st>
+     </stg><stress>шолт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(short and abrupt sound, flick, knock); (rapid and abrupt action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шолт-шолт</l>
+     <stg>
+       <st Contlex="DESCR_">шолт-шолт</st>
+     </stg><stress>шолт-шолт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hit, knock)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шорек-шорек</l>
+     <stg>
+       <st Contlex="DESCR_">шоре•к-шоре•к</st>
+     </stg><stress>шоре•к-шоре•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(bird screeching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шорик</l>
+     <stg>
+       <st Contlex="DESCR_">шори•к</st>
+     </stg><stress>шори•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(piercing sound, squeal, whistle, screech)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шор-р</l>
+     <stg>
+       <st Contlex="DESCR_">шор-р</st>
+     </stg><stress>шор-р</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(loud noise)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шорт [2]</l>
+     <stg>
+       <st Contlex="DESCR_">шорт [2]</st>
+     </stg><stress>шорт [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunch, crackle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шотыр</l>
+     <stg>
+       <st Contlex="DESCR_">шо•тыр</st>
+     </stg><stress>шо•тыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cracking, crackling, crunching, snapping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шотыр-шотыр</l>
+     <stg>
+       <st Contlex="DESCR_">шо•тыр-шо•тыр</st>
+     </stg><stress>шо•тыр-шо•тыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шри</l>
+     <stg>
+       <st Contlex="DESCR_">шри</st>
+     </stg><stress>шри</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(smile, grin)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шрок</l>
+     <stg>
+       <st Contlex="DESCR_">шрок</st>
+     </stg><stress>шрок</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(tearing); (scratch, strike, quick touching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шрок-шрок</l>
+     <stg>
+       <st Contlex="DESCR_">шрок-шрок</st>
+     </stg><stress>шрок-шрок</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(snorting, release of air)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шроҥ</l>
+     <stg>
+       <st Contlex="DESCR_">шроҥ</st>
+     </stg><stress>шроҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp movement); (crash, burst)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шроҥ-шроҥ</l>
+     <stg>
+       <st Contlex="DESCR_">шроҥ-шроҥ</st>
+     </stg><stress>шроҥ-шроҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crash, burst)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шроп</l>
+     <stg>
+       <st Contlex="DESCR_">шроп</st>
+     </stg><stress>шроп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clap, knock, strike)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шрӧп</l>
+     <stg>
+       <st Contlex="DESCR_">шрӧп</st>
+     </stg><stress>шрӧп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(loud slurping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шрӱҥ-шрӱҥ</l>
+     <stg>
+       <st Contlex="DESCR_">шрӱҥ-шрӱҥ</st>
+     </stg><stress>шрӱҥ-шрӱҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(blow, strike, knock, crash)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шувырдик</l>
+     <stg>
+       <st Contlex="DESCR_">шувырди•к</st>
+     </stg><stress>шувырди•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(falling into water, splash)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шудырт</l>
+     <stg>
+       <st Contlex="DESCR_">шу•дырт</st>
+     </stg><stress>шу•дырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(breaking, crunching, crackling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шуй</l>
+     <stg>
+       <st Contlex="DESCR_">шуй</st>
+     </stg><stress>шуй</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(fear, terror)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шуй-шуй</l>
+     <stg>
+       <st Contlex="DESCR_">шуй-шуй</st>
+     </stg><stress>шуй-шуй</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid heartbeat when scared, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шу-у</l>
+     <stg>
+       <st Contlex="DESCR_">шу-у</st>
+     </stg><stress>шу-у</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(falling into water); (loud laughter)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыве-шаве</l>
+     <stg>
+       <st Contlex="DESCR_">шы•ве-ша•ве</st>
+     </stg><stress>шы•ве-ша•ве</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(swishing, rapid movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыве-шово</l>
+     <stg>
+       <st Contlex="DESCR_">шы•ве-шо•во</st>
+     </stg><stress>шы•ве-шо•во</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(water splashing)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыве-шыве</l>
+     <stg>
+       <st Contlex="DESCR_">шы•ве-шы•ве</st>
+     </stg><stress>шы•ве-шы•ве</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(light rain); (speaking softly and calmly, whispering); (soft rustling of leaves)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шывырдӱҥ</l>
+     <stg>
+       <st Contlex="DESCR_">шывырдӱ•ҥ</st>
+     </stg><stress>шывырдӱ•ҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>splash, plop (something heavy falling into water)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шывыр-шовыр</l>
+     <stg>
+       <st Contlex="DESCR_">шы•выр-шо•выр</st>
+     </stg><stress>шы•выр-шо•выр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(falling into water, floundering in water)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шывыр-шӱвыр</l>
+     <stg>
+       <st Contlex="DESCR_">шы•выр-шӱ•выр</st>
+     </stg><stress>шы•выр-шӱ•выр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(falling into water, floundering in water)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыгырдык-шыгырдык</l>
+     <stg>
+       <st Contlex="DESCR_">шы•гырдык-шы•гырдык</st>
+     </stg><stress>шы•гырдык-шы•гырдык</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(magpie chirping)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыдыр</l>
+     <stg>
+       <st Contlex="DESCR_">шы•дыр</st>
+     </stg><stress>шы•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunch, crack, crackle); (burning sensation, pain, cold)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыдырт-шыдырт</l>
+     <stg>
+       <st Contlex="DESCR_">шы•дырт-шы•дырт</st>
+     </stg><stress>шы•дырт-шы•дырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunch, crack, crackle, grating, creaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыдыр-шодыр</l>
+     <stg>
+       <st Contlex="DESCR_">шы•дыр-шо•дыр</st>
+     </stg><stress>шы•дыр-шо•дыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crunch, crack, crackle, grating, creaking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыж</l>
+     <stg>
+       <st Contlex="DESCR_">шыж</st>
+     </stg><stress>шыж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(nausea)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шылде-голдо</l>
+     <stg>
+       <st Contlex="DESCR_">шы•лде-го•лдо</st>
+     </stg><stress>шы•лде-го•лдо</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crash, din, clatter, heavy objects falling, knocking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шылдыр-голдыр</l>
+     <stg>
+       <st Contlex="DESCR_">шы•лдыр-го•лдыр</st>
+     </stg><stress>шы•лдыр-го•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knocking, rumbling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шылт-шолт</l>
+     <stg>
+       <st Contlex="DESCR_">шылт-шолт</st>
+     </stg><stress>шылт-шолт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knocking, hitting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыр [2]</l>
+     <stg>
+       <st Contlex="DESCR_">шыр [2]</st>
+     </stg><stress>шыр [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(pleasant smile, friendly smile); (radiant sun, bright sunshine)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыр-гор</l>
+     <stg>
+       <st Contlex="DESCR_">шыр-гор</st>
+     </stg><stress>шыр-гор</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(noisy action, careless action, hasty action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шырдоҥ</l>
+     <stg>
+       <st Contlex="DESCR_">шырдо•ҥ</st>
+     </stg><stress>шырдо•ҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crack, knock, rattle, rumble)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шырий</l>
+     <stg>
+       <st Contlex="DESCR_">шыри•й</st>
+     </stg><stress>шыри•й</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(small smile, superficial smile)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шырлоп</l>
+     <stg>
+       <st Contlex="DESCR_">шырло•п</st>
+     </stg><stress>шырло•п</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(clap, slap, hit)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыроҥ</l>
+     <stg>
+       <st Contlex="DESCR_">шыро•ҥ</st>
+     </stg><stress>шыро•ҥ</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(hit, slap)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыр-р [1]</l>
+     <stg>
+       <st Contlex="DESCR_">шыр-р [1]</st>
+     </stg><stress>шыр-р [1]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(something loose, fine falling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шырт-март</l>
+     <stg>
+       <st Contlex="DESCR_">шырт-март</st>
+     </stg><stress>шырт-март</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid action, hasty action, hasty speech)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шырт-шорт</l>
+     <stg>
+       <st Contlex="DESCR_">шырт-шорт</st>
+     </stg><stress>шырт-шорт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(crack, crackle, crunch)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шырт-шырт</l>
+     <stg>
+       <st Contlex="DESCR_">шырт-шырт</st>
+     </stg><stress>шырт-шырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(cracking, crunching)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыр-шор</l>
+     <stg>
+       <st Contlex="DESCR_">шыр-шор</st>
+     </stg><stress>шыр-шор</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(bursting, ripping, loose items falling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыр-шыр</l>
+     <stg>
+       <st Contlex="DESCR_">шыр-шыр</st>
+     </stg><stress>шыр-шыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(jingle of coins); (water purling, water babbling, water murmuring)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыт-шыт-шыт</l>
+     <stg>
+       <st Contlex="DESCR_">шыт-шыт-шыт</st>
+     </stg><stress>шыт-шыт-шыт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(knocking, cracking)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шытыр</l>
+     <stg>
+       <st Contlex="DESCR_">шы•тыр</st>
+     </stg><stress>шы•тыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creak, crunch, crackle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шытырик</l>
+     <stg>
+       <st Contlex="DESCR_">шытыри•к</st>
+     </stg><stress>шытыри•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creak, crunch, crackle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шытыр-шотыр</l>
+     <stg>
+       <st Contlex="DESCR_">шы•тыр-шо•тыр</st>
+     </stg><stress>шы•тыр-шо•тыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creak, crunch, crackle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шытыр-шытыр</l>
+     <stg>
+       <st Contlex="DESCR_">шы•тыр-шы•тыр</st>
+     </stg><stress>шы•тыр-шы•тыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creak, crunch, crackle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юво-юво</l>
+     <stg>
+       <st Contlex="DESCR_">ю•во-ю•во</st>
+     </stg><stress>ю•во-ю•во</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(noisy and chaotic movement of a group of people or animals); (quickly and noisily)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юж-ж</l>
+     <stg>
+       <st Contlex="DESCR_">юж-ж</st>
+     </stg><stress>юж-ж</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(rapid noisy movement through air); (chills, shivers, fever, fear, silent horror)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юлдырт</l>
+     <stg>
+       <st Contlex="DESCR_">ю•лдырт</st>
+     </stg><stress>ю•лдырт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden disappearance of someone or something)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юлдыр-ялдыр</l>
+     <stg>
+       <st Contlex="DESCR_">ю•лдыр-я•лдыр</st>
+     </stg><stress>ю•лдыр-я•лдыр</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>coquettishly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юл-л</l>
+     <stg>
+       <st Contlex="DESCR_">юл-л</st>
+     </stg><stress>юл-л</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>swoosh (swift and noiseless flight, drop)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юлт</l>
+     <stg>
+       <st Contlex="DESCR_">юлт</st>
+     </stg><stress>юлт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sharp, sudden movement, sudden appearance or disappearance of someone or something)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юл-юл</l>
+     <stg>
+       <st Contlex="DESCR_">юл-юл</st>
+     </stg><stress>юл-юл</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(glittering, glimmering, twinkling, sparkling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юп</l>
+     <stg>
+       <st Contlex="DESCR_">юп</st>
+     </stg><stress>юп</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(uneasiness, confusion, perplexity, embarrassment)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юпыз-з</l>
+     <stg>
+       <st Contlex="DESCR_">ю•пыз-з</st>
+     </stg><stress>ю•пыз-з</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(creeping, sliding movement)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юргылдым-юргылдым</l>
+     <stg>
+       <st Contlex="DESCR_">ю•ргылдым-ю•ргылдым</st>
+     </stg><stress>ю•ргылдым-ю•ргылдым</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(jump, leap)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юрик</l>
+     <stg>
+       <st Contlex="DESCR_">юри•к</st>
+     </stg><stress>юри•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sinking feeling, uneasiness, unexpectedness, surprise); (sudden quick movement, jump)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юрик-юрик</l>
+     <stg>
+       <st Contlex="DESCR_">юри•к-юри•к</st>
+     </stg><stress>юри•к-юри•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(pulsating beats)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юрк</l>
+     <stg>
+       <st Contlex="DESCR_">юрк</st>
+     </stg><stress>юрк</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sinking feeling, uneasiness, unexpectedness, surprise); (sudden quick movement, jump)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юрт</l>
+     <stg>
+       <st Contlex="DESCR_">юрт</st>
+     </stg><stress>юрт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden action); (sinking feeling, uneasiness)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юртик</l>
+     <stg>
+       <st Contlex="DESCR_">юрти•к</st>
+     </stg><stress>юрти•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden quick and sharp action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юртылдик</l>
+     <stg>
+       <st Contlex="DESCR_">юртылди•к</st>
+     </stg><stress>юртылди•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(sudden jump)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юртым-юртым</l>
+     <stg>
+       <st Contlex="DESCR_">ю•ртым-ю•ртым</st>
+     </stg><stress>ю•ртым-ю•ртым</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(jumping from place to place)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ючик</l>
+     <stg>
+       <st Contlex="DESCR_">ючи•к</st>
+     </stg><stress>ючи•к</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(uneasiness, fear, surprise)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ючыл</l>
+     <stg>
+       <st Contlex="DESCR_">ю•чыл</st>
+     </stg><stress>ю•чыл</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(straight, stretched out position of a long, high object)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юшт</l>
+     <stg>
+       <st Contlex="DESCR_">юшт</st>
+     </stg><stress>юшт</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(swift, short movement, such as a jump, entrance, etc.)</t>
+     </tg>
+   </mg>
+</e>
+</r>

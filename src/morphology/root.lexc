@@ -45,6 +45,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Interj !!≈ * __@CODE@__ = interjections
 +Pcle   !!≈ * __@CODE@__ = particles
 +Num    !!≈ * __@CODE@__ = numerals
++Descr	!!≈ * __@CODE@__ = descriptive ideophones
 
 !! !POS subtags
 !! The parts of speech are further split up into:
@@ -560,6 +561,7 @@ adjectives  ;	   !!= * @CODE@
 adverbs  ;		   !!=   @CODE@ 
 conjunctions  ;	   !!=   @CODE@ 
 dependents   ;	   !!=   @CODE@ 
+descriptives   ;	   !!=   @CODE@ 
 interjections   ;  !!=   @CODE@ 
 nouns   ;		   !!=   @CODE@ 
 numbers    ;   !!=   @CODE@ 
@@ -594,6 +596,9 @@ LEXICON CC_ !!= * @CODE@ conjunctinos
 
 LEXICON CS_ !!= * @CODE@ subjunctions
 +CS: # ;
+
+LEXICON DESCR_
++Descr: K ;
 
 LEXICON ADV_ !!= * @CODE@ adverbs
 +Adv: K ;
