@@ -106,7 +106,7 @@
        <t>{predicative}five</t>
      </tg>
      <tg xml:lang="fin">
-       <t>viisi KvK</t>
+       <t pos="Num">viisi</t>
      </tg>
    </mg>
 </e>
@@ -172,7 +172,7 @@
    <lg>
      <l pos="Num">вич</l>
      <stg>
-       <st Contlex="KvK">вич</st>
+       <st Contlex="KvK_ATTR">вич</st>
      </stg> <stress>вич</stress>
    </lg>
    <mg>
@@ -239,32 +239,19 @@
      </tg>
    </mg>
 </e>
-<e order="1">
-   <lg>
-     <l pos="Num">ик</l>
-     <stg>
-       <st Contlex="KvK">ик</st>
-     </stg> <stress>ик</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t>one</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>yksi KvK</t>
-     </tg>
-   </mg>
-</e>
 <e order="2">
    <lg>
      <l pos="Num">ик</l>
      <stg>
-       <st Contlex="KvK">ик</st>
+       <st Contlex="KvK_ATTR">ик</st>
      </stg> <stress>ик</stress>
    </lg>
    <mg>
      <tg xml:lang="eng">
        <t>one; one, the same; a, one, some; roughly, about, circa, around; single, united; single, sole</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yksi KvK</t>
      </tg>
    </mg>
 </e>
@@ -382,7 +369,7 @@
    <lg>
      <l pos="Num">индеш</l>
      <stg>
-       <st Contlex="KvK">индеш</st>
+       <st Contlex="KvK_ATTR">индеш</st>
      </stg> <stress>инде•ш</stress>
    </lg>
    <mg>
@@ -443,7 +430,7 @@
    <lg>
      <l pos="Num">индешлуымше</l>
      <stg>
-       <st Contlex="KvK">индешлуымш%{еы%}</st>
+       <st Contlex="KvO">индешлуымш%{еы%}</st>
      </stg>
    </lg>
    <mg>
@@ -557,7 +544,7 @@
    <lg>
      <l pos="Num">кандаш</l>
      <stg>
-       <st Contlex="KvK">кандаш</st>
+       <st Contlex="KvK_ATTR">кандаш</st>
      </stg> <stress>канда•ш</stress>
    </lg>
    <mg>
@@ -650,7 +637,7 @@
    <lg>
      <l pos="Num">кандашшӱдӧ</l>
      <stg>
-       <st Contlex="KvK">кандашшӱ•дӧ%{ӧы%}</st>
+       <st Contlex="KvK">кандашшӱ•д%{ӧы%}</st>
      </stg> <stress>кандашшӱ•дӧ</stress>
    </lg>
    <mg>
@@ -758,7 +745,7 @@
    <lg>
      <l pos="Num">кок</l>
      <stg>
-       <st Contlex="KvK">кок</st>
+       <st Contlex="KvK_ATTR">кок</st>
      </stg> <stress>кок</stress>
    </lg>
    <mg>
@@ -767,19 +754,6 @@
      </tg>
      <tg xml:lang="fin">
        <t>kaksi KvK</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Num">кок(ыт) [1]</l>
-     <stg>
-       <st Contlex="KvK">ко•к(ыт) [1]</st>
-     </stg> <stress>ко•к(ыт) [1]</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t>two</t>
      </tg>
    </mg>
 </e>
@@ -944,7 +918,7 @@
    <lg>
      <l pos="Num">куд</l>
      <stg>
-       <st Contlex="KvK">куд</st>
+       <st Contlex="KvK_ATTR">куд</st>
      </stg> <stress>ку•д</stress>
    </lg>
    <mg>
@@ -958,9 +932,9 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Num">куд(ыт)</l>
+     <l pos="Num">кудыт</l>
      <stg>
-       <st Contlex="KvK">ку•д(ыт)</st>
+       <st Contlex="KvK">ку•дыт</st>
      </stg> <stress>ку•д(ыт)</stress>
    </lg>
    <mg>
@@ -1095,7 +1069,7 @@
    <lg>
      <l pos="Num">кум</l>
      <stg>
-       <st Contlex="KvK">кум</st>
+       <st Contlex="KvK_ATTR">кум</st>
      </stg> <stress>кум</stress>
    </lg>
    <mg>
@@ -1109,9 +1083,9 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Num">кум(ыт) [1]</l>
+     <l pos="Num">кумыт</l>
      <stg>
-       <st Contlex="KvK">ку•м(ыт) [1]</st>
+       <st Contlex="KvK">ку•мыт</st>
      </stg> <stress>ку•м(ыт) [1]</stress>
    </lg>
    <mg>
@@ -1276,22 +1250,6 @@
      </tg>
    </mg>
 </e>
-<e order="1">
-   <lg>
-     <l pos="Num">кумыт</l>
-     <stg>
-       <st Contlex="KvK">кумыт</st>
-     </stg> <stress>ку•мыт</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t>three</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>kolme KvK</t>
-     </tg>
-   </mg>
-</e>
 <e order="2">
    <lg>
      <l pos="Num">латвизымше</l>
@@ -1328,7 +1286,7 @@
    <lg>
      <l pos="Num">латвич</l>
      <stg>
-       <st Contlex="KvK">латви•ч</st>
+       <st Contlex="KvK_ATTR">латви•ч</st>
      </stg> <stress>латви•ч</stress>
    </lg>
    <mg>
@@ -1344,7 +1302,7 @@
    <lg>
      <l pos="Num">латик</l>
      <stg>
-       <st Contlex="KvK">латик</st>
+       <st Contlex="KvK_ATTR">латик</st>
      </stg> <stress>лати•к</stress>
    </lg>
    <mg>
@@ -1405,7 +1363,7 @@
    <lg>
      <l pos="Num">латиндеш</l>
      <stg>
-       <st Contlex="KvK">латиндеш</st>
+       <st Contlex="KvK_ATTR">латиндеш</st>
      </stg> <stress>латинде•ш</stress>
    </lg>
    <mg>
@@ -1450,7 +1408,7 @@
    <lg>
      <l pos="Num">латкандаш</l>
      <stg>
-       <st Contlex="KvK">латкандаш</st>
+       <st Contlex="KvK_ATTR">латкандаш</st>
      </stg> <stress>латканда•ш</stress>
    </lg>
    <mg>
@@ -1495,7 +1453,7 @@
    <lg>
      <l pos="Num">латкок</l>
      <stg>
-       <st Contlex="KvK">латкок</st>
+       <st Contlex="KvK_ATTR">латкок</st>
      </stg> <stress>латко•к</stress>
    </lg>
    <mg>
@@ -1506,9 +1464,9 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Num">латкок(ыт)</l>
+     <l pos="Num">латкокыт</l>
      <stg>
-       <st Contlex="KvK">латко•к(ыт)</st>
+       <st Contlex="KvK">латко•кыт</st>
      </stg> <stress>латко•к(ыт)</stress>
    </lg>
    <mg>
@@ -1533,45 +1491,16 @@
      </tg>
    </mg>
 </e>
-<e order="2">
-   <lg>
-     <l pos="Num">латкокыт</l>
-     <stg>
-       <st Contlex="KvK">латко•кыт</st>
-     </stg> <stress>латко•кыт</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t>twelve</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>kaksitoista KvK</t>
-     </tg>
-   </mg>
-</e>
 <e order="1">
    <lg>
      <l pos="Num">латкуд</l>
      <stg>
-       <st Contlex="KvK">латкуд</st>
+       <st Contlex="KvK_ATTR">латкуд</st>
      </stg> <stress>латку•д</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
        <t>kuusitoista KvK</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Num">латкуд(ыт)</l>
-     <stg>
-       <st Contlex="KvK">латку•д(ыт)</st>
-     </stg> <stress>латку•д(ыт)</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t>sixteen</t>
      </tg>
    </mg>
 </e>
@@ -1611,7 +1540,7 @@
    <lg>
      <l pos="Num">латкум</l>
      <stg>
-       <st Contlex="KvK">латкум</st>
+       <st Contlex="KvK_ATTR">латкум</st>
      </stg> <stress>латку•м</stress>
    </lg>
    <mg>
@@ -1666,7 +1595,22 @@
    <lg>
      <l pos="Num">латныл</l>
      <stg>
-       <st Contlex="KvK">латныл</st>
+       <st Contlex="KvK_ATTR">латныл</st>
+     </stg> <stress>латны•л</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>fourteen</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>neljätoista</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латнылыт</l>
+     <stg>
        <st Contlex="KvK">латны•лыт</st>
      </stg> <stress>латны•л(ыт)</stress>
    </lg>
@@ -1695,45 +1639,16 @@
      </tg>
    </mg>
 </e>
-<e order="2">
-   <lg>
-     <l pos="Num">латнылыт</l>
-     <stg>
-       <st Contlex="KvK">латны•лыт</st>
-     </stg> <stress>латны•лыт</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t>fourteen</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>neljätoista KvK</t>
-     </tg>
-   </mg>
-</e>
 <e order="1">
    <lg>
      <l pos="Num">латшым</l>
      <stg>
-       <st Contlex="KvK">латшым</st>
+       <st Contlex="KvK_ATTR">латшым</st>
      </stg> <stress>латшы•м</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
        <t>seitsemäntoista KvK</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Num">латшым(ыт)</l>
-     <stg>
-       <st Contlex="KvK">латшы•м(ыт)</st>
-     </stg> <stress>латшы•м(ыт)</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t>seventeen</t>
      </tg>
    </mg>
 </e>
@@ -1816,7 +1731,6 @@
      <l pos="Num">лучко</l>
      <stg>
        <st Contlex="KvK">лу•чк%{оы%}</st>
-       <st Contlex="KvK">лучк%{еы%}</st>
      </stg> <stress>лу•чко</stress>
    </lg>
    <mg>
@@ -1977,8 +1891,7 @@
    <lg>
      <l pos="Num">ныл</l>
      <stg>
-       <st Contlex="KvK">ныл</st>
-       <st Contlex="KvK">ны•лыт</st>
+       <st Contlex="KvK_ATTR">ныл</st>
      </stg> <stress>ны•л(ыт)</stress>
    </lg>
    <mg>
@@ -2343,27 +2256,18 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Num">шишим(ыт)</l>
+     <l pos="Num">шымыт</l>
      <stg>
-       <st Contlex="KvK">шиши•м(ыт)</st>
-     </stg> <stress>шиши•м(ыт)</stress>
+       <st Contlex="KvK">шы•мыт</st>
+       <st Contlex="KvK" status="Err/Orth">шиши•мыт</st>
+     </stg> <stress>шы•мыт</stress>
    </lg>
    <mg>
      <tg xml:lang="eng">
        <t>seven</t>
      </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Num">шишимыт</l>
-     <stg>
-       <st Contlex="KvK">шиши•мыт</st>
-     </stg> <stress>шиши•мыт</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t>seven</t>
+     <tg xml:lang="fin">
+       <t>seitsemän KvK</t>
      </tg>
    </mg>
 </e>
@@ -2410,8 +2314,8 @@
    <lg>
      <l pos="Num">шым</l>
      <stg>
-       <st Contlex="KvK">шым</st>
-       <st Contlex="KvK">шы•мыт</st>
+       <st Contlex="KvK_ATTR">шым</st>
+       <st Contlex="KvK_ATTR" status="Err/Orth">шишим</st>
      </stg> <stress>шы•м(ыт) [2]</stress>
    </lg>
    <mg>
@@ -2428,24 +2332,15 @@
      <l pos="Num">шымле</l>
      <stg>
        <st Contlex="KvK">шы•мл%{еы%}</st>
+       <st Contlex="KvK" status="Err/Orth">шымлу</st>
      </stg> <stress>шы•мле</stress>
    </lg>
    <mg>
      <tg xml:lang="eng">
        <t>seventy</t>
      </tg>
-   </mg>
-</e>
-<e order="1">
-   <lg>
-     <l pos="Num">шымлу</l>
-     <stg>
-       <st Contlex="KvK">шымлу</st>
-     </stg>
-   </lg>
-   <mg>
      <tg xml:lang="fin">
-       <t>seitsemänkymmentä KvK</t>
+       <t>seitsemänkymmentä</t>
      </tg>
    </mg>
 </e>
@@ -2454,7 +2349,7 @@
      <l pos="Num">шымлымше</l>
      <stg>
        <st Contlex="KvO">шы•млымш%{еы%}</st>
-       <st Contlex="KvO">шымлуымш%{еы%}</st>
+       <st Contlex="KvO" status="Err/Orth">шымлуымш%{еы%}</st>
      </stg> <stress>шы•млымше</stress>
    </lg>
    <mg>
@@ -2511,22 +2406,6 @@
      </tg>
      <tg xml:lang="fin">
        <t>seitsemänsataa</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Num">шымыт</l>
-     <stg>
-       <st Contlex="KvK">шы•мыт</st>
-     </stg> <stress>шы•мыт</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t>seven</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>seitsemän KvK</t>
      </tg>
    </mg>
 </e>
