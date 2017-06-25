@@ -9,6 +9,9 @@ LEXICON KvMurt !!= * @CODE@
 LEXICON KvK !!= * @CODE@ cardinal numerals
 +Num: # ;
 
+LEXICON KvK_ATTR !!= * @CODE@ cardinal numerals in noun phrase scope
++Num+Attr: # ;
+
 
 LEXICON KvKoll !!= * @CODE@
 +Num: # ;
