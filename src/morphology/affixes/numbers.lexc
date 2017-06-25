@@ -6,7 +6,7 @@ LEXICON QNT_  !!= * @CODE@
 LEXICON KvMurt !!= * @CODE@
 +Num: # ;
 
-LEXICON KvK !!= * @CODE@
+LEXICON KvK !!= * @CODE@ cardinal numerals
 +Num: # ;
 
 
@@ -16,8 +16,8 @@ LEXICON KvKoll !!= * @CODE@
 LEXICON KvInd !!= * @CODE@
 +Num: # ;
 
-LEXICON KvO !!= * @CODE@
-+Num: # ;
+LEXICON KvO !!= * @CODE@ Ordinals, also non-numerals (hmm, change?)
++Num+Ord: # ;
 
 
 LEXICON Kv-a/e  !!= * @CODE@
