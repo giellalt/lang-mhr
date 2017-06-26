@@ -55,7 +55,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst">
    <lg>
      <l pos="Num">визыньда</l>
      <stg>
@@ -68,7 +68,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst">
    <lg>
      <l pos="Num">визыньна</l>
      <stg>
@@ -81,11 +81,11 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e>
    <lg>
      <l pos="Num">визыньышт</l>
      <stg>
-       <st Contlex="N_">ви•зыньышт</st>
+       <st Contlex="NUM-COLL_">ви•зынь</st>
      </stg> <stress>ви•зыньышт</stress>
    </lg>
    <mg>
@@ -702,7 +702,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst">
    <lg>
      <l pos="Num">когыньда</l>
      <stg>
@@ -715,7 +715,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst">
    <lg>
      <l pos="Num">когыньна</l>
      <stg>
@@ -728,11 +728,11 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e>
    <lg>
-     <l pos="Num">когыньышт</l>
+     <l pos="Num" type="Coll">когыньышт</l>
      <stg>
-       <st Contlex="N_">ко•гыньышт</st>
+       <st Contlex="NUM-COLL_2-3">ко•гы</st>
      </stg> <stress>ко•гыньышт</stress>
    </lg>
    <mg>
@@ -1211,7 +1211,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst">
    <lg>
      <l pos="Num">кумыньда</l>
      <stg>
@@ -1224,7 +1224,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst">
    <lg>
      <l pos="Num">кумыньна</l>
      <stg>
@@ -1237,11 +1237,11 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e>
    <lg>
      <l pos="Num">кумыньышт</l>
      <stg>
-       <st Contlex="N_">ку•мыньышт</st>
+       <st Contlex="NUM-COLL_2-3">ку•мы</st>
      </stg> <stress>ку•мыньышт</stress>
    </lg>
    <mg>
@@ -1805,19 +1805,6 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Num">миллиардер</l>
-     <stg>
-       <st Contlex="N_">миллиарде•р</st>
-     </stg> <stress>миллиарде•р</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t>billionaire</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
      <l pos="Num">миллиардымше</l>
      <stg>
        <st Contlex="KvO">миллиа•рдымш%{еы%}</st>
@@ -2009,7 +1996,7 @@
    <lg>
      <l pos="Num">нылынек</l>
      <stg>
-       <st Contlex="KvK">нылынек</st>
+       <st Contlex="KvKoll">нылынек</st>
      </stg>
    </lg>
    <mg>
@@ -2018,11 +2005,11 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst">
    <lg>
      <l pos="Num">нылыньда</l>
      <stg>
-       <st Contlex="N_">нылыньда•</st>
+       <st Contlex="NUM-COLL_">нылыньда•</st>
      </stg> <stress>нылыньда•</stress>
    </lg>
    <mg>
@@ -2031,11 +2018,11 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e exclude="fst">
    <lg>
      <l pos="Num">нылыньна</l>
      <stg>
-       <st Contlex="N_">нылыньна•</st>
+       <st Contlex="NUM-COLL_">нылыньна•</st>
      </stg> <stress>нылыньна•</stress>
    </lg>
    <mg>
@@ -2044,11 +2031,11 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e>
    <lg>
      <l pos="Num">нылыньышт</l>
      <stg>
-       <st Contlex="N_">ны•лыньышт</st>
+       <st Contlex="NUM-COLL_">ны•лынь</st>
      </stg> <stress>ны•лыньышт</stress>
    </lg>
    <mg>

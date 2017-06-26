@@ -5,9 +5,7 @@ LEXICON numbers
 амиян:амиян QNT_  "" ;
 весе:вес%{еы%} KvO  "toinen KvO" ;
 визымше:ви•зымш%{еы%} KvO  "viides KvO" ;
-визыньда:визыньда• N_  "" ;
-визыньна:визыньна• N_  "" ;
-визыньышт:ви•зыньышт N_  "" ;
+визыньышт:ви•зынь NUM-COLL_  "" ;
 визыт:ви•зыт KvK  "viisi" ;
 визытын:визытын KvKoll  "viidestään KvKoll" ;
 витле:ви•тл%{еы%} KvK  "viisikymmentä KvK" ;
@@ -50,9 +48,7 @@ LEXICON numbers
 кандашымше:кандашымше QNT_  "" ;
 кандашын:кандашын KvKoll  "kahdeksastaan KvKoll" ;
 кандаымше:кандаымш%{еы%} KvO  "kahdeksas KvO" ;
-когыньда:когыньда• N_  "" ;
-когыньна:когыньна• N_  "" ;
-когыньышт:ко•гыньышт N_  "" ;
+когыньышт:ко•гы NUM-COLL_2-3  "" ;
 кок:кок KvK_ATTR  "kaksi KvK" ;
 кок-кум:кок-кум N_  "" ;
 коктын:коктын KvKoll  "kahden (kesken) KvKoll" ;
@@ -84,9 +80,7 @@ LEXICON numbers
 кумшӱдымшӧ:кумшӱ•дымш%{ӧы%} KvO  "kolmassadas" ;
 кумшӱдӧ:кумшӱ•д%{ӧы%} KvK  "kolmesataa KvK" ;
 кумынек:кумынек KvKoll  "kaikki kolme KvKoll" ;
-кумыньда:кумыньда• N_  "" ;
-кумыньна:кумыньна• N_  "" ;
-кумыньышт:ку•мыньышт N_  "" ;
+кумыньышт:ку•мы NUM-COLL_2-3  "" ;
 латвизымше:латви•зымш%{еы%} KvO  "viidestoista KvO" ;
 латвизыт:латвизыт KvK  "viisitoista KvK" ;
 латвич:латви•ч KvK_ATTR  "viisitoista KvK" ;
@@ -124,7 +118,6 @@ LEXICON numbers
 луымшо:лу•ымш%{оы%} KvO  "kymmenen" ;
 луын:луын KvKoll  "kymmenestään KvKoll" ;
 миллиард:миллиа•рд KvK  "miljardi KvK" ;
-миллиардер:миллиарде•р N_  "" ;
 миллиардымше:миллиа•рдымш%{еы%} KvO  "" ;
 миллион:миллио•н KvK  "miljoona KvK" ;
 миллионымшо:миллио•нымш%{оы%} KvO  "" ;
@@ -137,10 +130,8 @@ LEXICON numbers
 нылшӱдымшӧ:нылшӱ•дымш%{ӧы%} KvO  "neljässadas" ;
 нылшӱдӧ:нылшӱ•д%{ӧы%} KvK  "neljäsataa KvK" ;
 нылымше:ны•лымш%{еы%} KvO  "neljäs KvO" ;
-нылынек:нылынек KvK  "kaikki neljä KvK" ;
-нылыньда:нылыньда• N_  "" ;
-нылыньна:нылыньна• N_  "" ;
-нылыньышт:ны•лыньышт N_  "" ;
+нылынек:нылынек KvKoll  "kaikki neljä KvK" ;
+нылыньышт:ны•лынь NUM-COLL_  "" ;
 нылыт:ны•лыт KvK  "neljä KvK" ;
 нылытын:нылытын KvKoll  "neljästään KvKoll" ;
 осьмушка:осьмушка KvMurt  "kahdeksannes KvMurt" ;
