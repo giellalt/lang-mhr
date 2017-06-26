@@ -16,11 +16,40 @@ LEXICON KvK_ATTR !!= * @CODE@ cardinal numerals in noun phrase scope
 LEXICON KvKoll !!= * @CODE@
 +Num: # ;
 
+
+LEXICON NUM-COLL_ !!= * @CODE@
++Num+Coll+Acc+PxPl1:%>нам # ;
++Num+Coll+Acc+PxPl2:%>дам # ;
++Num+Coll+Acc+PxPl3:%>ыштым # ;
++Num+Coll+Dat+PxPl1:%>налан # ;
++Num+Coll+Dat+PxPl2:%>далан # ;
++Num+Coll+Dat+PxPl3:%>ыштлан # ;
++Num+Coll+Gen+PxPl1:%>нан # ;
++Num+Coll+Gen+PxPl2:%>дан # ;
++Num+Coll+Gen+PxPl3:%>ыштын # ;
++Num+Coll+Nom+PxPl1:%>на # ;
++Num+Coll+Nom+PxPl2:%>да # ;
++Num+Coll+Nom+PxPl3:%>ышт # ;
+
+LEXICON NUM-COLL_2-3 !!= * @CODE@
++Num+Coll+Acc+PxPl1:%>ньнам # ;
++Num+Coll+Acc+PxPl2:%>ньдам # ;
++Num+Coll+Acc+PxPl3:%>ньыштым # ;
++Num+Coll+Dat+PxPl1:%>лянна # ;
++Num+Coll+Dat+PxPl2:%>лянда # ;
++Num+Coll+Dat+PxPl3:%>лянышт # ;
++Num+Coll+Gen+PxPl1:%>ньнан # ;
++Num+Coll+Gen+PxPl2:%>ньдан # ;
++Num+Coll+Gen+PxPl3:%>ньыштын # ;
++Num+Coll+Nom+PxPl1:%>ньна # ;
++Num+Coll+Nom+PxPl2:%>ньда # ;
++Num+Coll+Nom+PxPl3:%>ньышт # ;
+
 LEXICON KvInd !!= * @CODE@
 +Num: # ;
 
 LEXICON KvO !!= * @CODE@ Ordinals, also non-numerals (hmm, change?)
-+Num+Ord: # ;
++A+Ord: # ;
 
 
 LEXICON Kv-a/e  !!= * @CODE@
