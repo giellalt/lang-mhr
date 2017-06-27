@@ -394,10 +394,11 @@ Rules
 !!$ ава%>жы%>де
 
 
-"Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs "
+! This rule gives error (cf. Introduction of %^V2IMPRT:0 to deal with single-syllable -em verbs in й.)
+!"Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs "
 !! __ @RULENAME@ __
-%^V2IMPRT:0 /<= _ ;
- except .#. (Cns) [у|ӱ|ӧ|о|е|э|ю|и|ы] (•:) й %> _ ;
+!%^V2IMPRT:0 /<= _ ;
+! except .#. (Cns) [у|ӱ|ӧ|о|е|э|ю|и|ы] (•:) й %> _ ;
 
 
 ! just to see whether other tests pass:
