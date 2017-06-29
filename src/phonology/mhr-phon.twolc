@@ -18,10 +18,10 @@ Alphabet
 
 !! Archiphonemes for vowels, Giellatekno style
   е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я  !!= * @CODE@ 
-  Ы1:ы Ы1:0
- Ы2:ы Ы2:0   !!= * @CODE@ Variation in еоыӧØ
-  А1:а А1:ӓ   !!= * @CODE@ 
-  Е2:е Е2:0 А2:а А2:я  !!= * @CODE@ 
+  Ы1:ы 
+ Ы2:ы    !!= * @CODE@ Variation in еоыӧØ
+  А1:а   !!= * @CODE@ 
+  Е2:е А2:а  !!= * @CODE@ 
 
 !! Archiphonemes for vowels, Apertium style
 %{аы%}:а !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
@@ -149,29 +149,29 @@ Rules
 
 "suffix-final vowel realized after stem-final consonant"
 !! __ @RULENAME@ __  
-  Ы2:ы <=>  Cns %> [ ж: | д ы м ] _ %> [ л | г | ш [ т | к ] | д | Ы1: ] ;
-            Vow (•:) %> [ ж | д ы м ] _ %> Ы1: [ м | н ] ;
+  Ы2:ы <=>      Cns %> [ ж: | д ы м ] _ %>     [ л | г | ш [ т | к ] | д | Ы1: ] ;
+           Vow (•:) %> [ ж  | д ы м ] _ %> Ы1: [ м | н ] ;
 !            %>  Ы1: ш [ т | к ]  _ %> Ы1: ;
 
 "suffix-final vowel realized as -Round in word-final position е "
 !! __ @RULENAME@ __  
   Ы2:е <=>
-  FrontUnrounded %> (%{ьØ%}:) [ ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | д| ш | м | д ы м ] _ [ .#. |%^END:| %- ] ;
-  FrontUnrounded %> %{ьØ%}: _ [ .#. |%^END:| %- ] ;
- [:Ve (•:) |ы •:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы ]+ %> _ [ .#. |%^END:| %- ] ;
- Vow (•:) Cns:* [:Ve (•:) |ы •:] %> _ [ .#. |%^END:| %- ] ;
+  FrontUnrounded %> (%{ьØ%}:) [ ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | д| ш | м | д ы м ] _ ; ![ .#. |%^END:| %- ] ;
+  FrontUnrounded %> %{ьØ%}: _ ; ! [ .#. |%^END:| %- ] ;
+ [:Ve (•:) |ы •:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы ]+ %> _ ; ![ .#. |%^END:| %- ] ;
+ Vow (•:) Cns:* [:Ve (•:) |ы •:] %> _ ; ! [ .#. |%^END:| %- ] ;
 
-  FrontUnrounded [ ш %> [т|к]| й:] _ [ .#. | %- ] ;
+  FrontUnrounded [ ш %> [т|к]| й:] _ ; ! [ .#. | %- ] ;
 
 
 
 "suffix-final vowel realized as +Back +Round in word-final position о "
 !! __ @RULENAME@ __  
   Ы2:о <=>
- BackRounded  %> (%{ьØ%}:) [ ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | д| ш | м | д ы м ] _ [ .#. |%^END:| %- ] ;
- BackRounded  %> %{ьØ%}:  _ [ .#. |%^END:| %- ] ;
- :Vo (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:о| Ы2:ы ]+  %>  _ [ .#. |%^END:| %- ] ;
- Vow (•:) Cns:* :Vo (•:) %>  _ [ .#. |%^END:| %- ] ;
+ BackRounded  %> (%{ьØ%}:) [ ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | д| ш | м | д ы м ] _ ; ![ .#. |%^END:| %- ] ;
+ BackRounded  %> %{ьØ%}:  _ ; ! [ .#. |%^END:| %- ] ;
+ :Vo (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:о| Ы2:ы ]+  %>  _ ; ![ .#. |%^END:| %- ] ;
+ Vow (•:) Cns:* :Vo (•:) %>  _ ; ![ .#. |%^END:| %- ] ;
 
   BackRounded [ш %> [т|к]| й:] _ [ .#. | %- ] ;
 
@@ -180,11 +180,11 @@ Rules
 "suffix-final vowel realized as +Front +Round in word-final position ӧ "
 !! __ @RULENAME@ __  
   Ы2:ӧ <=>
- FrontRounded %> (%{ьØ%}:) [ ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | д| ш | м | д ы м ] _ [ .#. |%^END:| %- ] ;
- FrontRounded %> %{ьØ%}: _ [ .#. |%^END:| %- ] ;
- :VO  (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]+ %> _ [ .#. |%^END:| %- ] ;
- Vow (•:) Cns:* :VO (•:) %> _ [ .#. |%^END:| %- ] ;
-  FrontRounded  [ш %> [т|к]| й:] _ [ .#. | %- ] ;
+ FrontRounded %> (%{ьØ%}:) [ ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | д| ш | м | д ы м ] _ ; ![ .#. |%^END:| %- ] ;
+ FrontRounded %> %{ьØ%}: _ ; ![ .#. |%^END:| %- ] ;
+ :VO  (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]+ %> _ ; ![ .#. |%^END:| %- ] ;
+ Vow (•:) Cns:* :VO (•:) %> _ ; ![ .#. |%^END:| %- ] ;
+  FrontRounded  [ш %> [т|к]| й:] _ ; ![ .#. | %- ] ;
 !! шӱртняш+V+ConNeg:
 !!€ шӱртнь%>Ы2%^END
 !!€ шӱртнь%>ӧ0
@@ -358,49 +358,49 @@ Rules
 !!€ воз>са
 !!€ воч>са
 
-"Disallow PxSg3 in ж no where except after :Vow "
-!! __ @RULENAME@ __
-ж:ж /<= [:Ltrs - :Vow] %> _ [.#.| %-|%>]  ;
-!!€ ава%>ж%>де
-!!€ ава%>ж%>де
-!!$ кол%>ж%>де
-!!$ кол%>ж%>де
-
-"Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш "
-!! __ @RULENAME@ __
-т:т /<= [Ltrs - ш ] (•:) %> _ Ы2:  ;
-!! йӧратымаш+N+Sg+Ine
-!!€ йӧратымаш%>тЫ2
-!!€ йӧратымаш%>те
-
-"Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш "
-!! __ @RULENAME@ __
-к:к /<= [Ltrs - ш ] (•:) %> _ Ы2:  ;
-!! авалтымаш+N+Sg+Ine
-!!€ авалтымаш%>кЫ2
-!!€ авалтымаш%>ке
-
-
-"Disallow PxSg3 in ыж no where except after ш "
-!! __ @RULENAME@ __
-ы:ы /<=
- [Ltrs - ш] (•:) %> _ ж: (Ы2:) [.#.| %-|%>]  ;
-!!€ йолташ%>ыж#
-!!€ йолташ%>ыж#
-!!$ олма%>ыж#
-!!$ олма%>ыж#
- Vow (•:) %> ж: _ %> [д е|л а|г е]  ;
-!!€ кол%>жы%>де
-!!€ кол%>жы%>де
-!!$ ава%>жы%>де
-!!$ ава%>жы%>де
-
-
-! This rule gives error (cf. Introduction of %^V2IMPRT:0 to deal with single-syllable -em verbs in й.)
-!"Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs "
-!! __ @RULENAME@ __
-!%^V2IMPRT:0 /<= _ ;
-! except .#. (Cns) [у|ӱ|ӧ|о|е|э|ю|и|ы] (•:) й %> _ ;
+!DIS "Disallow PxSg3 in ж no where except after :Vow "
+!DIS !! __ @RULENAME@ __
+!DIS ж:ж /<= [:Ltrs - :Vow] %> _ [.#.| %-|%>]  ;
+!DIS !!€ ава%>ж%>де
+!DIS !!€ ава%>ж%>де
+!DIS !!$ кол%>ж%>де
+!DIS !!$ кол%>ж%>де
+!DIS 
+!DIS "Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш "
+!DIS !! __ @RULENAME@ __
+!DIS т:т /<= [Ltrs - ш ] (•:) %> _ Ы2:  ;
+!DIS !! йӧратымаш+N+Sg+Ine
+!DIS !!€ йӧратымаш%>тЫ2
+!DIS !!€ йӧратымаш%>те
+!DIS 
+!DIS "Disallow Sg+Ill in кЫ2 everywhere except after stem-final ш "
+!DIS !! __ @RULENAME@ __
+!DIS к:к /<= [Ltrs - ш ] (•:) %> _ Ы2:  ;
+!DIS !! авалтымаш+N+Sg+Ine
+!DIS !!€ авалтымаш%>кЫ2
+!DIS !!€ авалтымаш%>ке
+!DIS 
+!DIS 
+!DIS "Disallow PxSg3 in ыж no where except after ш "
+!DIS !! __ @RULENAME@ __
+!DIS ы:ы /<=
+!DIS  [Ltrs - ш] (•:) %> _ ж: (Ы2:) [.#.| %-|%>]  ;
+!DIS !!€ йолташ%>ыж#
+!DIS !!€ йолташ%>ыж#
+!DIS !!$ олма%>ыж#
+!DIS !!$ олма%>ыж#
+!DIS  Vow (•:) %> ж: _ %> [д е|л а|г е]  ;
+!DIS !!€ кол%>жы%>де
+!DIS !!€ кол%>жы%>де
+!DIS !!$ ава%>жы%>де
+!DIS !!$ ава%>жы%>де
+!DIS 
+!DIS 
+!DIS ! This rule gives error (cf. Introduction of %^V2IMPRT:0 to deal with single-syllable -em verbs in й.)
+!DIS !"Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs "
+!DIS !! __ @RULENAME@ __
+!DIS !%^V2IMPRT:0 /<= _ ;
+!DIS ! except .#. (Cns) [у|ӱ|ӧ|о|е|э|ю|и|ы] (•:) й %> _ ;
 
 
 ! just to see whether other tests pass:
