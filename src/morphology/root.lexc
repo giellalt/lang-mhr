@@ -30,6 +30,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 !! (It is highly suggested to follow existing standards when adding new tags).
 !+WORK
 
+%^END ! slutt
 
 !! !The parts-of-speech are:
 
@@ -623,6 +624,11 @@ LEXICON PCLE_ !!= * @CODE@ particles, check these
 
 LEXICON X !!= * @CODE@ for N attributes
 +N+Attr: # ;
+
+
+LEXICON ENDLEX
+ :%^END # ;
+
 
 
 

@@ -4,16 +4,16 @@
 
 
 LEXICON K  !!= * @CODE@
- +Foc/Ыс:%>ыс # ;
+ +Foc/Ыс:%>ыс ENDLEX ;
               K_at ;
 
 LEXICON K_at
-               # ;
- +Foc/Ак:%>А2к # ;
- +Foc/Ат:%>А2т # ;
+               ENDLEX ;
+ +Foc/Ак:%>А2к ENDLEX ;
+ +Foc/Ат:%>А2т ENDLEX ;
 
 LEXICON K-imprt !!= * @CODE@
-            +Foc/ян:%-ян #            ;
+            +Foc/ян:%-ян ENDLEX            ;
                          K            ;
 
 !       2012-09-21!      !Lex0        ; ! Assume что, ден, да, але, теве, ok.
