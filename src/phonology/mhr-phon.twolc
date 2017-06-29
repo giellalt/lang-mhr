@@ -367,21 +367,22 @@ Rules
  !!$ кол>ж>де
  !!$ кол>ж>де
  
-!DIS "Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш "
-!DIS !! __ @RULENAME@ __
-!DIS т:т /<= [Ltrs - ш ] (•:) %> _ Ы2:  ;
-!DIS !! йӧратымаш+N+Sg+Ine
-!DIS !!€ йӧратымаш%>тЫ2
-!DIS !!€ йӧратымаш%>те
-!DIS 
-!DIS "Disallow Sg+Ill in кЫ2 everywhere except after stem-final ш "
-!DIS !! __ @RULENAME@ __
-!DIS к:к /<= [Ltrs - ш ] (•:) %> _ Ы2:  ;
-!DIS !! авалтымаш+N+Sg+Ine
-!DIS !!€ авалтымаш%>кЫ2
-!DIS !!€ авалтымаш%>ке
-!DIS 
-!DIS 
+"Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш "
+!! __ @RULENAME@ __
+т:т /<= [Ltrs - ш ] (•:) %> _ Ы2:  ;
+!! йӧратымаш+N+Sg+Ine
+!!€ йӧратымаш%>тЫ2
+!!€ йӧратымаш%>те
+ 
+"Disallow Sg+Ill in кЫ2 everywhere except after stem-final ш "
+!! __ @RULENAME@ __
+к:к /<= [Ltrs - ш ] (•:) %> _ Ы2:  ;
+!! авалтымаш+N+Sg+Ine
+!!€ авалтымаш%>кЫ2
+!!€ авалтымаш%>ке
+ 
+ 
+
 "Disallow PxSg3 in ыж no where except after ш "
 !! __ @RULENAME@ __
 ы:ы /<=
