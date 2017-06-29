@@ -2,15 +2,21 @@
 ! ---------------
 !! Meadow Mari noun inflection
 
-
 !! !!a final lexica
+
+LEXICON N_  !!= * @CODE@ redirects to N-ava_01
+    +N: N-ava_01      ; 
++N+N→A:%>дымЫ2 A_ ;
+
+LEXICON N-continuation  !!= * @CODE@ comes from Proper nouns
+               N-ava_01      ; 
 
 LEXICON N-ava !!= * @CODE@ to N-ava_01 and vocatives
             +N:     N-ava_01 ;
         +N+Voc:%>й  #        ;
   +N+Voc+PxSg1:%>ем #        ;
 
-LEXICON N-ava_01 !!= * @CODE@ to all case-number lexica
+LEXICON N-ava_01 !!= * @CODE@ obl because of pronouns
   N-SG-NOM       ;
   N-ava_01_obl ;
 
@@ -189,22 +195,7 @@ LEXICON N-OLD-ORTH-SG-NOM_  !!= * @CODE@
 
 
 
-LEXICON N_  !!= * @CODE@ redirects to N-ava_01
-                   +N: N-ava_01      ; 
-+N+N→A:%>дымЫ2 A_ ;
 
-
-LEXICON N-a/e !!= * @CODE@ to N underscore
-  N_ ;
-
-LEXICON N-VS  !!= * @CODE@ to N underscore
-  N_ ;
-
-LEXICON P  !!= * @CODE@ to N underscore
-  N_ ;
-
-LEXICON N-continuation  !!= * @CODE@ to N underscore
-  N_ ;
 
 !!!!!!!!!!!!!!!!!!!!
 !! !! DECLENSION 
@@ -230,11 +221,11 @@ LEXICON N-SG-COM !!= * @CODE@
  +Sg+Com:ге K ;
 
 LEXICON N-SG-INE !!= * @CODE@
- +Sg+Ine:%>Ы1штЫ2 K ;
- +Sg+Ine:%>тЫ2 K ;
+ +Sg+Ine:%>Ы1штЫ2 # ;
+ +Sg+Ine:%>тЫ2 # ;
 
 
-LEXICON N-SG-ILL !!= * @CODE@
+LEXICON N-SG-ILL !!= * @CODE@	
  +Sg+Ill:%>Ы1шкЫ2 K ;
  +Sg+Ill:%>Ы1ш K ;
  +Sg+Ill:%>кЫ2 K ;
