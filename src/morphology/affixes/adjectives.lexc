@@ -3,6 +3,10 @@
 
 !! Meadow Mari adjectives
 
+!!! Adverbs take the comparative ending, subsumed here
+
+
+
 LEXICON A-ATTR_ ! йошкарге:йошкар
 +A+Attr: #;
 
@@ -12,10 +16,14 @@ LEXICON A-GEN-ATTR_ ! ава >> Sg_Gen аван:аван
 LEXICON A_OLD-ORTH
 +A: #; !йӧрыктымӧ:йӧрыктым%{еы%}
 
+
 LEXICON A_  !! LEXICON A underscore
-         +A:      K  ; ! missing comparative
-    +A+Comp:%>рак #  ;
+         +A:      K  ;
+    +A+Comp:%>рак K  ;
+    +A+Comp+Ins:%>ракын K  ;
+    +A+Ins+Comp:%>Ы1нрак K ;
  +A+Der/MWN:      N_ ;
+
 
 LEXICON A-a/e  !!= * @CODE@
          +A:      K  ; ! missing comparative
