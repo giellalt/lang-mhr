@@ -16,29 +16,29 @@ LEXICON verbs_not_from_xml   !!=   @CODE@
 улаш+V: ulasj ;
 
 LEXICON negverb !!= @CODE@ TODO: fix
-+Prs+Sg1:ом # ;
-+Prs+Sg2:от # ;
-+Prs+Sg3:ок # ;
-+Prs+Sg3+Use/NG:огеш # ;
-+Prs+Pl1:она # ;
-+Prs+Pl1+Use/NG:огына # ;
-+Prs+Pl2:ода # ;
-+Prs+Pl2+Use/NG:огыда # ;
-+Prs+Pl3:огыт # ;
-+Prt1+Sg1:шым # ;
-+Prt1+Sg2:шыч # ;
-+Prt1+Sg3:ыш # ;
-+Prt1+Pl1:ышна # ;
-+Prt1+Pl2:ышта # ;
-+Prt1+Pl3:ышт # ;
-+Prt2+Sg1:омыл # ;
-+Prt2+Sg2:отыл # ;
-+Prt2+Sg3:огыл # ;
-+Prt2+Pl1:онал # ;
-+Prt2+Pl2:одал # ;
-+Prt2+Pl3:огытыл # ;
-+Imprt+Sg2:ит # ;
-+Imprt+Pl2:ида # ;
++Prs+Sg1:ом K ;
++Prs+Sg2:от K ;
++Prs+Sg3:ок K ;
++Prs+Sg3+Use/NG:огеш K ;
++Prs+Pl1:она K ;
++Prs+Pl1+Use/NG:огына K ;
++Prs+Pl2:ода K ;
++Prs+Pl2+Use/NG:огыда K ;
++Prs+Pl3:огыт K ;
++Prt1+Sg1:шым K ;
++Prt1+Sg2:шыч K ;
++Prt1+Sg3:ыш K ;
++Prt1+Pl1:ышна K ;
++Prt1+Pl2:ышта K ;
++Prt1+Pl3:ышт K ;
++Prt2+Sg1:омыл K ;
++Prt2+Sg2:отыл K ;
++Prt2+Sg3:огыл K ;
++Prt2+Pl1:онал K ;
++Prt2+Pl2:одал K ;
++Prt2+Pl3:огытыл K ;
++Imprt+Sg2:ит K ;
++Imprt+Pl2:ида K ;
 
 LEXICON ulasj
 +Inf:улаш K ;
@@ -76,9 +76,24 @@ LEXICON ulasj
 LEXICON V_am-N !!= @CODE@ divides V_am in Mood and infinites
  +V+Ger+Gen:%^END K ;
   V_am ;
+
 LEXICON V_am !!= @CODE@ divides V_am in Mood and infinites
+
+              +Caus:ы%>кт V_em; ! Causative derivation: ышташ 'to do' > ыштыкташ 'to make do'
+              +Refl:ы%>А2лт V_am; ! Reflexive derivation: ончыкташ 'to show' > ончыкталташ 'to show oneself'
                  +V:      Vam-Mood    ;
              +V+Inf:%>А2ш K           ;
+
+             +V+Inf+Dat:%>А2шлан K           ;
+             +V+Inf+PxSg1:%>А2шем K           ;
+             +V+Inf+PxSg2:%>А2шет K           ;
+             +V+Inf+PxSg3:%>А2шыже K           ;
+             +V+Inf+PxSg3:%>А2шыж K           ;
+             +V+Inf+PxSg3:%>А2шше K           ;
+             +V+Inf+PxPl1:%>А2шна K           ;
+             +V+Inf+PxPl2:%>А2шда K           ;
+             +V+Inf+PxPl3:%>А2шышт K           ;
+
          +V+Ger+Gen:%>ын  K           ;
                  +V:      non-finites ;
           +V+ConNeg:%^END K ;
@@ -128,12 +143,30 @@ LEXICON Vam-Des  !!= @CODE@ for desiderative, Желательное накло�
 !! !The -em class
 
 LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
- V_em-1SYLL ; 
-          +V+Ger+Gen:  K ; !CHECKME is %>Ы2%^END required
-	  
+
+  V_em-1SYLL ; 
+           +V+Ger+Gen:  K ; !CHECKME is %>Ы2%^END required
+ 	  
 LEXICON V_em-1SYLL !!= @CODE@ These are single syllable V_em verbs, which do not include bare-stem gerunds in their paradigms
+
+              +Caus:ы%>кт V_em; ! Causative derivation: ышташ 'to do' > ыштыкташ 'to make do'
+              +Refl:%>А2лт V_am; ! Reflexive derivation: ончыкташ 'to show' > ончыкталташ 'to show oneself'
+
                  +V:      Vem-Mood    ;
-             +V+Inf:%>А2ш K           ;
+             +V+Inf:%>А2шкики K           ;
+
+
+             +V+Inf+Dat:%>А2шлан K           ;
+             +V+Inf+PxSg1:%>А2шем K           ;
+             +V+Inf+PxSg2:%>А2шет K           ;
+             +V+Inf+PxSg3:%>А2шыже K           ;
+             +V+Inf+PxSg3:%>А2шыж K           ;
+             +V+Inf+PxSg3:%>А2шше K           ;
+             +V+Inf+PxPl1:%>А2шна K           ;
+             +V+Inf+PxPl2:%>А2шда K           ;
+             +V+Inf+PxPl3:%>А2шышт K           ;
+
+
 ! Деепричастие образа действия:
          +V+Ger+Gen:%>Е2н  K           ;
                  +V:ы     non-finites ;
@@ -187,17 +220,35 @@ LEXICON Vem-Des !!= * @CODE@ for desiderative, Желательное накло
 LEXICON non-finites !!= @CODE@ contains Mutual endings
 
    +Inf+Nec:%>ман   K  ; ! Neccessitive infinitive
-   +Act+Prc:%>шЫ2   K  ; ! Действительное причастие
-   +Pass+Prc:%>мЫ2   K  ; ! Страдательное причастие
-    +FutPrc:%>шаш   K  ; ! Причастие будущего времени
-    +NegPrc:%>дымЫ2 K  ; ! Отрицательное причастие
+   +Act+Prc:%>шЫ2   N_  ; ! Действительное причастие
+   +Pass+Prc:%>мЫ2   N_  ; ! Страдательное причастие
+    +FutPrc:%>шаш   N_  ; ! Причастие будущего времени
+    +NegPrc:%>дымЫ2 N_  ; ! Отрицательное причастие
    +Ger+Abe:%>де    K  ; ! Отрицательная форма деепричастия образа действия:
-   +Ger+Prf:%>меке  K  ; ! Деепричастие времени (показывают время, предшествующее времени глагола):
-   +Ger+Prf:%>мек  K  ; ! Деепричастие времени (показывают время, предшествующее времени глагола):
- +Ger+Imprf:%>мешке K  ; ! Деепричастие времени 
- +Ger+Imprf:%>меш K  ; ! Деепричастие времени 
+   +Ger+Prf:%>мек{еы%}  K  ; ! Деепричастие времени (показывают время, предшествующее времени глагола):
+   +Ger+Prf:%>мек  ENDLEX  ; ! Деепричастие времени (показывают время, предшествующее времени глагола):
+
+   +Ger+Prf+PxSg1:%>мекем  K  ;
+   +Ger+Prf+PxSg2:%>мекет  K  ;
+   +Ger+Prf+PxSg3:%>мекыже  K  ;
+   +Ger+Prf+PxSg3:%>мекше  K  ;
+   +Ger+Prf+PxPl1:%>мекына  K  ;
+   +Ger+Prf+PxPl2:%>мекыда  K  ;
+   +Ger+Prf+PxPl3:%>мекышт  K  ;
+
+ +Ger+Imprf:%>мешк{еы%} K  ; ! Деепричастие времени 
+ +Ger+Imprf:%>меш ENDLEX  ; ! Деепричастие времени 
                          ! (показывает время, последующее за поясняемым действием)
-    +Der/mO:%>мЫ2   N_ ; ! Деепричастие времени 
+
+   +Ger+Imprf+PxSg1:%>мешкем  K  ;
+   +Ger+Imprf+PxSg2:%>мешкет  K  ;
+   +Ger+Imprf+PxSg3:%>мешкыже  K  ;
+   +Ger+Imprf+PxPl1:%>мешкына  K  ;
+   +Ger+Imprf+PxPl2:%>мешкыда  K  ;
+   +Ger+Imprf+PxPl3:%>мешкышт  K  ;
+
+! This can be considered a function of the passive participle, does not need its own form
+!   +Der/mO:%>мЫ2   N_ ; ! Деепричастие времени 
                          ! (добавочное действие, происходящее одновременно с поясняемым действием)
        +Ger:%>шыла  K  ;
        +Ger+PxSg1:%>шемла  K  ;

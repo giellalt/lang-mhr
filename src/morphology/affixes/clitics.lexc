@@ -4,13 +4,19 @@
 
 
 LEXICON K  !!= * @CODE@
- +Foc/Ыс:%>ыс ENDLEX ;
+ +Foc/Ыс:%>Ы1с ENDLEX ;
               K_at ;
 
 LEXICON K_at
                ENDLEX ;
  +Foc/Ак:%>А2к ENDLEX ;
  +Foc/Ат:%>А2т ENDLEX ;
+ +PxSg3+Clit:%>ыжЫ2 ENDLEX ; !Px3Sg as clitic
+ +PxSg3+Clit:%>жЫ2 ENDLEX ; !Px3Sg as clitic
+
+
+
+
 
 LEXICON K-imprt !!= * @CODE@
             +Foc/ян:%-ян ENDLEX            ;

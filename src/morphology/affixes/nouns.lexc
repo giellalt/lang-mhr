@@ -4,9 +4,26 @@
 
 !! !!a final lexica
 
+
+
+
+!! Some Postpositions in Mari take possessive suffixes. For now, am allowing all an all, but
+!! we should revisit this in the lexicon eventually - classifying postpositions into those that
+!! take Px and those that do not.
+
+!! Also here: some adverbs that take possessive suffixes, like ӱстембалне 'on the table' > ӱстембалнем 'on my table'
+
+
 LEXICON N_  !!= * @CODE@ redirects to N-ava_01
-    +N: N-ava_01      ; 
-+N+N→A:%>дымЫ2 A_ ;
+    +N: N-ava_01 ; 
+
+!! Derivational morphology - this needs work
+ +N+N→A+Priv:%>дымЫ2 A_ ;   ! вӱр 'blood' > вӱрдымӧ 'bloodless' - Privative derivation
+ +N+N→A+Poss:%>А2н A_ ;     ! вӱр 'blood' > вӱран 'bloody' - Possessive derivation
+ +N+N→A+Rel:%>Ы1сЫ2 A_ ;    ! вӱр 'blood' > вӱрысӧ 'of/in blood' - Relational derivation
+ +N+N→A+Pur:%>лык A_ ;      ! вӱр 'blood' > вӱрлык 'for blood' - Purposive derivation
+ +LocPl+N→A+Pur:%>ласе A_ ; ! эл 'land' > элласе 'of/in lands' - Plur + Relational derivation
+
 
 LEXICON N-continuation  !!= * @CODE@ comes from Proper nouns
                N-ava_01      ; 
@@ -212,7 +229,7 @@ LEXICON N-SG-DAT !!= * @CODE@
  +Sg+Dat:%>лан K ;
 
 LEXICON N-SG-ACC !!= * @CODE@
- +Sg+Acc:%>Ы1м K ;
+ +Sg+Acc:%>Ы1м K ; !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON N-SG-CMPR !!= * @CODE@
  +Sg+Cmpr:ла K ;
@@ -221,13 +238,16 @@ LEXICON N-SG-COM !!= * @CODE@
  +Sg+Com:ге K ;
 
 LEXICON N-SG-INE !!= * @CODE@
- +Sg+Ine:%>Ы1штЫ2 # ;
- +Sg+Ine:%>тЫ2 # ;
+ +Sg+Ine+Weak:%>Ы1штыла K ;
+ +Sg+Ine:%>Ы1штЫ2 K ;
+ +Sg+Ine:%>тЫ2 K ;
 
 
-LEXICON N-SG-ILL !!= * @CODE@	
+
+LEXICON N-SG-ILL !!= * @CODE@
+ +Sg+Ill+Weak:%>Ы1шкыла K ;
  +Sg+Ill:%>Ы1шкЫ2 K ;
- +Sg+Ill:%>Ы1ш K ;
+ +Sg+Ill:%>Ы1ш # ;
  +Sg+Ill:%>кЫ2 K ;
 
 LEXICON N-SG-LAT !!= * @CODE@
@@ -319,7 +339,7 @@ LEXICON N-PL-ABE !!= * @CODE@
 !! !Sg Sg1
 
 LEXICON N-SG-PxSg1-NOM !!= * @CODE@
- +Sg+PxSg1+Nom:%>Е2м K ;
+ +Sg+PxSg1+Nom:%>Е2м   K ; !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON N-SG-PxSg1-GEN !!= * @CODE@
  +Sg+PxSg1+Gen:%>Е2мын K ;
