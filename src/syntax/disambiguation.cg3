@@ -277,15 +277,24 @@ REMOVE:molan ("мо") IF (0 ("молан")) ;
 #!! !!Verbs
 #     =====
 
-#TROMSO WORKSHO JEREMY & SASHA ADDING RULES ON 28-06-2017
+#TROMSO WORKSHOP JEREMY & SASHA ADDING RULES ON 28-06-2017
 
-REMOVE:Past (Ger Gen) IF (NOT 1 V);
+LIST S-BOUNDARY = CS Rel ;
 
+REMOVE:Past (Ger Gen) IF (NOT 1 V) ;
 
+#MODIFIED 28-06-2017
+IFF:NegVerb Neg IF (*1 ConNeg BARRIER WORD - Pcle) ;
 
+#ADDED 28-06-2017
+IFF:Conneg ConNeg IF (*-1 Neg BARRIER WORD - Pcle) ; # SELECT
 
+#ADDED 28-06-2017
+LIST DER-N = Der/MWN ;
+SET LEX-N = N - DER-N ;
+REMOVE:derN DER-N IF (0 LEX-N) ;
 
-#TROMSO WORKSHO JEREMY & SASHA ADDING RULES ON 28-06-2017 END
+#TROMSO WORKSHOP JEREMY & SASHA ADDING RULES ON 28-06-2017 END
 
 #!! !Finite verb or Gerundium
 
@@ -308,8 +317,6 @@ REMOVE:Sg1NotSg3 (Prt1 Sg3) IF (*-1 (Pers Sg1 Nom) BARRIER N + Nom OR Pers + Sg3
 #REMOVE:Sg3NotSg1 (Prt1 Sg1) IF (NOT *0 (Pers Sg1 Nom)) ;
 #!! ** This definitely is too strong, it precludes zero Sg1 subjects
 
-SELECT Neg IF (1 ConNeg);
-
 #!! !ConNeg or not
 #!! * __NoConNeg1__ No ConNeg if no Neg to the left
 REMOVE:NoConNeg1 ConNeg IF (NOT *-1 Neg BARRIER CLB);
@@ -319,8 +326,9 @@ REMOVE:NoConNeg2 ConNeg IF (-1* ConNeg BARRIER Neg);
 
 #!! !Imperative or noun
 
+#MODIFIED ON 28-06-2017 BY JEREMY & SASHA
 #!! * __NotImpWhenInd__
-REMOVE:NotImpWhenInd Imprt IF (*-1C Ind);
+REMOVE:NotImpWhenIndTEST Imprt IF (*-1C Ind BARRIER COMMA);
 #!! * __NotImpWhenWords1__
 REMOVE:NotImpWhenWords1 Imprt IF (-1 N)(0 N);
 #!! * __NotImpWhenWords2__
