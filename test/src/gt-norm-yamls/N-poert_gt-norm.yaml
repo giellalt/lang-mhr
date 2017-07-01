@@ -188,3 +188,86 @@ Tests:
      пӧрт+N+Pl+PxPl3+Lat: [пӧрт-влакешышт, пӧрт-шамычешышт, пӧртышт-влакеш, пӧртышт-шамычеш] 
      пӧрт+N+Pl+PxPl3+Abe: [пӧрт-влакыштде, пӧрт-шамычыштде, пӧртышт-влакде, пӧртышт-шамычде]
 
+
+     пӧрт+N+Sg+Nom+Foc/Ыс: пӧртыс
+     пӧрт+N+Sg+Gen+Foc/Ыс: пӧртыныс
+     пӧрт+N+Sg+Dat+Foc/Ыс: пӧртланыс
+     пӧрт+N+Sg+Acc+Foc/Ыс: пӧртымыс
+     пӧрт+N+Sg+Cmpr+Foc/Ыс: пӧртлас
+     пӧрт+N+Sg+Com+Foc/Ыс: пӧртгес
+     пӧрт+N+Sg+Ine+Foc/Ыс: пӧртыштыс
+     пӧрт+N+Sg+Ill+Foc/Ыс: пӧртышкыс
+     пӧрт+N+Sg+Lat+Foc/Ыс: пӧртешыс
+     пӧрт+N+Sg+Abe+Foc/Ыс: пӧртдес
+
+
+     пӧрт+N+Sg+Nom+Foc/Ат: пӧртат
+     пӧрт+N+Sg+Gen+Foc/Ат: пӧртынат
+     пӧрт+N+Sg+Dat+Foc/Ат: пӧртланат
+     пӧрт+N+Sg+Acc+Foc/Ат: пӧртымат
+     пӧрт+N+Sg+Cmpr+Foc/Ат: пӧртлат
+     пӧрт+N+Sg+Com+Foc/Ат: пӧртгеат
+     пӧрт+N+Sg+Ine+Foc/Ат: пӧртыштат
+     пӧрт+N+Sg+Ill+Foc/Ат: пӧртышкат
+     пӧрт+N+Sg+Lat+Foc/Ат: пӧртешат
+     пӧрт+N+Sg+Abe+Foc/Ат: пӧртдеат
+
+
+     пӧрт+N+Sg+Nom+Foc/Ак: пӧртак
+     пӧрт+N+Sg+Gen+Foc/Ак: пӧртынак
+     пӧрт+N+Sg+Dat+Foc/Ак: пӧртланак
+     пӧрт+N+Sg+Acc+Foc/Ак: пӧртымак
+     пӧрт+N+Sg+Cmpr+Foc/Ак: пӧртлак
+     пӧрт+N+Sg+Com+Foc/Ак: пӧртгеак
+     пӧрт+N+Sg+Ine+Foc/Ак: пӧртыштак
+     пӧрт+N+Sg+Ill+Foc/Ак: пӧртышкак
+     пӧрт+N+Sg+Lat+Foc/Ак: пӧртешак
+     пӧрт+N+Sg+Abe+Foc/Ак: пӧртдеак
+
+     пӧрт+N+Sg+PxSg1+PxSg3: пӧртемже
+     пӧрт+N+Sg+PxSg2+PxSg3: пӧртетше
+     пӧрт+N+Sg+PxSg3+PxSg3: пӧртшыжӧ
+     пӧрт+N+Sg+PxPl1+PxSg3: пӧртнаже
+     пӧрт+N+Sg+PxPl2+PxSg3: пӧртдаже
+     пӧрт+N+Sg+PxPl3+PxSg3: пӧртыштшӧ
+     
+     пӧрт+N+N→A+Priv+A: пӧртдымӧ
+     пӧрт+N+N→A+Priv+A+Der/MWN+N+Sg+PxSg1+Nom: пӧртдымем
+     пӧрт+N+N→A+Priv+A+Der/MWN+N+Sg+Nom+Foc/Ат: пӧртдымат
+     пӧрт+N+N→A+Priv+A+Der/MWN+N+Sg+Gen: пӧртдымын
+     пӧрт+N+N→A+Priv+A+Der/MWN+N+Sg+Dat: пӧртдымылан
+     пӧрт+N+N→A+Priv+A+Der/MWN+N+Pl+Nom: [пӧртдымӧ-влак, пӧртдымӧ-шамыч]
+     пӧрт+N+N→A+Priv+A+Der/MWN+N+Sg+PxSg3+Nom: [пӧртдымыжӧ, пӧртдымыж]
+
+     пӧрт+N+N→A+Poss+A: пӧртан
+     пӧрт+N+N→A+Poss+A+Der/MWN+N+Sg+PxSg1+Nom: пӧртанем
+     пӧрт+N+N→A+Poss+A+Der/MWN+N+Sg+Nom+Foc/Ат: пӧртанат
+     пӧрт+N+N→A+Poss+A+Der/MWN+N+Sg+Gen: пӧртанын
+     пӧрт+N+N→A+Poss+A+Der/MWN+N+Sg+Dat: пӧртанлан
+     пӧрт+N+N→A+Poss+A+Der/MWN+N+Pl+Nom: [пӧртан-влак, пӧртан-шамыч]
+     пӧрт+N+N→A+Poss+A+Der/MWN+N+Sg+PxSg3+Nom: пӧртанже
+
+     пӧрт+N+N→A+Rel+A: пӧртысӧ
+     пӧрт+N+N→A+Rel+A+Der/MWN+N+Sg+PxSg1+Nom: пӧртысем
+     пӧрт+N+N→A+Rel+A+Der/MWN+N+Sg+Nom+Foc/Ат: пӧртысат
+     пӧрт+N+N→A+Rel+A+Der/MWN+N+Sg+Gen: пӧртысын
+     пӧрт+N+N→A+Rel+A+Der/MWN+N+Sg+Dat: пӧртысылан
+     пӧрт+N+N→A+Rel+A+Der/MWN+N+Pl+Nom: [пӧртысӧ-влак, пӧртысӧ-шамыч]
+     пӧрт+N+N→A+Rel+A+Der/MWN+N+Sg+PxSg3+Nom: пӧртысыжӧ
+
+     пӧрт+N+N→A+Poss+A: пӧртлык
+     пӧрт+N+N→A+Poss+A+Der/MWN+N+Sg+PxSg1+Nom: пӧртлыкем
+     пӧрт+N+N→A+Poss+A+Der/MWN+N+Sg+Nom+Foc/Ат: пӧртлыкат
+     пӧрт+N+N→A+Poss+A+Der/MWN+N+Sg+Gen: пӧртлыкын
+     пӧрт+N+N→A+Poss+A+Der/MWN+N+Sg+Dat: пӧртлыклан
+     пӧрт+N+N→A+Poss+A+Der/MWN+N+Pl+Nom: [пӧртлык-влак, пӧртлык-шамыч]
+     пӧрт+N+N→A+Poss+A+Der/MWN+N+Sg+PxSg3+Nom: пӧртлыкшӧ
+
+     пӧрт+N+LocPl+N→A+Rel+A: пӧртласе
+     пӧрт+N+LocPl+N→A+Rel+A+Der/MWN+N+Sg+PxSg1+Nom: пӧртласем
+     пӧрт+N+LocPl+N→A+Rel+A+Der/MWN+N+Sg+Nom+Foc/Ат: пӧртласат
+     пӧрт+N+LocPl+N→A+Rel+A+Der/MWN+N+Sg+Gen: пӧртласын
+     пӧрт+N+LocPl+N→A+Rel+A+Der/MWN+N+Sg+Dat: пӧртласылан
+     пӧрт+N+LocPl+N→A+Rel+A+Der/MWN+N+Pl+Nom: [пӧртласе-влак, пӧртласе-шамыч]
+     пӧрт+N+LocPl+N→A+Rel+A+Der/MWN+N+Sg+PxSg3+Nom: пӧртласыже
+
