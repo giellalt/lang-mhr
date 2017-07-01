@@ -15,9 +15,9 @@ other symbols
 
 Archiphonemes for vowels, Giellatekno style
  *   е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
- *  Ы2:ы Ы2:0    Variation in еоыӧØ
- *   А1:а А1:ӓ    
- *   Е2:е Е2:0 А2:а А2:я   
+ *  Ы2:ы     Variation in еоыӧØ
+ *   А1:а    
+ *   Е2:е А2:а   
 
 Archiphonemes for vowels, Apertium style
  * %{аы%}:а  Stem-final vowel variation when stress falls on non-final vowel
@@ -110,7 +110,7 @@ __ suffix-final vowel loss after stem-final vowel __
 * __ки0%>е0 __
 
 
-__ suffix-final vowel realized after stem-final consonant __  
+__ suffix-final vowel loss after stem-final vowel __  
 
 __ suffix-final vowel realized as -Round in word-final position е  __  
 
@@ -123,7 +123,9 @@ __ suffix-final vowel realized as +Back +Round in word-final position о  __
 
 
 __ suffix-final vowel realized as +Front +Round in word-final position ӧ  __  
-
+шӱртняш+V+ConNeg:
+* __шӱртнь%>Ы2%^END __
+* __шӱртнь%>ӧ0 __
 
 
 __ %{ьØ%}:ь __
@@ -227,21 +229,25 @@ __ Stem-final consonant loss н __
 * __воз>са __
 * __воч>са __
 
-__ Disallow PxSg3 in ж no where except after :Vow  __
-* __ава%>ж%>де __
-* __ава%>ж%>де __
-* __*кол%>ж%>де __ (is not standard language)
-* __*кол%>ж%>де __ (is not standard language)
+__ Stem-final consonant variation з:ч __
+
+
+
+__ Stem-final consonant variation з:ч __
+
+
+
 
 __ Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш  __
 йӧратымаш+N+Sg+Ine
 * __йӧратымаш%>тЫ2 __
 * __йӧратымаш%>те __
 
-__ Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш  __
+__ Disallow Sg+Ill in кЫ2 everywhere except after stem-final ш  __
 авалтымаш+N+Sg+Ine
 * __авалтымаш%>кЫ2 __
 * __авалтымаш%>ке __
+
 
 
 __ Disallow PxSg3 in ыж no where except after ш  __
@@ -249,13 +255,10 @@ __ Disallow PxSg3 in ыж no where except after ш  __
 * __йолташ%>ыж# __
 * __*олма%>ыж# __ (is not standard language)
 * __*олма%>ыж# __ (is not standard language)
-* __кол%>жы%>де __
-* __кол%>жы%>де __
-* __*ава%>жы%>де __ (is not standard language)
-* __*ава%>жы%>де __ (is not standard language)
+
+__ Disallow PxSg3 in ыж no where except after ш  __
 
 
-__ Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs  __
 
 
 * __а __

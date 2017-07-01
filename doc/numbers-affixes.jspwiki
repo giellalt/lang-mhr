@@ -4,14 +4,21 @@
 
  * LEXICON KvMurt 
 
- * LEXICON KvK 
+ * LEXICON KvK  cardinal numerals
+
+ * LEXICON KvK_ATTR  cardinal numerals in noun phrase scope
 
 
  * LEXICON KvKoll 
 
+
+ * LEXICON NUM-COLL_ 
+
+ * LEXICON NUM-COLL_2-3 
+
  * LEXICON KvInd 
 
- * LEXICON KvO 
+ * LEXICON KvO  Ordinals, also non-numerals (hmm, change?)
 
 
  * LEXICON Kv-a/e  

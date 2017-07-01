@@ -29,6 +29,7 @@ presented in this system in terms of the following symbols.
  * __+Interj__ = interjections
  * __+Pcle__ = particles
  * __+Num__ = numerals
+ * __+Descr	__ = descriptive ideophones
 
 !POS subtags
 The parts of speech are further split up into:
@@ -530,6 +531,7 @@ the following basic word classes:
    adverbs  ;		    
    conjunctions  ;	    
    dependents   ;	    
+   descriptives   ;	    
    interjections   ;   
    nouns   ;		    
    numbers    ;    
@@ -552,18 +554,27 @@ the following basic word classes:
 
  Continuation lexica 
 
-Here comes a set of ragbag continuation lexca.
+Here comes a set of ragbag continuation lexica.
 
  * LEXICON CONJ_  TODO: why +WORK?
+
  * LEXICON CC_  conjunctinos
 
  * LEXICON CS_  subjunctions
 
+
  * LEXICON ADV_  adverbs
 
- * LEXICON AD-A  also adverbs
 
- * LEXICON PO_  postpositions
+
+
+ * LEXICON PO_  postpositions ! (Some) postpositions take PX - this stuff can probably be shipped off to another file
+
+
+
+
+
+ * LEXICON AD-A  also adverbs
 
  * LEXICON INTERJ_  interjections
 
@@ -574,6 +585,9 @@ Here comes a set of ragbag continuation lexca.
  * LEXICON PCLE_  particles, check these
 
  * LEXICON X  for N attributes
+
+
+
 
 
 

@@ -160,6 +160,9 @@ Err
 * __OBLCASE__ = All cases except Nom
 * __VFIN__ = All moods
 
+
+
+
 !!!Rule section
 
 
@@ -180,7 +183,9 @@ Err
 
 * __PcleNotCC__ Lauseen alussa on Pcle
 
+* __Posna__ деч посна
 
+* __ikNum__ ик is never A
 
 !Derivations
 
@@ -189,6 +194,7 @@ Err
 * __SelDerMWN__ select Der/MWN if no noun follows
 
 Adjectives
+
 
 * __AdjNotN__ if N or A to the right
 
@@ -199,6 +205,8 @@ Adjectives
 !Cases
 
 * __AccNeedsVerb__ prefers Nom (TODO: does this make sense?)
+
+
 
 !Numerals
 
@@ -228,7 +236,15 @@ Adjectives
 * __molan__ awaiting rules for dative verbs subcategorising for mo Dat
 
 
+
 !!Verbs
+
+
+
+
+
+
+
 
 !Finite verb or Gerundium
 
@@ -245,7 +261,6 @@ Adjectives
 
 * __Sg3NotSg1__ removes Prt1 Sg1 when there is no Pers Sg1 Nom in same clause
 ** This definitely is too strong, it precludes zero Sg1 subjects
-
 
 !ConNeg or not
 * __NoConNeg1__ No ConNeg if no Neg to the left
