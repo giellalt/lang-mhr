@@ -224,12 +224,12 @@ Tests:
      пӧрт+N+Sg+Lat+Foc/Ак: пӧртешак
      пӧрт+N+Sg+Abe+Foc/Ак: пӧртдеак
 
-     пӧрт+N+Sg+PxSg1+PxSg3: пӧртемже
-     пӧрт+N+Sg+PxSg2+PxSg3: пӧртетше
-     пӧрт+N+Sg+PxSg3+PxSg3: пӧртшыжӧ
-     пӧрт+N+Sg+PxPl1+PxSg3: пӧртнаже
-     пӧрт+N+Sg+PxPl2+PxSg3: пӧртдаже
-     пӧрт+N+Sg+PxPl3+PxSg3: пӧртыштшӧ
+     пӧрт+N+Sg+PxSg1+Nom+PxSg3: пӧртемже
+     пӧрт+N+Sg+PxSg2+Nom+PxSg3: пӧртетше
+     пӧрт+N+Sg+PxSg3+Nom+PxSg3: пӧртшыжӧ
+     пӧрт+N+Sg+PxPl1+Nom+PxSg3: пӧртнаже
+     пӧрт+N+Sg+PxPl2+Nom+PxSg3: пӧртдаже
+     пӧрт+N+Sg+PxPl3+Nom+PxSg3: пӧртыштшӧ
      
      пӧрт+N+N→A+Priv+A: пӧртдымӧ
      пӧрт+N+N→A+Priv+A+Der/MWN+N+Sg+PxSg1+Nom: пӧртдымем
@@ -253,7 +253,7 @@ Tests:
      пӧрт+N+N→A+Rel+A+Der/MWN+N+Sg+Gen: пӧртысын
      пӧрт+N+N→A+Rel+A+Der/MWN+N+Sg+Dat: пӧртысылан
      пӧрт+N+N→A+Rel+A+Der/MWN+N+Pl+Nom: [пӧртысӧ-влак, пӧртысӧ-шамыч]
-     пӧрт+N+N→A+Rel+A+Der/MWN+N+Sg+PxSg3+Nom: пӧртысыжӧ
+     пӧрт+N+N→A+Rel+A+Der/MWN+N+Sg+PxSg3+Nom: [пӧртысыжӧ, пӧртысыж]
 
      пӧрт+N+N→A+Poss+A: пӧртлык
      пӧрт+N+N→A+Poss+A+Der/MWN+N+Sg+PxSg1+Nom: пӧртлыкем
@@ -269,5 +269,5 @@ Tests:
      пӧрт+N+LocPl+N→A+Rel+A+Der/MWN+N+Sg+Gen: пӧртласын
      пӧрт+N+LocPl+N→A+Rel+A+Der/MWN+N+Sg+Dat: пӧртласылан
      пӧрт+N+LocPl+N→A+Rel+A+Der/MWN+N+Pl+Nom: [пӧртласе-влак, пӧртласе-шамыч]
-     пӧрт+N+LocPl+N→A+Rel+A+Der/MWN+N+Sg+PxSg3+Nom: пӧртласыже
+     пӧрт+N+LocPl+N→A+Rel+A+Der/MWN+N+Sg+PxSg3+Nom: [пӧртласыже, пӧртласыж]
 
