@@ -225,7 +225,7 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
     +Fut+Prc:%>шаш   N_  ; ! Причастие будущего времени
     +Neg+Prc:%>дымЫ2 N_  ; ! Отрицательное причастие
    +Ger+Abe:%>де    K  ; ! Отрицательная форма деепричастия образа действия:
-   +Ger+Prf:%>мек{еы%}  K  ; ! Деепричастие времени (показывают время, предшествующее времени глагола):
+   +Ger+Prf:%>мек%{еы%}  K  ; ! Деепричастие времени (показывают время, предшествующее времени глагола):
    +Ger+Prf:%>мек  ENDLEX  ; ! Деепричастие времени (показывают время, предшествующее времени глагола):
 
    +Ger+Prf+PxSg1:%>мекем  K  ;
@@ -236,7 +236,7 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
    +Ger+Prf+PxPl2:%>мекыда  K  ;
    +Ger+Prf+PxPl3:%>мекышт  K  ;
 
- +Ger+Imprf:%>мешк{еы%} K  ; ! Деепричастие времени 
+ +Ger+Imprf:%>мешк%{еы%} K  ; ! Деепричастие времени 
  +Ger+Imprf:%>меш ENDLEX  ; ! Деепричастие времени 
                          ! (показывает время, последующее за поясняемым действием)
 
@@ -302,7 +302,7 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
 !2012-09-21! LEXICON V5
 !   2012-09-21! +Ind+Prt+Sg1:X2ым    K0   "IND-1-PRET-SG-1"   ;
 !   2012-09-21! +Ind+Prt+Sg2:X2ыч    K0   "IND-1-PRET-SG-2"   ;
-!   2012-09-21! +Ind+Prt+Sg3:X2е1    K0   "IND-1-PRET-SG-3"   ;
+!   2012-09-21! +Ind+Prt+Sg3:X2Е1    K0   "IND-1-PRET-SG-3"   ;
 !   2012-09-21! +Ind+Prt+Pl3:X2ыч    K0   "IND-1-PRET-PL-3"   ;
 !2012-09-21!
 !2012-09-21! LEXICON V6
@@ -328,7 +328,7 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
 !   2012-09-21! +Ind+Prt+Pl3:X2ыт    K0   "IND-2-PRET-PL-3"   ;
 !2012-09-21!
 !2012-09-21! LEXICON V10
-!       2012-09-21! +Imp+Sg3:X2же1   K0   "IMP-SG-3"          ;
+!       2012-09-21! +Imp+Sg3:X2жЕ1   K0   "IMP-SG-3"          ;
 !       2012-09-21! +Imp+Pl2:X2за    K0   "IMP-PL-2"          ;
 !       2012-09-21! +Imp+Pl3:X1X2шт  K0   "IMP-PL-3"          ;
 !2012-09-21!
@@ -348,10 +348,10 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
 !2012-09-21!
 !2012-09-21! LEXICON W2
 !       2012-09-21! +Inf+Nec:X2ман   K0   "INF-NESESS"        ;
-!       2012-09-21! +Ptc+Act:$ше1    W    "PART-AKT"          ;
-!       2012-09-21! +Ptc+Pass:$ме1    W    "PART-PASS"         ;
+!       2012-09-21! +Ptc+Act:$шЕ1    W    "PART-AKT"          ;
+!       2012-09-21! +Ptc+Pass:$мЕ1    W    "PART-PASS"         ;
 !       2012-09-21! +Ptc+Fut:$шаш    W    "PART-FUT"          ;
-!       2012-09-21! +Ptc+Neg:$дыме1  W    "PART-NEG"          ;
+!       2012-09-21! +Ptc+Neg:$дымЕ1  W    "PART-NEG"          ;
 ! 2012-09-21! +Ger+Instr+Neg:X7де    S-a  "GER-INSTR-NEG"     ;
 !           2012-09-21! +Ger:X7меке  S-a  "GER-AIKAIS"        ;
 !           2012-09-21! +Ger:X7меш   S    "GER-MY=ъъH-mеш"    ;
