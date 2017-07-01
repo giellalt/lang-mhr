@@ -11,7 +11,7 @@
 !! we should revisit this in the lexicon eventually - classifying postpositions into those that
 !! take Px and those that do not.
 
-!! Also here: some adverbs that take possessive suffixes, like ӱстембалне 'on the table' > ӱстембалнем 'on my table'
+!! Also here: some adverbs that take possessive suffixes, like ӱстембалне ''on the table'' > ӱстембалнем ''on my table''
 
 
 LEXICON N_  !!= * @CODE@ redirects to N-ava_01
@@ -42,7 +42,7 @@ LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
   N-SG-GEN       ;
   N-SG-DAT       ;
   N-SG-ACC       ;
-  N-SG-CMPR       ;
+  N-SG-CMPR      ;
   N-SG-COM       ;
   N-SG-INE       ;
   N-SG-ILL       ;
@@ -56,7 +56,7 @@ LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
 
   N-ASSOCPL-ABE  ;
   N-ASSOCPL-ACC  ;
-  N-ASSOCPL-CMPR  ;
+  N-ASSOCPL-CMPR ;
   N-ASSOCPL-COM  ;
   N-ASSOCPL-DAT  ;
   N-ASSOCPL-GEN  ;
@@ -67,7 +67,7 @@ LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
 
   N-PL-ABE       ;
   N-PL-ACC       ;
-  N-PL-CMPR       ;
+  N-PL-CMPR      ;
   N-PL-COM       ;
   N-PL-DAT       ;
   N-PL-GEN       ;
@@ -215,11 +215,13 @@ LEXICON N-OLD-ORTH-SG-NOM_  !!= * @CODE@
 
 
 
-!!!!!!!!!!!!!!!!!!!!
-!! !! DECLENSION 
-!!!!!!!!!!!!!!!!!!!!
 
-!! Case suffixes
+!! !! DECLENSION 
+
+
+!! !Case suffixes
+!! Each case-number-person has its own lexicon.
+
 LEXICON N-SG-NOM  !!= * @CODE@
  +Sg+Nom: K ;
 
@@ -230,7 +232,7 @@ LEXICON N-SG-DAT !!= * @CODE@
  +Sg+Dat:%>лан K ;
 
 LEXICON N-SG-ACC !!= * @CODE@
- +Sg+Acc:%>Ы1м K ; !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ +Sg+Acc:%>Ы1м K ; 
 
 LEXICON N-SG-CMPR !!= * @CODE@
  +Sg+Cmpr:%>ла K ;
@@ -341,9 +343,11 @@ LEXICON N-PL-ABE !!= * @CODE@
  +Pl+Abe:%-шамычде K ;
 
 !! !Sg Sg1
+!! Here start the Px stuff
+
 
 LEXICON N-SG-PxSg1-NOM !!= * @CODE@
- +Sg+PxSg1+Nom:%>Е2м   K ; !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ +Sg+PxSg1+Nom:%>Е2м   K ; 
 
 LEXICON N-SG-PxSg1-GEN !!= * @CODE@
  +Sg+PxSg1+Gen:%>Е2мын K ;
