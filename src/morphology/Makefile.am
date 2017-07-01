@@ -33,6 +33,8 @@ GT_LEXC_SRCS_L1_L2=\
 			 affixes/numbers.lexc \
 			 affixes/pronouns.lexc    \
 			 affixes/propernouns.lexc \
+			 affixes/adverbs.lexc    \
+			 affixes/postpositions.lexc \
 			 affixes/verbs.lexc
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
