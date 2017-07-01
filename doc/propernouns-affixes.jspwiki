@@ -37,38 +37,38 @@ Check whether +Orth/Colloq is orthographically wrong
 
 
 
- * LEXICON Deriv-RUS-В_SURMAL  Абдеев:Абдеев
+ * LEXICON Deriv-RUS-V_SURMAL  Абдеев:Абдеев
 
 
- * LEXICON Deriv-RUS-ИЙ_SURMAL  Багрий:Багр
+ * LEXICON Deriv-RUS-IJ_SURMAL  Багрий:Багр
 
 
- * LEXICON Deriv-RUS-КИЙ_SURMAL  Аморский:Аморск
+ * LEXICON Deriv-RUS-KIJ_SURMAL  Аморский:Аморск
 
- * LEXICON Deriv-RUS-ОЙ_SURMAL 
+ * LEXICON Deriv-RUS-OJ_SURMAL 
 
- * LEXICON Deriv-RUS-ЫЙ_SURMAL 
+ * LEXICON Deriv-RUS-YJ_SURMAL 
 
- * LEXICON Deriv-RUS-АН_SURMAL 
+ * LEXICON Deriv-RUS-AN_SURMAL 
 
- * LEXICON Deriv-RUS-ИН_SURMAL 
+ * LEXICON Deriv-RUS-IN_SURMAL 
 
 
- * LEXICON PROP_КАЛ_SURMAL 
+ * LEXICON PROP_KAL_SURMAL 
 
- * LEXICON PROP_КУДО_SURFEM 
+ * LEXICON PROP_KUDO_SURFEM 
 
  * LEXICON CYRL-CONS_SUR 
 
  * LEXICON PropSur-kal 
 
- * LEXICON CYRL-Т_SUR 
+ * LEXICON CYRL-T_SUR 
 
  * LEXICON PropSur-kit 
 
- * LEXICON CYRL-Л_SUR 
+ * LEXICON CYRL-L_SUR 
 
- * LEXICON CYRL-К_SUR 
+ * LEXICON CYRL-K_SUR 
 
  * LEXICON PropSur-lak 
 
@@ -78,55 +78,55 @@ Check whether +Orth/Colloq is orthographically wrong
 
  * LEXICON CYRL-VOW_SUR 
 
- * LEXICON CYRL-А_SUR 
+ * LEXICON CYRL-A_SUR 
 
- * LEXICON PROP_ОШ_SUR 
+ * LEXICON PROP_OSH_SUR 
 
- * LEXICON PROP_КИТ_SUR 
+ * LEXICON PROP_KIT_SUR 
 
- * LEXICON PROP_КУДО_SUR 
+ * LEXICON PROP_KUDO_SUR 
 
- * LEXICON PROP_КАЛ_MAL 
+ * LEXICON PROP_KAL_MAL 
 
- * LEXICON PROP_ЛАК_MAL 
+ * LEXICON PROP_LAK_MAL 
 
- * LEXICON PROP_КИТ_MAL 
+ * LEXICON PROP_KIT_MAL 
 
- * LEXICON PROP_ОШ_MAL 
+ * LEXICON PROP_OSH_MAL 
 
- * LEXICON PROP_КУДО_MAL 
+ * LEXICON PROP_KUDO_MAL 
 
 
 
- * LEXICON PROP_ОШ_PATRMAL 
+ * LEXICON PROP_OSH_PATRMAL 
 
- * LEXICON PROP_КУДО_PATRFEM 
+ * LEXICON PROP_KUDO_PATRFEM 
 
 
 !!Female Given names 
 
 
- * LEXICON PROP_КАЛ_FEM 
+ * LEXICON PROP_KAL_FEM 
 
 
- * LEXICON PROP_КИТ_FEM 
+ * LEXICON PROP_KIT_FEM 
 
- * LEXICON PROP_ОШ_FEM 
-
-
+ * LEXICON PROP_OSH_FEM 
 
 
- * LEXICON PROP_КУДО_FEM 
+
+
+ * LEXICON PROP_KUDO_FEM 
 
 
 PLACE NAMES FROM TEMPLATE 
 
- * LEXICON PROP-PLC_КАЛ 
+ * LEXICON PROP-PLC_KAL 
 
- * LEXICON PROP-PLC_КИТ 
+ * LEXICON PROP-PLC_KIT 
 
 
- * LEXICON PROP-PLC_КУДО 
+ * LEXICON PROP-PLC_KUDO 
 
 
 

@@ -23,7 +23,11 @@ We divide the verbs in two, -am and -em
 !The -am class
 
  LEXICON V_am-N  divides V_am in Mood and infinites
+
  LEXICON V_am  divides V_am in Mood and infinites
+
+
+
 
  LEXICON Vam-Mood  divides in Ind, Imprt, Des
 
@@ -38,7 +42,14 @@ We divide the verbs in two, -am and -em
 
  LEXICON V_em  divides V_em in Mood and infinites
 
+
  LEXICON V_em-1SYLL  These are single syllable V_em verbs, which do not include bare-stem gerunds in their paradigms
+
+
+
+
+
+
 
  LEXICON Vem-Mood  divides in Ind, Imprt, Des
 
@@ -51,6 +62,10 @@ We divide the verbs in two, -am and -em
 
 
  LEXICON non-finites  contains Mutual endings
+
+
+
+
 
 
 
