@@ -139,10 +139,10 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +ConNeg	          !!≈ * __@CODE@__ = Invariant main verb in negation expression
 +Prc	          !!≈ * __@CODE@__ = Participle
 +Nec	          !!≈ * __@CODE@__ = Necessive infinitive
-+PrfPrc	          !!≈ * __@CODE@__ = Perfective participle
-+FutPrc	          !!≈ * __@CODE@__ = Future participle
-+NegPrc	          !!≈ * __@CODE@__ = Negative participle
-+Imprf	          !!≈ * __@CODE@__ = Imperfective (?)
+!+Prf	          !!≈ * __@CODE@__ = Perfective participle
++Fut          !!≈ * __@CODE@__ = Future participle
++Neg	          !!≈ * __@CODE@__ = Negative participle
+!+Imprf	          !!≈ * __@CODE@__ = Imperfective (?)
 +Act	          !!≈ * __@CODE@__ = Active
 +Pass	          !!≈ * __@CODE@__ = Passive
 
@@ -152,18 +152,25 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Foc    !!≈ * __@CODE@__ = 
  
 ! -ат/-ят, -ак/-як, -с/-ыс
-+Foc/Ат       !!≈ * __@CODE@__ = -at focus particla
-+Foc/Ак       !!≈ * __@CODE@__ = -ak focus particle
-+Foc/Ыс	      !!≈ * __@CODE@__ = -ys focus particle
-+Foc/ян	      !!≈ * __@CODE@__ = -jan focus particle
-
++Foc/at       !!≈ * __@CODE@__ = -at focus particla
++Foc/ak       !!≈ * __@CODE@__ = -ak focus particle
++Foc/ys	      !!≈ * __@CODE@__ = -ys focus particle
++Foc/jan	      !!≈ * __@CODE@__ = -jan focus particle
++Foc/ja	      !!≈ * __@CODE@__ = -ja focus particle
 
 !! !Derivations
 
 +Der/MWN      !!≈ * __@CODE@__ = Modifier without noun (better: +A+Sg+Nom etc.)
 +Der/Poss      !!≈ * __@CODE@__ = Originally genitive form without a head
-+Der/исЕ      !!≈ * __@CODE@__ = Used with place names
-+Der/дымаш      !!≈ * __@CODE@__ = Negative nominalization
+!+Der/исЕ      !!≈ * __@CODE@__ = Used with place names
+
++Der/Nom    !!≈ * __@CODE@__ =  Derivation V > N: Nominalization
++Der/NomNeg    !!≈ * __@CODE@__ = Derivation V > N: Negative nominalization
++Der/Priv    !!≈ * __@CODE@__ =  Derivation N > A: Privative adjective
++Der/Poss    !!≈ * __@CODE@__ =   Derivation N > A: Possessive adjective
++Der/Rel    !!≈ * __@CODE@__ =  Derivation N > A: Relational adjective
++Der/Caus    !!≈ * __@CODE@__ = Derivation V > V: Causative
++Der/Refl    !!≈ * __@CODE@__ = Derivation V > V: Reflexive
 
 !! Abbreviated words are classified with:
 +ABBR         !!≈ * __@CODE@__ = for abbreviations that (may) contain period
@@ -601,44 +608,6 @@ LEXICON CS_ !!= * @CODE@ subjunctions
 
 LEXICON DESCR_
 +Descr: K ;
-
-LEXICON ADV_ !!= * @CODE@ adverbs
-+Adv+Comp:%>рак K  ;
-+Adv+Weak:%>ла K  ;
-+Adv: K ;
-
-LEXICON ADV2_  ! Adverbs that take PX - this stuff can probably be shipped off to another file
-+Adv+PxSg1:%>Е2м   K ;
-+Adv+PxSg2:%>Е2т K ;
-
-+Adv+PxSg3:%>ыж K ; !NB_PX_CX Only after ш see twolc
-+Adv+PxSg3:%>ыжЫ2 K ; !NB_PX_CX Only after ш see twolc
-+Adv+PxSg3:%>жЫ2 K ; !NB_PX_CX
-+Adv+PxSg3:%>ж K ; !NB_PX_CX
-
-+Adv+PxPl1:%>на K ;
-+Adv+PxPl2:%>да K ;
-+Adv+PxPl3:%>Ы1шт K ;
-+Adv+Comp:%>рак K  ;
-+Adv+Weak:%>ла K  ;
-+Adv: K ;
-
-LEXICON PO_ !!= * @CODE@ postpositions ! (Some) postpositions take PX - this stuff can probably be shipped off to another file
-+Po+PxSg1:%>Е2м   K ;
-+Po+PxSg2:%>Е2т K ;
-
-+Po+PxSg3:%>ыж K ; !NB_PX_CX Only after ш see twolc
-+Po+PxSg3:%>ыжЫ2 K ; !NB_PX_CX Only after ш see twolc
-+Po+PxSg3:%>жЫ2 K ; !NB_PX_CX
-+Po+PxSg3:%>ж K ; !NB_PX_CX
-
-+Po+PxPl1:%>на K ;
-+Po+PxPl2:%>да K ;
-+Po+PxPl3:%>Ы1шт K ;
-+Po+Weak:%>ла K  ;
-+Po: K ;
-
-
 
 LEXICON AD-A !!= * @CODE@ also adverbs
 +Adv: # ;
