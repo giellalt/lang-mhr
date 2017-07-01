@@ -14,8 +14,8 @@ other symbols
  *    %- 
 
 Archiphonemes for vowels, Giellatekno style
- *   е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
- *  Ы2:ы     Variation in еоыӧØ
+ *   Е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
+ *  Ы2:е     Variation in еоыӧØ
  *   А1:а    
  *   Е2:е А2:а   
 
@@ -85,9 +85,9 @@ __ Palatal mark loss before vowel __
 имне+N+Sg+Nom+Foc/Ат
 * __имнь%{еы%}%>А2т __
 * __имн00%>ят __
+витнь>Ы2^END
 * __башнь%{яы%} __
 * __башн0я __
-
 
 __ Onset vowel loss in suffix after stem vowel __  
 
@@ -155,7 +155,15 @@ __ suffix-final vowel realized %{еы%}:ы  __
 * __имнʼь%{еы%}%>жЫ2 __
 * __имн0ьы%>же __
 
+
+__ suffix-final vowel realized Ы2:ы  __  
+
+
+__ stem-final vowel realized %{аы%}:а __  
+
+
 __ stem-final vowel realized %{еы%}:е __  
+
 
 __ suffix-final vowel realized %{ӧы%}:ы  __  
 
@@ -243,13 +251,13 @@ __ Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш  __
 * __йӧратымаш%>тЫ2 __
 * __йӧратымаш%>те __
 
+
 __ Disallow Sg+Ill in кЫ2 everywhere except after stem-final ш  __
 авалтымаш+N+Sg+Ine
 * __авалтымаш%>кЫ2 __
 * __авалтымаш%>ке __
 
 
-
 __ Disallow PxSg3 in ыж no where except after ш  __
 * __йолташ%>ыж# __
 * __йолташ%>ыж# __
@@ -257,6 +265,9 @@ __ Disallow PxSg3 in ыж no where except after ш  __
 * __*олма%>ыж# __ (is not standard language)
 
 __ Disallow PxSg3 in ыж no where except after ш  __
+
+
+__ Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs  __                                                                                                                                                                           
 
 
 

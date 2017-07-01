@@ -122,10 +122,8 @@ Other verb forms are
  * __+ConNeg	__ = Invariant main verb in negation expression
  * __+Prc	__ = Participle
  * __+Nec	__ = Necessive infinitive
- * __+PrfPrc	__ = Perfective participle
- * __+FutPrc	__ = Future participle
- * __+NegPrc	__ = Negative participle
- * __+Imprf	__ = Imperfective (?)
+ * __+Fut__ = Future participle
+ * __+Neg	__ = Negative participle
  * __+Act	__ = Active
  * __+Pass	__ = Passive
 
@@ -134,18 +132,24 @@ Question and Focus particles:
  * __+Qst__ = 
  * __+Foc__ = 
 
- * __+Foc/Ат__ = -at focus particla
- * __+Foc/Ак__ = -ak focus particle
- * __+Foc/Ыс	__ = -ys focus particle
- * __+Foc/ян	__ = -jan focus particle
-
+ * __+Foc/at__ = -at focus particla
+ * __+Foc/ak__ = -ak focus particle
+ * __+Foc/ys	__ = -ys focus particle
+ * __+Foc/jan	__ = -jan focus particle
+ * __+Foc/ja	__ = -ja focus particle
 
 !Derivations
 
  * __+Der/MWN__ = Modifier without noun (better: +A+Sg+Nom etc.)
  * __+Der/Poss__ = Originally genitive form without a head
- * __+Der/исЕ__ = Used with place names
- * __+Der/дымаш__ = Negative nominalization
+
+ * __+Der/Nom__ =  Derivation V > N: Nominalization
+ * __+Der/NomNeg__ = Derivation V > N: Negative nominalization
+ * __+Der/Priv__ =  Derivation N > A: Privative adjective
+ * __+Der/Poss__ =   Derivation N > A: Possessive adjective
+ * __+Der/Rel__ =  Derivation N > A: Relational adjective
+ * __+Der/Caus__ = Derivation V > V: Causative
+ * __+Der/Refl__ = Derivation V > V: Reflexive
 
 Abbreviated words are classified with:
  * __+ABBR__ = for abbreviations that (may) contain period
@@ -561,17 +565,6 @@ Here comes a set of ragbag continuation lexica.
  * LEXICON CC_  conjunctinos
 
  * LEXICON CS_  subjunctions
-
-
- * LEXICON ADV_  adverbs
-
-
-
-
- * LEXICON PO_  postpositions ! (Some) postpositions take PX - this stuff can probably be shipped off to another file
-
-
-
 
 
  * LEXICON AD-A  also adverbs
