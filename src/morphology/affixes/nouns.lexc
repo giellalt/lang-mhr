@@ -17,12 +17,13 @@
 LEXICON N_  !!= * @CODE@ redirects to N-ava_01
     +N: N-ava_01 ; 
 
-!! Derivational morphology - this needs work
+!! Derivational morphology
+
  +N+N→A+Priv:%>дымЫ2 A_ ;   ! вӱр 'blood' > вӱрдымӧ 'bloodless' - Privative derivation
  +N+N→A+Poss:%>А2н A_ ;     ! вӱр 'blood' > вӱран 'bloody' - Possessive derivation
  +N+N→A+Rel:%>Ы1сЫ2 A_ ;    ! вӱр 'blood' > вӱрысӧ 'of/in blood' - Relational derivation
  +N+N→A+Pur:%>лык A_ ;      ! вӱр 'blood' > вӱрлык 'for blood' - Purposive derivation
- +LocPl+N→A+Pur:%>ласе A_ ; ! эл 'land' > элласе 'of/in lands' - Plur + Relational derivation
+ +N+LocPl+N→A+Pur:%>ласе A_ ; ! эл 'land' > элласе 'of/in lands' - Plur + Relational derivation
 
 
 LEXICON N-continuation  !!= * @CODE@ comes from Proper nouns
@@ -30,8 +31,8 @@ LEXICON N-continuation  !!= * @CODE@ comes from Proper nouns
 
 LEXICON N-ava !!= * @CODE@ to N-ava_01 and vocatives
             +N:     N-ava_01 ;
-        +N+Voc:%>й  #        ;
-  +N+Voc+PxSg1:%>ем #        ;
+        +N+Voc:%>й  ENDLEX        ;
+  +N+Voc+PxSg1:%>ем ENDLEX        ;
 
 LEXICON N-ava_01 !!= * @CODE@ obl because of pronouns
   N-SG-NOM       ;
@@ -208,7 +209,7 @@ LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
   N-PL-PxPl3-ABE ;
 
 LEXICON N-OLD-ORTH-SG-NOM_  !!= * @CODE@
-+Err/Orth+N+Sg+Nom: # ;
++Err/Orth+N+Sg+Nom: ENDLEX ;
 
 
 
@@ -232,10 +233,10 @@ LEXICON N-SG-ACC !!= * @CODE@
  +Sg+Acc:%>Ы1м K ; !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON N-SG-CMPR !!= * @CODE@
- +Sg+Cmpr:ла K ;
+ +Sg+Cmpr:%>ла K ;
 
 LEXICON N-SG-COM !!= * @CODE@
- +Sg+Com:ге K ;
+ +Sg+Com:%>ге K ;
 
 LEXICON N-SG-INE !!= * @CODE@
  +Sg+Ine+Weak:%>Ы1штыла K ;
@@ -247,7 +248,7 @@ LEXICON N-SG-INE !!= * @CODE@
 LEXICON N-SG-ILL !!= * @CODE@
  +Sg+Ill+Weak:%>Ы1шкыла K ;
  +Sg+Ill:%>Ы1шкЫ2 K ;
- +Sg+Ill:%>Ы1ш # ;
+ +Sg+Ill:%>Ы1ш ENDLEX ;
  +Sg+Ill:%>кЫ2 K ;
 
 LEXICON N-SG-LAT !!= * @CODE@
@@ -255,7 +256,7 @@ LEXICON N-SG-LAT !!= * @CODE@
 ! +Use/Test+Sg+Lat:%>Е2ш K ; ! turn off for a while
 
 LEXICON N-SG-ABE !!= * @CODE@
- +Sg+Abe:де K ;
+ +Sg+Abe:%>де K ;
 
 LEXICON N-LOCPL-ILL !!= * @CODE@
  +LocPl+Ill:%>лашке K ;
@@ -284,14 +285,17 @@ LEXICON N-ASSOCPL-DAT
 LEXICON N-ASSOCPL-GEN
 +AssocPl+Gen:%>мытын K ;
 LEXICON N-ASSOCPL-ILL
-+AssocPl+Ill:%>мытышке K ;
++AssocPl+Ill:%>мытышк{еы%} K ;
 +AssocPl+Ill:%>мытыш K ;
 LEXICON N-ASSOCPL-INE
-+AssocPl+Ine:%>мытыште K ;
++AssocPl+Ine:%>мытышт{еы%} K ;
 LEXICON N-ASSOCPL-LAT
 +AssocPl+Lat:%>мытеш K ;
 LEXICON N-ASSOCPL-NOM
 +AssocPl+Nom:%>мыт K ;
+
+
+ +Sg+PxSg1+Dat:%>ланем  K ; !NB_CX_PX
 
 LEXICON N-PL-NOM !!= * @CODE@
  +Pl+Nom:%-влак  K ;
@@ -795,8 +799,8 @@ LEXICON N-PL-PxPl1-CMPR !!= * @CODE@
  +Pl+PxPl1+Cmpr:%-шамычнала K ; !NB_PX_CX
  +Pl+PxPl1+Cmpr:%>на%-влакла  K ;      !PX_NB_CX
  +Pl+PxPl1+Cmpr:%>на%-шамычла K ;      !PX_NB_CX
- +Pl+PxPl1+Cmpr:%>%-влаклана  K ;      !NB_CX_PX
- +Pl+PxPl1+Cmpr:%>%-шамычлана K ;      !NB_CX_PX
+ +Pl+PxPl1+Cmpr:%-влаклана  K ;      !NB_CX_PX
+ +Pl+PxPl1+Cmpr:%-шамычлана K ;      !NB_CX_PX
 
 LEXICON N-PL-PxPl1-COM !!= * @CODE@
  +Pl+PxPl1+Com:%-влакнаге  K ; !NB_PX_CX
@@ -863,7 +867,7 @@ LEXICON N-SG-PxPl2-LAT !!= * @CODE@
  +Sg+PxPl2+Lat:%>Е2шда K ;
 
 LEXICON N-SG-PxPl2-ABE !!= * @CODE@
- +Sg+PxPl2+Abe:даде K ;
+ +Sg+PxPl2+Abe:%>даде K ;
 
 LEXICON N-PL-PxPl2-NOM !!= * @CODE@
  +Pl+PxPl2+Nom:%-влакда  K ; !NB_PX_CX

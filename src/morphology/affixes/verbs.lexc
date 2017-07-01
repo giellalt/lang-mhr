@@ -153,7 +153,7 @@ LEXICON V_em-1SYLL !!= @CODE@ These are single syllable V_em verbs, which do not
               +Refl:%>А2лт V_am; ! Reflexive derivation: ончыкташ 'to show' > ончыкталташ 'to show oneself'
 
                  +V:      Vem-Mood    ;
-             +V+Inf:%>А2шкики K           ;
+             +V+Inf:%>А2ш K           ;
 
 
              +V+Inf+Dat:%>А2шлан K           ;
@@ -222,8 +222,8 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
    +Inf+Nec:%>ман   K  ; ! Neccessitive infinitive
    +Act+Prc:%>шЫ2   N_  ; ! Действительное причастие
    +Pass+Prc:%>мЫ2   N_  ; ! Страдательное причастие
-    +FutPrc:%>шаш   N_  ; ! Причастие будущего времени
-    +NegPrc:%>дымЫ2 N_  ; ! Отрицательное причастие
+    +Fut+Prc:%>шаш   N_  ; ! Причастие будущего времени
+    +Neg+Prc:%>дымЫ2 N_  ; ! Отрицательное причастие
    +Ger+Abe:%>де    K  ; ! Отрицательная форма деепричастия образа действия:
    +Ger+Prf:%>мек{еы%}  K  ; ! Деепричастие времени (показывают время, предшествующее времени глагола):
    +Ger+Prf:%>мек  ENDLEX  ; ! Деепричастие времени (показывают время, предшествующее времени глагола):
