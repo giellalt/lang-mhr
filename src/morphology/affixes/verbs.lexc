@@ -170,8 +170,9 @@ LEXICON V_em-1SYLL !!= @CODE@ These are single syllable V_em verbs, which do not
 ! Деепричастие образа действия:
          +V+Ger+Gen:%>Е2н  K           ;
                  +V:ы     non-finites ;
-          +V+ConNeg:%>Ы2%^END  K           ;
+          +V+ConNeg:%>Ы2%^END  K           ; ! 
        +V+Imprt+Sg2:%>Ы2%^END  K-imprt     ;
+
           +V+ConNeg:%>%^V2IMPRT  K           ; ! Only single-syllables in й
        +V+Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
 
