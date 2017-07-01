@@ -79,8 +79,8 @@ LEXICON V_am-N !!= @CODE@ divides V_am in Mood and infinites
 
 LEXICON V_am !!= @CODE@ divides V_am in Mood and infinites
 
-              +Caus:ы%>кт V_em; ! Causative derivation: ышташ 'to do' > ыштыкташ 'to make do'
-              +Refl:ы%>А2лт V_am; ! Reflexive derivation: ончыкташ 'to show' > ончыкталташ 'to show oneself'
+              +Der/Caus:ы%>кт V_em; ! Causative derivation: ышташ 'to do' > ыштыкташ 'to make do'
+              +Der/Refl:ы%>А2лт V_am; ! Reflexive derivation: ончыкташ 'to show' > ончыкталташ 'to show oneself'
                  +V:      Vam-Mood    ;
              +V+Inf:%>А2ш K           ;
 
@@ -149,8 +149,8 @@ LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
  	  
 LEXICON V_em-1SYLL !!= @CODE@ These are single syllable V_em verbs, which do not include bare-stem gerunds in their paradigms
 
-              +Caus:ы%>кт V_em; ! Causative derivation: ышташ 'to do' > ыштыкташ 'to make do'
-              +Refl:%>А2лт V_am; ! Reflexive derivation: ончыкташ 'to show' > ончыкталташ 'to show oneself'
+              +Der/Caus:ы%>кт V_em; ! Causative derivation: ышташ 'to do' > ыштыкташ 'to make do'
+              +Der/Refl:%>А2лт V_am; ! Reflexive derivation: ончыкташ 'to show' > ончыкталташ 'to show oneself'
 
                  +V:      Vem-Mood    ;
              +V+Inf:%>А2ш K           ;
@@ -256,8 +256,8 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
        +Ger+PxSg2:%>шетла  K  ;
        +Ger+PxSg3:%>шыжла  K  ;
        +Ger+PxPl3:%>шыштла  K  ;
-       +V→N:%>маш     N_ ;
-       +V→N:%>дымаш     N_ ;
+       +Der/Nom:%>маш     N_ ;
+       +Der/NomNeg:%>дымаш     N_ ;
 
 
 
