@@ -3749,7 +3749,7 @@
    <lg>
      <l hid="Hom1" pos="V">аяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">ай</st>
+       <st Contlex="V_em-1SYLL-j">ай</st>
      </stg> <stress>ая•ш (-ем) [1]</stress>
    </lg>
    <mg> <defNative/>
@@ -3767,7 +3767,7 @@
    <lg>
      <l hid="Hom2" pos="V">аяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">ай</st>
+       <st Contlex="V_em-1SYLL-j">ай</st>
      </stg> <stress>ая•ш (-ем) [2]</stress>
    </lg>
    <mg> <defNative/>
@@ -8016,7 +8016,7 @@
    <lg>
      <l pos="V">вияш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">вий</st>
+       <st Contlex="V_em-1SYLL-j">вий</st>
      </stg> <stress>вия•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -9814,7 +9814,7 @@
    <lg>
      <l pos="V">вошткаяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">вошткай</st>
+       <st Contlex="V_em">вошткай</st>
      </stg> <stress>вошткая•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -12312,7 +12312,7 @@
    <lg>
      <l pos="V">вӱргаяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">вӱргай</st>
+       <st Contlex="V_em">вӱргай</st>
      </stg> <stress>вӱргая•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -12807,7 +12807,7 @@
    <lg>
      <l pos="V">говеяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">говей</st>
+       <st Contlex="V_em">говей</st>
      </stg> <stress>говея•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -13101,7 +13101,7 @@
    <lg>
      <l pos="V">гуляяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">гуляй</st>
+       <st Contlex="V_em">гуляй</st>
      </stg> <stress>гуляя•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -27635,7 +27635,7 @@
    <lg>
      <l pos="V">каяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">кай</st>
+       <st Contlex="V_em-1SYLL-j">кай</st>
      </stg> <stress>кая•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -29213,7 +29213,7 @@
    <lg>
      <l pos="V">кияш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">кий</st>
+       <st Contlex="V_em-1SYLL-j">кий</st>
      </stg> <stress>кия•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -39741,7 +39741,7 @@
    <lg>
      <l pos="V">куяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">куй</st>
+       <st Contlex="V_em-1SYLL-j">куй</st>
      </stg>
    </lg>
    <mg> <defNative/>
@@ -39755,7 +39755,7 @@
    <lg>
      <l pos="V">куяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">куй</st>
+       <st Contlex="V_em-1SYLL-j">куй</st>
      </stg>
    </lg>
    <mg> <defNative/>
@@ -51484,7 +51484,7 @@
    <lg>
      <l pos="V">лӱяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">лӱй</st>
+       <st Contlex="V_em-1SYLL-j">лӱй</st>
      </stg> <stress>лӱя•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -53311,7 +53311,7 @@
    <lg>
      <l pos="V">мияш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">мий</st>
+       <st Contlex="V_em-1SYLL-j">мий</st>
      </stg> <stress>мия•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -54028,7 +54028,7 @@
    <lg>
      <l pos="V">мортияш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">мортий</st>
+       <st Contlex="V_em">мортий</st>
      </stg> <stress>мортия•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -54047,7 +54047,7 @@
    <lg>
      <l pos="V">мотаяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">мотай</st>
+       <st Contlex="V_em">мотай</st>
      </stg>
    </lg>
    <mg> <defNative/>
@@ -54350,7 +54350,7 @@
    <lg>
      <l pos="V">моҥаяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">моҥай</st>
+       <st Contlex="V_em">моҥай</st>
      </stg> <stress>моҥая•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -59256,7 +59256,7 @@
    <lg>
      <l pos="V">нояш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">ной</st>
+       <st Contlex="V_em-1SYLL-j">ной</st>
      </stg> <stress>ноя•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -66096,7 +66096,7 @@
    <lg>
      <l hid="Hom1" pos="V">ояш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">ой</st>
+       <st Contlex="V_em-1SYLL-j">ой</st>
      </stg> <stress>оя•ш (-ем) [1]</stress>
    </lg>
    <mg> <defNative/>
@@ -66114,7 +66114,7 @@
    <lg>
      <l hid="Hom2" pos="V">ояш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">ой</st>
+       <st Contlex="V_em-1SYLL-j">ой</st>
      </stg> <stress>оя•ш (-ем) [2]</stress>
    </lg>
    <mg> <defNative/>
@@ -72560,7 +72560,7 @@
    <lg>
      <l pos="V">порыяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">порый</st>
+       <st Contlex="V_em">порый</st>
      </stg> <stress>порыя•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -73399,7 +73399,7 @@
    <lg>
      <l pos="V">пояш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">пой</st>
+       <st Contlex="V_em-1SYLL-j">пой</st>
      </stg> <stress>поя•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -73799,7 +73799,7 @@
    <lg>
      <l pos="V">преяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">прей</st>
+       <st Contlex="V_em-1SYLL-j">прей</st>
      </stg> <stress>прея•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -82359,7 +82359,7 @@
    <lg>
      <l pos="V">пӱяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">пӱй</st>
+       <st Contlex="V_em-1SYLL-j">пӱй</st>
      </stg> <stress>пӱя•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -84690,7 +84690,7 @@
    <lg>
      <l pos="V">родияш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">родий</st>
+       <st Contlex="V_em">родий</st>
      </stg> <stress>родия•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -86196,7 +86196,7 @@
    <lg>
      <l pos="V">рыяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">рый</st>
+       <st Contlex="V_em-1SYLL-j">рый</st>
      </stg> <stress>рыя•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -89132,7 +89132,7 @@
    <lg>
      <l pos="V">сдаяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">сдай</st>
+       <st Contlex="V_em-1SYLL-j">сдай</st>
      </stg> <stress>сдая•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -97581,7 +97581,7 @@
    <lg>
      <l pos="V">таяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">тай</st>
+       <st Contlex="V_em-1SYLL-j">тай</st>
      </stg> <stress>тая•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -98876,7 +98876,7 @@
    <lg>
      <l pos="V">тогдаяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">тогдай</st>
+       <st Contlex="V_em">тогдай</st>
      </stg> <stress>тогдая•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -100166,7 +100166,7 @@
    <lg>
      <l pos="V">торгаяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">торгай</st>
+       <st Contlex="V_em">торгай</st>
      </stg> <stress>торгая•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -100877,7 +100877,7 @@
    <lg>
      <l pos="V">тояш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">той</st>
+       <st Contlex="V_em-1SYLL-j">той</st>
      </stg> <stress>тоя•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -108039,7 +108039,7 @@
    <lg>
      <l pos="V">тӱяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">тӱй</st>
+       <st Contlex="V_em-1SYLL-j">тӱй</st>
      </stg> <stress>тӱя•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -115452,7 +115452,7 @@
    <lg>
      <l pos="V">чияш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">чий</st>
+       <st Contlex="V_em-1SYLL-j">чий</st>
      </stg> <stress>чия•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -115490,7 +115490,7 @@
    <lg>
      <l pos="V">чогияш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">чогий</st>
+       <st Contlex="V_em">чогий</st>
      </stg> <stress>чогия•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -115855,7 +115855,7 @@
    <lg>
      <l pos="V">чокаяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">чокай</st>
+       <st Contlex="V_em">чокай</st>
      </stg> <stress>чокая•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -115963,7 +115963,7 @@
    <lg>
      <l pos="V">чокияш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">чокий</st>
+       <st Contlex="V_em">чокий</st>
      </stg>
    </lg>
    <mg> <defNative/>
@@ -117983,7 +117983,7 @@
    <lg>
      <l pos="V">чуяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">чуй</st>
+       <st Contlex="V_em-1SYLL-j">чуй</st>
      </stg> <stress>чуя•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -129725,7 +129725,7 @@
    <lg>
      <l pos="V">шуяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">шуй</st>
+       <st Contlex="V_em-1SYLL-j">шуй</st>
      </stg> <stress>шуя•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>
@@ -135074,7 +135074,7 @@
    <lg>
      <l hid="Hom2" pos="V">шӱяш</l>
      <stg>
-       <st Contlex="V_em-1SYLL">шӱй</st>
+       <st Contlex="V_em-1SYLL-j">шӱй</st>
      </stg> <stress>шӱя•ш (-ем)</stress>
    </lg>
    <mg> <defNative/>

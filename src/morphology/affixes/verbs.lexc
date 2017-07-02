@@ -146,7 +146,11 @@ LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
 
   V_em-1SYLL ; 
            +V+Ger+Gen:  K ; !CHECKME is %>Ы2%^END required
- 	  
+
+LEXICON V_em-1SYLL-j !!= @CODE@ These allow for literary norm until 1970s (see Alhoniemi 1985: 105-106) кайше, кайшаш
++V+Err/Orth: non-finites ; !!= @CODE@ until 1972 reform
+V_em-1SYLL ;
+
 LEXICON V_em-1SYLL !!= @CODE@ These are single syllable V_em verbs, which do not include bare-stem gerunds in their paradigms
 
               +Der/Caus:ы%>кт V_em; ! Causative derivation: ышташ 'to do' > ыштыкташ 'to make do'
