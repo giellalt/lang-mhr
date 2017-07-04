@@ -1,4 +1,3 @@
-
 #!! This is the Eastern Mari disambiguation file. It chooses
 #!! the correct morphological analyses in any given sentence context.
 
@@ -12,6 +11,8 @@
 
 DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" sent ;
 #!! The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
+
+LIST DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<,>" "<;>" sent ; #SASHA ADDED 30-07-2017
 
 #PARENTHESES = "<$(>" "<$)>" "<$[>" "<$]>" "<${>" "<$}>" "<$«>" "<$»>" ;
 
@@ -42,6 +43,9 @@ SETS
 
 LIST BOS = (>>>) (<s>); #!! BOS
 LIST EOS = (<<<) (</s>); #!! EOS
+
+#!! !Clause boundary
+LIST C-BOUNDARY = CS Rel ; #ADDED BY JEREMY AND SASHA 28-06-2017
 
 # We define end of clause and beginning of clause in a way so that the file
 # may be read both by the CG-2 and the vislcg formalisms.
@@ -124,6 +128,8 @@ LIST Interr = Interr ; #!! Interr
 LIST Recipr = Recipr ; #!! Recipr
 LIST Dem = Dem ;	#!! Dem
 LIST ABBR = ABBR ;	  #!! ABBR
+LIST Pron1Sg = "мый" "Мый" ; #SASHA ADDED 3-07-2017
+LIST Pron2Sg = "тый" "Тый" ; #SASHA ADDED 3-07-2017
 
 #!! !Adjective comparison tags
 
@@ -186,13 +192,16 @@ SET PRE-N = A OR Gen OR Num OR Dem ;
 
 SET NON-PRE-N = WORD - PRE-N ;
 
+SET ADJ-OR-NOUN = A | N ; #SASHA ADDED 30-06-2017
+
+SET NOT-ADJ-OR-NOUN = WORD - ADJ-OR-NOUN ; #SASHA ADDED 2-07-2017
+
+LIST DER-N = Der/MWN ; #JEREMY AND SASHA ADDED 28-06-2017
+SET LEX-N = N - DER-N ; #JEREMY AND SASHA ADDED 28-06-2017
+
 #!! !!!Rule section
 
 SECTION
-
-
-
-
 
 #!! !!Early, word-internal rules
 
@@ -219,33 +228,125 @@ SELECT:Posna Po IF (-1 ("деч"))(0 ("посна"));
 #!! * __ikNum__ ик is never A
 SELECT:ikNum Num IF (0 ("ик"));
 
-#!! !Derivations
+#!! !Particles
 
-#!! * __RemDerMWN__ if noun follows
-REMOVE:RemDerMWN (Der/MWN N Nom) IF (1 N);
-#!! * __Dersa__ if noun follows
-REMOVE:Dersa Der/са IF (0 ("<(.*)са>"r) + A);
-#!! * __SelDerMWN__ select Der/MWN if no noun follows
-SELECT:SelDerMWN (Der/MWN) IF (0 A)(*1 EOS BARRIER N);
+#!! *__InterrQ__ if question mark anywhere to the right
+SELECT:InterrQ Interr IF (0 Interr)(*1 ("?")) ; #SASHA ADDED 3-07-2017
+
+#!! *__Interr__ removes Rel if question mark to the right somewhere
+REMOVE:Interr Rel IF (0 Interr)(*1 ("?")); #SASHA MODIFIED 3-07-2017
+
+#!! !Verbs
+
+#!! * __Ind__ selects Ind if no Ind to the right or to the left
+
+SELECT:Ind Ind IF (0 Ind)(*-1 DELIMITERS BARRIER Ind)(*1 DELIMITERS BARRIER Ind) ; #!! * __1SgAgr__ selects (Ind Sg1) if Pron1Sg to the right or to the left
+
+#!! * __1SgAgr__ selects (Ind Sg1) if (Pron1Sg Nom) to the right or to the left
+SELECT:1SgAgr (Ind Sg1) IF (0 Ind)(*-1 Pron1Sg + Nom BARRIER DELIMITERS)(*1 Pron1Sg + Nom BARRIER DELIMITERS) ; #SASHA ADDED 3-07-2017 
+
+#!! * __2SgAgr__ selects (Ind Sg2) if Pron2Sg to the right or to the left
+SELECT:2SgAgr (Ind Sg2) IF (0 Ind)(*-1 Pron2Sg + Nom BARRIER DELIMITERS)(*1 Pron2Sg + Nom BARRIER DELIMITERS) ; #SASHA ADDED 3-07-2017
+
+#!! * __IndAfterInf__ selects Ind if Inf to the left
+SELECT:IndAfterInf (Ind) IF (0 Ind)(-1 (Inf)) ; #SASHA ADDED 3-07-2017
+
+#!! * __NotImpWhenInd__
+REMOVE:NotImpWhenInd Imprt IF (*-1C Ind BARRIER COMMA); #JEREMY AND SASHA MODIFIED 28-06-2017
+
+#!! * __NotImpWhenWords1__
+REMOVE:NotImpWhenWords1 Imprt IF (-1 N)(0 N);
+
+#!! * __NotImpWhenWords2__
+REMOVE:NotImpWhenWords2 Imprt IF (-1 WORD LINK *-1 BOS BARRIER Imprt);
 
 #!! Adjectives
 
+SET LEX-A = A - (Der/MWN) ;
+
 REMOVE:CompRak A + (".*рак"r) IF (0 Comp) ;
 
-#!! * __AdjNotN__ if N or A to the right
-REMOVE:AdjNotN N IF (0 A)(1 A OR N);
+#!! *__RemAdjBeforeProp__ removes A if Prop to the left
+REMOVE:RemAdjBeforeProp A IF (1 (Prop)) ; #SASHA ADDED 03-07-2017
 
-#!! * __AdjNotAdv__ if N to the right
-REMOVE:AdjNotAdv Adv IF (0 A)(1 A OR N);
+#!! *__AdjBeforeMo__ selects A if Interr to the right
+SELECT:AdjBeforeMo LEX-A IF (0 A)(1 Interr) ; #SASHA ADDED 3-07-2017
 
-#!! * __AdjNotPron__ if N to the right
-REMOVE:AdjNotPron Pron IF (0 A)(1 N);
+#!! * __AdjBeforeAN__ selects A if N or A to the right
+SELECT:AdjBeforeAN LEX-A IF (0 A)(1 A OR N)(*1 N BARRIER NOT-ADJ-OR-NOUN) ; #SASHA MODIFIED 3-07-2017
+
+#!! * __RemN__ removes N if N to the right
+#REMOVE:RemN N IF (0 A)(1 N); #SASHA COMMENTED OUT 03-07-2017
+
+##!! * __AdjAfterNbeforeEOS__ selects A if N to the left and EOS to the right (predicative position)
+SELECT:AdjAfterNbeforeEOS LEX-A IF (0 A)(-1 N)(1 EOS) ; #SASHA ADDED 3-07-2017  
+
+#!! *_AdjBeforeConjAdj_ selects A if conjuction and A to the right ;
+SELECT:AdjBeforeConjAdj LEX-A IF (0 LEX-A)(1 CC)(2 LEX-A); #SASHA ADDED 30-06-2017
+
+#!! * __AdjNotAdv__ removes Adv if N to the right
+#REMOVE:AdjNotAdv Adv IF (0 A)(1 A OR N); #SASHA COMMENTED OUT 3-07-2017
+
+#!! * __AdjNotPron__ removes Pron Pers if N to the right
+REMOVE:AdjNotPron (Pron Pers) IF (0 A)(1 N); #SASHA MODIFIED 3-07-2017
+
+#!! *__AdjNotN__ removes N if Pron Pers anywhere to the left
+REMOVE:AdjNotN N IF (0 A)(*-1 Pron + Pers BARRIER DELIMITERS) ; #SASHA ADDED 03-07-2017
+
+#!! * __RemAdj1__ removes A if no N or A follows
+REMOVE:RemAdj1 A IF (0 N)(1 NOT-ADJ-OR-NOUN); #SASHA ADDED 30-06-2017
+
+#!! *__RemAdj2__ removes A if no N or Pron in a clause
+REMOVE:RemAdj2 A IF (0 N)(*-1 DELIMITERS BARRIER N OR Pron)(*1 DELIMITERS BARRIER N OR Pron); #SASHA ADDED 3-07-2017
+
+#!! !Nouns
+
+#!! *__RemNomIfPronLeft__ removes Nom if Pron Nom anywhere to the left
+REMOVE:RemNifPronLeft (Nom) IF (0 N)(*-1 Pron + Nom BARRIER DELIMITERS) ; #SASHA ADDED 03-07-2017
+
+#!! *__RemNomIfPronRight__ removes Nom if Pron Nom anywhere to the right
+REMOVE:RemNifPronRight (Nom) IF (0 N)(*1 Pron + Nom BARRIER DELIMITERS) ; #SASHA ADDED 03-07-2017
+
+#!! *__NomBeforeConjNom__ selects N Nom if conjoined with N Nom
+SELECT:NomBeforeConjNom (N Nom) IF (0 N)(1 CC)(2 (N Nom)) ; #SASHA ADDED 3-07-2017
+
+#!! *__NafterDem__ selects N if Dem to the left (demonstratives tend to be sole modifiers) 
+SELECT:NafterDem N IF (0 N)(-1 (Dem Nom)) ; #SASHA ADDED 3-07-2017
+
+#!! *__NotANoun__
+REMOVE:NotANoun N IF (-1 Adv)(0 V)(1 EOS OR COMMA);
+
+#!! *__NafterAbeforeEOS__
+SELECT:NafterAbeforeEOS N IF (0 N)(-1 A)(1 EOS); #SASHA ADDED 3-07-2017
+
+#!! *__RemNafterAdv__ removes N if adverb to the left
+REMOVE:RemNafterAdv N (0 N)(-1 Adv) ; #SASHA ADDED 3-07-2017
+
+#!! !Derivations
+
+#!! * __RemDerMWN1__ removes Der/MWN if N is an option
+REMOVE:RemDerMWN1 (Der/MWN) IF (0 LEX-N) ; #JEREMY AND SASHA ADDED 28-06-2017
+
+#!! * __RemDerMWN2__ removes Der/MWN if N to the right
+REMOVE:RemDerMWN2 (Der/MWN) IF (1 N);
+
+#!! * __Dersa__ if noun follows
+REMOVE:Dersa Der/са IF (0 ("<(.*)са>"r) + A);
+
+#!! * __SelDerMWN__ select Der/MWN if no noun follows
+SELECT:SelDerMWN (Der/MWN) IF (0 LEX-A)(*1 EOS BARRIER N); #SASHA MODIFIED 2-07-2017
 
 #!! !Cases
 
-#!! * __AccNeedsVerb__ prefers Nom (TODO: does this make sense?)
-REMOVE:AccNeedsVerb Acc IF (0C Nom OR Acc) (NOT -1* VFIN BARRIER BOS) (NOT -1* VFIN BARRIER EOS);
+#!! * __RemNomNif12left__ removes Nom with N if there is a verb with 1st or 2nd agreement to the lef
+REMOVE:RemNomNif12 Nom IF (0 N)(*-1 Ind + Sg1 OR Ind + Sg2 OR Ind + Pl1 OR Ind + Pl2 BARRIER DELIMITERS) ; #SASHA ADDED 03-07-2017
 
+#!! * __RemNomNif12right__ removes Nom with N if there is a verb with 1st or 2nd agreement to the right
+REMOVE:RemNomNif12 Nom IF (0 N)(*1 Ind + Sg1 OR Ind + Sg2 OR Ind + Pl1 OR Ind + Pl2 BARRIER DELIMITERS) ; #SASHA ADDED 03-07-2017
+
+
+#!! * __AccNeedsVerb__ prefers Nom (TODO: does this make sense? SASHA: it does but there was a typo, -1* instead of 1* in the third clause of the condition)
+REMOVE:AccNeedsVerb Acc IF (0C Nom OR Acc) (NOT -1* VFIN BARRIER BOS) (NOT 1* VFIN BARRIER EOS); #SASHA MODIFIED 03-07-2017
 
 SELECT:NomCC $$CASE IF (1 CC) (*2C N + $$CASE BARRIER NON-PRE-N);
 
@@ -262,7 +363,6 @@ REMOVE:KumNumAN N IF (0 ("кум"))(1 A OR N);
 #!! !Pronouns
 #!! * __NotInterr__ if Rel
 REMOVE:NotInterr Interr IF (-2 N)(-1 (","))(0 Rel);
-REMOVE:Interr Rel IF (0 Interr)(*1 ("?"));
 
 #!! * __Dem__ if noun follows
 SELECT:Dem Dem IF (0 Dem)(1 N + Nom);
@@ -272,11 +372,8 @@ SELECT:AdvUke Adv IF (0 ("уке"))(1 CLB OR EOS OR ("гын"));
 
 #!! !Postpositions
 
-
-
 #!! * __PoNeedsGen__ removes postposition if the word to the left is not Gen
 REMOVE:PoNeedsGen Po IF (NOT -1 Gen OR Nom);
-
 
 
 #!! !!Adverbs
@@ -289,31 +386,18 @@ REMOVE:molan ("мо") IF (0 ("молан")) ;
 
 REMOVE:AdvNotPcle Pcle IF (0 Adv)(1 V);
 
-REMOVE:PcleKillsAdv Adv IF (0 Pcle); 
+REMOVE:PcleKillsAdv Adv IF (0 Pcle);
+
+#!! *__RemAdvAfterNom__ removes Adv if N Nom to the left
+REMOVE:RemAdvAfterNom Adv IF (-1 N + Nom) ; #SASHA ADDED 03-07-2017
 
 #!! !!Verbs
 #     =====
 
-#TROMSO WORKSHOP JEREMY & SASHA ADDING RULES ON 28-06-2017
-
-LIST S-BOUNDARY = CS Rel ;
-
-REMOVE:Past (Ger Gen) IF (NOT 1 V) ;
-
-#MODIFIED 28-06-2017
-IFF:NegVerb Neg IF (*1 ConNeg BARRIER WORD - Pcle) ;
-
-#ADDED 28-06-2017
-IFF:Conneg ConNeg IF (*-1 Neg BARRIER WORD - Pcle) ; # SELECT
-
-#ADDED 28-06-2017
-LIST DER-N = Der/MWN ;
-SET LEX-N = N - DER-N ;
-REMOVE:derN DER-N IF (0 LEX-N) ;
-
-#TROMSO WORKSHOP JEREMY & SASHA ADDING RULES ON 28-06-2017 END
-
 #!! !Finite verb or Gerundium
+
+#!! *__RemGer__ removes Ger Gen if there is no verb to the right 
+REMOVE:Past (Ger Gen) IF (NOT 1 V) ;
 
 #!! * __FinNotGer__ removes Ger if there is a Ind Prt2 Sg3 in the clause
 REMOVE:FinNotGer Ger IF (0 Ind + Prt2 + Sg3)(NOT *0 VFIN);
@@ -321,9 +405,14 @@ REMOVE:FinNotGer Ger IF (0 Ind + Prt2 + Sg3)(NOT *0 VFIN);
 #!! * __GerNotFin__  Ger if there is a Ind next
 SELECT:GerNotFin Ger IF (1 Ind OR Inf) ;
 
-
 #!! * __GerNotFin__  Ger if there is a Ger da Ger VFin
 SELECT:GerNotFin2 Ger IF (1 CC)(2C Ger) ;
+
+#!!* __Conneg__ ConNeg if there is Neg to the left
+IFF:Conneg ConNeg IF (*-1 Neg BARRIER WORD - Pcle) ; #JEREMY AND SASHA ADDED 28-06-2017
+
+#!!* __NegVerb__ if there is ConNeg to the right
+IFF:NegVerb Neg IF (*1 ConNeg BARRIER WORD - Pcle) ; #JEREMY AND SASHA MODIFIED 28-06-2017
 
 #!! !First or third person
 
@@ -339,21 +428,6 @@ REMOVE:Sg1NotSg3 (Prt1 Sg3) IF (*-1 (Pers Sg1 Nom) BARRIER N + Nom OR Pers + Sg3
 REMOVE:NoConNeg1 ConNeg IF (NOT *-1 Neg BARRIER CLB);
 #!! * __NoConNeg2__ No ConNeg if another ConNeg to the left
 REMOVE:NoConNeg2 ConNeg IF (-1* ConNeg BARRIER Neg);
-
-
-#!! !Imperative or noun
-
-#MODIFIED ON 28-06-2017 BY JEREMY & SASHA
-#!! * __NotImpWhenInd__
-REMOVE:NotImpWhenIndTEST Imprt IF (*-1C Ind BARRIER COMMA);
-#!! * __NotImpWhenWords1__
-REMOVE:NotImpWhenWords1 Imprt IF (-1 N)(0 N);
-#!! * __NotImpWhenWords2__
-REMOVE:NotImpWhenWords2 Imprt IF (-1 WORD LINK *-1 BOS BARRIER Imprt);
-
-#!! !Some more verb rules
-#!! *__NotANoun__
-REMOVE:NotANoun N IF (-1 Adv)(0 V)(1 EOS OR COMMA);
 
 #!! !да
 
@@ -374,9 +448,7 @@ REMOVE:iNotAbbr ABBR IF (0 CC)(NOT 1 ("."));
 #!! * __NoExclNoInterj__
 REMOVE:NoExclNoInterj Interj IF (NOT 1* ("!") BARRIER COMMA) ;
 
-
-
-# Predicative
+#!! !Predicative
 
 #!! __AifVövny__ selects A if вӧвны somewhere to the left
 SELECT:AifVövny A IF (*-1 ("вӧвны") BARRIER N);
