@@ -1,0 +1,749 @@
+"<Усталык>"
+	"уста" A Der/MWN N Der/Pur A
+	"уста" A Der/MWN N Der/Pur A Der/MWN N Sg Nom
+	"уста" N Der/Pur A
+	"уста" N Der/Pur A Der/MWN N Sg Nom
+	"усталык" A
+	"усталык" A Der/MWN N Sg Nom
+	"усталык" N Sg Nom
+"<саскана>"
+	"саска" N Sg PxPl1 Nom
+"<чын>"
+	"чын" A
+	"чын" A Der/MWN N Sg Nom
+	"чын" Adv
+	"чын" N Sg Nom
+"<акым>"
+	"ак" N Sg Acc
+"<налын>"
+	"налаш" V Ger Gen
+	"налаш" V Ind Prt2 Sg3
+"<.>"
+	"." CLB
+"<Марий>"
+	"марий" A
+	"марий" A Der/MWN N Sg Nom
+	"марий" N Sg Nom
+"<Эл>"
+	"эл" N Sg Nom
+"<писатель-влакын>"
+	"писатель" N Pl Gen
+"<отчёт>"
+	"отчёт" N Sg Nom
+"<погынымашышт>"
+	"погынаш" V Der/Nom N Sg PxPl3 Nom
+	"погынымаш" N Sg PxPl3 Nom
+"<гыч>"
+	"гыч" Po
+"<.>"
+	"." CLB
+"<Кажне>"
+	"+?" 
+"<предприятий>"
+	"предприятий" N Sg Nom
+"<,>"
+	"," CLB
+"<организаций>"
+	"организаций" N Sg Nom
+"<але>"
+	"алаш" V ConNeg
+	"алаш" V Imprt Sg2
+"<мер>"
+	"мер" A
+	"мер" A Der/MWN N Sg Nom
+	"мер" N Sg Nom
+"<ушем>"
+	"уш" A Der/MWN N Sg PxSg1 Nom
+	"уш" N Sg PxSg1 Nom
+	"ушаш" Hom1 V Ind Prs Sg1
+	"ушаш" Hom2 V Ind Prs Sg1
+	"ушем" N Sg Nom
+"<идалык>"
+	"идалык" N Sg Nom
+"<тӱҥалтыште>"
+	"тӱҥалтыш" A Der/MWN N Sg Ine
+	"тӱҥалтыш" N Sg Ine
+	"тӱҥалтыште" Adv
+"<эртыше>"
+	"эрташ" V Act Prc N Sg Nom
+	"эртыше" A
+	"эртыше" A Der/MWN N Sg Nom
+	"эртыше" N Sg Nom
+"<ийыште>"
+	"ий" Hom1 N Sg Ine
+	"ий" Hom2 N Sg Ine
+	"ий" Hom3 N Sg Ine
+"<кузерак>"
+	"кузе" Adv Comp
+	"кузерак" Adv
+	"кузерак" Pron Interr
+"<пашам>"
+	"паша" N Sg Acc
+	"паша" N Sg PxSg1 Nom
+"<ыштымыже>"
+	"ышташ" V Pass Prc N Sg Nom PxSg3
+	"ышташ" V Pass Prc N Sg PxSg3 Nom
+	"ыштыме" A Der/MWN N Sg Nom PxSg3
+	"ыштыме" A Der/MWN N Sg PxSg3 Nom
+	"ыштыме" A PxSg3
+"<,>"
+	"," CLB
+"<могай>"
+	"могай" A
+	"могай" A Der/MWN N Sg Nom
+	"могай" Pron Interr
+"<сеҥымашыш>"
+	"сеҥаш" V Der/Nom N Sg Ill
+	"сеҥымаш" N Sg Ill
+"<шумыж>"
+	"шуаш" Hom1 V Pass Prc N Sg PxSg3 Nom
+	"шуаш" Hom2 V Pass Prc N Sg PxSg3 Nom
+	"шуаш" Hom3 V Pass Prc N Sg PxSg3 Nom
+"<нерген>"
+	"нерге" Hom1 N Sg Gen
+	"нерге" Hom2 N Sg Gen
+	"нерге" Hom3 N Sg Gen
+	"нерген" Po
+"<отчётым>"
+	"отчёт" N Sg Acc
+"<ышта>"
+	"ок" V Neg Prt1 Pl2
+	"ышташ" V Ind Prs Sg3
+"<.>"
+	"." CLB
+"<Тиде>"
+	"тидаш" V ConNeg
+	"тидаш" V Imprt Sg2
+	"тиде" Pron Dem Sg Nom
+"<поро>"
+	"поро" A
+	"поро" A Der/MWN N Sg Nom
+"<йӱла>"
+	"йӱла" N Sg Nom
+	"йӱлаш" V Ind Prs Sg3
+"<марий>"
+	"марий" A
+	"марий" A Der/MWN N Sg Nom
+	"марий" N Sg Nom
+"<писательвлакым>"
+	"+?" 
+"<ушышо>"
+	"ушаш" Hom1 V Act Prc N Sg Nom
+	"ушаш" Hom2 V Act Prc N Sg Nom
+	"ушышо" A
+	"ушышо" A Der/MWN N Sg Nom
+"<пеш>"
+	"пеш" Adv
+"<кужу>"
+	"кужу" A
+	"кужу" A Der/MWN N Sg Nom
+"<лӱман>"
+	"лӱм" N Der/Poss A
+	"лӱм" N Der/Poss A Der/MWN N Sg Nom
+	"лӱман" A
+	"лӱман" A Der/MWN N Sg Nom
+	"лӱман" Hom1 A
+	"лӱман" Hom1 A Der/MWN N Sg Nom
+	"лӱман" Hom2 A
+	"лӱман" Hom2 A Der/MWN N Sg Nom
+	"лӱман" Hom3 A
+	"лӱман" Hom3 A Der/MWN N Sg Nom
+	"лӱме" N Der/Poss A
+	"лӱме" N Der/Poss A Der/MWN N Sg Nom
+	"лӱмӧ" Hom1 N Der/Poss A
+	"лӱмӧ" Hom1 N Der/Poss A Der/MWN N Sg Nom
+	"лӱмӧ" Hom2 N Der/Poss A
+	"лӱмӧ" Hom2 N Der/Poss A Der/MWN N Sg Nom
+"<мер>"
+	"мер" A
+	"мер" A Der/MWN N Sg Nom
+	"мер" N Sg Nom
+"<организацийыштыштат>"
+	"организаций" N Sg PxPl3 Ine Foc/at
+"<уло>"
+	"уло" A
+	"уло" A Der/MWN N Sg Nom
+	"уло" N Sg Nom
+"<.>"
+	"." CLB
+"<Ожно>"
+	"ожно" Adv
+"<тудо>"
+	"тудо" Pron Pers Sg Nom
+"<«>"
+	"+?" 
+"<Марий>"
+	"марий" A
+	"марий" A Der/MWN N Sg Nom
+	"марий" N Sg Nom
+"<Эл>"
+	"эл" N Sg Nom
+"<Республикын>"
+	"республик" N Sg Gen
+	"республика" N Sg Gen
+"<писатель>"
+	"писатель" N Sg Nom
+"<ушемже>"
+	"уш" A Der/MWN N Sg PxSg1 Nom PxSg3
+	"уш" N Sg PxSg1 Nom PxSg3
+	"ушаш" Hom1 V Ind Prs Sg1 PxSg3
+	"ушаш" Hom2 V Ind Prs Sg1 PxSg3
+	"ушем" N Sg Nom PxSg3
+	"ушем" N Sg PxSg3 Nom
+"<»>"
+	"+?" 
+"<маналтеш>"
+	"маналташ" V Ind Prs Sg3
+"<ыле>"
+	"улаш" V Prt1 Sg3
+"<гын>"
+	"гын" CS
+	"гын" Interj
+"<,>"
+	"," CLB
+"<ынде>"
+	"ынде" Adv
+"<общероссийский>"
+	"+?" 
+"<мер>"
+	"мер" A
+	"мер" A Der/MWN N Sg Nom
+	"мер" N Sg Nom
+"<организацийын>"
+	"организаций" N Sg Gen
+"<Марий>"
+	"марий" A
+	"марий" A Der/MWN N Sg Nom
+	"марий" N Sg Nom
+"<Эл>"
+	"эл" N Sg Nom
+"<Республикысе>"
+	"республик" N Der/Rel A
+	"республик" N Der/Rel A Der/MWN N Sg Nom
+	"республика" N Der/Rel A
+	"республика" N Der/Rel A Der/MWN N Sg Nom
+	"республикысе" A
+	"республикысе" A Der/MWN N Sg Nom
+"<пӧлкаже>"
+	"пӧлка" N Sg Nom PxSg3
+	"пӧлка" N Sg PxSg3 Nom
+"<»>"
+	"+?" 
+"<лӱмым>"
+	"лӱм" N Sg Acc
+	"лӱме" N Sg Acc
+	"лӱмӧ" Hom1 N Sg Acc
+	"лӱмӧ" Hom2 N Sg Acc
+"<налын>"
+	"налаш" V Ger Gen
+	"налаш" V Ind Prt2 Sg3
+"<.>"
+	"." CLB
+"<Саман>"
+	"саман" N Sg Nom
+"<вашталтме>"
+	"вашталташ" V Pass Prc N Sg Nom
+"<дене>"
+	"дене" Po
+"<пӧлка>"
+	"пӧлка" N Sg Nom
+"<кушкын>"
+	"кушкаш" V Ger Gen
+	"кушкаш" V Ind Prt2 Sg3
+"<,>"
+	"," CLB
+"<поен>"
+	"пояш" V Ger Gen
+	"пояш" V Ind Prt2 Sg3
+"<але>"
+	"алаш" V ConNeg
+	"алаш" V Imprt Sg2
+"<сылнымут>"
+	"сылнымут" N Sg Nom
+"<аланыште>"
+	"ал" Hom1 N Der/Poss A Der/MWN N Sg Ine
+	"ал" Hom2 A Der/MWN N Der/Poss A Der/MWN N Sg Ine
+	"ал" Hom2 N Der/Poss A Der/MWN N Sg Ine
+	"алан" N Sg Ine
+"<тыршыше-влакым>"
+	"тыршаш" V Act Prc N Pl Acc
+	"тыршыше" A Der/MWN N Pl Acc
+"<пашалан>"
+	"паша" N Sg Dat
+	"пашаланаш" V Ger Gen
+"<,>"
+	"," CLB
+"<у>"
+	"у" A
+	"у" A Der/MWN N Sg Nom
+	"у" Hom1 A
+	"у" Hom1 A Der/MWN N Sg Nom
+	"у" Hom1 N Sg Nom
+	"у" N ABBR
+	"уаш" Hom1 V ConNeg
+	"уаш" Hom1 V Imprt Sg2
+	"уаш" Hom2 V ConNeg
+	"уаш" Hom2 V Imprt Sg2
+"<произведенийлам>"
+	"произведений" N Sg PxSg1 Cmpr
+"<возаш>"
+	"возаш" A
+	"возаш" A Der/MWN N Sg Nom
+	"возаш" Hom1 V Inf
+	"возаш" Hom2 V Inf
+	"возаш" N Sg Nom
+"<кумылаҥдыме>"
+	"кумылаҥаш" V Neg Prc N Sg Nom
+	"кумылаҥдаш" V Pass Prc N Sg Nom
+"<йӧнжӧ>"
+	"йӧн" N Sg Nom PxSg3
+	"йӧн" N Sg PxSg3 Nom
+"<да>"
+	"да" CC
+	"да" Interj
+"<вийже>"
+	"вий" N Sg Nom PxSg3
+	"вий" N Sg PxSg3 Nom
+"<ешаралтын>"
+	"ешаралташ" V Ger Gen
+	"ешаралташ" V Ind Prt2 Sg3
+	"ешараш" Der/Refl V Ger Gen
+	"ешараш" Der/Refl V Ind Prt2 Sg3
+"<манын>"
+	"манаш" V Ger Gen
+	"манаш" V Ind Prt2 Sg3
+	"манын" Adv
+	"манын" CS
+"<моктанен>"
+	"моктанаш" V Ger Gen
+	"моктанаш" V Ind Prt2 Sg3
+"<она>"
+	"ок" V Neg Prs Pl1
+	"она" Hom2 N Sg Nom
+	"онаш" V Ind Prs Sg3
+"<керт>"
+	"керташ" Hom1 V ConNeg
+	"керташ" Hom1 V Imprt Sg2
+	"керташ" Hom2 V ConNeg
+	"керташ" Hom2 V Imprt Sg2
+"<гынат>"
+	"гын" Interj Foc/at
+	"гына" Adv Foc/at
+	"гынат" Adv
+	"гынат" CS
+"<,>"
+	"," CLB
+"<ушем>"
+	"уш" A Der/MWN N Sg PxSg1 Nom
+	"уш" N Sg PxSg1 Nom
+	"ушаш" Hom1 V Ind Prs Sg1
+	"ушаш" Hom2 V Ind Prs Sg1
+	"ушем" N Sg Nom
+"<семын>"
+	"сем" Hom1 N Sg Gen
+	"сем" Hom2 N Sg Gen
+	"семын" Po
+"<аралалт>"
+	"аралалташ" V ConNeg
+	"аралалташ" V Ger Gen
+	"аралалташ" V Imprt Sg2
+	"аралаш" Der/Refl V ConNeg
+	"аралаш" Der/Refl V Imprt Sg2
+"<кодмыжак>"
+	"кодаш" V Pass Prc N Sg PxSg3 Nom Foc/ak
+"<шӱм-чоныштына>"
+	"шӱм-чон" A Der/MWN N Sg PxPl1 Ine
+	"шӱм-чон" N Sg PxPl1 Ine
+"<куан>"
+	"куан" N Sg Nom
+	"куанаш" V Ger Gen
+"<шижмашым>"
+	"шижаш" V Der/Nom N Sg Acc
+	"шижмаш" N Sg Acc
+"<нӧлта>"
+	"нӧлташ" V Ind Prs Sg3
+"<.>"
+	"." CLB
+"<Тыгай>"
+	"тыгай" A
+	"тыгай" A Der/MWN N Sg Nom
+	"тыгай" Adv
+	"тыгай" N Sg Nom
+	"тыгай" Pron Dem
+"<шонымаш>"
+	"шонаш" V Der/Nom N Sg Nom
+	"шонымаш" N Sg Nom
+"<дене>"
+	"дене" Po
+"<шуко>"
+	"шуко" A
+	"шуко" A Der/MWN N Sg Nom
+	"шуко" Adv
+	"шуко" N Sg Nom
+"<самырык>"
+	"самырык" A
+	"самырык" A Der/MWN N Sg Nom
+	"самырык" N Sg Nom
+"<сылнымутчо>"
+	"сылнымутчо" N Sg Nom
+"<ты>"
+	"ты" Pron Dem
+"<ушемыш>"
+	"ушем" N Sg Ill
+"<пураш>"
+	"пура" Hom1 N Sg Ill
+	"пура" Hom1 N Sg Lat
+	"пура" Hom2 N Sg Ill
+	"пура" Hom2 N Sg Lat
+	"пураш" V Inf
+"<,>"
+	"," CLB
+"<пӱрымашыжым>"
+	"пӱраш" Hom1 V Der/Nom N Sg PxSg3 Acc
+	"пӱраш" Hom2 V Der/Nom N Sg PxSg3 Acc
+	"пӱрымаш" N Sg PxSg3 Acc
+"<кылдаш>"
+	"кылдаш" V Inf
+"<тырша>"
+	"тыршаш" V Ind Prs Sg3
+"<.>"
+	"." CLB
+"<Марий>"
+	"марий" A
+	"марий" A Der/MWN N Sg Nom
+	"марий" N Sg Nom
+"<Эл>"
+	"эл" N Sg Nom
+"<писатель>"
+	"писатель" N Sg Nom
+"<ушем>"
+	"уш" A Der/MWN N Sg PxSg1 Nom
+	"уш" N Sg PxSg1 Nom
+	"ушаш" Hom1 V Ind Prs Sg1
+	"ушаш" Hom2 V Ind Prs Sg1
+	"ушем" N Sg Nom
+"<председатель>"
+	"председатель" N Sg Nom
+"<,>"
+	"," CLB
+"<поэтессе>"
+	"поэтессе" N Sg Nom
+"<С>"
+	"С" N ABBR
+	"с" N ABBR
+"<.>"
+	"." CLB
+"<Архипова>"
+	"Архипов" N Prop Sem/Sur Sem/Fem Sg Nom
+"<респалдарыш>"
+	"+?" 
+"<.>"
+	"." CLB
+"<Эсогыл>"
+	"эсогыл" Adv
+	"эсогыл" Pcle
+"<могай>"
+	"могай" A
+	"могай" A Der/MWN N Sg Nom
+	"могай" Pron Interr
+"<тылзын>"
+	"тылзе" N Sg Gen
+"<могай>"
+	"могай" A
+	"могай" A Der/MWN N Sg Nom
+	"могай" Pron Interr
+"<кечыштыже>"
+	"кече" N Sg Ine PxSg3
+	"кече" N Sg PxSg3 Ine
+"<могай>"
+	"могай" A
+	"могай" A Der/MWN N Sg Nom
+	"могай" Pron Interr
+"<мероприятийым>"
+	"мероприятий" N Sg Acc
+"<,>"
+	"," CLB
+"<акций>"
+	"акций" Hom1 N Sg Nom
+	"акций" Hom2 N Sg Nom
+"<манметым>"
+	"манаш" V Pass Prc N Sg PxSg2 Acc
+"<эртарыме>"
+	"эртараш" V Pass Prc N Sg Nom
+	"эртарыме" A
+	"эртарыме" A Der/MWN N Sg Nom
+"<нерген>"
+	"нерге" Hom1 N Sg Gen
+	"нерге" Hom2 N Sg Gen
+	"нерге" Hom3 N Sg Gen
+	"нерген" Po
+"<радамын>"
+	"радам" N Sg Gen
+	"радамын" Adv
+"<каласкалыш>"
+	"каласкалаш" V Ind Prt1 Sg3
+	"каласкалыш" N Sg Nom
+"<.>"
+	"." CLB
+"<Тидыже>"
+	"тидаш" V Imprt Sg3
+"<–>"
+	"–" PUNCT
+"<моткоч>"
+	"моткоч" Adv
+"<сай>"
+	"сай" A
+	"сай" A Der/MWN N Sg Nom
+	"сай" Adv
+"<.>"
+	"." CLB
+"<Тыгай>"
+	"тыгай" A
+	"тыгай" A Der/MWN N Sg Nom
+	"тыгай" Adv
+	"тыгай" N Sg Nom
+	"тыгай" Pron Dem
+"<статистике>"
+	"статистике" N Sg Nom
+"<манмет>"
+	"манаш" V Pass Prc N Sg PxSg2 Nom
+"<писатель-шамычланна>"
+	"писатель" N Pl PxPl1 Dat
+"<могай>"
+	"могай" A
+	"могай" A Der/MWN N Sg Nom
+	"могай" Pron Interr
+"<кечын>"
+	"кече" N Sg Gen
+	"кечын" Adv
+"<мом>"
+	"мо" A Der/MWN N Sg Acc
+	"мо" Pron Interr Sg Acc
+	"мо" Pron Rel Sg Acc
+	"мом" Pron Interr
+"<возымышт>"
+	"возаш" Hom2 V Pass Prc N Sg PxPl3 Nom
+	"возыме" A Der/MWN N Sg PxPl3 Nom
+	"возымо" A Der/MWN N Sg PxPl3 Nom
+"<нерген>"
+	"нерге" Hom1 N Sg Gen
+	"нерге" Hom2 N Sg Gen
+	"нерге" Hom3 N Sg Gen
+	"нерген" Po
+"<мондаш>"
+	"мондаш" V Inf
+"<ок>"
+	"ок" Interj
+	"ок" V Neg Prs Sg3
+	"окаш" V Ger Gen
+"<пу>"
+	"пу" N Sg Nom
+	"пуаш" Hom1 V ConNeg
+	"пуаш" Hom1 V Imprt Sg2
+	"пуаш" Hom2 V ConNeg
+	"пуаш" Hom2 V Imprt Sg2
+"<.>"
+	"." CLB
+"<Отчёт>"
+	"отчёт" N Sg Nom
+"<гыч>"
+	"гыч" Po
+"<ушем>"
+	"уш" A Der/MWN N Sg PxSg1 Nom
+	"уш" N Sg PxSg1 Nom
+	"ушаш" Hom1 V Ind Prs Sg1
+	"ушаш" Hom2 V Ind Prs Sg1
+	"ушем" N Sg Nom
+"<правленийын>"
+	"правлений" N Sg Gen
+"<заседанийже>"
+	"заседаний" A Der/MWN N Sg Nom PxSg3
+	"заседаний" A Der/MWN N Sg PxSg3 Nom
+	"заседаний" A PxSg3
+	"заседаний" N Sg Nom PxSg3
+	"заседаний" N Sg PxSg3 Nom
+"<лийме>"
+	"лийме" A
+	"лийме" A Der/MWN N Sg Nom
+	"лияш" V Pass Prc N Sg Nom
+"<да>"
+	"да" CC
+	"да" Interj
+"<тушто>"
+	"ту" Hom2 N Sg Ine
+	"ту" Hom3 N Sg Ine
+	"туш" Hom2 N Sg Ine
+	"туш" Hom3 N Sg Ine
+	"тушташ" V ConNeg
+	"тушташ" V Imprt Sg2
+	"тушто" Adv
+	"тушто" Hom1 Adv
+	"тушто" Hom2 N Sg Nom
+"<правлений>"
+	"правлений" N Sg Nom
+"<член-влак>"
+	"член" N Pl Nom
+"<кокла>"
+	"кок" Hom2 N LocPl Nom
+	"кок" Hom2 N Sg Cmpr
+	"кокла" A
+	"кокла" A Der/MWN N Sg Nom
+	"кокла" N Sg Nom
+"<гыч>"
+	"гыч" Po
+"<кудыжын>"
+	"кудо" Hom2 N Sg PxSg3 Gen
+	"кудо" Hom3 N Sg PxSg3 Gen
+"<могайрак>"
+	"могай" A Comp
+"<чолгалыкым>"
+	"чолга" A Der/MWN N Der/Pur A Der/MWN N Sg Acc
+	"чолга" N Der/Pur A Der/MWN N Sg Acc
+	"чолгалык" N Sg Acc
+"<ончыктымыжо>"
+	"ончаш" Der/Caus V Pass Prc N Sg Nom PxSg3
+	"ончаш" Der/Caus V Pass Prc N Sg PxSg3 Nom
+	"ончыкташ" V Pass Prc N Sg Nom PxSg3
+	"ончыкташ" V Pass Prc N Sg PxSg3 Nom
+"<,>"
+	"," CLB
+"<марий>"
+	"марий" A
+	"марий" A Der/MWN N Sg Nom
+	"марий" N Sg Nom
+"<сылнымутнан>"
+	"сылнымут" N Sg PxPl1 Gen
+"<классикше>"
+	"классик" N Sg Nom PxSg3
+	"классик" N Sg PxSg3 Nom
+"<С>"
+	"С" N ABBR
+	"с" N ABBR
+"<.>"
+	"." CLB
+"<Г>"
+	"Г" N ABBR
+	"г" ABBR
+	"г" N ABBR
+"<.>"
+	"." CLB
+"<Чавайнын>"
+	"Чавайн" N Prop Sem/Sur Sg Gen
+"<шочмыжлан>"
+	"шочаш" V Pass Prc N Sg PxSg3 Dat
+	"шочме" A Der/MWN N Sg PxSg3 Dat
+	"шочмо" A Der/MWN N Sg PxSg3 Dat
+"<125>"
+	"+?" 
+"<ий>"
+	"ий" Hom1 N Sg Nom
+	"ий" Hom2 N Sg Nom
+	"ий" Hom3 N Sg Nom
+	"ияш" V ConNeg
+	"ияш" V Imprt Sg2
+"<темме>"
+	"темаш" V Pass Prc N Sg Nom
+"<лӱмеш>"
+	"лӱм" N Sg Lat
+	"лӱме" N Sg Lat
+	"лӱмеш" A
+	"лӱмеш" A Der/MWN N Sg Nom
+	"лӱмеш" Adv
+	"лӱмеш" Po
+	"лӱмӧ" Hom1 N Sg Lat
+	"лӱмӧ" Hom2 N Sg Lat
+"<эртарыме>"
+	"эртараш" V Pass Prc N Sg Nom
+	"эртарыме" A
+	"эртарыме" A Der/MWN N Sg Nom
+"<кугу>"
+	"кугу" A
+	"кугу" A Der/MWN N Sg Nom
+	"кугу" N Sg Nom
+"<пайрем>"
+	"пайрем" N Sg Nom
+"<мероприятий-влакым>"
+	"мероприятий" N Pl Acc
+"<кушто>"
+	"кушташ" Hom1 V ConNeg
+	"кушташ" Hom1 V Imprt Sg2
+	"кушташ" Hom2 V ConNeg
+	"кушташ" Hom2 V Imprt Sg2
+	"кушто" Adv
+	"кушто" Pron
+"<да>"
+	"да" CC
+	"да" Interj
+"<кузе>"
+	"кузе" Adv
+	"кузе" N Sg Nom
+	"кузе" Pron Interr
+"<палемдыме>"
+	"палемаш" V Neg Prc N Sg Nom
+	"палемдаш" V Pass Prc N Sg Nom
+	"палемдыме" A
+	"палемдыме" A Der/MWN N Sg Nom
+"<,>"
+	"," CLB
+"<могай>"
+	"могай" A
+	"могай" A Der/MWN N Sg Nom
+	"могай" Pron Interr
+"<конкурсым>"
+	"конкурс" N Sg Acc
+"<,>"
+	"," CLB
+"<семинарым>"
+	"семинар" N Sg Acc
+"<эртарыме>"
+	"эртараш" V Pass Prc N Sg Nom
+	"эртарыме" A
+	"эртарыме" A Der/MWN N Sg Nom
+"<,>"
+	"," CLB
+"<кӧн>"
+	"кӧ" Pron Interr Sg Gen
+	"кӧ" Pron Rel Sg Gen
+	"кӧн" Pron Interr
+"<пашажым>"
+	"паша" N Sg PxSg3 Acc
+"<кугыжаныш>"
+	"кугыжан" A Der/MWN N Sg Ill
+	"кугыжаныш" N Sg Nom
+"<але>"
+	"алаш" V ConNeg
+	"алаш" V Imprt Sg2
+"<вес>"
+	"вес" A
+	"вес" A Der/MWN N Sg Nom
+	"вес" Pron Ind
+"<премий>"
+	"премий" N Sg Nom
+"<дене>"
+	"дене" Po
+"<аклыме>"
+	"аклаш" V Pass Prc N Sg Nom
+	"аклыме" A
+	"аклыме" A Der/MWN N Sg Nom
+"<нергенат>"
+	"нерге" Hom1 N Sg Gen Foc/at
+	"нерге" Hom1 N Sg PxPl1 Nom Foc/at
+	"нерге" Hom2 N Sg Gen Foc/at
+	"нерге" Hom2 N Sg PxPl1 Nom Foc/at
+	"нерге" Hom3 N Sg Gen Foc/at
+	"нерге" Hom3 N Sg PxPl1 Nom Foc/at
+	"нерген" Po Foc/at
+"<раш>"
+	"раш" A
+	"раш" A Der/MWN N Sg Nom
+	"раш" Adv
+	"раш" Interj
+"<пален>"
+	"палаш" V Ger Gen
+	"палаш" V Ind Prt2 Sg3
+	"пале" A Der/MWN N Sg Gen
+	"пале" N Sg Gen
+"<нална>"
+	"налаш" V Ind Prt1 Pl1
+"<.>"
+	"." CLB
