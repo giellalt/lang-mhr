@@ -16,26 +16,34 @@
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 # Add language-specific flags for hfst-lexc compilation here:
-HFST_LEXC_LOCAL_FLAGS=--Werror
+HFST_LEXC_LOCAL_FLAGS=
 
 # Set this to name of lexc file containing Multichar_Symbols and LEXICON Root
 GT_LEXC_ROOT=root.lexc
 
 # Set this to the names of all regular lexc source files:
 GT_LEXC_SRCS_L1_L2=\
-			 stems/abbreviations.lexc \
-			 stems/acronyms.lexc      \
-			 stems/punctuation.lexc   \
-			 stems/exceptions.lexc   \
-			 affixes/adjectives.lexc  \
-			 affixes/clitics.lexc     \
-			 affixes/nouns.lexc       \
-			 affixes/numbers.lexc \
-			 affixes/pronouns.lexc    \
-			 affixes/propernouns.lexc \
-			 affixes/adverbs.lexc    \
-			 affixes/postpositions.lexc \
-			 affixes/verbs.lexc
+		 affixes/adjectives.lexc    \
+		 affixes/adverbs.lexc	    \
+		 affixes/nouns.lexc		    \
+		 affixes/postpositions.lexc \
+		 affixes/pronouns.lexc	    \
+		 affixes/propernouns.lexc   \
+		 affixes/quantifiers.lexc   \
+		 affixes/verbs.lexc		    \
+		 stems/adjectives.lexc	    \
+		 stems/adverbs.lexc		    \
+		 stems/conjunctions.lexc    \
+		 stems/interjections.lexc   \
+		 stems/nouns.lexc		    \
+		 stems/particles.lexc	    \
+		 stems/postpositions.lexc   \
+		 stems/pronouns.lexc	    \
+		 stems/propernouns.lexc	    \
+		 stems/punctuation.lexc	    \
+		 stems/quantifiers.lexc	    \
+		 stems/subjunctions.lexc    \
+		 stems/verbs.lexc		    
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
 # that differ between the regular L1 and the L2 analysers below, in L1 and
@@ -53,40 +61,10 @@ GT_LEXC_L2_SRCS=\
 			$(L2)
 
 # Set this to the names of all generated lexc files, if any
-GENERATED_LEXC_SRCS=\
-			 generated_files/urj-Cyrl-propernouns.lexc \
-			 $(srcdir)/stems/adjectives.lexc    \
-			 $(srcdir)/stems/adverbs.lexc       \
-			 $(srcdir)/stems/conjunctions.lexc  \
-			 $(srcdir)/stems/dependents.lexc    \
-			 $(srcdir)/stems/descriptives.lexc    \
-			 $(srcdir)/stems/interjections.lexc \
-			 $(srcdir)/stems/nouns.lexc         \
-			 $(srcdir)/stems/numbers.lexc   \
-			 $(srcdir)/stems/particles.lexc     \
-			 $(srcdir)/stems/postpositions.lexc \
-			 $(srcdir)/stems/pronouns.lexc      \
-			 $(srcdir)/stems/propernouns.lexc   \
-			 $(srcdir)/stems/propernouns-toponyms.lexc   \
-			 $(srcdir)/stems/verbs.lexc
-
+GENERATED_LEXC_SRCS=
 
 # Set this to the names of all source xml files, if any
-GT_XML_SRCS=\
-			 stems/adjectives.xml    \
-			 stems/adverbs.xml       \
-			 stems/conjunctions.xml  \
-			 stems/dependents.xml    \
-			 stems/descriptives.xml    \
-			 stems/interjections.xml \
-			 stems/nouns.xml         \
-			 stems/numbers.xml   \
-			 stems/particles.xml     \
-			 stems/postpositions.xml \
-			 stems/pronouns.xml      \
-			 stems/propernouns.xml   \
-			 stems/propernouns-toponyms.xml   \
-			 stems/verbs.xml
+GT_XML_SRCS=
 
 # Define any additional lexc sources here (compiled on their own):
 GT_LOCAL_SRCS=
@@ -99,10 +77,13 @@ GT_DISTRO_SRCS=
 
 ### BEGIN: Local processing: ###
 
-generated_files/urj-Cyrl-propernouns.lexc: \
-	$(GIELLA_SHARED)/urj-Cyrl/src/morphology/stems/urj-Cyrl-propernouns.lexc
-	$(AM_V_at)$(MKDIR_P) generated_files
-	$(AM_V_GEN)cp -f $< $@
+### List additional targets in the following variable, for build targets not
+### covered by other means. This comes ***in addition to*** what you can do by
+### just targeting lexicon.*: lexicon.tmp.*, and is useful if you want to build
+### separate fst's that need further treatment in the src/ dir. See the language
+### gle/ for an example of how this is used.
+
+GIELLA_LOCAL_TARGETS=
 
 ### END: Local processing: ###
 
