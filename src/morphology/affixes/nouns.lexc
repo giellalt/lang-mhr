@@ -17,6 +17,13 @@
 LEXICON N_  !!= * @CODE@ redirects to N-ava_01
     +N: N-ava_01 ; 
 
+LEXICON N-VS  !!= * @CODE@ to N underscore
+  N_ ;
+
+LEXICON N-a/e !!= * @CODE@ to N underscore
+  N_ ;
+
+
 !! Derivational morphology
 
  +N+Der/Priv:%>дымЫ2 A_ ;   ! вӱр 'blood' > вӱрдымӧ 'bloodless' - Privative derivation
