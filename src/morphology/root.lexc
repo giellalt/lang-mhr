@@ -504,13 +504,15 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 Е2 	     !!≈ * __@CODE@__ = 
 А2 	     !!≈ * __@CODE@__ = 
 Ы1 	     !!≈ * __@CODE@__ = stem-onset archi-vowel
-Ы2	     !!≈ * __@CODE@__ = 
+Ы2	     !!≈ * __@CODE@__ =
+з2	     !!≈ * __@CODE@__ = for возаш : воч
 %>	     !!≈ * __@CODE@__ = 
 +TEST    !!≈ * __@CODE@__ = 
 
 !! And following triggers to control variation
 %^V2IMPRT	!!= * @CODE@ for -ем verbs in й
-%^END		  !!= * @CODE@ for -ам verb final, i.e. Imprf
+%^LOAN	        !!= * @CODE@ for preserving clusters in фрукт, ланч
+%^END       	!!= * @CODE@ for -ам verb final, i.e. Imprf
 
 {front}    !!≈ * @CODE@ 
 {back}     !!≈ * @CODE@ 
