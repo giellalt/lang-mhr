@@ -10,68 +10,68 @@ LEXICON pronouns_not_from_xml !!= * @CODE@
 шке+Pron+Refl: SHKE ;
 
 LEXICON MYJ !!= * @CODE@
-+Sg+Nom:мый # ;
-+Sg+Gen:мыйын # ;
++Sg+Nom:мый K_at ;
++Sg+Gen:мыйын K_at ;
 +Sg+Der/Poss:мыйын N-ava_01_obl ;
-+Sg+Acc:мыйым # ;
++Sg+Acc:мыйым K_at ;
 +Sg+Dat:мыланем #;
 +Sg+Com:мыйге # ;
 +Sg+Cmpr:мыйла # ;
-+Pl+Nom:ме # ;
-+Pl+Gen:мемнан # ;
++Pl+Nom:ме K_at ;
++Pl+Gen:мемнан K_at ;
 +Pl+Der/Poss:мемнан N-ava_01_obl ;
-+Pl+Acc:мемнам # ;
-+Pl+Dat:мыланна #;
++Pl+Acc:мемнам K_at ;
++Pl+Dat:мыланна K_at ;
 +Pl+Dat+Use/NG:мемналан #;
 +Pl+Com:меге # ;
 +Pl+Cmpr:мела # ;
 
 LEXICON TYJ !!= * @CODE@
-+Sg+Nom:тый # ;
-+Sg+Gen:тыйын # ;
++Sg+Nom:тый K_at ;
++Sg+Gen:тыйын K_at ;
 +Sg+Der/Poss:тыйын N-ava_01_obl ;
-+Sg+Acc:тыйым # ;
++Sg+Acc:тыйым K_at ;
 +Sg+Dat:тыланет #;
 +Sg+Com:тыйге # ;
 +Sg+Cmpr:тыйла # ;
-+Pl+Nom:те # ;
-+Pl+Gen:темнан # ;
++Pl+Nom:те K_at ;
++Pl+Gen:темнан K_at ;
 +Pl+Der/Poss:темнан N-ava_01_obl ;
-+Pl+Acc:темнам # ;
++Pl+Acc:темнам K_at ;
 +Pl+Dat:тыланна #;
 +Pl+Dat+Use/NG:тендалан #;
 +Pl+Com:теге # ;
 +Pl+Cmpr:тела # ;
 
 LEXICON TUDO !!= * @CODE@
-+Pers+Sg+Nom:тудо # ;
-+Pers+Sg+Gen:тудын # ;
++Pers+Sg+Nom:тудо K_at ;
++Pers+Sg+Gen:тудын K_at ;
 +Sg+Der/Poss:тудын N-ava_01_obl ;
-+Pers+Sg+Acc:тудым # ;
-+Pers+Sg+Dat:тудлан #;
++Pers+Sg+Acc:тудым K_at ;
++Pers+Sg+Dat:тудлан K_at;
 +Pers+Sg+Com:тудыге # ;
 +Pers+Sg+Cmpr:тудла # ;
-+Pers+Pl+Nom:нуно # ;
-+Pers+Pl+Gen:нунын # ;
++Pers+Pl+Nom:нуно K_at ;
++Pers+Pl+Gen:нунын K_at ;
 +Pl+Der/Poss:нунын N-ava_01_obl ;
-+Pers+Pl+Acc:нуным # ;
-+Pers+Pl+Dat:нунылан #;
++Pers+Pl+Acc:нуным K_at ;
++Pers+Pl+Dat:нунылан K_at;
 +Pers+Pl+Com:нуныге # ;
 +Pers+Pl+Cmpr:нуныла # ;
 
 LEXICON TIDE !!= * @CODE@ 
-+Dem+Sg+Nom:тиде # ;
-+Dem+Sg+Gen:тидын # ;
++Dem+Sg+Nom:тиде K_at ;
++Dem+Sg+Gen:тидын K_at ;
 +Sg+Der/Poss:тидын N-ava_01_obl ;
-+Dem+Sg+Acc:тидым # ;
-+Dem+Sg+Dat:тидлан #;
++Dem+Sg+Acc:тидым K_at ;
++Dem+Sg+Dat:тидлан K_at;
 +Dem+Sg+Com:тидыге # ;
 +Dem+Sg+Cmpr:тидыла # ;
-+Dem+Pl+Nom:нине # ;
-+Dem+Pl+Gen:нинын # ;
++Dem+Pl+Nom:нине K_at ;
++Dem+Pl+Gen:нинын K_at ;
 +Pl+Der/Poss:нинын N-ava_01_obl ;
-+Dem+Pl+Acc:ниным # ;
-+Dem+Pl+Dat:нинылан #;
++Dem+Pl+Acc:ниным K_at ;
++Dem+Pl+Dat:нинылан K_at;
 +Dem+Pl+Com:ниныге # ;
 +Dem+Pl+Cmpr:ниныла # ;
 
