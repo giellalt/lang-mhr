@@ -356,7 +356,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">ала-кӧ</l>
 
@@ -376,7 +376,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">ала-мо</l>
 
@@ -415,25 +415,6 @@
       </tg>
     </mg>
   </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">ала-могай</l>
-
-      <stg>
-        <st Contlex="PronInd">ала-могай</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>jonkinlainen, eräänlainen</t>
-      </tg>
-    </mg>
-  </e>
-
   <e>
     <lg>
       <l pos="Pron">ала-могайе</l>
@@ -472,7 +453,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">ала-молан</l>
 
@@ -1675,7 +1656,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">керек-кӧ</l>
 
@@ -1695,7 +1676,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">керек-мо</l>
 
@@ -2107,7 +2088,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">кеч-кӧ</l>
 
@@ -2127,7 +2108,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">кеч-мо</l>
 
@@ -4516,7 +4497,7 @@
       <l pos="Pron">нигӧ</l>
 
       <stg>
-        <st Contlex="PronInd">нигӧ</st>
+        <st Contlex="PronInd">нигӧ•</st>
       </stg>
 
       <stress>нигӧ•</stress>
@@ -4549,12 +4530,12 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">нимо</l>
 
       <stg>
-        <st Contlex="PronInd">нимо</st>
+        <st Contlex="PronInd">нимо•</st>
       </stg>
 
       <stress>нимо•</stress>
@@ -4574,7 +4555,7 @@
       <l pos="Pron">нимогай</l>
 
       <stg>
-        <st Contlex="PronInd">нимогай</st>
+        <st Contlex="PronInd">нимога•й</st>
       </stg>
 
       <stress>нимога•й</stress>
@@ -4612,7 +4593,7 @@
       <l pos="Pron">нимолык</l>
 
       <stg>
-        <st Contlex="PRON_">нимолык</st>
+        <st Contlex="PRON_">нимо•лык</st>
       </stg>
 
       <stress>нимо•лык</stress>
@@ -4632,7 +4613,7 @@
       <l pos="Pron">нимош</l>
 
       <stg>
-        <st Contlex="PRON_">нимош</st>
+        <st Contlex="PRON_">нимо•ш</st>
       </stg>
 
       <stress>нимо•ш</stress>
@@ -4652,7 +4633,7 @@
       <l pos="Pron">нимыняр</l>
 
       <stg>
-        <st Contlex="PronInd">нимыняр</st>
+        <st Contlex="PronInd">нимыня•р</st>
       </stg>
 
       <stress>нимыня•р</stress>
@@ -4672,7 +4653,7 @@
       <l pos="Pron">нимыняре</l>
 
       <stg>
-        <st Contlex="PronInd">нимыняр%{еы%}</st>
+        <st Contlex="PronInd">нимыня•р%{еы%}</st>
       </stg>
 
       <stress>нимыня•ре</stress>
@@ -4692,7 +4673,7 @@
       <l pos="Pron">нине</l>
 
       <stg>
-        <st Contlex="PronDem">нин%{еы%}</st>
+        <st Contlex="PronDem">ни•н%{еы%}</st>
       </stg>
 
       <stress>ни•не</stress>
@@ -4705,14 +4686,6 @@
         <t>nämä</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">нине</l>
-
-    </lg>
-
     <mg>
       <defNative/>
 

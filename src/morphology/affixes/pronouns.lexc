@@ -8,56 +8,63 @@ LEXICON pronouns_not_from_xml !!= * @CODE@
 тудо+Pron: TUDO ;	
 тиде+Pron: TIDE ;	
 шке+Pron+Refl: SHKE ;
+кеч-мо:кеч-мо PRON-INDEF ;
+нимо:нимо PRON-INDEF ;
+ала-мо:ала-мо PRON-INDEF ;
+кеч-кӧ:кеч-кӧ PRON-INDEF ;
+ала-кӧ:ала-кӧ PRON-INDEF ;
+керек-мо:керек-мо PRON-INDEF ;
+керек-кӧ:керек-кӧ PRON-INDEF ;
 
 LEXICON MYJ !!= * @CODE@
-+Sg+Nom:мый K_at ;
-+Sg+Gen:мыйын K_at ;
-+Sg+Der/Poss:мыйын N-ava_01_obl ;
-+Sg+Acc:мыйым K_at ;
-+Sg+Dat:мыланем #;
-+Sg+Com:мыйге # ;
-+Sg+Cmpr:мыйла # ;
-+Pl+Nom:ме K_at ;
-+Pl+Gen:мемнан K_at ;
-+Pl+Der/Poss:мемнан N-ava_01_obl ;
-+Pl+Acc:мемнам K_at ;
-+Pl+Dat:мыланна K_at ;
-+Pl+Dat+Use/NG:мемналан #;
-+Pl+Com:меге # ;
-+Pl+Cmpr:мела # ;
++Sg1+Nom:мый K_at ;
++Sg1+Gen:мыйын K_at ;
++Sg1+Der/Poss:мыйын N-ava_01_obl ;
++Sg1+Acc:мыйым K_at ;
++Sg1+Dat:мыланем #;
++Sg1+Com:мыйге # ;
++Sg1+Cmpr:мыйла # ;
++Pl1+Nom:ме K_at ;
++Pl1+Gen:мемнан K_at ;
++Pl1+Der/Poss:мемнан N-ava_01_obl ;
++Pl1+Acc:мемнам K_at ;
++Pl1+Dat:мыланна K_at ;
++Pl1+Dat+Use/NG:мемналан #;
++Pl1+Com:меге # ;
++Pl1+Cmpr:мела # ;
 
 LEXICON TYJ !!= * @CODE@
-+Sg+Nom:тый K_at ;
-+Sg+Gen:тыйын K_at ;
-+Sg+Der/Poss:тыйын N-ava_01_obl ;
-+Sg+Acc:тыйым K_at ;
-+Sg+Dat:тыланет #;
-+Sg+Com:тыйге # ;
-+Sg+Cmpr:тыйла # ;
-+Pl+Nom:те K_at ;
-+Pl+Gen:темнан K_at ;
-+Pl+Der/Poss:темнан N-ava_01_obl ;
-+Pl+Acc:темнам K_at ;
-+Pl+Dat:тыланна #;
-+Pl+Dat+Use/NG:тендалан #;
-+Pl+Com:теге # ;
-+Pl+Cmpr:тела # ;
++Sg2+Nom:тый K_at ;
++Sg2+Gen:тыйын K_at ;
++Sg2+Der/Poss:тыйын N-ava_01_obl ;
++Sg2+Acc:тыйым K_at ;
++Sg2+Dat:тыланет #;
++Sg2+Com:тыйге # ;
++Sg2+Cmpr:тыйла # ;
++Pl2+Nom:те K_at ;
++Pl2+Gen:темнан K_at ;
++Pl2+Der/Poss:темнан N-ava_01_obl ;
++Pl2+Acc:темнам K_at ;
++Pl2+Dat:тыланна #;
++Pl2+Dat+Use/NG:тендалан #;
++Pl2+Com:теге # ;
++Pl2+Cmpr:тела # ;
 
 LEXICON TUDO !!= * @CODE@
-+Pers+Sg+Nom:тудо K_at ;
-+Pers+Sg+Gen:тудын K_at ;
++Pers+Sg3+Nom:тудо K_at ;
++Pers+Sg3+Gen:тудын K_at ;
 +Sg+Der/Poss:тудын N-ava_01_obl ;
-+Pers+Sg+Acc:тудым K_at ;
-+Pers+Sg+Dat:тудлан K_at;
-+Pers+Sg+Com:тудыге # ;
-+Pers+Sg+Cmpr:тудла # ;
-+Pers+Pl+Nom:нуно K_at ;
-+Pers+Pl+Gen:нунын K_at ;
++Pers+Sg3+Acc:тудым K_at ;
++Pers+Sg3+Dat:тудлан K_at;
++Pers+Sg3+Com:тудыге # ;
++Pers+Sg3+Cmpr:тудла # ;
++Pers+Pl3+Nom:нуно K_at ;
++Pers+Pl3+Gen:нунын K_at ;
 +Pl+Der/Poss:нунын N-ava_01_obl ;
-+Pers+Pl+Acc:нуным K_at ;
-+Pers+Pl+Dat:нунылан K_at;
-+Pers+Pl+Com:нуныге # ;
-+Pers+Pl+Cmpr:нуныла # ;
++Pers+Pl3+Acc:нуным K_at ;
++Pers+Pl3+Dat:нунылан K_at;
++Pers+Pl3+Com:нуныге # ;
++Pers+Pl3+Cmpr:нуныла # ;
 
 LEXICON TIDE !!= * @CODE@ 
 +Dem+Sg+Nom:тиде K_at ;
@@ -142,7 +149,13 @@ LEXICON PRON-INTERR/REL_
 
 
 LEXICON PronInd !!= * @CODE@
-+Pron+Ind: # ;
++Pron+Ind: K_at  ;
+
+LEXICON PRON-INDEF !!= * @CODE@
++Pron+Ind+Sg+Acc:%>м K_at ;
++Pron+Ind+Sg+Dat:%>лан K_at ;
++Pron+Ind+Sg+Gen:%>н K_at ;
++Pron+Ind+Sg+Nom: K_at ;
 
 LEXICON PronDem !!= * @CODE@
 +Pron+Dem: # ;
