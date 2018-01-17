@@ -105,7 +105,7 @@ Verb tenses are:
  * __+Prt1__ = 1st preterite, direct observation
  * __+Prt2__ = 2nd preterite, indirect narrative, conclusion
 
-Verb personal forms are:
+Verb personal forms are: (also used with personal pronouns)
 
  * __+Sg1__ = 
  * __+Sg2__ = 
@@ -471,13 +471,15 @@ symbols in the lexicon files:
  * __Е2 	__ = 
  * __А2 	__ = 
  * __Ы1 	__ = stem-onset archi-vowel
- * __Ы2	__ = 
+ * __Ы2	__ =
+ * __з2	__ = for возаш : воч
  * __%>	__ = 
  * __+TEST__ = 
 
 And following triggers to control variation
  * %^V2IMPRT	 for -ем verbs in й
- * %^END		   for -ам verb final, i.e. Imprf
+ * %^LOAN	         for preserving clusters in фрукт, ланч
+ * %^END       	 for -ам verb final, i.e. Imprf
 
  * {front} 
  * {back} 

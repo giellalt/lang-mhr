@@ -46,8 +46,14 @@ Archiphonemes for vowels, Apertium style
  *  Е1:е  for lative
 
 
+!Arcihphonemes for consonants
+
+ * з2:з   for з:ч, thus  возаш - воч but колхоз (*колхоч)
+
  * %^V2IMPRT:0	 for -ем verbs in й
  * %^END:0		   for -ам verb final, i.e. Imprf
+ * %^LOAN:0	   for preserving clusters in фрукт, ланч
+
 
  *  %>    
 
@@ -62,7 +68,8 @@ Archiphonemes for vowels, Apertium style
  * Vow =  Vo VO Ve ы Ы ;    
 
  * Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш    
-        Б В Г Д Ж З Й К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     
+        Б В Г Д Ж З Й К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;   
+
  * CnsNoj =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш    
            Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     
  * Cst =  б в г д ж з к п с т ф х ц ч ш       
@@ -122,6 +129,10 @@ __ suffix-final vowel realized as -Round in word-final position е  __
 
 __ suffix-final vowel realized as +Back +Round in word-final position о  __  
 
+
+
+* __фрукт^LOAN>Ы1штЫ2 __
+* __фрукт0>ышто __
 
 
 
@@ -236,11 +247,13 @@ __ Stem-final consonant loss к __
 __ Stem-final consonant loss н __
 
 
+* __колхоз __
+* __колхоз __
 
-* __воз> __
+* __воз2> __
 * __воч> __
 
-* __воз>са __
+* __воз2>са __
 * __воч>са __
 
 __ Stem-final consonant variation з:ч __
