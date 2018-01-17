@@ -120,6 +120,20 @@ LIST Pcle = Pcle ; 				#!! Pcle
 LIST Clt = Clt ; 				#!! Clt
 LIST Po = Po ; 					#!! Po
 
+LIST ABBR = ABBR ;	    #!! ABBR
+LIST ACR = ACR ;	    #!! ACR
+
+#!! !Punctuation marks
+
+LIST CLB = CLB ;	    #!! CLB
+LIST COMMA = "," ;
+LIST LEFT = LEFT ;	    #!! LEFT
+LIST RIGHT = RIGHT ;    #!! RIGHT
+LIST WEB = WEB ;	    #!! WEB
+LIST QMARK = """ ;      # "  syntax colouring reset.
+LIST PPUNCT = LEFT RIGHT ;   #!! LEFT RIGHT because of apertium
+SET PUNCT = PPUNCT - QMARK ;
+
 #!! WORD is the set of all POS
 LIST WORD = N V A Adv CC CS Interj Pron Num Pcle Clt Po ;
 
@@ -192,6 +206,8 @@ LIST Pos = Pos ; 	 #!! Pos (?)
 LIST Superl = Superl ; #!! Superl
 LIST Comp = Comp ; 	   #!! Comp
 
+LIST Attr = Attr ; 	   #!! Attr
+
 #!! !Possessive suffix tags
 
 LIST PxSg1 = PxSg1 ; #!! PxSg1
@@ -207,14 +223,6 @@ LIST Card = Card ; #!! Card
 LIST Coll = Coll ;  #!! Coll
 LIST Ord = Ord ;  #!! Ord
 LIST Temp = Temp ;  #!! Temp (?)
-
-#!! !Punctuation marks
-
-LIST CLB = CLB ; 	  #!! CLB
-LIST PUNCT = PUNCT ;  #!! PUCT
-LIST LEFT = LEFT ; 	  #!! LEFT
-LIST RIGHT = RIGHT ;  #!! RIGHT
-LIST COMMA = "," ;	  #!! COMMA
 
 #!! !Derivation tags
 LIST Der/MWN = Der/MWN ; #!! Der/MWN
@@ -313,7 +321,8 @@ ADD:err-conneg-not-3rdsg (&err-conneg-not-3rdsg) TARGET (V Prs Sg3) IF (0 Ind OR
 
 
 # And one with a suggestion where we simply change the tag Sg into Attr:
-ADD:attr-not-pred (&attr-not-pred) TARGET (A Sg) IF (NOT 0 Attr OR Gen) (1 CC LINK *1 COMMON-N) ;
+# Orig: ADD:attr-not-pred (&attr-not-pred) TARGET (A Sg) IF (NOT 0 Attr OR Gen) (1 CC LINK *1 COMMON-N) ;
+ADD:attr-not-pred (&attr-not-pred) TARGET (A Sg) IF (NOT 0 Attr OR Gen) (1 CC LINK *1 N) ;
 COPY:attr-not-pred (Attr &SUGGEST) EXCEPT (Sg) TARGET (&attr-not-pred) ;
 # The method is: Add &SUGGEST to a copied reading to *generate* a
 # suggestion form from that reading. The copy should contain the error
