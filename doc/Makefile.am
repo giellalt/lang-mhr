@@ -17,7 +17,7 @@ JSP_PAGES=root-morphology.jspwiki  \
 		  numbers-affixes.jspwiki           \
 		  pronouns-affixes.jspwiki           \
 		  propernouns-affixes.jspwiki      \
-		  disambiguation-syntax.jspwiki \
+		  disambiguator-syntax.jspwiki \
 		  mhr-phon-phonology.jspwiki 
 # abbreviations-stems.jspwiki      \
 # acronyms-stems.jspwiki           \
