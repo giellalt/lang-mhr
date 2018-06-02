@@ -361,6 +361,9 @@ REMOVE:IkNumAN (Pron) IF (0 ("ик"))(1 A)(2 N + Sg);
 REMOVE:KumNumAN N IF (0 ("кум"))(1 A OR N);
 
 #!! !Pronouns
+#!! * __NotImp__ in most тиде cases
+REMOVE:tide V IF (0 ("тиде"))(NOT *1 ("^excl") + CLB);
+
 #!! * __NotInterr__ if Rel
 REMOVE:NotInterr Interr IF (-2 N)(-1 (","))(0 Rel);
 
