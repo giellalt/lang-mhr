@@ -29,7 +29,7 @@
 	"." CLB
 
 "<Кажне>"
-	"Кажне" ?
+	"кажне" Pron Ind @+FMAINV
 "<предприятий>"
 	"предприятий" N Sg Nom SUBJ>
 "<,>"
@@ -103,14 +103,10 @@
 "<кужу>"
 	"кужу" A
 "<лӱман>"
-	"лӱм" N Der/Poss A
 	"лӱман" A
 	"лӱман" Hom1 A
 	"лӱман" Hom2 A
 	"лӱман" Hom3 A
-	"лӱме" N Der/Poss A
-	"лӱмӧ" Hom1 N Der/Poss A
-	"лӱмӧ" Hom2 N Der/Poss A
 "<мер>"
 	"мер" A
 "<организацийыштыштат>"
@@ -123,7 +119,7 @@
 "<Ожно>"
 	"ожно" Adv
 "<тудо>"
-	"тудо" Pron Pers Sg Nom SUBJ>
+	"тудо" Pron Pers Sg3 Nom SUBJ>
 "<«>"
 	"«" ?
 "<Марий>"
@@ -161,8 +157,6 @@
 "<Эл>"
 	"эл" N Sg Nom SUBJ>
 "<Республикысе>"
-	"республик" N Der/Rel A
-	"республика" N Der/Rel A
 	"республикысе" A
 "<пӧлкаже>"
 	"пӧлка" N Sg Nom PxSg3 SUBJ>
@@ -799,9 +793,9 @@
 	"сем" Hom2 N Sg Gen
 	"семын" Po
 "<палемдыман>"
-	"палемдаш" V Pass Prc N Der/Poss A
-	"палемдыман" A
 	"палемдаш" V Inf Nec
+	"палемдыман" A
+	"палемдыман" A Der/MWN N Sg Nom SUBJ>
 "<«>"
 	"«" ?
 "<Марий>"
@@ -854,11 +848,12 @@
 "<(>"
 	"(" PUNCT LEFT
 "<иктыже>"
+	"икте" Pron Ind PxSg3 @+FMAINV
 	"иктыже" Pron
 "<вучыдымын>"
 	"вучыдымын" Adv
 "<мемнам>"
-	"мый" Pron Pers Pl Acc @OBJ>
+	"мый" Pron Pers Pl1 Acc @OBJ>
 "<коден>"
 	"кодаш" V Ger Gen
 "<кайыш>"
@@ -962,8 +957,8 @@
 	"," CLB
 "<но>"
 	"но" CC
+	"но" Hom1 N Sg Nom SUBJ>
 "<кӱлешан>"
-	"кӱлеш" N Der/Poss A
 	"кӱлешан" A
 "<пашашкыже>"
 	"паша" N Sg Ill PxSg3
@@ -975,8 +970,7 @@
 "<»>"
 	"»" ?
 "<кумыланже>"
-	"кумыл" N Der/Poss A PxSg3
-	"кумылан" A PxSg3
+	"кумылан" A Der/MWN N Sg Nom PxSg3 SUBJ>
 "<ок>"
 	"ок" V Neg Prs Sg3
 "<ешаралт>"
@@ -1040,7 +1034,6 @@
 	"ышташ" V Pass Prc N Sg PxSg3 Dat Foc/at
 "<ак>"
 	"ак" N Sg Nom SUBJ>
-	"акт" N Sg Nom SUBJ>
 "<ыш>"
 	"ок" V Neg Prt1 Sg3
 "<шокто>"
@@ -1180,7 +1173,6 @@
 "<содоклад>"
 	"содоклад" N Sg Nom SUBJ>
 "<шотан>"
-	"шот" N Der/Poss A
 	"шотан" A
 "<ешартышышт>"
 	"ешартыш" N Sg PxPl3 Nom SUBJ>
@@ -1371,7 +1363,6 @@
 "<ушнаш>"
 	"ушнаш" V Inf
 "<кумылан>"
-	"кумыл" N Der/Poss A
 	"кумылан" A
 "<самырык>"
 	"самырык" A
@@ -1402,9 +1393,6 @@
 "<Кодшо>"
 	"кодшо" A
 "<ийысе>"
-	"ий" Hom1 N Der/Rel A
-	"ий" Hom2 N Der/Rel A
-	"ий" Hom3 N Der/Rel A
 	"ийысе" A
 	"ийысе" Hom1 A
 	"ийысе" Hom2 A
@@ -1462,8 +1450,8 @@
 "<возаш>"
 	"возаш" A
 "<кумылан>"
-	"кумыл" N Der/Poss A
 	"кумылан" A
+	"кумылан" A Der/MWN N Sg Nom SUBJ>
 "<44>"
 	"44" ?
 "<еҥын>"
@@ -1509,7 +1497,7 @@
 	"дене" Po
 "<нуно>"
 	"нуно" Pron
-	"тудо" Pron Pers Pl Nom SUBJ>
+	"тудо" Pron Pers Pl3 Nom SUBJ>
 "<,>"
 	"," CLB
 "<савыктышын>"
@@ -1589,7 +1577,6 @@
 "<кугу>"
 	"кугу" A
 "<жанран>"
-	"жанр" N Der/Poss A
 	"жанран" A
 "<произведенийым>"
 	"произведений" N Sg Acc @OBJ>
@@ -1674,7 +1661,7 @@
 "<,>"
 	"," CLB
 "<мемнан>"
-	"мый" Pron Pers Pl Gen @>N
+	"мый" Pron Pers Pl1 Gen @>N
 "<жапъеҥ>"
 	"жапъеҥ" N Sg Nom SUBJ>
 "<(>"
@@ -1832,6 +1819,7 @@
 
 "<Но>"
 	"но" CC
+	"но" Hom1 N Sg Nom SUBJ>
 "<ындыжым>"
 	"ындыжым" Adv
 "<саде>"
@@ -1843,13 +1831,12 @@
 "<кумдаҥдыме>"
 	"кумдаҥдаш" V Pass Prc N Sg Nom SUBJ>
 "<нерген>"
-	"нерге" Hom1 N Sg Gen @>N
-	"нерге" Hom2 N Sg Gen @>N
-	"нерге" Hom3 N Sg Gen @>N
+	"нерге" Hom1 N Sg Gen
+	"нерге" Hom2 N Sg Gen
+	"нерге" Hom3 N Sg Gen
 	"нерген" Po
 "<шоныман>"
-	"шонаш" V Pass Prc N Der/Poss A
-	"шонымо" N Der/Poss A
+	"шонаш" V Inf Nec
 "<.>"
 	"." CLB
 
@@ -1863,9 +1850,8 @@
 	"кусараш" V Act Prc N Pl Acc @OBJ>
 	"кусарыше" N Pl Acc @OBJ>
 "<ушыман>"
-	"ушаш" Hom1 V Pass Prc N Der/Poss A
-	"ушаш" Hom2 V Pass Prc N Der/Poss A
-	"ушым" N Der/Poss A
+	"ушаш" Hom1 V Inf Nec
+	"ушаш" Hom2 V Inf Nec
 "<.>"
 	"." CLB
 
@@ -1897,7 +1883,6 @@
 	"." CLB
 
 "<Лач>"
-	"ланч" N Sg Nom SUBJ>
 	"лач" A
 	"лач" Hom2 N Sg Nom SUBJ>
 	"лач" Adv
@@ -1919,7 +1904,6 @@
 	"паша" N Sg Dat
 "<ак>"
 	"ак" N Sg Nom SUBJ>
-	"акт" N Sg Nom SUBJ>
 "<пуалтеш>"
 	"пуалташ" V Ind Prs Sg3 @+FMAINV
 	"пуаш" Hom1 Der/Refl V Ind Prs Sg3 @+FMAINV
@@ -1978,7 +1962,7 @@
 "<«>"
 	"«" ?
 "<Мый>"
-	"мый" Pron Pers Sg Nom SUBJ>
+	"мый" Pron Pers Sg1 Nom SUBJ>
 "<тендам>"
 	"тендам" ?
 "<ом>"
@@ -2060,7 +2044,7 @@
 "<,>"
 	"," CLB
 "<тудын>"
-	"тудо" Pron Pers Sg Gen
+	"тудо" Pron Pers Sg3 Gen
 "<семын>"
 	"сем" Hom1 N Sg Gen
 	"сем" Hom2 N Sg Gen
@@ -2068,7 +2052,6 @@
 "<возаш>"
 	"возаш" A
 	"возаш" Hom2 V Inf
-	"возаш" Hom1 V Inf
 "<ӱжеш>"
 	"ӱжаш" V Ind Prs Sg3 @+FMAINV
 "<.>"
@@ -2204,14 +2187,10 @@
 "<тыгай>"
 	"тыгай" A
 "<лӱманже>"
-	"лӱм" N Der/Poss A PxSg3
 	"лӱман" A PxSg3
 	"лӱман" Hom1 A PxSg3
 	"лӱман" Hom2 A PxSg3
 	"лӱман" Hom3 A PxSg3
-	"лӱме" N Der/Poss A PxSg3
-	"лӱмӧ" Hom1 N Der/Poss A PxSg3
-	"лӱмӧ" Hom2 N Der/Poss A PxSg3
 "<коклаштына>"
 	"кокла" N Sg PxPl1 Ine
 "<йӧршын>"
@@ -2236,7 +2215,7 @@
 "<могай>"
 	"могай" A
 "<качестван>"
-	"качестве" N Der/Poss A
+	"качестван" N Sg Nom SUBJ>
 "<«>"
 	"«" ?
 "<почела>"
@@ -2417,8 +2396,8 @@
 	"." CLB
 
 "<Лач>"
-	"лач" Hom1 Adv
 	"лач" Adv
+	"лач" Hom1 Adv
 "<тудлан>"
 	"тудлан" Pron Dem
 "<Писатель>"
