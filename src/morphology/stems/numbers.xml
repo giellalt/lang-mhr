@@ -241,22 +241,6 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Num">ик</l>
-     <stg>
-       <st Contlex="KvK_ATTR">ик</st>
-     </stg> <stress>ик</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t>one; one, the same; a, one, some; roughly, about, circa, around; single, united; single, sole</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>yksi KvK</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
      <l pos="Num">ик-кок</l>
      <stg>
        <st Contlex="N_">ик-кок</st>
@@ -312,6 +296,7 @@
      <l pos="Num">икте</l>
      <stg>
        <st Contlex="KvK">и•кт%{еы%}</st>
+       <st Contlex="KvK_ATTR">ик</st>
      </stg> <stress>и•кте</stress>
    </lg>
    <mg>
