@@ -196,6 +196,10 @@ Err
 
 !Verbs
 
+Infinitives
+
+
+
 * __Ind__ selects Ind if no Ind to the right or to the left
 
 * __1SgAgr__ selects (Ind Sg1) if Pron1Sg to the right or to the left
@@ -290,12 +294,17 @@ Adjectives
 
 * __уке__
 
+
 !Postpositions
+
+
 
 * __PoNeedsGen__ removes postposition if the word to the left is not Gen
 
 
 !!Adverbs
+
+
 
 
 * __molan__ awaiting rules for dative verbs subcategorising for mo Dat
