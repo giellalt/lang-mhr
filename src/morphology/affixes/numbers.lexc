@@ -4,10 +4,10 @@ LEXICON QNT_  !!= * @CODE@
 +Qnt: # ;
 
 LEXICON KvMurt !!= * @CODE@
-+Num: # ;
++Num: N-ava_01 ;
 
 LEXICON KvK !!= * @CODE@ cardinal numerals
-+Num: # ;
++Num: N-ava_01 ;
 
 LEXICON KvK_ATTR !!= * @CODE@ cardinal numerals in noun phrase scope
 +Num+Attr: # ;
@@ -48,8 +48,10 @@ LEXICON NUM-COLL_2-3 !!= * @CODE@
 LEXICON KvInd !!= * @CODE@
 +Num: # ;
 
-LEXICON KvO !!= * @CODE@ Ordinals, also non-numerals (hmm, change?)
-+A+Ord: # ;
+LEXICON KvO
++A+Ord+Attr: ENDLEX ;
++A+Ord: N-ava_01 ; 
+
 
 
 LEXICON Kv-a/e  !!= * @CODE@
