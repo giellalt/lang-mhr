@@ -1,0 +1,2471 @@
+"<Усталык>"
+	"уста" N Der/Pur A
+	"усталык" A
+"<саскана>"
+	"саска" N Sg PxPl1 Nom SUBJ> @SUBJ>
+"<чын>"
+	"чын" A
+"<акым>"
+	"ак" N Sg Acc @OBJ>
+"<налын>"
+	"налаш" V Ind Prt2 Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Марий>"
+	"марий" A
+"<Эл>"
+	"эл" N Sg Nom SUBJ>
+"<писатель-влакын>"
+	"писатель" N Pl Gen @>N
+"<отчёт>"
+	"отчёт" N Sg Nom SUBJ>
+"<погынымашышт>"
+	"погынаш" V Der/Nom N Sg PxPl3 Nom @HNOUN
+	"погынымаш" N Sg PxPl3 Nom @HNOUN
+"<гыч>"
+	"гыч" Po @N<
+"<.>"
+	"." CLB
+
+"<Кажне>"
+	"кажне" Pron Ind @+FMAINV
+"<предприятий>"
+	"предприятий" N Sg Nom SUBJ> @<SUBJ
+"<,>"
+	"," CLB
+"<организаций>"
+	"организаций" N Sg Nom SUBJ> @<SUBJ
+"<але>"
+	"алаш" V ConNeg
+"<мер>"
+	"мер" N Sg Nom SUBJ> @<SUBJ
+"<ушем>"
+	"ушаш" Hom1 V Ind Prs Sg1 @+FMAINV
+	"ушаш" Hom2 V Ind Prs Sg1 @+FMAINV
+"<идалык>"
+	"идалык" N Sg Nom SUBJ> @<SUBJ
+"<тӱҥалтыште>"
+	"тӱҥалтыш" N Sg Ine @<ADVL
+"<эртыше>"
+	"эртыше" A
+"<ийыште>"
+	"ий" Hom1 N Sg Ine @<ADVL
+	"ий" Hom2 N Sg Ine @<ADVL
+	"ий" Hom3 N Sg Ine @<ADVL
+"<кузерак>"
+	"кузе" Adv Comp @ADVL>
+	"кузерак" Adv @ADVL>
+	"кузерак" Pron Interr
+"<пашам>"
+	"паша" N Sg Acc @OBJ>
+"<ыштымыже>"
+	"ыштыме" A PxSg3
+"<,>"
+	"," CLB
+"<могай>"
+	"могай" A
+"<сеҥымашыш>"
+	"сеҥаш" V Der/Nom N Sg Ill @-FADVL>
+	"сеҥымаш" N Sg Ill @-FADVL>
+"<шумыж>"
+	"шуаш" Hom1 V Pass Prc N Sg PxSg3 Nom SUBJ> @SUBJ>
+	"шуаш" Hom2 V Pass Prc N Sg PxSg3 Nom SUBJ> @SUBJ>
+	"шуаш" Hom3 V Pass Prc N Sg PxSg3 Nom SUBJ> @SUBJ>
+"<нерген>"
+	"нерге" Hom1 N Sg Gen @>N
+	"нерге" Hom2 N Sg Gen @>N
+	"нерге" Hom3 N Sg Gen @>N
+	"нерген" Po @-F<ADVL
+"<отчётым>"
+	"отчёт" N Sg Acc @OBJ>
+"<ышта>"
+	"ышташ" V Ind Prs Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Тиде>"
+	"тиде" Pron Dem Sg Nom SUBJ> @SUBJ>
+"<поро>"
+	"поро" A
+"<йӱла>"
+	"йӱлаш" V Ind Prs Sg3 @+FMAINV
+"<марий>"
+	"марий" A
+"<писательвлакым>"
+	"писательвлакым" ?
+"<ушышо>"
+	"ушаш" Hom1 V Act Prc N Sg Nom @<SUBJ
+	"ушаш" Hom2 V Act Prc N Sg Nom @<SUBJ
+"<пеш>"
+	"пеш" Adv @-F<ADVL
+"<кужу>"
+	"кужу" A
+"<лӱман>"
+	"лӱман" A
+	"лӱман" Hom1 A
+	"лӱман" Hom2 A
+	"лӱман" Hom3 A
+"<мер>"
+	"мер" A
+"<организацийыштыштат>"
+	"организаций" N Sg PxPl3 Ine Foc/at @-F<ADVL
+"<уло>"
+	"уло" A
+"<.>"
+	"." CLB
+
+"<Ожно>"
+	"ожно" Adv @ADVL>
+"<тудо>"
+	"тудо" Pron Pers Sg3 Nom SUBJ> @SUBJ>
+"<«>"
+	"«" ?
+"<Марий>"
+	"марий" A
+"<Эл>"
+	"эл" N Sg Nom SUBJ> @SUBJ>
+"<Республикын>"
+	"республик" N Sg Gen @>N
+	"республика" N Sg Gen @>N
+"<писатель>"
+	"писатель" N Sg Nom SUBJ> @SUBJ>
+"<ушемже>"
+	"ушаш" Hom1 V Ind Prs Sg1 PxSg3 @+FMAINV
+	"ушаш" Hom2 V Ind Prs Sg1 PxSg3 @+FMAINV
+"<»>"
+	"»" ?
+"<маналтеш>"
+	"маналташ" V Ind Prs Sg3 @+FMAINV
+"<ыле>"
+	"улаш" V Prt1 Sg3
+"<гын>"
+	"гын" CS
+"<,>"
+	"," CLB
+"<ынде>"
+	"ынде" Adv @ADVL>
+"<общероссийский>"
+	"общероссийский" ?
+"<мер>"
+	"мер" A
+"<организацийын>"
+	"организаций" N Sg Gen @>A
+"<Марий>"
+	"марий" A
+"<Эл>"
+	"эл" N Sg Nom SUBJ> @SUBJ>
+"<Республикысе>"
+	"республикысе" A
+"<пӧлкаже>"
+	"пӧлка" N Sg Nom PxSg3 SUBJ> @SUBJ>
+"<»>"
+	"»" ?
+"<лӱмым>"
+	"лӱм" N Sg Acc @OBJ>
+	"лӱме" N Sg Acc @OBJ>
+	"лӱмӧ" Hom1 N Sg Acc @OBJ>
+	"лӱмӧ" Hom2 N Sg Acc @OBJ>
+"<налын>"
+	"налаш" V Ind Prt2 Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Саман>"
+	"саман" N Sg Nom SUBJ> @SUBJ>
+"<вашталтме>"
+	"вашталташ" V Pass Prc N Sg Nom SUBJ> @SUBJ>
+"<дене>"
+	"дене" Po @-F<ADVL
+"<пӧлка>"
+	"пӧлка" N Sg Nom SUBJ> @SUBJ>
+"<кушкын>"
+	"кушкаш" V Ind Prt2 Sg3 @+FMAINV
+"<,>"
+	"," CLB
+"<поен>"
+	"пояш" V Ind Prt2 Sg3 @+FMAINV
+"<але>"
+	"алаш" V ConNeg
+"<сылнымут>"
+	"сылнымут" N Sg Nom SUBJ> @<SUBJ
+"<аланыште>"
+	"алан" N Sg Ine @ADVL>
+"<тыршыше-влакым>"
+	"тыршаш" V Act Prc N Pl Acc @OBJ>
+"<пашалан>"
+	"паша" N Sg Dat
+"<,>"
+	"," CLB
+"<у>"
+	"у" A
+	"у" Hom1 A
+"<произведенийлам>"
+	"произведений" N Sg PxSg1 Cmpr
+"<возаш>"
+	"возаш" A
+"<кумылаҥдыме>"
+	"кумылаҥдаш" V Pass Prc N Sg Nom SUBJ> @<SUBJ
+"<йӧнжӧ>"
+	"йӧн" N Sg Nom PxSg3 SUBJ> @<SUBJ
+"<да>"
+	"да" CC
+"<вийже>"
+	"вий" N Sg Nom PxSg3 SUBJ> @<SUBJ
+"<ешаралтын>"
+	"ешаралташ" V Ger Gen
+	"ешараш" Der/Refl V Ger Gen
+"<манын>"
+	"манаш" V Ger Gen
+"<моктанен>"
+	"моктанаш" V Ger Gen
+"<она>"
+	"ок" V Neg Prs Pl1
+"<керт>"
+	"керташ" Hom1 V ConNeg
+	"керташ" Hom2 V ConNeg
+"<гынат>"
+	"гынат" CS
+	"гына" Adv Foc/at @-F<ADVL
+	"гынат" Adv @-F<ADVL
+"<,>"
+	"," CLB
+"<ушем>"
+	"ушем" N Sg Nom SUBJ> @<SUBJ
+	"уш" N Sg PxSg1 Nom SUBJ> @<SUBJ
+	"ушаш" Hom1 V Ind Prs Sg1 @+FMAINV
+	"ушаш" Hom2 V Ind Prs Sg1 @+FMAINV
+"<семын>"
+	"сем" Hom1 N Sg Gen
+	"сем" Hom2 N Sg Gen
+	"семын" Po @<ADVL
+"<аралалт>"
+	"аралалташ" V Ger Gen @>N
+"<кодмыжак>"
+	"кодаш" V Pass Prc N Sg PxSg3 Nom Foc/ak SUBJ> @<SUBJ
+"<шӱм-чоныштына>"
+	"шӱм-чон" N Sg PxPl1 Ine @-F<ADVL
+"<куан>"
+	"куанаш" V Ger Gen @>N
+"<шижмашым>"
+	"шижаш" V Der/Nom N Sg Acc @OBJ>
+	"шижмаш" N Sg Acc @OBJ>
+"<нӧлта>"
+	"нӧлташ" V Ind Prs Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Тыгай>"
+	"тыгай" A
+"<шонымаш>"
+	"шонаш" V Der/Nom N Sg Nom SUBJ> @SUBJ>
+	"шонымаш" N Sg Nom SUBJ> @SUBJ>
+"<дене>"
+	"дене" Po
+"<шуко>"
+	"шуко" A
+"<самырык>"
+	"самырык" A
+"<сылнымутчо>"
+	"сылнымутчо" N Sg Nom SUBJ> @SUBJ>
+"<ты>"
+	"ты" Pron Dem
+"<ушемыш>"
+	"ушем" N Sg Ill
+"<пураш>"
+	"пура" Hom1 N Sg Ill @-FADVL>
+	"пура" Hom1 N Sg Lat
+	"пура" Hom2 N Sg Ill @-FADVL>
+	"пура" Hom2 N Sg Lat
+	"пураш" V Inf
+"<,>"
+	"," CLB
+"<пӱрымашыжым>"
+	"пӱраш" Hom1 V Der/Nom N Sg PxSg3 Acc @OBJ>
+	"пӱраш" Hom2 V Der/Nom N Sg PxSg3 Acc @OBJ>
+	"пӱрымаш" N Sg PxSg3 Acc @OBJ>
+"<кылдаш>"
+	"кылдаш" V Inf
+"<тырша>"
+	"тыршаш" V Ind Prs Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Марий>"
+	"марий" A
+"<Эл>"
+	"эл" N Sg Nom SUBJ> @SUBJ>
+"<писатель>"
+	"писатель" N Sg Nom SUBJ> @SUBJ>
+"<ушем>"
+	"ушем" N Sg Nom @HNOUN
+	"уш" N Sg PxSg1 Nom @HNOUN
+	"ушаш" Hom1 V Ind Prs Sg1 @+FMAINV
+	"ушаш" Hom2 V Ind Prs Sg1 @+FMAINV
+"<председатель>"
+	"председатель" N Sg Nom @<SUBJ
+"<,>"
+	"," CLB
+"<поэтессе>"
+	"поэтессе" N Sg Nom @<SUBJ
+"<С>"
+	"С" N ABBR
+	"с" N ABBR
+"<.>"
+	"." CLB
+
+"<Архипова>"
+	"Архипов" N Prop Sg Nom @HNOUN
+"<респалдарыш>"
+	"респалдарыш" ?
+"<.>"
+	"." CLB
+
+"<Эсогыл>"
+	"эсогыл" Pcle @PCLE
+"<могай>"
+	"могай" A
+"<тылзын>"
+	"тылзе" N Sg Gen @>A
+"<могай>"
+	"могай" A
+"<кечыштыже>"
+	"кече" N Sg Ine PxSg3 @-FADVL>
+"<могай>"
+	"могай" A
+"<мероприятийым>"
+	"мероприятий" N Sg Acc @OBJ>
+"<,>"
+	"," CLB
+"<акций>"
+	"акций" Hom1 N Sg Nom SUBJ> @SUBJ>
+	"акций" Hom2 N Sg Nom SUBJ> @SUBJ>
+"<манметым>"
+	"манаш" V Pass Prc N Sg PxSg2 Acc @OBJ>
+"<эртарыме>"
+	"эртарыме" A
+"<нерген>"
+	"нерге" Hom1 N Sg Gen @>N
+	"нерге" Hom2 N Sg Gen @>N
+	"нерге" Hom3 N Sg Gen @>N
+"<радамын>"
+	"радам" N Sg Gen @ADVL>
+	"радамын" Adv @-F<ADVL
+"<каласкалыш>"
+	"каласкалаш" V Ind Prt1 Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Тидыже>"
+	"тидаш" V Imprt Sg3
+"<–>"
+	"–" PUNCT
+"<моткоч>"
+	"моткоч" Adv @<ADVL
+"<сай>"
+	"сай" A
+	"сай" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Тыгай>"
+	"тыгай" A
+"<статистике>"
+	"статистике" N Sg Nom SUBJ>
+"<манмет>"
+	"манаш" V Pass Prc N Sg PxSg2 Nom SUBJ>
+"<писатель-шамычланна>"
+	"писатель" N Pl PxPl1 Dat
+"<могай>"
+	"могай" A
+"<кечын>"
+	"кече" N Sg Gen
+	"кечын" Adv @ADVL>
+"<мом>"
+	"мом" Pron Interr
+	"мо" Pron Interr Sg Acc @OBJ>
+	"мо" Pron Rel Sg Acc @OBJ>
+"<возымышт>"
+	"возаш" Hom2 V Pass Prc N Sg PxPl3 Nom SUBJ>
+"<нерген>"
+	"нерге" Hom1 N Sg Gen
+	"нерге" Hom2 N Sg Gen
+	"нерге" Hom3 N Sg Gen
+	"нерген" Po
+"<мондаш>"
+	"мондаш" V Inf
+"<ок>"
+	"ок" V Neg Prs Sg3
+"<пу>"
+	"пуаш" Hom1 V ConNeg
+	"пуаш" Hom2 V ConNeg
+"<.>"
+	"." CLB
+
+"<Отчёт>"
+	"отчёт" N Sg Nom SUBJ> @SUBJ>
+"<гыч>"
+	"гыч" Po @ADVL>
+"<ушем>"
+	"ушем" N Sg Nom SUBJ> @SUBJ>
+	"уш" N Sg PxSg1 Nom SUBJ> @SUBJ>
+	"ушаш" Hom1 V Ind Prs Sg1 @+FMAINV
+	"ушаш" Hom2 V Ind Prs Sg1 @+FMAINV
+"<правленийын>"
+	"правлений" N Sg Gen @>A
+"<заседанийже>"
+	"заседаний" A PxSg3
+"<лийме>"
+	"лияш" V Pass Prc N Sg Nom SUBJ> @<SUBJ
+"<да>"
+	"да" CC
+"<тушто>"
+	"ту" Hom2 N Sg Ine @<ADVL
+	"ту" Hom3 N Sg Ine @<ADVL
+	"туш" Hom2 N Sg Ine @<ADVL
+	"туш" Hom3 N Sg Ine @<ADVL
+	"тушто" Adv @<ADVL
+	"тушто" Hom1 Adv @<ADVL
+"<правлений>"
+	"правлений" N Sg Nom SUBJ> @<SUBJ
+"<член-влак>"
+	"член" N Pl Nom SUBJ> @<SUBJ
+"<кокла>"
+	"кок" Hom2 N Sg Cmpr
+"<гыч>"
+	"гыч" Po @<ADVL
+"<кудыжын>"
+	"кудо" Hom2 N Sg PxSg3 Gen @>A
+	"кудо" Hom3 N Sg PxSg3 Gen @>A
+"<могайрак>"
+	"могай" A Comp
+"<чолгалыкым>"
+	"чолгалык" N Sg Acc @OBJ>
+"<ончыктымыжо>"
+	"ончаш" Der/Caus V Pass Prc N Sg Nom PxSg3 @<SUBJ
+	"ончыкташ" V Pass Prc N Sg Nom PxSg3 @<SUBJ
+"<,>"
+	"," CLB
+"<марий>"
+	"марий" A
+"<сылнымутнан>"
+	"сылнымут" N Sg PxPl1 Gen @>N
+"<классикше>"
+	"классик" N Sg Nom PxSg3 @<SUBJ
+"<С>"
+	"С" N ABBR
+	"с" N ABBR
+"<.>"
+	"." CLB
+
+"<Г>"
+	"Г" N ABBR
+	"г" ABBR
+	"г" N ABBR
+"<.>"
+	"." CLB
+
+"<Чавайнын>"
+	"Чавайн" N Prop Sg Gen @>N
+"<шочмыжлан>"
+	"шочаш" V Pass Prc N Sg PxSg3 Dat
+"<125>"
+	"125" ?
+"<ий>"
+	"ий" Hom1 N Sg Nom SUBJ> @SUBJ>
+	"ий" Hom2 N Sg Nom SUBJ> @SUBJ>
+	"ий" Hom3 N Sg Nom SUBJ> @SUBJ>
+	"ияш" V Imprt Sg2
+"<темме>"
+	"темаш" V Pass Prc N Sg Nom SUBJ> @SUBJ>
+"<лӱмеш>"
+	"лӱмеш" A
+"<эртарыме>"
+	"эртарыме" A
+"<кугу>"
+	"кугу" A
+"<пайрем>"
+	"пайрем" N Sg Nom SUBJ> @SUBJ>
+"<мероприятий-влакым>"
+	"мероприятий" N Pl Acc @OBJ>
+"<кушто>"
+	"кушто" Adv @ADVL>
+	"кушташ" Hom1 V Imprt Sg2
+	"кушто" Pron
+	"кушташ" Hom2 V Imprt Sg2
+"<да>"
+	"да" CC
+"<кузе>"
+	"кузе" Adv @ADVL>
+	"кузе" N Sg Nom SUBJ> @SUBJ>
+	"кузе" Pron Interr
+"<палемдыме>"
+	"палемдыме" A
+"<,>"
+	"," CLB
+"<могай>"
+	"могай" A
+"<конкурсым>"
+	"конкурс" N Sg Acc @OBJ>
+"<,>"
+	"," CLB
+"<семинарым>"
+	"семинар" N Sg Acc @OBJ>
+"<эртарыме>"
+	"эртараш" V Pass Prc N Sg Nom SUBJ> @SUBJ>
+	"эртарыме" A
+"<,>"
+	"," CLB
+"<кӧн>"
+	"кӧ" Pron Rel Sg Gen @>N
+"<пашажым>"
+	"паша" N Sg PxSg3 Acc @OBJ>
+"<кугыжаныш>"
+	"кугыжаныш" N Sg Nom SUBJ> @SUBJ>
+"<але>"
+	"алаш" V Imprt Sg2
+"<вес>"
+	"вес" A
+"<премий>"
+	"премий" N Sg Nom SUBJ> @SUBJ>
+"<дене>"
+	"дене" Po @ADVL>
+"<аклыме>"
+	"аклыме" A
+"<нергенат>"
+	"нерге" Hom1 N Sg Gen Foc/at @>A
+	"нерге" Hom3 N Sg Gen Foc/at @>A
+	"нерге" Hom2 N Sg Gen Foc/at @>A
+"<раш>"
+	"раш" A
+"<пален>"
+	"палаш" V Ger Gen
+"<нална>"
+	"налаш" V Ind Prt1 Pl1 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Россий>"
+	"Россий" N Prop Sg Nom SUBJ> @SUBJ>
+"<писатель-влакым>"
+	"писатель" N Pl Acc @OBJ>
+"<ушышо>"
+	"ушаш" Hom1 V Act Prc N Sg Nom SUBJ> @SUBJ>
+	"ушаш" Hom2 V Act Prc N Sg Nom SUBJ> @SUBJ>
+"<кандаш>"
+	"кандаш" Num Attr @>Num
+"<тӱжем>"
+	"тӱжем" Num
+"<утла>"
+	"утла" Adv @-F<ADVL
+	"утлаш" V Ind Prs Sg3 @+FMAINV
+"<еҥан>"
+	"еҥан" A
+"<армийлан>"
+	"армий" N Sg Dat
+"<65>"
+	"65" ?
+"<сылнымут>"
+	"сылнымут" N Sg Nom SUBJ> @<SUBJ
+"<мастарым>"
+	"мастар" N Sg Acc @OBJ>
+"<пуышо>"
+	"пуышо" Hom2 A
+"<марий>"
+	"марий" A
+"<пӧлкан>"
+	"пӧлка" N Sg Gen @<ADVL
+"<тынар>"
+	"тынар" Adv @<ADVL
+	"тынар" Pron Dem
+"<кугу>"
+	"кугу" A
+"<паша>"
+	"паша" N Sg Nom SUBJ> @<SUBJ
+"<ужашыже>"
+	"ужа" N Sg PxSg3 Lat
+	"ужаш" N Sg Nom PxSg3 SUBJ> @<SUBJ
+	"ужаш" V Inf PxSg3
+"<кугешныме>"
+	"кугешныме" A
+"<кумылым>"
+	"кумыл" N Sg Acc @OBJ>
+"<ешарыде>"
+	"ешараш" V Ger Abe
+"<ок>"
+	"ок" V Neg Prs Sg3
+"<керт>"
+	"керташ" Hom1 V ConNeg
+	"керташ" Hom2 V ConNeg
+"<.>"
+	"." CLB
+
+"<Ыштыме>"
+	"ыштыме" A
+"<шагал>"
+	"шагал" N Sg Nom SUBJ>
+	"шагал" Num
+	"шагал" Adv @<ADVL
+"<огыл>"
+	"ок" V Neg Prt2 Sg3
+"<.>"
+	"." CLB
+
+"<Ондак>"
+	"он" N Sg PxPl2 Nom Foc/ak SUBJ> @SUBJ>
+	"ондак" Adv @ADVL>
+"<сылнымутчына-шамычын>"
+	"сылнымутчо" N Pl PxPl1 Gen @>N
+"<пашашт>"
+	"паша" N Sg PxPl3 Nom SUBJ> @SUBJ>
+"<республикыште>"
+	"республик" N Sg Ine @ADVL>
+	"республика" N Sg Ine @ADVL>
+"<гына>"
+	"гына" Adv @ADVL>
+"<огыл>"
+	"ок" V Neg Prt2 Sg3
+"<,>"
+	"," CLB
+"<эл>"
+	"эл" N Sg Nom SUBJ> @SUBJ>
+"<кӧргыштӧ>"
+	"кӧрге" N Sg Ine @ADVL>
+"<,>"
+	"," CLB
+"<тӱнямбал>"
+	"тӱнямбал" A
+"<кӱкшытыштӧ>"
+	"кӱкшыт" N Sg Ine @ADVL>
+"<могайрак>"
+	"могай" A Comp
+"<акым>"
+	"ак" N Sg Acc @OBJ>
+"<налмыж>"
+	"налаш" V Pass Prc N Sg PxSg3 Nom SUBJ> @SUBJ>
+"<нерген>"
+	"нерге" Hom1 N Sg Gen @ADVL>
+	"нерге" Hom2 N Sg Gen @ADVL>
+	"нерге" Hom3 N Sg Gen @ADVL>
+	"нерген" Po @ADVL>
+"<ойырен>"
+	"ойыраш" V Ger Gen
+"<палемдат>"
+	"палемаш" V Ind Prt1 Pl2 Foc/at @+FMAINV
+	"палемдаш" V Ind Prs Pl3 @+FMAINV
+"<ыле>"
+	"улаш" V Prt1 Sg3
+"<.>"
+	"." CLB
+
+"<Мутат>"
+	"мут" N Sg Nom Foc/at @HNOUN
+"<уке>"
+	"уке" Adv @<ADVL
+"<,>"
+	"," CLB
+"<З>"
+	"З" N ABBR
+	"з" N ABBR
+"<.>"
+	"." CLB
+
+"<Дудинан>"
+	"Дудин" N Prop Sg Gen @>N
+"<да>"
+	"да" CC
+"<В>"
+	"В" N ABBR
+	"в" ABBR
+	"в" N ABBR
+"<.>"
+	"." CLB
+
+"<Матвеевын>"
+	"Матвеев" N Prop Sg Gen @>N
+"<пашаштым>"
+	"паша" N Sg PxPl3 Acc @OBJ>
+"<Марий>"
+	"марий" A
+"<Эл>"
+	"эл" N Sg Nom @HNOUN
+"<Республикын>"
+	"республик" N Sg Gen @>N
+	"республика" N Sg Gen @>N
+"<Кугыжаныш>"
+	"кугыжаныш" N Sg Nom @HNOUN
+"<премийже>"
+	"премий" N Sg Nom PxSg3 @HNOUN
+"<да>"
+	"да" CC
+"<руш>"
+	"руш" A
+"<поэт>"
+	"поэт" N Sg Nom @HNOUN
+"<А>"
+	"А" N ABBR
+	"а" CC
+	"а" N ABBR
+"<.>"
+	"." CLB
+
+"<Подольскийым>"
+	"Подольский" N Prop Sg Acc @OBJ>
+"<юбилейжылан>"
+	"юбилей" N Sg PxSg3 Dat
+"<республикын>"
+	"республик" N Sg Gen @>N
+	"республика" N Sg Gen @>N
+"<правительствыжын>"
+	"правительстве" N Sg PxSg3 Gen @>N
+"<Чап>"
+	"чап" Hom1 N Sg Nom SUBJ> @SUBJ>
+"<грамотыж>"
+	"грамото" N Sg PxSg3 Nom SUBJ> @SUBJ>
+"<дене>"
+	"дене" Po @-FADVL>
+"<палемдымым>"
+	"палемдаш" V Pass Prc N Sg Acc @OBJ>
+"<ойырен>"
+	"ойыраш" V Ind Prt2 Sg3 @+FMAINV
+"<ончыктыде>"
+	"ончаш" Der/Caus V Ger Abe
+	"ончыкташ" V Ger Abe
+"<она>"
+	"ок" V Neg Prs Pl1
+"<керт>"
+	"керташ" Hom1 V ConNeg
+	"керташ" Hom2 V ConNeg
+"<.>"
+	"." CLB
+
+"<Претендент>"
+	"претендент" N Sg Nom SUBJ> @SUBJ>
+"<манме>"
+	"манаш" V Pass Prc N Sg Nom SUBJ> @SUBJ>
+"<шуко>"
+	"шуко" A
+"<уста>"
+	"уста" A
+"<кокла>"
+	"кок" Hom2 N Sg Cmpr
+"<гыч>"
+	"гыч" Po @-F<ADVL
+"<эн-энжым>"
+	"эн-энжым" ?
+"<ойырен>"
+	"ойыраш" V Ger Gen @>N
+	"ойыраш" V Ind Prt2 Sg3 @+FMAINV
+"<лукмаште>"
+	"лукмаш" N Sg Ine @<ADVL
+	"лукташ" V Der/Nom N Sg Ine @<ADVL
+"<Марий>"
+	"марий" A
+"<Эл>"
+	"эл" N Sg Nom SUBJ> @<SUBJ
+"<писатель>"
+	"писатель" N Sg Nom SUBJ> @<SUBJ
+"<ушем>"
+	"ушем" N Sg Nom SUBJ> @<SUBJ
+	"уш" N Sg PxSg1 Nom SUBJ> @<SUBJ
+	"ушаш" Hom1 V Ind Prs Sg1 @+FMAINV
+	"ушаш" Hom2 V Ind Prs Sg1 @+FMAINV
+"<правленийын>"
+	"правлений" N Sg Gen @>N
+"<надырже>"
+	"надыр" N Sg Nom PxSg3 SUBJ> @<SUBJ
+"<изи>"
+	"изи" N Sg Nom SUBJ> @<SUBJ
+"<огыл>"
+	"ок" V Neg Prt2 Sg3
+"<.>"
+	"." CLB
+
+"<Тыгаяк>"
+	"тыгай" A Foc/ak
+	"тыгаяк" A
+"<сеҥымаш>"
+	"сеҥаш" V Der/Nom N Sg Nom SUBJ>
+	"сеҥымаш" N Sg Nom SUBJ>
+"<семын>"
+	"сем" Hom1 N Sg Gen @>A
+	"сем" Hom2 N Sg Gen @>A
+	"семын" Po
+"<палемдыман>"
+	"палемдаш" V Inf Nec
+	"палемдыман" A
+	"палемдыман" A Der/MWN N Sg Nom SUBJ>
+"<«>"
+	"«" ?
+"<Марий>"
+	"марий" A
+"<Эл>"
+	"эл" N Sg Nom SUBJ>
+"<Республикын>"
+	"республик" N Sg Gen @>A
+	"республика" N Sg Gen @>A
+"<калык>"
+	"калык" A
+"<писательже>"
+	"писатель" N Sg Nom PxSg3 SUBJ>
+"<(>"
+	"(" PUNCT LEFT
+"<поэтше>"
+	"поэт" N Sg Nom PxSg3 SUBJ>
+"<)>"
+	")" PUNCT RIGHT
+"<»>"
+	"»" ?
+"<чаплӱмым>"
+	"чаплӱм" N Sg Acc @OBJ>
+"<налаш>"
+	"налаш" V Inf
+"<полшымо>"
+	"полшаш" V Pass Prc N Sg Nom
+"<суапшым>"
+	"суап" N Sg PxSg3 Acc
+"<.>"
+	"." CLB
+
+"<Писатель>"
+	"писатель" N Sg Nom SUBJ> @SUBJ>
+"<ушемын>"
+	"ушем" N Sg Gen @>A
+	"уш" N Sg PxSg1 Gen @>A
+"<кодшо>"
+	"кодшо" A
+"<ийын>"
+	"ий" Hom1 N Sg Gen @>Num
+	"ий" Hom2 N Sg Gen @>Num
+	"ий" Hom3 N Sg Gen @>Num
+	"ийын" Adv @ADVL>
+	"ияш" V Ind Prt2 Sg3 @+FMAINV
+"<вич>"
+	"вич" Num Attr @>N
+"<еҥлан>"
+	"еҥ" N Sg Dat
+"<(>"
+	"(" PUNCT LEFT
+"<иктыже>"
+	"икте" Pron Ind PxSg3 @+FMAINV
+	"иктыже" Pron
+"<вучыдымын>"
+	"вучыдымын" Adv @<ADVL
+"<мемнам>"
+	"мый" Pron Pers Pl1 Acc @OBJ>
+"<коден>"
+	"кодаш" V Ger Gen @>N
+"<кайыш>"
+	"кай" Hom2 N Sg Ill @<ADVL
+	"каяш" V Ind Prt1 Sg3 @+FMAINV
+"<)>"
+	")" PUNCT RIGHT
+"<кушмыжым>"
+	"кушкаш" V Pass Prc N Sg PxSg3 Acc @OBJ>
+"<палемдыде>"
+	"палемдаш" V Ger Abe
+"<кодаш>"
+	"кодаш" V Inf
+"<нигузе>"
+	"нигузе" Pron Ind @+FMAINV
+"<ок>"
+	"ок" V Neg Prs Sg3
+"<лий>"
+	"лияш" V ConNeg
+"<.>"
+	"." CLB
+
+"<Чыла>"
+	"чыла" Pron Ind @+FMAINV
+"<тидыже>"
+	"тидаш" V Imprt Sg3
+"<марий>"
+	"марий" A
+"<сылнымутчо-влакым>"
+	"сылнымутчо" N Pl Acc @OBJ>
+"<ушышо>"
+	"ушышо" A
+"<мер>"
+	"мер" A
+"<организацийын>"
+	"организаций" N Sg Gen @>N
+"<шочмыжлан>"
+	"шочаш" V Pass Prc N Sg PxSg3 Dat
+"<80>"
+	"80" ?
+"<ий>"
+	"ияш" V Imprt Sg2
+"<темме>"
+	"темаш" V Pass Prc N Sg Nom SUBJ> @<SUBJ
+"<чапле>"
+	"чапле" A
+"<пайрем>"
+	"пайрем" N Sg Nom SUBJ> @<SUBJ
+"<вашеш>"
+	"вашеш" A
+"<кугу>"
+	"кугу" A
+"<пӧлек>"
+	"пӧлек" N Sg Nom SUBJ> @<SUBJ
+"<манын>"
+	"манаш" V Ger Gen
+"<кертына>"
+	"керташ" Hom1 V Ind Prs Pl1 @+FMAINV
+	"керташ" Hom2 V Ind Prs Pl1 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Самырык-влак>"
+	"самырык-влак" N Sg Nom SUBJ> @SUBJ>
+	"самырык" N Pl Nom SUBJ> @SUBJ>
+"<дене>"
+	"дене" Po @ADVL>
+"<сомыл>"
+	"сомыл" N Sg Nom SUBJ> @SUBJ>
+"<шагал>"
+	"шагал" N Sg Nom SUBJ> @SUBJ>
+	"шагал" Num
+"<огыл>"
+	"ок" V Neg Prt2 Sg3
+"<шукталтмыла>"
+	"шукталташ" V Pass Prc N LocPl Nom SUBJ>
+	"шукталташ" V Pass Prc N Sg Cmpr
+	"шукташ" Der/Refl V Pass Prc N LocPl Nom SUBJ>
+	"шукташ" Der/Refl V Pass Prc N Sg Cmpr
+"<чучеш>"
+	"чучаш" V Ind Prs Sg3 @+FMAINV
+	"чучо" N Sg Lat
+"<гынат>"
+	"гынат" CS
+	"гына" Adv Foc/at @<ADVL
+	"гынат" Adv @<ADVL
+"<,>"
+	"," CLB
+"<пытартыш>"
+	"пытартыш" A
+"<ийлаште>"
+	"ий" Hom1 N LocPl Ine @ADVL>
+	"ий" Hom2 N LocPl Ine @ADVL>
+	"ий" Hom3 N LocPl Ine @ADVL>
+	"ийла" N Sg Ine @ADVL>
+"<писательын>"
+	"писатель" N Sg Gen @<ADVL
+"<неле>"
+	"нелаш" V Ind Prt1 Sg3 @+FMAINV
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+	"но" Hom1 N Sg Nom SUBJ> @<SUBJ
+"<кӱлешан>"
+	"кӱлешан" A
+"<пашашкыже>"
+	"паша" N Sg Ill PxSg3 @<ADVL
+"<«>"
+	"«" ?
+"<кычкалташ>"
+	"кычкалташ" V Inf
+	"кычкаш" Der/Refl V Inf
+"<»>"
+	"»" ?
+"<кумыланже>"
+	"кумылан" A Der/MWN N Sg Nom PxSg3 SUBJ> @<SUBJ
+"<ок>"
+	"ок" V Neg Prs Sg3
+"<ешаралт>"
+	"ешаралташ" V ConNeg
+	"ешараш" Der/Refl V ConNeg
+"<.>"
+	"." CLB
+
+"<Сандене>"
+	"сандене" CC WORK
+"<«>"
+	"«" ?
+"<ӱшаным>"
+	"ӱшан" N Sg Acc @OBJ>
+"<пуышо>"
+	"пуышо" Hom2 A
+"<поэт>"
+	"поэт" N Sg Nom SUBJ> @SUBJ>
+"<,>"
+	"," CLB
+"<драматург>"
+	"драматург" N Sg Nom SUBJ> @SUBJ>
+"<,>"
+	"," CLB
+"<критик>"
+	"критик" N Sg Nom SUBJ> @SUBJ>
+"<»>"
+	"»" ?
+"<манын>"
+	"манаш" V Ind Prt2 Sg3 @+FMAINV
+"<ончыкташ>"
+	"ончаш" Der/Caus V Inf
+	"ончыкташ" V Inf
+"<лийше>"
+	"лийше" A
+"<лӱмым>"
+	"лӱм" N Sg Acc @OBJ>
+	"лӱме" N Sg Acc @OBJ>
+	"лӱмӧ" Hom1 N Sg Acc @OBJ>
+	"лӱмӧ" Hom2 N Sg Acc @OBJ>
+"<отчётышто>"
+	"отчёт" N Sg Ine
+"<ышна>"
+	"ок" V Neg Prt1 Pl1
+"<кол>"
+	"колаш" V ConNeg
+"<.>"
+	"." CLB
+
+"<Могай>"
+	"могай" A
+"<секцийын>"
+	"секций" N Sg Gen
+"<кузерак>"
+	"кузе" Adv Comp @<ADVL
+	"кузерак" Adv @<ADVL
+	"кузерак" Pron Interr
+"<пашам>"
+	"паша" N Sg PxSg1 Nom SUBJ>
+"<ыштымыжланат>"
+	"ышташ" V Pass Prc N Sg PxSg3 Dat Foc/at
+"<ак>"
+	"ак" N Sg Nom SUBJ>
+"<ыш>"
+	"ок" V Neg Prt1 Sg3
+"<шокто>"
+	"шокташ" V ConNeg
+"<.>"
+	"." CLB
+
+"<Пазар>"
+	"пазар" A
+"<саманын>"
+	"саман" N Sg Gen @>A
+"<неле>"
+	"нелаш" V Ind Prt1 Sg3 @+FMAINV
+	"неле" A
+	"неле" N Sg Nom SUBJ> @SUBJ>
+"<шугыньжо>"
+	"шугыньжо" ?
+"<вуйым>"
+	"вуй" N Sg Acc @OBJ>
+"<нӧлталаш>"
+	"нӧлталаш" V Inf
+"<огешак>"
+	"ок" V Neg Prs Sg3 Foc/ak
+"<пула>"
+	"пу" N LocPl Nom SUBJ>
+	"пу" N Sg Cmpr
+	"пула" N Sg Nom SUBJ> @SUBJ>
+"<чучеш>"
+	"чучаш" V Ind Prs Sg3 @+FMAINV
+	"чучо" N Sg Lat
+"<.>"
+	"." CLB
+
+"<Мутат>"
+	"мут" N Sg Nom Foc/at SUBJ> @SUBJ>
+"<уке>"
+	"уке" Adv @-FADVL>
+"<,>"
+	"," CLB
+"<отчёт>"
+	"отчёт" N Sg Nom SUBJ> @SUBJ>
+"<погынымаш>"
+	"погынаш" V Der/Nom N Sg Nom SUBJ> @SUBJ>
+	"погынымаш" N Sg Nom SUBJ> @SUBJ>
+"<докладчикын>"
+	"докладчик" N Sg Gen @>N
+"<шонымашыжым>"
+	"шонаш" V Der/Nom N Sg PxSg3 Acc @OBJ>
+	"шонымаш" N Sg PxSg3 Acc @OBJ>
+"<ешараш>"
+	"ешараш" V Inf
+"<,>"
+	"," CLB
+"<пойдараш>"
+	"пойдараш" V Inf
+"<,>"
+	"," CLB
+"<ӱчашымашым>"
+	"ӱчашаш" V Der/Nom N Sg Acc @OBJ>
+	"ӱчашымаш" N Sg Acc @OBJ>
+"<тарваташ>"
+	"тарваташ" V Inf
+"<полшымо>"
+	"полшаш" V Pass Prc N Sg Nom SUBJ> @SUBJ>
+"<кумыл>"
+	"кумыл" N Sg Nom SUBJ> @SUBJ>
+"<дене>"
+	"дене" Po @-F<ADVL
+"<эрта>"
+	"эрташ" V Ind Prs Sg3 @+FMAINV
+"<гын>"
+	"гын" CS
+"<,>"
+	"," CLB
+"<сай>"
+	"сай" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Тыгай>"
+	"тыгай" A
+"<иктешлымашым>"
+	"иктешлаш" V Der/Nom N Sg Acc @OBJ>
+	"иктешлымаш" N Sg Acc @OBJ>
+"<лукто>"
+	"лукташ" V Ind Prt1 Sg3 @+FMAINV
+"<7>"
+	"7" ?
+"<мартыште>"
+	"март" N Sg Ine @ADVL>
+"<эртыше>"
+	"эртыше" A
+"<погынымашат>"
+	"погынаш" V Der/Nom N Sg Nom Foc/at @<SUBJ
+	"погынымаш" N Sg Nom Foc/at @<SUBJ
+"<.>"
+	"." CLB
+
+"<«>"
+	"«" ?
+"<Ончыко>"
+	"ончыко" Adv @<ADVL
+"<»>"
+	"»" ?
+"<журналын>"
+	"журнал" N Sg Gen @>A
+"<тӱҥ>"
+	"тӱҥ" A
+"<редакторжо>"
+	"редактор" N Sg Nom PxSg3 @HNOUN
+"<А>"
+	"А" N ABBR
+	"а" CC
+	"а" N ABBR
+"<.>"
+	"." CLB
+
+"<Тимиркаевын>"
+	"Тимиркаев" N Prop Sg Gen @>N
+"<,>"
+	"," CLB
+"<журнал>"
+	"журнал" N Sg Nom @HNOUN
+"<редколлегийын>"
+	"редколлегий" N Sg Gen @>N
+"<членже>"
+	"член" N Sg Nom PxSg3 @HNOUN
+"<А>"
+	"А" N ABBR
+	"а" CC
+	"а" N ABBR
+"<.>"
+	"." CLB
+
+"<Подольскийын>"
+	"Подольский" N Prop Sg Gen @>N
+"<содоклад>"
+	"содоклад" N Sg Nom SUBJ> @SUBJ>
+"<шотан>"
+	"шотан" A
+"<ешартышышт>"
+	"ешартыш" N Sg PxPl3 Nom SUBJ> @SUBJ>
+"<гыч>"
+	"гыч" Po @ADVL>
+"<шуко>"
+	"шуко" A
+	"шуко" Adv @ADVL>
+"<уым>"
+	"уым" ?
+"<пален>"
+	"палаш" V Ger Gen
+"<нална>"
+	"налаш" V Ind Prt1 Pl1 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Теве>"
+	"теве" Pcle @PCLE
+"<88>"
+	"88" ?
+"<ий>"
+	"ияш" V Imprt Sg2
+"<ончыч>"
+	"ончыч" Adv @ADVL>
+"<шочшо>"
+	"шоч" A PxSg3
+"<марла>"
+	"марла" A
+"<журнал>"
+	"журнал" N Sg Nom SUBJ> @SUBJ>
+"<кодшо>"
+	"кодшо" A
+"<ийын>"
+	"ий" Hom1 N Sg Gen @>N
+	"ий" Hom2 N Sg Gen @>N
+	"ий" Hom3 N Sg Gen @>N
+	"ийын" Adv @-FADVL>
+	"ияш" V Ger Gen @>N
+	"ияш" V Ind Prt2 Sg3 @+FMAINV
+"<лудшо-влакым>"
+	"лудаш" V Act Prc N Pl Acc @OBJ>
+	"лудшо" N Pl Acc @OBJ>
+"<шагал>"
+	"шагал" Adv @-F<ADVL
+	"шагал" Num
+"<огыл>"
+	"ок" V Neg Prt2 Sg3
+"<произведений>"
+	"произведений" N Sg Nom SUBJ> @SUBJ>
+"<дене>"
+	"дене" Po @-F<ADVL
+"<палдарен>"
+	"палдараш" V Ind Prt2 Sg3 @+FMAINV
+"<да>"
+	"да" CC
+"<тений>"
+	"тений" Adv @ADVL>
+"<икмыняр>"
+	"икмыняр" Adv @ADVL>
+	"икмыняр" Pron Ind @+FMAINV
+"<лӱмгечыжым>"
+	"лӱмгече" N Sg PxSg3 Acc @OBJ>
+"<удан>"
+	"у" Hom1 N Sg PxPl2 Gen @<ADVL
+	"удан" Adv @ADVL>
+"<огыл>"
+	"ок" V Neg Prt2 Sg3
+"<вашлиеш>"
+	"вашлияш" V Ind Prs Sg3 @+FMAINV
+"<огыл>"
+	"ок" V Neg Prt2 Sg3
+"<мо>"
+	"мо" Pron Interr Sg Nom @<SUBJ
+"<?>"
+	"?" CLB
+
+"<«>"
+	"«" ?
+"<Ончыко>"
+	"ончыко" Adv @ADVL>
+"<»>"
+	"»" ?
+"<лӱм>"
+	"лӱм" N Sg Nom SUBJ> @SUBJ>
+"<дене>"
+	"дене" Po
+"<лекташ>"
+	"лекташ" V Inf
+"<тӱҥалмыжлан>"
+	"тӱҥалаш" V Pass Prc N Sg PxSg3 Dat
+"<–>"
+	"–" PUNCT
+"<60>"
+	"60" ?
+"<,>"
+	"," CLB
+"<тылзе>"
+	"тылзе" N Sg Nom SUBJ> @SUBJ>
+"<еда>"
+	"еда" Po @-FADVL>
+	"еда" Pron Ind @+FMAINV
+"<савыкталтшыш>"
+	"саваш" Der/Caus Der/Refl V Act Prc N Sg Ill @<ADVL
+	"савыкталташ" V Act Prc N Sg Ill @<ADVL
+	"савыкташ" Hom2 Der/Refl V Act Prc N Sg Ill @<ADVL
+	"савыкташ" Hom1 Der/Refl V Act Prc N Sg Ill @<ADVL
+"<савырнымыжлан>"
+	"савырнаш" V Pass Prc N Sg PxSg3 Dat
+"<20>"
+	"20" ?
+"<ий>"
+	"ий" Hom1 N Sg Nom SUBJ> @<SUBJ
+	"ий" Hom2 N Sg Nom SUBJ> @<SUBJ
+	"ий" Hom3 N Sg Nom SUBJ> @<SUBJ
+	"ияш" V Imprt Sg2
+"<да>"
+	"да" CC
+"<тений>"
+	"тений" Adv @<ADVL
+"<гыч>"
+	"гыч" Po @<ADVL
+"<кугурак>"
+	"кугу" A Comp
+"<формат>"
+	"формат" N Sg Nom SUBJ> @<SUBJ
+	"формо" N Sg Nom Foc/at SUBJ> @<SUBJ
+"<дене>"
+	"дене" Po @<ADVL
+"<лудшо-влакым>"
+	"лудаш" V Act Prc N Pl Acc @OBJ>
+	"лудшо" N Pl Acc @OBJ>
+"<куандараш>"
+	"куандараш" V Inf
+"<тыршымыж>"
+	"тыршаш" V Pass Prc N Sg PxSg3 Nom SUBJ> @<SUBJ
+"<нерген>"
+	"нерге" Hom1 N Sg Gen @>N
+	"нерге" Hom2 N Sg Gen @>N
+	"нерге" Hom3 N Sg Gen @>N
+	"нерген" Po @ADVL>
+"<журналын>"
+	"журнал" N Sg Gen @>A
+"<тӱҥ>"
+	"тӱҥ" A
+"<редакторжо>"
+	"редактор" N Sg Nom PxSg3 SUBJ> @<SUBJ
+"<моктаныде>"
+	"моктанаш" V Ger Abe
+"<палемден>"
+	"палемдаш" V Ger Gen @>N
+"<кодыш>"
+	"код" N Sg Ill @<ADVL
+	"кодаш" V Ind Prt1 Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Вет>"
+	"вет" CC WORK
+"<тиде>"
+	"тиде" Pron Dem Sg Nom SUBJ> @SUBJ>
+"<изданийым>"
+	"изданий" N Sg Acc @OBJ>
+"<писатель>"
+	"писатель" N Sg Nom SUBJ> @SUBJ>
+"<ушемын>"
+	"ушем" N Sg Gen @>A
+	"уш" N Sg PxSg1 Gen @>A
+"<шкешотан>"
+	"шкешотан" A
+"<рупоржо>"
+	"рупор" N Sg Nom PxSg3 SUBJ> @SUBJ>
+"<семын>"
+	"сем" Hom1 N Sg Gen @ADVL>
+	"сем" Hom2 N Sg Gen @ADVL>
+	"семын" Po @ADVL>
+"<веле>"
+	"велаш" V Ind Prt1 Sg3 @+FMAINV
+	"веле" Adv
+"<огыл>"
+	"ок" V Neg Prt2 Sg3
+"<,>"
+	"," CLB
+"<сылнымут>"
+	"сылнымут" N Sg Nom SUBJ> @<SUBJ
+"<аланыш>"
+	"алан" N Sg Ill @<ADVL
+"<ушнаш>"
+	"ушнаш" V Inf
+"<кумылан>"
+	"кумылан" A
+"<самырык>"
+	"самырык" A
+"<еҥ-влакым>"
+	"еҥ" N Pl Acc @OBJ>
+"<шепкаште>"
+	"шепка" N Sg Ine @ADVL>
+"<рӱпшен>"
+	"рӱпшаш" V Ind Prt2 Sg3 @+FMAINV
+"<куштышо>"
+	"куштышо" A
+"<ача-аваж>"
+	"ача-ава" N Sg PxSg3 Nom SUBJ> @<SUBJ
+"<але>"
+	"алаш" V ConNeg
+"<марте>"
+	"марте" Po @ADVL>
+"<нигӧ>"
+	"нигӧ" Pron Ind @+FMAINV
+"<ушнен>"
+	"ушнаш" V Ger Gen
+	"ушнаш" V Ind Prt2 Sg3 @+FMAINV
+"<огыл>"
+	"ок" V Neg Prt2 Sg3
+"<.>"
+	"." CLB
+
+"<Кодшо>"
+	"кодшо" A
+"<ийысе>"
+	"ийысе" A
+	"ийысе" Hom1 A
+	"ийысе" Hom2 A
+	"ийысе" Hom3 A
+"<паша>"
+	"паша" N Sg Nom SUBJ>
+"<нерген>"
+	"нерге" Hom1 N Sg Gen @>N
+	"нерге" Hom2 N Sg Gen @>N
+	"нерге" Hom3 N Sg Gen @>N
+	"нерген" Po
+"<ойлышыжла>"
+	"ойлаш" V Act Prc N Sg PxSg3 Cmpr
+	"ойлаш" V Ger PxSg3
+	"ойлышо" N Sg PxSg3 Cmpr
+"<,>"
+	"," CLB
+"<А>"
+	"А" N ABBR
+	"а" CC
+	"ааш" V Imprt Sg2
+	"а" N ABBR
+"<.>"
+	"." CLB
+
+"<Тимиркаев>"
+	"Тимиркаев" N Prop Sg Nom SUBJ> @SUBJ>
+"<теве>"
+	"теве" Pcle @PCLE
+"<мом>"
+	"мом" Pron Interr
+	"мо" Pron Interr Sg Acc @OBJ>
+	"мо" Pron Rel Sg Acc @OBJ>
+"<палемдыш>"
+	"палемдаш" V Ind Prt1 Sg3 @+FMAINV
+	"палемдыш" N Sg Nom SUBJ> @HNOUN
+"<:>"
+	":" CLB
+"<журналын>"
+	"журнал" N Sg Gen
+"<12>"
+	"12" ?
+"<номерыштыже>"
+	"номер" N Sg Ine PxSg3 @ADVL>
+"<31>"
+	"31" ?
+"<авторын>"
+	"автор" N Sg Gen @>N
+"<прозо>"
+	"прозо" N Sg Nom SUBJ> @SUBJ>
+"<да>"
+	"да" CC
+"<почеламут>"
+	"почеламут" N Sg Nom SUBJ> @SUBJ>
+"<возаш>"
+	"возаш" A
+"<кумылан>"
+	"кумылан" A
+	"кумылан" A Der/MWN N Sg Nom SUBJ> @SUBJ>
+"<44>"
+	"44" ?
+"<еҥын>"
+	"еҥын" A
+"<произведенийышт>"
+	"произведений" N Sg PxPl3 Nom SUBJ> @SUBJ>
+"<савыкталтын>"
+	"савыкташ" Hom2 Der/Refl V Ind Prt2 Sg3 @+FMAINV
+	"саваш" Der/Caus Der/Refl V Ind Prt2 Sg3 @+FMAINV
+	"савыкташ" Hom1 Der/Refl V Ind Prt2 Sg3 @+FMAINV
+	"савыкталташ" V Ind Prt2 Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Шуко>"
+	"шуко" Adv
+	"шуко" N Sg Nom SUBJ>
+"<але>"
+	"алаш" V ConNeg
+"<шагал>"
+	"шагал" A
+	"шагал" Num @>N
+	"шагал" Adv
+	"шагал" N Sg Nom SUBJ>
+"<,>"
+	"," CLB
+"<шотлаш>"
+	"шот" N LocPl Ill @<ADVL
+	"шот" N LocPl Lat
+	"шотлаш" V Inf
+"<огына>"
+	"ок" V Neg Prs Pl1
+"<тӱҥал>"
+	"тӱҥалаш" V ConNeg
+"<.>"
+	"." CLB
+
+"<Могай>"
+	"могай" A
+"<пӱжвӱд>"
+	"пӱжвӱд" N Sg Nom SUBJ> @SUBJ>
+"<дене>"
+	"дене" Po @ADVL>
+"<нуно>"
+	"нуно" Pron
+	"тудо" Pron Pers Pl3 Nom SUBJ> @SUBJ>
+"<,>"
+	"," CLB
+"<савыктышын>"
+	"саваш" Der/Caus V Act Prc N Sg Gen @ADVL>
+	"савыкташ" Hom1 V Act Prc N Sg Gen @ADVL>
+	"савыкташ" Hom2 V Act Prc N Sg Gen @ADVL>
+	"савыктыш" N Sg Gen @ADVL>
+	"савыктыше" N Sg Gen @ADVL>
+"<лаштыклашкыже>"
+	"лаштыклашкыже" ?
+"<савырнен>"
+	"савырнаш" V Ind Prt2 Sg3 @+FMAINV
+"<,>"
+	"," CLB
+"<лудшо>"
+	"лудаш" V Act Prc N Sg Nom SUBJ> @<SUBJ
+	"лудаш" V Imprt Sg3
+	"лудшо" N Sg Nom SUBJ> @<SUBJ
+"<деке>"
+	"деке" Po @-F<ADVL
+"<миен>"
+	"мияш" V Ger Gen
+"<шуыныт>"
+	"шуаш" Hom1 V Ind Prt2 Pl3 @+FMAINV
+	"шуаш" Hom2 V Ind Prt2 Pl3 @+FMAINV
+	"шуаш" Hom3 V Ind Prt2 Pl3 @+FMAINV
+"<,>"
+	"," CLB
+"<редакций>"
+	"редакций" N Sg Nom SUBJ> @SUBJ>
+"<пашаеҥ-влак>"
+	"пашаеҥ" N Pl Nom SUBJ> @SUBJ>
+"<гына>"
+	"гына" Adv @ADVL>
+"<палат>"
+	"палаш" V Ind Prs Pl3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Тӱҥ>"
+	"тӱҥ" A
+"<редакторын>"
+	"редактор" N Sg Gen @>N
+"<ойлымыж>"
+	"ойлаш" V Pass Prc N Sg PxSg3 Nom SUBJ> @SUBJ>
+	"ойлымо" N Sg PxSg3 Nom SUBJ> @SUBJ>
+"<почеш>"
+	"поч" N Sg Lat
+	"почаш" V Ind Prs Sg3 @+FMAINV
+	"почеш" A
+	"почеш" Po @-F<ADVL
+	"почеш" N Attr @>N
+"<,>"
+	"," CLB
+"<«>"
+	"«" ?
+"<Ончыко>"
+	"ончыко" Adv @<ADVL
+"<»>"
+	"»" ?
+"<журнал>"
+	"журнал" N Sg Nom SUBJ> @<SUBJ
+"<редакцийым>"
+	"редакций" N Sg Acc @OBJ>
+"<теве>"
+	"теве" Pcle @PCLE
+"<мо>"
+	"мо" Pron Interr Sg Nom SUBJ> @SUBJ>
+	"мо" Pron Rel Sg Nom SUBJ> @SUBJ>
+	"мо" Adv @ADVL>
+"<тургыжландара>"
+	"тургыжландараш" V Ind Prs Sg3 @+FMAINV
+"<:>"
+	":" CLB
+"<прозышто>"
+	"прозо" N Sg Ine
+"<кугу>"
+	"кугу" A
+"<жанран>"
+	"жанран" A
+"<произведенийым>"
+	"произведений" N Sg Acc @OBJ>
+"<,>"
+	"," CLB
+"<романым>"
+	"роман" Hom1 N Sg Acc @OBJ>
+"<,>"
+	"," CLB
+"<витле>"
+	"витлаш" V Imprt Sg2
+"<ияш>"
+	"ия" N Sg Ill @<ADVL
+	"ия" N Sg Lat
+	"ияш" V Inf
+"<марте>"
+	"марте" Po
+"<возышо>"
+	"возаш" Hom2 V Act Prc N Sg Nom
+	"возышо" N Sg Nom
+"<йӧршын>"
+	"йӧршӧ" A Der/MWN N Sg Gen @>A
+"<уке>"
+	"уке" A
+"<.>"
+	"." CLB
+
+"<Сандене>"
+	"сандене" CC WORK
+"<лишыл>"
+	"лишыл" A
+"<ийлаште>"
+	"ий" Hom1 N LocPl Ine @ADVL>
+	"ий" Hom2 N LocPl Ine @ADVL>
+	"ий" Hom3 N LocPl Ine @ADVL>
+	"ийла" N Sg Ine @ADVL>
+"<марий>"
+	"марий" A
+"<сылнымутышто>"
+	"сылнымут" N Sg Ine @ADVL>
+"<нелылык>"
+	"нелылык" N Sg Nom SUBJ> @SUBJ>
+"<лектын>"
+	"лекташ" V Ger Gen
+"<кертеш>"
+	"керташ" Hom1 V Ind Prs Sg3 @+FMAINV
+	"керташ" Hom2 V Ind Prs Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Тидым>"
+	"тиде" Pron Dem Sg Acc @OBJ>
+"<шотыш>"
+	"шот" N Sg Ill @ADVL>
+"<налын>"
+	"налаш" V Ind Prt2 Sg3 @+FMAINV
+"<,>"
+	"," CLB
+"<Марий>"
+	"марий" A
+"<Эл>"
+	"эл" N Sg Nom SUBJ> @<SUBJ
+"<Республикым>"
+	"республик" N Sg Acc @OBJ>
+	"республика" N Sg Acc @OBJ>
+"<ыштымылан>"
+	"ышташ" V Pass Prc N Sg Dat
+"<шӱдӧ>"
+	"шӱдаш" V Ind Prt1 Sg3 @+FMAINV
+"<ий>"
+	"ий" Hom1 N Sg Nom SUBJ> @<SUBJ
+	"ий" Hom2 N Sg Nom SUBJ> @<SUBJ
+	"ий" Hom3 N Sg Nom SUBJ> @<SUBJ
+"<темме>"
+	"темаш" V Pass Prc N Sg Nom SUBJ> @<SUBJ
+"<вашеш>"
+	"вашеш" A
+"<кызытсе>"
+	"кызытсе" A
+"<саман>"
+	"саман" N Sg Nom SUBJ> @<SUBJ
+"<,>"
+	"," CLB
+"<мемнан>"
+	"мый" Pron Pers Pl1 Gen @>N
+"<жапъеҥ>"
+	"жапъеҥ" N Sg Nom SUBJ> @<SUBJ
+"<(>"
+	"(" PUNCT LEFT
+"<современник>"
+	"современник" N Sg Nom SUBJ> @<SUBJ
+"<)>"
+	")" PUNCT RIGHT
+"<->"
+	"-" PUNCT
+"<влак>"
+	"влак" ?
+"<нерген>"
+	"нерге" Hom1 N Sg Gen @>N
+	"нерге" Hom2 N Sg Gen @>N
+	"нерге" Hom3 N Sg Gen @>N
+"<романым>"
+	"роман" Hom1 N Sg Acc @OBJ>
+"<возымо>"
+	"возымо" A
+"<шотышто>"
+	"шот" N Sg Ine
+"<республиканский>"
+	"республиканский" A
+"<конкурсым>"
+	"конкурс" N Sg Acc @OBJ>
+"<увертараш>"
+	"увертараш" V Inf
+"<келшен>"
+	"келшаш" V Ind Prt2 Sg3 @+FMAINV
+"<толеш>"
+	"толаш" Hom1 V Ind Prs Sg3 @+FMAINV
+	"толь" N Sg Lat
+"<.>"
+	"." CLB
+
+"<Кок>"
+	"кок" Hom2 N Sg Nom SUBJ> @SUBJ>
+	"кок" Num Attr @>N
+"<ий>"
+	"ий" Hom1 N Sg Nom SUBJ> @SUBJ>
+	"ий" Hom2 N Sg Nom SUBJ> @SUBJ>
+	"ий" Hom3 N Sg Nom SUBJ> @SUBJ>
+"<ончыч>"
+	"ончыч" Po
+"<рушла>"
+	"рушла" Adv
+"<савыкталташ>"
+	"саваш" Der/Caus Der/Refl V Inf
+	"савыкталташ" V Inf
+	"савыкташ" Hom1 Der/Refl V Inf
+	"савыкташ" Hom2 Der/Refl V Inf
+"<тӱҥалше>"
+	"тӱҥалше" A
+"<журналын>"
+	"журнал" N Sg Gen @>N
+"<пӱрымашыж>"
+	"пӱраш" Hom1 V Der/Nom N Sg PxSg3 Nom SUBJ> @SUBJ>
+	"пӱраш" Hom2 V Der/Nom N Sg PxSg3 Nom SUBJ> @SUBJ>
+	"пӱрымаш" N Sg PxSg3 Nom SUBJ> @SUBJ>
+"<нерген>"
+	"нерге" Hom1 N Sg Gen @>A
+	"нерге" Hom2 N Sg Gen @>A
+	"нерге" Hom3 N Sg Gen @>A
+	"нерген" Po
+"<шуко>"
+	"шуко" A
+"<ойлаш>"
+	"ой" Hom1 N LocPl Ill @ADVL>
+	"ой" Hom1 N LocPl Lat
+	"ойлаш" V Inf
+"<лиеш>"
+	"лияш" V Ind Prs Sg3 @+FMAINV
+"<да>"
+	"да" CC
+"<кӱлеш>"
+	"кӱлаш" Hom1 V Ind Prs Sg3 @+FMAINV
+	"кӱлеш" N Sg Nom SUBJ> @<SUBJ
+"<ыле>"
+	"улаш" V Prt1 Sg3
+"<.>"
+	"." CLB
+
+"<Тидым>"
+	"тиде" Pron Dem Sg Acc @HNOUN
+"<А>"
+	"А" N ABBR
+	"а" CC
+	"а" N ABBR
+"<.>"
+	"." CLB
+
+"<Подольский>"
+	"Подольский" N Prop Sg Nom SUBJ> @SUBJ>
+"<ышташ>"
+	"ышташ" V Inf
+"<тӧчыш>"
+	"тӧчаш" V Ind Prt1 Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<У>"
+	"у" A
+	"у" Hom1 A
+"<журналын>"
+	"журнал" N Sg Gen
+"<лаштыклаштыже>"
+	"лаштыклаштыже" ?
+"<50>"
+	"50" ?
+"<авторын>"
+	"автор" N Sg Gen @>N
+"<произведенийже>"
+	"произведений" N Sg Nom PxSg3 SUBJ> @SUBJ>
+"<печатлалтме>"
+	"печатлалташ" V Pass Prc N Sg Nom SUBJ> @SUBJ>
+	"печатлаш" Der/Refl V Pass Prc N Sg Nom SUBJ> @SUBJ>
+"<нерген>"
+	"нерге" Hom1 N Sg Gen @>N
+	"нерге" Hom2 N Sg Gen @>N
+	"нерге" Hom3 N Sg Gen @>N
+	"нерген" Po @-FADVL>
+"<ойлышыжла>"
+	"ойлаш" V Act Prc N Sg PxSg3 Cmpr
+	"ойлаш" V Ger PxSg3
+	"ойлышо" N Sg PxSg3 Cmpr
+"<,>"
+	"," CLB
+"<марий>"
+	"марий" A
+"<сылнымутчо-влакын>"
+	"сылнымутчо" N Pl Gen @>N
+"<возымыштымат>"
+	"возаш" Hom2 V Pass Prc N Sg PxPl3 Acc Foc/at @OBJ>
+"<рушла>"
+	"рушла" A
+"<савыктымым>"
+	"саваш" Der/Caus V Pass Prc N Sg Acc @OBJ>
+	"савыкташ" Hom1 V Pass Prc N Sg Acc @OBJ>
+	"савыкташ" Hom2 V Pass Prc N Sg Acc @OBJ>
+"<палемдыш>"
+	"палемдаш" V Ind Prt1 Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Тидыже>"
+	"тидаш" V Imprt Sg3
+"<моткоч>"
+	"моткоч" Adv @<ADVL
+"<сай>"
+	"сай" A
+	"сай" Adv @<ADVL
+"<.>"
+	"." CLB
+
+"<Но>"
+	"но" CC
+	"но" Hom1 N Sg Nom SUBJ>
+"<ындыжым>"
+	"ындыжым" Adv @<ADVL
+"<саде>"
+	"са" N Sg Abe
+"<йӧнлан>"
+	"йӧн" N Sg Dat
+"<корным>"
+	"корно" N Sg Acc @OBJ>
+"<кумдаҥдыме>"
+	"кумдаҥдаш" V Pass Prc N Sg Nom SUBJ>
+"<нерген>"
+	"нерге" Hom1 N Sg Gen
+	"нерге" Hom2 N Sg Gen
+	"нерге" Hom3 N Sg Gen
+	"нерген" Po
+"<шоныман>"
+	"шонаш" V Inf Nec
+"<.>"
+	"." CLB
+
+"<Ты>"
+	"ты" Pron Dem
+"<пашашке>"
+	"паша" N Sg Ill @-FADVL>
+"<профессионал>"
+	"профессионал" N Sg Nom SUBJ>
+"<кусарыше-влакым>"
+	"кусараш" V Act Prc N Pl Acc @OBJ>
+	"кусарыше" N Pl Acc @OBJ>
+"<ушыман>"
+	"ушаш" Hom1 V Inf Nec
+	"ушаш" Hom2 V Inf Nec
+"<.>"
+	"." CLB
+
+"<Кеч-могай>"
+	"кеч-могай" A
+"<докладым>"
+	"доклад" N Sg Acc @OBJ>
+"<колыштмо>"
+	"колышташ" V Pass Prc N Sg Nom SUBJ> @SUBJ>
+"<деч>"
+	"деч" Po @-F<ADVL
+"<вара>"
+	"вара" Adv @-F<ADVL
+	"вара" Hom1 Adv @-F<ADVL
+	"вара" Hom2 N Sg Nom SUBJ> @SUBJ>
+	"вараш" V Ind Prs Sg3 @+FMAINV
+"<прений>"
+	"прений" N Sg Nom SUBJ> @<SUBJ
+"<манме>"
+	"манаш" V Pass Prc N Sg Nom SUBJ> @<SUBJ
+"<ужаш>"
+	"ужа" N Sg Ill @-F<ADVL
+	"ужа" N Sg Lat
+	"ужаш" N Sg Nom SUBJ> @SUBJ>
+	"ужаш" V Inf
+"<тӱҥалеш>"
+	"тӱҥалаш" V Ind Prs Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Лач>"
+	"лач" A
+	"лач" Hom2 N Sg Nom SUBJ> @SUBJ>
+	"лач" Adv @-FADVL>
+	"лач" Hom1 Adv @-FADVL>
+	"лач" Hom1 N Sg Nom SUBJ> @SUBJ>
+"<тыштыже>"
+	"тыштыже" ?
+"<у>"
+	"у" A
+	"у" Hom1 A
+"<шонымаш>"
+	"шонаш" V Der/Nom N Sg Nom SUBJ> @SUBJ>
+	"шонымаш" N Sg Nom SUBJ> @SUBJ>
+"<почылтеш>"
+	"почылташ" V Ind Prs Sg3 @+FMAINV
+"<,>"
+	"," CLB
+"<пашалан>"
+	"паша" N Sg Dat
+"<ак>"
+	"ак" N Sg Nom SUBJ> @SUBJ>
+"<пуалтеш>"
+	"пуалташ" V Ind Prs Sg3 @+FMAINV
+	"пуаш" Hom1 Der/Refl V Ind Prs Sg3 @+FMAINV
+	"пуаш" Hom2 Der/Refl V Ind Prs Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Теве>"
+	"теве" Pcle @PCLE
+"<сылнымутын>"
+	"сылнымут" N Sg Gen
+"<аксакалже>"
+	"аксакалже" ?
+"<,>"
+	"," CLB
+"<лӱмлӧ>"
+	"лӱмлӧ" A
+"<руш>"
+	"руш" A
+"<поэт>"
+	"поэт" N Sg Nom @HNOUN
+"<В>"
+	"В" N ABBR
+	"в" ABBR
+	"в" N ABBR
+"<.>"
+	"." CLB
+
+"<Панов>"
+	"Панов" N Prop Sg Nom SUBJ> @SUBJ>
+"<поэзий>"
+	"поэзий" N Sg Nom SUBJ> @SUBJ>
+"<аланыште>"
+	"алан" N Sg Ine
+"<тыршаш>"
+	"тыршаш" V Inf
+"<кумылаҥше-влакын>"
+	"кумылаҥаш" V Act Prc N Pl Gen @>N
+"<ситыдымашыштым>"
+	"ситаш" V Der/NomNeg N Sg PxPl3 Acc @OBJ>
+	"ситыдымаш" N Sg PxPl3 Acc @OBJ>
+"<шылтыде>"
+	"шылташ" V Ger Abe
+"<лончылыш>"
+	"лончылаш" V Ind Prt1 Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Тыгак>"
+	"тыгак" Adv @ADVL>
+	"тыгак" Pron
+"<тӱҥале>"
+	"тӱҥалаш" V Ind Prt1 Sg3 @+FMAINV
+"<:>"
+	":" CLB
+"<«>"
+	"«" ?
+"<Мый>"
+	"мый" Pron Pers Sg1 Nom SUBJ> @SUBJ>
+"<тендам>"
+	"тендам" ?
+"<ом>"
+	"ок" V Neg Prs Sg1
+"<пагале>"
+	"пагалаш" V ConNeg
+"<гын>"
+	"гын" CS
+"<,>"
+	"," CLB
+"<шинчашкыда>"
+	"шинча" N Sg PxPl2 Ill @ADVL>
+"<ончен>"
+	"ончаш" V Ind Prt2 Sg3 @+FMAINV
+"<ситыдымашдам>"
+	"ситаш" V Der/NomNeg N Sg PxPl2 Acc @OBJ>
+	"ситыдымаш" N Sg PxPl2 Acc @OBJ>
+"<ом>"
+	"ок" V Neg Prs Sg1
+"<ончыкто>"
+	"ончаш" Der/Caus V ConNeg
+	"ончыкташ" V ConNeg
+"<ыле>"
+	"улаш" V Prt1 Sg3
+"<»>"
+	"»" ?
+"<.>"
+	"." CLB
+
+"<Шоҥго>"
+	"шоҥго" A
+"<поэт>"
+	"поэт" N Sg Nom SUBJ> @SUBJ>
+"<марий>"
+	"марий" A
+"<сылнымутчо-влакым>"
+	"сылнымутчо" N Pl Acc @OBJ>
+"<произведенийышт>"
+	"произведений" N Sg PxPl3 Nom SUBJ> @SUBJ>
+"<Москошто>"
+	"Моско" N Prop Sg Ine @ADVL>
+"<,>"
+	"," CLB
+"<рӱдӧ>"
+	"рӱдӧ" N Sg Nom SUBJ> @SUBJ>
+	"рӱдаш" V Imprt Sg2
+"<изданийлаште>"
+	"изданий" N LocPl Ine @ADVL>
+"<савыкталтдымыштлан>"
+	"саваш" Der/Caus Der/Refl V Neg Prc N Sg PxPl3 Dat
+	"савыкталташ" V Neg Prc N Sg PxPl3 Dat
+	"савыкташ" Hom1 Der/Refl V Neg Prc N Sg PxPl3 Dat
+	"савыкташ" Hom2 Der/Refl V Neg Prc N Sg PxPl3 Dat
+"<шылтала>"
+	"шылталаш" V Ind Prs Sg3 @+FMAINV
+"<,>"
+	"," CLB
+"<Валентин>"
+	"Валентин" N Prop Sg Nom SUBJ> @<SUBJ
+"<Колумб>"
+	"Колумб" N Prop Sg Nom SUBJ> @<SUBJ
+"<дене>"
+	"дене" Po @ADVL>
+"<вашлийме>"
+	"вашлийме" A
+	"вашлияш" V Pass Prc N Sg Nom SUBJ> @SUBJ>
+"<,>"
+	"," CLB
+"<пашам>"
+	"паша" N Sg PxSg1 Nom SUBJ> @SUBJ>
+"<ыштыме>"
+	"ыштыме" A
+"<кечылам>"
+	"кече" N Sg PxSg1 Cmpr
+	"кечыла" N Sg Acc @OBJ>
+	"кечыла" N Sg PxSg1 Nom SUBJ> @SUBJ>
+"<шарналта>"
+	"шарналташ" V Ind Prs Sg3 @+FMAINV
+"<,>"
+	"," CLB
+"<тудын>"
+	"тудо" Pron Pers Sg3 Gen @>P
+"<семын>"
+	"сем" Hom1 N Sg Gen @>A
+	"сем" Hom2 N Sg Gen @>A
+	"семын" Po @<ADVL
+"<возаш>"
+	"возаш" A
+	"возаш" Hom2 V Inf
+"<ӱжеш>"
+	"ӱжаш" V Ind Prs Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Колышт>"
+	"колышташ" V Ger Gen
+"<шинчем>"
+	"шинчаш" Hom2 V Ind Prs Sg1 @+FMAINV
+	"шинчаш" Hom3 V Ind Prs Sg1 @+FMAINV
+"<да>"
+	"да" CC
+"<шке>"
+	"шке" Adv @>P
+	"шке" Pron Refl Nom @>P
+"<семынем>"
+	"семын" Po PxSg1 @ADVL>
+"<шонем>"
+	"шонаш" V Ind Prs Sg1 @+FMAINV
+"<:>"
+	":" CLB
+"<«>"
+	"«" ?
+"<Поэзий>"
+	"поэзий" N Sg Nom SUBJ> @SUBJ>
+"<дене>"
+	"дене" Po
+"<таҥлалташ>"
+	"таҥлалташ" V Inf
+	"таҥлаш" Der/Refl V Inf
+"<тыршыше>"
+	"тыршыше" A
+"<марий>"
+	"марий" A
+"<возкалыше-влаклан>"
+	"возкалаш" V Act Prc N Pl Dat
+	"возкалыше" N Pl Dat
+"<тыге>"
+	"тыге" Adv @ADVL>
+"<,>"
+	"," CLB
+"<шинчашкышт>"
+	"шинча" N Sg PxPl3 Ill @ADVL>
+"<ончен>"
+	"ончаш" V Ind Prt2 Sg3 @+FMAINV
+"<,>"
+	"," CLB
+"<каласен>"
+	"каласаш" V Ind Prt2 Sg3 @+FMAINV
+"<кертше>"
+	"кертше" A
+"<лӱмлӧ>"
+	"лӱмлӧ" A
+"<марий>"
+	"марий" A
+"<поэт>"
+	"поэт" N Sg Nom SUBJ> @<SUBJ
+"<кунам>"
+	"кунам" Pron Interr
+"<лиеш>"
+	"лияш" V Ind Prs Sg3 @+FMAINV
+"<?>"
+	"?" CLB
+
+"<»>"
+	"»" ?
+"<Очыни>"
+	"очыни" Pcle @PCLE
+"<,>"
+	"," CLB
+"<вучен>"
+	"вучаш" V Ind Prt2 Sg3 @+FMAINV
+"<огына>"
+	"ок" V Neg Prs Pl1
+"<шукто>"
+	"шукташ" V ConNeg
+"<.>"
+	"." CLB
+
+"<Моланжым>"
+	"Моланжым" ?
+"<рашемдаш>"
+	"рашемдаш" V Inf
+"<тӧчен>"
+	"тӧчаш" V Ind Prt2 Sg3 @+FMAINV
+"<ончем>"
+	"ончаш" V Ind Prs Sg1 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Погынымашыш>"
+	"погынаш" V Der/Nom N Sg Ill @ADVL>
+	"погынымаш" N Sg Ill @ADVL>
+"<ик>"
+	"ик" Num Attr @>N
+"<критиклитературоведат>"
+	"критиклитературоведат" ?
+"<толын>"
+	"толаш" Hom1 V Ger Gen
+	"толаш" Hom1 V Ind Prt2 Sg3 @+FMAINV
+"<огыл>"
+	"ок" V Neg Prt2 Sg3
+"<ыле>"
+	"улаш" V Prt1 Sg3
+"<—>"
+	"—" PUNCT
+"<але>"
+	"алаш" V Imprt Sg2
+"<ӱжмӧ>"
+	"ӱжаш" V Pass Prc N Sg Nom SUBJ> @<SUBJ
+"<огыл>"
+	"ок" V Neg Prt2 Sg3
+"<,>"
+	"," CLB
+"<ала>"
+	"ала" CC
+	"ала" Hom2 N Sg Nom SUBJ> @<SUBJ
+	"алаш" V Ind Prs Sg3 @+FMAINV
+"<толаш>"
+	"толаш" Hom1 V Inf
+	"толаш" Hom2 V Inf
+"<жапым>"
+	"жап" N Sg Acc @OBJ>
+"<муын>"
+	"муаш" V Ger Gen
+	"муаш" V Ind Prt2 Sg3 @+FMAINV
+"<огытыл>"
+	"ок" V Neg Prt2 Pl3
+"<,>"
+	"," CLB
+"<ала>"
+	"алаш" V Ind Prs Sg3 @+FMAINV
+"<тыгай>"
+	"тыгай" A
+"<лӱманже>"
+	"лӱман" A PxSg3
+	"лӱман" Hom1 A PxSg3
+	"лӱман" Hom2 A PxSg3
+	"лӱман" Hom3 A PxSg3
+"<коклаштына>"
+	"кокла" N Sg PxPl1 Ine @<ADVL
+"<йӧршын>"
+	"йӧршын" Adv @<ADVL
+	"йӧршӧ" A Der/MWN N Sg Gen @>A
+"<уке>"
+	"уке" A
+"<.>"
+	"." CLB
+
+"<Вет>"
+	"вет" CC WORK
+"<сылнымут>"
+	"сылнымут" N Sg Nom SUBJ> @SUBJ>
+"<журнал>"
+	"журнал" N Sg Nom SUBJ> @SUBJ>
+"<редакцийыш>"
+	"редакций" N Sg Ill @ADVL>
+"<южгунам>"
+	"южгунам" Adv @ADVL>
+	"южгунам" Pron Ind @+FMAINV
+"<могай>"
+	"могай" A
+"<качестван>"
+	"качестван" N Sg Nom SUBJ> @SUBJ>
+"<«>"
+	"«" ?
+"<почела>"
+	"почела" A
+"<мут>"
+	"мут" N Sg Nom SUBJ> @SUBJ>
+"<»>"
+	"»" ?
+"<влак>"
+	"влак" ?
+"<пурат>"
+	"пура" Hom1 N Sg Nom Foc/at SUBJ> @<SUBJ
+	"пура" Hom1 N Sg PxSg2 Nom SUBJ> @<SUBJ
+	"пура" Hom2 N Sg Nom Foc/at SUBJ> @<SUBJ
+	"пура" Hom2 N Sg PxSg2 Nom SUBJ> @<SUBJ
+	"пураш" V Ind Prs Pl3 @+FMAINV
+	"пураш" V Ind Prs Sg2 @+FMAINV
+"<,>"
+	"," CLB
+"<каласкалаш>"
+	"каласкалаш" V Inf
+"<посна>"
+	"посна" A
+"<жап>"
+	"жап" N Sg Nom SUBJ> @SUBJ>
+"<кӱлеш>"
+	"кӱлаш" Hom1 V Ind Prs Sg3 @+FMAINV
+"<.>"
+	"." CLB
+
+"<Вара>"
+	"вара" Adv @ADVL>
+	"вара" Hom1 Adv @ADVL>
+	"вараш" V Ind Prs Sg3 @+FMAINV
+"<тиде>"
+	"тиде" Pron Dem Sg Nom SUBJ> @<SUBJ
+"<але>"
+	"алаш" V ConNeg
+"<вес>"
+	"вес" A
+	"вес" Pron Ind @+FMAINV
+"<«>"
+	"«" ?
+"<поэтын>"
+	"поэт" N Sg Gen
+"<»>"
+	"»" ?
+"<лӱмжым>"
+	"лӱм" N Sg PxSg3 Acc @OBJ>
+"<журнал>"
+	"журнал" N Sg Nom SUBJ> @SUBJ>
+"<лаштыкыште>"
+	"лаштык" N Sg Ine @ADVL>
+"<ужын>"
+	"уж" N Sg Gen @<ADVL
+	"ужаш" V Ind Prt2 Sg3 @+FMAINV
+	"у" Hom1 N Sg PxSg3 Gen @<ADVL
+"<,>"
+	"," CLB
+"<лудшо>"
+	"лудшо" A
+"<еҥет>"
+	"еҥ" N Sg PxSg2 Nom SUBJ> @SUBJ>
+"<мокталта>"
+	"мокталташ" V Ind Prs Sg3 @+FMAINV
+"<:>"
+	":" CLB
+"<Пеш>"
+	"Пеш" N Prop Sg Nom @HNOUN
+	"пеш" Adv @<ADVL
+"<туге>"
+	"туге" Pcle @PCLE
+	"туге" Pron Dem
+"<да>"
+	"да" CC
+"<...>"
+	"..." CLB
+
+"<Вес>"
+	"вес" A
+	"вес" A Der/MWN N Sg Nom SUBJ>
+	"вес" Pron Ind @+FMAINV
+"<аксакална>"
+	"аксакална" ?
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<усталык>"
+	"усталык" N Sg Nom SUBJ> @<SUBJ
+"<ушем>"
+	"ушаш" Hom1 V Ind Prs Sg1 @+FMAINV
+	"ушаш" Hom2 V Ind Prs Sg1 @+FMAINV
+"<членыште>"
+	"член" N Sg Ine @<ADVL
+"<шогыдымо>"
+	"шогыдымо" A
+"<,>"
+	"," CLB
+"<лӱмлӧ>"
+	"лӱмлӧ" A
+"<писатель>"
+	"писатель" N Sg Nom @<SUBJ
+"<да>"
+	"да" CC
+"<краевед>"
+	"краевед" N Sg Nom @<SUBJ
+"<Г>"
+	"Г" N ABBR
+	"г" ABBR
+	"г" N ABBR
+"<.>"
+	"." CLB
+
+"<Зайниевын>"
+	"Зайниевын" ?
+"<,>"
+	"," CLB
+"<чыным>"
+	"чын" N Sg Acc @OBJ>
+"<шылтыде>"
+	"шылташ" V Ger Abe
+"<,>"
+	"," CLB
+"<чоным>"
+	"чон" N Sg Acc @OBJ>
+"<почын>"
+	"поч" N Sg Gen @>A
+	"почын" Adv @-FADVL>
+	"почаш" V Ind Prt2 Sg3 @+FMAINV
+"<ойлымо>"
+	"ойлымо" A
+"<шонымашыже-влакым>"
+	"шонаш" V Der/Nom N Pl PxSg3 Acc @OBJ>
+	"шонымаш" N Pl PxSg3 Acc @OBJ>
+"<рашемдыде>"
+	"рашемдаш" V Ger Abe
+"<нигузе>"
+	"нигузе" Adv @-F<ADVL
+	"нигузе" Pron Ind @+FMAINV
+"<ом>"
+	"ок" V Neg Prs Sg1
+"<керт>"
+	"керташ" Hom1 V ConNeg
+	"керташ" Hom2 V ConNeg
+"<.>"
+	"." CLB
+
+"<Гельсий>"
+	"Гельсий" ?
+"<Зайниевичын>"
+	"Зайниевичын" ?
+"<лӱмжӧ>"
+	"лӱм" N Sg Nom PxSg3 SUBJ> @SUBJ>
+"<марий>"
+	"марий" A
+"<сылнымутышто>"
+	"сылнымут" N Sg Ine @ADVL>
+"<гына>"
+	"гына" Adv @ADVL>
+"<огыл>"
+	"ок" V Neg Prt2 Sg3
+"<,>"
+	"," CLB
+"<чумыр>"
+	"чумыраш" V Ger Gen
+"<савыктыш>"
+	"саваш" Der/Caus V Ind Prt1 Sg3 @+FMAINV
+	"савыкташ" Hom1 V Ind Prt1 Sg3 @+FMAINV
+	"савыкташ" Hom2 V Ind Prt1 Sg3 @+FMAINV
+"<аланыште>"
+	"алан" N Sg Ine @<ADVL
+"<кумдан>"
+	"кумдан" Adv @<ADVL
+"<палыме>"
+	"палыме" A
+"<.>"
+	"." CLB
+
+"<Лач>"
+	"лач" Adv @ADVL>
+	"лач" Hom1 Adv @ADVL>
+"<тудлан>"
+	"тудлан" Pron Dem
+"<Писатель>"
+	"писатель" N Sg Nom SUBJ> @SUBJ>
+"<ушем>"
+	"ушаш" Hom1 V Ind Prs Sg1 @+FMAINV
+	"ушаш" Hom2 V Ind Prs Sg1 @+FMAINV
+"<80>"
+	"80" ?
+"<ияш>"
+	"ияш" A
+"<корныжым>"
+	"корно" N Sg PxSg3 Acc @OBJ>
+"<книга>"
+	"книга" A
+"<гоч>"
+	"гоч" Po @<ADVL
+"<ончыкташ>"
+	"ончаш" Der/Caus V Inf
+	"ончыкташ" V Inf
+"<ӱшанен>"
+	"ӱшанаш" V Ind Prt2 Sg3 @+FMAINV
+"<улмаш>"
+	"улаш" V Prt2 Sg3
+"<.>"
+	"." CLB
+
+"<Составитель>"
+	"Составитель" ?
+"<семын>"
+	"сем" Hom1 N Sg Gen @>N
+	"сем" Hom2 N Sg Gen @>N
+"<кузе>"
+	"кузе" Adv @<ADVL
+	"кузе" N Sg Nom SUBJ>
+	"кузе" Pron Interr
+"<пашам>"
+	"паша" N Sg PxSg1 Nom SUBJ>
+"<ыштымыже>"
+	"ышташ" V Pass Prc N Sg Nom PxSg3 SUBJ>
+	"ыштыме" A PxSg3
+"<,>"
+	"," CLB
+"<книган>"
+	"книган" A
+"<могай>"
+	"могай" A
+"<лийшашыже>"
+	"лияш" V Fut Prc N Sg PxSg3 Nom SUBJ>
+"<,>"
+	"," CLB
+"<пошкудо>"
+	"пошкудо" N Sg Nom SUBJ>
+"<калык-влакын>"
+	"калык" N Pl Gen @>A
+"<тыгаяк>"
+	"тыгай" A Foc/ak
+	"тыгаяк" A
+"<изданийыштлан>"
+	"изданий" N Sg PxPl3 Dat
+"<эҥертымыж>"
+	"эҥерташ" V Pass Prc N Sg PxSg3 Nom SUBJ>
+"<годым>"
+	"годым" Po
+"<могай>"
+	"могай" A
+"<ситыдымаш>"
+	"ситаш" V Der/NomNeg N Sg Nom
+	"ситыдымаш" N Sg Nom
+"<.>"
+	"." CLB
+
