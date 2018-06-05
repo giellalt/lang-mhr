@@ -238,6 +238,12 @@ REMOVE:Interr Rel IF (0 Interr)(*1 ("?")); #SASHA MODIFIED 3-07-2017
 
 #!! !Verbs
 
+	#!! Infinitives
+
+SELECT:uzhash Nom IF (-1 A OR Prc)(0 ("ужаш"));	# XXX get back to this.
+
+SELECT:Inf Inf IF (1 V + Ind);	# XXX get back to this.
+ 	
 #!! * __Ind__ selects Ind if no Ind to the right or to the left
 
 SELECT:Ind Ind IF (0 Ind)(*-1 DELIMITERS BARRIER Ind)(*1 DELIMITERS BARRIER Ind) ; #!! * __1SgAgr__ selects (Ind Sg1) if Pron1Sg to the right or to the left
@@ -373,15 +379,25 @@ SELECT:Dem Dem IF (0 Dem)(1 N + Nom);
 #!! * __уке__
 SELECT:AdvUke Adv IF (0 ("уке"))(1 CLB OR EOS OR ("гын"));
 
+	
 #!! !Postpositions
 
+LIST GenPost = "" ;
+LIST NomPost = "" ;
+
+SELECT:nergen Po IF (0 ("нерген"));
+	# awaiting texts with нерге = 'badger' (mäyrä)
+	
 #!! * __PoNeedsGen__ removes postposition if the word to the left is not Gen
-#REMOVE:PoNeedsGen Po IF (NOT -1 Gen);
 REMOVE:PoNeedsGen Po IF (NOT -1 Gen OR Nom);
 
 
 #!! !!Adverbs
 
+SELECT:ijyn Adv IF (-1 A)(0 ("ийын"));
+	
+SELECT:vara Adv IF (-1 ("деч"))(0 ("вара"));
+	
 SELECT:modat ("мо") IF (0 ("молан"))(*0 DAT-V OR DAT-PO OR DAT-A BARRIER CLB) ;
 
 #!! * __molan__ awaiting rules for dative verbs subcategorising for mo Dat
