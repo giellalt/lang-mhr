@@ -602,22 +602,22 @@ ProperNoun-mhr ;  !!=   @CODE@ specifically Mari names
 !! Here comes a set of ragbag continuation lexica.
 
 LEXICON CONJ_ !!= * @CODE@ TODO: why +WORK?
-+CC+WORK: # ;
++CC+WORK: ENDLEX ;
 
 LEXICON CC_ !!= * @CODE@ conjunctinos
-+CC: # ;
++CC: ENDLEX ;
 
 LEXICON CS_ !!= * @CODE@ subjunctions
-+CS: # ;
++CS: ENDLEX ;
 
 LEXICON DESCR_
 +Descr: K ;
 
 LEXICON AD-A !!= * @CODE@ also adverbs
-+Adv: # ;
++Adv: ENDLEX ;
 
 LEXICON INTERJ_ !!= * @CODE@ interjections
-+Interj: # ;
++Interj: ENDLEX ;
 
 LEXICON Puh-a/e  !!= * @CODE@  XXX do not know
 N_ ;
@@ -626,10 +626,10 @@ LEXICON Puh  !!= * @CODE@  XXX do not know
 N_ ;
 
 LEXICON PCLE_ !!= * @CODE@ particles, check these
-+Pcle: # ;
++Pcle: ENDLEX ;
 
 LEXICON X !!= * @CODE@ for N attributes
-+N+Attr: # ;
++N+Attr: ENDLEX ;
 
 
 LEXICON ENDLEX
