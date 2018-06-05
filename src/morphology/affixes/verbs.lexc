@@ -39,6 +39,8 @@ LEXICON negverb !!= @CODE@ TODO: fix
 +Ind+Prt2+Pl1:онал K ;
 +Ind+Prt2+Pl2:одал K ;
 +Ind+Prt2+Pl3:огытыл K ;
++Ind+Prt2+Pl1+Use/NG:огынал K ;
++Ind+Prt2+Pl2+Use/NG:огыдал K ;
 
 +Imprt+Sg2:ит K ;
 +Imprt+Pl2:ида K ;
@@ -77,6 +79,10 @@ LEXICON ulasj
 +Ind+Prt2+Pl1:улынна K ;
 +Ind+Prt2+Pl2:улында K ;
 +Ind+Prt2+Pl3:улыныт K ;
+
++Neg+Ind+Prt2+Sg2+Use/NG:отыл K ; ! 
++Neg+Ind+Prt2+Pl2+Use/NG:одал K ;
++Neg+Ind+Prt2+Pl2+Use/NG:огыдал K ;
 
 !LEXICON V-AUX_  !!= @CODE@ TODO: fix
 !+V+Aux: # ;
