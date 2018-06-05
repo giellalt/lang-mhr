@@ -44,6 +44,26 @@
 
   <e>
     <lg>
+      <l pos="Interj">а-а</l>
+
+      <stg>
+        <st Contlex="INTERJ_">а-а</st>
+      </stg>
+
+      <stress>а-а</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Interj">а-а-а</l>
 
       <stg>
