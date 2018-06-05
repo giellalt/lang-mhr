@@ -1,3 +1,7 @@
+
+
+
+
 This is the Eastern Mari disambiguation file. It chooses
 the correct morphological analyses in any given sentence context.
 
@@ -135,6 +139,13 @@ Coll
 Ord
 Temp (?)
 
+
+!Particles
+Qst
+Foc
+
+
+
 !Punctuation marks
 
 CLB
@@ -146,21 +157,22 @@ COMMA
 !Derivation tags
 Der/MWN
 Der/sa
-
-!Particles
-Qst
-Foc
-
+Der/Pur
+Der/Caus
+Der/Nom
 
 !Tags for internal testing
 CmpTest
 Err
+
+
 
 !!Sets
 
 * __CASE__ = all cases
 * __OBLCASE__ = All cases except Nom
 * __VFIN__ = All moods
+
 
 
 
@@ -260,6 +272,7 @@ Adjectives
 
 !Derivations
 
+
 * __RemDerMWN1__ removes Der/MWN if N is an option
 
 * __RemDerMWN2__ removes Der/MWN if N to the right
@@ -354,6 +367,8 @@ Adjectives
 !Predicative
 
 __AifVövny__ selects A if вӧвны somewhere to the left
+
+
 
 
 
