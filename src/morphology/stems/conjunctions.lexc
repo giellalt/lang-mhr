@@ -9,7 +9,7 @@ LEXICON conjunctions
 гын:гын CS_  "jos; koska; sen sijaan K" ;
 гынат:гынат CS_  "joskin" ;
 да:да CC_  "ja; mutta" ;
-даже:даже CONJ_  "" ;
+даже:даж%{еы%} CONJ_  "" ;
 ден:ден CC_  "(vain nominien rinnastus) ja K" ;
 дык:дык CS_  "jos K" ;
 если:если CS_  "" ;
@@ -30,7 +30,7 @@ LEXICON conjunctions
 садиктак:садиктак K  "yhtä kaikki K" ;
 садлан:садлан CONJ_  "" ;
 санден:санден CONJ_  "" ;
-сандене:сандене CONJ_  "" ;
+сандене:санден%{еы%} CONJ_  "" ;
 теве:тев%{еы%} CC_  "milloin ... milloin ..." ;
 то:то CONJ_  "" ;
 тольке:тольк%{еы%} CS_  "mutta K" ;

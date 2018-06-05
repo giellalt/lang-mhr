@@ -26,7 +26,7 @@ LEXICON numbers
 икымше:и•кымш%{еы%} KvO  "ensimmäinen KvO" ;
 икыт:и•кыт KvK  "" ;
 индеш:индеш KvK_ATTR  "yhdeksän KvK" ;
-индеше:инде•ше KvK  "yhdeksän KvO" ;
+индеше:инде•ш%{еы%} KvK  "yhdeksän KvO" ;
 индешле:инде•шл%{еы%} KvK  "" ;
 индешлу:индешлу KvO  "yhdeksänkymmentä KvO" ;
 индешлуымше:индешлуымш%{еы%} KvO  "yhdeksäskymmenes KvK" ;
@@ -45,7 +45,7 @@ LEXICON numbers
 кандашшӱдымшӧ:кандашшӱ•дымш%{ӧы%} KvO  "kahdeksassadas" ;
 кандашшӱдӧ:кандашшӱ•д%{ӧы%} KvK  "kahdeksansataa" ;
 кандашымше:канда•шымш%{еы%} KvO  "" ;
-кандашымше:кандашымше QNT_  "" ;
+кандашымше:кандашымш%{еы%} QNT_  "" ;
 кандашын:кандашын KvKoll  "kahdeksastaan KvKoll" ;
 кандаымше:кандаымш%{еы%} KvO  "kahdeksas KvO" ;
 когыньышт:ко•гы NUM-COLL_2-3  "" ;
@@ -137,7 +137,7 @@ LEXICON numbers
 осьмушка:осьмушка KvMurt  "kahdeksannes KvMurt" ;
 пеле:пел%{еы%} KvMurt  "puoli KvMurt" ;
 первый:пе•рвый KvO  "ensimmäinen KvO" ;
-тесте:тесте Kv-a/e  "kymmenen KvK" ;
+тесте:тест%{еы%} Kv-a/e  "kymmenen KvK" ;
 тестелен:тестелен KvKoll  "kymmenittäin KvKoll" ;
 триллион:триллио•н KvK  "triljoona KvK" ;
 тӱжем:тӱже•м KvK  "tuhat KvK" ;
