@@ -376,6 +376,7 @@ SELECT:AdvUke Adv IF (0 ("уке"))(1 CLB OR EOS OR ("гын"));
 #!! !Postpositions
 
 #!! * __PoNeedsGen__ removes postposition if the word to the left is not Gen
+#REMOVE:PoNeedsGen Po IF (NOT -1 Gen);
 REMOVE:PoNeedsGen Po IF (NOT -1 Gen OR Nom);
 
 
