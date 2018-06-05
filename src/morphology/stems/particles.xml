@@ -10,7 +10,7 @@
       <l pos="Pcle">теве</l>
 
       <stg>
-        <st Contlex="PCLE_">теве</st>
+        <st Contlex="PCLE_">тев%{еы%}</st>
       </stg>
 
       <stress>те•ве</stress>
@@ -154,7 +154,7 @@
       <l pos="Pcle">акыре</l>
 
       <stg>
-        <st Contlex="PCLE_">акыре</st>
+        <st Contlex="PCLE_">акыр%{еы%}</st>
       </stg>
 
       <stress>акыре•</stress>
@@ -224,7 +224,7 @@
       <l pos="Pcle">але</l>
 
       <stg>
-        <st Contlex="PCLE_">але</st>
+        <st Contlex="PCLE_">ал%{еы%}</st>
       </stg>
 
       <stress>а•ле</stress>
@@ -284,7 +284,7 @@
       <l pos="Pcle">ане</l>
 
       <stg>
-        <st Contlex="Pmuu">ане</st>
+        <st Contlex="Pmuu">ан%{еы%}</st>
       </stg>
 
       <stress>а•не</stress>
@@ -538,7 +538,7 @@
       <l pos="Pcle">витне</l>
 
       <stg>
-        <st Contlex="PCLE_">витне</st>
+        <st Contlex="PCLE_">витн%{еы%}</st>
       </stg>
 
       <stress>ви•тне</stress>
@@ -558,7 +558,7 @@
       <l pos="Pcle">вообще</l>
 
       <stg>
-        <st Contlex="PCLE_">вообще</st>
+        <st Contlex="PCLE_">вообщ%{еы%}</st>
       </stg>
 
       <stress>во•обще</stress>
@@ -970,7 +970,7 @@
       <l pos="Pcle">даже</l>
 
       <stg>
-        <st Contlex="PCLE_">даже</st>
+        <st Contlex="PCLE_">даж%{еы%}</st>
       </stg>
 
       <stress>да•же</stress>
@@ -1088,7 +1088,7 @@
       <l pos="Pcle">жалке</l>
 
       <stg>
-        <st Contlex="PCLE_">жалке</st>
+        <st Contlex="PCLE_">жалк%{еы%}</st>
       </stg>
 
       <stress>жа•лке</stress>
@@ -1138,7 +1138,7 @@
       <l pos="Pcle">иже</l>
 
       <stg>
-        <st Contlex="PCLE_">иже</st>
+        <st Contlex="PCLE_">иж%{еы%}</st>
       </stg>
 
       <stress>и•же</stress>
@@ -1178,7 +1178,7 @@
       <l pos="Pcle">ите</l>
 
       <stg>
-        <st Contlex="PCLE_">ите</st>
+        <st Contlex="PCLE_">ит%{еы%}</st>
       </stg>
 
       <stress>и•те</stress>
@@ -1602,7 +1602,7 @@
       <l pos="Pcle">конешне</l>
 
       <stg>
-        <st Contlex="PCLE_">конешне</st>
+        <st Contlex="PCLE_">конешн%{еы%}</st>
       </stg>
 
       <stress>коне•шне</stress>
@@ -2338,7 +2338,7 @@
       <l pos="Pcle">наверне</l>
 
       <stg>
-        <st Contlex="PCLE_">наверне</st>
+        <st Contlex="PCLE_">наверн%{еы%}</st>
       </stg>
 
       <stress>наве•рне</stress>
@@ -2388,7 +2388,7 @@
       <l pos="Pcle">нечыве</l>
 
       <stg>
-        <st Contlex="PCLE_">нечыве</st>
+        <st Contlex="PCLE_">нечыв%{еы%}</st>
       </stg>
 
       <stress>не•чыве</stress>
@@ -2562,7 +2562,7 @@
       <l pos="Pcle">пожале</l>
 
       <stg>
-        <st Contlex="PCLE_">пожале</st>
+        <st Contlex="PCLE_">пожал%{еы%}</st>
       </stg>
 
       <stress>пожа•ле</stress>
@@ -2750,7 +2750,7 @@
       <l pos="Pcle">райзе</l>
 
       <stg>
-        <st Contlex="Pmuu">райзе</st>
+        <st Contlex="Pmuu">райз%{еы%}</st>
       </stg>
     </lg>
 
@@ -2854,7 +2854,7 @@
       <l pos="Pcle">садыге</l>
 
       <stg>
-        <st Contlex="PCLE_">садыге</st>
+        <st Contlex="PCLE_">садыг%{еы%}</st>
       </stg>
 
       <stress>са•дыге</stress>
@@ -2984,7 +2984,7 @@
       <l pos="Pcle">теве-теве</l>
 
       <stg>
-        <st Contlex="PCLE_">те•ве-теве</st>
+        <st Contlex="PCLE_">те•ве-тев%{еы%}</st>
       </stg>
 
       <stress>те•ве-те•ве</stress>
@@ -3144,7 +3144,7 @@
       <l pos="Pcle">туге</l>
 
       <stg>
-        <st Contlex="PCLE_">туге</st>
+        <st Contlex="PCLE_">туг%{еы%}</st>
       </stg>
 
       <stress>туге•</stress>
@@ -3708,7 +3708,7 @@
       <l pos="Pcle">шыве-шыве</l>
 
       <stg>
-        <st Contlex="Pmuu">шыве-шыве</st>
+        <st Contlex="Pmuu">шыве-шыв%{еы%}</st>
       </stg>
     </lg>
 
