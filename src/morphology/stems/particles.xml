@@ -2172,16 +2172,15 @@
       </tg>
     </mg>
   </e>
-<!--
   <e>
     <lg>
-      <l pos="Pcle">мо</l>
+      <l pos="Pcle">ма</l>
 
       <stg>
-        <st Contlex="PCLE_">мо</st>
+        <st Contlex="PCLE_">ма</st>
       </stg>
 
-      <stress>мо</stress>
+      <stress>ма</stress>
     </lg>
 
     <mg>
@@ -2192,7 +2191,7 @@
       </tg>
     </mg>
   </e>
--->
+
   <e>
     <lg>
       <l pos="Pcle">мо-мо</l>
