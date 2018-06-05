@@ -1,7 +1,6 @@
 
 LEXICON verbs
 
-ааш:а V_em-1SYLL  "noudattaa (tapoja)" ;
 авалаш:авал V_em  "" ;
 авалташ:авалт V_am-N  "" ;
 авалташ:авалт V_em  "ottaa (kouraan); ympäröidä; kannattaa" ;
@@ -208,7 +207,7 @@ LEXICON verbs
 аярташ:аярт V_em-1SYLL  "syöttää; ärsyttää; myrkyttää" ;
 аяртылаш:аяртыл V_am-N  "" ;
 аяш+Hom1:ай V_em-1SYLL-j  "" ;
-аяш+Hom2:ай V_em-1SYLL-j  "" ;
+аяш+Hom2:ай V_em-1SYLL-j  "noudattaa (tapoja)" ;
 аҥалаш:аҥал V_em  "" ;
 аҥгасланаш:аҥгаслан V_em  "" ;
 аҥгаш+Hom1:аҥг V_em-1SYLL  "löyhkätä" ;
@@ -1401,7 +1400,7 @@ LEXICON verbs
 калькироватлаш:калькироватл V_em  "" ;
 кальцияҥаш:кальцияҥ V_am-N  "" ;
 кальцияҥдаш:кальцияҥд V_em  "" ;
-камвозаш:кам#воз2 V_am-N  "pudota, kaatua" ;
+камвозаш:камвоз2 V_am-N  "pudota, kaatua" ;
 камвозедаш:камвозед V_em  "" ;
 камвозыкташ:камвозыкт V_em  "pudottaa, kaataa" ;
 каналташ:каналт V_em  "levähtää" ;
