@@ -69,24 +69,20 @@ LEXICON TUDO !!= * @CODE@
 +Pers+Pl3+Cmpr:нуныла # ;
 
 LEXICON TIDE !!= * @CODE@ 
-+Dem+Sg+Nom:тиде K_at ;
++Dem+Sg+Nom:тид%{еы%} K_at ;
 +Dem+Sg+Gen:тидын K_at ;
 +Sg+Der/Poss:тидын N-ava_01_obl ;
 +Dem+Sg+Acc:тидым K_at ;
 +Dem+Sg+Dat:тидлан K_at;
 +Dem+Sg+Com:тидыге # ;
 +Dem+Sg+Cmpr:тидыла # ;
-+Dem+Pl+Nom:нине K_at ;
-+Dem+Pl+Gen:нинын K_at ;
-+Pl+Der/Poss:нинын N-ava_01_obl ;
-+Dem+Pl+Acc:ниным K_at ;
-+Dem+Pl+Dat:нинылан K_at;
-+Dem+Pl+Com:ниныге # ;
++Dem+Pl+Nom:нин%{еы%} K_at ;
 +Dem+Pl+Cmpr:ниныла # ;
 
 LEXICON SHKE !!= * @CODE@ 
 +Nom:шке K_at ;
-+Nom+PxSg3:шкеже K_at ;
++Nom+PxSg3:шкеж%{еы%} K_at ;
++Nom+PxSg3+Use/NG:шкеж ENDLEX ;
 +Nom+PxPl3:шкешт K_at ;
 
 +Gen+PxSg1:шкемын K_at ;
@@ -102,8 +98,8 @@ LEXICON SHKE !!= * @CODE@
 +Gen+PxSg3:шкенжын K_at ;
 +PxSg3+Der/Poss:шкенжын N-ava_01_obl ;
 +Acc+PxSg3:шкенжым K_at ;
-+Dat+PxSg3:шканже K_at;
-+Dat+PxSg3+Use/NG:шкаланже K_at;
++Dat+PxSg3:шканж%{еы%} K_at;
++Dat+PxSg3+Use/NG:шкаланж%{еы%} K_at;
 +Gen+PxPl1:шкенан K_at ;
 +PxPl1+Der/Poss:шкенан N-ava_01_obl ;
 +Acc+PxPl1:шкенам K_at ;
