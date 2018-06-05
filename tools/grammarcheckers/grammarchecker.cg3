@@ -281,7 +281,7 @@ LIST &err-orrood-inf = &err-orrood-inf ;
 LIST &err-ext-agr = &err-ext-agr ;
 LIST &err-ext-vagr = &err-ext-vagr ;
 LIST &err--conneg-not-3rdsg = &err-conneg-not-3rdsg ;
-
+LIST &err-gen-po = &err-gen-po ;
 
 MAPPING-PREFIX = & ;
 
@@ -329,7 +329,14 @@ COPY:attr-not-pred (Attr &SUGGEST) EXCEPT (Sg) TARGET (&attr-not-pred) ;
 # tag too – &-prefixed error tags are ignored when generating, but
 # used to create human-readable messages.
 
-
+LIST NomPost = "ваштареш" ;
+	
+ADD:err-gen-po (&err-gen-po) TARGET Po IF (-1 N + Gen)(0 NomPost);	
+	#$ окнан ваштареш *
+	## мемнан ваштареш ok 
+	## окна ваштареш ok
+	## окналан ваштареш ok
+	
 #!! ! NP internal rules
 
 
@@ -342,3 +349,4 @@ COPY:right-guillemet ("»" &SUGGEST) EXCEPT (""") TARGET (&guillemets) ;
 
 ADD:use-ellipsis (&ellipsis) TARGET ("...");
 COPY:use-ellipsis ("…" &SUGGEST) EXCEPT ("...") TARGET (&ellipsis) ;
+
