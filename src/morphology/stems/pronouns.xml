@@ -47,7 +47,7 @@
       <l pos="Pron">ала-кузе</l>
 
       <stg>
-        <st Contlex="PronInd">ала-кузе</st>
+        <st Contlex="PronInd">ала-куз%{еы%}</st>
       </stg>
 
       <stress>ала-кузе•</stress>
@@ -107,7 +107,7 @@
       <l pos="Pron">ала-кунамсе</l>
 
       <stg>
-        <st Contlex="PRON_">ала-кунамсе</st>
+        <st Contlex="PRON_">ала-кунамс%{еы%}</st>
       </stg>
 
       <stress>ала-куна•мсе</stress>
@@ -321,7 +321,7 @@
       <l pos="Pron">ала-куҥге</l>
 
       <stg>
-        <st Contlex="PRON_">ала-куҥге</st>
+        <st Contlex="PRON_">ала-куҥг%{еы%}</st>
       </stg>
 
       <stress>ала-куҥге•</stress>
@@ -538,7 +538,7 @@
       <l pos="Pron">ала-мыняре</l>
 
       <stg>
-        <st Contlex="PRON_">ала-мыняре</st>
+        <st Contlex="PRON_">ала-мыняр%{еы%}</st>
       </stg>
 
       <stress>ала-мыня•ре</stress>
@@ -616,7 +616,7 @@
       <l pos="Pron">вийге</l>
 
       <stg>
-        <st Contlex="PRON_">вийге</st>
+        <st Contlex="PRON_">вийг%{еы%}</st>
       </stg>
 
       <stress>вийге</stress>
@@ -773,7 +773,7 @@
       <l pos="Pron">иктаж-кузе</l>
 
       <stg>
-        <st Contlex="PronInd">иктаж-кузе</st>
+        <st Contlex="PronInd">иктаж-куз%{еы%}</st>
       </stg>
     </lg>
 
@@ -1049,7 +1049,7 @@
       <l pos="Pron">иктаж-кузе</l>
 
       <stg>
-        <st Contlex="PRON_">икта•ж-кузе</st>
+        <st Contlex="PRON_">икта•ж-куз%{еы%}</st>
       </stg>
 
       <stress>икта•ж-кузе•</stress>
@@ -1289,7 +1289,7 @@
       <l pos="Pron">иктаж-мыняре</l>
 
       <stg>
-        <st Contlex="PRON_">икта•ж-мыняре</st>
+        <st Contlex="PRON_">икта•ж-мыняр%{еы%}</st>
       </stg>
 
       <stress>икта•ж-мыня•ре</stress>
@@ -1367,7 +1367,7 @@
       <l pos="Pron">иктыже</l>
 
       <stg>
-        <st Contlex="PRON_">иктыже</st>
+        <st Contlex="PRON_">иктыж%{еы%}</st>
       </stg>
 
       <stress>и•ктыже</stress>
@@ -1387,7 +1387,7 @@
       <l pos="Pron">икте-весе</l>
 
       <stg>
-        <st Contlex="PRON_">и•кте-весе</st>
+        <st Contlex="PRON_">и•кте-вес%{еы%}</st>
       </stg>
 
       <stress>и•кте-ве•се</stress>
@@ -1465,7 +1465,7 @@
       <l pos="Pron">керек-кузе</l>
 
       <stg>
-        <st Contlex="PronInd">керек-кузе</st>
+        <st Contlex="PronInd">керек-куз%{еы%}</st>
       </stg>
 
       <stress>керек-кузе•</stress>
@@ -1741,7 +1741,7 @@
       <l pos="Pron">керек-мыняре</l>
 
       <stg>
-        <st Contlex="PRON_">керек-мыняре</st>
+        <st Contlex="PRON_">керек-мыняр%{еы%}</st>
       </stg>
 
       <stress>керек-мыня•ре</stress>
@@ -1839,7 +1839,7 @@
       <l pos="Pron">кеч-кузе</l>
 
       <stg>
-        <st Contlex="PronInd">кеч-кузе</st>
+        <st Contlex="PronInd">кеч-куз%{еы%}</st>
       </stg>
 
       <stress>кеч-кузе•</stress>
@@ -2193,7 +2193,7 @@
       <l pos="Pron">кеч-мыняре</l>
 
       <stg>
-        <st Contlex="PRON_">кеч-мыняре</st>
+        <st Contlex="PRON_">кеч-мыняр%{еы%}</st>
       </stg>
 
       <stress>кеч-мыня•ре</stress>
@@ -2401,7 +2401,7 @@
       <l pos="Pron">кудо-тиде</l>
 
       <stg>
-        <st Contlex="PRON_">кудо-тиде</st>
+        <st Contlex="PRON_">кудо-тид%{еы%}</st>
       </stg>
 
       <stress>кудо-тиде</stress>
@@ -2441,7 +2441,7 @@
       <l pos="Pron">кузе</l>
 
       <stg>
-        <st Contlex="PronIR">кузе</st>
+        <st Contlex="PronIR">куз%{еы%}</st>
       </stg>
 
       <stress>кузе•</stress>
@@ -2596,7 +2596,7 @@
       <l pos="Pron">кунамсе</l>
 
       <stg>
-        <st Contlex="PRON_">кунамсе</st>
+        <st Contlex="PRON_">кунамс%{еы%}</st>
       </stg>
 
       <stress>куна•мсе</stress>
@@ -3158,7 +3158,7 @@
       <l pos="Pron">кудо-икте</l>
 
       <stg>
-        <st Contlex="PRON_">ку•до-икте</st>
+        <st Contlex="PRON_">ку•до-икт%{еы%}</st>
       </stg>
 
       <stress>ку•до-и•кте</stress>
@@ -3783,7 +3783,7 @@
       <l pos="Pron">молгунамсе</l>
 
       <stg>
-        <st Contlex="PRON_">молгунамсе</st>
+        <st Contlex="PRON_">молгунамс%{еы%}</st>
       </stg>
 
       <stress>молгуна•мсе</stress>
@@ -4261,7 +4261,7 @@
       <l pos="Pron">нигузе</l>
 
       <stg>
-        <st Contlex="PronInd">нигузе</st>
+        <st Contlex="PronInd">нигуз%{еы%}</st>
       </stg>
 
       <stress>нигузе•</stress>
@@ -4339,7 +4339,7 @@
       <l pos="Pron">нигунаре</l>
 
       <stg>
-        <st Contlex="PRON_">нигунаре</st>
+        <st Contlex="PRON_">нигунар%{еы%}</st>
       </stg>
 
       <stress>нигуна•ре</stress>
@@ -4871,7 +4871,7 @@
       <l pos="Pron">седыге</l>
 
       <stg>
-        <st Contlex="PRON_">седыге</st>
+        <st Contlex="PRON_">седыг%{еы%}</st>
       </stg>
 
       <stress>седыге</stress>
@@ -5247,7 +5247,7 @@
       <l pos="Pron">туге</l>
 
       <stg>
-        <st Contlex="PronDem">туге</st>
+        <st Contlex="PronDem">туг%{еы%}</st>
       </stg>
 
       <stress>туге•</stress>
@@ -5327,7 +5327,7 @@
       <l pos="Pron">тугудеште</l>
 
       <stg>
-        <st Contlex="PRON_">тугудеште</st>
+        <st Contlex="PRON_">тугудешт%{еы%}</st>
       </stg>
 
       <stress>тугуде•ште</stress>
@@ -5347,7 +5347,7 @@
       <l pos="Pron">тугутлаште</l>
 
       <stg>
-        <st Contlex="PRON_">тугутлаште</st>
+        <st Contlex="PRON_">тугутлашт%{еы%}</st>
       </stg>
 
       <stress>тугутла•ште</stress>
@@ -5563,7 +5563,7 @@
       <l pos="Pron">тумарте</l>
 
       <stg>
-        <st Contlex="PRON_">тумарте</st>
+        <st Contlex="PRON_">тумарт%{еы%}</st>
       </stg>
 
       <stress>тума•рте</stress>
@@ -5623,7 +5623,7 @@
       <l pos="Pron">тунамсе</l>
 
       <stg>
-        <st Contlex="PRON_">тунамсе</st>
+        <st Contlex="PRON_">тунамс%{еы%}</st>
       </stg>
 
       <stress>туна•мсе</stress>
@@ -6294,7 +6294,7 @@
       <l pos="Pron">тыге-туге</l>
 
       <stg>
-        <st Contlex="PRON_">тыге•-туге</st>
+        <st Contlex="PRON_">тыге•-туг%{еы%}</st>
       </stg>
 
       <stress>тыге•-туге•</stress>
@@ -6394,7 +6394,7 @@
       <l pos="Pron">тыгудеште</l>
 
       <stg>
-        <st Contlex="PRON_">тыгудеште</st>
+        <st Contlex="PRON_">тыгудешт%{еы%}</st>
       </stg>
 
       <stress>тыгуде•ште</stress>
@@ -6414,7 +6414,7 @@
       <l pos="Pron">тыгутлаште</l>
 
       <stg>
-        <st Contlex="PRON_">тыгутлаште</st>
+        <st Contlex="PRON_">тыгутлашт%{еы%}</st>
       </stg>
 
       <stress>тыгутла•ште</stress>
@@ -6573,7 +6573,7 @@
       <l pos="Pron">тымарте</l>
 
       <stg>
-        <st Contlex="PRON_">тымарте</st>
+        <st Contlex="PRON_">тымарт%{еы%}</st>
       </stg>
 
       <stress>тыма•рте</stress>
@@ -6671,7 +6671,7 @@
       <l pos="Pron">тысе</l>
 
       <stg>
-        <st Contlex="PRON_">тысе</st>
+        <st Contlex="PRON_">тыс%{еы%}</st>
       </stg>
 
       <stress>ты•се</stress>
@@ -7043,7 +7043,7 @@
       <l pos="Pron">тышсе</l>
 
       <stg>
-        <st Contlex="PRON_">тышсе</st>
+        <st Contlex="PRON_">тышс%{еы%}</st>
       </stg>
 
       <stress>тышсе</stress>
@@ -7250,7 +7250,7 @@
       <l pos="Pron">чыланже</l>
 
       <stg>
-        <st Contlex="PRON_">чыланже</st>
+        <st Contlex="PRON_">чыланж%{еы%}</st>
       </stg>
 
       <stress>чыла•нже</stress>
@@ -7486,7 +7486,7 @@
       <l pos="Pron">шке</l>
 
       <stg>
-        <st Contlex="PronRef">шке</st>
+        <st Contlex="PronRef">шк%{еы%}</st>
       </stg>
 
       <stress>шке</stress>
@@ -7802,7 +7802,7 @@
       <l pos="Pron">южгунамже</l>
 
       <stg>
-        <st Contlex="PRON_">южгунамже</st>
+        <st Contlex="PRON_">южгунамж%{еы%}</st>
       </stg>
 
       <stress>южгуна•мже</stress>
@@ -7860,7 +7860,7 @@
       <l pos="Pron">южикте</l>
 
       <stg>
-        <st Contlex="PRON_">южикте</st>
+        <st Contlex="PRON_">южикт%{еы%}</st>
       </stg>
 
       <stress>южи•кте</stress>
