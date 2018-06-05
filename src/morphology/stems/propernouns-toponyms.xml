@@ -1303,6 +1303,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Йошкар-Ола</l>
      <stg>
        <st Contlex="PROP-PLC_">Йошка•р-Ола•</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Йошка•р-ола•</st>
      </stg> <stress>Йошка•р-Ола•</stress>
    </lg>
    <mg> <defNative/>
