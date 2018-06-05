@@ -63,7 +63,10 @@ LEXICON ulasj
 +Ind+Prs+Pl3:улыт K ;
 +Ind+Prt1+Sg1:ыльым K ;
 +Ind+Prt1+Sg2:ыльыч K ;
-+Ind+Prt1+Sg3:ыл%>%{ь0%}Ы2 K ;
++Ind+Prt1+Sg3:ыле ENDLEX ;
++Ind+Prt1+Sg3+Foc/ak:ыляк  ENDLEX ;
++Ind+Prt1+Sg3+Foc/at:ылят ENDLEX ;
++Ind+Prt1+Sg3+Foc/ys:ыльыс ENDLEX ;
 +Ind+Prt1+Pl1:ыльна K ;
 +Ind+Prt1+Pl2:ыльда K ;
 +Ind+Prt1+Pl3:ыльыч K ;
