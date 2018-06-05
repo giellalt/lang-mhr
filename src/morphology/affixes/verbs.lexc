@@ -25,20 +25,33 @@ LEXICON negverb !!= @CODE@ TODO: fix
 +Prs+Pl2:ода K ;
 +Prs+Pl2+Use/NG:огыда K ;
 +Prs+Pl3:огыт K ;
+
 +Prt1+Sg1:шым K ;
 +Prt1+Sg2:шыч K ;
 +Prt1+Sg3:ыш K ;
 +Prt1+Pl1:ышна K ;
-+Prt1+Pl2:ышта K ;
++Prt1+Pl2:ышда K ;
 +Prt1+Pl3:ышт K ;
+
 +Prt2+Sg1:омыл K ;
 +Prt2+Sg2:отыл K ;
 +Prt2+Sg3:огыл K ;
 +Prt2+Pl1:онал K ;
 +Prt2+Pl2:одал K ;
 +Prt2+Pl3:огытыл K ;
+
 +Imprt+Sg2:ит K ;
 +Imprt+Pl2:ида K ;
++Imprt+Sg3:ынже K ;
++Imprt+Pl3:ынышт K ;
+
++Des+Sg1:ынем K ;
++Des+Sg2:ынет K ;
++Des+Sg3:ынеж K ;
++Des+Sg3+Use/NG:ынеже K ;
++Des+Pl1:ынена K ;
++Des+Pl2:ынеда K ;
++Des+Pl3:ынешт K ;
 
 LEXICON ulasj
 +Inf:улаш K ;
