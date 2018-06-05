@@ -1,0 +1,26 @@
+Some issues we still need to fix, beyond working our way down the list:
+
+1) As regards alternation in connegative forms, see the new yaml file V-odd-stems.yaml
+
+2) We definitely overshot the goal when allowing for е > ы shifts in word-final position. We do NOT want this change to happen in the following cases:
+
+* No other vowels in word (e.g. шке, ме, те > шкеат, меат, теат)
+* Words in ье (e.g. пятиборье > пятиборьеат) - but NOT кискалʼе (> кискалят) etc.
+* Words were stressed vowel is о or у (e.g. караоке > караокеат)
+
+3) Some oddities in the Lexicon:
+* A lot of vowel harmony-violating forms from Finnish dictionary in there - коляшӱлье etc.
+* ё became е in Finnish dictionary, thus сырьё became сырье > lots of problems
+
+4) as regards alternation пу 'wood' > пун ~ пуын, пушто ~ пуышто, etc.
+
+"-н after vowels. Unstressed final -е, -о, and -ӧ of the base word are reduced and become -ы.
+In older sources, some alternation can be found in the case of monosyllabic stems ending
+in -у, -ӱ, and -ю: here, a thematic -ы- occurred on occasion, e.g., ю ‘magic’ → юн ~ юын.
+Modern stylistic guidelines discourage the usage of a thematic vowel here."
+
+"-штЕ after vowels. Unstressed final -е, -о, and -ӧ of the base word are reduced and
+become -ы. In older sources, some alternation can be found in the case of monosyllabic
+stems ending in -у, -ӱ, and -ю: here, a thematic -ы- occurred on occasion, e.g., ю ‘magic’ →
+юшто ~ юышто. Modern stylistic guidelines discourage the usage of a thematic vowel
+here"
