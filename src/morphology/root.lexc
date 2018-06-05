@@ -590,6 +590,8 @@ Exceptions ;  !!= * @CODE@
  
 urj-Cyrl-ProperNouns ;  !!=   @CODE@ 
 
+ProperNoun-mhr ;  !!=   @CODE@ specifically Mari names
+
 ! wordToNumeral	; !This has been moved to GTLANG/src/transcriptions/numbers.lexc
 
 
