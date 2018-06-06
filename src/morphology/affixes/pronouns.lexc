@@ -15,6 +15,12 @@ LEXICON pronouns_not_from_xml !!= * @CODE@
 ала-кӧ:ала-кӧ PRON-INDEF ;
 керек-мо:керек-мо PRON-INDEF ;
 керек-кӧ:керек-кӧ PRON-INDEF ;
+мо+Pron+Interr+Sg+PxSg2:моч N_KIN_SPECIAL ;
+нимо+Pron+Neg+Sg+PxSg2:нимоч N_KIN_SPECIAL ;
+кеч-мо+Pron+Indef+Sg+PxSg2:кеч-моч N_KIN_SPECIAL ;
+керек-мо+Pron+Indef+Sg+PxSg2:керек-моч N_KIN_SPECIAL ;
+ала-мо+Pron+Indef+Sg+PxSg2:ала-моч N_KIN_SPECIAL ;
+иктаж-мо+Pron+Indef+Sg+PxSg2:иктаж-моч N_KIN_SPECIAL ;
 
 LEXICON MYJ !!= * @CODE@
 +Sg1+Nom:мый K_at ;
