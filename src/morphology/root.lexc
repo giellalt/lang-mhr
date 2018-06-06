@@ -95,6 +95,15 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +PxPl2  !!≈ * __@CODE@__ = 
 +PxPl3  !!≈ * __@CODE@__ = 
 
+!! Suffix ordering tags:
++SO/CP	  !!≈ * __@CODE@__ =
++SO/PC	  !!≈ * __@CODE@__ =
++SO/NCP	  !!≈ * __@CODE@__ =
++SO/NPC	  !!≈ * __@CODE@__ =
++SO/NP	  !!≈ * __@CODE@__ =
++SO/PN	  !!≈ * __@CODE@__ =
++SO/PNC	  !!≈ * __@CODE@__ =
+
 !! The comparative forms are:
 +Comp      !!≈ * __@CODE@__ = comparative (not: not Cmp)
 +Superl     !!≈ * __@CODE@__ = superlative
