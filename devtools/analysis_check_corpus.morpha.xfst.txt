@@ -151,6 +151,7 @@
 "<организацийыштыштат>"
 	"организаций" N Sg PxPl3 Ine Foc/at
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -816,7 +817,7 @@
 	"шагал" N Sg Nom
 	"шагал" Num
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Ондак>"
@@ -832,7 +833,7 @@
 "<гына>"
 	"гына" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<эл>"
@@ -1023,7 +1024,7 @@
 	"изи" A Der/MWN N Sg Nom
 	"изи" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Тыгаяк>"
@@ -1231,7 +1232,7 @@
 	"шагал" N Sg Nom
 	"шагал" Num
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<шукталтмыла>"
 	"шукталташ" V Pass Prc N LocPl Nom
 	"шукталташ" V Pass Prc N Sg Cmpr
@@ -1611,7 +1612,7 @@
 	"шагал" N Sg Nom
 	"шагал" Num
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<произведений>"
 	"произведений" N Sg Nom
 "<дене>"
@@ -1636,11 +1637,11 @@
 	"уда" A Der/MWN N Sg Gen
 	"удан" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<вашлиеш>"
 	"вашлияш" V Ind Prs Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<мо>"
 	"мо" A
 	"мо" A Der/MWN N Sg Nom
@@ -1775,7 +1776,7 @@
 	"велаш" V Ind Prt1 Sg3
 	"веле" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<сылнымут>"
@@ -1819,7 +1820,7 @@
 	"ушнаш" V Ger Gen
 	"ушнаш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Кодшо>"
@@ -2788,7 +2789,7 @@
 	"толаш" Hom1 V Ger Gen
 	"толаш" Hom1 V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<ыле>"
 	"улаш" V Ind Prt1 Sg3
 "<—>"
@@ -2802,7 +2803,7 @@
 	"ӱжмӧ" A
 	"ӱжмӧ" A Der/MWN N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<ала>"
@@ -2819,7 +2820,7 @@
 	"муаш" V Ger Gen
 	"муаш" V Ind Prt2 Sg3
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<,>"
 	"," CLB
 "<ала>"
@@ -3090,7 +3091,7 @@
 "<гына>"
 	"гына" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<чумыр>"
@@ -3278,7 +3279,9 @@
 "<кайышаш>"
 	"каяш" V Fut Prc N Sg Nom
 "<гае>"
-	"гае" ?
+	"гае" A
+	"гае" A Der/MWN N Sg Nom
+	"гае" Adv
 "<,>"
 	"," CLB
 "<ала-можо>"
@@ -3370,6 +3373,7 @@
 "<,>"
 	"," CLB
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -3492,6 +3496,7 @@
 "<верештшым>"
 	"верешташ" V Act Prc N Sg Acc
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -3758,6 +3763,7 @@
 	"эре" Hom1 Adv Foc/ak
 	"эреак" Adv
 "<шкеж>"
+	"шке" A Der/MWN N Sg PxSg3 Nom
 	"шке" Pron Refl Nom PxSg3
 "<деке>"
 	"деке" Po
@@ -3821,6 +3827,7 @@
 	"кушко" Pron
 "<тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<наҥгайынеже>"
 	"наҥгаяш" V Des Prs Sg3
 "<?>"
@@ -4170,7 +4177,7 @@
 	"шонаш" V Ind Prt2 Sg3
 	"шонен" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Коважын>"
@@ -4320,10 +4327,14 @@
 	"шоналташ" V Ind Prt2 Sg3
 	"шоналтен" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Шкеже>"
+	"шке" A Der/MWN N Sg Nom PxSg3
+	"шке" A Der/MWN N Sg PxSg3 Nom
+	"шке" A PxSg3
+	"шке" Adv PxSg3
 	"шке" Pron Refl Nom PxSg3
 "<тунам>"
 	"ту" Hom2 N Sg PxPl1 Acc
@@ -4354,7 +4365,7 @@
 	"налаш" V Ger Gen
 	"налаш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<ача>"
@@ -4374,11 +4385,12 @@
 	"керташ" Hom2 V Ger Gen
 	"керташ" Hom2 V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<—>"
 	"—" PUNCT
 "<тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<Настян>"
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Gen
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Gen
@@ -5071,7 +5083,7 @@
 	"вияш" N Sg Nom
 	"вияш" V Inf
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<шуко>"
@@ -5244,7 +5256,7 @@
 	"куштылго" Adv
 	"куштылго" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Туге>"
@@ -5466,6 +5478,7 @@
 	"." CLB
 "<Тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<нуным>"
 	"тудо" Pron Pers Pl3 Acc
 "<шерген>"
@@ -5708,6 +5721,7 @@
 	"тӱшкагудо" N Sg Acc
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<пу>"
 	"пу" N Sg Nom
 	"пуаш" Hom1 V ConNeg
@@ -5730,8 +5744,7 @@
 	"палаш" V Ger Gen
 	"палаш" V Ind Prt2 Sg3
 "<огыдал>"
-	"ок" V Neg Ind Prt2 Pl2
-	"улаш" V Neg Ind Prt2 Pl2
+	"улаш" V Neg Ind Prs Pl2
 "<мо>"
 	"мо" A
 	"мо" A Der/MWN N Sg Nom
@@ -5782,9 +5795,8 @@
 	"палаш" V Ger Gen
 	"палаш" V Ind Prt2 Sg3
 "<отыл>"
-	"ок" V Neg Ind Prt2 Sg2
 	"отыл" Hom2 N Sg Nom
-	"улаш" V Neg Ind Prt2 Sg2
+	"улаш" V Neg Ind Prs Sg2
 "<?>"
 	"?" CLB
 "<Тунемаш>"
@@ -5811,6 +5823,7 @@
 	"тӱшкагудо" N Sg Acc
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<пу>"
 	"пу" N Sg Nom
 	"пуаш" Hom1 V ConNeg
@@ -6147,6 +6160,9 @@
 "<Йол>"
 	"йол" N Sg Nom
 "<шкеак>"
+	"шке" A Der/MWN N Sg Nom Foc/ak
+	"шке" A Foc/ak
+	"шке" Adv Foc/ak
 	"шке" Pron Refl Nom Foc/ak
 "<ала-кушко>"
 	"ала-кушко" Adv
@@ -6249,6 +6265,7 @@
 "<тӱшкагудо>"
 	"тӱшкагудо" N Sg Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -6902,7 +6919,7 @@
 	"пураш" V Ger Gen
 	"пураш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Ӱдыр>"
@@ -6997,6 +7014,7 @@
 	"." CLB
 "<Тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<вашештыш>"
 	"вашешташ" V Ind Prt1 Sg3
 	"вашештыш" N Sg Nom
@@ -7434,6 +7452,7 @@
 	"тӱшкагудо" N Sg Acc
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<пу>"
 	"пу" N Sg Nom
 	"пуаш" Hom1 V ConNeg
@@ -7492,6 +7511,7 @@
 "<Верна>"
 	"вер" N Sg PxPl1 Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -8979,6 +8999,7 @@
 "<кажныжымак>"
 	"кажныжымак" ?
 "<шкеж>"
+	"шке" A Der/MWN N Sg PxSg3 Nom
 	"шке" Pron Refl Nom PxSg3
 "<деке>"
 	"деке" Po
@@ -9057,7 +9078,7 @@
 	"велаш" V Ind Prt1 Sg3
 	"веле" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<шӱм-чонымак>"
@@ -9151,7 +9172,7 @@
 	"кӧра" Adv Foc/ak
 	"кӧра" Po Foc/ak
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<мо>"
 	"мо" A
 	"мо" A Der/MWN N Sg Nom
@@ -9245,6 +9266,7 @@
 "<тудо>"
 	"тудо" Pron Pers Sg3 Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -9932,7 +9954,7 @@
 "<логалаш>"
 	"логалаш" V Inf
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<манын>"
 	"манаш" V Ger Gen
 	"манаш" V Ind Prt2 Sg3
@@ -10044,7 +10066,7 @@
 "<шукертат>"
 	"шукерте" Adv Foc/at
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<Кырмыж>"
 	"кырмыж" N Sg Nom
 "<лӱман>"
@@ -10098,6 +10120,7 @@
 "<областьыште>"
 	"область" N Sg Ine
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -10160,6 +10183,7 @@
 	"область" N Sg Ine Foc/at
 	"область" N Sg PxPl3 Nom Foc/at
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -10333,6 +10357,7 @@
 	"родо-тукым" N Pl PxPl1 Nom
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<иле>"
 	"илʼе" A
 	"илʼе" A Der/MWN N Sg Nom
@@ -10469,7 +10494,7 @@
 	"керташ" Hom2 V Ger Gen
 	"керташ" Hom2 V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Адакше>"
@@ -10491,7 +10516,7 @@
 	"олма" N Sg Acc
 	"олма" N Sg PxSg1 Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<олмым>"
@@ -10553,7 +10578,7 @@
 	"лияш" V Ger Gen
 	"лияш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<тиде>"
@@ -10598,7 +10623,7 @@
 "<путаяш>"
 	"путаяш" V Inf
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<манын>"
 	"манаш" V Ger Gen
 	"манаш" V Ind Prt2 Sg3
@@ -10697,7 +10722,7 @@
 	"чоҥаш" Der/Refl V Ger Gen
 	"чоҥаш" Der/Refl V Ind Prt2 Sg3
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<.>"
 	"." CLB
 "<Уремымат>"
@@ -11061,7 +11086,7 @@
 	"лияш" V Ger Gen
 	"лияш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Тидыже>"
@@ -11187,7 +11212,7 @@
 	"вашлиялташ" V Ger Gen
 	"вашлиялташ" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<:>"
 	":" CLB
 "<чоҥаш>"
@@ -11579,7 +11604,7 @@
 	"керташ" Hom2 V Ger Gen
 	"керташ" Hom2 V Ind Prt2 Sg3
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<.>"
 	"." CLB
 "<Тыге>"
@@ -11810,7 +11835,7 @@
 	"шагал" N Sg Nom
 	"шагал" Num
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<лийын>"
 	"лийын" Po
 	"лияш" V Ger Gen
@@ -12834,7 +12859,7 @@
 	"каяш" V Ger Gen
 	"каяш" V Ind Prt2 Sg3
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<.>"
 	"." CLB
 "<Кожлам>"
@@ -13179,7 +13204,7 @@
 "<кызыт>"
 	"кызыт" Adv
 "<мартеат>"
-	"мартеат" ?
+	"марте" Po Foc/at
 "<кодын>"
 	"код" N Sg Gen
 	"кодаш" V Ger Gen
@@ -13438,7 +13463,7 @@
 	"лияш" V Ger Gen
 	"лияш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<товаржат>"
@@ -13452,7 +13477,7 @@
 	"гай" Adv
 	"гай" Po
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<улмаш>"
 	"улаш" V Der/Nom N Sg Nom
 	"улаш" V Ind Prt2 Sg3
@@ -13635,7 +13660,7 @@
 	"тораште" Adv Foc/ak
 	"тораште" Po Foc/ak
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<рок>"
@@ -13759,6 +13784,8 @@
 "<ышташлан>"
 	"ышташ" V Inf Dat
 "<шкештак>"
+	"шке" A Der/MWN N Sg Ine Foc/ak
+	"шке" A Der/MWN N Sg PxPl3 Nom Foc/ak
 	"шке" Pron Refl Nom PxPl3 Foc/ak
 "<кермычым>"
 	"кермыч" A Der/MWN N Sg Acc
@@ -13861,7 +13888,7 @@
 	"велаш" V Ind Prt1 Sg3
 	"веле" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<вургемлык>"
@@ -14290,7 +14317,7 @@
 	"лияш" V Ger Gen
 	"лияш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Адакше>"
@@ -14407,7 +14434,7 @@
 	"келшаш" V Ind Prt2 Sg3
 	"келшен" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<дыр>"
 	"дыр" Adv
 	"дыр" Interj
@@ -14857,7 +14884,7 @@
 	"алмашташ" V Ger Gen
 	"алмашташ" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<тачат>"
@@ -14937,7 +14964,7 @@
 	"керташ" Hom2 V Ger Gen
 	"керташ" Hom2 V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Марий>"
@@ -14949,6 +14976,7 @@
 	"олма" A Der/MWN N Sg Nom
 	"олма" N Sg Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -15029,7 +15057,7 @@
 	"лияш" V Ger Gen
 	"лияш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Кеч-мо>"
@@ -15088,7 +15116,7 @@
 	"велаш" V Ind Prt1 Sg3
 	"веле" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<татар>"
@@ -16130,6 +16158,7 @@
 "<легенде>"
 	"легенде" N Sg Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -16224,7 +16253,7 @@
 "<шукерте>"
 	"шукерте" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<улыжат>"
@@ -16342,7 +16371,7 @@
 	"ийготан" A
 	"ийготан" A Der/MWN N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Тидын>"
@@ -17268,7 +17297,7 @@
 	"налаш" V Ger Gen
 	"налаш" V Ind Prt2 Sg3
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<.>"
 	"." CLB
 "<Тиде>"
@@ -17290,6 +17319,7 @@
 "<ер>"
 	"ер" N Sg Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -18231,6 +18261,7 @@
 	"пуаш" Hom2 V Ind Prt1 Sg3
 "<тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<.>"
 	"." CLB
 "<—>"
@@ -18300,6 +18331,7 @@
 	"курык" N Sg Nom
 	"курыкташ" V Ger Gen
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -18713,7 +18745,7 @@
 	"вӱд" N Sg Nom
 	"вӱдаш" V Ger Gen
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<Лаймыр>"
@@ -19210,6 +19242,7 @@
 "<пасуэм>"
 	"пасу" N Sg PxSg1 Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -19339,6 +19372,10 @@
 "<.>"
 	"." CLB
 "<Шкеже>"
+	"шке" A Der/MWN N Sg Nom PxSg3
+	"шке" A Der/MWN N Sg PxSg3 Nom
+	"шке" A PxSg3
+	"шке" Adv PxSg3
 	"шке" Pron Refl Nom PxSg3
 "<шылын>"
 	"шыл" N Sg Gen
@@ -19583,6 +19620,7 @@
 	"ойырлаш" V Ind Prt2 Sg3
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<керт>"
 	"керташ" Hom1 V ConNeg
 	"керташ" Hom1 V Imprt Sg2
@@ -20047,6 +20085,7 @@
 	"да" CC
 	"да" Interj
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -20525,7 +20564,6 @@
 	"^excl" CLB
 "<Шӱжарем>"
 	"шӱжар" N Sg PxSg1 Nom
-	"шӱжарем" N Sg Nom
 "<!>"
 	"^excl" CLB
 "<Вучо>"
@@ -22965,6 +23003,7 @@
 	"шуко" Adv
 	"шуко" N Sg Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -23128,7 +23167,7 @@
 "<мойн>"
 	"мойн" ?
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<кеч>"
@@ -23196,7 +23235,7 @@
 	"ойлаш" V Ger Gen
 	"ойлаш" V Ind Prt2 Sg3
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<.>"
 	"." CLB
 "<Чылан>"
@@ -23314,6 +23353,7 @@
 	"Ӱдыр" Hom2 N Sg Nom
 	"ӱдыр" Hom1 N Sg Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -23403,7 +23443,7 @@
 	"тидаш" V Imprt Sg2
 	"тиде" Pron Dem Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<?>"
 	"?" CLB
 "<Ала>"
@@ -23500,6 +23540,7 @@
 	"." CLB
 "<Тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<Настялан>"
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Dat
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Dat
@@ -24340,6 +24381,7 @@
 	"вет" CC WORK
 	"вет" Interj
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -24377,7 +24419,7 @@
 	"кӱлешан" A
 	"кӱлешан" A Der/MWN N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<векат>"
@@ -24392,6 +24434,7 @@
 	"нигушко" Adv Foc/at
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<вашке>"
 	"ваш" A Der/MWN N Sg Ill
 	"вашкаш" V ConNeg
@@ -24508,6 +24551,7 @@
 	"кайыше" A Der/MWN N Pl Acc
 	"каяш" V Act Prc N Pl Acc
 "<шкешт>"
+	"шке" A Der/MWN N Sg PxPl3 Nom
 	"шке" Pron Refl Nom PxPl3
 "<деке>"
 	"деке" Po
@@ -24681,7 +24725,7 @@
 "<шоналтенжат>"
 	"шоналтенжат" ?
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<докан>"
 	"докан" Adv
 	"докан" Pcle
@@ -24740,9 +24784,8 @@
 	"мошташ" Hom2 V Ind Prt2 Sg3
 	"моштен" Adv
 "<отыл>"
-	"ок" V Neg Ind Prt2 Sg2
 	"отыл" Hom2 N Sg Nom
-	"улаш" V Neg Ind Prt2 Sg2
+	"улаш" V Neg Ind Prs Sg2
 "<?>"
 	"?" CLB
 "<Документым>"
@@ -25140,7 +25183,7 @@
 "<шукерте>"
 	"шукерте" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<тольо>"
 	"толаш" Hom1 V Ind Prt1 Sg3
 "<,>"
@@ -25153,7 +25196,7 @@
 	"ужаш" V Ger Gen
 	"ужаш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<докан>"
 	"докан" Adv
 	"докан" Pcle
@@ -25172,13 +25215,12 @@
 "<уныкам>"
 	"уныка" N Sg Acc
 	"уныка" N Sg PxSg1 Nom
-	"уныкам" N Sg Nom
 "<,>"
 	"," CLB
 "<шукерте>"
 	"шукерте" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<кудале>"
 	"кудалаш" V Ind Prt1 Sg3
 "<.>"
@@ -25850,6 +25892,7 @@
 	"." CLB
 "<Тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<ынеж>"
 	"ок" V Neg Des Sg3
 "<кай>"
@@ -25942,7 +25985,6 @@
 "<уныкам>"
 	"уныка" N Sg Acc
 	"уныка" N Sg PxSg1 Nom
-	"уныкам" N Sg Nom
 "<,>"
 	"," CLB
 "<тыйым>"
@@ -26086,7 +26128,7 @@
 	"шуко" A Der/MWN N Sg PxPl1 Nom Foc/ak
 	"шукын" Adv Foc/ak
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<,>"
 	"," CLB
 "<пуста>"
@@ -26215,7 +26257,7 @@
 	"ышташ" V Ger Gen
 	"ышташ" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Чонлан>"
@@ -26239,7 +26281,7 @@
 	"нояш" V Ger Gen
 	"нояш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Чыла>"
@@ -26411,7 +26453,7 @@
 	"пычкемыш" A Der/MWN N Sg Nom
 	"пычкемыш" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<пуйто>"
@@ -26425,7 +26467,7 @@
 	"петыраш" V Ger Gen
 	"петыраш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Коеш>"
@@ -27437,7 +27479,7 @@
 	"шерге" Hom1 A Der/MWN N Sg Nom
 	"шерге" Hom2 N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<дыр>"
 	"дыр" Adv
 	"дыр" Interj
@@ -27633,7 +27675,7 @@
 	"шоналташ" V Inf Foc/at
 	"шонаш" Der/Refl V Inf Foc/at
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Кузе-гынат>"
@@ -27878,6 +27920,7 @@
 	"ӱдыр" Hom1 N Sg Acc
 "<огытат>"
 	"ок" V Neg Ind Prs Pl3 Foc/at
+	"ок" V Neg Ind Prs Sg2 Indep Foc/at
 "<ончал>"
 	"ончалаш" V ConNeg
 	"ончалаш" V Ger Gen
@@ -28559,7 +28602,7 @@
 "<Ял>"
 	"ял" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<вет>"
 	"вет" CC WORK
 	"вет" Interj
@@ -28907,6 +28950,7 @@
 "<ӱдырым>"
 	"ӱдыр" Hom1 N Sg Acc
 "<шкеж>"
+	"шке" A Der/MWN N Sg PxSg3 Nom
 	"шке" Pron Refl Nom PxSg3
 "<деке>"
 	"деке" Po
@@ -29022,7 +29066,7 @@
 	"ӱжара" N Sg Acc
 	"ӱжара" N Sg PxSg1 Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<эр>"
@@ -29089,6 +29133,7 @@
 	"ала-мо" Pron Ind Sg Dat
 	"ала-молан" Adv
 "<шкеж>"
+	"шке" A Der/MWN N Sg PxSg3 Nom
 	"шке" Pron Refl Nom PxSg3
 "<деке>"
 	"деке" Po
@@ -29761,7 +29806,7 @@
 	"шукташ" V Ger Gen
 	"шукташ" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Сумкажым>"
@@ -29816,7 +29861,7 @@
 	"кучаш" V Ger Gen
 	"кучаш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Сумка>"
@@ -29987,9 +30032,8 @@
 	"шижаш" V Ger Gen
 	"шижаш" V Ind Prt2 Sg3
 "<отыл>"
-	"ок" V Neg Ind Prt2 Sg2
 	"отыл" Hom2 N Sg Nom
-	"улаш" V Neg Ind Prt2 Sg2
+	"улаш" V Neg Ind Prs Sg2
 "<...>"
 	"..." CLB
 "<нимат>"
@@ -29998,9 +30042,8 @@
 	"шижаш" V Ger Gen
 	"шижаш" V Ind Prt2 Sg3
 "<отыл>"
-	"ок" V Neg Ind Prt2 Sg2
 	"отыл" Hom2 N Sg Nom
-	"улаш" V Neg Ind Prt2 Sg2
+	"улаш" V Neg Ind Prs Sg2
 "<?>"
 	"?" CLB
 "<.>"
@@ -30694,6 +30737,10 @@
 "<,>"
 	"," CLB
 "<шкеже>"
+	"шке" A Der/MWN N Sg Nom PxSg3
+	"шке" A Der/MWN N Sg PxSg3 Nom
+	"шке" A PxSg3
+	"шке" Adv PxSg3
 	"шке" Pron Refl Nom PxSg3
 "<вӱдыжгышӧ>"
 	"вӱдыжгаш" V Act Prc N Sg Nom
@@ -31050,6 +31097,7 @@
 	"эшаш" V Imprt Sg2
 	"эше" Adv
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -31064,7 +31112,7 @@
 	"шкет" A Der/MWN N Sg Nom
 	"шкет" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<улмаш>"
 	"улаш" V Der/Nom N Sg Nom
 	"улаш" V Ind Prt2 Sg3
@@ -31813,7 +31861,7 @@
 	"толаш" Hom1 V Ger Gen
 	"толаш" Hom1 V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<?>"
 	"?" CLB
 "<Ынде>"
@@ -31891,7 +31939,7 @@
 	"шукташ" V Ger Gen
 	"шукташ" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Йӱштӧ>"
@@ -32025,7 +32073,7 @@
 	"йӱшӧ" A Der/MWN N Sg Nom
 	"йӱшӧ" N Sg Nom
 "<омыл>"
-	"ок" V Neg Ind Prt2 Sg1
+	"улаш" V Neg Ind Prs Sg1
 "<.>"
 	"." CLB
 "<Кузе>"
@@ -32093,7 +32141,7 @@
 "<омо>"
 	"омо" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<тиде>"
@@ -32330,7 +32378,7 @@
 	"йӱшӧ" A Der/MWN N Sg Nom
 	"йӱшӧ" N Sg Nom
 "<омыл>"
-	"ок" V Neg Ind Prt2 Sg1
+	"улаш" V Neg Ind Prs Sg1
 "<.>"
 	"." CLB
 "<Нигунамат>"
@@ -32341,7 +32389,7 @@
 	"йӱаш" V Ger Gen
 	"йӱаш" V Ind Prt2 Sg3
 "<омыл>"
-	"ок" V Neg Ind Prt2 Sg1
+	"улаш" V Neg Ind Prs Sg1
 "<.>"
 	"." CLB
 "<Мый>"
@@ -32443,6 +32491,7 @@
 	"," CLB
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<вучо>"
 	"вучаш" V ConNeg
 	"вучаш" V Imprt Sg2
@@ -32496,7 +32545,7 @@
 	"толаш" Hom1 V Ger Gen
 	"толаш" Hom1 V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<ондален>"
@@ -32561,7 +32610,9 @@
 "<шуымо>"
 	"шуаш" Hom4 V Pass Prc N Sg Nom
 "<гае>"
-	"гае" ?
+	"гае" A
+	"гае" A Der/MWN N Sg Nom
+	"гае" Adv
 "<.>"
 	"." CLB
 "<Тек>"
@@ -32835,7 +32886,7 @@
 	"орышо" A
 	"орышо" A Der/MWN N Sg Nom
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<...>"
 	"..." CLB
 "<Рвезет>"
@@ -33204,7 +33255,7 @@
 "<мӱндырнӧ>"
 	"мӱндырнӧ" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<тыштак>"
@@ -33446,7 +33497,7 @@
 	"шагал" N Sg Gen
 	"шагалын" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<коштыт>"
 	"кошташ" V Ind Prs Pl3
 "<...>"
@@ -33679,7 +33730,7 @@
 	"проста" A
 	"проста" A Der/MWN N Sg Nom
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<.>"
 	"." CLB
 "<Погонан>"
@@ -34197,6 +34248,7 @@
 "<Укес>"
 	"уке" A Der/MWN N Sg Nom Foc/ys
 	"уке" A Foc/ys
+	"уке" Adv Foc/ys
 	"уке" N Sg Nom Foc/ys
 "<.>"
 	"." CLB
@@ -34547,7 +34599,7 @@
 	"нуно" Pron
 	"тудо" Pron Pers Pl3 Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<гын>"
 	"гын" CS
 	"гын" Interj
@@ -34578,7 +34630,7 @@
 	"йӱд" N Sg Nom
 	"йӱдаш" V Ger Gen
 "<мартеак>"
-	"мартеак" ?
+	"марте" Po Foc/ak
 "<мален>"
 	"малаш" V Ger Gen
 	"малаш" V Ind Prt2 Sg3
@@ -34976,7 +35028,7 @@
 	"сурт" A Der/MWN N Sg Nom
 	"сурт" N Sg Nom
 "<мартеак>"
-	"мартеак" ?
+	"марте" Po Foc/ak
 "<,>"
 	"," CLB
 "<йӧратыме>"
@@ -35220,7 +35272,7 @@
 "<дене>"
 	"дене" Po
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<гын>"
 	"гын" CS
 	"гын" Interj
@@ -35549,7 +35601,7 @@
 	"гай" Adv
 	"гай" Po
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Лӱдыкшыжӧ>"
@@ -35952,6 +36004,7 @@
 	"йӱкташ" Hom1 V Ger Gen
 	"йӱкташ" Hom2 V Ger Gen
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -36207,6 +36260,7 @@
 	"но" Interj
 "<тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<ик>"
 	"ик" A
 	"ик" A Der/MWN N Sg Nom
@@ -36520,6 +36574,7 @@
 "<.>"
 	"." CLB
 "<Шкежат>"
+	"шке" A Der/MWN N Sg PxSg3 Nom Foc/at
 	"шке" Pron Refl Nom PxSg3 Foc/at
 "<воктенже>"
 	"вокташ" V Ger Gen PxSg3
@@ -36590,7 +36645,7 @@
 	"изи" A Der/MWN N Sg Nom
 	"изи" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<шуко>"
@@ -36728,6 +36783,7 @@
 	"окса" N Sg Nom Foc/at
 	"окса" N Sg PxSg2 Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -36809,7 +36865,7 @@
 	"пуаш" Hom2 V Ger Gen
 	"пуаш" Hom2 V Ind Prt2 Sg3
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<?>"
 	"?" CLB
 "<Сумкатым>"
@@ -36857,7 +36913,7 @@
 	"кошташ" V Ger Gen
 	"кошташ" V Ind Prt2 Sg3
 "<омыл>"
-	"ок" V Neg Ind Prt2 Sg1
+	"улаш" V Neg Ind Prs Sg1
 "<.>"
 	"." CLB
 "<—>"
@@ -37180,9 +37236,8 @@
 	"лияш" V Ger Gen
 	"лияш" V Ind Prt2 Sg3
 "<отыл>"
-	"ок" V Neg Ind Prt2 Sg2
 	"отыл" Hom2 N Sg Nom
-	"улаш" V Neg Ind Prt2 Sg2
+	"улаш" V Neg Ind Prs Sg2
 "<?>"
 	"?" CLB
 "<Палетыс>"
@@ -37198,6 +37253,7 @@
 	"шуко" N Sg Nom
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<кучо>"
 	"кучаш" V ConNeg
 	"кучаш" V Imprt Sg2
@@ -37661,6 +37717,7 @@
 	"," CLB
 "<тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<пешак>"
 	"пеш" Adv Foc/ak
 	"пешак" Adv
@@ -37725,7 +37782,7 @@
 	"чын" Adv
 	"чын" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<гражданин>"
@@ -37802,7 +37859,7 @@
 	"тӱлыкташ" Hom1 V Inf
 	"тӱлыкташ" Hom2 V Inf
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<иктаж>"
@@ -37854,7 +37911,7 @@
 	"чын" Adv
 	"чын" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<гражданин>"
@@ -38130,7 +38187,7 @@
 	"пышташ" V Ger Gen
 	"пышташ" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<гынат>"
 	"гын" Interj Foc/at
 	"гына" Adv Foc/at
@@ -38156,7 +38213,7 @@
 	"ала" Interj
 	"алаш" V Ind Prs Sg3
 "<нунак>"
-	"нунак" ?
+	"тудо" Pron Pers Pl3 Nom Foc/ak
 "<.>"
 	"." CLB
 "<Тунам>"
@@ -38232,13 +38289,14 @@
 	"нумалышташ" V Ger Gen
 	"нумалышташ" V Ind Prt2 Sg3
 "<омыл>"
-	"ок" V Neg Ind Prt2 Sg1
+	"улаш" V Neg Ind Prs Sg1
 "<...>"
 	"..." CLB
 "<да>"
 	"да" CC
 	"да" Interj
 "<шкежат>"
+	"шке" A Der/MWN N Sg PxSg3 Nom Foc/at
 	"шке" Pron Refl Nom PxSg3 Foc/at
 "<ом>"
 	"ок" V Neg Ind Prs Sg1
@@ -38652,6 +38710,7 @@
 	"межа" N Sg PxSg1 Nom
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<вончо>"
 	"вончаш" V ConNeg
 	"вончаш" V Imprt Sg2
@@ -38813,7 +38872,7 @@
 	"верешташ" V Ger Gen
 	"верешташ" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<эше>"
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -38988,7 +39047,7 @@
 	"ышташ" V Ger Gen
 	"ышташ" V Ind Prt2 Sg3
 "<омыл>"
-	"ок" V Neg Ind Prt2 Sg1
+	"улаш" V Neg Ind Prs Sg1
 "<!>"
 	"^excl" CLB
 "<Колтыза>"
@@ -39014,6 +39073,7 @@
 	"," CLB
 "<тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<вачыжым>"
 	"ваче" N Sg PxSg3 Acc
 "<гына>"
@@ -39077,7 +39137,7 @@
 	"ышташ" V Ger Gen
 	"ышташ" V Ind Prt2 Sg3
 "<омыл>"
-	"ок" V Neg Ind Prt2 Sg1
+	"улаш" V Neg Ind Prs Sg1
 "<!>"
 	"^excl" CLB
 "<Йӱдым>"
@@ -39096,7 +39156,7 @@
 	"коштшо" A Der/MWN N Sg Nom
 	"коштшо" N Sg Nom
 "<омыл>"
-	"ок" V Neg Ind Prt2 Sg1
+	"улаш" V Neg Ind Prs Sg1
 "<.>"
 	"." CLB
 "<Молан>"
@@ -39765,6 +39825,7 @@
 	"мо" Pron Interr Sg Nom
 	"мо" Pron Rel Sg Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -39809,7 +39870,7 @@
 	"шуко" Adv
 	"шуко" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Кеҥеж>"
@@ -40088,6 +40149,7 @@
 	"." CLB
 "<Тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<сумка>"
 	"сумка" N Sg Nom
 "<кӧргым>"
@@ -40474,6 +40536,7 @@
 "<укес>"
 	"уке" A Der/MWN N Sg Nom Foc/ys
 	"уке" A Foc/ys
+	"уке" Adv Foc/ys
 	"уке" N Sg Nom Foc/ys
 "<.>"
 	"." CLB
@@ -40697,6 +40760,7 @@
 	"." CLB
 "<Огытат>"
 	"ок" V Neg Ind Prs Pl3 Foc/at
+	"ок" V Neg Ind Prs Sg2 Indep Foc/at
 "<шынде>"
 	"шындаш" V ConNeg
 	"шындаш" V Imprt Sg2
@@ -40715,6 +40779,7 @@
 	"кагаз" A Der/MWN N Sg Acc
 	"кагаз" N Sg Acc
 "<шкеж>"
+	"шке" A Der/MWN N Sg PxSg3 Nom
 	"шке" Pron Refl Nom PxSg3
 "<деке>"
 	"деке" Po
@@ -41038,7 +41103,6 @@
 	"," CLB
 "<шӱжарем>"
 	"шӱжар" N Sg PxSg1 Nom
-	"шӱжарем" N Sg Nom
 "<.>"
 	"." CLB
 "<А>"
@@ -41063,9 +41127,8 @@
 	"каяш" V Ger Gen
 	"каяш" V Ind Prt2 Sg3
 "<отыл>"
-	"ок" V Neg Ind Prt2 Sg2
 	"отыл" Hom2 N Sg Nom
-	"улаш" V Neg Ind Prt2 Sg2
+	"улаш" V Neg Ind Prs Sg2
 "<?>"
 	"?" CLB
 "<—>"
@@ -41155,7 +41218,7 @@
 	"гай" Adv
 	"гай" Po
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<вес>"
@@ -41211,7 +41274,7 @@
 	"шукташ" V Ger Gen
 	"шукташ" V Ind Prt2 Sg3
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<...>"
 	"..." CLB
 "<—>"
@@ -42097,7 +42160,7 @@
 	"петыраш" V Der/Nom N Sg Ine Foc/at
 	"петырымаш" N Sg Ine Foc/at
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<.>"
 	"." CLB
 "<Коеш>"
@@ -42130,6 +42193,7 @@
 	"деч" Po Foc/at
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<вожыл>"
 	"вожылаш" V ConNeg
 	"вожылаш" V Ger Gen
@@ -42263,7 +42327,7 @@
 "<лукташ>"
 	"лукташ" V Inf
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<—>"
@@ -42297,6 +42361,7 @@
 "<правада>"
 	"права" N Sg PxPl2 Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -42501,6 +42566,7 @@
 	"титак" N Sg Nom PxSg3
 	"титак" N Sg PxSg3 Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -42850,6 +42916,7 @@
 	"." CLB
 "<Тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<нимомат>"
 	"нимо" Pron Ind Sg Acc Foc/at
 "<умылен>"
@@ -43248,6 +43315,7 @@
 "<Йылметше>"
 	"йылме" N Sg PxSg2 Nom PxSg3
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -43261,6 +43329,7 @@
 "<укеат>"
 	"уке" A Der/MWN N Sg Nom Foc/at
 	"уке" A Foc/at
+	"уке" Adv Foc/at
 	"уке" N Sg Nom Foc/at
 "<?>"
 	"?" CLB
@@ -43534,7 +43603,7 @@
 "<дене>"
 	"дене" Po
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<темын>"
 	"тема" N Sg Gen
 	"темаш" V Ger Gen
@@ -43567,6 +43636,10 @@
 "<,>"
 	"," CLB
 "<шкеже>"
+	"шке" A Der/MWN N Sg Nom PxSg3
+	"шке" A Der/MWN N Sg PxSg3 Nom
+	"шке" A PxSg3
+	"шке" Adv PxSg3
 	"шке" Pron Refl Nom PxSg3
 "<огеш>"
 	"ок" V Neg Ind Prs Sg3
@@ -43579,7 +43652,7 @@
 "<Кужунжак>"
 	"кужун" A Der/MWN N Sg PxSg3 Nom Foc/ak
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<векат>"
@@ -43611,13 +43684,13 @@
 "<Сержант>"
 	"сержант" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<лейтенант>"
 	"лейтенант" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<а>"
@@ -43927,12 +44000,13 @@
 	"." CLB
 "<Тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<решоткан>"
 	"решотка" N Sg Gen
 	"решоткан" A
 	"решоткан" A Der/MWN N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<ӱмбачше>"
@@ -44154,6 +44228,7 @@
 	"изи" N Sg Ill
 	"изиш" Adv
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -44637,7 +44712,7 @@
 "<Мӧҥгыштыжак>"
 	"Мӧҥгыштыжак" ?
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<мо>"
 	"мо" A
 	"мо" A Der/MWN N Sg Nom
@@ -44890,6 +44965,7 @@
 "<кумылат>"
 	"кумыл" N Sg Nom Foc/at
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -45005,7 +45081,7 @@
 	"пычкемыш" A Der/MWN N Sg Acc
 	"пычкемыш" N Sg Acc
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Вургемым>"
@@ -45170,9 +45246,8 @@
 	"ондалаш" V Ind Prt2 Sg3
 	"ондален" Adv
 "<отыл>"
-	"ок" V Neg Ind Prt2 Sg2
 	"отыл" Hom2 N Sg Nom
-	"улаш" V Neg Ind Prt2 Sg2
+	"улаш" V Neg Ind Prs Sg2
 "<,>"
 	"," CLB
 "<туштак>"
@@ -45439,9 +45514,8 @@
 "<ӱдыр>"
 	"ӱдыр" Hom1 N Sg Nom
 "<отыл>"
-	"ок" V Neg Ind Prt2 Sg2
 	"отыл" Hom2 N Sg Nom
-	"улаш" V Neg Ind Prt2 Sg2
+	"улаш" V Neg Ind Prs Sg2
 "<.>"
 	"." CLB
 "<Моло>"
@@ -45552,9 +45626,8 @@
 	"шияш" Hom2 V Ger Gen
 	"шияш" Hom2 V Ind Prt2 Sg3
 "<отыл>"
-	"ок" V Neg Ind Prt2 Sg2
 	"отыл" Hom2 N Sg Nom
-	"улаш" V Neg Ind Prt2 Sg2
+	"улаш" V Neg Ind Prs Sg2
 "<.>"
 	"." CLB
 "<Чурийыштым>"
@@ -45628,7 +45701,7 @@
 	"кодаш" V Ind Prt2 Sg3
 	"кодын" Adv
 "<омыл>"
-	"ок" V Neg Ind Prt2 Sg1
+	"улаш" V Neg Ind Prs Sg1
 "<.>"
 	"." CLB
 "<Ӧрдыж>"
@@ -46619,7 +46692,7 @@
 	"эр" A Der/MWN N Sg PxSg3 Nom Foc/ak
 	"эр" N Sg PxSg3 Nom Foc/ak
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<кече>"
@@ -46685,7 +46758,7 @@
 	"шуаш" Hom3 V Ger Gen
 	"шуаш" Hom3 V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Корныжо>"
@@ -46925,7 +46998,7 @@
 	"гана" N Sg Nom
 	"гана" Po
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<йодышташ>"
 	"йодышташ" V Inf
 "<вереште>"
@@ -47050,7 +47123,7 @@
 	"шукташ" V Ger Gen
 	"шукташ" V Ind Prt2 Sg3
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<?>"
 	"?" CLB
 "<Ӱдыр>"
@@ -47102,6 +47175,7 @@
 	"." CLB
 "<Огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<тол>"
 	"толаш" Hom1 V ConNeg
 	"толаш" Hom1 V Imprt Sg2
@@ -47357,6 +47431,9 @@
 	"йол" N Sg Nom PxSg3
 	"йол" N Sg PxSg3 Nom
 "<шкеак>"
+	"шке" A Der/MWN N Sg Nom Foc/ak
+	"шке" A Foc/ak
+	"шке" Adv Foc/ak
 	"шке" Pron Refl Nom Foc/ak
 "<тудо>"
 	"тудо" Pron Pers Sg3 Nom
@@ -47778,7 +47855,7 @@
 "<корштышаш>"
 	"коршташ" V Fut Prc N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Мом>"
@@ -47894,6 +47971,7 @@
 	"чынак" Pcle
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<тол>"
 	"толаш" Hom1 V ConNeg
 	"толаш" Hom1 V Imprt Sg2
@@ -48173,7 +48251,7 @@
 "<Парк>"
 	"парк" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<вет>"
 	"вет" CC WORK
 	"вет" Interj
@@ -49110,6 +49188,7 @@
 	"Юл" Sem/Plc N Prop Sem/Plc Sg Nom
 	"Юл" Sem/Plc N Sem/Plc Prop Sg Nom
 "<шкеж>"
+	"шке" A Der/MWN N Sg PxSg3 Nom
 	"шке" Pron Refl Nom PxSg3
 "<дек>"
 	"дек" Po
@@ -49166,7 +49245,7 @@
 	"ужаш" V Ger Gen
 	"ужаш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Юл>"
@@ -49183,7 +49262,7 @@
 	"вашлияш" V Ger Gen
 	"вашлияш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Ала>"
@@ -49214,7 +49293,7 @@
 	"гай" Adv
 	"гай" Po
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Ӱдыр>"
@@ -49227,7 +49306,7 @@
 	"куандарыше" A
 	"куандарыше" A Der/MWN N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Но>"
@@ -49242,6 +49321,7 @@
 	"садак" A Der/MWN N Sg Nom
 	"садак" Pcle
 "<шкеж>"
+	"шке" A Der/MWN N Sg PxSg3 Nom
 	"шке" Pron Refl Nom PxSg3
 "<дек>"
 	"дек" Po
@@ -49430,7 +49510,7 @@
 "<мӱндырнӧ>"
 	"мӱндырнӧ" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<пристань>"
 	"пристань" N Sg Nom
 "<коеш>"
@@ -49557,6 +49637,7 @@
 "<.>"
 	"." CLB
 "<Шкеж>"
+	"шке" A Der/MWN N Sg PxSg3 Nom
 	"шке" Pron Refl Nom PxSg3
 "<денысе>"
 	"денысе" A
@@ -49601,7 +49682,7 @@
 	"шуаш" Hom3 V Ger Gen
 	"шуаш" Hom3 V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Юл>"
@@ -49757,6 +49838,7 @@
 "<пляж>"
 	"пляж" N Sg Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -50254,9 +50336,8 @@
 	"вучымо" A
 	"вучымо" A Der/MWN N Sg Nom
 "<отыл>"
-	"ок" V Neg Ind Prt2 Sg2
 	"отыл" Hom2 N Sg Nom
-	"улаш" V Neg Ind Prt2 Sg2
+	"улаш" V Neg Ind Prs Sg2
 "<.>"
 	"." CLB
 "<Юл>"
@@ -50297,7 +50378,7 @@
 	"гай" Adv
 	"гай" Po
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Тыште>"
@@ -50680,7 +50761,7 @@
 "<Ӱмбалнет>"
 	"ӱмбалне" Po PxSg2
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<йымалнет>"
@@ -50741,7 +50822,7 @@
 	"лияш" V Ger Gen
 	"лияш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Эр>"
@@ -50772,7 +50853,7 @@
 "<мӱндырнӧ>"
 	"мӱндырнӧ" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<сер>"
@@ -50885,6 +50966,7 @@
 	"вара" Hom2 N Sg PxSg3 Acc
 	"варажым" Adv
 "<шкежат>"
+	"шке" A Der/MWN N Sg PxSg3 Nom Foc/at
 	"шке" Pron Refl Nom PxSg3 Foc/at
 "<пуш>"
 	"пу" N Sg Ill
@@ -50915,7 +50997,7 @@
 "<Кылмаш>"
 	"кылмаш" V Inf
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<манын>"
 	"манаш" V Ger Gen
 	"манаш" V Ind Prt2 Sg3
@@ -50954,7 +51036,7 @@
 	"ужаш" V Ger Gen
 	"ужаш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<дыр>"
 	"дыр" Adv
 	"дыр" Interj
@@ -51123,7 +51205,7 @@
 	"пычкемыш" A Der/MWN N Sg Nom
 	"пычкемыш" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Пуш>"
@@ -51191,7 +51273,7 @@
 "<Мӱндырнӧ>"
 	"мӱндырнӧ" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<теве>"
@@ -51321,7 +51403,7 @@
 	"эр" A Der/MWN N Sg PxSg3 Nom Foc/at
 	"эр" N Sg PxSg3 Nom Foc/at
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<?>"
 	"?" CLB
 "<Ӱдырлан>"
@@ -51496,7 +51578,7 @@
 	"шукташ" V Ger Gen
 	"шукташ" V Ind Prt2 Sg3
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<,>"
 	"," CLB
 "<вашкерак>"
@@ -51697,7 +51779,7 @@
 	"ужаш" V Ger Gen
 	"ужаш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Ача>"
@@ -51912,7 +51994,7 @@
 "<Айдеме>"
 	"айдеме" N Sg Nom
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<мо>"
 	"мо" A
 	"мо" A Der/MWN N Sg Nom
@@ -51934,6 +52016,7 @@
 	"пуаш" Hom2 V Ind Prt2 Sg3
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<керт>"
 	"керташ" Hom1 V ConNeg
 	"керташ" Hom1 V Imprt Sg2
@@ -52031,6 +52114,7 @@
 	"полшаш" V Ind Prt2 Sg3
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<керт>"
 	"керташ" Hom1 V ConNeg
 	"керташ" Hom1 V Imprt Sg2
@@ -52103,7 +52187,7 @@
 	"тыгай" N Sg Nom
 	"тыгай" Pron Dem
 "<огытыл>"
-	"ок" V Neg Ind Prt2 Pl3
+	"улаш" V Neg Ind Prs Pl3
 "<.>"
 	"." CLB
 "<Лейтенант>"
@@ -52392,6 +52476,7 @@
 	"мо" Pron Interr Sg Nom
 	"мо" Pron Rel Sg Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -52491,6 +52576,7 @@
 	"тышке" Adv
 "<огыт>"
 	"ок" V Neg Ind Prs Pl3
+	"ок" V Neg Ind Prs Sg2 Indep
 "<тол>"
 	"толаш" Hom1 V ConNeg
 	"толаш" Hom1 V Imprt Sg2
@@ -52549,7 +52635,7 @@
 	"изи" A Der/MWN N Sg PxSg3 Nom Foc/ak
 	"изи" N Sg PxSg3 Nom Foc/ak
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Пурышо-лекшыже>"
@@ -52649,6 +52735,7 @@
 	"вере" Adv
 	"вере" Po
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -52727,7 +52814,7 @@
 	"мӱндыр" Adv
 	"мӱндыр" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<вет>"
 	"вет" CC WORK
 	"вет" Interj
@@ -52862,7 +52949,6 @@
 "<шкак>"
 	"шке" A Der/MWN N Sg Nom Foc/ak
 	"шке" A Foc/ak
-	"шке" Adv Foc/ak
 "<налын>"
 	"налаш" V Ger Gen
 	"налаш" V Ind Prt2 Sg3
@@ -52895,7 +52981,7 @@
 	"уто" A Der/MWN N Sg Nom
 	"уто" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Настя>"
@@ -53377,7 +53463,7 @@
 "<.>"
 	"." CLB
 "<Нуныжо>"
-	"Нуныжо" ?
+	"тудо" Pron Pers Pl3 Nom PxSg3
 "<вет>"
 	"вет" CC WORK
 	"вет" Interj
@@ -53761,7 +53847,7 @@
 	"шукташ" V Ger Gen
 	"шукташ" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<ыле>"
 	"улаш" V Ind Prt1 Sg3
 "<.>"
@@ -54011,6 +54097,7 @@
 	"." CLB
 "<Тудыжо>"
 	"туде" Interj PxSg3
+	"тудо" Pron Pers Sg3 Nom PxSg3
 "<пешак>"
 	"пеш" Adv Foc/ak
 	"пешак" Adv
@@ -54096,6 +54183,7 @@
 	"пӧлем" N Sg Nom PxSg3
 	"пӧлем" N Sg PxSg3 Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -54357,6 +54445,7 @@
 	"ойырташ" V Ind Prs Sg1
 	"ойыртем" N Sg Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom
@@ -54909,7 +54998,7 @@
 	"ончалаш" V Ind Prt2 Sg2
 	"ончалаш" V Ind Prt2 Sg3 Foc/at
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<вет>"
 	"вет" CC WORK
 	"вет" Interj
@@ -55162,7 +55251,7 @@
 	"лияш" V Ger Gen
 	"лияш" V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<тыгай>"
@@ -55184,7 +55273,7 @@
 	"шинчаш" Hom3 V Ger Gen
 	"шинчаш" Hom3 V Ind Prt2 Sg3
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<—>"
@@ -55366,7 +55455,6 @@
 	"," CLB
 "<шӱжарем>"
 	"шӱжар" N Sg PxSg1 Nom
-	"шӱжарем" N Sg Nom
 "<.>"
 	"." CLB
 "<Изиш>"
@@ -55377,9 +55465,8 @@
 	"шукташ" V Ger Gen
 	"шукташ" V Ind Prt2 Sg3
 "<отыл>"
-	"ок" V Neg Ind Prt2 Sg2
 	"отыл" Hom2 N Sg Nom
-	"улаш" V Neg Ind Prt2 Sg2
+	"улаш" V Neg Ind Prs Sg2
 "<.>"
 	"." CLB
 "<Теҥгече>"
@@ -55555,7 +55642,7 @@
 	"ыштышаш" A Der/MWN N Sg Nom
 	"ыштышаш" N Sg Nom
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Пашам>"
@@ -55873,7 +55960,7 @@
 	"шонаш" V Ind Prt2 Sg3
 	"шонен" Adv
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<.>"
 	"." CLB
 "<Самырык>"
@@ -56189,9 +56276,8 @@
 "<ӱдыр>"
 	"ӱдыр" Hom1 N Sg Nom
 "<отыл>"
-	"ок" V Neg Ind Prt2 Sg2
 	"отыл" Hom2 N Sg Nom
-	"улаш" V Neg Ind Prt2 Sg2
+	"улаш" V Neg Ind Prs Sg2
 "<.>"
 	"." CLB
 "<Ял>"
@@ -56288,7 +56374,7 @@
 "<Ялыште>"
 	"ял" N Sg Ine
 "<огыл>"
-	"ок" V Neg Ind Prt2 Sg3
+	"улаш" V Neg Ind Prs Sg3
 "<,>"
 	"," CLB
 "<тендан>"
@@ -56433,6 +56519,7 @@
 "<пӧръеҥ>"
 	"пӧръеҥ" N Sg Nom
 "<шкеж>"
+	"шке" A Der/MWN N Sg PxSg3 Nom
 	"шке" Pron Refl Nom PxSg3
 "<нерген>"
 	"нерге" Hom1 N Sg Gen
@@ -56859,6 +56946,7 @@
 	"мо" Pron Interr Sg PxSg2 Nom
 	"мо" Pron Rel Sg PxSg2 Nom
 "<уло>"
+	"улаш" V Ind Prs Sg3 Ext
 	"уло" A
 	"уло" A Der/MWN N Sg Nom
 	"уло" N Sg Nom

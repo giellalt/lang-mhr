@@ -84,7 +84,7 @@
 "<писательвлакым>"
 	"писательвлакым" ? #5->5
 "<ушышо>"
-	"ушаш" V Act Prc N Sg Nom @<SUBJ #6->3
+	"ушаш" V Act Prc N Sg Nom @SUBJ> #6->12
 "<пеш>"
 	"пеш" Adv @-F<ADVL #7->7
 "<кужу>"
@@ -96,7 +96,7 @@
 "<организацийыштыштат>"
 	"организаций" N Sg PxPl3 Ine Foc/at @-F<ADVL #11->11
 "<уло>"
-	"уло" A #12->12
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #12->0
 "<.>"
 	"." CLB #13->13
 
@@ -560,7 +560,7 @@
 	"шагал" Num #2->3
 	"шагал" Adv @ADVL> #2->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<.>"
 	"." CLB #4->4
 
@@ -570,14 +570,14 @@
 "<сылнымутчына-шамычын>"
 	"сылнымутчо" N Pl PxPl1 Gen @>N #2->3
 "<пашашт>"
-	"паша" N Sg PxPl3 Nom @SUBJ> #3->3
+	"паша" N Sg PxPl3 Nom @SUBJ> #3->6
 "<республикыште>"
 	"республик" N Sg Ine @ADVL> #4->6
 	"республика" N Sg Ine @ADVL> #4->6
 "<гына>"
 	"гына" Adv @ADVL> #5->6
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #6->6
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #6->0
 "<,>"
 	"," CLB #7->7
 "<эл>"
@@ -712,17 +712,17 @@
 "<писатель>"
 	"писатель" N Sg Nom @SUBJ> #12->13
 "<ушем>"
-	"уш" N Sg PxSg1 Nom @SUBJ> #13->0
-	"ушаш" <mv> <mv> V Ind Prs Sg1 @FMV #13->0
-	"ушем" N Sg Nom @SUBJ> #13->0
+	"уш" N Sg PxSg1 Nom @SUBJ> #13->17
+	"ушаш" <mv> <mv> V Ind Prs Sg1 @FMV #13->17
+	"ушем" N Sg Nom @SUBJ> #13->17
 "<правленийын>"
 	"правлений" N Sg Gen @>N #14->15
 "<надырже>"
-	"надыр" N Sg Nom PxSg3 @SUBJ> #15->15
+	"надыр" N Sg Nom PxSg3 @SUBJ> #15->17
 "<изи>"
-	"изи" N Sg Nom @SUBJ> #16->16
+	"изи" N Sg Nom @SUBJ> #16->17
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #17->17
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #17->0
 "<.>"
 	"." CLB #18->18
 
@@ -855,17 +855,17 @@
 	"." CLB #19->19
 
 "<Самырык-влак>"
-	"самырык-влак" N Sg Nom @SUBJ> #1->7
-	"самырык" N Pl Nom @SUBJ> #1->7
+	"самырык-влак" N Sg Nom @SUBJ> #1->5
+	"самырык" N Pl Nom @SUBJ> #1->5
 "<дене>"
 	"дене" Po @ADVL> #2->5
 "<сомыл>"
-	"сомыл" N Sg Nom @SUBJ> #3->7
+	"сомыл" N Sg Nom @SUBJ> #3->5
 "<шагал>"
-	"шагал" N Sg Nom @SUBJ> #4->7
-	"шагал" Num #4->7
+	"шагал" N Sg Nom @SUBJ> #4->5
+	"шагал" Num #4->5
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #5->0
 "<шукталтмыла>"
 	"шукталташ" V Pass Prc N LocPl Nom @SUBJ> #6->7
 	"шукталташ" V Pass Prc N Sg Cmpr #6->7
@@ -1132,7 +1132,7 @@
 "<марла>"
 	"марла" A #6->6
 "<журнал>"
-	"журнал" N Sg Nom @SUBJ> #7->22
+	"журнал" N Sg Nom @SUBJ> #7->12
 "<кодшо>"
 	"кодшо" A #8->8
 "<ийын>"
@@ -1144,9 +1144,9 @@
 	"шагал" Adv @-F<ADVL #11->11
 	"шагал" Num #11->11
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #12->12
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #12->0
 "<произведений>"
-	"произведений" N Sg Nom @SUBJ> #13->22
+	"произведений" N Sg Nom @SUBJ> #13->21
 "<дене>"
 	"дене" Po @ADVL> #14->15
 "<палдарен>"
@@ -1164,13 +1164,13 @@
 	"у" N Sg PxPl2 Gen @<ADVL #20->21
 	"удан" Adv @ADVL> #20->21
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #21->21
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #21->0
 "<вашлиеш>"
 	"вашлияш" <mv> <mv> V Ind Prs Sg3 @FMV #22->0
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #23->23
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #23->0
 "<мо>"
-	"мо" Pron Interr Sg Nom @<SUBJ #24->22
+	"мо" Pron Interr Sg Nom @<SUBJ #24->23
 "<?>"
 	"?" CLB #25->25
 
@@ -1250,18 +1250,18 @@
 "<Вет>"
 	"вет" CC WORK #1->1
 "<тиде>"
-	"тиде" Pron Dem Sg Nom @SUBJ> #2->2
+	"тиде" Pron Dem Sg Nom @SUBJ> #2->10
 "<изданийым>"
 	"изданий" N Sg Acc @OBJ> #3->9
 "<писатель>"
-	"писатель" N Sg Nom @SUBJ> #4->4
+	"писатель" N Sg Nom @SUBJ> #4->10
 "<ушемын>"
 	"ушем" N Sg Gen @>A #5->5
 	"уш" N Sg PxSg1 Gen @>A #5->5
 "<шкешотан>"
 	"шкешотан" A #6->6
 "<рупоржо>"
-	"рупор" N Sg Nom PxSg3 @SUBJ> #7->7
+	"рупор" N Sg Nom PxSg3 @SUBJ> #7->10
 "<семын>"
 	"сем" N Sg Gen @ADVL> #8->9
 	"семын" Po @ADVL> #8->9
@@ -1269,15 +1269,15 @@
 	"велаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #9->10
 	"веле" Adv @ADVL> #9->10
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #10->10
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #10->0
 "<,>"
 	"," CLB #11->11
 "<сылнымут>"
-	"сылнымут" N Sg Nom @SUBJ> #12->12
+	"сылнымут" N Sg Nom @SUBJ> #12->26
 "<аланыш>"
 	"алан" N Sg Ill @<ADVL #13->10
 "<ушнаш>"
-	"ушнаш" V Inf #14->14
+	"ушнаш" V Inf #14->10
 "<кумылан>"
 	"кумылан" A #15->15
 "<самырык>"
@@ -1291,7 +1291,7 @@
 "<куштышо>"
 	"куштышо" A #20->20
 "<ача-аваж>"
-	"ача-ава" N Sg PxSg3 Nom @SUBJ> #21->21
+	"ача-ава" N Sg PxSg3 Nom @SUBJ> #21->26
 "<але>"
 	"але" CC #22->22
 "<марте>"
@@ -1301,7 +1301,7 @@
 "<ушнен>"
 	"ушнаш" V Ger Gen #25->25
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #26->26
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #26->0
 "<.>"
 	"." CLB #27->27
 
@@ -2007,7 +2007,7 @@
 "<толын>"
 	"толаш" V Ger Gen #4->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #5->0
 "<ыле>"
 	"улаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #6->6
 "<—>"
@@ -2015,15 +2015,15 @@
 "<але>"
 	"але" CC #8->8
 "<ӱжмӧ>"
-	"ӱжаш" V Pass Prc N Sg Nom @SUBJ> #9->12
+	"ӱжаш" V Pass Prc N Sg Nom @SUBJ> #9->10
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #10->10
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #10->0
 "<,>"
 	"," CLB #11->11
 "<ала>"
-	"ала" CC #12->18
-	"ала" N Sg Nom @SUBJ> #12->18
-	"алаш" <mv> <mv> V Ind Prs Sg3 @FMV #12->18
+	"ала" CC #12->16
+	"ала" N Sg Nom @SUBJ> #12->16
+	"алаш" <mv> <mv> V Ind Prs Sg3 @FMV #12->16
 "<толаш>"
 	"толаш" V Inf #13->12
 "<жапым>"
@@ -2031,7 +2031,7 @@
 "<муын>"
 	"муаш" V Ger Gen #15->15
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #16->16
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #16->0
 "<,>"
 	"," CLB #17->17
 "<ала>"
@@ -2210,7 +2210,7 @@
 "<Зайниевичын>"
 	"Зайниевичын" ? #2->2
 "<лӱмжӧ>"
-	"лӱм" N Sg Nom PxSg3 @SUBJ> #3->3
+	"лӱм" N Sg Nom PxSg3 @SUBJ> #3->7
 "<марий>"
 	"марий" A #4->4
 "<сылнымутышто>"
@@ -2218,7 +2218,7 @@
 "<гына>"
 	"гына" Adv @ADVL> #6->7
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<,>"
 	"," CLB #8->8
 "<чумыр>"
@@ -2350,7 +2350,8 @@
 "<кайышаш>"
 	"каяш" V Fut Prc N Sg Nom @SUBJ> #5->10
 "<гае>"
-	"гае" ? #6->6
+	"гае" A #6->10
+	"гае" A Der/MWN N Sg Nom @SUBJ> #6->10
 "<,>"
 	"," CLB #7->7
 "<ала-можо>"
@@ -2734,7 +2735,7 @@
 	"кушко" Adv @<ADVL #1->1
 	"кушко" Pron #1->1
 "<тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #2->2
+	"тудо" Pron Pers Sg3 Nom PxSg3 @SUBJ> #2->3
 "<наҥгайынеже>"
 	"наҥгаяш" V Des Prs Sg3 #3->0
 "<?>"
@@ -2967,14 +2968,14 @@
 "<—>"
 	"—" PUNCT #11->11
 "<Настя>"
-	"Настя" N Prop Sg Nom @SUBJ> #12->12
+	"Настя" N Prop Sg Nom @SUBJ> #12->26
 "<изинекак>"
 	"изинʼек" Adv Foc/ak @ADVL> #13->17
 	"изинек" Adv Foc/ak @ADVL> #13->17
 "<тыгай>"
 	"тыгай" A #14->14
 "<шонымаш>"
-	"шонымаш" N Sg Nom @SUBJ> #15->15
+	"шонымаш" N Sg Nom @SUBJ> #15->26
 "<дене>"
 	"дене" Po @ADVL> #16->17
 "<илен>"
@@ -2990,13 +2991,13 @@
 "<вес>"
 	"вес" A #22->22
 "<профессий>"
-	"профессий" N Sg Nom @SUBJ> #23->23
+	"профессий" N Sg Nom @SUBJ> #23->26
 "<нерген>"
 	"нерген" Po @ADVL> #24->26
 "<шонен>"
 	"шонаш" V Ger Gen #25->25
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #26->26
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #26->0
 "<.>"
 	"." CLB #27->27
 
@@ -3096,27 +3097,29 @@
 "<сеҥа>"
 	"сеҥаш" <mv> <mv> V Ind Prs Sg3 @FMV #12->0
 "<мо>"
-	"мо" A Der/MWN N Sg Nom @SUBJ> #13->13
+	"мо" A Der/MWN N Sg Nom @SUBJ> #13->16
 "<—>"
 	"—" PUNCT #14->14
 "<шоналтен>"
 	"шоналташ" V Ger Gen #15->15
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #16->16
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #16->0
 "<.>"
 	"." CLB #17->17
 
 "<Шкеже>"
-	"шке" Pron Refl Nom PxSg3 @>N #1->2
+	"шке" A PxSg3 @>N #1->2
 "<тунам>"
 	"ту" N Sg PxPl1 Acc @OBJ> #2->5
 	"туна" N Sg Acc @OBJ> #2->5
+	"туна" N Sg PxSg1 Nom @SUBJ> #2->5
 	"тунам" Adv @ADVL> #2->5
 	"тунам" Pron Dem #2->5
 "<колхозышто>"
 	"колхоз" N Sg Ine @ADVL> #3->5
 "<пашам>"
 	"паша" N Sg Acc @OBJ> #4->5
+	"паша" N Sg PxSg1 Nom @SUBJ> #4->5
 "<ыштен>"
 	"ышташ" <mv> <mv> V Ind Prt2 Sg3 @FMV #5->5
 "<,>"
@@ -3125,32 +3128,31 @@
 	"икмыняр" Adv @ADVL> #7->11
 	"икмыняр" Pron Ind @+FMAINV #7->11
 "<тылзе>"
-	"тылзе" N Sg Nom @SUBJ> #8->8
+	"тылзе" N Sg Nom @SUBJ> #8->11
 "<оксамат>"
-	"окса" N Sg PxSg1 Nom Foc/at @SUBJ> #9->9
+	"окса" N Sg PxSg1 Nom Foc/at @SUBJ> #9->11
 "<налын>"
 	"налаш" V Ger Gen #10->10
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #11->11
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #11->0
 "<,>"
 	"," CLB #12->12
 "<ача>"
-	"ача" N Sg Nom @SUBJ> #13->13
+	"ача" N Sg Nom @SUBJ> #13->18
 "<дечат>"
 	"деч" Po Foc/at @ADVL> #14->18
 "<полыш>"
 	"поло" N Sg Ill @ADVL> #15->18
-	"полыш" N Sg Nom @SUBJ> #15->18
 "<лийын>"
 	"лияш" V Ger Gen #16->16
 "<кертын>"
 	"керташ" V Ger Gen #17->17
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #18->18
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #18->0
 "<—>"
 	"—" PUNCT #19->19
 "<тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #20->20
+	"тудо" Pron Pers Sg3 Nom PxSg3 @SUBJ> #20->20
 "<Настян>"
 	"Настя" N Prop Sg Gen @>A #21->21
 "<изи>"
@@ -3647,17 +3649,17 @@
 	"." CLB #19->19
 
 "<Тиде>"
-	"тиде" Pron Dem Sg Nom @SUBJ> #1->19
+	"тиде" Pron Dem Sg Nom @SUBJ> #1->6
 "<тасман>"
 	"тасма" N Sg Gen @>N #2->3
 "<корныжо>"
-	"корно" N Sg Nom PxSg3 @SUBJ> #3->19
+	"корно" N Sg Nom PxSg3 @SUBJ> #3->6
 "<гына>"
 	"гына" Adv #4->4
 "<вияш>"
 	"вияш" V Inf #5->5
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #6->6
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #6->0
 "<,>"
 	"," CLB #7->7
 "<шуко>"
@@ -3753,7 +3755,7 @@
 	"¶" CLB #1->1
 
 "<Медицина>"
-	"медицина" N Sg Nom @SUBJ> #1->1
+	"медицина" N Sg Nom @SUBJ> #1->12
 "<академийын>"
 	"академий" N Sg Gen @>A #2->2
 "<тӱҥ>"
@@ -3761,15 +3763,15 @@
 "<корпусшын>"
 	"корпус" N Sg PxSg3 Gen @>N #4->5
 "<омсаже>"
-	"омса" N Sg Nom PxSg3 @SUBJ> #5->5
+	"омса" N Sg Nom PxSg3 @SUBJ> #5->12
 "<кӱкшӧ>"
 	"кӱкшӧ" A #6->6
 "<да>"
 	"да" CC #7->7
 "<неле>"
-	"нелаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #8->8
-	"неле" A #8->8
-	"неле" N Sg Nom @SUBJ> #8->8
+	"нелаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #8->12
+	"неле" A #8->12
+	"неле" N Sg Nom @SUBJ> #8->12
 "<—>"
 	"—" PUNCT #9->9
 "<почашат>"
@@ -3778,7 +3780,7 @@
 	"куштылго" Adv @ADVL> #11->12
 	"куштылго" N Sg Nom @SUBJ> #11->12
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #12->12
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #12->0
 "<.>"
 	"." CLB #13->13
 
@@ -3927,7 +3929,7 @@
 	"." CLB #11->11
 
 "<Тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #1->1
+	"тудо" Pron Pers Sg3 Nom PxSg3 @SUBJ> #1->4
 "<нуным>"
 	"тудо" Pron Pers Pl3 Acc @OBJ> #2->3
 "<шерген>"
@@ -4125,13 +4127,14 @@
 	"тӱшкагудо" N Sg Acc @OBJ> #5->6
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #6->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #6->0
 "<пу>"
 	"пуаш" V ConNeg #7->7
 "<.>"
 	"." CLB #8->8
 
 "<Мо>"
-	"мо" Pron Interr Sg Nom @SUBJ> #1->1
+	"мо" Pron Interr Sg Nom @SUBJ> #1->5
 "<,>"
 	"," CLB #2->2
 "<тидым>"
@@ -4139,10 +4142,9 @@
 "<пален>"
 	"палаш" V Ger Gen #4->4
 "<огыдал>"
-	"ок" <mv> V Neg Ind Prt2 Pl2 @FS-N< #5->5
-	"улаш" <mv> V Neg Ind Prt2 Pl2 @FS-N< #5->5
+	"улаш" <mv> V Neg Ind Prs Pl2 @FS-N< #5->0
 "<мо>"
-	"мо" Pron Interr Sg Nom @<SUBJ #6->6
+	"мо" Pron Interr Sg Nom @<SUBJ #6->5
 "<?>"
 	"?" CLB #7->7
 
@@ -4209,6 +4211,7 @@
 	"тӱшкагудо" N Sg Acc @OBJ> #8->9
 "<огыт>"
 	"ок" <mv> V Neg Ind Prs Pl3 @FS-STA #9->2
+	"ок" <mv> V Neg Ind Prs Sg2 Indep @FS-STA #9->2
 "<пу>"
 	"пуаш" V ConNeg #10->10
 "<.>"
@@ -4556,8 +4559,8 @@
 	"?" CLB #5->5
 
 "<Ӱдыр>"
-	"Ӱдыр" N Sg Nom @SUBJ> #1->1
-	"ӱдыр" N Sg Nom @SUBJ> #1->1
+	"Ӱдыр" N Sg Nom @SUBJ> #1->6
+	"ӱдыр" N Sg Nom @SUBJ> #1->6
 "<пален>"
 	"палаш" <mv> <mv> V Ind Prt2 Sg3 @FMV #2->2
 "<вет>"
@@ -4565,9 +4568,9 @@
 "<:>"
 	":" CLB #4->4
 "<тӱшкагудо>"
-	"тӱшкагудо" N Sg Nom @HNOUN #5->5
+	"тӱшкагудо" N Sg Nom @SUBJ> #5->6
 "<уло>"
-	"уло" A #6->6
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #6->0
 "<.>"
 	"." CLB #7->7
 
@@ -5040,8 +5043,8 @@
 	"тӱрӧ" N Sg Ine Foc/ak @ADVL> #4->5
 	"тӱрӧ" N Sg PxPl3 Nom Foc/ak @SUBJ> #4->5
 "<шога>"
-	"шога" N Sg Nom @SUBJ> #5->0
-	"шогаш" <mv> <mv> V Ind Prs Sg3 @FMV #5->0
+	"шога" N Sg Nom @SUBJ> #5->10
+	"шогаш" <mv> <mv> V Ind Prs Sg3 @FMV #5->10
 "<,>"
 	"," CLB #6->6
 "<пазар>"
@@ -5052,7 +5055,7 @@
 "<пурен>"
 	"пураш" V Ger Gen #9->9
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #10->10
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #10->0
 "<.>"
 	"." CLB #11->11
 
@@ -5131,10 +5134,9 @@
 	"." CLB #5->5
 
 "<Тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #1->1
+	"тудо" Pron Pers Sg3 Nom PxSg3 @SUBJ> #1->1
 "<вашештыш>"
 	"вашешташ" <mv> <mv> V Ind Prt1 Sg3 @FMV #2->2
-	"вашештыш" N Sg Nom @HNOUN #2->2
 "<.>"
 	"." CLB #3->3
 
@@ -5472,6 +5474,7 @@
 	"тӱшкагудо" N Sg Acc @OBJ> #2->3
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #3->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #3->0
 "<пу>"
 	"пуаш" V ConNeg #4->4
 "<.>"
@@ -5517,9 +5520,9 @@
 	"." CLB #9->9
 
 "<Верна>"
-	"вер" N Sg PxPl1 Nom @HNOUN #1->1
+	"вер" N Sg PxPl1 Nom @SUBJ> #1->2
 "<уло>"
-	"уло" A #2->2
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #2->0
 "<.>"
 	"." CLB #3->3
 
@@ -6728,7 +6731,7 @@
 "<веле>"
 	"велаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #17->17
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #18->18
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #18->0
 "<,>"
 	"," CLB #19->19
 "<шӱм-чонымак>"
@@ -6795,7 +6798,7 @@
 "<кӧрак>"
 	"кӧра" Adv Foc/ak @ADVL> #3->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<мо>"
 	"мо" A #5->5
 "<кундемыштына>"
@@ -7335,24 +7338,24 @@
 	"." CLB #10->10
 
 "<Икте>"
-	"икте" Num Sg Nom @SUBJ> #1->1
-	"икте" Pron Ind @+FMAINV #1->1
+	"икте" Num Sg Nom @SUBJ> #1->8
+	"икте" Pron Ind @+FMAINV #1->8
 "<раш>"
-	"раш" A #2->2
-	"раш" A Der/MWN N Sg Nom @SUBJ> #2->2
-	"раш" Adv @<ADVL #2->2
+	"раш" A #2->8
+	"раш" A Der/MWN N Sg Nom @SUBJ> #2->8
+	"раш" Adv @<ADVL #2->8
 "<:>"
 	":" CLB #3->3
 "<кугыжан>"
 	"кугыжан" A #4->4
 "<кид>"
-	"кид" N Sg Nom @SUBJ> #5->5
+	"кид" N Sg Nom @SUBJ> #5->8
 "<йымакше>"
 	"йымак" Po PxSg3 #6->6
 "<логалаш>"
 	"логалаш" V Inf #7->7
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #8->8
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #8->0
 "<манын>"
 	"манын" CS #9->8
 	"манаш" <mv> <mv> V Ind Prt2 Sg3 @FMV #9->8
@@ -7430,7 +7433,7 @@
 "<шукертат>"
 	"шукерте" Adv Foc/at @ADVL> #9->10
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #10->10
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #10->0
 "<Кырмыж>"
 	"кырмыж" N Sg Nom @SUBJ> #11->11
 "<лӱман>"
@@ -7447,23 +7450,23 @@
 "<Тачысе>"
 	"тачысе" A #1->1
 "<кечынат>"
-	"кече" N Sg Gen Foc/at @>A #2->2
-	"кече" N Sg PxPl1 Nom Foc/at @HNOUN #2->2
-	"кечын" Adv Foc/at @<ADVL #2->2
-	"кечынат" Adv @<ADVL #2->2
+	"кече" N Sg Gen Foc/at @>A #2->8
+	"кече" N Sg PxPl1 Nom Foc/at @SUBJ> #2->8
+	"кечын" Adv Foc/at @ADVL> #2->8
+	"кечынат" Adv @ADVL> #2->8
 "<тыгаяк>"
 	"тыгай" A Foc/ak #3->3
 	"тыгаяк" A #3->3
 "<лӱман>"
 	"лӱман" A #4->4
 "<села>"
-	"села" N Sg Nom @HNOUN #5->5
+	"села" N Sg Nom @SUBJ> #5->8
 "<Киров>"
-	"Киров" N Prop Sg Nom @HNOUN #6->6
+	"Киров" N Prop Sg Nom @SUBJ> #6->8
 "<областьыште>"
-	"область" N Sg Ine @N< #7->6
+	"область" N Sg Ine @ADVL> #7->8
 "<уло>"
-	"уло" A #8->8
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #8->0
 "<.>"
 	"." CLB #9->9
 
@@ -7500,30 +7503,29 @@
 "<лӱман>"
 	"лӱман" A #2->2
 "<эҥер>"
-	"эҥер" N Sg Nom @HNOUN #3->3
+	"эҥер" N Sg Nom @SUBJ> #3->6
 "<Горьковский>"
 	"Горьковский" ? #4->4
 "<областьыштат>"
-	"область" N Sg Ine Foc/at @N< #5->3
-	"область" N Sg PxPl3 Nom Foc/at @HNOUN #5->3
+	"область" N Sg Ine Foc/at @ADVL> #5->6
+	"область" N Sg PxPl3 Nom Foc/at @SUBJ> #5->6
 "<уло>"
-	"уло" A #6->6
-	"уло" N Sg Nom @HNOUN #6->6
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #6->0
 "<,>"
 	"," CLB #7->7
 "<адакше>"
-	"адак" Adv PxSg3 @<ADVL #8->8
-	"адакше" Adv @<ADVL #8->8
+	"адак" Adv PxSg3 @<ADVL #8->6
+	"адакше" Adv @<ADVL #8->6
 "<тудо>"
-	"тудо" Pron Pers Sg3 Nom @HNOUN #9->9
+	"тудо" Pron Pers Sg3 Nom @<SUBJ #9->6
 "<эше>"
-	"эше" Adv @<ADVL #10->10
+	"эше" Adv @<ADVL #10->6
 "<мемнан>"
 	"мый" Pron Pers Pl1 Gen #11->11
 "<Немда>"
 	"Немда" ? #12->12
 "<деч>"
-	"деч" Po @N< #13->11
+	"деч" Po @<ADVL #13->6
 "<кугурак>"
 	"кугу" A Comp #14->14
 "<.>"
@@ -7636,6 +7638,7 @@
 	"родо-тукым" N Pl PxPl1 Nom @SUBJ> #12->13
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #13->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #13->0
 "<иле>"
 	"илаш" V ConNeg #14->14
 "<?>"
@@ -7704,7 +7707,7 @@
 	"." CLB #25->25
 
 "<Мутат>"
-	"мут" N Sg Nom Foc/at @SUBJ> #1->1
+	"мут" N Sg Nom Foc/at @SUBJ> #1->12
 "<уке>"
 	"уке" Adv @ADVL> #2->12
 "<,>"
@@ -7712,7 +7715,7 @@
 "<ялнан>"
 	"ял" N Sg PxPl1 Gen @>N #4->5
 "<лӱмжӧ>"
-	"лӱм" N Sg Nom PxSg3 @SUBJ> #5->5
+	"лӱм" N Sg Nom PxSg3 @SUBJ> #5->12
 "<ондакше>"
 	"ондак" Adv PxSg3 @ADVL> #6->12
 	"ондакше" Adv @ADVL> #6->12
@@ -7721,13 +7724,13 @@
 "<Марий>"
 	"марий" A #8->8
 "<Олма>"
-	"олма" N Sg Nom @SUBJ> #9->9
+	"олма" N Sg Nom @SUBJ> #9->12
 "<лийын>"
 	"лияш" V Ger Gen #10->10
 "<кертын>"
 	"керташ" V Ger Gen #11->11
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #12->12
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #12->0
 "<.>"
 	"." CLB #13->13
 
@@ -7737,17 +7740,17 @@
 "<«>"
 	"«" ? #2->2
 "<олма>"
-	"олма" A #3->3
-	"олма" N Sg Nom @SUBJ> #3->3
+	"олма" A #3->7
+	"олма" N Sg Nom @SUBJ> #3->7
 "<»>"
 	"»" ? #4->4
 "<мутшат>"
-	"мут" N Sg PxSg3 Nom Foc/at @SUBJ> #5->5
+	"мут" N Sg PxSg3 Nom Foc/at @SUBJ> #5->7
 "<олмам>"
 	"олма" N Sg Acc @OBJ> #6->7
 	"олма" N Sg PxSg1 Nom @SUBJ> #6->7
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<,>"
 	"," CLB #8->8
 "<олмым>"
@@ -7782,15 +7785,15 @@
 	"жап" N Sg Ine @ADVL> #5->10
 	"жапыште" Adv @ADVL> #5->10
 "<ял>"
-	"ял" N Sg Nom @SUBJ> #6->13
+	"ял" N Sg Nom @SUBJ> #6->10
 "<лӱмын>"
 	"лӱмын" A #7->7
 "<кӱлешлыкшат>"
-	"кӱлешлык" N Sg PxSg3 Nom Foc/at @SUBJ> #8->13
+	"кӱлешлык" N Sg PxSg3 Nom Foc/at @SUBJ> #8->10
 "<лийын>"
 	"лияш" V Ger Gen #9->9
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #10->10
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #10->0
 "<,>"
 	"," CLB #11->11
 "<тиде>"
@@ -7818,7 +7821,7 @@
 "<путаяш>"
 	"путаяш" V Inf #23->19
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #24->24
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #24->0
 "<манын>"
 	"манын" CS #25->24
 	"манаш" <mv> <mv> V Ind Prt2 Sg3 @FMV #25->24
@@ -7866,14 +7869,14 @@
 "<ожно>"
 	"ожно" Adv @<ADVL #12->11
 "<верланыше>"
-	"верланаш" V Act Prc N Sg Nom @SUBJ> #13->13
+	"верланаш" V Act Prc N Sg Nom @SUBJ> #13->25
 "<кок-кум>"
-	"кок-кум" N Sg Nom @SUBJ> #14->14
+	"кок-кум" N Sg Nom @SUBJ> #14->25
 "<ешын>"
 	"еш" N Sg Gen @>N #15->16
 "<илемыштат>"
-	"илем" N Sg Ine Foc/at @-F<ADVL #16->16
-	"илем" N Sg PxPl3 Nom Foc/at @SUBJ> #16->16
+	"илем" N Sg Ine Foc/at @-F<ADVL #16->25
+	"илем" N Sg PxPl3 Nom Foc/at @SUBJ> #16->25
 "<кызытсе>"
 	"кызытсе" A #17->17
 "<семын>"
@@ -7892,7 +7895,7 @@
 	"чоҥалташ" V Ger Gen #24->24
 	"чоҥаш" Der/Refl V Ger Gen #24->24
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #25->25
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #25->0
 "<.>"
 	"." CLB #26->26
 
@@ -8151,13 +8154,13 @@
 "<вес>"
 	"вес" A #13->13
 "<илемат>"
-	"илемаш" <mv> <mv> V Ind Prs Sg2 @FMV #14->0
-	"илем" N Sg Nom Foc/at @SUBJ> #14->0
-	"илаш" <mv> <mv> V Ind Prs Sg1 Foc/at @FMV #14->0
+	"илемаш" <mv> <mv> V Ind Prs Sg2 @FMV #14->16
+	"илем" N Sg Nom Foc/at @SUBJ> #14->16
+	"илаш" <mv> <mv> V Ind Prs Sg1 Foc/at @FMV #14->16
 "<лийын>"
 	"лияш" V Ger Gen #15->15
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #16->16
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #16->0
 "<.>"
 	"." CLB #17->17
 
@@ -8245,15 +8248,15 @@
 	"уто" N Sg PxSg3 Acc @OBJ> #5->8
 	"утыжым" Adv @ADVL> #5->8
 "<нелылык>"
-	"нелылык" N Sg Nom @SUBJ> #6->18
+	"нелылык" N Sg Nom @SUBJ> #6->8
 "<вашлиялтын>"
 	"вашлиялташ" V Ger Gen #7->7
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #8->8
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #8->0
 "<:>"
 	":" CLB #9->9
 "<чоҥаш>"
-	"чоҥаш" V Inf #10->10
+	"чоҥаш" V Inf #10->8
 "<йӧрышӧ>"
 	"йӧрышӧ" A #11->11
 "<кожер>"
@@ -8510,18 +8513,18 @@
 "<весымат>"
 	"весе" A Ord Sg Acc Foc/at @OBJ> #16->17
 "<палем>"
-	"палаш" <mv> <mv> V Ind Prs Sg1 @FMV #17->0
-	"пале" N Sg PxSg1 Nom @SUBJ> #17->0
+	"палаш" <mv> <mv> V Ind Prs Sg1 @FMV #17->31
+	"пале" N Sg PxSg1 Nom @SUBJ> #17->31
 "<:>"
 	":" CLB #18->18
 "<тӱҥалтыш>"
-	"тӱҥалтыш" N Sg Nom @SUBJ> #19->19
+	"тӱҥалтыш" N Sg Nom @SUBJ> #19->31
 "<годым>"
 	"годым" Po @ADVL> #20->24
 "<толшо>"
 	"толшо" A #21->21
 "<руш-шамычет>"
-	"руш" N Pl PxSg2 Nom @SUBJ> #22->22
+	"руш" N Pl PxSg2 Nom @SUBJ> #22->31
 "<сарланен>"
 	"сарланаш" V Ger Gen #23->23
 "<толашеныт>"
@@ -8529,8 +8532,8 @@
 "<,>"
 	"," CLB #25->25
 "<но>"
-	"но" CC #26->26
-	"но" N Sg Nom @SUBJ> #26->26
+	"но" CC #26->31
+	"но" N Sg Nom @SUBJ> #26->31
 "<марий>"
 	"марий" A #27->27
 "<олмым>"
@@ -8540,7 +8543,7 @@
 "<кертын>"
 	"керташ" V Ger Gen #30->30
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #31->31
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #31->0
 "<.>"
 	"." CLB #32->32
 
@@ -8663,16 +8666,16 @@
 "<негызым>"
 	"негыз" N Sg Acc @OBJ> #7->8
 "<пыштыше>"
-	"пышташ" V Act Prc N Sg Nom @SUBJ> #8->8
-	"пыштыше" N Sg Nom @SUBJ> #8->8
+	"пышташ" V Act Prc N Sg Nom @SUBJ> #8->27
+	"пыштыше" N Sg Nom @SUBJ> #8->27
 "<мемнан>"
 	"мый" Pron Pers Pl1 Gen @>A #9->9
 "<акрет>"
 	"акрет" A #10->10
 "<кугезе>"
-	"кугезе" N Sg Nom @SUBJ> #11->11
+	"кугезе" N Sg Nom @SUBJ> #11->27
 "<кочана>"
-	"коча" N Sg PxPl1 Nom @SUBJ> #12->12
+	"коча" N Sg PxPl1 Nom @SUBJ> #12->27
 "<Элмемэд>"
 	"Элмемэд" ? #13->13
 "<ден>"
@@ -8684,7 +8687,7 @@
 "<Коштрама>"
 	"Коштрама" ? #17->17
 "<кундемышт>"
-	"кундем" N Sg PxPl3 Nom @SUBJ> #18->18
+	"кундем" N Sg PxPl3 Nom @SUBJ> #18->27
 "<гыч>"
 	"гыч" Po @-F<ADVL #19->19
 "<шукерте>"
@@ -8698,12 +8701,12 @@
 "<тарванашышт>"
 	"тарванаш" V Inf PxPl3 #24->4
 "<амал>"
-	"амал" N Sg Nom @SUBJ> #25->25
+	"амал" N Sg Nom @SUBJ> #25->27
 "<шагал>"
 	"шагал" A #26->26
 	"шагал" Num #26->26
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #27->27
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #27->0
 "<лийын>"
 	"лияш" <mv> <mv> V Ind Prt2 Sg3 @FMV #28->28
 "<:>"
@@ -9422,7 +9425,7 @@
 "<чодыран>"
 	"чодыран" A #4->4
 "<вер>"
-	"вер" N Sg Nom @SUBJ> #5->5
+	"вер" N Sg Nom @SUBJ> #5->11
 "<келшен>"
 	"келшаш" <mv> <mv> V Ind Prt2 Sg3 @FMV #6->6
 "<да>"
@@ -9437,7 +9440,7 @@
 "<каен>"
 	"каяш" V Ger Gen #10->10
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #11->11
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #11->0
 "<.>"
 	"." CLB #12->12
 
@@ -9688,7 +9691,7 @@
 "<кызыт>"
 	"кызыт" Adv @-F<ADVL #7->7
 "<мартеат>"
-	"мартеат" ? #8->8
+	"марте" Po Foc/at @-F<ADVL #8->8
 "<кодын>"
 	"код" N Sg Gen @>N #9->11
 	"кодын" Adv @-F<ADVL #9->11
@@ -9841,9 +9844,9 @@
 	"." CLB #12->12
 
 "<Пӧрткӧргӧ>"
-	"пӧрткӧргӧ" N Sg Nom @SUBJ> #1->1
+	"пӧрткӧргӧ" N Sg Nom @SUBJ> #1->16
 "<кӱвар>"
-	"кӱвар" N Sg Nom @SUBJ> #2->2
+	"кӱвар" N Sg Nom @SUBJ> #2->16
 "<ден>"
 	"ден" CC #3->3
 "<пургыжлан>"
@@ -9855,7 +9858,7 @@
 "<пеле>"
 	"пеле" A #7->7
 "<шелме>"
-	"шелаш" V Pass Prc N Sg Nom @SUBJ> #8->8
+	"шелаш" V Pass Prc N Sg Nom @SUBJ> #8->16
 "<вичкыжрак>"
 	"вичкыж" A Comp #9->9
 "<пырням>"
@@ -9866,9 +9869,9 @@
 "<,>"
 	"," CLB #12->12
 "<пила>"
-	"пи" N LocPl Nom @SUBJ> #13->13
-	"пи" N Sg Cmpr #13->13
-	"пила" N Sg Nom @SUBJ> #13->13
+	"пи" N LocPl Nom @SUBJ> #13->16
+	"пи" N Sg Cmpr #13->16
+	"пила" N Sg Nom @SUBJ> #13->16
 "<тунам>"
 	"ту" N Sg PxPl1 Acc @OBJ> #14->15
 	"туна" N Sg Acc @OBJ> #14->15
@@ -9877,20 +9880,20 @@
 "<лийын>"
 	"лияш" V Ger Gen #15->15
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #16->16
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #16->0
 "<,>"
 	"," CLB #17->17
 "<товаржат>"
-	"товар" N Sg PxSg3 Nom Foc/at @SUBJ> #18->18
+	"товар" N Sg PxSg3 Nom Foc/at @SUBJ> #18->21
 "<кызытсе>"
 	"кызытсе" A #19->19
 "<гай>"
 	"гай" Adv @ADVL> #20->21
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #21->21
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #21->0
 "<улмаш>"
-	"улмаш" N Sg Nom @<SUBJ #22->22
-	"улаш" <mv> <mv> V Ind Prt2 Sg3 @FMV #22->22
+	"улмаш" N Sg Nom @<SUBJ #22->21
+	"улаш" <mv> <mv> V Ind Prt2 Sg3 @FMV #22->21
 "<.>"
 	"." CLB #23->23
 
@@ -10012,7 +10015,7 @@
 "<,>"
 	"," CLB #5->5
 "<памаш>"
-	"памаш" N Sg Nom @SUBJ> #6->6
+	"памаш" N Sg Nom @SUBJ> #6->9
 "<деч>"
 	"деч" Po @ADVL> #7->9
 "<тораштак>"
@@ -10020,7 +10023,7 @@
 	"тора" N Sg PxPl3 Nom Foc/ak @SUBJ> #8->9
 	"тора" N Sg Ine Foc/ak @ADVL> #8->9
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #9->9
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #9->0
 "<,>"
 	"," CLB #10->10
 "<рок>"
@@ -10028,7 +10031,7 @@
 "<пӧртым>"
 	"пӧрт" N Sg Acc @OBJ> #12->13
 "<ышташ>"
-	"ышташ" V Inf #13->13
+	"ышташ" V Inf #13->9
 "<пижыныт>"
 	"пижаш" <mv> <mv> V Ind Prt2 Pl3 @FMV #14->14
 "<.>"
@@ -10196,7 +10199,7 @@
 "<веле>"
 	"велаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #4->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #5->0
 "<,>"
 	"," CLB #6->6
 "<вургемлык>"
@@ -10204,7 +10207,7 @@
 "<вынерым>"
 	"вынер" N Sg Acc @OBJ> #8->9
 "<куаш>"
-	"куаш" V Inf #9->9
+	"куаш" V Inf #9->5
 "<йытын>"
 	"йытын" N Sg Nom @SUBJ> #10->10
 "<ден>"
@@ -10516,15 +10519,15 @@
 	"нигунам" Pron Ind Foc/at @+FMAINV #5->5
 	"нигунамат" Pron Ind @+FMAINV #5->5
 "<ӱчашымаш>"
-	"ӱчашымаш" N Sg Nom @SUBJ> #6->6
+	"ӱчашымаш" N Sg Nom @SUBJ> #6->10
 "<,>"
 	"," CLB #7->7
 "<тавалымаш>"
-	"тавалымаш" N Sg Nom @SUBJ> #8->8
+	"тавалымаш" N Sg Nom @SUBJ> #8->10
 "<лийын>"
 	"лияш" V Ger Gen #9->9
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #10->10
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #10->0
 "<.>"
 	"." CLB #11->11
 
@@ -10597,15 +10600,15 @@
 "<илыме>"
 	"илыме" A #14->14
 "<вер>"
-	"вер" N Sg Nom @SUBJ> #15->15
+	"вер" N Sg Nom @SUBJ> #15->19
 "<ала-мо>"
-	"ала-мо" Pron Ind Sg Nom @SUBJ> #16->16
+	"ала-мо" Pron Ind Sg Nom @SUBJ> #16->19
 "<дене>"
 	"дене" Po @ADVL> #17->19
 "<келшен>"
 	"келшаш" V Ger Gen #18->18
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #19->19
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #19->0
 "<дыр>"
 	"дыр" Adv @<ADVL #20->19
 "<.>"
@@ -10887,7 +10890,7 @@
 	"." CLB #23->23
 
 "<Тидыже>"
-	"тиде" Pron Dem Sg Nom PxSg3 @SUBJ> #1->1
+	"тиде" Pron Dem Sg Nom PxSg3 @SUBJ> #1->7
 "<,>"
 	"," CLB #2->2
 "<такше>"
@@ -10900,7 +10903,7 @@
 "<алмаштын>"
 	"алмашташ" V Ger Gen #6->6
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<,>"
 	"," CLB #8->8
 "<тачат>"
@@ -10916,7 +10919,7 @@
 	"утларак" Adv PxSg3 @<ADVL #13->7
 	"утларакше" Adv @<ADVL #13->7
 "<ӱдыр>"
-	"ӱдыр" N Sg Nom @<SUBJ #14->14
+	"ӱдыр" N Sg Nom @<SUBJ #14->7
 "<йоча>"
 	"йоча" A #15->15
 "<шочеш>"
@@ -10932,7 +10935,7 @@
 	"ятыр" Adv @ADVL> #3->14
 	"ятыр" N Sg Nom @SUBJ> #3->14
 "<жап>"
-	"жап" N Sg Nom @SUBJ> #4->4
+	"жап" N Sg Nom @SUBJ> #4->18
 "<Элмемэд>"
 	"Элмемэд" ? #5->5
 "<ден>"
@@ -10940,7 +10943,7 @@
 "<Элембэрд>"
 	"Элембэрд" ? #7->7
 "<тукым>"
-	"тукым" N Sg Nom @SUBJ> #8->8
+	"тукым" N Sg Nom @SUBJ> #8->18
 "<илемшамыч>"
 	"илемшамыч" ? #9->9
 "<,>"
@@ -10950,7 +10953,7 @@
 	"вара" N Sg Nom PxSg3 @SUBJ> #11->14
 	"вараже" Adv @ADVL> #11->14
 "<ялат>"
-	"ял" N Sg Nom Foc/at @SUBJ> #12->12
+	"ял" N Sg Nom Foc/at @SUBJ> #12->18
 "<сайын>"
 	"сайын" Adv @ADVL> #13->14
 "<воранен>"
@@ -10962,7 +10965,7 @@
 "<кертын>"
 	"керташ" V Ger Gen #17->17
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #18->18
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #18->0
 "<.>"
 	"." CLB #19->19
 
@@ -10971,6 +10974,7 @@
 "<Олма>"
 	"олма" A #2->2
 "<уло>"
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #3->10
 	"уло" A #3->10
 	"уло" N Sg Nom @SUBJ> #3->10
 "<Лаж>"
@@ -11014,9 +11018,9 @@
 	"тушто" Adv @ADVL> #19->26
 	"тушто" N Sg Nom @SUBJ> #19->26
 "<кудло>"
-	"кудло" Num Sg Nom @SUBJ> #20->20
+	"кудло" Num Sg Nom @SUBJ> #20->26
 "<сурт>"
-	"сурт" N Sg Nom @SUBJ> #21->21
+	"сурт" N Sg Nom @SUBJ> #21->26
 "<деч>"
 	"деч" Po @ADVL> #22->26
 "<утлаже>"
@@ -11029,7 +11033,7 @@
 "<лийын>"
 	"лияш" V Ger Gen #25->25
 "<огыл>"
-	"ок" <mv> V Neg Ind Prt2 Sg3 @FS-STA #26->10
+	"улаш" <mv> V Neg Ind Prs Sg3 @FS-STA #26->10
 "<.>"
 	"." CLB #27->27
 
@@ -11069,13 +11073,13 @@
 "<пернен>"
 	"пернаш" <mv> <mv> V Ind Prt2 Sg3 @FMV #4->4
 "<пошкудо>"
-	"пошкудо" N Sg Nom @SUBJ> #5->5
+	"пошкудо" N Sg Nom @SUBJ> #5->8
 "<марий>"
-	"марий" N Sg Nom @SUBJ> #6->6
+	"марий" N Sg Nom @SUBJ> #6->8
 "<веле>"
 	"велаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #7->7
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #8->8
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #8->0
 "<,>"
 	"," CLB #9->9
 "<татар>"
@@ -11096,11 +11100,11 @@
 "<логалын>"
 	"логалаш" <mv> <mv> V Ind Prt2 Sg3 @FMV #17->17
 "<кугезе>"
-	"кугезе" N Sg Nom @<SUBJ #18->18
+	"кугезе" N Sg Nom @<SUBJ #18->8
 "<марий>"
 	"марий" A #19->19
 "<олмо>"
-	"олмо" N Sg Nom @<SUBJ #20->20
+	"олмо" N Sg Nom @<SUBJ #20->8
 "<Марий>"
 	"марий" A #21->21
 "<Олма>"
@@ -11146,7 +11150,7 @@
 "<толын>"
 	"толаш" V Ger Gen #40->40
 "<лектын>"
-	"лекташ" <mv> V Ind Prt2 Sg3 @FS-N< #41->26
+	"лекташ" <mv> V Ind Prt2 Sg3 @FS-STA #41->17
 "<мемнан>"
 	"мый" Pron Pers Pl1 Gen @>N #42->43
 "<кугезе>"
@@ -11160,10 +11164,10 @@
 "<мужедаш>"
 	"мужедаш" V Inf #47->47
 "<веле>"
-	"велаш" <mv> V Ind Prt1 Sg3 @FS-N< #48->26
+	"велаш" <mv> V Ind Prt1 Sg3 @FS-STA #48->17
 "<кодеш>"
-	"код" N Sg Lat #49->26
-	"кодаш" <mv> V Ind Prs Sg3 @FS-N< #49->26
+	"код" N Sg Lat #49->17
+	"кодаш" <mv> V Ind Prs Sg3 @FS-STA #49->17
 "<.>"
 	"." CLB #50->50
 
@@ -11813,8 +11817,8 @@
 	"." CLB #14->14
 
 "<Такше>"
-	"так" Adv PxSg3 @<ADVL #1->1
-	"такше" Adv @<ADVL #1->1
+	"так" Adv PxSg3 @-FADVL> #1->1
+	"такше" Adv @-FADVL> #1->1
 "<,>"
 	"," CLB #2->2
 "<Марий>"
@@ -11822,26 +11826,26 @@
 "<Олма>"
 	"олма" A #4->4
 "<нерген>"
-	"нерген" Po #5->5
+	"нерген" Po @-FADVL> #5->5
 "<эше>"
-	"эше" Adv @<ADVL #6->6
+	"эше" Adv @-FADVL> #6->6
 "<ик>"
 	"икте" Num Attr @>N #7->7
 "<путырак>"
-	"путырак" Adv @<ADVL #8->8
+	"путырак" Adv @-FADVL> #8->8
 "<тыглайла>"
-	"тыглай" Adv Weak @<ADVL #9->9
+	"тыглай" Adv Weak @-FADVL> #9->9
 "<,>"
 	"," CLB #10->10
 "<простала>"
-	"проста" A Der/MWN N LocPl Nom @SUBJ> #11->11
-	"проста" A Der/MWN N Sg Cmpr #11->11
+	"проста" A Der/MWN N LocPl Nom @SUBJ> #11->14
+	"проста" A Der/MWN N Sg Cmpr #11->14
 "<чучшо>"
-	"чучаш" V Act Prc N Sg Nom @HNOUN #12->12
+	"чучаш" V Act Prc N Sg Nom @SUBJ> #12->14
 "<легенде>"
-	"легенде" N Sg Nom #13->13
+	"легенде" N Sg Nom @SUBJ> #13->14
 "<уло>"
-	"уло" A #14->14
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #14->0
 "<.>"
 	"." CLB #15->15
 
@@ -11899,21 +11903,21 @@
 	"." CLB #23->23
 
 "<Чынак>"
-	"чынак" Pcle @PCLE #1->1
-	"чын" A Foc/ak #1->1
-	"чын" N Sg Nom Foc/ak @SUBJ> #1->1
+	"чынак" Pcle @PCLE #1->7
+	"чын" A Foc/ak #1->7
+	"чын" N Sg Nom Foc/ak @SUBJ> #1->7
 "<,>"
 	"," CLB #2->2
 "<ир>"
 	"ир" A #3->3
 "<олмапужо>"
-	"олмапу" N Sg Nom PxSg3 @SUBJ> #4->4
+	"олмапу" N Sg Nom PxSg3 @SUBJ> #4->7
 "<эше>"
 	"эшаш" V ConNeg #5->5
 "<шукерте>"
 	"шукерте" Adv @ADVL> #6->7
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<,>"
 	"," CLB #8->8
 "<улыжат>"
@@ -11958,8 +11962,8 @@
 	"." CLB #26->26
 
 "<Ялна>"
-	"ял" N Sg PxPl1 Nom @SUBJ> #1->0
-	"ялнаш" <mv> <mv> V Ind Prs Sg3 @FMV #1->0
+	"ял" N Sg PxPl1 Nom @SUBJ> #1->16
+	"ялнаш" <mv> <mv> V Ind Prs Sg3 @FMV #1->16
 "<,>"
 	"," CLB #2->2
 "<эн>"
@@ -11969,30 +11973,30 @@
 "<,>"
 	"," CLB #5->5
 "<кум>"
-	"кум" N Sg Nom @SUBJ> #6->6
-	"кум" Num Attr @>Num #6->6
+	"кум" N Sg Nom @SUBJ> #6->16
+	"кум" Num Attr @>Num #6->16
 "<шӱдӧ>"
-	"шӱдаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #7->7
-	"шӱдӧ" Num Sg Nom @SUBJ> #7->7
+	"шӱдаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #7->16
+	"шӱдӧ" Num Sg Nom @SUBJ> #7->16
 "<витле>"
-	"витле" Num Sg Nom @SUBJ> #8->8
+	"витле" Num Sg Nom @SUBJ> #8->16
 "<—>"
 	"—" PUNCT #9->9
 "<ныл>"
 	"ныл" Num Attr @>Num #10->10
 "<шӱдӧ>"
-	"шӱдаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #11->11
-	"шӱдӧ" Num Sg Nom @SUBJ> #11->11
+	"шӱдаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #11->16
+	"шӱдӧ" Num Sg Nom @SUBJ> #11->16
 "<ий>"
-	"ий" N Sg Nom @SUBJ> #12->12
+	"ий" N Sg Nom @SUBJ> #12->16
 "<деч>"
 	"деч" Po @ADVL> #13->16
 "<изи>"
 	"изи" A #14->14
 "<ийготан>"
-	"ийготан" A Der/MWN N Sg Nom @SUBJ> #15->15
+	"ийготан" A Der/MWN N Sg Nom @SUBJ> #15->16
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #16->16
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #16->0
 "<.>"
 	"." CLB #17->17
 
@@ -12730,24 +12734,24 @@
 "<налын>"
 	"налаш" V Ger Gen #4->4
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #5->0
 "<.>"
 	"." CLB #6->6
 
 "<Тиде>"
-	"тиде" Pron Dem Sg Nom @HNOUN #1->1
+	"тиде" Pron Dem Sg Nom @SUBJ> #1->7
 "<чодыраште>"
-	"чодыра" N Sg Ine @N< #2->1
+	"чодыра" N Sg Ine @ADVL> #2->7
 "<пеш>"
-	"пеш" Adv @<ADVL #3->3
+	"пеш" Adv @ADVL> #3->7
 "<кугу>"
 	"кугу" A #4->4
 "<Ажун>"
 	"Ажун" ? #5->5
 "<ер>"
-	"ер" N Sg Nom @HNOUN #6->6
+	"ер" N Sg Nom @SUBJ> #6->7
 "<уло>"
-	"уло" A #7->7
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #7->0
 "<.>"
 	"." CLB #8->8
 
@@ -13517,7 +13521,7 @@
 "<пуыш>"
 	"пуаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #3->3
 "<тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #4->4
+	"тудо" Pron Pers Sg3 Nom PxSg3 @<SUBJ #4->4
 "<.>"
 	"." CLB #5->5
 
@@ -13563,9 +13567,9 @@
 "<кугу>"
 	"кугу" A #7->7
 "<курык>"
-	"курык" N Sg Nom @<SUBJ #8->4
+	"курыкташ" V Ger Gen #8->8
 "<уло>"
-	"уло" A #9->9
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #9->0
 "<.>"
 	"." CLB #10->10
 
@@ -13866,11 +13870,11 @@
 "<—>"
 	"—" PUNCT #1->1
 "<Памаш>"
-	"памаш" N Sg Nom @SUBJ> #2->9
+	"памаш" N Sg Nom @SUBJ> #2->4
 "<вӱд>"
 	"вӱдаш" V Ger Gen #3->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<,>"
 	"," CLB #5->5
 "<Лаймыр>"
@@ -14248,11 +14252,11 @@
 "<Мыйын>"
 	"мый" Pron Pers Sg1 Gen @>N #2->3
 "<пурса>"
-	"пурса" N Sg Nom @SUBJ> #3->10
+	"пурса" N Sg Nom @SUBJ> #3->5
 "<пасуэм>"
-	"пасу" N Sg PxSg1 Nom @SUBJ> #4->10
+	"пасу" N Sg PxSg1 Nom @SUBJ> #4->5
 "<уло>"
-	"уло" A #5->5
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #5->0
 "<,>"
 	"," CLB #6->6
 "<тушко>"
@@ -14357,7 +14361,7 @@
 	"." CLB #11->11
 
 "<Шкеже>"
-	"шке" Pron Refl Nom PxSg3 @ADVL> #1->3
+	"шке" A PxSg3 @ADVL> #1->3
 "<шылын>"
 	"шылаш" V Ger Gen #2->2
 "<шинчеш>"
@@ -14547,6 +14551,7 @@
 	"ойырлаш" V Ger Gen #3->3
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #4->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #4->0
 "<керт>"
 	"керташ" V ConNeg #5->5
 "<,>"
@@ -15294,7 +15299,6 @@
 
 "<Шӱжарем>"
 	"шӱжар" N Sg PxSg1 Nom @HNOUN #1->1
-	"шӱжарем" N Sg Nom @HNOUN #1->1
 "<!>"
 	"^excl" CLB #2->2
 
@@ -17236,16 +17240,16 @@
 "<Вет>"
 	"вет" CC WORK #1->1
 "<кас>"
-	"кас" Adv @<ADVL #2->2
-	"кас" N Sg Nom @HNOUN #2->2
+	"кас" Adv @ADVL> #2->6
+	"кас" N Sg Nom @SUBJ> #2->6
 "<марте>"
-	"марте" Po @N< #3->2
+	"марте" Po @ADVL> #3->6
 "<жап>"
-	"жап" N Sg Nom @HNOUN #4->4
+	"жап" N Sg Nom @SUBJ> #4->6
 "<шуко>"
-	"шуко" A #5->5
+	"шуко" N Sg Nom @SUBJ> #5->6
 "<уло>"
-	"уло" N Sg Nom @HNOUN #6->6
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #6->0
 "<.>"
 	"." CLB #7->7
 
@@ -17363,11 +17367,11 @@
 	"^excl" CLB #1->1
 
 "<Родо-тукым>"
-	"родо-тукым" N Sg Nom @SUBJ> #1->1
+	"родо-тукым" N Sg Nom @SUBJ> #1->3
 "<мойн>"
 	"мойн" ? #2->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<,>"
 	"," CLB #4->4
 "<кеч>"
@@ -17412,7 +17416,7 @@
 "<ойлен>"
 	"ойлаш" V Ger Gen #3->3
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #4->0
 "<.>"
 	"." CLB #5->5
 
@@ -17570,11 +17574,11 @@
 	"ала" CC #4->0
 	"алаш" <mv> <mv> V Ind Prs Sg3 @FMV #4->0
 "<верже>"
-	"вер" N Sg Nom PxSg3 @SUBJ> #5->5
+	"вер" N Sg Nom PxSg3 @SUBJ> #5->7
 "<тиде>"
-	"тиде" Pron Dem Sg Nom @SUBJ> #6->6
+	"тиде" Pron Dem Sg Nom @SUBJ> #6->7
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<?>"
 	"?" CLB #8->8
 
@@ -17648,7 +17652,7 @@
 	"." CLB #11->11
 
 "<Тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #1->1
+	"тудо" Pron Pers Sg3 Nom PxSg3 @SUBJ> #1->1
 "<Настялан>"
 	"Настя" N Prop Sg Dat #2->2
 "<ала-молан>"
@@ -18281,19 +18285,19 @@
 	"велаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #3->7
 	"веле" Adv @ADVL> #3->7
 "<пашашт>"
-	"паша" N Sg PxPl3 Nom @SUBJ> #4->4
+	"паша" N Sg PxPl3 Nom @SUBJ> #4->7
 "<пешыжак>"
 	"пешыжак" ? #5->5
 "<кӱлешан>"
-	"кӱлешан" A #6->6
-	"кӱлешан" A Der/MWN N Sg Nom @SUBJ> #6->6
+	"кӱлешан" A #6->7
+	"кӱлешан" A Der/MWN N Sg Nom @SUBJ> #6->7
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<,>"
 	"," CLB #8->8
 "<векат>"
-	"век" N Sg Nom Foc/at @<SUBJ #9->9
-	"векат" Pcle @PCLE #9->9
+	"век" N Sg Nom Foc/at @<SUBJ #9->7
+	"векат" Pcle @PCLE #9->7
 "<.>"
 	"." CLB #10->10
 
@@ -18302,6 +18306,7 @@
 	"нигушко" Adv Foc/at @ADVL> #1->2
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #2->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #2->0
 "<вашке>"
 	"вашкаш" V ConNeg #3->3
 "<.>"
@@ -18530,7 +18535,7 @@
 "<шоналтенжат>"
 	"шоналтенжат" ? #3->3
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #4->0
 "<докан>"
 	"докан" Pcle @PCLE #5->5
 "<?>"
@@ -18560,7 +18565,7 @@
 "<,>"
 	"," CLB #2->2
 "<Настя>"
-	"Настя" N Prop Sg Nom @SUBJ> #3->3
+	"Настя" N Prop Sg Nom @SUBJ> #3->10
 "<,>"
 	"," CLB #4->4
 "<кузе>"
@@ -18574,8 +18579,7 @@
 "<моштен>"
 	"мошташ" V Ger Gen #9->9
 "<отыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg2 @FMV #10->10
-	"улаш" <mv> <mv> V Neg Ind Prt2 Sg2 @FMV #10->10
+	"улаш" <mv> <mv> V Neg Ind Prs Sg2 @FMV #10->0
 "<?>"
 	"?" CLB #11->11
 
@@ -18870,11 +18874,11 @@
 "<,>"
 	"," CLB #6->6
 "<тудо>"
-	"тудо" Pron Pers Sg3 Nom @SUBJ> #7->7
+	"тудо" Pron Pers Sg3 Nom @SUBJ> #7->9
 "<шукерте>"
 	"шукерте" Adv @ADVL> #8->9
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #9->9
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #9->0
 "<тольо>"
 	"толаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #10->10
 "<,>"
@@ -18882,7 +18886,7 @@
 "<ужын>"
 	"ужаш" V Ger Gen #12->12
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #13->13
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #13->0
 "<докан>"
 	"докан" Pcle @PCLE #14->14
 "<.>"
@@ -18891,18 +18895,17 @@
 "<А>"
 	"а" CC #1->1
 "<машинаже>"
-	"машина" N Sg Nom PxSg3 @SUBJ> #2->2
+	"машина" N Sg Nom PxSg3 @SUBJ> #2->7
 "<,>"
 	"," CLB #3->3
 "<уныкам>"
-	"уныкам" N Sg Nom @SUBJ> #4->4
-	"уныка" N Sg PxSg1 Nom @SUBJ> #4->4
+	"уныка" N Sg PxSg1 Nom @SUBJ> #4->7
 "<,>"
 	"," CLB #5->5
 "<шукерте>"
 	"шукерте" Adv @ADVL> #6->7
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<кудале>"
 	"кудалаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #8->8
 "<.>"
@@ -19371,7 +19374,7 @@
 	"." CLB #25->25
 
 "<Тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #1->1
+	"тудо" Pron Pers Sg3 Nom PxSg3 @SUBJ> #1->1
 "<ынеж>"
 	"ок" V Neg Des Sg3 #2->2
 "<кай>"
@@ -19447,7 +19450,6 @@
 "<,>"
 	"," CLB #3->3
 "<уныкам>"
-	"уныкам" N Sg Nom @SUBJ> #4->4
 	"уныка" N Sg PxSg1 Nom @SUBJ> #4->4
 "<,>"
 	"," CLB #5->5
@@ -19559,13 +19561,13 @@
 	"." CLB #9->9
 
 "<Еҥ-влак>"
-	"еҥ" N Pl Nom @SUBJ> #1->8
+	"еҥ" N Pl Nom @SUBJ> #1->4
 "<тыште>"
 	"тыште" Adv @ADVL> #2->4
 "<шукынак>"
 	"шукын" Adv Foc/ak @ADVL> #3->4
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #4->0
 "<,>"
 	"," CLB #5->5
 "<пуста>"
@@ -19643,11 +19645,11 @@
 "<неле>"
 	"неле" A #8->8
 "<пашамат>"
-	"паша" N Sg PxSg1 Nom Foc/at @SUBJ> #9->9
+	"паша" N Sg PxSg1 Nom Foc/at @SUBJ> #9->11
 "<ыштен>"
 	"ышташ" V Ger Gen #10->10
 "<огыл>"
-	"ок" <mv> V Neg Ind Prt2 Sg3 @FS-STA #11->4
+	"улаш" <mv> V Neg Ind Prs Sg3 @FS-STA #11->4
 "<.>"
 	"." CLB #12->12
 
@@ -19660,13 +19662,13 @@
 "<,>"
 	"," CLB #4->4
 "<кап>"
-	"кап" N Sg Nom @SUBJ> #5->5
+	"кап" N Sg Nom @SUBJ> #5->8
 "<тунар>"
 	"тунар" Pron Dem #6->6
 "<ноен>"
 	"нояш" V Ger Gen #7->7
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #8->8
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #8->0
 "<.>"
 	"." CLB #9->9
 
@@ -19796,14 +19798,14 @@
 	"." CLB #4->4
 
 "<Но>"
-	"но" CC #1->1
-	"но" N Sg Nom @SUBJ> #1->1
+	"но" CC #1->4
+	"но" N Sg Nom @SUBJ> #1->4
 "<молан>"
 	"молан" Adv @ADVL> #2->4
 "<пычкемыш>"
-	"пычкемыш" N Sg Nom @SUBJ> #3->3
+	"пычкемыш" N Sg Nom @SUBJ> #3->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<,>"
 	"," CLB #5->5
 "<пуйто>"
@@ -19816,7 +19818,7 @@
 "<петырен>"
 	"петыраш" V Ger Gen #8->8
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #9->9
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #9->0
 "<.>"
 	"." CLB #10->10
 
@@ -20599,7 +20601,7 @@
 	"." CLB #2->2
 
 "<Унагудыжо>"
-	"унагудо" N Sg Nom PxSg3 @SUBJ> #1->1
+	"унагудо" N Sg Nom PxSg3 @SUBJ> #1->4
 "<тугаяк>"
 	"тугай" A Foc/ak #2->2
 	"тугаяк" A #2->2
@@ -20607,7 +20609,7 @@
 	"шер" N Sg Com @ADVL> #3->4
 	"шерге" N Sg Nom @SUBJ> #3->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<дыр>"
 	"дыр" Adv @<ADVL #5->4
 "<.>"
@@ -20749,8 +20751,8 @@
 	"." CLB #5->5
 
 "<Ой>"
-	"ой" N Sg Nom @SUBJ> #1->1
-	"ояш" V Imprt Sg2 #1->1
+	"ой" N Sg Nom @SUBJ> #1->7
+	"ояш" V Imprt Sg2 #1->7
 "<,>"
 	"," CLB #2->2
 "<тидын>"
@@ -20758,13 +20760,13 @@
 "<нерген>"
 	"нерген" Po #4->4
 "<лучо>"
-	"лучо" Adv #5->5
-	"лучо" N Sg Nom @SUBJ> #5->5
+	"лучо" Adv #5->7
+	"лучо" N Sg Nom @SUBJ> #5->7
 "<шоналташат>"
 	"шоналташ" V Inf Foc/at #6->6
 	"шонаш" Der/Refl V Inf Foc/at #6->6
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<.>"
 	"." CLB #8->8
 
@@ -20955,6 +20957,7 @@
 	"ӱдыр" N Sg Acc @OBJ> #8->9
 "<огытат>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 Foc/at @FMV #9->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep Foc/at @FMV #9->0
 "<ончал>"
 	"ончалаш" V ConNeg #10->10
 "<.>"
@@ -21467,9 +21470,9 @@
 	"." CLB #7->7
 
 "<Ял>"
-	"ял" N Sg Nom @SUBJ> #1->6
+	"ял" N Sg Nom @SUBJ> #1->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #2->2
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #2->0
 "<вет>"
 	"вет" CC WORK #3->3
 "<,>"
@@ -21794,8 +21797,8 @@
 	"^excl" CLB #5->5
 
 "<Ӱдыр>"
-	"Ӱдыр" N Sg Nom @SUBJ> #1->9
-	"ӱдыр" N Sg Nom @SUBJ> #1->9
+	"Ӱдыр" N Sg Nom @SUBJ> #1->5
+	"ӱдыр" N Sg Nom @SUBJ> #1->5
 "<кызытат>"
 	"кызыт" Adv Foc/at @ADVL> #2->5
 "<кас>"
@@ -21804,7 +21807,7 @@
 	"ӱжара" N Sg Acc @OBJ> #4->5
 	"ӱжара" N Sg PxSg1 Nom @SUBJ> #4->5
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #5->0
 "<,>"
 	"," CLB #6->6
 "<эр>"
@@ -22359,8 +22362,8 @@
 	"?" CLB #7->7
 
 "<Ӱдыр>"
-	"Ӱдыр" N Sg Nom @SUBJ> #1->1
-	"ӱдыр" N Sg Nom @SUBJ> #1->1
+	"Ӱдыр" N Sg Nom @SUBJ> #1->5
+	"ӱдыр" N Sg Nom @SUBJ> #1->5
 "<тидым>"
 	"тиде" Pron Dem Sg Acc @OBJ> #2->3
 "<ужынат>"
@@ -22368,7 +22371,7 @@
 "<шуктен>"
 	"шукташ" V Ger Gen #4->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #5->0
 "<.>"
 	"." CLB #6->6
 
@@ -22417,7 +22420,7 @@
 "<кучен>"
 	"кучаш" V Ger Gen #3->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<.>"
 	"." CLB #5->5
 
@@ -23070,7 +23073,7 @@
 "<,>"
 	"," CLB #11->11
 "<шкеже>"
-	"шке" Pron Refl Nom PxSg3 @ADVL> #12->17
+	"шке" A PxSg3 @ADVL> #12->17
 "<вӱдыжгышӧ>"
 	"вӱдыжгышӧ" A #13->13
 "<шинчаж>"
@@ -23333,31 +23336,31 @@
 	"." CLB #1->1
 
 "<Ой>"
-	"ой" N Sg Nom @SUBJ> #1->1
-	"ояш" V Imprt Sg2 #1->1
+	"ой" N Sg Nom @SUBJ> #1->6
+	"ояш" V Imprt Sg2 #1->6
 "<,>"
 	"," CLB #2->2
 "<кӧ>"
-	"кӧ" Pron Interr Sg Nom @SUBJ> #3->3
+	"кӧ" Pron Interr Sg Nom @SUBJ> #3->6
 "<тыште>"
-	"тыште" Adv @<ADVL #4->4
+	"тыште" Adv @ADVL> #4->6
 "<эше>"
-	"эше" Adv @<ADVL #5->5
-	"эшаш" V Imprt Sg2 #5->5
+	"эше" Adv @ADVL> #5->6
+	"эшаш" V Imprt Sg2 #5->6
 "<уло>"
-	"уло" A #6->6
+	"улаш" <mv> V Ind Prs Sg3 Ext @FS-N< #6->0
 "<?>"
 	"?" CLB #7->7
 
 "<Настя>"
-	"Настя" N Prop Sg Nom @SUBJ> #1->1
+	"Настя" N Prop Sg Nom @SUBJ> #1->3
 "<шкет>"
 	"шкет" Adv @ADVL> #2->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<улмаш>"
-	"улмаш" N Sg Nom @<SUBJ #4->4
-	"улаш" <mv> <mv> V Ind Prt2 Sg3 @FMV #4->4
+	"улмаш" N Sg Nom @<SUBJ #4->3
+	"улаш" <mv> <mv> V Ind Prt2 Sg3 @FMV #4->3
 "<.>"
 	"." CLB #5->5
 
@@ -23922,15 +23925,15 @@
 	"?" CLB #7->7
 
 "<Мо>"
-	"мо" Pron Interr Sg Nom @SUBJ> #1->1
+	"мо" Pron Interr Sg Nom @SUBJ> #1->5
 "<,>"
 	"," CLB #2->2
 "<рвезет>"
-	"рвезе" N Sg PxSg2 Nom @SUBJ> #3->3
+	"рвезе" N Sg PxSg2 Nom @SUBJ> #3->5
 "<толын>"
 	"толаш" V Ger Gen #4->4
 "<огыл>"
-	"ок" <mv> V Neg Ind Prt2 Sg3 @FS-N< #5->5
+	"улаш" <mv> V Neg Ind Prs Sg3 @FS-N< #5->0
 "<?>"
 	"?" CLB #6->6
 
@@ -23994,7 +23997,7 @@
 "<шуктен>"
 	"шукташ" V Ger Gen #8->8
 "<огыл>"
-	"ок" <mv> V Neg Ind Prt2 Sg3 @FS-STA #9->3
+	"улаш" <mv> V Neg Ind Prs Sg3 @FS-STA #9->3
 "<.>"
 	"." CLB #10->10
 
@@ -24090,11 +24093,11 @@
 	"." CLB #4->4
 
 "<Мый>"
-	"мый" Pron Pers Sg1 Nom @SUBJ> #1->1
+	"мый" Pron Pers Sg1 Nom @SUBJ> #1->3
 "<йӱшӧ>"
 	"йӱшӧ" A #2->2
 "<омыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg1 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg1 @FMV #3->0
 "<.>"
 	"." CLB #4->4
 
@@ -24140,11 +24143,11 @@
 	"." CLB #11->11
 
 "<Тидыже>"
-	"тиде" Pron Dem Sg Nom PxSg3 @SUBJ> #1->1
+	"тиде" Pron Dem Sg Nom PxSg3 @SUBJ> #1->3
 "<омо>"
-	"омо" N Sg Nom @SUBJ> #2->2
+	"омо" N Sg Nom @SUBJ> #2->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<,>"
 	"," CLB #4->4
 "<тиде>"
@@ -24310,11 +24313,11 @@
 	"." CLB #6->6
 
 "<Мый>"
-	"мый" Pron Pers Sg1 Nom @SUBJ> #1->1
+	"мый" Pron Pers Sg1 Nom @SUBJ> #1->3
 "<йӱшӧ>"
 	"йӱшӧ" A #2->2
 "<омыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg1 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg1 @FMV #3->0
 "<.>"
 	"." CLB #4->4
 
@@ -24325,7 +24328,7 @@
 "<йӱын>"
 	"йӱаш" V Ger Gen #2->2
 "<омыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg1 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg1 @FMV #3->0
 "<.>"
 	"." CLB #4->4
 
@@ -24399,6 +24402,7 @@
 	"," CLB #6->6
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #7->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #7->0
 "<вучо>"
 	"вучаш" V ConNeg #8->8
 "<.>"
@@ -24439,11 +24443,11 @@
 "<Вучымо>"
 	"вучымо" A #2->2
 "<рвезет>"
-	"рвезе" N Sg PxSg2 Nom @SUBJ> #3->3
+	"рвезе" N Sg PxSg2 Nom @SUBJ> #3->5
 "<толын>"
 	"толаш" V Ger Gen #4->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #5->0
 "<,>"
 	"," CLB #6->6
 "<ондален>"
@@ -24494,7 +24498,7 @@
 "<шуымо>"
 	"шуаш" Hom4 V Pass Prc N Sg Nom @<SUBJ #9->4
 "<гае>"
-	"гае" ? #10->10
+	"гае" A #10->10
 "<.>"
 	"." CLB #11->11
 
@@ -24704,16 +24708,16 @@
 "<—>"
 	"—" PUNCT #1->1
 "<Чыланак>"
-	"чыла" A Der/MWN N Sg Gen Foc/ak @>A #2->2
-	"чыла" A Der/MWN N Sg PxPl1 Nom Foc/ak @SUBJ> #2->2
-	"чылан" Adv Foc/ak @-FADVL> #2->2
-	"чылан" Pron Foc/ak #2->2
+	"чыла" A Der/MWN N Sg Gen Foc/ak @>A #2->5
+	"чыла" A Der/MWN N Sg PxPl1 Nom Foc/ak @SUBJ> #2->5
+	"чылан" Adv Foc/ak @-FADVL> #2->5
+	"чылан" Pron Foc/ak #2->5
 "<тыгай>"
 	"тыгай" A #3->3
 "<орышо>"
-	"ораш" V Act Prc N Sg Nom @SUBJ> #4->4
+	"ораш" V Act Prc N Sg Nom @SUBJ> #4->5
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #5->0
 "<...>"
 	"..." CLB #6->6
 "<Рвезет>"
@@ -24990,7 +24994,7 @@
 "<мӱндырнӧ>"
 	"мӱндырнӧ" Adv @ADVL> #4->5
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #5->0
 "<,>"
 	"," CLB #6->6
 "<тыштак>"
@@ -25158,10 +25162,10 @@
 	"?" CLB #5->5
 
 "<Парк>"
-	"парк" N Sg Nom @SUBJ> #1->8
+	"парк" N Sg Nom @SUBJ> #1->7
 "<кумда>"
-	"кум" N Sg PxPl2 Nom @SUBJ> #2->8
-	"кумда" A #2->8
+	"кум" N Sg PxPl2 Nom @SUBJ> #2->7
+	"кумда" A #2->7
 "<,>"
 	"," CLB #3->3
 "<тыгай>"
@@ -25175,7 +25179,7 @@
 	"шагалын" Adv @ADVL> #6->7
 	"шагал" N Sg Gen @ADVL> #6->7
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<коштыт>"
 	"кошташ" <mv> <mv> V Ind Prs Pl3 @FMV #8->0
 "<...>"
@@ -25341,11 +25345,11 @@
 	"." CLB #4->4
 
 "<Еҥ-влак>"
-	"еҥ" N Pl Nom @SUBJ> #1->1
+	"еҥ" N Pl Nom @SUBJ> #1->3
 "<проста>"
-	"проста" A Der/MWN N Sg Nom @SUBJ> #2->2
+	"проста" A Der/MWN N Sg Nom @SUBJ> #2->3
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #3->0
 "<.>"
 	"." CLB #4->4
 
@@ -25764,8 +25768,7 @@
 	"." CLB #8->8
 
 "<Укес>"
-	"уке" N Sg Nom Foc/ys @HNOUN #1->1
-	"уке" A Foc/ys #1->1
+	"уке" Adv Foc/ys @<ADVL #1->1
 "<.>"
 	"." CLB #2->2
 
@@ -26035,10 +26038,10 @@
 	"." CLB #2->2
 
 "<Нуно>"
-	"нуно" Pron #1->1
-	"тудо" Pron Pers Pl3 Nom @SUBJ> #1->1
+	"нуно" Pron #1->2
+	"тудо" Pron Pers Pl3 Nom @SUBJ> #1->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #2->2
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #2->0
 "<гын>"
 	"гын" CS #3->3
 "<,>"
@@ -26046,7 +26049,7 @@
 "<мо>"
 	"мо" Pron Interr Sg Nom @SUBJ> #5->6
 "<лиеш>"
-	"лияш" <mv> V Ind Prs Sg3 @FS-N< #6->0
+	"лияш" <mv> V Ind Prs Sg3 @FS-STA #6->7
 "<ыле>"
 	"улаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #7->7
 "<?>"
@@ -26062,7 +26065,7 @@
 "<йӱд>"
 	"йӱд" N Sg Nom @SUBJ> #4->4
 "<мартеак>"
-	"мартеак" ? #5->5
+	"марте" Po Foc/ak @ADVL> #5->7
 "<мален>"
 	"малаш" V Ger Gen #6->6
 "<колтен>"
@@ -26359,10 +26362,9 @@
 "<Шочмо>"
 	"шочмо" A #1->1
 "<сурт>"
-	"сурт" A #2->2
 	"сурт" N Sg Nom @HNOUN #2->2
 "<мартеак>"
-	"мартеак" ? #3->3
+	"марте" Po Foc/ak @N< #3->2
 "<,>"
 	"," CLB #4->4
 "<йӧратыме>"
@@ -26548,11 +26550,11 @@
 	"." CLB #7->7
 
 "<Тӱшка>"
-	"тӱшка" N Sg Nom @SUBJ> #1->1
+	"тӱшка" N Sg Nom @SUBJ> #1->3
 "<дене>"
 	"дене" Po @ADVL> #2->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<гын>"
 	"гын" CS #4->4
 "<,>"
@@ -26780,9 +26782,9 @@
 "<Шкетын>"
 	"шкетын" A #1->1
 "<урем>"
-	"ур" N Sg PxSg1 Nom @SUBJ> #2->0
-	"ураш" <mv> <mv> V Ind Prs Sg1 @FMV #2->0
-	"урем" N Sg Nom @SUBJ> #2->0
+	"ур" N Sg PxSg1 Nom @SUBJ> #2->6
+	"ураш" <mv> <mv> V Ind Prs Sg1 @FMV #2->6
+	"урем" N Sg Nom @SUBJ> #2->6
 "<мучко>"
 	"мучко" Po @<ADVL #3->2
 "<коштмо>"
@@ -26790,7 +26792,7 @@
 "<гай>"
 	"гай" Adv @ADVL> #5->6
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #6->6
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #6->0
 "<.>"
 	"." CLB #7->7
 
@@ -27105,10 +27107,9 @@
 	"." CLB #7->7
 
 "<Йӱк>"
-	"йӱк" N Sg Nom @SUBJ> #1->5
+	"йӱкташ" V Ger Gen #1->1
 "<уло>"
-	"уло" A #2->5
-	"уло" N Sg Nom @SUBJ> #2->5
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #2->0
 "<,>"
 	"," CLB #3->3
 "<айдемыже>"
@@ -27324,9 +27325,8 @@
 	"," CLB #7->7
 "<но>"
 	"но" CC #8->8
-	"но" N Sg Nom @SUBJ> #8->8
 "<тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #9->9
+	"тудо" Pron Pers Sg3 Nom PxSg3 @SUBJ> #9->9
 "<ик>"
 	"икте" Num Attr @>N #10->11
 "<кидше>"
@@ -27337,7 +27337,6 @@
 	"ӱдыр" N Sg Acc @OBJ> #13->15
 "<чот>"
 	"чот" Adv @ADVL> #14->16
-	"чот" N Sg Nom @SUBJ> #14->16
 "<кучен>"
 	"кучаш" V Ger Gen #15->15
 "<шындыш>"
@@ -27636,12 +27635,12 @@
 "<—>"
 	"—" PUNCT #1->1
 "<Сумкат>"
-	"сумка" N Sg Nom Foc/at @SUBJ> #2->8
-	"сумка" N Sg PxSg2 Nom @SUBJ> #2->8
+	"сумка" N Sg Nom Foc/at @SUBJ> #2->4
+	"сумка" N Sg PxSg2 Nom @SUBJ> #2->4
 "<изи>"
-	"изи" N Sg Nom @SUBJ> #3->8
+	"изи" N Sg Nom @SUBJ> #3->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<,>"
 	"," CLB #5->5
 "<шуко>"
@@ -27742,10 +27741,10 @@
 "<мыняр>"
 	"мыняр" Pron Interr #5->5
 "<оксат>"
-	"окса" N Sg Nom Foc/at #6->6
-	"окса" N Sg PxSg2 Nom #6->6
+	"окса" N Sg Nom Foc/at @SUBJ> #6->7
+	"окса" N Sg PxSg2 Nom @SUBJ> #6->7
 "<уло>"
-	"уло" A #7->7
+	"улаш" <mv> V Ind Prs Sg3 Ext @FS-N< #7->0
 "<?>"
 	"?" CLB #8->8
 
@@ -27800,11 +27799,11 @@
 	"?" CLB #12->12
 
 "<Оксам>"
-	"окса" N Sg PxSg1 Nom @SUBJ> #1->1
+	"окса" N Sg PxSg1 Nom @SUBJ> #1->3
 "<пуэн>"
 	"пуаш" V Ger Gen #2->2
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #3->0
 "<?>"
 	"?" CLB #4->4
 
@@ -27842,7 +27841,7 @@
 "<коштын>"
 	"кошташ" V Ger Gen #4->4
 "<омыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg1 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg1 @FMV #5->0
 "<.>"
 	"." CLB #6->6
 
@@ -28094,9 +28093,9 @@
 	"," CLB #2->2
 "<шуко>"
 	"шуко" Adv @ADVL> #3->4
-	"шуко" N Sg Nom @SUBJ> #3->4
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #4->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #4->0
 "<кучо>"
 	"кучаш" V ConNeg #5->5
 "<,>"
@@ -28450,7 +28449,7 @@
 "<,>"
 	"," CLB #4->4
 "<тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #5->5
+	"тудо" Pron Pers Sg3 Nom PxSg3 @SUBJ> #5->7
 "<пешак>"
 	"пеш" Adv Foc/ak @ADVL> #6->7
 	"пешак" Adv @ADVL> #6->7
@@ -28505,13 +28504,13 @@
 	"чын" Adv @ADVL> #2->3
 	"чын" N Sg Nom @SUBJ> #2->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<,>"
 	"," CLB #4->4
 "<гражданин>"
-	"гражданин" N Sg Nom @<SUBJ #5->5
+	"гражданин" N Sg Nom @<SUBJ #5->3
 "<начальник>"
-	"начальник" N Sg Nom @<SUBJ #6->6
+	"начальник" N Sg Nom @<SUBJ #6->3
 "<.>"
 	"." CLB #7->7
 
@@ -28563,7 +28562,7 @@
 "<тӱлыкташ>"
 	"тӱлыкташ" V Inf #2->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<,>"
 	"," CLB #4->4
 "<иктаж>"
@@ -28581,7 +28580,7 @@
 "<петырен>"
 	"петыраш" V Ger Gen #10->10
 "<шындаш>"
-	"шындаш" V Inf #11->11
+	"шындаш" V Inf #11->3
 "<кӱлеш>"
 	"кӱлаш" <mv> <mv> V Ind Prs Sg3 @FMV #12->0
 "<.>"
@@ -28605,13 +28604,13 @@
 	"чын" Adv @ADVL> #2->3
 	"чын" N Sg Nom @SUBJ> #2->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<,>"
 	"," CLB #4->4
 "<гражданин>"
-	"гражданин" N Sg Nom @<SUBJ #5->5
+	"гражданин" N Sg Nom @<SUBJ #5->3
 "<начальник>"
-	"начальник" N Sg Nom @<SUBJ #6->6
+	"начальник" N Sg Nom @<SUBJ #6->3
 "<.>"
 	"." CLB #7->7
 
@@ -28811,7 +28810,7 @@
 "<пыштен>"
 	"пышташ" V Ger Gen #2->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<гынат>"
 	"гынат" CS #4->3
 	"гына" Adv Foc/at @<ADVL #4->3
@@ -28833,7 +28832,7 @@
 "<ала>"
 	"алаш" <mv> <mv> V Ind Prs Sg3 @FMV #4->0
 "<нунак>"
-	"нунак" ? #5->5
+	"тудо" Pron Pers Pl3 Nom Foc/ak @<SUBJ #5->4
 "<.>"
 	"." CLB #6->6
 
@@ -28874,7 +28873,7 @@
 	"." CLB #7->7
 
 "<Мый>"
-	"мый" Pron Pers Sg1 Nom @SUBJ> #1->10
+	"мый" Pron Pers Sg1 Nom @SUBJ> #1->6
 "<нигунамат>"
 	"нигунам" Adv Foc/at @ADVL> #2->6
 	"нигунам" Pron Ind Foc/at @+FMAINV #2->6
@@ -28887,7 +28886,7 @@
 "<нумалыштын>"
 	"нумалышташ" V Ger Gen #5->5
 "<омыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg1 @FMV #6->6
+	"улаш" <mv> <mv> V Neg Ind Prs Sg1 @FMV #6->0
 "<...>"
 	"..." CLB #7->7
 "<да>"
@@ -29215,6 +29214,7 @@
 	"межа" N Sg Acc @OBJ> #13->14
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #14->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #14->0
 "<вончо>"
 	"вончаш" V ConNeg #15->15
 "<мо>"
@@ -29341,7 +29341,7 @@
 "<верештын>"
 	"верешташ" V Ger Gen #3->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<эше>"
 	"эшаш" V ConNeg #5->5
 "<?>"
@@ -29467,7 +29467,7 @@
 "<—>"
 	"—" PUNCT #1->1
 "<Мый>"
-	"мый" Pron Pers Sg1 Nom @SUBJ> #2->2
+	"мый" Pron Pers Sg1 Nom @SUBJ> #2->6
 "<нимогай>"
 	"нимогай" A #3->3
 "<удам>"
@@ -29475,7 +29475,7 @@
 "<ыштен>"
 	"ышташ" V Ger Gen #5->5
 "<омыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg1 @FMV #6->6
+	"улаш" <mv> <mv> V Neg Ind Prs Sg1 @FMV #6->0
 "<!>"
 	"^excl" CLB #7->7
 
@@ -29501,7 +29501,7 @@
 "<,>"
 	"," CLB #5->5
 "<тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #6->6
+	"тудо" Pron Pers Sg3 Nom PxSg3 @SUBJ> #6->6
 "<вачыжым>"
 	"ваче" N Sg PxSg3 Acc @OBJ> #7->9
 "<гына>"
@@ -29545,7 +29545,7 @@
 "<,>"
 	"," CLB #7->7
 "<мый>"
-	"мый" Pron Pers Sg1 Nom @SUBJ> #8->8
+	"мый" Pron Pers Sg1 Nom @SUBJ> #8->12
 "<нимогай>"
 	"нимогай" A #9->9
 "<осалым>"
@@ -29553,7 +29553,7 @@
 "<ыштен>"
 	"ышташ" V Ger Gen #11->11
 "<омыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg1 @FMV #12->12
+	"улаш" <mv> <mv> V Neg Ind Prs Sg1 @FMV #12->0
 "<!>"
 	"^excl" CLB #13->13
 
@@ -29565,7 +29565,7 @@
 "<коштшо>"
 	"кошташ" V Ger Gen PxSg3 #3->3
 "<омыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg1 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg1 @FMV #4->0
 "<.>"
 	"." CLB #5->5
 
@@ -30091,16 +30091,17 @@
 "<—>"
 	"—" PUNCT #1->1
 "<Мо>"
-	"мо" A #2->2
+	"мо" Pron Interr Sg Nom @SUBJ> #2->3
+	"мо" Pron Rel Sg Nom @SUBJ> #2->3
+	"мо" Adv @ADVL> #2->3
 "<уло>"
-	"уло" A #3->3
-	"уло" N Sg Nom @SUBJ> #3->3
+	"улаш" <mv> V Ind Prs Sg3 Ext @FS-N< #3->0
 "<,>"
 	"," CLB #4->4
 "<чыла>"
 	"чыла" Pron Ind @+FMAINV #5->5
 "<лук>"
-	"лук" N Sg Nom @<SUBJ #6->6
+	"лук" N Sg Nom @<SUBJ #6->3
 "<!>"
 	"^excl" CLB #7->7
 
@@ -30121,13 +30122,13 @@
 	"Ӱдыр" N Sg Gen @>N #1->2
 	"ӱдыр" N Sg Gen @>N #1->2
 "<вургемже>"
-	"вургаш" <mv> <mv> V Ind Prs Sg1 PxSg3 @FMV #2->0
-	"вургем" N Sg Nom PxSg3 @SUBJ> #2->0
-	"вурго" N Sg PxSg1 Nom PxSg3 @SUBJ> #2->0
+	"вургаш" <mv> <mv> V Ind Prs Sg1 PxSg3 @FMV #2->4
+	"вургем" N Sg Nom PxSg3 @SUBJ> #2->4
+	"вурго" N Sg PxSg1 Nom PxSg3 @SUBJ> #2->4
 "<шуко>"
 	"шуко" Adv @<ADVL #3->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<.>"
 	"." CLB #5->5
 
@@ -30349,7 +30350,7 @@
 	"." CLB #12->12
 
 "<Тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #1->1
+	"тудо" Pron Pers Sg3 Nom PxSg3 @SUBJ> #1->1
 "<сумка>"
 	"сумка" N Sg Nom @SUBJ> #2->2
 "<кӧргым>"
@@ -30830,6 +30831,7 @@
 
 "<Огытат>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 Foc/at @FMV #1->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep Foc/at @FMV #1->0
 "<шынде>"
 	"шындаш" V ConNeg #2->2
 "<.>"
@@ -31114,7 +31116,6 @@
 	"," CLB #5->5
 "<шӱжарем>"
 	"шӱжар" N Sg PxSg1 Nom @<SUBJ #6->3
-	"шӱжарем" N Sg Nom @<SUBJ #6->3
 "<.>"
 	"." CLB #7->7
 
@@ -31202,7 +31203,7 @@
 "<гай>"
 	"гай" Adv @ADVL> #4->5
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #5->0
 "<,>"
 	"," CLB #6->6
 "<вес>"
@@ -31236,7 +31237,7 @@
 "<Мемнан>"
 	"мый" Pron Pers Pl1 Gen @>N #2->3
 "<вел>"
-	"вел" N Sg Nom @SUBJ> #3->3
+	"вел" N Sg Nom @SUBJ> #3->12
 "<гыч>"
 	"гыч" Po @ADVL> #4->6
 "<толын>"
@@ -31254,7 +31255,7 @@
 "<шуктен>"
 	"шукташ" V Ger Gen #11->11
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #12->12
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #12->0
 "<...>"
 	"..." CLB #13->13
 "<—>"
@@ -31952,7 +31953,7 @@
 "<петырымаштат>"
 	"петырымаш" N Sg Ine Foc/at @ADVL> #2->3
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #3->0
 "<.>"
 	"." CLB #4->4
 
@@ -31984,6 +31985,7 @@
 	"деч" Po Foc/at @ADVL> #2->3
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #3->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #3->0
 "<вожыл>"
 	"вожылаш" V ConNeg #4->4
 "<.>"
@@ -32077,8 +32079,8 @@
 "<—>"
 	"—" PUNCT #1->1
 "<Каласыме>"
-	"каласаш" V Pass Prc N Sg Nom @SUBJ> #2->2
-	"каласыме" A #2->2
+	"каласаш" V Pass Prc N Sg Nom @SUBJ> #2->7
+	"каласыме" A #2->7
 "<,>"
 	"," CLB #3->3
 "<таче>"
@@ -32088,7 +32090,7 @@
 "<лукташ>"
 	"лукташ" V Inf #6->6
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<,>"
 	"," CLB #8->8
 "<—>"
@@ -32119,9 +32121,9 @@
 "<Могай>"
 	"могай" Pron Interr #1->1
 "<правада>"
-	"права" N Sg PxPl2 Nom @HNOUN #2->2
+	"права" N Sg PxPl2 Nom @SUBJ> #2->3
 "<уло>"
-	"уло" A #3->3
+	"улаш" <mv> V Ind Prs Sg3 Ext @FS-N< #3->0
 "<?>"
 	"?" CLB #4->4
 
@@ -32278,9 +32280,10 @@
 "<Могай>"
 	"могай" Pron Interr #1->1
 "<титакше>"
-	"титак" A PxSg3 #2->2
+	"титак" Adv PxSg3 @ADVL> #2->3
+	"титак" N Sg Nom PxSg3 @SUBJ> #2->3
 "<уло>"
-	"уло" N Sg Nom @HNOUN #3->3
+	"улаш" <mv> V Ind Prs Sg3 Ext @FS-N< #3->0
 "<?>"
 	"?" CLB #4->4
 
@@ -32539,7 +32542,7 @@
 	"." CLB #4->4
 
 "<Тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #1->1
+	"тудо" Pron Pers Sg3 Nom PxSg3 @SUBJ> #1->4
 "<нимомат>"
 	"нимо" Pron Ind Sg Acc Foc/at @OBJ> #2->3
 "<умылен>"
@@ -32831,9 +32834,9 @@
 	"." CLB #12->12
 
 "<Йылметше>"
-	"йылме" N Sg PxSg2 Nom PxSg3 @HNOUN #1->1
+	"йылме" N Sg PxSg2 Nom PxSg3 @SUBJ> #1->2
 "<уло>"
-	"уло" A #2->2
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #2->0
 "<?>"
 	"?" CLB #3->3
 
@@ -33058,13 +33061,13 @@
 	"." CLB #9->9
 
 "<Шинчаже>"
-	"шинча" N Sg Nom PxSg3 @SUBJ> #1->1
+	"шинча" N Sg Nom PxSg3 @SUBJ> #1->4
 "<шинчавӱд>"
-	"шинчавӱд" N Sg Nom @SUBJ> #2->2
+	"шинчавӱд" N Sg Nom @SUBJ> #2->4
 "<дене>"
 	"дене" Po @ADVL> #3->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<темын>"
 	"тема" N Sg Gen @<ADVL #5->4
 	"теме" N Sg Gen @<ADVL #5->4
@@ -33095,6 +33098,7 @@
 	"," CLB #4->4
 "<шкеже>"
 	"шке" Pron Refl Nom PxSg3 @ADVL> #5->6
+	"шке" Adv PxSg3 @ADVL> #5->6
 "<огеш>"
 	"ок" <mv> V Neg Ind Prs Sg3 @FS-N< #6->0
 "<шарне>"
@@ -33103,14 +33107,14 @@
 	"." CLB #8->8
 
 "<Кужунжак>"
-	"кужун" A Der/MWN N Sg PxSg3 Nom Foc/ak @SUBJ> #1->1
+	"кужун" A Der/MWN N Sg PxSg3 Nom Foc/ak @SUBJ> #1->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #2->2
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #2->0
 "<,>"
 	"," CLB #3->3
 "<векат>"
-	"век" N Sg Nom Foc/at @<SUBJ #4->4
-	"векат" Pcle @PCLE #4->4
+	"век" N Sg Nom Foc/at @<SUBJ #4->2
+	"векат" Pcle @PCLE #4->2
 "<.>"
 	"." CLB #5->5
 
@@ -33132,15 +33136,15 @@
 	"." CLB #8->8
 
 "<Сержант>"
-	"сержант" N Sg Nom @SUBJ> #1->1
+	"сержант" N Sg Nom @SUBJ> #1->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #2->2
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #2->0
 "<,>"
 	"," CLB #3->3
 "<лейтенант>"
-	"лейтенант" N Sg Nom @SUBJ> #4->4
+	"лейтенант" N Sg Nom @SUBJ> #4->5
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #5->0
 "<,>"
 	"," CLB #6->6
 "<а>"
@@ -33148,7 +33152,7 @@
 "<проста>"
 	"проста" A #8->8
 "<милиционер>"
-	"милиционер" N Sg Nom @<SUBJ #9->9
+	"милиционер" N Sg Nom @<SUBJ #9->5
 "<.>"
 	"." CLB #10->10
 
@@ -33399,11 +33403,11 @@
 	"." CLB #6->6
 
 "<Тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #1->1
+	"тудо" Pron Pers Sg3 Nom PxSg3 @SUBJ> #1->3
 "<решоткан>"
-	"решотка" N Sg Gen @ADVL> #2->3
+	"решоткан" A #2->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<,>"
 	"," CLB #4->4
 "<ӱмбачше>"
@@ -33413,7 +33417,7 @@
 "<дене>"
 	"дене" Po @ADVL> #7->7
 "<сӧрастарыме>"
-	"сӧрастараш" V Pass Prc N Sg Nom @<SUBJ #8->8
+	"сӧрастараш" V Pass Prc N Sg Nom @<SUBJ #8->3
 "<.>"
 	"." CLB #9->9
 
@@ -33573,11 +33577,11 @@
 "<,>"
 	"," CLB #3->3
 "<колбаса>"
-	"колбаса" N Sg Nom @SUBJ> #4->4
+	"колбаса" N Sg Nom @SUBJ> #4->6
 "<изиш>"
-	"изи" N Sg Ill @ADVL> #5->9
+	"изи" N Sg Ill @ADVL> #5->6
 "<уло>"
-	"уло" A #6->6
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #6->0
 "<,>"
 	"," CLB #7->7
 "<кинде>"
@@ -33956,9 +33960,9 @@
 "<Мӧҥгыштыжак>"
 	"Мӧҥгыштыжак" ? #1->1
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #2->2
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #2->0
 "<мо>"
-	"мо" Pron Interr Sg Nom @<SUBJ #3->3
+	"мо" Pron Interr Sg Nom @<SUBJ #3->2
 "<?>"
 	"?" CLB #4->4
 
@@ -34153,21 +34157,21 @@
 	"." CLB #4->4
 
 "<Сайын>"
-	"сайын" Adv @<ADVL #1->1
+	"сайын" Adv @ADVL> #1->7
 "<малымашеш>"
 	"малымаш" N Sg Lat #2->2
 "<ушат>"
 	"уш" A Foc/at #3->3
 "<яндар>"
-	"яндар" A #4->4
-	"яндар" N Sg Nom @HNOUN #4->4
-	"яндар" Adv @<ADVL #4->4
+	"яндар" A #4->7
+	"яндар" N Sg Nom @SUBJ> #4->7
+	"яндар" Adv @ADVL> #4->7
 "<,>"
 	"," CLB #5->5
 "<кумылат>"
-	"кумыл" N Sg Nom Foc/at @HNOUN #6->6
+	"кумыл" N Sg Nom Foc/at @SUBJ> #6->7
 "<уло>"
-	"уло" A #7->7
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #7->0
 "<.>"
 	"." CLB #8->8
 
@@ -34242,11 +34246,11 @@
 "<,>"
 	"," CLB #6->6
 "<йӱд>"
-	"йӱд" N Sg Nom @SUBJ> #7->7
+	"йӱд" N Sg Nom @SUBJ> #7->9
 "<пычкемышым>"
 	"пычкемыш" N Sg Acc @OBJ> #8->9
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #9->9
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #9->0
 "<.>"
 	"." CLB #10->10
 
@@ -34368,16 +34372,15 @@
 	"." CLB #10->10
 
 "<Чынак>"
-	"чынак" Pcle @PCLE #1->7
-	"чын" A Foc/ak #1->7
-	"чын" N Sg Nom Foc/ak @SUBJ> #1->7
+	"чынак" Pcle @PCLE #1->4
+	"чын" A Foc/ak #1->4
+	"чын" N Sg Nom Foc/ak @SUBJ> #1->4
 "<,>"
 	"," CLB #2->2
 "<ондален>"
 	"ондалаш" V Ger Gen #3->3
 "<отыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg2 @FMV #4->4
-	"улаш" <mv> <mv> V Neg Ind Prt2 Sg2 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg2 @FMV #4->0
 "<,>"
 	"," CLB #5->5
 "<туштак>"
@@ -34594,10 +34597,9 @@
 "<уда>"
 	"уда" A #4->4
 "<ӱдыр>"
-	"ӱдыр" N Sg Nom @SUBJ> #5->5
+	"ӱдыр" N Sg Nom @SUBJ> #5->6
 "<отыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg2 @FMV #6->6
-	"улаш" <mv> <mv> V Neg Ind Prt2 Sg2 @FMV #6->6
+	"улаш" <mv> <mv> V Neg Ind Prs Sg2 @FMV #6->0
 "<.>"
 	"." CLB #7->7
 
@@ -34669,7 +34671,7 @@
 	"." CLB #13->13
 
 "<Тыйже>"
-	"тый" Pron Pers Sg2 Nom PxSg3 @SUBJ> #1->1
+	"тый" Pron Pers Sg2 Nom PxSg3 @SUBJ> #1->5
 "<милицийышке>"
 	"милиций" N Sg Ill @ADVL> #2->5
 "<вуйым>"
@@ -34677,8 +34679,7 @@
 "<шийын>"
 	"шияш" V Ger Gen #4->4
 "<отыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg2 @FMV #5->5
-	"улаш" <mv> <mv> V Neg Ind Prt2 Sg2 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg2 @FMV #5->0
 "<.>"
 	"." CLB #6->6
 
@@ -34741,7 +34742,7 @@
 "<кодын>"
 	"кодаш" V Ger Gen #11->11
 "<омыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg1 @FMV #12->12
+	"улаш" <mv> <mv> V Neg Ind Prs Sg1 @FMV #12->0
 "<.>"
 	"." CLB #13->13
 
@@ -35494,14 +35495,14 @@
 "<,>"
 	"," CLB #5->5
 "<но>"
-	"но" CC #6->6
-	"но" N Sg Nom @SUBJ> #6->6
+	"но" CC #6->9
+	"но" N Sg Nom @SUBJ> #6->9
 "<чот>"
-	"чот" N Sg Nom @SUBJ> #7->7
+	"чот" N Sg Nom @SUBJ> #7->9
 "<эржак>"
-	"эр" N Sg PxSg3 Nom Foc/ak @SUBJ> #8->8
+	"эр" N Sg PxSg3 Nom Foc/ak @SUBJ> #8->9
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #9->9
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #9->0
 "<,>"
 	"," CLB #10->10
 "<кече>"
@@ -35516,18 +35517,18 @@
 	"." CLB #15->15
 
 "<Но>"
-	"но" CC #1->1
-	"но" N Sg Nom @SUBJ> #1->1
+	"но" CC #1->12
+	"но" N Sg Nom @SUBJ> #1->12
 "<ковышта>"
-	"ковышта" N Sg Nom @SUBJ> #2->2
+	"ковышта" N Sg Nom @SUBJ> #2->12
 "<ужалыше>"
 	"ужалыше" A #3->3
 "<машина>"
-	"машина" N Sg Nom @SUBJ> #4->4
+	"машина" N Sg Nom @SUBJ> #4->12
 "<шочмо>"
 	"шочмо" A #5->5
 "<кундемже>"
-	"кундем" N Sg Nom PxSg3 @SUBJ> #6->6
+	"кундем" N Sg Nom PxSg3 @SUBJ> #6->12
 "<гыч>"
 	"гыч" Po @ADVL> #7->12
 "<эше>"
@@ -35541,7 +35542,7 @@
 "<шуын>"
 	"шуаш" V Ger Gen #11->11
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #12->12
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #12->0
 "<.>"
 	"." CLB #13->13
 
@@ -35696,7 +35697,7 @@
 	"." CLB #3->3
 
 "<Пазар>"
-	"пазар" N Sg Nom @SUBJ> #1->1
+	"пазар" N Sg Nom @SUBJ> #1->9
 "<деке>"
 	"деке" Po @ADVL> #2->9
 "<шумешке>"
@@ -35710,11 +35711,11 @@
 "<ик>"
 	"икте" Num Attr @>N #7->8
 "<гана>"
-	"гана" N Sg Nom @SUBJ> #8->8
+	"гана" N Sg Nom @SUBJ> #8->9
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #9->9
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #9->0
 "<йодышташ>"
-	"йодышташ" V Inf #10->10
+	"йодышташ" V Inf #10->9
 "<вереште>"
 	"верешташ" <mv> <mv> V Ind Prt1 Sg3 @FMV #11->11
 "<.>"
@@ -35801,15 +35802,15 @@
 	"." CLB #6->6
 
 "<Ала>"
-	"ала" CC #1->0
-	"ала" N Sg Nom @SUBJ> #1->0
-	"алаш" <mv> <mv> V Ind Prs Sg3 @FMV #1->0
+	"ала" CC #1->4
+	"ала" N Sg Nom @SUBJ> #1->4
+	"алаш" <mv> <mv> V Ind Prs Sg3 @FMV #1->4
 "<толын>"
 	"толаш" V Ger Gen #2->2
 "<шуктен>"
 	"шукташ" V Ger Gen #3->3
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #4->0
 "<?>"
 	"?" CLB #5->5
 
@@ -35854,6 +35855,7 @@
 
 "<Огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #1->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #1->0
 "<тол>"
 	"толаш" V ConNeg #2->2
 "<гын>"
@@ -36365,11 +36367,11 @@
 "<верч>"
 	"верч" Po @ADVL> #6->9
 "<вуйжо>"
-	"вуй" N Sg Nom PxSg3 @SUBJ> #7->7
+	"вуй" N Sg Nom PxSg3 @SUBJ> #7->9
 "<корштышаш>"
-	"коршташ" V Fut Prc N Sg Nom @SUBJ> #8->8
+	"коршташ" V Fut Prc N Sg Nom @SUBJ> #8->9
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #9->9
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #9->0
 "<.>"
 	"." CLB #10->10
 
@@ -36457,6 +36459,7 @@
 	"чын" Adv Foc/ak @ADVL> #2->3
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #3->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #3->0
 "<тол>"
 	"толаш" V ConNeg #4->4
 "<мо>"
@@ -36658,9 +36661,9 @@
 	"." CLB #8->8
 
 "<Парк>"
-	"парк" N Sg Nom @SUBJ> #1->1
+	"парк" N Sg Nom @SUBJ> #1->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #2->2
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #2->0
 "<вет>"
 	"вет" CC WORK #3->3
 "<.>"
@@ -37390,7 +37393,7 @@
 	"?" CLB #4->4
 
 "<Тудо>"
-	"тудо" Pron Pers Sg3 Nom @SUBJ> #1->1
+	"тудо" Pron Pers Sg3 Nom @SUBJ> #1->6
 "<вет>"
 	"вет" CC WORK #2->2
 "<тысе>"
@@ -37400,20 +37403,20 @@
 "<ужын>"
 	"ужаш" V Ger Gen #5->5
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #6->6
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #6->0
 "<.>"
 	"." CLB #7->7
 
 "<Юл>"
-	"Юл" N Prop Sg Nom @SUBJ> #1->1
+	"Юл" N Prop Sg Nom @SUBJ> #1->5
 "<ӱмбал>"
 	"ӱмбал" A #2->2
 "<ӱжарам>"
-	"ӱжара" N Sg PxSg1 Nom @SUBJ> #3->3
+	"ӱжара" N Sg PxSg1 Nom @SUBJ> #3->5
 "<вашлийын>"
 	"вашлияш" V Ger Gen #4->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #5->0
 "<.>"
 	"." CLB #6->6
 
@@ -37438,27 +37441,26 @@
 "<гай>"
 	"гай" Adv @ADVL> #2->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<.>"
 	"." CLB #4->4
 
 "<Ӱдыр>"
-	"Ӱдыр" N Sg Nom @SUBJ> #1->1
-	"ӱдыр" N Sg Nom @SUBJ> #1->1
+	"Ӱдыр" N Sg Nom @SUBJ> #1->4
+	"ӱдыр" N Sg Nom @SUBJ> #1->4
 "<чоным>"
 	"чон" N Sg Acc @OBJ> #2->3
 "<куандарыше>"
-	"куандараш" V Act Prc N Sg Nom @SUBJ> #3->3
+	"куандараш" V Act Prc N Sg Nom @SUBJ> #3->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<.>"
 	"." CLB #5->5
 
 "<Но>"
 	"но" CC #1->1
 "<садак>"
-	"садак" #2->2
-	"садак" Pcle @PCLE #2->2
+	"садак" A #2->2
 "<шкеж>"
 	"шке" Pron Refl Nom PxSg3 @>P #3->3
 "<дек>"
@@ -37599,10 +37601,10 @@
 	"сер" N Sg Ill @ADVL> #2->3
 	"серыш" N Sg Ill @ADVL> #2->3
 "<шуат>"
-	"шу" N Sg Nom Foc/at @SUBJ> #3->9
-	"шу" Hom4 N Sg Nom Foc/at @SUBJ> #3->9
-	"шуаш" <mv> <mv> V Ind Prs Sg2 @FMV #3->9
-	"шуаш" Hom4 <mv> <mv> V Ind Prs Pl3 @FMV #3->9
+	"шу" N Sg Nom Foc/at @SUBJ> #3->7
+	"шу" Hom4 N Sg Nom Foc/at @SUBJ> #3->7
+	"шуаш" <mv> <mv> V Ind Prs Sg2 @FMV #3->7
+	"шуаш" Hom4 <mv> <mv> V Ind Prs Pl3 @FMV #3->7
 "<,>"
 	"," CLB #4->4
 "<тушто>"
@@ -37614,7 +37616,7 @@
 "<мӱндырнӧ>"
 	"мӱндырнӧ" Adv @ADVL> #6->7
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<пристань>"
 	"пристань" N Sg Nom @SUBJ> #8->9
 "<коеш>"
@@ -37713,6 +37715,7 @@
 	"." CLB #6->6
 
 "<Шкеж>"
+	"шке" A Der/MWN N Sg PxSg3 Nom @ADVL> #1->5
 	"шке" Pron Refl Nom PxSg3 @ADVL> #1->5
 "<денысе>"
 	"денысе" A #2->2
@@ -37728,7 +37731,7 @@
 	"." CLB #7->7
 
 "<Вӱдшӧ>"
-	"вӱд" N Sg Nom PxSg3 @SUBJ> #1->1
+	"вӱд" N Sg Nom PxSg3 @SUBJ> #1->6
 "<тыште>"
 	"тыште" Adv @ADVL> #2->6
 "<кугунак>"
@@ -37738,7 +37741,7 @@
 "<шуын>"
 	"шуаш" V Ger Gen #5->5
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #6->6
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #6->0
 "<.>"
 	"." CLB #7->7
 
@@ -37851,13 +37854,13 @@
 	"." CLB #3->3
 
 "<Тыштак>"
-	"тыштак" Adv @<ADVL #1->1
-	"тыштак" Pron #1->1
-	"тыште" Adv Foc/ak @<ADVL #1->1
+	"тыштак" Adv @ADVL> #1->3
+	"тыштак" Pron #1->3
+	"тыште" Adv Foc/ak @ADVL> #1->3
 "<пляж>"
-	"пляж" N Sg Nom @HNOUN #2->2
+	"пляж" N Sg Nom @SUBJ> #2->3
 "<уло>"
-	"уло" A #3->3
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #3->0
 "<.>"
 	"." CLB #4->4
 
@@ -38206,8 +38209,8 @@
 	"." CLB #3->3
 
 "<Ой>"
-	"ой" N Sg Nom @SUBJ> #1->1
-	"ояш" V Imprt Sg2 #1->1
+	"ой" N Sg Nom @SUBJ> #1->7
+	"ояш" V Imprt Sg2 #1->7
 "<,>"
 	"," CLB #2->2
 "<садыгак>"
@@ -38215,14 +38218,13 @@
 	"садыгак" Pron #3->7
 	"садыге" Adv Foc/ak @ADVL> #3->7
 "<тый>"
-	"тый" Pron Pers Sg2 Nom @SUBJ> #4->4
+	"тый" Pron Pers Sg2 Nom @SUBJ> #4->7
 "<тыште>"
 	"тыште" Adv @ADVL> #5->7
 "<вучымо>"
 	"вучымо" A #6->6
 "<отыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg2 @FMV #7->7
-	"улаш" <mv> <mv> V Neg Ind Prt2 Sg2 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg2 @FMV #7->0
 "<.>"
 	"." CLB #8->8
 
@@ -38253,7 +38255,7 @@
 "<гай>"
 	"гай" Adv @ADVL> #3->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<.>"
 	"." CLB #5->5
 
@@ -38539,7 +38541,7 @@
 "<Ӱмбалнет>"
 	"ӱмбалне" Po PxSg2 @ADVL> #1->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #2->2
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #2->0
 "<,>"
 	"," CLB #3->3
 "<йымалнет>"
@@ -38583,14 +38585,14 @@
 "<умшаштыже>"
 	"умша" N Sg Ine PxSg3 @ADVL> #3->7
 "<кинде>"
-	"кинде" N Sg Nom @SUBJ> #4->4
+	"кинде" N Sg Nom @SUBJ> #4->7
 "<падырашат>"
-	"падыраш" N Sg Nom Foc/at @SUBJ> #5->5
-	"падыра" N Sg Lat Foc/at #5->5
+	"падыраш" N Sg Nom Foc/at @SUBJ> #5->7
+	"падыра" N Sg Lat Foc/at #5->7
 "<лийын>"
 	"лияш" V Ger Gen #6->6
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<.>"
 	"." CLB #8->8
 
@@ -38616,7 +38618,7 @@
 "<мӱндырнӧ>"
 	"мӱндырнӧ" Adv @ADVL> #2->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<,>"
 	"," CLB #4->4
 "<сер>"
@@ -38743,7 +38745,7 @@
 "<Кылмаш>"
 	"кылмаш" V Inf #1->1
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #2->2
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #2->0
 "<манын>"
 	"манын" CS #3->2
 	"манаш" <mv> <mv> V Ind Prt2 Sg3 @FMV #3->2
@@ -38758,13 +38760,13 @@
 	"." CLB #7->7
 
 "<Иктат>"
-	"иктат" N Sg Nom @SUBJ> #1->1
-	"иктат" Pron Ind @+FMAINV #1->1
-	"икте" Num Sg Nom Foc/at @SUBJ> #1->1
-	"икте" Pron Ind Foc/at @+FMAINV #1->1
+	"иктат" N Sg Nom @SUBJ> #1->6
+	"иктат" Pron Ind @+FMAINV #1->6
+	"икте" Num Sg Nom Foc/at @SUBJ> #1->6
+	"икте" Pron Ind Foc/at @+FMAINV #1->6
 "<пуш>"
-	"пу" N Sg Ill @<ADVL #2->2
-	"пуш" N Sg Nom @SUBJ> #2->2
+	"пу" N Sg Ill @<ADVL #2->6
+	"пуш" N Sg Nom @SUBJ> #2->6
 "<йымак>"
 	"йымак" Po @ADVL> #3->6
 "<пурымыжым>"
@@ -38772,7 +38774,7 @@
 "<ужын>"
 	"ужаш" V Ger Gen #5->5
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #6->6
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #6->0
 "<дыр>"
 	"дыр" Adv @<ADVL #7->6
 "<?>"
@@ -38894,9 +38896,9 @@
 "<,>"
 	"," CLB #2->2
 "<пычкемыш>"
-	"пычкемыш" N Sg Nom @SUBJ> #3->3
+	"пычкемыш" N Sg Nom @SUBJ> #3->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<.>"
 	"." CLB #5->5
 
@@ -38949,7 +38951,7 @@
 "<Мӱндырнӧ>"
 	"мӱндырнӧ" Adv @ADVL> #1->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #2->2
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #2->0
 "<,>"
 	"," CLB #3->3
 "<теве>"
@@ -39041,13 +39043,13 @@
 	"?" CLB #3->3
 
 "<Ала>"
-	"ала" CC #1->0
-	"ала" N Sg Nom @SUBJ> #1->0
-	"алаш" <mv> <mv> V Ind Prs Sg3 @FMV #1->0
+	"ала" CC #1->3
+	"ала" N Sg Nom @SUBJ> #1->3
+	"алаш" <mv> <mv> V Ind Prs Sg3 @FMV #1->3
 "<эржат>"
-	"эр" N Sg PxSg3 Nom Foc/at @SUBJ> #2->2
+	"эр" N Sg PxSg3 Nom Foc/at @SUBJ> #2->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<?>"
 	"?" CLB #4->4
 
@@ -39190,7 +39192,7 @@
 "<шуктен>"
 	"шукташ" V Ger Gen #3->3
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #4->0
 "<,>"
 	"," CLB #5->5
 "<вашкерак>"
@@ -39200,7 +39202,7 @@
 "<лектын>"
 	"лекташ" V Ger Gen #7->7
 "<каяш>"
-	"каяш" V Inf #8->8
+	"каяш" V Inf #8->4
 "<кӱлеш>"
 	"кӱлаш" <mv> <mv> V Ind Prs Sg3 @FMV #9->0
 "<.>"
@@ -39322,7 +39324,7 @@
 "<...>"
 	"..." CLB #5->5
 "<Настя>"
-	"Настя" N Prop Sg Nom @SUBJ> #6->6
+	"Настя" N Prop Sg Nom @SUBJ> #6->14
 "<шке>"
 	"шке" A @ADVL> #7->14
 "<самырык>"
@@ -39342,7 +39344,7 @@
 "<ужын>"
 	"ужаш" V Ger Gen #13->13
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #14->14
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #14->0
 "<.>"
 	"." CLB #15->15
 
@@ -39502,11 +39504,11 @@
 	"." CLB #7->7
 
 "<Айдеме>"
-	"айдеме" N Sg Nom @SUBJ> #1->1
+	"айдеме" N Sg Nom @SUBJ> #1->2
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #2->2
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #2->0
 "<мо>"
-	"мо" Pron Interr Sg Nom @<SUBJ #3->3
+	"мо" Pron Interr Sg Nom @<SUBJ #3->2
 "<?>"
 	"?" CLB #4->4
 
@@ -39518,6 +39520,7 @@
 	"пуаш" V Ger Gen #3->3
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #4->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #4->0
 "<керт>"
 	"керташ" V ConNeg #5->5
 "<мо>"
@@ -39586,6 +39589,7 @@
 	"полшаш" V Ger Gen #3->3
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #4->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #4->0
 "<керт>"
 	"керташ" V ConNeg #5->5
 "<.>"
@@ -39644,7 +39648,7 @@
 	"тыгай" Adv @ADVL> #4->5
 	"тыгай" Pron Dem #4->5
 "<огытыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Pl3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Pl3 @FMV #5->0
 "<.>"
 	"." CLB #6->6
 
@@ -39854,9 +39858,9 @@
 "<каяш>"
 	"каяш" V Inf #4->4
 "<мо>"
-	"мо" Pron Interr Sg Nom @<SUBJ #5->5
+	"мо" Pron Interr Sg Nom @SUBJ> #5->6
 "<уло>"
-	"уло" A #6->6
+	"улаш" <mv> V Ind Prs Sg3 Ext @FS-N< #6->0
 "<?>"
 	"?" CLB #7->7
 
@@ -39933,6 +39937,7 @@
 	"тышке" Adv @ADVL> #11->12
 "<огыт>"
 	"ок" <mv> <mv> V Neg Ind Prs Pl3 @FMV #12->0
+	"ок" <mv> <mv> V Neg Ind Prs Sg2 Indep @FMV #12->0
 "<тол>"
 	"толаш" V ConNeg #13->13
 "<.>"
@@ -39975,11 +39980,11 @@
 	"." CLB #9->9
 
 "<Кафежат>"
-	"кафе" N Sg PxSg3 Nom Foc/at @SUBJ> #1->1
+	"кафе" N Sg PxSg3 Nom Foc/at @SUBJ> #1->3
 "<изижак>"
-	"изи" N Sg PxSg3 Nom Foc/ak @SUBJ> #2->2
+	"изи" N Sg PxSg3 Nom Foc/ak @SUBJ> #2->3
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #3->3
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #3->0
 "<.>"
 	"." CLB #4->4
 
@@ -40057,15 +40062,15 @@
 "<,>"
 	"," CLB #2->2
 "<олаште>"
-	"ола" N Sg Ine @ADVL> #3->3
+	"ола" N Sg Ine @ADVL> #3->7
 "<кафе>"
-	"кафе" N Sg Nom @HNOUN #4->4
+	"кафе" N Sg Nom @SUBJ> #4->7
 "<шуко>"
-	"шуко" N Sg Nom @HNOUN #5->5
+	"шуко" N Sg Nom @SUBJ> #5->7
 "<вере>"
-	"вере" Po @N< #6->5
+	"вере" Po @ADVL> #6->7
 "<уло>"
-	"уло" A #7->7
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #7->0
 "<.>"
 	"." CLB #8->8
 
@@ -40126,7 +40131,7 @@
 	"мӱндыр" Adv @ADVL> #3->4
 	"мӱндыр" N Sg Nom @SUBJ> #3->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #4->4
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #4->0
 "<вет>"
 	"вет" CC WORK #5->5
 "<...>"
@@ -40144,7 +40149,7 @@
 "<тыге>"
 	"тыге" Adv @ADVL> #12->13
 "<йодеш>"
-	"йодаш" <mv> V Ind Prs Sg3 @FS-N< #13->10
+	"йодаш" <mv> V Ind Prs Sg3 @FS-STA #13->4
 "<?>"
 	"?" CLB #14->14
 
@@ -40236,7 +40241,7 @@
 	"ала" N Sg Nom @SUBJ> #1->0
 	"алаш" <mv> <mv> V Ind Prs Sg3 @FMV #1->0
 "<шкак>"
-	"шке" Adv Foc/ak @ADVL> #2->4
+	"шке" A Der/MWN N Sg Nom Foc/ak @ADVL> #2->4
 "<налын>"
 	"налаш" V Ger Gen #3->3
 "<шуэныт>"
@@ -40256,9 +40261,9 @@
 "<ончаш>"
 	"ончаш" V Inf #4->4
 "<уто>"
-	"уто" N Sg Nom @SUBJ> #5->5
+	"уто" N Sg Nom @SUBJ> #5->6
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #6->6
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #6->0
 "<.>"
 	"." CLB #7->7
 
@@ -40643,7 +40648,7 @@
 	"." CLB #14->14
 
 "<Нуныжо>"
-	"Нуныжо" ? #1->1
+	"тудо" Pron Pers Pl3 Nom PxSg3 @SUBJ> #1->6
 "<вет>"
 	"вет" CC WORK #2->2
 "<вес>"
@@ -40952,7 +40957,7 @@
 "<шуктен>"
 	"шукташ" V Ger Gen #4->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #5->0
 "<ыле>"
 	"улаш" <mv> <mv> V Ind Prt1 Sg3 @FMV #6->6
 "<.>"
@@ -41133,7 +41138,7 @@
 	"." CLB #8->8
 
 "<Тудыжо>"
-	"туде" Interj PxSg3 @INTERJ #1->1
+	"тудо" Pron Pers Sg3 Nom PxSg3 @HNOUN #1->1
 "<пешак>"
 	"пеш" Adv Foc/ak @<ADVL #2->2
 	"пешак" Adv @<ADVL #2->2
@@ -41192,11 +41197,11 @@
 "<шуко>"
 	"шуко" A #3->3
 "<пӧлемже>"
-	"пӧлаш" <mv> <mv> V Ind Prs Sg1 PxSg3 @FMV #4->1
-	"пӧле" N Sg Acc PxSg3 @<OBJ #4->1
-	"пӧлем" N Sg Nom PxSg3 @<SUBJ #4->1
+	"пӧлаш" <mv> <mv> V Ind Prs Sg1 PxSg3 @FMV #4->5
+	"пӧле" N Sg Acc PxSg3 @OBJ> #4->5
+	"пӧлем" N Sg Nom PxSg3 @SUBJ> #4->5
 "<уло>"
-	"уло" A #5->5
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #5->0
 "<?>"
 	"?" CLB #6->6
 
@@ -41389,10 +41394,10 @@
 "<деч>"
 	"деч" Po @ADVL> #4->5
 "<ойыртем>"
-	"ойырташ" <mv> <mv> V Ind Prs Sg1 @FMV #5->0
-	"ойыртем" N Sg Nom @HNOUN #5->0
+	"ойырташ" <mv> <mv> V Ind Prs Sg1 @FMV #5->6
+	"ойыртем" N Sg Nom @SUBJ> #5->6
 "<уло>"
-	"уло" A #6->6
+	"улаш" <mv> <mv> V Ind Prs Sg3 Ext @FMV #6->0
 "<.>"
 	"." CLB #7->7
 
@@ -41813,7 +41818,7 @@
 "<Ончалынат>"
 	"ончалаш" V Ger Gen Foc/at #1->1
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #2->2
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #2->0
 "<вет>"
 	"вет" CC WORK #3->3
 "<.>"
@@ -42000,11 +42005,11 @@
 "<хоромышто>"
 	"хоромышто" ? #2->2
 "<тудо>"
-	"тудо" Pron Pers Sg3 Nom @SUBJ> #3->3
+	"тудо" Pron Pers Sg3 Nom @SUBJ> #3->5
 "<лийын>"
 	"лияш" V Ger Gen #4->4
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #5->5
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #5->0
 "<,>"
 	"," CLB #6->6
 "<тыгай>"
@@ -42017,7 +42022,7 @@
 "<шинчен>"
 	"шинчаш" V Ger Gen #10->10
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #11->11
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #11->0
 "<.>"
 	"." CLB #12->12
 
@@ -42168,7 +42173,6 @@
 	"," CLB #12->12
 "<шӱжарем>"
 	"шӱжар" N Sg PxSg1 Nom @APP-N< #13->13
-	"шӱжарем" N Sg Nom @APP-N< #13->13
 "<.>"
 	"." CLB #14->14
 
@@ -42286,9 +42290,9 @@
 "<,>"
 	"," CLB #5->5
 "<вичкыж>"
-	"вичке" A Der/MWN N Sg PxSg3 Nom @SUBJ> #6->6
-	"вичкыж" A #6->6
-	"вичкыж" A Der/MWN N Sg Nom @SUBJ> #6->6
+	"вичке" A Der/MWN N Sg PxSg3 Nom @SUBJ> #6->18
+	"вичкыж" A #6->18
+	"вичкыж" A Der/MWN N Sg Nom @SUBJ> #6->18
 "<,>"
 	"," CLB #7->7
 "<йытыра>"
@@ -42298,7 +42302,7 @@
 "<чевер>"
 	"чевер" A #10->10
 "<ӱдыр>"
-	"ӱдыр" N Sg Nom @SUBJ> #11->11
+	"ӱдыр" N Sg Nom @SUBJ> #11->18
 "<,>"
 	"," CLB #12->12
 "<конешне>"
@@ -42308,12 +42312,12 @@
 "<тыгай>"
 	"тыгай" A #15->15
 "<пашам>"
-	"паша" N Sg PxSg1 Nom @SUBJ> #16->16
+	"паша" N Sg PxSg1 Nom @SUBJ> #16->18
 "<ыштышаш>"
-	"ышташ" V Fut Prc N Sg Nom @SUBJ> #17->17
-	"ыштышаш" N Sg Nom @SUBJ> #17->17
+	"ышташ" V Fut Prc N Sg Nom @SUBJ> #17->18
+	"ыштышаш" N Sg Nom @SUBJ> #17->18
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #18->18
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #18->0
 "<.>"
 	"." CLB #19->19
 
@@ -42533,13 +42537,13 @@
 	"?" CLB #2->2
 
 "<Вате>"
-	"вате" N Sg Nom @SUBJ> #1->1
+	"вате" N Sg Nom @SUBJ> #1->7
 "<лияш>"
 	"лияш" V Inf #2->2
 "<эше>"
 	"эше" Adv @ADVL> #3->7
 "<тудо>"
-	"тудо" Pron Pers Sg3 Nom @SUBJ> #4->4
+	"тудо" Pron Pers Sg3 Nom @SUBJ> #4->7
 "<нигунамат>"
 	"нигунам" Adv Foc/at @ADVL> #5->7
 	"нигунам" Pron Ind Foc/at @+FMAINV #5->7
@@ -42547,7 +42551,7 @@
 "<шонен>"
 	"шонаш" V Ger Gen #6->6
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #7->7
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #7->0
 "<.>"
 	"." CLB #8->8
 
@@ -42866,7 +42870,7 @@
 "<Ялыште>"
 	"ял" N Sg Ine @ADVL> #1->2
 "<огыл>"
-	"ок" <mv> <mv> V Neg Ind Prt2 Sg3 @FMV #2->2
+	"улаш" <mv> <mv> V Neg Ind Prs Sg3 @FMV #2->0
 "<,>"
 	"," CLB #3->3
 "<тендан>"
@@ -43293,16 +43297,16 @@
 	"." CLB #6->6
 
 "<Паспортым>"
-	"паспорт" N Sg Acc @OBJ> #1->1
+	"паспорт" N Sg Acc @OBJ> #1->5
 "<да>"
 	"да" CC #2->2
 "<эше>"
-	"эше" Adv @ADVL> #3->3
+	"эше" Adv @ADVL> #3->5
 "<моэт>"
-	"мо" Pron Rel Sg PxSg2 Nom @HNOUN #4->4
-	"мо" Pron Interr Sg PxSg2 Nom @HNOUN #4->4
+	"мо" Pron Rel Sg PxSg2 Nom @SUBJ> #4->5
+	"мо" Pron Interr Sg PxSg2 Nom @SUBJ> #4->5
 "<уло>"
-	"уло" A #5->5
+	"улаш" <mv> V Ind Prs Sg3 Ext @FS-N< #5->0
 "<.>"
 	"." CLB #6->6
 
