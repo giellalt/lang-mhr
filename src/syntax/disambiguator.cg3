@@ -106,7 +106,7 @@ LIST Sg3 = Sg3 ; 			 #!! Sg3
 LIST Pl1 = Pl1 ; 			 #!! Pl1
 LIST Pl2 = Pl2 ; 			 #!! Pl2
 LIST Pl3 = Pl3 ; 			 #!! Pl3
-
+LIST Ext = Ext ;
 
 #!! !Numeral tags
 
@@ -259,6 +259,10 @@ SELECT:InterrQ Interr IF (0 Interr)(*1 ("?")) ; #SASHA ADDED 3-07-2017
 REMOVE:Interr Rel IF (0 Interr)(*1 ("?")); #SASHA MODIFIED 3-07-2017
 
 #!! !Verbs
+
+#!! Existential ulo
+
+SELECT:Ext Ext IF (1 EOS OR COMMA);
 
 	#!! Infinitives
 
