@@ -350,25 +350,25 @@ LEXICON N-PL-ABE !!= * @CODE@
  +Pl+Abe:%-шамычде K ;
 
 !! !Sg Sg1
-!! Here start the Px stuff
+!! Here starts the Px stuff
 
 
 LEXICON N-SG-PxSg1-NOM !!= * @CODE@
  +Sg+PxSg1+Nom:%>Е2м   K ; 
 
 LEXICON N-SG-PxSg1-GEN !!= * @CODE@
- +Sg+PxSg1+Gen:%>Е2мын K ;
+ +Sg+PxSg1+Gen+SO/PC:%>Е2мын K ;
 
 LEXICON N-SG-PxSg1-DAT !!= * @CODE@
- +Sg+PxSg1+Dat:%>Е2млан K ; !PX_NB_CX
- +Sg+PxSg1+Dat:%>ланем  K ; !NB_CX_PX
+ +Sg+PxSg1+Dat+SO/PC:%>Е2млан K ; !PX_NB_CX
+ +Sg+PxSg1+Dat+SO/CP:%>ланем  K ; !NB_CX_PX
 
 LEXICON N-SG-PxSg1-ACC !!= * @CODE@
- +Sg+PxSg1+Acc:%>Е2мым K ;
+ +Sg+PxSg1+Acc+SO/PC:%>Е2мым K ;
 
 LEXICON N-SG-PxSg1-CMPR !!= * @CODE@
- +Sg+PxSg1+Cmpr:%>Е2мла K ; !NB_PX_CX
- +Sg+PxSg1+Cmpr:%>лам   K ; !NB_CX_PX
+ +Sg+PxSg1+Cmpr+SO/PC:%>Е2мла K ; !NB_PX_CX
+ +Sg+PxSg1+Cmpr+SO/CP:%>лам   K ; !NB_CX_PX
 
 LEXICON N-SG-PxSg1-COM !!= * @CODE@
  +Sg+PxSg1+Com:%>Е2мге K ;
