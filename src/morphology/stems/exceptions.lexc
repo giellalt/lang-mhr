@@ -23,7 +23,16 @@ LEXICON Exceptions
 нудо+N+Sg+PxSg1:нудым N_KIN_SPECIAL ;
 нудо+N+Sg+PxSg2:нудыч N_KIN_SPECIAL ;
 
-
+!! Single-syllable nouns in У Ӱ Ю
+лу:лу N_SINGLE-SYLLABLE-U ;
+ну:ну N_SINGLE-SYLLABLE-U ;
+пу:пу N_SINGLE-SYLLABLE-U ;
+ру:ру N_SINGLE-SYLLABLE-U ;
+ту:ту N_SINGLE-SYLLABLE-U ;
+шу:шу N_SINGLE-SYLLABLE-U ;
+кӱ:кӱ N_SINGLE-SYLLABLE-U ;
+ю:ю N_SINGLE-SYLLABLE-U ;
+у+A+Der/MWN:у N_SINGLE-SYLLABLE-U ;
 
 !! VERBS
 манаш+V+Ger+Gen:ман K ;
