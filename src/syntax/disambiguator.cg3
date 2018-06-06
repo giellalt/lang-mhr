@@ -1,3 +1,11 @@
+
+
+# ==================================================================== #
+#    E A S T E R N  M A R I  D I S A M B I G U A T O R               
+# ==================================================================== #
+# ==================================================================== 
+
+
 #!! This is the Eastern Mari disambiguation file. It chooses
 #!! the correct morphological analyses in any given sentence context.
 
@@ -153,6 +161,13 @@ LIST Coll = Coll ;  #!! Coll
 LIST Ord = Ord ;  #!! Ord
 LIST Temp = Temp ;  #!! Temp (?)
 
+
+#!! !Particles
+LIST Qst = Qst ; #!! Qst
+LIST Foc = Foc ; #!! Foc
+
+	
+	
 #!! !Punctuation marks
 
 LIST CLB = CLB ; 	  #!! CLB
@@ -162,15 +177,13 @@ LIST RIGHT = RIGHT ;  #!! RIGHT
 LIST COMMA = "," ;	  #!! COMMA
 
 #!! !Derivation tags
-LIST Der/MWN = Der/MWN ; #!! Der/MWN
-LIST Der/са = Der/са ;	 #!! Der/sa
+LIST Der/MWN = Der/MWN ;   #!! Der/MWN
+LIST Der/са = Der/са ;	   #!! Der/sa
+LIST Der/Pur = Der/Pur ;   #!! Der/Pur
+LIST Der/Caus = Der/Caus ; #!! Der/Caus
+LIST Der/Nom = Der/Nom ; #!! Der/Nom
 
-#!! !Particles
-LIST Qst = Qst ; #!! Qst
-LIST Foc = Foc ; #!! Foc
-
-
-#!! !Tags for internal testing
+	#!! !Tags for internal testing
 LIST CmpTest = CmpTest ; #!! CmpTest
 LIST Err = Err ; #!! Err
 
@@ -178,8 +191,10 @@ LIST @ADVL> = @ADVL> ;
 LIST @>P = @>P ;
 LIST @>N = @>N ;
 LIST @OBJ> = @OBJ> ;
-LIST @SUBJ> = SUBJ> ;
+LIST @SUBJ> = @SUBJ> ;
 LIST @+FMAINV = @+FMAINV ;
+
+
 #!! !!Sets
 
 LIST CASE = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Cmpr ; #!! * __CASE__ = all cases
@@ -196,9 +211,16 @@ SET ADJ-OR-NOUN = A | N ; #SASHA ADDED 30-06-2017
 
 SET NOT-ADJ-OR-NOUN = WORD - ADJ-OR-NOUN ; #SASHA ADDED 2-07-2017
 
-LIST DER-N = Der/MWN ; #JEREMY AND SASHA ADDED 28-06-2017
+LIST DER-N = Der/MWN Der/Nom ; #JEREMY AND SASHA ADDED 28-06-2017
 SET LEX-N = N - DER-N ; #JEREMY AND SASHA ADDED 28-06-2017
 
+SET DER-N-A = Der/Pur ;
+SET A-NOT-DER = A - DER-N-A ;
+SET DER-V-V = Der/Caus ;
+SET V-NOT-DER-V	= V - DER-V-V ;
+SET DER-V-N = Der/Nom OR (Act + Prc) ;
+SET N-NOT-DER-V = N - DER-V-N ;	
+	
 #!! !!!Rule section
 
 SECTION
@@ -330,6 +352,11 @@ REMOVE:RemNafterAdv N (0 N)(-1 Adv) ; #SASHA ADDED 3-07-2017
 
 #!! !Derivations
 
+REMOVE:aNotDer DER-N-A IF (0 A-NOT-DER) ;
+REMOVE:LexN DER-N IF (0 LEX-N) ;
+REMOVE:DerVV DER-V-V IF (0 V-NOT-DER-V) ;
+REMOVE:DerVN DER-V-N IF (0 N-NOT-DER-V) ;
+	
 #!! * __RemDerMWN1__ removes Der/MWN if N is an option
 REMOVE:RemDerMWN1 (Der/MWN) IF (0 LEX-N) ; #JEREMY AND SASHA ADDED 28-06-2017
 
@@ -487,3 +514,13 @@ MAP:preNmodif @>N TARGET Pron + Gen IF (1C N);
 MAP:obj @OBJ> TARGET Acc (*1 V);
 MAP:subj @SUBJ> TARGET Nom (*1 V);
 MAP:vfin @+FMAINV TARGET Ind ;
+
+LIST Hom1 = Hom1 ;
+LIST Hom2 = Hom2 ;
+LIST Hom3 = Hom3 ;
+LIST Hom4 = Hom4 ;
+LIST Hom5 = Hom5 ;
+LIST Hom6 = Hom6 ;
+
+LIST HOM = Hom1 Hom2 Hom3 Hom5 Hom5 Hom6 ;	
+SUBSTITUTE HOM (*) TARGET HOM ;	
