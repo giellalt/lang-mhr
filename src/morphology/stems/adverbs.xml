@@ -6709,7 +6709,7 @@
    <lg>
      <l pos="Adv">гае</l>
      <stg>
-       <st Contlex="ADV_">га%{еы%}</st>
+       <st Contlex="ADV_">гае</st>
      </stg>
    </lg>
    <mg>
@@ -48745,20 +48745,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">тенее</l>
-     <stg>
-       <st Contlex="ADV_">тене%{еы%}</st>
-     </stg> <stress>тенее</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Adv"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">тениеш</l>
      <stg>
        <st Contlex="ADV_">тение•ш</st>
@@ -65129,7 +65115,7 @@
    <lg>
      <l pos="Adv">шке</l>
      <stg>
-       <st Contlex="ADV_">шк%{еы%}</st>
+       <st Contlex="ADV_">шке</st>
      </stg> <stress>шке</stress>
    </lg>
    <mg>
