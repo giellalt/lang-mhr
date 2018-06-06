@@ -305,7 +305,7 @@ REMOVE:RemAdjBeforeProp A IF (1 (Prop)) ; #SASHA ADDED 03-07-2017
 SELECT:AdjBeforeMo LEX-A IF (0 A)(1 Interr) ; #SASHA ADDED 3-07-2017
 
 #!! * __AdjBeforeAN__ selects A if N or A to the right
-SELECT:AdjBeforeAN LEX-A IF (0 A)(1 A OR N)(*1 N BARRIER NOT-ADJ-OR-NOUN) ; #SASHA MODIFIED 3-07-2017
+SELECT:AdjBeforeAN LEX-A IF (NOT 1 Prc) (0 A)(1 A OR N)(*1 N BARRIER NOT-ADJ-OR-NOUN) ; #SASHA MODIFIED 3-07-2017
 
 #!! * __RemN__ removes N if N to the right
 #REMOVE:RemN N IF (0 A)(1 N); #SASHA COMMENTED OUT 03-07-2017
