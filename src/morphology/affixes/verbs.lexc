@@ -17,7 +17,9 @@ LEXICON verbs_not_from_xml   !!=   @CODE@
 
 LEXICON negverb !!= @CODE@ TODO: fix
 +Ind+Prs+Sg1:ом K ;
++Ind+Prs+Sg1+Use/NG:огым K ;
 +Ind+Prs+Sg2:от K ;
++Ind+Prs+Sg2+Use/NG:огыт K ;
 +Ind+Prs+Sg3:ок K ;
 +Ind+Prs+Sg3+Use/NG:огеш K ;
 +Ind+Prs+Pl1:она K ;
@@ -43,6 +45,7 @@ LEXICON negverb !!= @CODE@ TODO: fix
 +Ind+Prt2+Pl3:огытыл K ;
 
 +Imprt+Sg2:ит K ;
++Imprt+Sg2+Use/NG:ите K ;
 +Imprt+Pl2:ида K ;
 +Imprt+Sg3:ынж%{еы%} K ;
 +Imprt+Pl3:ынышт K ;
