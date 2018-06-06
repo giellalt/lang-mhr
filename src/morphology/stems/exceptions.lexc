@@ -2,5 +2,30 @@
 LEXICON Exceptions
 
 
+!! NOUNS
+
+!! KIN TERMS
+! +Nom +Gen +Dat +Acc +Com +Cmpr +PxSg3 K
+веҥе+N+Sg+PxSg1:веҥым N_KIN_SPECIAL ;
+веҥе+N+Sg+PxSg2:веҥыч N_KIN_SPECIAL ;
+оньо+N+Sg+PxSg1:оньым N_KIN_SPECIAL ;
+оньо+N+Sg+PxSg2:оньыч N_KIN_SPECIAL ;
+чӱчӱ+N+Sg+PxSg1:чӱчӱм N_KIN_SPECIAL ;
+чӱчӱ+N+Sg+PxSg2:чӱчӱч N_KIN_SPECIAL ;
+чӱчӱньӧ+N+Sg+PxSg1:чӱчӱньым N_KIN_SPECIAL ;
+чӱчӱньӧ+N+Sg+PxSg1:чӱчӱньыч N_KIN_SPECIAL ;
+шешке+N+Sg+PxSg1:шешкым N_KIN_SPECIAL ;
+шешке+N+Sg+PxSg2:шешкыч N_KIN_SPECIAL ;
+шольо+N+Sg+PxSg1:шольым N_KIN_SPECIAL ;
+шольо+N+Sg+PxSg2:шольыч N_KIN_SPECIAL ;
+эрге+N+Sg+PxSg1:эргым N_KIN_SPECIAL ;
+эрге+N+Sg+PxSg2:эргыч N_KIN_SPECIAL ;
+нудо+N+Sg+PxSg1:нудым N_KIN_SPECIAL ;
+нудо+N+Sg+PxSg2:нудыч N_KIN_SPECIAL ;
+
+
+
 !! VERBS
 манаш+V+Ger+Gen:ман K ;
+
+

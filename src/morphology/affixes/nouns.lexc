@@ -32,6 +32,14 @@ LEXICON N-a/e !!= * @CODE@ to N underscore
  +N+Der/Pur:%>лык A_ ;      ! вӱр 'blood' > вӱрлык 'for blood' - Purposive derivation
  +N+LocPl+Der/Rel:%>лас%{еы%} A_ ; ! эл 'land' > элласе 'of/in lands' - Plur + Relational derivation
 
+LEXICON N_KIN_SPECIAL
++Nom: K ;
++Gen+SO/PC:%>ын K ;
++Acc+SO/PC:%>ым K ;
++Dat+SO/PC:%>лан K ;
++Com+SO/PC:%>ге K ;
++Cmpr+SO/PC:%>ла K ;
+
 
 LEXICON N-continuation  !!= * @CODE@ comes from Proper nouns
                N-ava_01      ; 
