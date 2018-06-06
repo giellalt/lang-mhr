@@ -33277,20 +33277,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кагыррак</l>
-     <stg>
-       <st Contlex="A_">кагыррак</st>
-     </stg> <stress>кагырра•к</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l hid="Hom1" pos="A">кадетский</l>
      <stg>
        <st Contlex="A_">каде•тский</st>
@@ -75725,20 +75711,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">окмакрак</l>
-     <stg>
-       <st Contlex="A_">окмакрак</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">ahdasmielinen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">окнадыме</l>
      <stg>
        <st Contlex="A_">окна•дым%{еы%}</st>
@@ -106052,20 +106024,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">соҥгырарак</l>
-     <stg>
-       <st Contlex="A_">соҥгырарак</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">huonokuuloinen</t>
      </tg>
    </mg>
 </e>
@@ -143679,20 +143637,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">шуэрак</l>
-     <stg>
-       <st Contlex="A_">шуэрак</st>
-     </stg> <stress>шуэрак</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">шуэсе</l>
      <stg>
        <st Contlex="A_">шуэс%{еы%}</st>
@@ -153516,20 +153460,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">compulsory, forced</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">ӧкымрак</l>
-     <stg>
-       <st Contlex="A_">ӧкымрак</st>
-     </stg> <stress>ӧкымра•к</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
      </tg>
    </mg>
 </e>
