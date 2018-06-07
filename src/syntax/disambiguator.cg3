@@ -165,7 +165,7 @@ LIST Temp = Temp ;  #!! Temp (?)
 #!! !Particles
 LIST Qst = Qst ; #!! Qst
 LIST Foc = Foc ; #!! Foc
-
+LIST Foc/Poss = Foc/Poss ;
 	
 	
 #!! !Punctuation marks
@@ -218,7 +218,7 @@ SET DER-N-A = Der/Pur ;
 SET A-NOT-DER = A - DER-N-A ;
 SET DER-V-V = Der/Caus ;
 SET V-NOT-DER-V	= V - DER-V-V ;
-SET DER-V-N = Der/Nom OR (Act + Prc) ;
+SET DER-V-N = Der/Nom OR (Act Prc) ;
 SET N-NOT-DER-V = N - DER-V-N ;	
 	
 #!! !!!Rule section
@@ -231,7 +231,8 @@ SECTION
 REMOVE:CmpTst CmpTest IF (NOT 1 N);
 #!! * __CmpTst2__ Select CmpTst in all other cases
 SELECT:CmpTst2 CmpTest ; # Kill'em all
-
+#!! *__NoFocPossNoun__ remove Foc/Poss if PxSg3
+REMOVE:NoFocPossNoun Foc/Poss IF (0 PxSg3);
 
 #!! !CC or Pcle
 #!! * __teveteve1__ gives CC if two теве
@@ -419,7 +420,7 @@ LIST NomPost = "" ;
 SELECT:nergen Po IF (0 ("нерген"));
 	# awaiting texts with нерге = 'badger' (mäyrä)
 	
-#!! * __PoNeedsGen__ removes postposition if the word to the left is not Gen
+#!! * __PoNeedsGen__ removes postposition if the word to the left is not Gen or Nom
 REMOVE:PoNeedsGen Po IF (NOT -1 Gen OR Nom);
 
 
@@ -438,9 +439,6 @@ REMOVE:molan ("мо") IF (0 ("молан")) ;
 REMOVE:AdvNotPcle Pcle IF (0 Adv)(1 V);
 
 REMOVE:PcleKillsAdv Adv IF (0 Pcle);
-
-#!! *__RemAdvAfterNom__ removes Adv if N Nom to the left
-REMOVE:RemAdvAfterNom Adv IF (-1 N + Nom) ; #SASHA ADDED 03-07-2017
 
 #!! !!Verbs
 #     =====
