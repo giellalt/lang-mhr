@@ -23221,7 +23221,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="Adv">кузерак</l>
      <stg>
@@ -24884,20 +24884,6 @@
        <t pos="Adv">helposti</t>
      </tg>
      <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">куштылгырак</l>
-     <stg>
-       <st Contlex="ADV_">куштылгырак</st>
-     </stg> <stress>куштылгыра•к</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Adv"/>
      </tg>
    </mg>
 </e>
@@ -28350,7 +28336,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="Adv">лишкырак</l>
      <stg>
