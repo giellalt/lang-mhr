@@ -78,6 +78,15 @@ The possession is marked as such:
  * __+PxPl2__ = 
  * __+PxPl3__ = 
 
+Suffix ordering tags:
+ * __+SO/CP	__ =
+ * __+SO/PC	__ =
+ * __+SO/NCP	__ =
+ * __+SO/NPC	__ =
+ * __+SO/NP	__ =
+ * __+SO/PN	__ =
+ * __+SO/PNC	__ =
+
 The comparative forms are:
  * __+Comp__ = comparative (not: not Cmp)
  * __+Superl__ = superlative
@@ -142,6 +151,12 @@ Question and Focus particles:
  * __+Foc/ja	__ = -ja focus particle
 
 !Derivations
+
+ * __+Ex/N__ = for derivation from N to anoter POS
+ * __+Ex/V__ = for derivation from V  to anoter POS
+ * __+Ex/A__ = for derivation from A to anoter POS
+ * __+Ex/TV__ = change to other transitivity
+ * __+EX/IV__ = change to other transitivity
 
  * __+Der/MWN__ = Modifier without noun (better: +A+Sg+Nom etc.)
  * __+Der/Poss__ = Originally genitive form without a head
