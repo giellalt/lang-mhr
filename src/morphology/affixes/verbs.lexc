@@ -167,48 +167,55 @@ LEXICON Vam-Des  !!= @CODE@ for desiderative, Желательное накло�
 
 
 !! !The -em class
-
+!! First four lexica: V_em with Gerund, the rest without, all going to V_em_ALL to get derivation affixes.
 LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
-                   +V:          V_em-1SYLL ;
-          +V+Der/Caus:ы%>кт     V_em-1SYLL ; ! Causative der: ышташ 'to do' > ыштыкташ 'to make do'
- +V+Der/Caus+Der/Caus:ы%>ктыкт  V_em-1SYLL ; ! Causative dern: ышташ 'to do' > ыштыкташ 'to make do'
-          +V+Der/Refl:%>А2лт    V_am       ; ! Refl der: ончыкташ 'to show' > ончыкталташ 'to show on
- +V+Der/Refl+Der/Caus:%>А2лтыкт V_em       ; ! Reflexive der: ончыкташ 'to show' > ончыкталташ 'to show oneself'
- +V+Der/Refl+Der/Refl:%>А2лталт V_am       ; ! Refl der: ончыкташ 'to show' > ончыкталташ 'to show oneself'
+                   +V:          V_em_ALL ;
            +V+Ger+Gen:          K          ; !CHECKME is %>Ы2%^END required
+           +ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
+        +Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
 
 LEXICON V_em-1SYLL-j !!= @CODE@ These allow for literary norm until 1970s (see Alhoniemi 1985: 105-106) кайше, кайшаш
  +V+Err/Orth: non-finites ; !!= @CODE@ until 1972 reform
-              V_em-1SYLL  ;
-
-
-LEXICON V_em-1SYLL !!= @CODE@ These are single syllable V_em verbs, which do not include bare-stem gerunds in their paradigms
- V_em-MULTI-SYLL-IN-J ;
-	+V+ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
- +V+Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
-
+                   +V:           V_em_ALL  ;
 
 LEXICON V_em-MULTI-SYLL-IN-J
+                                 V_em ;
 
+LEXICON V_em-1SYLL !!= @CODE@ These are single syllable V_em verbs, which do not include bare-stem gerunds in their paradigms
+                   +V:           V_em_ALL ;
+          +ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
+       +Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
 
-   +V:                     Vem-Mood    ;
-       +V+Inf:%>А2ш       K           ;
-   +V+Inf+Dat:%>А2шлан    K           ;
- +V+Inf+PxSg1:%>А2шем     K           ;
- +V+Inf+PxSg2:%>А2шет     K           ;
- +V+Inf+PxSg3:%>А2шыже    K           ;
- +V+Inf+PxSg3:%>А2шыж     K           ;
- +V+Inf+PxSg3:%>А2шше     K           ;
- +V+Inf+PxPl1:%>А2шна     K           ;
- +V+Inf+PxPl2:%>А2шда     K           ;
- +V+Inf+PxPl3:%>А2шышт    K           ;
+!! Optional derivation:  All verbs going to V_em_INFL
+LEXICON V_em_ALL
+                                 V_em_INFL;
+    +Der/Caus:ы%>кт              V_em_INFL  ; ! Causative der: ышташ 'to do' > ыштыкташ 'to make do'
+    +Der/Caus+Der/Caus:ы%>ктыкт  V_em_INFL  ; ! Causative der: ышташ 'to do' > ыштыкташ 'to make do'
+    +Der/Refl:%>А2лт             V_am       ; ! Refl der: ончыкташ 'to show' > ончыкталташ 'to show on
+    +Der/Refl+Der/Caus:%>А2лтыкт V_em       ; ! Reflexive der: ончыкташ 'to show' > ончыкталташ 'to show oneself'
+    +Der/Refl+Der/Refl:%>А2лталт V_am       ; ! Refl der: ончыкташ 'to show' > ончыкталташ 'to show oneself'
+
+LEXICON V_em_INFL
+                        Vem-Mood    ;
+       +Inf:%>А2ш       K           ;
+   +Inf+Dat:%>А2шлан    K           ;
+ +Inf+PxSg1:%>А2шем     K           ;
+ +Inf+PxSg2:%>А2шет     K           ;
+ +Inf+PxSg3:%>А2шыже    K           ;
+ +Inf+PxSg3:%>А2шыж     K           ;
+ +Inf+PxSg3:%>А2шше     K           ;
+ +Inf+PxPl1:%>А2шна     K           ;
+ +Inf+PxPl2:%>А2шда     K           ;
+ +Inf+PxPl3:%>А2шышт    K           ;
 
 
 ! Деепричастие образа действия:
-   +V+Ger+Gen:%>Е2н       K           ;
-           +V:ы           non-finites ;
-    +V+ConNeg:%>Ы2%^END   K           ; !
- +V+Imprt+Sg2:%>Ы2%^END   K-imprt     ;
+   +Ger+Gen:%>Е2н       K           ;
+           :ы           non-finites ;
+    +ConNeg:%>Ы2%^END   K           ; !
+ +Imprt+Sg2:%>Ы2%^END   K-imprt     ;
+
+
 
 LEXICON Vem-Mood !!= @CODE@ divides in Ind, Imprt, Des
    +Ind: Vem-Ind ;
@@ -474,4 +481,3 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
 
 
 ! vim: set ft=xfst-lexc:
-
