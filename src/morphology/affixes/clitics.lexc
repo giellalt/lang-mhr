@@ -11,8 +11,8 @@ LEXICON K_at
                ENDLEX ;
  +Foc/ak:%>А2к ENDLEX ;
  +Foc/at:%>А2т ENDLEX ;
- +PxSg3:%>ыжЫ2 ENDLEX ; !Px3Sg as clitic
- +PxSg3:%>жЫ2 ENDLEX ; !Px3Sg as clitic
+ +Foc/Poss:%>ыжЫ2 ENDLEX ; !Px3Sg as clitic
+ +Foc/Poss:%>жЫ2 ENDLEX ; !Px3Sg as clitic
 
 
 

@@ -172,6 +172,12 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 
 !! !Derivations
 
++Ex/N      !!≈ * __@CODE@__ = for derivation from N to anoter POS
++Ex/V      !!≈ * __@CODE@__ = for derivation from V  to anoter POS
++Ex/A      !!≈ * __@CODE@__ = for derivation from A to anoter POS
++Ex/TV      !!≈ * __@CODE@__ = change to other transitivity
++EX/IV      !!≈ * __@CODE@__ = change to other transitivity
+
 +Der/MWN      !!≈ * __@CODE@__ = Modifier without noun (better: +A+Sg+Nom etc.)
 +Der/Poss      !!≈ * __@CODE@__ = Originally genitive form without a head
 !+Der/исЕ      !!≈ * __@CODE@__ = Used with place names
