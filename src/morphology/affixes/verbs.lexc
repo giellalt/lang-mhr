@@ -181,10 +181,15 @@ LEXICON V_em-1SYLL-j !!= @CODE@ These allow for literary norm until 1970s (see A
  +V+Err/Orth: non-finites ; !!= @CODE@ until 1972 reform
               V_em-1SYLL  ;
 
-LEXICON V_em-MULTI-SYLL-IN-J
-  V_em-1SYLL ;
 
 LEXICON V_em-1SYLL !!= @CODE@ These are single syllable V_em verbs, which do not include bare-stem gerunds in their paradigms
+ V_em-MULTI-SYLL-IN-J ;
+	+ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
+ +Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
+
+
+LEXICON V_em-MULTI-SYLL-IN-J
+
 
                         Vem-Mood    ;
        +Inf:%>А2ш       K           ;
@@ -204,9 +209,6 @@ LEXICON V_em-1SYLL !!= @CODE@ These are single syllable V_em verbs, which do not
            :ы           non-finites ;
     +ConNeg:%>Ы2%^END   K           ; !
  +Imprt+Sg2:%>Ы2%^END   K-imprt     ;
-
-    +ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
- +Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
 
 LEXICON Vem-Mood !!= @CODE@ divides in Ind, Imprt, Des
    +Ind: Vem-Ind ;
