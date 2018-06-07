@@ -115,15 +115,25 @@ LIST HUMAN = Sem/Hum Sem/Mal Sem/Fem Sem/Sur Pers NumAg Der/NumAg ;
 #!! * Sets for Morphosyntactic properties
 # --------------------------
 
-LIST Nom = Nom ;
-LIST Acc = Acc ;
-LIST Gen = Gen ;
-LIST Ill = Ill ;
-LIST Loc = Loc ;
-LIST Com = Com ;
+LIST Nom = Nom nom ;  #!! Nom
+LIST Gen = Gen gen ;  #!! Gen
+LIST Abl = Abl abl ;  #!! Abl
+LIST Dat = Dat dat ;  #!! Dat
+LIST Com = Com com ;  #!! Com
+LIST Cns = Cns cns ;  #!! Cns
+LIST Acc = Acc acc ;   #!! Acc
+LIST Ins = Ins ins ;   #!! Ins
+LIST Ine = Ine ine ;   #!! Ine
+LIST Ill = Ill ill ;   #!! Ill
+LIST Cmpr = Cmpr ; 	   #!! Cmpr (case)
+LIST Attr = Attr ;
 LIST Ess = Ess ;
-LIST Ine = Ine ;
-LIST Ela = Ela ;
+LIST Loc = Loc ;
+# to be very removed.
+
+LIST Case = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Cmpr ;
+SET Obl = Case - Nom ;
+
 
 LIST LOC = Loc Ine Ela ;
 
@@ -864,6 +874,10 @@ SET NON-APP = ALLSYNTAG - (@APP);
 
          SECTION         #
 
+#!! !!Postposition
+
+MAP:PoCompl (@>P) TARGET N + Nom OR N + Gen IF (1 Po) ;
+
 #!! !!HABITIVE MAPPING
 
 	# Habitives - HAB
@@ -1017,9 +1031,17 @@ MAP:>nAttr (@>A) TARGET Attr - Dem - Pron (*1 A - Gen OR Ord - Gen BARRIER NOT-N
 
 MAP:>nAttr (@>A) TARGET (Indef Attr) (*1 A - Gen OR Ord - Gen BARRIER NOT-NPMOD OR CC OR (N Gen) OR COMMA OR PUNCT)  ;
 	#$ Dattetge ii leat muitaluvvon makkárge namahan veara geavahanriiddu birra dálolaččaid ja boazodoalu gaskkas.
-MAP:>nAttr (@>N) TARGET Attr (*1 N BARRIER Num OR A - Attr OR Pr OR Ord)  ;
+
+#!! Mari rules start here
+MAP:>nAttr (@>N) TARGET A (*1 N BARRIER Num OR V OR Po OR COMMA OR PUNCT)  ;
 	#$
 	#% Ledjego hilbadat mánát?
+MAP:Prop (@>N) TARGET (Sem/Mal) IF (1 Sem/Sur)(NOT 2 Sem/Sur);
+MAP:Prop (@>N) TARGET (Prop) IF (1 Prop);
+MAP:Prop (@>N) TARGET (Prop) IF (NOT 0 Obl) (1 Prop);
+
+#!! Mari rules stop here	
+
 MAP:>nNum (@>N) TARGET Num - (Sg Nom) - (Sg Acc) - Sem/Date (*1 N BARRIER NOT-A OR Num)  ;
 
 MAP:>n (@>Num) TARGET Gen - JAHKI (1 Num)(NEGATE 0 OKTA + Nom LINK *1 (N Pl Loc) BARRIER NOT-NPMOD)(NEGATE 0 Gen LINK 1 CC LINK 1 Gen LINK 1 Po) ;
