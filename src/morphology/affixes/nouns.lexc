@@ -40,6 +40,19 @@ LEXICON N_KIN_SPECIAL
 +Com+SO/PC:%>ге K ;
 +Cmpr+SO/PC:%>ла K ;
 
+LEXICON N_SINGLE-SYLLABLE-U
+! лу ну пу ру ту шу кӱ ю у
++N+Sg+Gen:%>ын K ;
++N+Sg+Acc:%>ым K ;
++N+Sg+PxSg3+Nom:%>ыжЫ2 K ;
++N+Sg+PxPl3+Nom:%>ышт K ;
++N+Sg+Ine:%>ыштЫ2 K ;
++N+Sg+Ine+PxSg1+SO/CP:%>ыштем K ;
++N+Sg+Ine+PxSg2+SO/CP:%>ыштет K ;
++N+Sg+Ine+PxSg3+SO/CP:%>ыштыжЫ2 K ;
++N+Sg+Ine+PxPl1+SO/CP:%>ыштна K ;
++N+Sg+Ine+PxPl2+SO/CP:%>ыштда K ;
++N+Sg+Ine+PxPl3+SO/CP:%>ыштышт K ;
 
 LEXICON N-continuation  !!= * @CODE@ comes from Proper nouns
                N-ava_01      ; 
