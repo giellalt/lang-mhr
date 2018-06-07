@@ -20,10 +20,11 @@
 
 # List any local filter regex files here:
 GIELLA_FILTER_LOCAL_REGEX_SRCS=\
-					downcase_UCletters.regex
+					downcase_UCletters.regex \
+					rename-POS_before_Der-tags.regex
 
 # List any local filter xfscript files here:
-GIELLA_FILTER_LOCAL_XFSCRIPT_SRCS=remove-nom-strings.xfscript
+GIELLA_FILTER_LOCAL_XFSCRIPT_SRCS=
 
 # List any local filter lexc files here:
 GIELLA_FILTER_LOCAL_LEXC_SRCS=
