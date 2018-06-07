@@ -40,10 +40,10 @@ Tests:
   Noun - сугынь: # Noun 'blessing'
 
      сугынь+N+Sg+Nom: сугынь
-     сугынь+N+Sg+PxSg1+Nom: сугынем
+     сугынь+N+Sg+Nom+PxSg1: сугынем
      сугынь+N+Sg+Nom+Foc/at: сугынят
      сугынь+N+Sg+Gen: сугыньын
      сугынь+N+Sg+Dat: сугыньлан
      сугынь+N+Pl+Nom: [сугынь-влак, сугынь-шамыч]
-     сугынь+N+Sg+PxSg3+Nom: сугыньжо
+     сугынь+N+Sg+Nom+PxSg3: сугыньжо
 

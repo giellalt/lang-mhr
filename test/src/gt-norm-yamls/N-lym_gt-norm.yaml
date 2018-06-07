@@ -40,9 +40,9 @@ Tests:
   Noun - лӱм: # Noun 'name'
 
      лӱм+N+Sg+Nom: лӱм
-     лӱм+N+Sg+PxSg1+Nom: лӱмем
+     лӱм+N+Sg+Nom+PxSg1: лӱмем
      лӱм+N+Sg+Nom+Foc/at: лӱмат
      лӱм+N+Sg+Gen: лӱмын
      лӱм+N+Sg+Dat: лӱмлан
      лӱм+N+Pl+Nom: [лӱм-влак, лӱм-шамыч]
-     лӱм+N+Sg+PxSg3+Nom: лӱмжӧ
+     лӱм+N+Sg+Nom+PxSg3: лӱмжӧ

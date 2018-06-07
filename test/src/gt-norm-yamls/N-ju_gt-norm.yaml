@@ -40,9 +40,9 @@ Tests:
   Noun - ю: # Noun 'magic'
 
      ю+Hom1+N+Sg+Nom: ю
-     ю+Hom1+N+Sg+PxSg1+Nom: юэм
+     ю+Hom1+N+Sg+Nom+PxSg1: юэм
      ю+Hom1+N+Sg+Nom+Foc/at: юат
      ю+Hom1+N+Sg+Gen: юн
      ю+Hom1+N+Sg+Dat: юлан
      ю+Hom1+N+Pl+Nom: [ю-влак, ю-шамыч]
-     ю+Hom1+N+Sg+PxSg3+Nom: [южо, юж]
+     ю+Hom1+N+Sg+Nom+PxSg3: [южо, юж]

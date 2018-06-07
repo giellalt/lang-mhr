@@ -40,9 +40,9 @@ Tests:
   Noun - рӱдӧ: # Noun 'center'
 
      рӱдӧ+N+Sg+Nom: рӱдӧ
-     рӱдӧ+N+Sg+PxSg1+Nom: рӱдем
+     рӱдӧ+N+Sg+Nom+PxSg1: рӱдем
      рӱдӧ+N+Sg+Nom+Foc/at: рӱдат
      рӱдӧ+N+Sg+Gen: рӱдын
      рӱдӧ+N+Sg+Dat: рӱдылан
      рӱдӧ+N+Pl+Nom: [рӱдӧ-влак, рӱдӧ-шамыч]
-     рӱдӧ+N+Sg+PxSg3+Nom: [рӱдыжӧ, рӱдыж]
+     рӱдӧ+N+Sg+Nom+PxSg3: [рӱдыжӧ, рӱдыж]

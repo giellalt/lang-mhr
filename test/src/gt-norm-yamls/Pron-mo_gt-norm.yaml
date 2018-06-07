@@ -40,10 +40,10 @@ Tests:
   Pronoun - мо: # Pronoun 'what' - OK, not a noun ...
 
      мо+Pron+Interr+Sg+Nom: мо
-     мо+Pron+Interr+Sg+PxSg1+Nom: моэм
+     мо+Pron+Interr+Sg+Nom+PxSg1: моэм
      мо+Pron+Interr+Sg+Nom+Foc/at: моат
      мо+Pron+Interr+Sg+Gen: мон
      мо+Pron+Interr+Sg+Dat: молан
      мо+Pron+Interr+Pl+Nom: [мо-влак, мо-шамыч]
-     мо+Pron+Interr+Sg+PxSg3+Nom: [можо, мож]
+     мо+Pron+Interr+Sg+Nom+PxSg3: [можо, мож]
 

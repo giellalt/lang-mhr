@@ -40,9 +40,9 @@ Tests:
   Noun - пу: # Noun 'wood'
 
      пу+N+Sg+Nom: пу
-     пу+N+Sg+PxSg1+Nom: пуэм
+     пу+N+Sg+Nom+PxSg1: пуэм
      пу+N+Sg+Nom+Foc/at: пуат
      пу+N+Sg+Gen: пун
      пу+N+Sg+Dat: пулан
      пу+N+Pl+Nom: [пу-влак, пу-шамыч]
-     пу+N+Sg+PxSg3+Nom: [пужо, пуж]
+     пу+N+Sg+Nom+PxSg3: [пужо, пуж]

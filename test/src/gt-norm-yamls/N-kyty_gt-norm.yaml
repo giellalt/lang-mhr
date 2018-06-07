@@ -40,10 +40,10 @@ Tests:
   Noun - кӱтӱ: # Noun 'herd'
 
      кӱтӱ+N+Sg+Nom: кӱтӱ
-     кӱтӱ+N+Sg+PxSg1+Nom: кӱтӱэм
+     кӱтӱ+N+Sg+Nom+PxSg1: кӱтӱэм
      кӱтӱ+N+Sg+Nom+Foc/at: кӱтӱат
      кӱтӱ+N+Sg+Gen: кӱтӱн
      кӱтӱ+N+Sg+Dat: кӱтӱлан
      кӱтӱ+N+Pl+Nom: [кӱтӱ-влак, кӱтӱ-шамыч]
-     кӱтӱ+N+Sg+PxSg3+Nom: [кӱтӱжӧ, кӱтӱж]
+     кӱтӱ+N+Sg+Nom+PxSg3: [кӱтӱжӧ, кӱтӱж]
 

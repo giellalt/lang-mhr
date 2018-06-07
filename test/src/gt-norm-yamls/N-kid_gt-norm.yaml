@@ -40,10 +40,10 @@ Tests:
   Noun - кид: # Noun 'hand'
 
      кид+N+Sg+Nom: кид
-     кид+N+Sg+PxSg1+Nom: кидем
+     кид+N+Sg+Nom+PxSg1: кидем
      кид+N+Sg+Nom+Foc/at: кидат
      кид+N+Sg+Gen: кидын
      кид+N+Sg+Dat: кидлан
      кид+N+Sg+Ine: кидыште
      кид+N+Pl+Nom: [кид-влак, кид-шамыч]
-     кид+N+Sg+PxSg3+Nom: кидше
+     кид+N+Sg+Nom+PxSg3: кидше

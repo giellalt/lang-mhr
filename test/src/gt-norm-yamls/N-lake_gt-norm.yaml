@@ -40,9 +40,9 @@ Tests:
   Noun - лаке: # Noun 'hole'
 
      лаке+N+Sg+Nom: лаке
-     лаке+N+Sg+PxSg1+Nom: лакем
+     лаке+N+Sg+Nom+PxSg1: лакем
      лаке+N+Sg+Nom+Foc/at: лакат
      лаке+N+Sg+Gen: лакын
      лаке+N+Sg+Dat: лакылан
      лаке+N+Pl+Nom: [лаке-влак, лаке-шамыч]
-     лаке+N+Sg+PxSg3+Nom: [лакыже, лакыж]
+     лаке+N+Sg+Nom+PxSg3: [лакыже, лакыж]

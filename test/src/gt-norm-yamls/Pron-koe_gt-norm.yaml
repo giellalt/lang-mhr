@@ -40,9 +40,9 @@ Tests:
   Pronoun - кӧ: # Pronoun 'who' - OK, not a noun
 
      кӧ+Pron+Interr+Sg+Nom: кӧ
-     кӧ+Pron+Interr+Sg+PxSg1+Nom: кӧэм
+     кӧ+Pron+Interr+Sg+Nom+PxSg1: кӧэм
      кӧ+Pron+Interr+Sg+Nom+Foc/at: кӧат
      кӧ+Pron+Interr+Sg+Gen: кӧн
      кӧ+Pron+Interr+Sg+Dat: кӧлан
      кӧ+Pron+Interr+Pl+Nom: [кӧ-влак, кӧ-шамыч]
-     кӧ+Pron+Interr+Sg+PxSg3+Nom: [кӧжӧ, кӧж]
+     кӧ+Pron+Interr+Sg+Nom+PxSg3: [кӧжӧ, кӧж]

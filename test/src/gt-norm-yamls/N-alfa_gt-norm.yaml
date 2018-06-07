@@ -40,12 +40,12 @@ Tests:
   Noun - алфа: # Noun 'alpha'
 
 
-     алфа+N+Sg+Nom: алфа
-     алфа+N+Sg+PxSg1+Nom: алфем
-     алфа+N+Sg+Nom+Foc/at: алфат
-     алфа+N+Sg+Gen: алфын
-     алфа+N+Sg+Dat: алфылан
-     алфа+N+Pl+Nom: [алфа-влак, алфа-шамыч]
-     алфа+N+Sg+PxSg3+Nom: [алфыже, алфыж]
+     алфа+N+Sg+Nom: альфа
+     алфа+N+Sg+Nom+PxSg1: альфем
+     алфа+N+Sg+Nom+Foc/at: альфат
+     алфа+N+Sg+Gen: альфын
+     алфа+N+Sg+Dat: альфылан
+     алфа+N+Pl+Nom: [альфа-влак, альфа-шамыч]
+     алфа+N+Sg+Nom+PxSg3: [альфыже, альфыж]
 
 

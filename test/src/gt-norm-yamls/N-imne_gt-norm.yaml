@@ -40,9 +40,9 @@ Tests:
   Noun - имне: # Noun 'horse' - NB, orthographically unmarked palatalization
 
      имне+N+Sg+Nom: имне
-     имне+N+Sg+PxSg1+Nom: имнем
+     имне+N+Sg+Nom+PxSg1: имнем
      имне+N+Sg+Nom+Foc/at: имнят
      имне+N+Sg+Gen: имньын
      имне+N+Sg+Dat: имньылан
      имне+N+Pl+Nom: [имне-влак, имне-шамыч]
-     имне+N+Sg+PxSg3+Nom: [имньыже, имньыж]
+     имне+N+Sg+Nom+PxSg3: [имньыже, имньыж]
