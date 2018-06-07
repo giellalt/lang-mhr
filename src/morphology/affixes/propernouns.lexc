@@ -10,7 +10,7 @@ LEXICON PROP-OLD-ORTH-SG-NOM_  !!= * @CODE@
 
 LEXICON PROP_  !!= * @CODE@
  +N+Prop: N-ava_01 ; !!= * @CODE@ decline like common nouns
-
+ 
 LEXICON PROP-PLC_  !!= * @CODE@
  +Sem/Plc+N+Prop: N-ava_01 ; !!= * @CODE@ decline like common nouns
  +N+Prop+Der/ысЕ:%>ысЫ2 A_ ; !CHECKME 2017-1-1
@@ -150,26 +150,33 @@ LEXICON PROP_KUDO_SUR !!= * @CODE@
 
 LEXICON PROP_KAL_MAL !!= * @CODE@
  +N+Prop+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Mal: ENDLEX ;
 
 LEXICON PROP_LAK_MAL !!= * @CODE@
  +N+Prop+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Mal: ENDLEX ;
 
 LEXICON PROP_KIT_MAL !!= * @CODE@
  +N+Prop+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Mal: ENDLEX ;
 
 LEXICON PROP_OSH_MAL !!= * @CODE@
  +N+Prop+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Mal: ENDLEX ;
 
 LEXICON PROP_KUDO_MAL !!= * @CODE@
  +N+Prop+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Mal: ENDLEX ;
 
 
 
 LEXICON PROP_OSH_PATRMAL !!= * @CODE@
  +N+Prop+Patr+Sem/Mal: N-ava_01 ;
+ +N+Prop+Patr+Sem/Mal: # ;
 
 LEXICON PROP_KUDO_PATRFEM !!= * @CODE@
  +N+Prop+Patr+Sem/Fem: N-ava_01 ;
+ +N+Prop+Patr+Sem/Mal: # ;
 
 
 !! !!Female Given names 
@@ -177,15 +184,18 @@ LEXICON PROP_KUDO_PATRFEM !!= * @CODE@
 
 LEXICON PROP_KAL_FEM !!= * @CODE@
  +N+Prop+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Fem: ENDLEX ;
 
 !LEXICON PROP_LAK_FEM
 ! +N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_KIT_FEM !!= * @CODE@
  +N+Prop+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Fem: ENDLEX ;
 
 LEXICON PROP_OSH_FEM !!= * @CODE@
  +N+Prop+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Fem: ENDLEX ;
 
 !LEXICON PROP_ТЕШТЕ_FEM
 !  PROP_ПАНГО_FEM ;
@@ -198,6 +208,7 @@ LEXICON PROP_OSH_FEM !!= * @CODE@
 
 LEXICON PROP_KUDO_FEM !!= * @CODE@
  +N+Prop+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Fem: ENDLEX ;
 
 
 !! PLACE NAMES FROM TEMPLATE 
