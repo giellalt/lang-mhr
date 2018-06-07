@@ -334,6 +334,10 @@ REMOVE:RemAdj2 A IF (0 N)(*-1 DELIMITERS BARRIER N OR Pron)(*1 DELIMITERS BARRIE
 
 #!! !Nouns
 
+	#!! * __lym__ nalash 'to take a name' = to be given a title'
+SELECT:lym ("лӱм") IF ( 0 ("лӱм"))(1 ("налаш"));	
+
+	
 #!! *__RemNomIfPronLeft__ removes Nom if Pron Nom anywhere to the left
 REMOVE:RemNifPronLeft (Nom) IF (0 N)(*-1 Pron + Nom BARRIER DELIMITERS) ; #SASHA ADDED 03-07-2017
 
