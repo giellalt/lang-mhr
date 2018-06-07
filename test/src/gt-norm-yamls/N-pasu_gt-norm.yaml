@@ -40,9 +40,9 @@ Tests:
   Noun - пасу: # Noun 'field'
 
      пасу+N+Sg+Nom: пасу
-     пасу+N+Sg+PxSg1+Nom: пасуэм
+     пасу+N+Sg+Nom+PxSg1: пасуэм
      пасу+N+Sg+Nom+Foc/at: пасуат
      пасу+N+Sg+Gen: пасун
      пасу+N+Sg+Dat: пасулан
      пасу+N+Pl+Nom: [пасу-влак, пасу-шамыч]
-     пасу+N+Sg+PxSg3+Nom: [пасужо, пасуж]
+     пасу+N+Sg+Nom+PxSg3: [пасужо, пасуж]

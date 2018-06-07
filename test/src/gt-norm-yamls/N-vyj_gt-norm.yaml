@@ -40,10 +40,10 @@ Tests:
   Noun - вуй: # Noun 'head'
 
      вуй+N+Sg+Nom: вуй
-     вуй+N+Sg+PxSg1+Nom: вуем
+     вуй+N+Sg+Nom+PxSg1: вуем
      вуй+N+Sg+Nom+Foc/at: вуят
      вуй+N+Sg+Gen: вуйын
      вуй+N+Sg+Dat: вуйлан
      вуй+N+Pl+Nom: [вуй-влак, вуй-шамыч]
-     вуй+N+Sg+PxSg3+Nom: вуйжо
+     вуй+N+Sg+Nom+PxSg3: вуйжо
 

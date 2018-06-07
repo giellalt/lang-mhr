@@ -40,10 +40,10 @@ Tests:
   Noun - пальто: # Noun 'coat' - NB, final stress!
 
      пальто+N+Sg+Nom: пальто
-     пальто+N+Sg+PxSg1+Nom: пальтоэм
+     пальто+N+Sg+Nom+PxSg1: пальтоэм
      пальто+N+Sg+Nom+Foc/at: пальтоат
      пальто+N+Sg+Gen: пальтон
      пальто+N+Sg+Dat: пальтолан
      пальто+N+Pl+Nom: [пальто-влак, пальто-шамыч]
-     пальто+N+Sg+PxSg3+Nom: [пальтожо, пальтож]
+     пальто+N+Sg+Nom+PxSg3: [пальтожо, пальтож]
 

@@ -40,9 +40,9 @@ Tests:
   Noun - пунйылме: # Noun 'flame' - NB, second element of compound determins vowel harmonic vowels.
 
      пунйылме+N+Sg+Nom: пунйылме
-     пунйылме+N+Sg+PxSg1+Nom: пунйылмем
+     пунйылме+N+Sg+Nom+PxSg1: пунйылмем
      пунйылме+N+Sg+Nom+Foc/at: пунйылмат
      пунйылме+N+Sg+Gen: пунйылмын
      пунйылме+N+Sg+Dat: пунйылмылан
      пунйылме+N+Pl+Nom: [пунйылме-влак, пунйылме-шамыч]
-     пунйылме+N+Sg+PxSg3+Nom: [пунйылмыже, пунйылмыж]
+     пунйылме+N+Sg+Nom+PxSg3: [пунйылмыже, пунйылмыж]

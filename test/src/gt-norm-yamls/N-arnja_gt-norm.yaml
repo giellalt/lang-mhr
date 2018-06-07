@@ -40,9 +40,9 @@ Tests:
   Noun - арня: # Noun 'week'
 
      арня+N+Sg+Nom: арня
-     арня+N+Sg+PxSg1+Nom: арням
+     арня+N+Sg+Nom+PxSg1: арням
      арня+N+Sg+Nom+Foc/at: арнят
      арня+N+Sg+Gen: арнян
      арня+N+Sg+Dat: арнялан
      арня+N+Pl+Nom: [арня-влак, арня-шамыч]
-     арня+N+Sg+PxSg3+Nom: [арняже, арняж]
+     арня+N+Sg+Nom+PxSg3: [арняже, арняж]
