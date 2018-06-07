@@ -168,32 +168,39 @@ LEXICON Vam-Des  !!= @CODE@ for desiderative, Желательное накло�
 
 !! !The -em class
 !! First four lexica: V_em with Gerund, the rest without, all going to V_em_ALL to get derivation affixes.
+! V_em                  = V_em
+! V_em-1SYLL            = V_em_puash  
+! V_em-1SYLL-j          = V_em_kajash
+! V_em-MULTI-1SYLL-IN-J = V_em_kutajash
+
 LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
                    +V:          V_em_ALL ;
-           +V+Ger+Gen:          K          ; !CHECKME is %>Ы2%^END required
-           +ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
-        +Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
+!           +V+Ger+Gen:          K          ; !CHECKME is %>Ы2%^END required
+           +V+ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
+        +V+Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
 
-LEXICON V_em-1SYLL-j !!= @CODE@ These allow for literary norm until 1970s (see Alhoniemi 1985: 105-106) кайше, кайшаш
+LEXICON V_em-1SYLL-j !!= @CODE@ allow for literary norm until 1970 (Alhoniemi 1985: 105-106) кайше, кайшаш
  +V+Err/Orth: non-finites ; !!= @CODE@ until 1972 reform
                    +V:           V_em_ALL  ;
+          +V+ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
+       +V+Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
 
 LEXICON V_em-MULTI-SYLL-IN-J
-                                 V_em ;
+                   +V:              V_em_ALL ;
 
-LEXICON V_em-1SYLL !!= @CODE@ These are single syllable V_em verbs, which do not include bare-stem gerunds in their paradigms
+LEXICON V_em-1SYLL !!= @CODE@ single syll V_em verbs, do not include bare-stem gerunds in their paradigms
                    +V:           V_em_ALL ;
-          +ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
-       +Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
+          +V+ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
+       +V+Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
 
 !! Optional derivation:  All verbs going to V_em_INFL
 LEXICON V_em_ALL
                                  V_em_INFL;
-    +Der/Caus:ы%>кт              V_em_INFL  ; ! Causative der: ышташ 'to do' > ыштыкташ 'to make do'
-    +Der/Caus+Der/Caus:ы%>ктыкт  V_em_INFL  ; ! Causative der: ышташ 'to do' > ыштыкташ 'to make do'
-    +Der/Refl:%>А2лт             V_am       ; ! Refl der: ончыкташ 'to show' > ончыкталташ 'to show on
-    +Der/Refl+Der/Caus:%>А2лтыкт V_em       ; ! Reflexive der: ончыкташ 'to show' > ончыкталташ 'to show oneself'
-    +Der/Refl+Der/Refl:%>А2лталт V_am       ; ! Refl der: ончыкташ 'to show' > ончыкталташ 'to show oneself'
+    +Der/Caus:ы%>кт              V_em_INFL  ; ! Caus: ышташ 'to do' > ыштыкташ 'to make do'
+    +Der/Caus+Der/Caus:ы%>ктыкт  V_em_INFL  ; ! Caus ышташ 'to do' > ыштыкташ 'to make do'
+    +Der/Refl:%>А2лт             V_am       ; ! Refl: ончыкташ > ончыкталташ 'to show (> on)'
+    +Der/Refl+Der/Caus:%>А2лтыкт V_em       ; 
+    +Der/Refl+Der/Refl:%>А2лталт V_am       ; 
 
 LEXICON V_em_INFL
                         Vem-Mood    ;
@@ -207,7 +214,6 @@ LEXICON V_em_INFL
  +Inf+PxPl1:%>А2шна     K           ;
  +Inf+PxPl2:%>А2шда     K           ;
  +Inf+PxPl3:%>А2шышт    K           ;
-
 
 ! Деепричастие образа действия:
    +Ger+Gen:%>Е2н       K           ;
