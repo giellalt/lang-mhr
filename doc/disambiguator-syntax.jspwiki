@@ -106,6 +106,8 @@ Ine
 Ill
 Cmpr (case)
 
+
+
 !Other nominal tags
 
 Pers
@@ -144,7 +146,6 @@ Qst
 Foc
 
 
-
 !Punctuation marks
 
 CLB
@@ -179,6 +180,37 @@ Err
 
 
 
+
+Der/Date
+Der/Year
+Der/Hum
+Der/Lang
+Der/Domain
+Der/Feat-phys
+Der/Clth
+Der/Body
+Der/Act
+
+Sem/Ani
+Sem/Fem
+Sem/Group
+Sem/Mal
+Sem/Measr
+Sem/Money
+Sem/Obj
+Sem/Obj-el
+Sem/Org
+Sem/Perc-emo
+Sem/Plc
+Sem/Sign
+Sem/State-sick
+Sem/Sur
+Sem/Time
+Sem/Txt
+
+
+
+
 !!!Rule section
 
 
@@ -186,7 +218,7 @@ Err
 
 * __CmpTst__ remove CmpTst if not 1 N
 * __CmpTst2__ Select CmpTst in all other cases
-
+*__NoFocPossNoun__ remove Foc/Poss if PxSg3
 
 !CC or Pcle
 * __teveteve1__ gives CC if two теве
@@ -234,6 +266,9 @@ Adjectives
 
 
 
+
+
+
 *__RemAdjBeforeProp__ removes A if Prop to the left
 
 *__AdjBeforeMo__ selects A if Interr to the right
@@ -256,7 +291,14 @@ Adjectives
 
 *__RemAdj2__ removes A if no N or Pron in a clause
 
+Proper nouns
+
+
+
 !Nouns
+
+* __lym__ nalash 'to take a name' = to be given a title'
+
 
 *__RemNomIfPronLeft__ removes Nom if Pron Nom anywhere to the left
 
@@ -314,7 +356,7 @@ Adjectives
 
 
 
-* __PoNeedsGen__ removes postposition if the word to the left is not Gen
+* __PoNeedsGen__ removes postposition if the word to the left is not Gen or Nom
 
 
 !!Adverbs
@@ -325,8 +367,6 @@ Adjectives
 * __molan__ awaiting rules for dative verbs subcategorising for mo Dat
 
 
-
-*__RemAdvAfterNom__ removes Adv if N Nom to the left
 
 !!Verbs
 
