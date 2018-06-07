@@ -572,10 +572,10 @@ LEXICON N-PL-PxSg2-ABE
 
 !! !Sg Sg3
 LEXICON N-SG-PxSg3-NOM !!= * @CODE@
- +Sg+Nom+PxSg3+SO/NPC:%>ыж K ; !NB_PX_CX Only after ш see twolc
- +Sg+Nom+PxSg3+SO/NPC:%>ыжЫ2 K ; !NB_PX_CX Only after ш see twolc
- +Sg+Nom+PxSg3+SO/NPC:%>жЫ2 K ; !NB_PX_CX
- +Sg+Nom+PxSg3+SO/NPC:%>ж K ; !NB_PX_CX
+ +Sg+Nom+PxSg3:%>ыж K ; !NB_PX_CX Only after ш see twolc
+ +Sg+Nom+PxSg3:%>ыжЫ2 K ; !NB_PX_CX Only after ш see twolc
+ +Sg+Nom+PxSg3:%>жЫ2 K ; !NB_PX_CX
+ +Sg+Nom+PxSg3:%>ж K ; !NB_PX_CX
 
 LEXICON N-SG-PxSg3-GEN !!= * @CODE@
  +Sg+Gen+PxSg3+SO/NPC:%>ыж%>ын K ; !NB_PX_CX
