@@ -126,6 +126,11 @@ LIST Ins = Ins ins ;   #!! Ins
 LIST Ine = Ine ine ;   #!! Ine
 LIST Ill = Ill ill ;   #!! Ill
 LIST Cmpr = Cmpr ; 	   #!! Cmpr (case)
+LIST Attr = Attr ;
+
+LIST Case = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Cmpr ;
+SET Obl = Case - Nom ;
+
 
 #!! !Other nominal tags
 
@@ -220,7 +225,38 @@ SET DER-V-V = Der/Caus ;
 SET V-NOT-DER-V	= V - DER-V-V ;
 SET DER-V-N = Der/Nom OR (Act Prc) ;
 SET N-NOT-DER-V = N - DER-V-N ;	
-	
+
+
+LIST Sem/Date = Sem/Date ;           #!! Der/Date
+LIST Sem/Year = Sem/Year ;           #!! Der/Year
+LIST Sem/Hum = Sem/Hum ;             #!! Der/Hum
+LIST Sem/Lang = Sem/Lang ;           #!! Der/Lang
+LIST Sem/Domain = Sem/Domain ;       #!! Der/Domain
+LIST Sem/Feat-phys = Sem/Feat-phys ; #!! Der/Feat-phys
+LIST Sem/Clth = Sem/Clth ;           #!! Der/Clth
+LIST Sem/Body = Sem/Body ;           #!! Der/Body
+LIST Sem/Act = Sem/Act ;             #!! Der/Act
+
+LIST Sem/Ani = Sem/Ani ;				    #!! Sem/Ani
+LIST Sem/Fem = Sem/Fem ;				    #!! Sem/Fem
+LIST Sem/Group = Sem/Group ;			    #!! Sem/Group
+LIST Sem/Mal = Sem/Mal ;				    #!! Sem/Mal
+LIST Sem/Measr = Sem/Measr ;			    #!! Sem/Measr
+LIST Sem/Money = Sem/Money ;			    #!! Sem/Money
+LIST Sem/Obj = Sem/Obj ;				    #!! Sem/Obj
+LIST Sem/Obj-el = Sem/Obj-el ;			    #!! Sem/Obj-el
+LIST Sem/Org = Sem/Org ;				    #!! Sem/Org
+LIST Sem/Perc-emo = Sem/Perc-emo ;		    #!! Sem/Perc-emo
+LIST Sem/Plc = Sem/Plc ;				    #!! Sem/Plc
+LIST Sem/Sign = Sem/Sign ;				    #!! Sem/Sign
+LIST Sem/State-sick = Sem/State-lang-sick ; #!! Sem/State-sick
+LIST Sem/Sur = Sem/Sur ;				    #!! Sem/Sur
+LIST Sem/Time = Sem/Time ;				    #!! Sem/Time
+LIST Sem/Txt = Sem/Txt ;				    #!! Sem/Txt
+
+
+
+
 #!! !!!Rule section
 
 SECTION
@@ -295,6 +331,10 @@ REMOVE:NotImpWhenWords2 Imprt IF (-1 WORD LINK *-1 BOS BARRIER Imprt);
 
 #!! Adjectives
 
+
+
+REMOVE A IF (0 ("ола"))(1 N);
+
 SET LEX-A = A - (Der/MWN) ;
 
 REMOVE:CompRak A + (".*рак"r) IF (0 Comp) ;
@@ -332,6 +372,12 @@ REMOVE:RemAdj1 A IF (0 N)(1 NOT-ADJ-OR-NOUN); #SASHA ADDED 30-06-2017
 #!! *__RemAdj2__ removes A if no N or Pron in a clause
 REMOVE:RemAdj2 A IF (0 N)(*-1 DELIMITERS BARRIER N OR Pron)(*1 DELIMITERS BARRIER N OR Pron); #SASHA ADDED 3-07-2017
 
+	#!! Proper nouns
+
+REMOVE:PropAttr Nom IF (0 Attr)(1 Sem/Sur);	
+REMOVE:PropAttr Nom IF (0 Attr)(1 Sem/Sur);	
+	
+	
 #!! !Nouns
 
 	#!! * __lym__ nalash 'to take a name' = to be given a title'
@@ -508,6 +554,10 @@ SELECT:AifVövny A IF (*-1 ("вӧвны") BARRIER N);
 
 
 SECTION
+#!! * __CCasCNPCVP__ Map (@CNP @CVP) to CC
+MAP:CCasCNPCVP (@CNP) TARGET ("ден" CC) ;
+MAP:CCasCNPCVP (@CNP @CVP) TARGET ("да" CC) ;
+
 
 MAP:shkepo @>P TARGET ("шке") IF (1 Po);
 
