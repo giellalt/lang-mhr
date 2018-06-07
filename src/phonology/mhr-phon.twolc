@@ -253,7 +253,18 @@ Rules
 "Stem-final non-stressed vowel loss"
 !! __ @RULENAME@ __
  Vx:0 <=>        _ %> [Е2:|А2:] ;
-        where Vx in (%{аы%} %{еы%} %{оы%} %{ӧы%}) ;
+        where Vx in (%{аы%} %{оы%} %{ӧы%}) ;
+
+"Stem-final non-stressed %{еы%} loss"
+!! __ @RULENAME@ __
+ %{еы%}:0 <=>
+     _ %> Е2: ;
+   [Cns - [н|л]]  _ %> А2: ;
+   [н|л] (ʼ: ь)  _ %> А2: ;
+!!€ киска•лʼь%{еы%}>А2т
+!!€ киска•л000>ят
+!!€ пятибо•рь%{еы%}>А2т
+!!€ пятибо•рье>ат
 
 
 "suffix-final vowel realized %{еы%}:ы "
