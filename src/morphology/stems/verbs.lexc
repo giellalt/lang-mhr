@@ -2,8 +2,8 @@
 LEXICON verbs
 
 авалаш:авал V_em  "" ;
-авалташ:авалт V_am-N  "" ;
-авалташ:авалт V_em  "ottaa (kouraan); ympäröidä; kannattaa" ;
+авалташ+Hom1:авалт V_am-N  "" ;
+авалташ+Hom2:авалт V_em  "ottaa (kouraan); ympäröidä; kannattaa" ;
 авалткалаш:авалткал V_em  "" ;
 авансироватлаш:авансироватл V_em  "antaa ennakkoa" ;
 аваш:ав V_em-1SYLL  "" ;
@@ -323,8 +323,8 @@ LEXICON verbs
 вашмутланаш:вашмутлан V_em  "" ;
 вашпижаш:вашпиж V_am-N  "" ;
 вашталталташ:вашталталт V_am-N  "" ;
-вашталташ:вашталт V_am-N  "" ;
-вашталташ:вашталт V_em  "vaihtaa, muuttaa" ;
+вашталташ+Hom1:вашталт V_am-N  "" ;
+вашталташ+Hom2:вашталт V_em  "vaihtaa, muuttaa" ;
 вашталтыкташ:вашталтыкт V_em  "" ;
 вашталтылаш:вашталтыл V_am-N  "" ;
 ваштарешланаш:ваштарешлан V_em  "" ;
@@ -334,15 +334,15 @@ LEXICON verbs
 ваҥаш:ваҥ V_em-1SYLL  "vartioida, paimentaa; väijyä, seurata" ;
 велалтараш:велалтар V_em  "" ;
 велалташ:велалт V_am-N  "" ;
-велаш:вел V_am  "putoilla; läikkyä; virrata" ;
-велаш:вел V_em-1SYLL  "karistaa; läikyttää; valaa" ;
+велаш+Hom1:вел V_am  "putoilla; läikkyä; virrata" ;
+велаш+Hom2:вел V_em-1SYLL  "karistaa; läikyttää; valaa" ;
 веледаш:велед V_em  "" ;
 величатлаш:величатл V_em  "" ;
 велкалаш:велкал V_em  "" ;
 велыкташ:велыкт V_em  "karistuttaa; valuttaa" ;
 венчайыкташ:венчайыкт V_em  "" ;
 венчаялташ:венчаялт V_am-N  "" ;
-венчаяш:венчай V_em-1SYLL-j  "vihkiä" ;
+венчаяш:венчай V_em-MULTI-SYLL-IN-J  "vihkiä" ;
 вераҥаш:вераҥ V_am-N  "" ;
 вераҥдалташ:вераҥдалт V_am-N  "" ;
 вераҥдараш:вераҥдар V_em  "" ;
@@ -413,8 +413,8 @@ LEXICON verbs
 викымлаш:викымл V_em  "" ;
 винаматлаш:винаматл V_em  "" ;
 винтылаш:винтыл V_em  "ruuvata" ;
-висалташ:висалт V_am-N  "" ;
-висалташ:висалт V_em  "" ;
+висалташ+Hom1:висалт V_am-N  "" ;
+висалташ+Hom2:висалт V_em  "" ;
 висаш:вис V_em-1SYLL  "punnita; mitata" ;
 вискалаш:вискал V_em  "mittailla; punniskella" ;
 вистараш:вистар V_em  "" ;
@@ -539,7 +539,7 @@ LEXICON verbs
 вотлаш:вотл V_em  "" ;
 вочкашаҥдаш:вочкашаҥд V_em  "" ;
 воштараш:воштар V_em-1SYLL  "siirtää, viedä, kuljettaa; ylittää" ;
-вошткаяш:вошткай V_em-1SYLL-j  "" ;
+вошткаяш:вошткай V_em-MULTI-SYLL-IN-J  "" ;
 вошткояш:вошткой V_am-N  "" ;
 воштылалаш:воштылал V_am-N  "" ;
 воштылаш:воштыл V_am-N  "" ;
@@ -676,7 +676,7 @@ LEXICON verbs
 вӱраҥлалаш:вӱраҥлал V_am-N  "" ;
 вӱраҥлалташ:вӱраҥлалт V_am-N  "" ;
 вӱраҥлаш:вӱраҥл V_em-1SYLL  "kytkeä" ;
-вӱргаяш:вӱргай V_em-1SYLL-j  "" ;
+вӱргаяш:вӱргай V_em-MULTI-SYLL-IN-J  "" ;
 вӱргенʼешташ:вӱргенʼешт V_am-N  "" ;
 вӱргеняҥаш:вӱргеняҥ V_am-N  "" ;
 вӱрголташ:вӱрголт V_em  "" ;
@@ -703,7 +703,7 @@ LEXICON verbs
 глушитлалташ:глушитлалт V_am-N  "" ;
 глушитлаш:глушитл V_em  "" ;
 глянцеватлаш:глянцеватл V_em  "" ;
-говеяш:говей V_em-1SYLL-j  "" ;
+говеяш:говей V_em-MULTI-SYLL-IN-J  "" ;
 голосоватлаш:голосоватл V_em-1SYLL  "äänestää" ;
 грабитлаш:грабитл V_em  "" ;
 гравироватлаш:гравироватл V_em  "kaivertaa" ;
@@ -719,7 +719,7 @@ LEXICON verbs
 грунтоватлаш:грунтоватл V_em  "" ;
 группироватлалташ:группироватлалт V_am-N  "" ;
 группироватлаш:группироватл V_em  "ryhmittää" ;
-гуляяш:гуляй V_em-1SYLL-j  "huvitella" ;
+гуляяш:гуляй V_em-MULTI-SYLL-IN-J  "huvitella" ;
 гыдыматаш:гыдымат V_em  "" ;
 гӱжгыкташ:гӱжгыкт V_em-1SYLL  "" ;
 гӱжлалташ:гӱжлалт V_am-N  "" ;
@@ -868,8 +868,8 @@ LEXICON verbs
 иктӱрлемаш:иктӱрлем V_am-N  "" ;
 иктӱрлемдаш:иктӱрлемд V_em  "" ;
 илалаш:илал V_am-N  "" ;
-илалташ:илалт V_am-N  "" ;
-илалташ:илалт V_em  "" ;
+илалташ+Hom1:илалт V_am-N  "" ;
+илалташ+Hom2:илалт V_em  "" ;
 иланаш:илан V_em  "juurtua" ;
 иландараш:иландар V_em  "juurruttaa" ;
 иландарыкташ:иландарыкт V_em  "" ;
@@ -918,15 +918,15 @@ LEXICON verbs
 иныкташ:иныкт V_em  "" ;
 иралаш:ирал V_am-N  "" ;
 иралтараш:иралтар V_em  "" ;
-иралташ:иралт V_am-N  "" ;
-иралташ:иралт V_em  "" ;
+иралташ+Hom1:иралт V_am-N  "" ;
+иралташ+Hom2:иралт V_em  "" ;
 ираш:ир V_em-1SYLL  "hajottaa" ;
 иркалаш:иркал V_em  "hajotella" ;
 ирланаш:ирлан V_em  "(viljelykasvi) huonota" ;
 ирлаш:ирл V_em-1SYLL  "hajota" ;
 ирылташ:ирылт V_am-N  "" ;
 исерланаш:исерлан V_em  "" ;
-исключаяш:исключай V_em-1SYLL-j  "" ;
+исключаяш:исключай V_em-MULTI-SYLL-IN-J  "" ;
 исполнятлаш:исполнятл V_em-1SYLL  "" ;
 испытатлаш:испытатл V_em  "" ;
 истыраш:истыр V_em  "" ;
@@ -934,8 +934,8 @@ LEXICON verbs
 исырланаш:исырлан V_em  "" ;
 итыктараш:итыктар V_em  "" ;
 итыргаш:итырг V_em  "" ;
-ишалташ:ишалт V_am-N  "" ;
-ишалташ:ишалт V_em  "" ;
+ишалташ+Hom1:ишалт V_am-N  "" ;
+ишалташ+Hom2:ишалт V_em  "" ;
 ишаш:иш V_em-1SYLL  "puristaa" ;
 ишкылалташ:ишкылалт V_am-N  "" ;
 ишкыланаш:ишкылан V_em  "" ;
@@ -1188,7 +1188,7 @@ LEXICON verbs
 йытыраэмаш:йытыраэм V_am-N  "" ;
 йытыраэмдаш:йытыраэмд V_em  "" ;
 йытыраэшташ:йытыраэшт V_am-N  "" ;
-йытыраяш:йытырай V_em-1SYLL-j  "" ;
+йытыраяш:йытырай V_em-MULTI-SYLL-IN-J  "puhdistaa, siivota" ;
 йытыраҥаш:йытыраҥ V_am-N  "" ;
 йытыраҥдаш:йытыраҥд V_em  "" ;
 йытырташ:йытырт V_em  "" ;
@@ -1238,8 +1238,8 @@ LEXICON verbs
 йӧплаш:йӧпл V_em-1SYLL  "" ;
 йӧралаш:йӧрал V_am-N  "" ;
 йӧралташ+Hom1:йӧралт V_am-N  "" ;
-йӧралташ+Hom2:йӧралт V_am-N  "" ;
-йӧралташ:йӧралт V_em  "" ;
+йӧралташ+Hom3:йӧралт V_am-N  "" ;
+йӧралташ+Hom2:йӧралт V_em  "" ;
 йӧраталаш:йӧратал V_am-N  "" ;
 йӧраташ:йӧрат V_em  "rakastaa" ;
 йӧратыкташ:йӧратыкт V_em  "lumota" ;
@@ -1440,7 +1440,8 @@ LEXICON verbs
 капырланаш:капырлан V_em  "" ;
 каралаш:карал V_am-N  "" ;
 каралташ:каралт V_em  "" ;
-караш:кар V_em-1SYLL  "avata ammolle; karsastaa; kiljua" ;
+караш+Hom1:кар V_em-1SYLL  "" ;
+караш+Hom2:кар V_em-1SYLL  "avata ammolle; karsastaa; kiljua" ;
 карашлаш:карашл V_em  "" ;
 каргалташ:каргалт V_am-N  "" ;
 каргаш:карг V_em-1SYLL  "kirota, torua" ;
@@ -1484,7 +1485,7 @@ LEXICON verbs
 катапультироватлаш:катапультироватл V_em  "" ;
 кататлаш:кататл V_em  "" ;
 каташ:кат V_em-1SYLL  "rikkoa, katkaista" ;
-катаяш:катай V_em-1SYLL-j  "" ;
+катаяш:катай V_em-MULTI-SYLL-IN-J  "" ;
 каткалалташ:каткалалт V_am-N  "" ;
 каткалаш:каткал V_em  "katkoa, rikkoa; pilkkoa" ;
 каткалешташ:каткалешт V_am-N  "" ;
@@ -1866,7 +1867,7 @@ LEXICON verbs
 корштыкташ:корштыкт V_em-1SYLL  "aiheuttaa kipua" ;
 косараш+Hom1:косар V_em-1SYLL  "hioa, tasoittaa; erottaa (ryynit jauhoista)" ;
 косараш+Hom2:косар V_em-1SYLL  "" ;
-косираяш:косирай V_em-1SYLL-j  "pukeutua (kauniiksi)" ;
+косираяш:косирай V_em-MULTI-SYLL-IN-J  "pukeutua (kauniiksi)" ;
 косирланаш:косирлан V_em  "" ;
 косланаш:кослан V_em-1SYLL  "" ;
 коськаш:коськ V_em  "" ;
@@ -2006,7 +2007,7 @@ LEXICON verbs
 кукталташ:кукталт V_am-N  "" ;
 кукташ:кукт V_em-1SYLL  "sotkea; pörröttää" ;
 куктаялташ:куктаялт V_am-N  "" ;
-куктаяш:куктай V_em-1SYLL-j  "" ;
+куктаяш:куктай V_em-MULTI-SYLL-IN-J  "" ;
 куктежалташ:куктежалт V_am-N  "" ;
 куктежаш:куктеж V_am-N  "" ;
 куктежталташ:куктежталт V_am-N  "" ;
@@ -2131,7 +2132,7 @@ LEXICON verbs
 кусныкташ:кусныкт V_em  "" ;
 кусныктылаш:кусныктыл V_am-N  "" ;
 куснылаш:кусныл V_am-N  "" ;
-кутаяш:кутай V_em-1SYLL-j  "" ;
+кутаяш:кутай V_em-MULTI-SYLL-IN-J  "" ;
 кутлалташ:кутлалт V_am-N  "" ;
 кутлаш+Hom1:кутл V_em-1SYLL  "" ;
 кутлаш+Hom2:кутл V_em-1SYLL  "" ;
@@ -2464,7 +2465,7 @@ LEXICON verbs
 лапайылаш:лапайыл V_am-N  "" ;
 лапашаҥаш:лапашаҥ V_am-N  "" ;
 лапаялташ:лапаялт V_am-N  "" ;
-лапаяш:лапай V_em-1SYLL-j  "liata" ;
+лапаяш:лапай V_em-MULTI-SYLL-IN-J  "liata" ;
 лапемаш:лапем V_am-N  "" ;
 лапешташ:лапешт V_am-N  "" ;
 лапкамаш:лапкам V_am-N  "" ;
@@ -2648,7 +2649,7 @@ LEXICON verbs
 лужаланаш:лужалан V_em  "" ;
 лузгаш:лузг V_em-1SYLL  "" ;
 лузгаҥаш:лузгаҥ V_am-N  "" ;
-луйгаяш:луйгай V_em-1SYLL-j  "" ;
+луйгаяш:луйгай V_em-MULTI-SYLL-IN-J  "" ;
 лукаҥаш:лукаҥ V_am-N  "" ;
 лукаҥдалташ:лукаҥдалт V_am-N  "" ;
 лукаҥдаш:лукаҥд V_em  "" ;
@@ -2727,7 +2728,7 @@ LEXICON verbs
 лыжгалташ:лыжгалт V_am-N  "" ;
 лыжгаш:лыжг V_em-1SYLL  "havista" ;
 лыжгаялташ:лыжгаялт V_am-N  "" ;
-лыжгаяш:лыжгай V_em-1SYLL-j  "(vaate) hajota" ;
+лыжгаяш:лыжгай V_em-MULTI-SYLL-IN-J  "(vaate) hajota" ;
 лыжгаҥаш:лыжгаҥ V_am-N  "" ;
 лыжгаҥдараш:лыжгаҥдар V_em  "" ;
 лыжгаҥдаш:лыжгаҥд V_em  "tehdä verkkaiseksi/hiljaiseksi" ;
@@ -2878,7 +2879,7 @@ LEXICON verbs
 манипулироватлаш:манипулироватл V_em  "" ;
 маныкташ:маныкт V_em  "" ;
 манылдаш:манылд V_em  "" ;
-мараяш:марай V_em-1SYLL-j  "tahria" ;
+мараяш:марай V_em-MULTI-SYLL-IN-J  "tahria" ;
 мардежаҥаш:мардежаҥ V_am-N  "" ;
 мардежланаш:мардежлан V_em  "" ;
 марийланаш:марийлан V_em  "" ;
@@ -2914,7 +2915,7 @@ LEXICON verbs
 мечтатлаш:мечтатл V_em  "" ;
 мешайкалаш:мешайкал V_em  "" ;
 мешатлаш:мешатл V_em  "häiritä" ;
-мешаяш:мешай V_em-1SYLL-j  "häiritä" ;
+мешаяш:мешай V_em-MULTI-SYLL-IN-J  "häiritä" ;
 меҥгылалташ:меҥгылалт V_am-N  "" ;
 меҥгылаш:меҥгыл V_em  "" ;
 меҥыраланаш:меҥыралан V_em  "" ;
@@ -2967,8 +2968,8 @@ LEXICON verbs
 моритлалташ:моритлалт V_am-N  "" ;
 моритлаш:моритл V_em-1SYLL  "" ;
 мортаҥаш:мортаҥ V_am-N  "" ;
-мортияш:мортий V_em-1SYLL-j  "alkaa lahota" ;
-мотаяш:мотай V_em-1SYLL-j  "kuhnailla" ;
+мортияш:мортий V_em-MULTI-SYLL-IN-J  "alkaa lahota" ;
+мотаяш:мотай V_em-MULTI-SYLL-IN-J  "kuhnailla" ;
 мотивироватлаш:мотивироватл V_em  "" ;
 мотлаш:мотл V_em  "" ;
 мотораҥаш:мотораҥ V_am-N  "" ;
@@ -2985,7 +2986,7 @@ LEXICON verbs
 мошташ+Hom1:мошт V_em  "voida, osata" ;
 мошташ+Hom2:мошт V_em  "" ;
 моҥайтараш:моҥайтар V_em  "" ;
-моҥаяш:моҥай V_em-1SYLL-j  "" ;
+моҥаяш:моҥай V_em-MULTI-SYLL-IN-J  "" ;
 муалташ:муалт V_am-N  "" ;
 муаш:му V_am  "löytää; hankkia" ;
 мугедалташ:мугедалт V_am-N  "" ;
@@ -3043,7 +3044,7 @@ LEXICON verbs
 мутайкалаш:мутайкал V_em  "hämmentää, eksyttää" ;
 мутайыкташ:мутайыкт V_em  "sekoittaa, eksyttää" ;
 мутаялташ:мутаялт V_am-N  "" ;
-мутаяш:мутай V_em-1SYLL-j  "eksyä" ;
+мутаяш:мутай V_em-MULTI-SYLL-IN-J  "eksyä" ;
 мутаҥаш:мутаҥ V_em  "" ;
 муткучаш:муткуч V_em  "" ;
 мутланаш:мутлан V_em  "jutella" ;
@@ -3143,7 +3144,7 @@ LEXICON verbs
 налылдаш:налылд V_em  "" ;
 намиедаш:намиед V_em  "" ;
 намиялташ:намиялт V_am-N  "" ;
-намияш:намий V_em-1SYLL-j  "tuoda" ;
+намияш:намий V_em-MULTI-SYLL-IN-J  "tuoda" ;
 намыслалташ:намыслалт V_am-N  "" ;
 намысланаш:намыслан V_em  "hävetä, ujostella" ;
 намыслаш:намысл V_em  "saada häpeämään, häväistä" ;
@@ -3174,7 +3175,7 @@ LEXICON verbs
 наҥгаедаш:наҥгаед V_em  "" ;
 наҥгайыкташ:наҥгайыкт V_em  "" ;
 наҥгаялташ:наҥгаялт V_am-N  "" ;
-наҥгаяш:наҥгай V_em-1SYLL-j  "viedä" ;
+наҥгаяш:наҥгай V_em-MULTI-SYLL-IN-J  "viedä" ;
 негызаҥаш:негызаҥ V_am-N  "" ;
 негызаҥдаш:негызаҥд V_em  "" ;
 негызлалташ:негызлалт V_am-N  "" ;
@@ -3381,7 +3382,7 @@ LEXICON verbs
 обижатлаш:обижатл V_em  "loukata" ;
 обижатлыкташ:обижатлыкт V_em  "antaa loukata" ;
 обижаялташ:обижаялт V_am-N  "" ;
-обижаяш:обижай V_em-1SYLL-j  "loukata" ;
+обижаяш:обижай V_em-MULTI-SYLL-IN-J  "loukata" ;
 облицеватлаш:облицеватл V_em  "" ;
 облучатлалташ:облучатлалт V_am-N  "" ;
 облучатлаш:облучатл V_em  "" ;
@@ -3601,7 +3602,7 @@ LEXICON verbs
 отказатлаш:отказатл V_em  "kieltää" ;
 отменитлаш:отменитл V_em  "peruuttaa, lakkauttaa S" ;
 относитлалташ:относитлалт V_am-N  "" ;
-отпеваяш:отпевай V_em-1SYLL-j  "" ;
+отпеваяш:отпевай V_em-MULTI-SYLL-IN-J  "" ;
 отравитлалташ:отравитлалт V_am-N  "" ;
 отравитлаш:отравитл V_em  "" ;
 отражатлалташ:отражатлалт V_am-N  "" ;
@@ -3788,7 +3789,7 @@ LEXICON verbs
 пелыкташ:пелыкт V_em  "" ;
 пелькемаш:пелькем V_am-N  "" ;
 пеналаш:пенал V_em  "" ;
-пенаяш:пенай V_em-1SYLL-j  "" ;
+пенаяш:пенай V_em-MULTI-SYLL-IN-J  "" ;
 пералташ:пералт V_am-N  "" ;
 пералташ:пералт V_em  "koputtaa" ;
 пераш:пер V_em-1SYLL  "lyödä" ;
@@ -3888,7 +3889,7 @@ LEXICON verbs
 пичешталташ:пичешталт V_am-N  "" ;
 пичештараш:пичештар V_em  "" ;
 пичешташ:пичешт V_am-N  "" ;
-пичкаяш:пичкай V_em-1SYLL-j  "" ;
+пичкаяш:пичкай V_em-MULTI-SYLL-IN-J  "" ;
 пичколташ:пичколт V_em-1SYLL  "" ;
 планироватлаш:планироватл V_em  "suunnitella" ;
 планлаш:планл V_em-1SYLL  "" ;
@@ -3951,7 +3952,7 @@ LEXICON verbs
 полышкалыкташ:полышкалыкт V_em  "" ;
 поляризоватлалташ:поляризоватлалт V_am-N  "" ;
 поляризоватлаш:поляризоватл V_em  "" ;
-поминаяш:поминай V_em-1SYLL-j  "" ;
+поминаяш:поминай V_em-MULTI-SYLL-IN-J  "" ;
 помыжалтараш:помыжалтар V_em  "herättää" ;
 помыжалташ:помыжалт V_am-N  "" ;
 помыжалташ:помыжалт V_em  "" ;
@@ -3984,7 +3985,7 @@ LEXICON verbs
 портышаҥаш:портышаҥ V_am-N  "" ;
 портышаҥдаш:портышаҥд V_em  "" ;
 порысаҥаш:порысаҥ V_am-N  "" ;
-порыяш:порый V_em-1SYLL-j  "" ;
+порыяш:порый V_em-MULTI-SYLL-IN-J  "" ;
 посвятитлаш:посвятитл V_em-1SYLL  "" ;
 послалташ:послалт V_am-N  "" ;
 послаш:посл V_em  "aloittaa" ;
@@ -4192,7 +4193,7 @@ LEXICON verbs
 пураш:пур V_am  "purra" ;
 пураш:пур V_em-1SYLL  "tulla, mennä (siään); mahtua" ;
 пургаш:пург V_em-1SYLL  "" ;
-пургаяш:пургай V_em-1SYLL-j  "" ;
+пургаяш:пургай V_em-MULTI-SYLL-IN-J  "" ;
 пургедалташ:пургедалт V_am-N  "" ;
 пургедаш:пургед V_am-N  "" ;
 пургыжалташ:пургыжалт V_am-N  "" ;
@@ -4204,8 +4205,8 @@ LEXICON verbs
 пуредаш:пуред V_em  "p:en koStaS poikkeilla" ;
 пуредылаш+Hom1:пуредыл V_am-N  "" ;
 пуредылаш+Hom2:пуредыл V_am-N  "" ;
-пуреҥгаяш:пуреҥгай V_em-1SYLL-j  "" ;
-пурияш:пурий V_em-1SYLL-j  "" ;
+пуреҥгаяш:пуреҥгай V_em-MULTI-SYLL-IN-J  "" ;
+пурияш:пурий V_em-MULTI-SYLL-IN-J  "" ;
 пуркаланаш:пуркалан V_em  "kuohkeutua; (leipä) kuivettua" ;
 пуркаҥаш:пуркаҥ V_am-N  "kuohkeutua; (leipä) kuivettua" ;
 пуркаҥдараш:пуркаҥдар V_em  "kuohkeuttaa; kuivata (leipä)" ;
@@ -4239,7 +4240,7 @@ LEXICON verbs
 пустыртаташ:пустыртат V_em  "" ;
 путайкалаш:путайкал V_em  "" ;
 путаялташ:путаялт V_am-N  "" ;
-путаяш:путай V_em-1SYLL-j  "" ;
+путаяш:путай V_em-MULTI-SYLL-IN-J  "" ;
 путешествоватлаш:путешествоватл V_em  "" ;
 путлалташ:путлалт V_am-N  "olla kosittu(na)/kihlattu(na) Vpass" ;
 путлаш:путл V_em-1SYLL  "kosia, tarjota vaimoksi/mieheksi" ;
@@ -4605,7 +4606,7 @@ LEXICON verbs
 реагироватлаш:реагироватл V_em  "reagoida" ;
 реализоватлаш:реализоватл V_em  "" ;
 ревизоватлаш:ревизоватл V_em  "" ;
-регентоваяш:регентовай V_em-1SYLL-j  "" ;
+регентоваяш:регентовай V_em-MULTI-SYLL-IN-J  "" ;
 регенчалташ:регенчалт V_am-N  "" ;
 регенчаҥаш:регенчаҥ V_am-N  "sammaloitua" ;
 регенчаҥдаш:регенчаҥд V_em  "" ;
@@ -4639,7 +4640,7 @@ LEXICON verbs
 рецензироватлаш:рецензироватл V_em  "" ;
 решатлалташ:решатлалт V_am-N  "" ;
 решатлаш:решатл V_em  "" ;
-решаяш:решай V_em-1SYLL-j  "" ;
+решаяш:решай V_em-MULTI-SYLL-IN-J  "" ;
 решитлалташ:решитлалт V_am-N  "" ;
 решитлаш:решитл V_em  "" ;
 решоткалаш:решоткал V_em  "" ;
@@ -4650,7 +4651,7 @@ LEXICON verbs
 роведаш:ровед V_am-N  "ruoskia" ;
 родаҥаш:родаҥ V_am-N  "" ;
 родешташ:родешт V_am-N  "" ;
-родияш:родий V_em-1SYLL-j  "mädätä; lahota" ;
+родияш:родий V_em-MULTI-SYLL-IN-J  "mädätä; lahota" ;
 родыланаш:родылан V_em  "sukulaistua" ;
 рожаҥаш:рожаҥ V_am-N  "" ;
 рожаҥдаш:рожаҥд V_em-1SYLL  "" ;
@@ -4791,8 +4792,8 @@ LEXICON verbs
 савыкташ+Hom1:савыкт V_em  "julkaista" ;
 савыкташ+Hom2:савыкт V_em  "" ;
 савыралаш:савырал V_am-N  "" ;
-савыралташ:савыралт V_am-N  "" ;
-савыралташ:савыралт V_em  "" ;
+савыралташ+Hom1:савыралт V_am-N  "" ;
+савыралташ+Hom2:савыралт V_em  "" ;
 савыраш:савыр V_em  "kiertää; kääntyä; palauttaa; kääntää; muuttaa" ;
 савыркалаш:савыркал V_em  "kierrellä; kääntyillä; käännellä" ;
 савыркалылаш:савыркалыл V_am-N  "" ;
@@ -4865,7 +4866,7 @@ LEXICON verbs
 сараташ:сарат V_em  "kiskoa, nylkeä, kuoria" ;
 саргайыкташ:саргайыкт V_em  "tehdä keltaiseksi" ;
 саргаялташ:саргаялт V_am-N  "" ;
-саргаяш:саргай V_em-1SYLL-j  "kellastua" ;
+саргаяш:саргай V_em-MULTI-SYLL-IN-J  "kellastua" ;
 саремалташ:саремалт V_am-N  "" ;
 саремаш:сарем V_am-N  "" ;
 саремдаш:саремд V_em  "" ;
@@ -5160,7 +5161,7 @@ LEXICON verbs
 сырыктараш:сырыктар V_em  "" ;
 сырыкташ:сырыкт V_em  "yllyttää; suututtaa, härnätä" ;
 сырыктылаш:сырыктыл V_am-N  "" ;
-сӧдымаяш:сӧдымай V_em-1SYLL-j  "" ;
+сӧдымаяш:сӧдымай V_em-MULTI-SYLL-IN-J  "" ;
 сӧйгалташ:сӧйгалт V_am-N  "" ;
 сӧйгаш:сӧйг V_em-1SYLL  "" ;
 сӧйгедылаш:сӧйгедыл V_am-N  "" ;
@@ -5430,7 +5431,7 @@ LEXICON verbs
 товаҥдылаш:товаҥдыл V_am-N  "" ;
 товылаш:товыл V_em-1SYLL  "" ;
 товышаш:товыш V_em-1SYLL  "" ;
-тогдаяш:тогдай V_em-1SYLL-j  "arvata, oivaltaa" ;
+тогдаяш:тогдай V_em-MULTI-SYLL-IN-J  "arvata, oivaltaa" ;
 тогедаш:тогед V_am-N  "" ;
 тогымаш:тогым V_em-1SYLL  "panna kehä pyörään" ;
 тогымлаш:тогымл V_em-1SYLL  "" ;
@@ -5501,7 +5502,7 @@ LEXICON verbs
 тораҥдаш:тораҥд V_em-1SYLL  "etäännyttää" ;
 торгайкалаш:торгайкал V_em  "" ;
 торгайылаш:торгайыл V_am-N  "" ;
-торгаяш:торгай V_em-1SYLL-j  "käydä kauppaa; tinkiä" ;
+торгаяш:торгай V_em-MULTI-SYLL-IN-J  "käydä kauppaa; tinkiä" ;
 торгешташ:торгешт V_am-N  "" ;
 торгыкташ:торгыкт V_em-1SYLL  "" ;
 тордолаш:тордол V_am-N  "" ;
@@ -6202,7 +6203,7 @@ LEXICON verbs
 цокатлаш:цокатл V_em-1SYLL  "" ;
 чаваланаш:чавалан V_em  "" ;
 чавараш:чавар V_em  "" ;
-чагаяш:чагай V_em-1SYLL-j  "kiistellä, väitellä" ;
+чагаяш:чагай V_em-MULTI-SYLL-IN-J  "kiistellä, väitellä" ;
 чагыраҥаш:чагыраҥ V_am-N  "" ;
 чагыремалташ:чагыремалт V_am-N  "" ;
 чагыремаш:чагырем V_am-N  "" ;
@@ -6225,7 +6226,7 @@ LEXICON verbs
 чактаралташ:чактаралт V_am-N  "" ;
 чактараш:чактар V_em  "panna perääntymään/luopumaan; peruuttaa; antaa vastaisku" ;
 чактарылаш:чактарыл V_am-N  "" ;
-чалгаяш:чалгай V_em-1SYLL-j  "" ;
+чалгаяш:чалгай V_em-MULTI-SYLL-IN-J  "" ;
 чалемалташ:чалемалт V_am-N  "" ;
 чалемаш:чалем V_am-N  "" ;
 чалемдаш:чалемд V_em  "" ;
@@ -6341,7 +6342,7 @@ LEXICON verbs
 чиялтылаш:чиялтыл V_am-N  "maalauttaa, värjäyttää; tahrauttaa; kaunisteluttaa" ;
 чияш:чий V_em-1SYLL-j  "pukea, pukeutua" ;
 чогаш:чог V_em  "ilmiantaa, valittaa" ;
-чогияш:чогий V_em-1SYLL-j  "sirkuttaa" ;
+чогияш:чогий V_em-MULTI-SYLL-IN-J  "sirkuttaa" ;
 чогымалдаш:чогымалд V_em  "sirkuttaa" ;
 чогымандаш:чогыманд V_em  "" ;
 чогыматаш:чогымат V_em  "" ;
@@ -6361,13 +6362,13 @@ LEXICON verbs
 чокаланаш:чокалан V_em  "" ;
 чокамаш:чокам V_am-N  "" ;
 чокатлаш:чокатл V_em-1SYLL  "" ;
-чокаяш:чокай V_em-1SYLL-j  "" ;
+чокаяш:чокай V_em-MULTI-SYLL-IN-J  "" ;
 чокаҥаш:чокаҥ V_am-N  "" ;
 чокаҥдаш:чокаҥд V_em-1SYLL  "" ;
 чокешталташ:чокешталт V_am-N  "" ;
 чокешташ+Hom1:чокешт V_am-N  "" ;
 чокешташ+Hom2:чокешт V_am-N  "" ;
-чокияш:чокий V_em-1SYLL-j  "(lapsi) jokeltaa; puhua joutavia" ;
+чокияш:чокий V_em-MULTI-SYLL-IN-J  "(lapsi) jokeltaa; puhua joutavia" ;
 чоклакаҥаш:чоклакаҥ V_am-N  "" ;
 чоклаш:чокл V_em  "(usk.) uhrata" ;
 чокылаш:чокыл V_em-1SYLL  "" ;
@@ -6469,7 +6470,7 @@ LEXICON verbs
 чуриктараш:чуриктар V_em  "(puhek.) saada kiusaantumaan, vaivata" ;
 чуриктарылаш:чуриктарыл V_am-N  "" ;
 чуриялташ:чуриялт V_am-N  "" ;
-чурияш:чурий V_em-1SYLL-j  "(puhek.) kiusaantua, kärsiä" ;
+чурияш:чурий V_em-MULTI-SYLL-IN-J  "(puhek.) kiusaantua, kärsiä" ;
 чурланаш:чурлан V_em  "" ;
 чурлаш+Hom1:чурл V_em-1SYLL  "karttaa" ;
 чурлаш+Hom2:чурл V_em-1SYLL  "" ;
@@ -6984,7 +6985,7 @@ LEXICON verbs
 шуаҥаш:шуаҥ V_am-N  "" ;
 шуваш:шув V_em-1SYLL  "" ;
 шувыматаш:шувымат V_em  "" ;
-шувыраяш:шувырай V_em-1SYLL-j  "" ;
+шувыраяш:шувырай V_em-MULTI-SYLL-IN-J  "" ;
 шувыртаташ+Hom1:шувыртат V_em  "" ;
 шувыртаташ+Hom2:шувыртат V_em  "" ;
 шувыртатылаш:шувыртатыл V_am-N  "" ;
@@ -7215,7 +7216,7 @@ LEXICON verbs
 шыргыкташ:шыргыкт V_em  "" ;
 шырешкаш:шырешк V_em  "kuihtua, kasvaa huonosti" ;
 шыриялташ:шыриялт V_em  "" ;
-шырияш:шырий V_em-1SYLL-j  "" ;
+шырияш:шырий V_em-MULTI-SYLL-IN-J  "" ;
 шыркаҥаш:шыркаҥ V_am-N  "" ;
 шыркаҥдаш:шыркаҥд V_em  "(kasvi) pölyttää" ;
 шырпешталташ:шырпешталт V_am-N  "" ;
@@ -7596,7 +7597,7 @@ LEXICON verbs
 южгаташ:южгат V_em  "" ;
 южгатаҥаш:южгатаҥ V_am-N  "" ;
 южгаш:южг V_em-1SYLL  "" ;
-южгаяш:южгай V_em-1SYLL-j  "" ;
+южгаяш:южгай V_em-MULTI-SYLL-IN-J  "" ;
 южгемаш:южгем V_am-N  "" ;
 южгыжаш:южгыж V_am-N  "" ;
 южгыкташ:южгыкт V_em  "" ;

@@ -6,22 +6,26 @@ LEXICON Exceptions
 
 !! KIN TERMS
 ! +Nom +Gen +Dat +Acc +Com +Cmpr +PxSg3 K
-веҥе+N+Sg+PxSg1:веҥым N_KIN_SPECIAL ;
-веҥе+N+Sg+PxSg2:веҥыч N_KIN_SPECIAL ;
-оньо+N+Sg+PxSg1:оньым N_KIN_SPECIAL ;
-оньо+N+Sg+PxSg2:оньыч N_KIN_SPECIAL ;
-чӱчӱ+N+Sg+PxSg1:чӱчӱм N_KIN_SPECIAL ;
-чӱчӱ+N+Sg+PxSg2:чӱчӱч N_KIN_SPECIAL ;
-чӱчӱньӧ+N+Sg+PxSg1:чӱчӱньым N_KIN_SPECIAL ;
-чӱчӱньӧ+N+Sg+PxSg1:чӱчӱньыч N_KIN_SPECIAL ;
-шешке+N+Sg+PxSg1:шешкым N_KIN_SPECIAL ;
-шешке+N+Sg+PxSg2:шешкыч N_KIN_SPECIAL ;
-шольо+N+Sg+PxSg1:шольым N_KIN_SPECIAL ;
-шольо+N+Sg+PxSg2:шольыч N_KIN_SPECIAL ;
-эрге+N+Sg+PxSg1:эргым N_KIN_SPECIAL ;
-эрге+N+Sg+PxSg2:эргыч N_KIN_SPECIAL ;
-нудо+N+Sg+PxSg1:нудым N_KIN_SPECIAL ;
-нудо+N+Sg+PxSg2:нудыч N_KIN_SPECIAL ;
+веҥе+N+Sg:веҥым N_KIN_SPECIAL_1 ;
+веҥе+N+Sg:веҥыч N_KIN_SPECIAL_2 ;
+
+оньо+N+Sg:оньым N_KIN_SPECIAL_1 ;
+оньо+N+Sg:оньыч N_KIN_SPECIAL_2 ;
+
+чӱчӱ+N+Sg:чӱчӱм N_KIN_SPECIAL_1 ;
+чӱчӱ+N+Sg:чӱчӱч N_KIN_SPECIAL_2 ;
+
+чӱчӱньӧ+N+Sg:чӱчӱньым N_KIN_SPECIAL_1 ;
+чӱчӱньӧ+N+Sg:чӱчӱньыч N_KIN_SPECIAL_2 ;
+
+шешке+N+Sg:шешкым N_KIN_SPECIAL_1 ;
+шешке+N+Sg:шешкыч N_KIN_SPECIAL_2 ;
+шольо+N+Sg:шольым N_KIN_SPECIAL_1 ;
+шольо+N+Sg:шольыч N_KIN_SPECIAL_2 ;
+эрге+N+Sg:эргым N_KIN_SPECIAL_1;
+эрге+N+Sg:эргыч N_KIN_SPECIAL_2 ;
+нудо+N+Sg:нудым N_KIN_SPECIAL_1 ;
+нудо+N+Sg:нудыч N_KIN_SPECIAL_2 ;
 
 !! Single-syllable nouns in У Ӱ Ю
 лу:лу N_SINGLE-SYLLABLE-U ;
@@ -37,4 +41,23 @@ LEXICON Exceptions
 !! VERBS
 манаш+V+Ger+Gen:ман K ;
 
+LEXICON N_KIN_SPECIAL ! will this work?
+N_KIN_SPECIAL_1 ;
+N_KIN_SPECIAL_2 ;
+
+LEXICON N_KIN_SPECIAL_1
++Nom+PxSg1: K ;
++Gen+PxSg1+SO/PC:%>ын K ;
++Acc+PxSg1+SO/PC:%>ым K ;
++Dat+PxSg1+SO/PC:%>лан K ;
++Com+PxSg1+SO/PC:%>ге K ;
++Cmpr+PxSg1+SO/PC:%>ла K ;
+
+LEXICON N_KIN_SPECIAL_2
++Nom+PxSg2: K ;
++Gen+PxSg2+SO/PC:%>ын K ;
++Acc+PxSg2+SO/PC:%>ым K ;
++Dat+PxSg2+SO/PC:%>лан K ;
++Com+PxSg2+SO/PC:%>ге K ;
++Cmpr+PxSg2+SO/PC:%>ла K ;
 
