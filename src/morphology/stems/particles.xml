@@ -558,7 +558,7 @@
       <l pos="Pcle">вообще</l>
 
       <stg>
-        <st Contlex="PCLE_">вообщ%{еы%}</st>
+        <st Contlex="PCLE_">вообще</st>
       </stg>
 
       <stress>во•обще</stress>
@@ -605,10 +605,10 @@
 
   <e>
     <lg>
-      <l pos="Pcle">вудо-вуде</l>
+      <l pos="Pcle">вудо-вудо</l>
 
       <stg>
-        <st Contlex="Pmuu">вудо-вуд%{еы%}</st>
+        <st Contlex="Pmuu">вудо-вуд%{оы%}</st>
       </stg>
     </lg>
 
@@ -717,10 +717,10 @@
 
   <e>
     <lg>
-      <l pos="Pcle">выде-вуде</l>
+      <l pos="Pcle">выде-вудо</l>
 
       <stg>
-        <st Contlex="Pmuu">выде-вуд%{еы%}</st>
+        <st Contlex="Pmuu">выде-вуд%{оы%}</st>
       </stg>
     </lg>
 
@@ -1175,13 +1175,13 @@
 
   <e>
     <lg>
-      <l pos="Pcle">ите</l>
+      <l pos="Pcle">ито</l>
 
       <stg>
-        <st Contlex="PCLE_">ит%{еы%}</st>
+        <st Contlex="PCLE_">ито</st>
       </stg>
 
-      <stress>и•те</stress>
+      <stress>ито•</stress>
     </lg>
 
     <mg>
@@ -1543,10 +1543,10 @@
 
   <e>
     <lg>
-      <l pos="Pcle">киндончылне</l>
+      <l pos="Pcle">киндончылно</l>
 
       <stg>
-        <st Contlex="Pmuu">киндончылн%{еы%}</st>
+        <st Contlex="Pmuu">киндончылн%{оы%}</st>
       </stg>
     </lg>
 
@@ -1815,10 +1815,10 @@
 
   <e>
     <lg>
-      <l pos="Pcle">кылде-голде</l>
+      <l pos="Pcle">кылде-голдо</l>
 
       <stg>
-        <st Contlex="Pmuu">кылде-голд%{еы%}</st>
+        <st Contlex="Pmuu">кылде-голд%{оы%}</st>
       </stg>
     </lg>
 
@@ -2119,10 +2119,10 @@
 
   <e>
     <lg>
-      <l pos="Pcle">лыпте-лопте</l>
+      <l pos="Pcle">лыпте-лопто</l>
 
       <stg>
-        <st Contlex="Pmuu">лыпте-лопт%{еы%}</st>
+        <st Contlex="Pmuu">лыпте-лопт%{оы%}</st>
       </stg>
     </lg>
 
@@ -3143,7 +3143,7 @@
       <l pos="Pcle">туге</l>
 
       <stg>
-        <st Contlex="PCLE_">туг%{еы%}</st>
+        <st Contlex="PCLE_">туге</st>
       </stg>
 
       <stress>туге•</stress>
@@ -3160,10 +3160,10 @@
 
   <e>
     <lg>
-      <l pos="Pcle">туде</l>
+      <l pos="Pcle">тудо</l>
 
       <stg>
-        <st Contlex="Pmuu">туд%{еы%}</st>
+        <st Contlex="Pmuu">туд%{оы%}</st>
       </stg>
     </lg>
 
@@ -3236,10 +3236,10 @@
 
   <e>
     <lg>
-      <l pos="Pcle">тӧве</l>
+      <l pos="Pcle">тӧвӧ</l>
 
       <stg>
-        <st Contlex="Pmuu">тӧв%{еы%}</st>
+        <st Contlex="Pmuu">тӧв%{ӧы%}</st>
       </stg>
     </lg>
 
@@ -3676,10 +3676,10 @@
 
   <e>
     <lg>
-      <l pos="Pcle">шыве-шове</l>
+      <l pos="Pcle">шыве-шово</l>
 
       <stg>
-        <st Contlex="Pmuu">шыве-шов%{еы%}</st>
+        <st Contlex="Pmuu">шыве-шов%{оы%}</st>
       </stg>
     </lg>
 
@@ -3932,10 +3932,10 @@
 
   <e>
     <lg>
-      <l pos="Pcle">юмончылне</l>
+      <l pos="Pcle">юмончылно</l>
 
       <stg>
-        <st Contlex="Pmuu">юмончылн%{еы%}</st>
+        <st Contlex="Pmuu">юмончылн%{оы%}</st>
       </stg>
     </lg>
 

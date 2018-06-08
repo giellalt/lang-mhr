@@ -8892,7 +8892,7 @@
    <lg>
      <l pos="Adv">икте-кодде</l>
      <stg>
-       <st Contlex="ADV_">и•кте-кодд%{еы%}</st>
+       <st Contlex="ADV_">и•кте-кодде</st>
      </stg> <stress>и•кте-кодде•</stress>
    </lg>
    <mg>
@@ -9432,7 +9432,7 @@
    <lg>
      <l pos="Adv">имньыге</l>
      <stg>
-       <st Contlex="ADV_">имньыг%{еы%}</st>
+       <st Contlex="ADV_">имньыге</st>
      </stg> <stress>имньыге•</stress>
    </lg>
    <mg>
@@ -11549,7 +11549,7 @@
    <lg>
      <l pos="Adv">йыле</l>
      <stg>
-       <st Contlex="ADV_">йыл%{еы%}</st>
+       <st Contlex="ADV_">йыле</st>
      </stg> <stress>йыле•</stress>
    </lg>
    <mg>
@@ -23197,7 +23197,7 @@
    <lg>
      <l pos="Adv">кузе-туге</l>
      <stg>
-       <st Contlex="ADV_">кузе•-туг%{еы%}</st>
+       <st Contlex="ADV_">кузе•-туге</st>
      </stg> <stress>кузе•-туге•</stress>
    </lg>
    <mg>
@@ -31030,7 +31030,7 @@
    <lg>
      <l pos="Adv">лӧтырге</l>
      <stg>
-       <st Contlex="ADV_">лӧ•тырг%{еы%}</st>
+       <st Contlex="ADV_">лӧ•тырге</st>
      </stg> <stress>лӧ•тырге•</stress>
    </lg>
    <mg>
@@ -35199,7 +35199,7 @@
    <lg>
      <l pos="Adv">нигузе</l>
      <stg>
-       <st Contlex="ADV_">нигуз%{еы%}</st>
+       <st Contlex="ADV_">нигузе</st>
      </stg> <stress>нигузе•</stress>
    </lg>
    <mg>
@@ -40181,19 +40181,6 @@
      </tg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="Adv">пеле</l>
-     <stg>
-       <st Contlex="ADV_">пел%{еы%}</st>
-     </stg> <stress>пеле•</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">puoliksi</t>
-     </tg>
-   </mg>
-</e>
 <e order="2">
    <lg>
      <l hid="Hom2" pos="Adv">пеле</l>
@@ -40204,6 +40191,9 @@
    <mg>
      <tg xml:lang="eng">
        <t pos="Adv">in half, in two; stupid, half-witted; fool, idiot, half-wit</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">puoliksi</t>
      </tg>
    </mg>
 </e>
@@ -40292,7 +40282,7 @@
    <lg>
      <l pos="Adv">пеле-пуле</l>
      <stg>
-       <st Contlex="ADV_">пеле•-пул%{еы%}</st>
+       <st Contlex="ADV_">пеле•-пуле</st>
      </stg> <stress>пеле•-пуле•</stress>
    </lg>
    <mg>
@@ -54505,20 +54495,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">тыҥге</l>
-     <stg>
-       <st Contlex="ADV_">ты•ҥг%{еы%}</st>
-     </stg> <stress>ты•ҥге•</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Adv"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">тыҥге(ла)</l>
      <stg>
        <st Contlex="ADV_">тыҥге•(ла)</st>
@@ -57096,7 +57072,7 @@
    <lg>
      <l pos="Adv">ужде</l>
      <stg>
-       <st Contlex="ADV_">ужд%{еы%}</st>
+       <st Contlex="ADV_">ужде</st>
      </stg> <stress>ужде•</stress>
    </lg>
    <mg>
@@ -57110,7 +57086,7 @@
    <lg>
      <l pos="Adv">ужде-колде</l>
      <stg>
-       <st Contlex="ADV_">ужде•-колд%{еы%}</st>
+       <st Contlex="ADV_">ужде•-колде</st>
      </stg> <stress>ужде•-колде•</stress>
    </lg>
    <mg>
@@ -71102,25 +71078,15 @@
    <lg>
      <l pos="Adv">эре</l>
      <stg>
-       <st Contlex="ADV_">эр%{еы%}</st>
+       <st Contlex="ADV_">эре</st>
      </stg> <stress>эре•</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">koko ajan, aina</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l hid="Hom1" pos="Adv">эре</l>
-     <stg>
-       <st Contlex="ADV_">эре•</st>
-     </stg> <stress>эре• [1]</stress>
    </lg>
    <mg>
      <tg xml:lang="eng">
        <t pos="Adv">always, constantly, all the time; only, all, everywhere; more and more, increasingly</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">koko ajan, aina</t>
      </tg>
    </mg>
 </e>
@@ -73853,7 +73819,7 @@
    <lg>
      <l pos="Adv">ӱвыре</l>
      <stg>
-       <st Contlex="ADV_">ӱ•выр%{еы%}</st>
+       <st Contlex="ADV_">ӱ•выре</st>
      </stg> <stress>ӱ•выре•</stress>
    </lg>
    <mg>
