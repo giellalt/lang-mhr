@@ -230,6 +230,7 @@ LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
 
 LEXICON N-OLD-ORTH-SG-NOM_  !!= * @CODE@
 +Err/Orth+N+Sg+Nom: ENDLEX ;
++Err/Orth+N: ENDLEX ;
 
 
 
@@ -243,7 +244,8 @@ LEXICON N-OLD-ORTH-SG-NOM_  !!= * @CODE@
 !! Each case-number-person has its own lexicon.
 
 LEXICON N-SG-NOM  !!= * @CODE@
- +Sg+Nom: K ;
+ +Sg+Nom: K ; ! Non-attributive form
+ ENDLEX ;     ! Attributive form
 
 LEXICON N-SG-GEN !!= * @CODE@
  +Sg+Gen:%>Ы1н K ;

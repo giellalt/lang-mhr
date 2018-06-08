@@ -5,10 +5,10 @@
 
 
 LEXICON A-ATTR_ ! йошкарге:йошкар
-+A+Attr: #;
++A+Attr: # ;
 
 LEXICON A-GEN-ATTR_ ! ава >> Sg_Gen аван:аван
-+A+Attr: #;
++A+Attr: # ;
 
 LEXICON A_OLD-ORTH
 +A: #; !йӧрыктымӧ:йӧрыктым%{еы%}

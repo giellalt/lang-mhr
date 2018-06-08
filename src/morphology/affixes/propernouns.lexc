@@ -5,15 +5,17 @@
 !! nouns, but with a colon (':') as separator. (???)
 
 LEXICON PROP-OLD-ORTH-SG-NOM_  !!= * @CODE@
-+Err/Orth+N+Prop+Sg+Nom: # ;
++Err/Orth+N+Prop+Sg+Nom: ENDLEX ;
++Err/Orth+N+Prop: ENDLEX ;
 
 
 LEXICON PROP_  !!= * @CODE@
  +N+Prop: N-ava_01 ; !!= * @CODE@ decline like common nouns
+ +N+Prop: ENDLEX ; !!=  * @CODE@ in attributive position
  
 LEXICON PROP-PLC_  !!= * @CODE@
- +Sem/Plc+N+Prop: N-ava_01 ; !!= * @CODE@ decline like common nouns
- +N+Prop+Der/ысЕ:%>ысЫ2 A_ ; !CHECKME 2017-1-1
+ +N+Prop+Sem/Plc: N-ava_01 ; !!= * @CODE@ decline like common nouns
+ +N+Prop+Sem/Plc+Der/ысЕ:%>ысЫ2 A_ ; !CHECKME 2017-1-1
 
 !! !!Male given name for deriving patronyms 
 
@@ -101,16 +103,23 @@ LEXICON Deriv-RUS-IN_SURMAL !!= * @CODE@
 
 
 LEXICON PROP_KAL_SURMAL !!= * @CODE@
- +N+Prop+Sem/Sur+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Sur: N-ava_01 ;
+ +N+Prop+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Sur: ENDLEX ;
+ +N+Prop+Sem/Mal: ENDLEX ;
 
 LEXICON PROP_KUDO_SURFEM !!= * @CODE@
- +N+Prop+Sem/Sur+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Sur: N-ava_01 ;
+ +N+Prop++Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Sur: ENDLEX ;
+ +N+Prop+Sem/Fem: ENDLEX ;
 
 LEXICON CYRL-CONS_SUR !!= * @CODE@
   PropSur-kal ;
 
 LEXICON PropSur-kal !!= * @CODE@
  +N+Prop+Sem/Sur: N-ava_01 ;
+ +N+Prop+Sem/Sur: ENDLEX ;
 
 LEXICON CYRL-T_SUR !!= * @CODE@
   PropSur-kit ;
@@ -132,6 +141,7 @@ LEXICON CYRL-SIBILANT_SUR !!= * @CODE@
 
 LEXICON PropSur-osh !!= * @CODE@
  +N+Prop+Sem/Sur: N-ava_01 ;
+ +N+Prop+Sem/Sur: ENDLEX ;
 
 LEXICON CYRL-VOW_SUR !!= * @CODE@
   PROP_KUDO_SUR ;
@@ -141,12 +151,15 @@ LEXICON CYRL-A_SUR !!= * @CODE@
 
 LEXICON PROP_OSH_SUR !!= * @CODE@
  +N+Prop+Sem/Sur: N-ava_01 ;
+ +N+Prop+Sem/Sur: ENDLEX ;
 
 LEXICON PROP_KIT_SUR !!= * @CODE@
  +N+Prop+Sem/Sur: N-ava_01 ;
+ +N+Prop+Sem/Sur: ENDLEX ;
 
 LEXICON PROP_KUDO_SUR !!= * @CODE@
  +N+Prop+Sem/Sur: N-ava_01 ;
+ +N+Prop+Sem/Sur: ENDLEX ;
 
 LEXICON PROP_KAL_MAL !!= * @CODE@
  +N+Prop+Sem/Mal: N-ava_01 ;
@@ -172,11 +185,11 @@ LEXICON PROP_KUDO_MAL !!= * @CODE@
 
 LEXICON PROP_OSH_PATRMAL !!= * @CODE@
  +N+Prop+Patr+Sem/Mal: N-ava_01 ;
- +N+Prop+Patr+Sem/Mal: # ;
+ +N+Prop+Patr+Sem/Mal: ENDLEX ;
 
 LEXICON PROP_KUDO_PATRFEM !!= * @CODE@
  +N+Prop+Patr+Sem/Fem: N-ava_01 ;
- +N+Prop+Patr+Sem/Mal: # ;
+ +N+Prop+Patr+Sem/Mal: ENDLEX ;
 
 
 !! !!Female Given names 
@@ -215,20 +228,24 @@ LEXICON PROP_KUDO_FEM !!= * @CODE@
 
 LEXICON PROP-PLC_KAL !!= * @CODE@
  +N+Prop+Sem/Plc: N-ava_01 ;
+ +N+Prop+Sem/Plc: ENDLEX ;
 
 LEXICON PROP-PLC_KIT !!= * @CODE@
  +N+Prop+Sem/Plc: N-ava_01 ;
+ +N+Prop+Sem/Plc: ENDLEX ;
 
 !LEXICON PROP-PLC_OSH
 ! +N+Prop+Sem/Plc: N-ava_01 ;
 
 LEXICON PROP-PLC_KUDO !!= * @CODE@
  +N+Prop+Sem/Plc: N-ava_01 ;
+ +N+Prop+Sem/Plc: ENDLEX ;
 
 
 
 LEXICON Prop !!= * @CODE@
  +N+Prop: N-continuation ;
+ +N+Prop: ENDLEX ;
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
      Prop ;
