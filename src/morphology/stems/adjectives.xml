@@ -11397,6 +11397,7 @@
      <l pos="A">воктенысе</l>
      <stg>
        <st Contlex="A_">вокте•ныс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">вокте•нс%{еы%}</st>
      </stg> <stress>вокте•нысе</stress>
    </lg>
    <mg>
@@ -15412,7 +15413,7 @@
    <lg>
      <l pos="A">вӱлше-вӱлше</l>
      <stg>
-       <st Contlex="A_">вӱлше•-вӱлш%{еы%}</st>
+       <st Contlex="A_">вӱлше•-вӱлше</st>
      </stg> <stress>вӱлше•-вӱлше•</stress>
    </lg>
    <mg>
@@ -25119,6 +25120,11 @@
      <tg xml:lang="eng">
        <t pos="A">damp, moist, wet; green, young (plants); raw, uncooked, unboiled; unprocessed (animal furs); {figuratively}unfinished, crude (literary works)</t>
      </tg>
+     <tg xml:lang="fin">
+       <t pos="A">kostea</t>
+       <t pos="A">tuore</t>
+       <t pos="A">elävä</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -25132,22 +25138,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A">iäkäs</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">иле</l>
-     <stg>
-       <st Contlex="A_">ил%{еы%}</st>
-     </stg> <stress>иле•</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">kostea</t>
-       <t pos="A">tuore</t>
-       <t pos="A">elävä</t>
      </tg>
    </mg>
 </e>
@@ -62769,7 +62759,7 @@
    <lg>
      <l pos="A">лӱҥге</l>
      <stg>
-       <st Contlex="A_">лӱҥг%{еы%}</st>
+       <st Contlex="A_">лӱҥге</st>
      </stg> <stress>лӱҥге•</stress>
    </lg>
    <mg>
@@ -83052,7 +83042,7 @@
    <lg>
      <l pos="A">пеле</l>
      <stg>
-       <st Contlex="A_">пел%{еы%}</st>
+       <st Contlex="A_">пеле</st>
      </stg> <stress>пеле•</stress>
    </lg>
    <mg>
@@ -83108,7 +83098,7 @@
    <lg>
      <l pos="A">пеле-пуле</l>
      <stg>
-       <st Contlex="A_">пеле•-пул%{еы%}</st>
+       <st Contlex="A_">пеле•-пуле</st>
      </stg> <stress>пеле•-пуле•</stress>
    </lg>
    <mg>
@@ -91061,7 +91051,7 @@
    <lg>
      <l pos="A">пуле</l>
      <stg>
-       <st Contlex="A_">пул%{еы%}</st>
+       <st Contlex="A_">пуле</st>
      </stg> <stress>пуле•</stress>
    </lg>
    <mg>
@@ -91089,20 +91079,6 @@
    <lg>
      <l pos="A">пулче</l>
      <stg>
-       <st Contlex="A-a/e">пулч%{еы%}</st>
-     </stg> <stress>пулче•</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">niverä(inen)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">пулче</l>
-     <stg>
        <st Contlex="A_">пулче•</st>
      </stg> <stress>пулче•</stress>
    </lg>
@@ -91110,6 +91086,9 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">knotty, knaggy (wood); {figuratively}stubborn, pigheaded</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">niverä(inen)</t>
      </tg>
    </mg>
 </e>
@@ -137977,7 +137956,7 @@
    <lg>
      <l pos="A">шижде</l>
      <stg>
-       <st Contlex="A-a/e">шижд%{еы%}</st>
+       <st Contlex="A-a/e">шижде</st>
      </stg>
    </lg>
    <mg>
@@ -137991,7 +137970,7 @@
    <lg>
      <l pos="A">шижде-вучыде</l>
      <stg>
-       <st Contlex="A_">шижде•-вучыд%{еы%}</st>
+       <st Contlex="A_">шижде•-вучыде</st>
      </stg> <stress>шижде•-вучыде•</stress>
    </lg>
    <mg>
@@ -149637,20 +149616,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">clean; clean, fresh (air); {figuratively}clean, honest, upright</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">эре</l>
-     <stg>
-       <st Contlex="A_">э•р%{еы%}</st>
-     </stg> <stress>э•ре•</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
      </tg>
    </mg>
 </e>
