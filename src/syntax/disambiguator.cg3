@@ -126,7 +126,6 @@ LIST Ins = Ins ins ;   #!! Ins
 LIST Ine = Ine ine ;   #!! Ine
 LIST Ill = Ill ill ;   #!! Ill
 LIST Cmpr = Cmpr ; 	   #!! Cmpr (case)
-LIST Attr = Attr ;
 
 LIST Case = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Cmpr ;
 SET Obl = Case - Nom ;
@@ -372,15 +371,11 @@ REMOVE:RemAdj1 A IF (0 N)(1 NOT-ADJ-OR-NOUN); #SASHA ADDED 30-06-2017
 #!! *__RemAdj2__ removes A if no N or Pron in a clause
 REMOVE:RemAdj2 A IF (0 N)(*-1 DELIMITERS BARRIER N OR Pron)(*1 DELIMITERS BARRIER N OR Pron); #SASHA ADDED 3-07-2017
 
-	#!! Proper nouns
-
-REMOVE:PropAttr Nom IF (0 Attr)(1 Sem/Sur);	
-REMOVE:PropAttr Nom IF (0 Attr)(1 Sem/Sur);	
 	
 	
 #!! !Nouns
 
-	#!! * __lym__ nalash 'to take a name' = to be given a title'
+#!! * __lym__ nalash "to take a name" = "to be given a title"
 SELECT:lym ("лӱм") IF ( 0 ("лӱм"))(1 ("налаш"));	
 
 	
