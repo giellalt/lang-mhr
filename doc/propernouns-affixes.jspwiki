@@ -8,9 +8,10 @@ nouns, but with a colon (':') as separator. (???)
 
  * LEXICON PROP_  
  *  +N+Prop: N-ava_01 ;  decline like common nouns
+  *  +N+Prop: ENDLEX ;  in attributive position
 
  * LEXICON PROP-PLC_  
- *  +Sem/Plc+N+Prop: N-ava_01 ;  decline like common nouns
+ *  +N+Prop+Sem/Plc: N-ava_01 ;  decline like common nouns
 
 !!Male given name for deriving patronyms 
 
