@@ -1632,5 +1632,72 @@
       </tg>
     </mg>
   </e>
-
+<e>
+   <lg>
+     <l pos="N" type="Prop">Семык</l>
+     <stg>
+       <st Contlex="PROP_">Се•мык</st>
+     </stg> <stress>Се•мык</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Semik, Green week (celebration in early June)</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Шыжывазар</l>
+     <stg>
+       <st Contlex="PROP_">Шыжываза•р</st>
+     </stg> <stress>Шыжываза•р</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">(celebration on 21 November at the end of field work)</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Шорыкйол</l>
+     <stg>
+       <st Contlex="PROP_">Шорыкйо•л</st>
+     </stg> <stress>Шорыкйо•л</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">(Mari celebration held around the turn of the year); Christmas</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Сӱрем</l>
+     <stg>
+       <st Contlex="PROP_">Сӱре•м</st>
+     </stg> <stress>Сӱре•м</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">(a Mari feast celebrated in July)</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
 </r>
