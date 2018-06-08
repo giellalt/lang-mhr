@@ -189,7 +189,7 @@
 "<йӧнжӧ>"
 	"йӧн" N Sg Nom PxSg3 @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<вийже>"
 	"вий" N Sg Nom PxSg3 @SUBJ>
 "<ешаралтын>"
@@ -380,7 +380,7 @@
 "<лийме>"
 	"лияш" V Pass Prc N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тушто>"
 	"ту" N Sg Ine
 	"туш" N Sg Ine
@@ -448,7 +448,7 @@
 	"кушто" Adv
 	"кушто" Pron
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<кузе>"
 	"кузе" Adv
 	"кузе" N Sg Nom @SUBJ>
@@ -621,7 +621,7 @@
 "<Дудинан>"
 	"Дудин" N Prop Sem/Sur Sem/Fem Sg Gen
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<В>"
 	"В" N ABBR
 	"в" ABBR
@@ -644,7 +644,7 @@
 "<премийже>"
 	"премий" N Sg Nom PxSg3
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<руш>"
 	"руш" A
 "<поэт>"
@@ -1145,7 +1145,7 @@
 "<палдарен>"
 	"палдараш" V Ind Prt2 Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тений>"
 	"тений" Adv
 "<икмыняр>"
@@ -1203,7 +1203,7 @@
 	"ий" N Sg Nom @SUBJ>
 	"ияш" V Imprt Sg2
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тений>"
 	"тений" Adv
 "<гыч>"
@@ -1343,7 +1343,7 @@
 "<прозо>"
 	"прозо" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<почеламут>"
 	"почеламут" N Sg Nom @SUBJ>
 "<возаш>"
@@ -1609,7 +1609,7 @@
 "<лиеш>"
 	"лияш" V Ind Prs Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<кӱлеш>"
 	"кӱлаш" V Ind Prs Sg3 @+FMAINV
 	"кӱлеш" N Sg Nom @SUBJ>
@@ -1871,6 +1871,7 @@
 "<,>"
 	"," CLB
 "<Валентин>"
+	"Валентин" N Prop Sem/Mal
 	"Валентин" N Prop Sem/Mal Sg Nom @SUBJ>
 "<Колумб>"
 	"Колумб" N Prop Sem/Sur Sg Nom @SUBJ>
@@ -1910,7 +1911,7 @@
 "<шинчем>"
 	"шинчаш" V Ind Prs Sg1 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<шке>"
 	"шке" Adv @>P
 	"шке" Pron Refl Nom @>P
@@ -2126,7 +2127,7 @@
 "<туге>"
 	"туге" Pcle
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<...>"
 	"..." CLB
 
@@ -2155,7 +2156,7 @@
 "<писатель>"
 	"писатель" N Sg Nom
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<краевед>"
 	"краевед" N Sg Nom
 "<Г>"
@@ -2406,7 +2407,7 @@
 "<чонаным>"
 	"чонан" N Sg Acc @OBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<чондымым>"
 	"чондыме" A Der/MWN N Sg Acc @OBJ>
 	"чондымо" A Der/MWN N Sg Acc @OBJ>
@@ -2743,6 +2744,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<изинекак>"
 	"изинʼек" Adv Foc/ak
@@ -2804,7 +2806,7 @@
 "<сылныжым>"
 	"сылне" A Der/MWN N Sg Acc PxSg3 SO/NPC
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<чевержым>"
 	"чевер" N Sg Acc PxSg3 SO/NPC
 "<тӱрыс>"
@@ -2838,7 +2840,7 @@
 "<моторлыкшо>"
 	"моторлык" N Sg Nom PxSg3 @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тудын>"
 	"тудо" Pron Pers Sg3 Gen @>N
 "<юзо>"
@@ -2851,7 +2853,7 @@
 	"." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тыгак>"
 	"тыгак" Adv
 	"тыгак" Pron
@@ -2894,6 +2896,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<медицина>"
 	"медицина" N Sg Nom @SUBJ>
@@ -2970,6 +2973,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<изинекак>"
 	"изинʼек" Adv Foc/ak
@@ -2983,7 +2987,7 @@
 "<илен>"
 	"илаш" V Ind Prt2 Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<,>"
 	"," CLB
 "<кушмекыжат>"
@@ -3010,6 +3014,7 @@
 "<дене>"
 	"дене" Po
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<кугу>"
 	"кугу" A
@@ -3182,6 +3187,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
 "<—>"
 	"—" PUNCT
@@ -3265,7 +3271,7 @@
 "<Кугу>"
 	"кугу" A
 "<ола>"
-	"ола" A
+	"ола" N Sg Nom @SUBJ>
 "<шке>"
 	"шке" A @>N
 "<шыҥалыкше>"
@@ -3380,7 +3386,7 @@
 "<сӧрен>"
 	"сӧраш" V Ind Prt2 Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<корным>"
 	"корно" N Sg Acc @OBJ>
 "<ончыкыла>"
@@ -3609,6 +3615,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
 "<?>"
 	"?" CLB
@@ -3706,7 +3713,7 @@
 "<ӧрыктара>"
 	"ӧрыктараш" V Ind Prs Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тунамак>"
 	"ту" N Sg Acc PxPl1 SO/PC Foc/ak @OBJ>
 	"туна" N Sg Acc Foc/ak @OBJ>
@@ -3778,7 +3785,7 @@
 "<кӱкшӧ>"
 	"кӱкшӧ" A
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<неле>"
 	"нелаш" V Ind Prt1 Sg3 @+FMAINV
 	"неле" A
@@ -3818,6 +3825,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<гай>"
 	"гай" Adv
@@ -3955,7 +3963,7 @@
 "<,>"
 	"," CLB
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<эше>"
 	"эше" Adv
 "<икмыняр>"
@@ -4012,6 +4020,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<йодо>"
 	"йодаш" V Ind Prt1 Sg3 @+FMAINV
@@ -4115,6 +4124,7 @@
 	"адак" Adv Foc/at
 	"адакат" Adv
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ӱмбак>"
 	"ӱмбак" Adv
@@ -4408,6 +4418,7 @@
 "<ӱдыр>"
 	"ӱдыр" N Sg Nom @SUBJ>
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<шеҥгелне>"
 	"шеҥгелне" Adv
@@ -4427,6 +4438,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ӱстел>"
 	"ӱстел" N Sg Nom @SUBJ>
@@ -4664,6 +4676,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<трукышто>"
 	"трукышто" Adv
@@ -4862,7 +4875,7 @@
 "<кугу>"
 	"кугу" A
 "<олан>"
-	"олан" A
+	"ола" N Sg Gen
 "<кӱкшӧ>"
 	"кӱкшӧ" A
 "<пӧрт-влак>"
@@ -4979,6 +4992,7 @@
 	"..." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<йыр>"
 	"йыр" N Sg Nom @SUBJ>
@@ -5160,6 +5174,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ӧрын>"
 	"ӧраш" V Ger Gen
@@ -5438,6 +5453,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<шӱлыкын>"
 	"шӱлыкын" Adv
@@ -5576,6 +5592,7 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"эше" Adv
 	"эшаш" V Imprt Sg2
 "<толынна>"
@@ -5651,7 +5668,7 @@
 "<журналым>"
 	"журнал" N Sg Acc @OBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<«>"
 	"«" ?
 "<Марий>"
@@ -5731,7 +5748,7 @@
 "<журналым>"
 	"журнал" N Sg Acc @OBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<газетым>"
 	"газ" N Sg Acc PxSg2 SO/NPC @OBJ>
 	"газет" N Sg Acc @OBJ>
@@ -5779,7 +5796,7 @@
 "<саламлем>"
 	"саламлаш" V Ind Prs Sg1 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<каласынем>"
 	"каласаш" V Des Prs Sg1
 "<:>"
@@ -5842,9 +5859,11 @@
 "<дене>"
 	"дене" Po
 "<Зоя>"
+	"Зоя" N Prop Sem/Fem Sem/Fem
 	"Зоя" N Prop Sem/Fem Sem/Fem Sg Nom
 "<Александровна>"
 	"Александр" N Prop Patr Sem/Fem Sg Nom
+	"Александр" N Prop Patr Sem/Mal
 	"Александров" N Prop Sem/Sur Sem/Mal Sg Nom PxPl1
 "<Михайлова>"
 	"Михайлов" N Prop Sem/Sur Sem/Fem Sg Nom
@@ -5872,6 +5891,7 @@
 "<«>"
 	"«" ?
 "<Ямблат>"
+	"Ямблат" N Prop Sem/Mal
 	"Ямблат" N Prop Sem/Mal Sg Nom
 	"ямб" N LocPl Nom Foc/at
 	"ямб" N Sg Cmpr Foc/at
@@ -5920,6 +5940,7 @@
 "<«>"
 	"«" ?
 "<Ямблат>"
+	"Ямблат" N Prop Sem/Mal
 	"Ямблат" N Prop Sem/Mal Sg Nom @SUBJ>
 	"ямб" N LocPl Nom Foc/at @SUBJ>
 	"ямб" N Sg Cmpr Foc/at
@@ -5957,7 +5978,7 @@
 "<преданий>"
 	"преданий" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<сказанийым>"
 	"сказанийым" ?
 "<,>"
@@ -5965,7 +5986,7 @@
 "<калыкмут>"
 	"калыкмут" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<туштым>"
 	"ту" N Sg Acc PxPl3 SO/PC @OBJ>
 	"тушто" N Sg Acc @OBJ>
@@ -6205,6 +6226,7 @@
 	"¶" CLB
 
 "<Эрик>"
+	"Эрик" N Prop Sem/Mal
 	"Эрик" N Prop Sem/Mal Sg Nom
 "<Петров>"
 	"Петров" N Prop Sem/Sur Sem/Mal Sg Nom
@@ -6273,7 +6295,7 @@
 "<лишыл>"
 	"лишыл" N Sg Nom
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<эн>"
 	"эн" Adv
 "<мотор>"
@@ -6375,7 +6397,7 @@
 "<Поэт>"
 	"поэт" N Sg Nom @SUBJ>
 "<Максим>"
-	"Максим" N Prop Sem/Mal Sg Nom @SUBJ>
+	"Максим" N Prop Sem/Mal
 "<Емельянов>"
 	"Емельянов" N Prop Sem/Sur Sem/Mal Sg Nom @SUBJ>
 "<манмыла>"
@@ -6450,7 +6472,7 @@
 "<тӱтан>"
 	"тӱтан" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<озыркан>"
 	"озыркан" A
 "<мардеж>"
@@ -6469,7 +6491,7 @@
 	"кожла" N Sg Nom @SUBJ>
 	"кожлаш" V Ind Prs Sg3 @+FMAINV
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Олма>"
 	"олма" A
 "<кожла>"
@@ -6571,7 +6593,7 @@
 "<яндар>"
 	"яндар" A
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тамле>"
 	"тамле" A
 	"тамле" N Sg Nom
@@ -6697,7 +6719,7 @@
 "<мӧр>"
 	"мӧр" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<снегыже>"
 	"снеге" N Sg Nom PxSg3 @SUBJ>
 "<кажныжымак>"
@@ -6983,7 +7005,7 @@
 "<лишыл>"
 	"лишыл" A
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<эн>"
 	"эн" Adv
 "<шерге>"
@@ -7226,13 +7248,13 @@
 "<(>"
 	"(" PUNCT LEFT
 "<Степан>"
-	"Степан" N Prop Sem/Mal Sg Nom
+	"Степан" N Prop Sem/Mal
 "<Антропов>"
 	"Антропов" N Prop Sem/Sur Sem/Mal Sg Nom
 "<)>"
 	")" PUNCT RIGHT
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Изи>"
 	"изи" A
 "<почиҥгаште>"
@@ -7269,6 +7291,7 @@
 "<(>"
 	"(" PUNCT LEFT
 "<Кирилл>"
+	"Кирилл" N Prop Sem/Mal
 	"Кирилл" N Prop Sem/Mal Sg Nom @SUBJ>
 "<Бусыгин>"
 	"Бусыгин" N Prop Sem/Sur Sem/Mal Sg Nom @SUBJ>
@@ -7561,7 +7584,7 @@
 	"." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тыгай>"
 	"тыгай" A
 "<примерым>"
@@ -7716,7 +7739,7 @@
 "<олмо>"
 	"олмо" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<весе>"
 	"весе" A
 	"весе" A Ord Attr
@@ -7842,7 +7865,7 @@
 "<илем>"
 	"илаш" V Ind Prs Sg1 @+FMAINV
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<олмылан>"
 	"олмо" N Sg Dat
 "<,>"
@@ -7869,6 +7892,7 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom @SUBJ>
 	"эше" Adv
 	"эшаш" V Imprt Sg2
@@ -8123,7 +8147,7 @@
 "<Лаж>"
 	"Лаж" ?
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<кызыт>"
 	"кызыт" Adv
 "<Олма>"
@@ -8224,7 +8248,7 @@
 "<янлыклан>"
 	"янлык" N Sg Dat
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тӱрлӧ>"
 	"тӱрлӧ" A
 "<емыж-саскалан>"
@@ -8259,7 +8283,7 @@
 "<вераҥыныт>"
 	"вераҥаш" V Ind Prt2 Pl3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<илемыштым>"
 	"илем" N Sg Acc PxPl3 SO/PC @OBJ>
 "<келыштараш>"
@@ -8319,7 +8343,7 @@
 "<ру>"
 	"руаш" V Imprt Sg2
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<чоҥо>"
 	"чоҥаш" V Imprt Sg2
 "<веле>"
@@ -8377,6 +8401,7 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom @SUBJ>
 	"эше" Adv
 	"эшаш" V Imprt Sg2
@@ -8418,7 +8443,7 @@
 "<Элмемэд>"
 	"Элмемэд" ?
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Элембэрдын>"
 	"Элембэрдын" ?
 "<тукымышт>"
@@ -8480,7 +8505,7 @@
 "<верланеныт>"
 	"верланаш" V Ind Prt2 Pl3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<мемнан>"
 	"мый" Pron Pers Pl1 Gen @>N
 "<ялым>"
@@ -8540,8 +8565,7 @@
 "<участникше>"
 	"участник" N Sg Nom PxSg3 @SUBJ>
 "<Андрей>"
-	"Андрей" N Prop Sem/Mal Sg Nom @SUBJ>
-	"Андрей" N Prop Sem/Sur Sg Nom @SUBJ>
+	"Андрей" N Prop Sem/Mal
 "<Светлаковын>"
 	"Светлаков" N Prop Sem/Sur Sem/Mal Sg Gen
 "<)>"
@@ -8604,7 +8628,7 @@
 "<марий>"
 	"марий" A
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<руш>"
 	"руш" A
 "<калык>"
@@ -8617,7 +8641,7 @@
 "<Олма>"
 	"олма" A
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Руш>"
 	"руш" A
 "<Олма>"
@@ -8721,7 +8745,7 @@
 "<Элмемэд>"
 	"Элмемэд" ?
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Элембэрдлан>"
 	"Элембэрдлан" ?
 "<шочмо>"
@@ -8847,7 +8871,7 @@
 "<меж>"
 	"меж" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<коваште>"
 	"кова" N Sg Ine
 	"коваште" N Sg Nom @SUBJ>
@@ -8876,7 +8900,7 @@
 "<товар>"
 	"товар" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<саркуралым>"
 	"саркурал" N Sg Acc @OBJ>
 "<налын>"
@@ -8960,7 +8984,7 @@
 	"улак" A
 	"уле" A Foc/ak
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<сай>"
 	"сай" A
 "<вер>"
@@ -9040,7 +9064,7 @@
 "<вере>"
 	"вере" Adv
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<вес>"
 	"вес" Pron Ind @+FMAINV
 "<вере>"
@@ -9191,7 +9215,7 @@
 	"ру" N Sg Ill
 	"руш" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<татар-шамычын>"
 	"татар" N Pl Gen
 "<илыме>"
@@ -9208,7 +9232,7 @@
 "<Марий>"
 	"марий" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<одо-шамыч>"
 	"одо" N Pl Nom @SUBJ>
 "<ик>"
@@ -9364,7 +9388,7 @@
 "<верешташ>"
 	"верешташ" V Inf
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тоштемше>"
 	"тоштемше" A
 "<вургемым>"
@@ -9428,7 +9452,7 @@
 "<Элмемэд>"
 	"Элмемэд" ?
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Элембэрд>"
 	"Элембэрд" ?
 "<коктын>"
@@ -9441,7 +9465,7 @@
 "<кодыныт>"
 	"кодаш" V Ind Prt2 Pl3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тачысе>"
 	"тачысе" A
 "<Марий>"
@@ -9472,7 +9496,7 @@
 	"келшен" Adv
 	"келшаш" V Ind Prt2 Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<умбакыже>"
 	"умбаке" Adv Foc/Poss
 	"умбакыже" A
@@ -9517,6 +9541,7 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom @SUBJ>
 	"эше" Adv
 	"эшаш" V Imprt Sg2
@@ -9550,7 +9575,7 @@
 "<шоҥгыеҥ>"
 	"шоҥгыеҥ" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<моло>"
 	"моло" N Sg Nom @SUBJ>
 	"моло" Pron
@@ -9591,7 +9616,7 @@
 "<эҥер>"
 	"эҥер" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<памаш>"
 	"памаш" N Sg Nom @SUBJ>
 "<лишан>"
@@ -9691,7 +9716,7 @@
 "<пикш>"
 	"пикш" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<керде>"
 	"кераш" V Ger Abe
 	"кердаш" V Ind Prt1 Sg3 @+FMAINV
@@ -9801,7 +9826,7 @@
 "<ушкал>"
 	"ушкал" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<ӱшкыж>"
 	"ӱшкыж" N Sg Nom @SUBJ>
 "<шӱвыроҥым>"
@@ -9860,7 +9885,7 @@
 	"." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<пӧртшат>"
 	"пӧрт" N Sg Nom PxSg3 Foc/at @SUBJ>
 "<пелыж>"
@@ -9890,7 +9915,7 @@
 "<кӱвар>"
 	"кӱвар" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<пургыжлан>"
 	"пургыж" N Sg Dat
 "<ломашым>"
@@ -9961,7 +9986,7 @@
 "<Элмемэд>"
 	"Элмемэд" ?
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Элембэрдлан>"
 	"Элембэрдлан" ?
 "<шурным>"
@@ -9999,7 +10024,7 @@
 "<—>"
 	"—" PUNCT
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<адакшым>"
 	"адакш" N Sg Acc @OBJ>
 	"адакшым" Adv
@@ -10088,7 +10113,7 @@
 "<Кӱвар>"
 	"кӱвар" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<пургыжым>"
 	"пургыж" N Sg Acc @OBJ>
 "<,>"
@@ -10117,7 +10142,7 @@
 "<шудо>"
 	"шудо" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<рокым>"
 	"рок" N Sg Acc @OBJ>
 "<шареныт>"
@@ -10204,7 +10229,7 @@
 "<шунан>"
 	"шунан" A
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<ошман>"
 	"ошман" A
 "<верат>"
@@ -10259,7 +10284,7 @@
 "<йытын>"
 	"йытын" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<кынем>"
 	"кыне" N Sg Nom PxSg1 @SUBJ>
 	"кыне" N Sg Acc @OBJ>
@@ -10304,7 +10329,7 @@
 "<чӱчӱн>"
 	"чӱчӱ" N Sg Gen
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<Кандрачи>"
 	"Кандрачи" ?
 "<Йыван>"
@@ -10316,7 +10341,7 @@
 "<(>"
 	"(" PUNCT LEFT
 "<Петр>"
-	"Пётр" N Prop Sem/Mal Sg Nom @SUBJ>
+	"Пётр" N Prop Sem/Mal
 "<Антроповын>"
 	"Антропов" N Prop Sem/Sur Sem/Mal Sg Gen
 "<)>"
@@ -10425,7 +10450,7 @@
 "<ыштеныт>"
 	"ышташ" V Ind Prt2 Pl3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<илаш>"
 	"илаш" V Inf
 "<тӱҥалыныт>"
@@ -10443,7 +10468,7 @@
 "<Элмемэд>"
 	"Элмемэд" ?
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Элембэрд>"
 	"Элембэрд" ?
 "<кажныже>"
@@ -10455,7 +10480,7 @@
 "<илемым>"
 	"илем" N Sg Acc @OBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<нурым>"
 	"нур" N Sg Acc @OBJ>
 "<почыныт>"
@@ -10485,7 +10510,7 @@
 "<иза>"
 	"иза" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<шольыжо>"
 	"шольо" N Sg Nom PxSg3 @SUBJ>
 "<посна>"
@@ -10598,7 +10623,7 @@
 	"колаш" V Ind Prt1 Pl3 Foc/Poss @+FMAINV
 	"коло" Num Sg Nom PxPl3 Foc/Poss @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<вашла>"
 	"ваш" Adv Weak
 	"вашла" Adv
@@ -10619,6 +10644,7 @@
 "<бэрдын>"
 	"бэрдын" ?
 "<Шумат>"
+	"Шумат" N Prop Sem/Mal
 	"Шумат" N Prop Sem/Mal Sg Nom @SUBJ>
 	"шу" N Sg Acc Foc/at @OBJ>
 	"шу" Hom4 N Sg Acc Foc/at @OBJ>
@@ -10738,6 +10764,7 @@
 "<кызытсе>"
 	"кызытсе" A
 "<Шумат>"
+	"Шумат" N Prop Sem/Mal
 	"шу" N Sg Acc Foc/at @OBJ>
 	"шу" Hom4 N Sg Acc Foc/at @OBJ>
 	"шумаш" V Ind Prs Pl3 @+FMAINV
@@ -10745,7 +10772,7 @@
 "<урем>"
 	"ураш" V Ind Prs Sg1 @+FMAINV
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Йошкарэҥер>"
 	"Йошкарэҥер" ?
 "<кундемеш>"
@@ -10920,7 +10947,7 @@
 "<Элмемэд>"
 	"Элмемэд" ?
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Элембэрдын>"
 	"Элембэрдын" ?
 "<тукымыштышт>"
@@ -10988,7 +11015,7 @@
 "<Элмемэд>"
 	"Элмемэд" ?
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Элембэрд>"
 	"Элембэрд" ?
 "<тукым>"
@@ -11132,7 +11159,7 @@
 "<татар>"
 	"татар" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<руш>"
 	"руш" A
 "<ял-влаклан>"
@@ -11174,7 +11201,7 @@
 	"кушеч" Adv
 	"кушеч" Pron Interr
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<лачымынак>"
 	"лачым" N Sg Gen Foc/ak
 	"лачымын" Adv Foc/ak
@@ -11254,7 +11281,7 @@
 "<гычак>"
 	"гыч" Po Foc/ak
 "<Чумбылат>"
-	"Чумбылат" N Prop Sem/Mal Sg Nom @SUBJ>
+	"Чумбылат" N Prop Sem/Mal
 "<онын>"
 	"он" N Sg Gen
 "<илыме>"
@@ -11270,7 +11297,7 @@
 "<дене>"
 	"дене" Po
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<умбакыже>"
 	"умбаке" Adv Foc/Poss
 	"умбакыже" A
@@ -11404,7 +11431,7 @@
 "<)>"
 	")" PUNCT RIGHT
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<кундемысе>"
 	"кундемысе" A
 "<моло>"
@@ -11502,6 +11529,7 @@
 "<—>"
 	"—" PUNCT
 "<Элнет>"
+	"Элнет" N Prop Sem/Mal
 	"Элнет" N Prop Sem/Mal Sg Nom @SUBJ>
 	"Элнет" Sem/Plc N Prop Sem/Plc Sg Nom @SUBJ>
 	"элнаш" V Ind Prs Sg2 @+FMAINV
@@ -11530,6 +11558,7 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"эше" Adv
 	"эшаш" V Imprt Sg2
 "<кӱшнак>"
@@ -11758,7 +11787,7 @@
 "<Элмемэд>"
 	"Элмемэд" ?
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Элембэрд>"
 	"Элембэрд" ?
 "<,>"
@@ -12131,7 +12160,7 @@
 "<сонарзе>"
 	"сонарзе" N Sg Nom
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<ватыже>"
 	"вате" N Sg Nom PxSg3
 "<.>"
@@ -12150,7 +12179,7 @@
 "<эрге>"
 	"эрге" N Sg Nom
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<ӱдыр>"
 	"ӱдыр" N Sg Nom
 "<.>"
@@ -12244,7 +12273,7 @@
 "<кужу>"
 	"кужу" A Der/MWN N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<ушет>"
 	"уш" N Sg Nom PxSg2
 	"ушаш" V Ind Prs Sg2 @+FMAINV
@@ -12309,7 +12338,7 @@
 "<Ачаж>"
 	"ача" N Sg Nom PxSg3 @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<аважланат>"
 	"ава" N Sg Dat PxSg3 SO/NPC Foc/at
 "<чӱчкыдын>"
@@ -12383,7 +12412,7 @@
 "<уш-акылже>"
 	"уш-акыл" N Sg Nom PxSg3
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<чоялыкше>"
 	"чоялык" N Sg Nom PxSg3
 "<Лаймырын>"
@@ -12865,7 +12894,7 @@
 "<возыт>"
 	"возаш" V Ind Prs Pl3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тунамак>"
 	"ту" N Sg Acc PxPl1 SO/PC Foc/ak @OBJ>
 	"туна" N Sg Acc Foc/ak @OBJ>
@@ -13282,7 +13311,7 @@
 "<кыра>"
 	"кыраш" V Ind Prs Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<кыра>"
 	"кыраш" V Ind Prs Sg3 @+FMAINV
 "<.>"
@@ -13487,7 +13516,7 @@
 "<Лаймыр>"
 	"Лаймыр" ?
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тудын>"
 	"тудо" Pron Pers Sg3 Gen
 "<воктене>"
@@ -13510,7 +13539,7 @@
 "<Изажым>"
 	"иза" N Sg Acc PxSg3 SO/NPC @OBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<шӱдыр-влакым>"
 	"шӱдыр" N Pl Acc @OBJ>
 "<утара>"
@@ -13531,7 +13560,7 @@
 	"тау" N Sg Nom PxPl3 Foc/at @SUBJ>
 	"таушташ" V Ind Prs Pl3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<Лаймырлан>"
 	"Лаймырлан" ?
 "<ойлат>"
@@ -13651,6 +13680,7 @@
 "<йӱкшӧ>"
 	"йӱкшаш" V ConNeg
 "<Элнет>"
+	"Элнет" N Prop Sem/Mal
 	"Элнет" N Prop Sem/Mal Sg Nom @SUBJ>
 	"Элнет" Sem/Plc N Prop Sem/Plc Sg Nom @SUBJ>
 	"элнаш" V Ind Prs Sg2 @+FMAINV
@@ -13699,7 +13729,7 @@
 "<йӱат>"
 	"йӱаш" V Ind Prs Sg2 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<патыр>"
 	"патыр" N Sg Nom @SUBJ>
 "<лият>"
@@ -13863,7 +13893,7 @@
 	"." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<ожнысо>"
 	"ожнысо" A
 "<семынак>"
@@ -14138,6 +14168,7 @@
 "<гоч>"
 	"гоч" Po
 "<Элнет>"
+	"Элнет" N Prop Sem/Mal
 	"Элнет" N Prop Sem/Mal Sg Nom @SUBJ>
 	"Элнет" Sem/Plc N Prop Sem/Plc Sg Nom @SUBJ>
 	"элнаш" V Ind Prs Sg2 @+FMAINV
@@ -14271,8 +14302,9 @@
 	"саламлалташ" V Ind Prs Sg3 @+FMAINV
 	"саламлаш" V Der/Refl V Ind Prs Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<Элнет>"
+	"Элнет" N Prop Sem/Mal
 	"Элнет" N Prop Sem/Mal Sg Nom @SUBJ>
 	"Элнет" Sem/Plc N Prop Sem/Plc Sg Nom @SUBJ>
 	"элнаш" V Ind Prs Sg2 @+FMAINV
@@ -14430,7 +14462,7 @@
 "<шинчеш>"
 	"шинчаш" V Ind Prs Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<турня-влакын>"
 	"турня" N Pl Gen @>N
 "<толмыштым>"
@@ -14580,7 +14612,7 @@
 "<,>"
 	"," CLB
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<турня-шамыч>"
 	"турня" N Pl Nom @SUBJ>
 "<южыш>"
@@ -14875,7 +14907,7 @@
 "<шуа>"
 	"шуаш" Hom4 V Ind Prs Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<ужеш>"
 	"уж" N Sg Lat
 	"ужаш" V Ind Prs Sg3 @+FMAINV
@@ -14994,7 +15026,7 @@
 "<куча>"
 	"куча" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<уло>"
 	"улаш" V Ind Prs Sg3 Ext @+FMAINV
 	"уло" A
@@ -15031,7 +15063,7 @@
 "<Кудалеш-кудалеш>"
 	"Кудалеш-кудалеш" ?
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<ик>"
 	"икте" Num Attr
 "<вере>"
@@ -15163,7 +15195,7 @@
 "<Кочкеш>"
 	"кочкаш" V Ind Prs Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<канаш>"
 	"канаш" V Inf
 "<верым>"
@@ -15181,7 +15213,7 @@
 "<акашт>"
 	"ака" N Sg Nom PxPl3 @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<кокаштлан>"
 	"кока" N Sg Dat PxPl3 SO/NPC
 "<лач>"
@@ -15236,7 +15268,7 @@
 	"кучаш" V Ind Prs Pl3 @+FMAINV
 	"кучо" N Sg Nom Foc/at @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<вӱдыш>"
 	"вӱд" N Sg Ill
 	"вӱдаш" V Ind Prt1 Sg3 @+FMAINV
@@ -15298,6 +15330,7 @@
 	"." CLB
 
 "<Элнет>"
+	"Элнет" N Prop Sem/Mal
 	"Элнет" N Prop Sem/Mal Sg Nom @SUBJ>
 	"Элнет" Sem/Plc N Prop Sem/Plc Sg Nom @SUBJ>
 	"элнаш" V Ind Prs Sg2 @+FMAINV
@@ -15324,7 +15357,7 @@
 "<муэш>"
 	"муаш" V Ind Prs Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тушан>"
 	"тушан" Adv
 	"тушан" Pron Dem
@@ -15422,7 +15455,7 @@
 "<лектеш>"
 	"лекташ" V Ind Prs Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<Лаймыр>"
 	"Лаймыр" ?
 "<деч>"
@@ -15564,7 +15597,7 @@
 "<вӱд>"
 	"вӱд" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<мланде>"
 	"мланде" N Sg Nom @SUBJ>
 "<деч>"
@@ -15583,7 +15616,7 @@
 "<йомдара>"
 	"йомдараш" V Ind Prs Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<акаже>"
 	"ака" N Sg Nom PxSg3 @SUBJ>
 "<,>"
@@ -15831,7 +15864,7 @@
 "<Шайра>"
 	"Шайра" ?
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<ер>"
 	"ер" N Sg Nom @SUBJ>
 "<икте-весыштым>"
@@ -15915,8 +15948,10 @@
 "<Кудряшов>"
 	"Кудряшов" N Prop Sem/Sur Sem/Mal Sg Nom @SUBJ>
 "<Михаил>"
+	"Михаил" N Prop Sem/Mal
 	"Михаил" N Prop Sem/Mal Sg Nom @SUBJ>
 "<Иванович>"
+	"Иван" N Prop Patr Sem/Mal
 	"Иван" N Prop Patr Sem/Mal Sg Nom @SUBJ>
 	"Иванович" N Prop Sem/Sur Sg Nom @SUBJ>
 "<Курыкмарий>"
@@ -16179,7 +16214,7 @@
 "<)>"
 	")" PUNCT RIGHT
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<моло>"
 	"моло" N Sg Nom
 	"моло" Pron
@@ -16189,7 +16224,7 @@
 "<книга>"
 	"книга" N Sg Nom
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<пьесе>"
 	"пьесе" N Sg Nom
 "<сборник-влакын>"
@@ -16240,6 +16275,7 @@
 "<Акшиков>"
 	"Акшиков" N Prop Sem/Sur Sem/Mal Sg Nom @SUBJ>
 "<Александр>"
+	"Александр" N Prop Sem/Mal
 	"Александр" N Prop Sem/Mal Sg Nom @SUBJ>
 	"Александр" N Prop Sem/Sur Sg Nom @SUBJ>
 "<Геннадьевич>"
@@ -16405,7 +16441,7 @@
 "<книган>"
 	"книган" A
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<Марий>"
 	"марий" A
 "<кундемын>"
@@ -16430,6 +16466,7 @@
 	"Соловьев" N Prop Sem/Sur Sem/Mal Sg Nom @SUBJ>
 	"Соловьёв" N Prop Sem/Sur Sem/Mal Sg Nom @SUBJ>
 "<Юрий>"
+	"Юрий" N Prop Sem/Mal
 	"Юрий" N Prop Sem/Mal Sg Nom @SUBJ>
 "<Ильич>"
 	"Ильич" ?
@@ -16598,7 +16635,7 @@
 	"газ" N Sg Nom PxSg2 @SUBJ>
 	"газет" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<«>"
 	"«" ?
 "<Ончыко>"
@@ -16709,13 +16746,13 @@
 "<иге>"
 	"иге" N Sg Nom
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<йолташыже-влак>"
 	"йолташ" N Pl Nom PxSg3 SO/PN
 "<»>"
 	"»" ?
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<моло>"
 	"моло" N Sg Nom
 	"моло" Pron
@@ -16843,6 +16880,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<машина>"
 	"машина" N Sg Nom @SUBJ>
@@ -17191,6 +17229,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<,>"
 	"," CLB
@@ -17297,6 +17336,7 @@
 	"урем" N Sg Ine
 	"уремыште" Adv
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<кужунак>"
 	"кужун" Adv Foc/ak
@@ -17546,6 +17586,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<пазар>"
 	"пазар" A
@@ -17758,7 +17799,7 @@
 "<пакча-саскаштым>"
 	"пакча-саскаштым" ?
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<шке>"
 	"шке" A @ADVL>
 "<ыштыме>"
@@ -17880,6 +17921,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<вашкерак>"
 	"вашке" A Comp
@@ -18046,6 +18088,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<вашкерак>"
 	"вашке" A Comp
@@ -18147,6 +18190,7 @@
 "<шинчаончалтышан>"
 	"шинчаончалтышан" ?
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<машина>"
 	"машина" N Sg Nom @SUBJ>
@@ -18266,6 +18310,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<чарналтен>"
 	"чарналташ" V Ger Gen
@@ -18644,6 +18689,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<,>"
 	"," CLB
@@ -18667,7 +18713,7 @@
 "<налаш>"
 	"налаш" V Inf
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<вигак>"
 	"вигак" Adv
 "<тышке>"
@@ -18717,7 +18763,7 @@
 "<,>"
 	"," CLB
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<ынде>"
 	"ынде" Adv
 "<титакым>"
@@ -18820,6 +18866,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<кова-влакын>"
 	"кова" N Pl Gen
@@ -19458,6 +19505,7 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom @SUBJ>
 	"эше" Adv
 	"эшаш" V Imprt Sg2
@@ -19505,6 +19553,7 @@
 "<кова>"
 	"кова" N Sg Nom @SUBJ>
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<улмым>"
 	"улаш" V Pass Prc N Sg Acc @OBJ>
@@ -19550,6 +19599,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<кова-влак>"
 	"кова" N Pl Nom @SUBJ>
@@ -19652,6 +19702,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<яра>"
 	"яра" Adv
@@ -19862,6 +19913,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<шинчажым>"
 	"шинча" N Sg Acc PxSg3 SO/NPC @OBJ>
@@ -20003,7 +20055,7 @@
 "<шинча>"
 	"шинчаш" V Ind Prs Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<пеш>"
 	"пеш" Adv
 "<онча>"
@@ -20012,6 +20064,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
 "<ӱмбак>"
 	"ӱмбак" Adv
@@ -20046,7 +20099,7 @@
 	"..." CLB
 
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<ойла>"
 	"ой" N LocPl Nom
 	"ой" N Sg Cmpr
@@ -20184,7 +20237,7 @@
 "<Кугу>"
 	"кугу" A
 "<ола>"
-	"ола" A
+	"ола" N Sg Nom @SUBJ>
 "<айдемым>"
 	"айдеме" N Sg Acc @OBJ>
 "<йомдара>"
@@ -20476,7 +20529,7 @@
 	"." CLB
 
 "<Настя>"
-	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
+	"Настя" N Prop Sem/Fem Sem/Fem
 "<шинчам>"
 	"шинча" N Sg Acc @OBJ>
 	"шинча" N Sg Nom PxSg1 @SUBJ>
@@ -20604,6 +20657,7 @@
 	"?" CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эше" Adv
 	"эшаш" V Imprt Sg2
@@ -20815,7 +20869,7 @@
 "<Кугу>"
 	"кугу" A
 "<олан>"
-	"олан" A
+	"ола" N Sg Gen
 "<шем>"
 	"шем" A
 "<ӱмылкашкыже>"
@@ -20922,6 +20976,7 @@
 "<Тидым>"
 	"тиде" Pron Dem Sg Acc @OBJ>
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<толшыжла>"
 	"толаш" V Act Prc N Sg Cmpr PxSg3 SO/NPC
@@ -21123,7 +21178,7 @@
 "<кугу>"
 	"кугу" A
 "<ола>"
-	"ола" A
+	"ола" N Sg Nom @SUBJ>
 "<йӱштын>"
 	"йӱштын" Adv
 "<вашлие>"
@@ -21149,7 +21204,7 @@
 "<кугу>"
 	"кугу" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<пеш>"
 	"пеш" Adv
 "<лишыл>"
@@ -21164,7 +21219,7 @@
 	"." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<Юл>"
 	"Юл" Sem/Plc N Prop Sem/Plc Sg Nom
 "<.>"
@@ -21470,6 +21525,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<адакат>"
 	"адак" Adv Foc/at
@@ -21492,7 +21548,7 @@
 	"." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<жапшат>"
 	"жап" N Sg Nom PxSg3 Foc/at @SUBJ>
 "<шуын>"
@@ -21585,6 +21641,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ялыште>"
 	"ял" N Sg Ine
@@ -21653,6 +21710,7 @@
 	"..." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<эн>"
 	"эн" Adv
@@ -21732,7 +21790,7 @@
 "<шуа>"
 	"шуаш" Hom4 V Ind Prs Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<кечын>"
 	"кече" N Sg Gen
 	"кечын" Adv
@@ -21816,6 +21874,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<кунамже>"
 	"кунам" Adv Foc/Poss
@@ -21951,7 +22010,7 @@
 "<волгыдо>"
 	"волгыдо" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<ала-молан>"
 	"ала-мо" Pron Ind Sg Dat @+FMAINV
 	"ала-молан" Adv
@@ -22013,6 +22072,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<вургеман>"
 	"вургеман" A
@@ -22046,7 +22106,7 @@
 	"..." CLB
 
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тудыжым>"
 	"тудыжым" ?
 "<ыш>"
@@ -22181,6 +22241,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<олымбак>"
 	"олымбак" ?
@@ -22600,7 +22661,7 @@
 "<налын>"
 	"налаш" V Ind Prt2 Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<куржын>"
 	"куржаш" V Ind Prt2 Sg3 @+FMAINV
 "<.>"
@@ -22789,6 +22850,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<,>"
 	"," CLB
@@ -22925,6 +22987,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<изиш>"
 	"изиш" Adv
@@ -23159,6 +23222,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<угыч>"
 	"угыч" Adv
@@ -23245,7 +23309,7 @@
 "<каеныт>"
 	"каяш" V Ind Prt2 Pl3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<мӧҥгеш>"
 	"мӧҥгеш" Adv
 "<конден>"
@@ -23354,6 +23418,7 @@
 	"^excl" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ала-кушто>"
 	"ала-кушто" Adv
@@ -23463,6 +23528,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<шкет>"
 	"шкет" Adv
@@ -23751,7 +23817,7 @@
 	"?" CLB
 
 "<Настя>"
-	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
+	"Настя" N Prop Sem/Fem Sem/Fem
 "<шинчам>"
 	"шинча" N Sg Acc @OBJ>
 	"шинча" N Sg Nom PxSg1 @SUBJ>
@@ -23884,6 +23950,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<шинчажым>"
 	"шинча" N Sg Acc PxSg3 SO/NPC @OBJ>
@@ -24341,7 +24408,7 @@
 	"." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<эше>"
 	"эше" Adv
 "<воктенет>"
@@ -24364,6 +24431,7 @@
 "<удам>"
 	"у" N Sg Acc PxPl2 SO/PC @OBJ>
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<нунылан>"
 	"нунылан" Adv
@@ -24474,7 +24542,7 @@
 	"." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<эше>"
 	"эше" Adv
 "<могай>"
@@ -24597,6 +24665,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<нигузеат>"
 	"нʼигузеат" Adv
@@ -24650,7 +24719,7 @@
 "<—>"
 	"—" PUNCT
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<,>"
 	"," CLB
 "<чынак>"
@@ -24955,6 +25024,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<йӱкынжак>"
 	"йӱкынжак" ?
@@ -25101,7 +25171,7 @@
 	"..." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<,>"
 	"," CLB
 "<пӧртетше>"
@@ -25272,7 +25342,7 @@
 "<—>"
 	"—" PUNCT
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<кайыже>"
 	"каяш" V Imprt Sg3
 "<.>"
@@ -25356,6 +25426,7 @@
 	"..." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<мардежлак>"
 	"мардеж" N LocPl Nom Foc/ak @SUBJ>
@@ -25424,6 +25495,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<тӱҥшӧ>"
 	"тӱҥшӧ" A
@@ -25495,7 +25567,7 @@
 	"." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<кӱжгӧ>"
 	"кӱжгӧ" A
 "<тоя>"
@@ -25574,6 +25646,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<кызыт>"
 	"кызыт" Adv
@@ -25702,7 +25775,7 @@
 "<мане>"
 	"манаш" V Ind Prt1 Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<,>"
 	"," CLB
 "<вашкыде>"
@@ -25872,7 +25945,7 @@
 	"..." CLB
 
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<вара>"
 	"вара" Adv
 	"вара" N Sg Nom @SUBJ>
@@ -26729,6 +26802,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<нойымым>"
 	"нояш" V Pass Prc N Sg Acc @OBJ>
@@ -27030,12 +27104,13 @@
 	"¶" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ӧрӧ>"
 	"ӧраш" V Ind Prt1 Sg3 @+FMAINV
 	"ӧрӧ" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<лӱдын>"
 	"лӱдаш" V Ger Gen
 "<колтыш>"
@@ -27058,7 +27133,7 @@
 "<колтынеже>"
 	"колташ" V Des Prs Sg3
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<вес>"
 	"вес" A
 "<могырышко>"
@@ -27092,6 +27167,7 @@
 	"^excl" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<тӱҥшӧ>"
 	"тӱҥшӧ" A
@@ -27111,7 +27187,7 @@
 "<,>"
 	"," CLB
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<машина>"
 	"машина" N Sg Nom @SUBJ>
 "<ӱмбалне>"
@@ -27455,6 +27531,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<милиционер>"
 	"милиционер" N Sg Nom @SUBJ>
@@ -27824,6 +27901,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<шортын>"
 	"шорташ" V Ger Gen
@@ -28075,6 +28153,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<кок>"
 	"кок" N Sg Nom @SUBJ>
@@ -28326,7 +28405,7 @@
 "<кудале>"
 	"кудалаш" V Ind Prt1 Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<кок>"
 	"кок" N Sg Nom @SUBJ>
 	"кок" Num Attr
@@ -28550,13 +28629,14 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<пурен>"
 	"пураш" V Ger Gen
 "<шогале>"
 	"шогалаш" V Ind Prt1 Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<трук>"
 	"трук" Adv
 "<чарналтыш>"
@@ -28703,7 +28783,7 @@
 "<—>"
 	"—" PUNCT
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<,>"
 	"," CLB
 "<утыжден>"
@@ -28911,7 +28991,7 @@
 "<ӱдыр>"
 	"ӱдыр" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<трук>"
 	"трук" Adv
 "<шыпланыш>"
@@ -29052,7 +29132,7 @@
 	"..." CLB
 
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<шкежат>"
 	"шке" Pron Refl Nom PxSg3 Foc/at @ADVL>
 "<ом>"
@@ -29104,7 +29184,7 @@
 "<тӱлӧ>"
 	"тӱлӧ" N Sg Nom
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<...>"
 	"..." CLB
 
@@ -29257,6 +29337,7 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"эше" Adv
 	"эшаш" V Imprt Sg2
 "<тыште>"
@@ -29436,6 +29517,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ӱмбак>"
 	"ӱмбак" Adv
@@ -29616,6 +29698,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<кугу>"
 	"кугу" A
@@ -29783,6 +29866,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<деке>"
 	"деке" Po
@@ -29911,6 +29995,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<,>"
 	"," CLB
@@ -30005,6 +30090,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<шортмыжым>"
 	"шорташ" V Pass Prc N Sg Acc PxSg3 SO/NPC @OBJ>
@@ -30221,7 +30307,7 @@
 	"." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<поч>"
 	"поч" N Sg Nom
 "<!>"
@@ -30239,6 +30325,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<,>"
 	"," CLB
@@ -30332,6 +30419,7 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эше" Adv
 	"эшаш" V Imprt Sg2
@@ -30348,7 +30436,7 @@
 "<Чия>"
 	"чия" N Sg Nom
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<чиялтыме>"
 	"чиялтыме" A
 "<ӱзгар>"
@@ -30358,7 +30446,7 @@
 "<бигуди>"
 	"бигуди" N Sg Nom
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тулеч>"
 	"тулеч" Adv
 	"тулеч" N Attr
@@ -30429,6 +30517,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<шӱлыкын>"
 	"шӱлыкын" Adv
@@ -30908,6 +30997,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<,>"
 	"," CLB
@@ -30999,7 +31089,7 @@
 "<,>"
 	"," CLB
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<пӱкенже>"
 	"пӱкен" N Sg Nom PxSg3
 "<ала-кушто>"
@@ -31081,6 +31171,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<каласыш>"
 	"каласаш" V Ind Prt1 Sg3 @+FMAINV
@@ -31127,7 +31218,7 @@
 "<—>"
 	"—" PUNCT
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<умбакыла>"
 	"умбаке" Adv Weak
 	"умбакыла" Adv
@@ -31556,6 +31647,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<йӱкымат>"
 	"йӱк" N Sg Acc Foc/at @OBJ>
@@ -31722,6 +31814,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<,>"
 	"," CLB
@@ -31756,7 +31849,7 @@
 	"?" CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<ме>"
 	"мый" Pron Pers Pl1 Nom @SUBJ>
 "<тыйым>"
@@ -31941,6 +32034,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
 "<.>"
 	"." CLB
@@ -32004,6 +32098,7 @@
 "<Сержант>"
 	"сержант" N Sg Nom @SUBJ>
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ӱмбак>"
 	"ӱмбак" Adv
@@ -32036,6 +32131,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<сумкажым>"
 	"сумка" N Sg Acc PxSg3 SO/NPC @OBJ>
@@ -32231,7 +32327,7 @@
 "<сержант>"
 	"сержант" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<Настям>"
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Acc @OBJ>
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom PxSg1 @SUBJ>
@@ -32393,7 +32489,7 @@
 	"." CLB
 
 "<Настя>"
-	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
+	"Настя" N Prop Sem/Fem Sem/Fem
 "<тӱҥшӧ>"
 	"тӱҥшӧ" A
 "<гай>"
@@ -32529,6 +32625,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<тидым>"
 	"тиде" Pron Dem Sg Acc @OBJ>
@@ -32691,7 +32788,7 @@
 	"шындаш" V Ind Prt1 Sg3 @+FMAINV
 	"шындыш" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<ӱдырым>"
 	"ӱдыр" N Sg Acc @OBJ>
 "<вӱден>"
@@ -32805,7 +32902,7 @@
 	"." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<мыскылат>"
 	"мыскыл" N Sg Nom Foc/at
 	"мыскылаш" V Ind Prs Pl3 @+FMAINV
@@ -33054,7 +33151,7 @@
 	"..." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тунамак>"
 	"ту" N Sg Acc PxPl1 SO/PC Foc/ak @OBJ>
 	"туна" N Sg Acc Foc/ak @OBJ>
@@ -33348,7 +33445,7 @@
 "<Тудо>"
 	"тудо" Pron Pers Sg3 Nom @SUBJ>
 "<Настя>"
-	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
+	"Настя" N Prop Sem/Fem Sem/Fem
 "<деке>"
 	"деке" Po
 "<мийыш>"
@@ -33390,7 +33487,7 @@
 	"^excl" CLB
 
 "<Настя>"
-	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
+	"Настя" N Prop Sem/Fem Sem/Fem
 "<шинчам>"
 	"шинча" N Sg Acc @OBJ>
 	"шинча" N Sg Nom PxSg1 @SUBJ>
@@ -33443,6 +33540,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<эркын>"
 	"эрке" N Sg Gen
@@ -33569,6 +33667,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<тӱтырала>"
 	"тӱтыра" N LocPl Nom @SUBJ>
@@ -33794,7 +33893,7 @@
 "<Коч>"
 	"кочкаш" V Imprt Sg2
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<мале>"
 	"малаш" V Imprt Sg2
 "<.>"
@@ -33823,6 +33922,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ыш>"
 	"ок" V Neg Ind Prt1 Sg3 @+FMAINV
@@ -34029,7 +34129,7 @@
 "<кече>"
 	"кече" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<тыгай>"
 	"тыгай" A
 "<йӱд>"
@@ -34046,7 +34146,7 @@
 	"." CLB
 
 "<Настя>"
-	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
+	"Настя" N Prop Sem/Fem Sem/Fem
 "<шижынат>"
 	"шижаш" V Ger Gen Foc/at
 "<ыш>"
@@ -34066,7 +34166,7 @@
 "<пыштыш>"
 	"пышташ" V Ind Prt1 Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<вургем>"
 	"вургаш" V Ind Prs Sg1 @+FMAINV
 	"вургем" N Sg Nom @SUBJ>
@@ -34174,6 +34274,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<,>"
 	"," CLB
@@ -34271,7 +34372,7 @@
 "<тарелка>"
 	"тарелка" N Sg Nom @SUBJ>
 "<ден>"
-	"ден" CC
+	"ден" CC @CNP
 "<чашкым>"
 	"чашкым" ?
 "<нале>"
@@ -34344,6 +34445,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<кынел>"
 	"кынʼелаш" V Ger Gen
@@ -34522,6 +34624,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ок>"
 	"ок" V Neg Ind Prs Sg3 @+FMAINV
@@ -35015,6 +35118,7 @@
 "<годым>"
 	"годым" Po
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<тушко>"
 	"ту" N Sg Ill
@@ -35059,6 +35163,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<,>"
 	"," CLB
@@ -35222,13 +35327,13 @@
 	"." CLB
 
 "<Настя>"
-	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
+	"Настя" N Prop Sem/Fem Sem/Fem
 "<кужун>"
 	"кужун" A
 "<шӱлалтыш>"
 	"шӱлалтыш" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<урем>"
 	"ур" N Sg Nom PxSg1 @SUBJ>
 	"ураш" V Ind Prs Sg1 @+FMAINV
@@ -35356,6 +35461,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<умылтараш>"
 	"умылтараш" V Inf
@@ -35421,6 +35527,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<тудым>"
 	"тудо" Pron Pers Sg3 Acc @OBJ>
@@ -35674,7 +35781,7 @@
 "<Настя>"
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<ончыктымо>"
 	"ончыктымо" A
 "<корно>"
@@ -35787,6 +35894,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<тумарте>"
 	"тумарте" Adv
@@ -35864,6 +35972,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<пӱжалтме>"
 	"пӱжалтме" A
@@ -36097,6 +36206,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<пазар>"
 	"пазар" N Sg Nom @SUBJ>
@@ -36164,6 +36274,7 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эше" Adv
 	"эшаш" V Imprt Sg2
@@ -36214,7 +36325,7 @@
 "<Налнет>"
 	"налаш" V Des Prs Sg2
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<...>"
 	"..." CLB
 
@@ -36467,7 +36578,7 @@
 	"шуэ" N Sg Ill
 	"шуэ" N Sg Lat
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<...>"
 	"..." CLB
 
@@ -36519,6 +36630,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<кафе>"
 	"кафе" N Sg Nom @SUBJ>
@@ -36835,6 +36947,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<пазар>"
 	"пазар" N Sg Nom @SUBJ>
@@ -36868,7 +36981,7 @@
 "<,>"
 	"," CLB
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<нимогай>"
 	"нимогай" Pron Ind @+FMAINV
 "<олымбалат>"
@@ -37296,7 +37409,7 @@
 "<кӱзаш>"
 	"кӱзаш" V Inf
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<теве>"
 	"теве" Pcle
 "<...>"
@@ -37339,6 +37452,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -37410,6 +37524,7 @@
 "<ынде>"
 	"ынде" Adv
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<уныкат>"
 	"уныка" N Sg Nom Foc/at @SUBJ>
@@ -37600,6 +37715,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<верже>"
 	"вер" N Sg Nom PxSg3 @SUBJ>
@@ -37701,6 +37817,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<лишне>"
 	"лишне" Adv
@@ -37932,7 +38049,7 @@
 	"." CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<теве>"
 	"теве" Pcle
 "<кумда>"
@@ -38020,6 +38137,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<тошкалтыш>"
 	"тошкалтыш" N Sg Nom @SUBJ>
@@ -38076,6 +38194,7 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom @SUBJ>
 	"эше" Adv
 	"эшаш" V Imprt Sg2
@@ -38105,6 +38224,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
 "<гай>"
 	"гай" A
@@ -38135,6 +38255,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<сер>"
 	"сер" N Sg Nom @SUBJ>
@@ -38164,7 +38285,7 @@
 "<ойыро>"
 	"ойыраш" V Imprt Sg2
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<вӱдыш>"
 	"вӱд" N Sg Ill
 	"вӱдаш" V Ind Prt1 Sg3 @+FMAINV
@@ -38213,6 +38334,7 @@
 "<Шӱлыкан>"
 	"шӱлыкан" A
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<пристань>"
 	"пристань" N Sg Nom @SUBJ>
@@ -38676,6 +38798,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<сумка>"
 	"сумка" N Sg Nom @SUBJ>
@@ -39029,7 +39152,7 @@
 "<кой>"
 	"кояш" V ConNeg
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<...>"
 	"..." CLB
 
@@ -39107,6 +39230,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<помыжалтме>"
 	"помыжалтме" A
@@ -39329,7 +39453,7 @@
 	"шинчаш" V Ind Prt1 Pl3 @+FMAINV
 	"шинчаш" V Ind Prt1 Sg2 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<,>"
 	"," CLB
 "<пушкольмо>"
@@ -39394,6 +39518,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<пуш>"
 	"пу" N Sg Ill
@@ -39426,6 +39551,7 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom @SUBJ>
 	"эше" Adv
 	"эшаш" V Imprt Sg2
@@ -39562,11 +39688,12 @@
 "<лий>"
 	"лияш" V ConNeg
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<...>"
 	"..." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<шке>"
 	"шке" A @ADVL>
@@ -39675,6 +39802,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
 "<?>"
 	"?" CLB
@@ -39776,6 +39904,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<тыге>"
 	"тыге" Adv
@@ -40025,6 +40154,7 @@
 	"..." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<тошкалтыш>"
 	"тошкалтыш" N Sg Nom @SUBJ>
@@ -40248,6 +40378,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<шона>"
 	"шонаш" V Ind Prs Sg3 @+FMAINV
@@ -40428,6 +40559,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<омса>"
 	"омса" N Sg Nom @SUBJ>
@@ -40522,6 +40654,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<омсам>"
 	"омса" N Sg Acc @OBJ>
@@ -40848,6 +40981,7 @@
 "<шомакеш>"
 	"шомак" N Sg Lat
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ала-молан>"
 	"ала-мо" Pron Ind Sg Dat @+FMAINV
@@ -41105,6 +41239,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<,>"
 	"," CLB
@@ -41208,6 +41343,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<шогале>"
 	"шогалаш" V Ind Prt1 Sg3 @+FMAINV
@@ -41372,7 +41508,7 @@
 	"ошкылаш" V Ind Prt1 Pl3 @+FMAINV
 	"ошкылаш" V Ind Prt1 Sg2 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<сылнештарыме>"
 	"сылнештарыме" A
 "<,>"
@@ -41477,7 +41613,7 @@
 	"?" CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<чыла>"
 	"чыла" A
 	"чыла" Pron Ind @+FMAINV
@@ -41489,6 +41625,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ӧрмӧ>"
 	"ӧрмӧ" A
@@ -41520,7 +41657,7 @@
 "<муо>"
 	"муаш" V Ind Prt1 Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<омсам>"
 	"омса" N Sg Acc @OBJ>
 "<почо>"
@@ -41555,6 +41692,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<омсашке>"
 	"омса" N Sg Ill
@@ -41592,6 +41730,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<шуко>"
 	"шуко" A
@@ -41721,7 +41860,7 @@
 "<кердыже>"
 	"керде" N Sg Nom PxSg3
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<моло>"
 	"моло" N Sg Nom
 	"моло" Pron
@@ -41770,6 +41909,7 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"эше" Adv
 	"эшаш" V Imprt Sg2
 "<тиде>"
@@ -41826,6 +41966,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<кӱварыште>"
 	"кӱвар" N Sg Ine
@@ -41976,6 +42117,7 @@
 	"?" CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эше" Adv
 	"эшаш" V Imprt Sg2
@@ -42035,6 +42177,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<диван>"
 	"диван" N Sg Nom @SUBJ>
@@ -42240,6 +42383,7 @@
 	"." CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<йӱкымат>"
 	"йӱк" N Sg Acc Foc/at @OBJ>
@@ -42336,6 +42480,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<,>"
 	"," CLB
@@ -42353,11 +42498,13 @@
 "<—>"
 	"—" PUNCT
 "<Наста>"
+	"Наста" N Prop Sem/Fem Sem/Fem
 	"Наста" N Prop Sem/Fem Sem/Fem Sg Nom
 	"наста" N Sg Nom
 "<,>"
 	"," CLB
 "<Наста>"
+	"Наста" N Prop Sem/Fem Sem/Fem
 	"Наста" N Prop Sem/Fem Sem/Fem Sg Nom
 	"наста" N Sg Nom
 "<,>"
@@ -42372,6 +42519,7 @@
 "<«>"
 	"«" ?
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<»>"
 	"»" ?
@@ -42876,6 +43024,7 @@
 	"?" CLB
 
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<чуч>"
 	"чуч" Adv
@@ -42912,7 +43061,7 @@
 "<,>"
 	"," CLB
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<пӧръеҥын>"
 	"пӧръеҥ" N Sg Gen
 "<ик>"
@@ -43076,7 +43225,7 @@
 "<Койышланыше>"
 	"койышланыше" A
 "<ола>"
-	"ола" A
+	"ола" N Sg Nom
 "<ӱдыр>"
 	"ӱдыр" N Sg Nom
 "<отыл>"
@@ -43134,7 +43283,7 @@
 "<—>"
 	"—" PUNCT
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<,>"
 	"," CLB
 "<—>"
@@ -43142,6 +43291,7 @@
 "<манылдале>"
 	"манылдале" ?
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
 "<.>"
 	"." CLB
@@ -43297,7 +43447,7 @@
 "<нале>"
 	"нале" N Sg Nom @SUBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<шке>"
 	"шке" A @>N
 "<йылмыж>"
@@ -43325,8 +43475,9 @@
 "<пыштыш>"
 	"пышташ" V Ind Prt1 Sg3 @+FMAINV
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<ӱмбак>"
 	"ӱмбак" Adv
@@ -43482,7 +43633,7 @@
 	"?" CLB
 
 "<Да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<оксаже>"
 	"окса" N Sg Nom PxSg3 @SUBJ>
 "<лиеш>"
@@ -43562,6 +43713,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom @SUBJ>
 "<мане>"
 	"манаш" V Ind Prt1 Sg3 @+FMAINV
@@ -43594,7 +43746,7 @@
 "<Паспортым>"
 	"паспорт" N Sg Acc @OBJ>
 "<да>"
-	"да" CC
+	"да" CC @CVP @CNP
 "<эше>"
 	"эше" Adv
 "<моэт>"

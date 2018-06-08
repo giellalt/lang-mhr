@@ -2594,6 +2594,7 @@
 "<,>"
 	"," CLB
 "<Валентин>"
+	"Валентин" N Prop Sem/Mal
 	"Валентин" N Prop Sem/Mal Sg Nom
 "<Колумб>"
 	"Колумб" N Prop Sem/Sur Sg Nom
@@ -3803,7 +3804,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<изинекак>"
 	"изинʼек" Adv Foc/ak
@@ -4003,7 +4006,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<медицина>"
 	"медицина" N Sg Nom
@@ -4098,7 +4103,9 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<изинекак>"
 	"изинʼек" Adv Foc/ak
@@ -4154,7 +4161,9 @@
 "<дене>"
 	"дене" Po
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<кугу>"
 	"кугу" A
@@ -4405,7 +4414,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<—>"
 	"—" PUNCT
@@ -4973,7 +4984,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<?>"
 	"?" CLB
@@ -5255,7 +5268,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<гай>"
 	"гай" A
@@ -5521,7 +5536,9 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<йодо>"
 	"йодаш" V Ind Prt1 Sg3
@@ -5656,7 +5673,9 @@
 	"адак" Adv Foc/at
 	"адакат" Adv
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ӱмбак>"
 	"ӱмбак" Adv
@@ -6021,7 +6040,9 @@
 "<ӱдыр>"
 	"ӱдыр" Hom1 N Sg Nom
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шеҥгелне>"
 	"шеҥгелне" Adv
@@ -6043,7 +6064,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ӱстел>"
 	"ӱстел" N Sg Nom
@@ -6333,7 +6356,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<трукышто>"
 	"трукышто" Adv
@@ -6727,7 +6752,9 @@
 "<...>"
 	"..." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<йыр>"
 	"йыр" A
@@ -6977,7 +7004,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ӧрын>"
 	"ӧр" A Der/MWN N Sg Gen
@@ -7338,7 +7367,9 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шӱлыкын>"
 	"шӱлык" A Der/MWN N Sg Gen
@@ -7510,6 +7541,7 @@
 "<.>"
 	"." CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -7854,10 +7886,13 @@
 "<дене>"
 	"дене" Po
 "<Зоя>"
+	"Зоя" N Prop Sem/Fem Sem/Fem
 	"Зоя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Зоя" N Sem/Fem Prop Sem/Fem
 	"Зоя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<Александровна>"
 	"Александр" N Prop Patr Sem/Fem Sg Nom
+	"Александр" N Prop Patr Sem/Mal
 	"Александров" N Prop Sem/Sur Sem/Mal Sg Nom PxPl1
 "<Михайлова>"
 	"Михайлов" N Prop Sem/Sur Sem/Fem Sg Nom
@@ -7883,6 +7918,7 @@
 "<«>"
 	"«" ?
 "<Ямблат>"
+	"Ямблат" N Prop Sem/Mal
 	"Ямблат" N Prop Sem/Mal Sg Nom
 	"ямб" N LocPl Nom Foc/at
 	"ямб" N Sg Cmpr Foc/at
@@ -7936,6 +7972,7 @@
 "<«>"
 	"«" ?
 "<Ямблат>"
+	"Ямблат" N Prop Sem/Mal
 	"Ямблат" N Prop Sem/Mal Sg Nom
 	"ямб" N LocPl Nom Foc/at
 	"ямб" N Sg Cmpr Foc/at
@@ -8276,6 +8313,7 @@
 "<¶>"
 	"¶" CLB
 "<Эрик>"
+	"Эрик" N Prop Sem/Mal
 	"Эрик" N Prop Sem/Mal Sg Nom
 "<Петров>"
 	"Петров" N Prop Sem/Sur Sem/Mal Sg Nom
@@ -8499,6 +8537,7 @@
 "<Поэт>"
 	"поэт" N Sg Nom
 "<Максим>"
+	"Максим" N Prop Sem/Mal
 	"Максим" N Prop Sem/Mal Sg Nom
 "<Емельянов>"
 	"Емельянов" N Prop Sem/Sur Sem/Mal Sg Nom
@@ -9679,6 +9718,7 @@
 "<пошкудем>"
 	"пошкудо" N Sg Nom PxSg1
 "<Сапан>"
+	"Сапан" N Prop Sem/Mal
 	"Сапан" N Prop Sem/Mal Sg Nom
 	"сапан" A
 	"сапан" A Der/MWN N Sg Nom
@@ -9690,6 +9730,7 @@
 "<(>"
 	"(" PUNCT LEFT
 "<Степан>"
+	"Степан" N Prop Sem/Mal
 	"Степан" N Prop Sem/Mal Sg Nom
 "<Антропов>"
 	"Антропов" N Prop Sem/Sur Sem/Mal Sg Nom
@@ -9739,6 +9780,7 @@
 "<(>"
 	"(" PUNCT LEFT
 "<Кирилл>"
+	"Кирилл" N Prop Sem/Mal
 	"Кирилл" N Prop Sem/Mal Sg Nom
 "<Бусыгин>"
 	"Бусыгин" N Prop Sem/Sur Sem/Mal Sg Nom
@@ -10583,6 +10625,7 @@
 "<.>"
 	"." CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -11267,6 +11310,7 @@
 "<.>"
 	"." CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -11475,6 +11519,7 @@
 	"участник" N Sg Nom Foc/Poss
 	"участник" N Sg Nom PxSg3
 "<Андрей>"
+	"Андрей" N Prop Sem/Mal
 	"Андрей" N Prop Sem/Mal Sg Nom
 	"Андрей" N Prop Sem/Sur Sg Nom
 "<Светлаковын>"
@@ -12839,6 +12884,7 @@
 "<.>"
 	"." CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -13903,6 +13949,7 @@
 "<(>"
 	"(" PUNCT LEFT
 "<Петр>"
+	"Пётр" N Prop Sem/Mal
 	"Пётр" N Prop Sem/Mal Sg Nom
 "<Антроповын>"
 	"Антропов" N Prop Sem/Sur Sem/Mal Sg Gen
@@ -14020,6 +14067,7 @@
 "<(>"
 	"(" PUNCT LEFT
 "<Назар>"
+	"Назар" N Prop Sem/Mal
 	"Назар" N Prop Sem/Mal Sg Nom
 	"Назар" N Prop Sem/Sur Sg Nom
 	"назар" A
@@ -14309,6 +14357,7 @@
 "<бэрдын>"
 	"бэрдын" ?
 "<Шумат>"
+	"Шумат" N Prop Sem/Mal
 	"Шумат" N Prop Sem/Mal Sg Nom
 	"шу" Hom1 N Sg Acc Foc/at
 	"шу" Hom2 N Sg Acc Foc/at
@@ -14479,6 +14528,7 @@
 	"кызытсе" A
 	"кызытсе" A Der/MWN N Sg Nom
 "<Шумат>"
+	"Шумат" N Prop Sem/Mal
 	"Шумат" N Prop Sem/Mal Sg Nom
 	"шу" Hom1 N Sg Acc Foc/at
 	"шу" Hom2 N Sg Acc Foc/at
@@ -15224,6 +15274,7 @@
 "<гычак>"
 	"гыч" Po Foc/ak
 "<Чумбылат>"
+	"Чумбылат" N Prop Sem/Mal
 	"Чумбылат" N Prop Sem/Mal Sg Nom
 "<онын>"
 	"он" N Sg Gen
@@ -15562,6 +15613,7 @@
 "<—>"
 	"—" PUNCT
 "<Элнет>"
+	"Элнет" N Prop Sem/Mal
 	"Элнет" N Prop Sem/Mal Sg Nom
 	"Элнет" Sem/Plc N Prop Sem/Plc Sg Nom
 	"Элнет" Sem/Plc N Sem/Plc Prop Sg Nom
@@ -15598,6 +15650,7 @@
 "<.>"
 	"." CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -16216,6 +16269,7 @@
 "<,>"
 	"," CLB
 "<Назар>"
+	"Назар" N Prop Sem/Mal
 	"Назар" N Prop Sem/Mal Sg Nom
 	"Назар" N Prop Sem/Sur Sg Nom
 	"назар" A
@@ -18149,6 +18203,7 @@
 "<,>"
 	"," CLB
 "<Элнет>"
+	"Элнет" N Prop Sem/Mal
 	"Элнет" N Prop Sem/Mal Sg Nom
 	"Элнет" Sem/Plc N Prop Sem/Plc Sg Nom
 	"Элнет" Sem/Plc N Sem/Plc Prop Sg Nom
@@ -18231,6 +18286,7 @@
 "<,>"
 	"," CLB
 "<Элнет>"
+	"Элнет" N Prop Sem/Mal
 	"Элнет" N Prop Sem/Mal Sg Nom
 	"Элнет" Sem/Plc N Prop Sem/Plc Sg Nom
 	"Элнет" Sem/Plc N Sem/Plc Prop Sg Nom
@@ -18298,6 +18354,7 @@
 	"йӱкшаш" V ConNeg
 	"йӱкшаш" V Imprt Sg2
 "<Элнет>"
+	"Элнет" N Prop Sem/Mal
 	"Элнет" N Prop Sem/Mal Sg Nom
 	"Элнет" Sem/Plc N Prop Sem/Plc Sg Nom
 	"Элнет" Sem/Plc N Sem/Plc Prop Sg Nom
@@ -18916,6 +18973,7 @@
 "<гоч>"
 	"гоч" Po
 "<Элнет>"
+	"Элнет" N Prop Sem/Mal
 	"Элнет" N Prop Sem/Mal Sg Nom
 	"Элнет" Sem/Plc N Prop Sem/Plc Sg Nom
 	"Элнет" Sem/Plc N Sem/Plc Prop Sg Nom
@@ -19083,6 +19141,7 @@
 	"да" CC
 	"да" Interj
 "<Элнет>"
+	"Элнет" N Prop Sem/Mal
 	"Элнет" N Prop Sem/Mal Sg Nom
 	"Элнет" Sem/Plc N Prop Sem/Plc Sg Nom
 	"Элнет" Sem/Plc N Sem/Plc Prop Sg Nom
@@ -20365,6 +20424,7 @@
 "<.>"
 	"." CLB
 "<Элнет>"
+	"Элнет" N Prop Sem/Mal
 	"Элнет" N Prop Sem/Mal Sg Nom
 	"Элнет" Sem/Plc N Prop Sem/Plc Sg Nom
 	"Элнет" Sem/Plc N Sem/Plc Prop Sg Nom
@@ -21114,8 +21174,10 @@
 "<Кудряшов>"
 	"Кудряшов" N Prop Sem/Sur Sem/Mal Sg Nom
 "<Михаил>"
+	"Михаил" N Prop Sem/Mal
 	"Михаил" N Prop Sem/Mal Sg Nom
 "<Иванович>"
+	"Иван" N Prop Patr Sem/Mal
 	"Иван" N Prop Patr Sem/Mal Sg Nom
 	"Иванович" N Prop Sem/Sur Sg Nom
 "<Курыкмарий>"
@@ -21520,6 +21582,7 @@
 "<Акшиков>"
 	"Акшиков" N Prop Sem/Sur Sem/Mal Sg Nom
 "<Александр>"
+	"Александр" N Prop Sem/Mal
 	"Александр" N Prop Sem/Mal Sg Nom
 	"Александр" N Prop Sem/Sur Sg Nom
 "<Геннадьевич>"
@@ -21747,6 +21810,7 @@
 	"Соловьев" N Prop Sem/Sur Sem/Mal Sg Nom
 	"Соловьёв" N Prop Sem/Sur Sem/Mal Sg Nom
 "<Юрий>"
+	"Юрий" N Prop Sem/Mal
 	"Юрий" N Prop Sem/Mal Sg Nom
 "<Ильич>"
 	"Ильич" ?
@@ -22254,7 +22318,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<машина>"
 	"машина" N Sg Nom
@@ -22707,7 +22773,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -22855,7 +22923,9 @@
 	"урем" N Sg Ine
 	"уремыште" Adv
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<кужунак>"
 	"кужу" A Der/MWN N Sg Gen Foc/ak
@@ -23187,7 +23257,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<пазар>"
 	"пазар" A
@@ -23622,7 +23694,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<вашкерак>"
 	"вашке" A Comp
@@ -23852,7 +23926,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<вашкерак>"
 	"вашке" A Comp
@@ -23992,7 +24068,9 @@
 "<шинчаончалтышан>"
 	"шинчаончалтышан" ?
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<машина>"
 	"машина" N Sg Nom
@@ -24143,7 +24221,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<чарналтен>"
 	"чарналташ" V Ger Gen
@@ -24629,7 +24709,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -24872,7 +24954,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<кова-влакын>"
 	"кова" N Pl Gen
@@ -25767,6 +25851,7 @@
 "<.>"
 	"." CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -25824,7 +25909,9 @@
 "<кова>"
 	"кова" N Sg Nom
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<улмым>"
 	"улаш" V Pass Prc N Sg Acc
@@ -25873,7 +25960,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<кова-влак>"
 	"кова" N Pl Nom
@@ -26002,7 +26091,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<яра>"
 	"яра" A
@@ -26287,7 +26378,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шинчажым>"
 	"шинча" N Sg Acc PxSg3 SO/NPC
@@ -26477,7 +26570,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ӱмбак>"
 	"ӱмбак" Adv
@@ -27054,7 +27149,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шинчам>"
 	"шинча" N Sg Acc
@@ -27208,6 +27305,7 @@
 "<?>"
 	"?" CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -27607,7 +27705,9 @@
 "<Тидым>"
 	"тиде" Pron Dem Sg Acc
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<толшыжла>"
 	"толаш" Hom1 V Act Prc N Sg Cmpr PxSg3 SO/NPC
@@ -28326,7 +28426,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<адакат>"
 	"адак" Adv Foc/at
@@ -28478,7 +28580,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ялыште>"
 	"ял" N Sg Ine
@@ -28573,7 +28677,9 @@
 "<...>"
 	"..." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<эн>"
 	"эн" Adv
@@ -28796,7 +28902,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<кунамже>"
 	"кунам" Adv Foc/Poss
@@ -29038,7 +29146,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<вургеман>"
 	"вургеман" A
@@ -29238,7 +29348,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<олымбак>"
 	"олымбак" ?
@@ -30028,7 +30140,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -30229,7 +30343,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<изиш>"
 	"изи" A Der/MWN N Sg Ill
@@ -30531,7 +30647,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<угыч>"
 	"угыч" Adv
@@ -30804,7 +30922,9 @@
 "<!>"
 	"^excl" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ала-кушто>"
 	"ала-кушто" Adv
@@ -30932,7 +31052,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шкет>"
 	"шке" A Der/MWN N Sg Nom PxSg2
@@ -31284,7 +31406,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шинчам>"
 	"шинча" N Sg Acc
@@ -31462,7 +31586,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шинчажым>"
 	"шинча" N Sg Acc PxSg3 SO/NPC
@@ -31863,7 +31989,9 @@
 "<!>"
 	"^excl" CLB
 "<Ида>"
+	"Ида" N Prop Sem/Fem Sem/Fem
 	"Ида" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Ида" N Sem/Fem Prop Sem/Fem
 	"Ида" N Sem/Fem Prop Sem/Fem Sg Nom
 	"иаш" V Ind Prt1 Pl2
 	"ок" V Neg Imprt Pl2
@@ -32108,7 +32236,9 @@
 	"удамаш" V Ger Gen
 	"удамаш" V Imprt Sg2
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<нунылан>"
 	"нунылан" Adv
@@ -32169,7 +32299,9 @@
 "<—>"
 	"—" PUNCT
 "<Ида>"
+	"Ида" N Prop Sem/Fem Sem/Fem
 	"Ида" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Ида" N Sem/Fem Prop Sem/Fem
 	"Ида" N Sem/Fem Prop Sem/Fem Sg Nom
 	"иаш" V Ind Prt1 Pl2
 	"ок" V Neg Imprt Pl2
@@ -32397,7 +32529,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<нигузеат>"
 	"нʼигузеат" Adv
@@ -32842,7 +32976,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<йӱкынжак>"
 	"йӱкынжак" ?
@@ -32900,7 +33036,9 @@
 "<—>"
 	"—" PUNCT
 "<Ида>"
+	"Ида" N Prop Sem/Fem Sem/Fem
 	"Ида" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Ида" N Sem/Fem Prop Sem/Fem
 	"Ида" N Sem/Fem Prop Sem/Fem Sg Nom
 	"иаш" V Ind Prt1 Pl2
 	"ок" V Neg Imprt Pl2
@@ -33354,7 +33492,9 @@
 "<...>"
 	"..." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<мардежлак>"
 	"мардеж" N LocPl Nom Foc/ak
@@ -33434,7 +33574,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<тӱҥшӧ>"
 	"тӱҥаш" V Act Prc N Sg Nom
@@ -33632,7 +33774,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<кызыт>"
 	"кызыт" Adv
@@ -35094,7 +35238,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<нойымым>"
 	"нойымо" A Der/MWN N Sg Acc
@@ -35502,7 +35648,9 @@
 "<¶>"
 	"¶" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ӧрӧ>"
 	"ӧраш" V Ind Prt1 Sg3
@@ -35578,7 +35726,9 @@
 "<!>"
 	"^excl" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<тӱҥшӧ>"
 	"тӱҥаш" V Act Prc N Sg Nom
@@ -36003,7 +36153,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<милиционер>"
 	"милиционер" N Sg Nom
@@ -36456,7 +36608,9 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шортын>"
 	"шорт" Hom1 N Sg Gen
@@ -36791,7 +36945,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<кок>"
 	"кок" Hom2 N Sg Nom
@@ -37410,7 +37566,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<пурен>"
 	"пураш" V Ger Gen
@@ -38306,6 +38464,7 @@
 "<.>"
 	"." CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -38553,7 +38712,9 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ӱмбак>"
 	"ӱмбак" Adv
@@ -38749,7 +38910,9 @@
 "<—>"
 	"—" PUNCT
 "<Ида>"
+	"Ида" N Prop Sem/Fem Sem/Fem
 	"Ида" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Ида" N Sem/Fem Prop Sem/Fem
 	"Ида" N Sem/Fem Prop Sem/Fem Sg Nom
 	"иаш" V Ind Prt1 Pl2
 	"ок" V Neg Imprt Pl2
@@ -38766,7 +38929,9 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<кугу>"
 	"кугу" A
@@ -38869,7 +39034,9 @@
 "<—>"
 	"—" PUNCT
 "<Ида>"
+	"Ида" N Prop Sem/Fem Sem/Fem
 	"Ида" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Ида" N Sem/Fem Prop Sem/Fem
 	"Ида" N Sem/Fem Prop Sem/Fem Sg Nom
 	"иаш" V Ind Prt1 Pl2
 	"ок" V Neg Imprt Pl2
@@ -38971,7 +39138,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<деке>"
 	"деке" Po
@@ -39134,7 +39303,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -39268,7 +39439,9 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шортмыжым>"
 	"шорташ" V Pass Prc N Sg Acc PxSg3 SO/NPC
@@ -39550,7 +39723,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -39668,6 +39843,7 @@
 "<.>"
 	"." CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -39777,7 +39953,9 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шӱлыкын>"
 	"шӱлык" A Der/MWN N Sg Gen
@@ -40370,7 +40548,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -40604,7 +40784,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<каласыш>"
 	"каласаш" V Ind Prt1 Sg3
@@ -41168,7 +41350,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<йӱкымат>"
 	"йӱк" N Sg Acc Foc/at
@@ -41382,7 +41566,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -41662,7 +41848,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<.>"
 	"." CLB
@@ -41734,7 +41922,9 @@
 "<Сержант>"
 	"сержант" N Sg Nom
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ӱмбак>"
 	"ӱмбак" Adv
@@ -41767,7 +41957,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<сумкажым>"
 	"сумка" N Sg Acc PxSg3 SO/NPC
@@ -42199,7 +42391,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<тӱҥшӧ>"
 	"тӱҥаш" V Act Prc N Sg Nom
@@ -42386,7 +42580,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<тидым>"
 	"тиде" Pron Dem Sg Acc
@@ -43441,7 +43637,9 @@
 "<Тудо>"
 	"тудо" Pron Pers Sg3 Nom
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<деке>"
 	"деке" Po
@@ -43484,7 +43682,9 @@
 "<!>"
 	"^excl" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шинчам>"
 	"шинча" N Sg Acc
@@ -43548,7 +43748,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<эркын>"
 	"эрке" N Sg Gen
@@ -43700,7 +43902,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<тӱтырала>"
 	"тӱтыра" N LocPl Nom
@@ -44016,7 +44220,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ыш>"
 	"ок" V Neg Ind Prt1 Sg3
@@ -44311,7 +44517,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шижынат>"
 	"шижаш" V Ger Gen Foc/at
@@ -44457,7 +44665,9 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -44649,7 +44859,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<кынел>"
 	"кынʼелаш" V ConNeg
@@ -44879,7 +45091,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ок>"
 	"ок" Interj
@@ -45494,7 +45708,9 @@
 "<годым>"
 	"годым" Po
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<тушко>"
 	"ту" Hom2 N Sg Ill
@@ -45548,7 +45764,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -45750,7 +45968,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<кужун>"
 	"кужу" A Der/MWN N Sg Gen
@@ -45930,7 +46150,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<умылтараш>"
 	"умылтараш" V Inf
@@ -46006,7 +46228,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<тудым>"
 	"тудо" Pron Pers Sg3 Acc
@@ -46342,7 +46566,9 @@
 "<манылдале>"
 	"манылдале" ?
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<да>"
 	"да" CC
@@ -46511,7 +46737,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<тумарте>"
 	"тумарте" Adv
@@ -46625,7 +46853,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<пӱжалтме>"
 	"пӱжалташ" V Pass Prc N Sg Nom
@@ -46919,7 +47149,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<пазар>"
 	"пазар" A
@@ -47004,6 +47236,7 @@
 "<.>"
 	"." CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -47472,7 +47705,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<кафе>"
 	"кафе" N Sg Nom
@@ -47883,7 +48118,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<пазар>"
 	"пазар" A
@@ -48554,7 +48791,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -48652,7 +48891,9 @@
 "<ынде>"
 	"ынде" Adv
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<уныкат>"
 	"уныка" N Sg Nom Foc/at
@@ -48895,7 +49136,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<верже>"
 	"вер" N Sg Nom Foc/Poss
@@ -49024,7 +49267,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<лишне>"
 	"лишне" Adv
@@ -49440,7 +49685,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<тошкалтыш>"
 	"тошкалтыш" N Sg Nom
@@ -49516,6 +49763,7 @@
 "<.>"
 	"." CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -49550,7 +49798,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<гай>"
 	"гай" A
@@ -49598,7 +49848,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<сер>"
 	"сер" N Sg Nom
@@ -49692,7 +49944,9 @@
 	"шӱлыкан" A
 	"шӱлыкан" A Der/MWN N Sg Nom
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<пристань>"
 	"пристань" N Sg Nom
@@ -50309,7 +50563,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<сумка>"
 	"сумка" N Sg Nom
@@ -50845,7 +51101,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<помыжалтме>"
 	"помыжалташ" V Pass Prc N Sg Nom
@@ -51217,7 +51475,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<пуш>"
 	"пу" N Sg Ill
@@ -51254,6 +51514,7 @@
 "<.>"
 	"." CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -51434,7 +51695,9 @@
 "<...>"
 	"..." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шке>"
 	"шке" A
@@ -51582,7 +51845,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<?>"
 	"?" CLB
@@ -51729,7 +51994,9 @@
 "<,>"
 	"," CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<тыге>"
 	"тыге" Adv
@@ -52045,7 +52312,9 @@
 "<...>"
 	"..." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<тошкалтыш>"
 	"тошкалтыш" N Sg Nom
@@ -52338,7 +52607,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шона>"
 	"шонаш" V Ind Prs Sg3
@@ -52552,7 +52823,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<омса>"
 	"омса" N Sg Nom
@@ -52672,7 +52945,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<омсам>"
 	"омса" N Sg Acc
@@ -53077,7 +53352,9 @@
 "<шомакеш>"
 	"шомак" N Sg Lat
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ала-молан>"
 	"ала-мо" Pron Ind Sg Dat
@@ -53382,7 +53659,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -53509,7 +53788,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шогале>"
 	"шогалаш" V ConNeg
@@ -53886,7 +54167,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ӧрмӧ>"
 	"ӧраш" V Pass Prc N Sg Nom
@@ -53967,7 +54250,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<омсашке>"
 	"омса" N Sg Ill
@@ -54010,7 +54295,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<шуко>"
 	"шуко" A
@@ -54245,6 +54532,7 @@
 "<.>"
 	"." CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -54322,7 +54610,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<кӱварыште>"
 	"кӱвар" N Sg Ine
@@ -54511,6 +54801,7 @@
 "<?>"
 	"?" CLB
 "<Эше>"
+	"Эше" N Prop Sem/Mal
 	"Эше" N Prop Sem/Mal Sg Nom
 	"эшаш" V ConNeg
 	"эшаш" V Imprt Sg2
@@ -54591,7 +54882,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<диван>"
 	"диван" N Sg Nom
@@ -54854,7 +55147,9 @@
 "<.>"
 	"." CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<йӱкымат>"
 	"йӱк" N Sg Acc Foc/at
@@ -54985,7 +55280,9 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<,>"
 	"," CLB
@@ -55002,13 +55299,17 @@
 "<—>"
 	"—" PUNCT
 "<Наста>"
+	"Наста" N Prop Sem/Fem Sem/Fem
 	"Наста" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Наста" N Sem/Fem Prop Sem/Fem
 	"Наста" N Sem/Fem Prop Sem/Fem Sg Nom
 	"наста" N Sg Nom
 "<,>"
 	"," CLB
 "<Наста>"
+	"Наста" N Prop Sem/Fem Sem/Fem
 	"Наста" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Наста" N Sem/Fem Prop Sem/Fem
 	"Наста" N Sem/Fem Prop Sem/Fem Sg Nom
 	"наста" N Sg Nom
 "<,>"
@@ -55022,7 +55323,9 @@
 "<«>"
 	"«" ?
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<»>"
 	"»" ?
@@ -55673,7 +55976,9 @@
 "<?>"
 	"?" CLB
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<чуч>"
 	"чуч" Adv
@@ -56026,7 +56331,9 @@
 "<манылдале>"
 	"манылдале" ?
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<.>"
 	"." CLB
@@ -56263,7 +56570,9 @@
 	"да" CC
 	"да" Interj
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<ӱмбак>"
 	"ӱмбак" Adv
@@ -56559,7 +56868,9 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
+	"Настя" N Prop Sem/Fem Sem/Fem
 	"Настя" N Prop Sem/Fem Sem/Fem Sg Nom
+	"Настя" N Sem/Fem Prop Sem/Fem
 	"Настя" N Sem/Fem Prop Sem/Fem Sg Nom
 "<мане>"
 	"манаш" V Ind Prt1 Sg3
