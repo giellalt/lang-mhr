@@ -75293,4 +75293,34 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="Adv">шӧлдыравак</l>
+     <stg>
+       <st Contlex="ADV_">шӧлдырава•к</st>
+     </stg> <stress>шӧлдырава•к</stress>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="Adv">onto a sleeping bench</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">шӧлдыраваке</l>
+     <stg>
+       <st Contlex="ADV_">шӧлдырава•к%{еы%}</st>
+     </stg> <stress>шӧлдырава•ке</stress>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="Adv">onto a sleeping bench</t>
+     </tg>
+   </mg>
+</e>
+
+
 </r> 
