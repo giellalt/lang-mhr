@@ -469,12 +469,15 @@ LIST NomPost = "" ;
 
 SELECT:nergen Po IF (0 ("нерген"));
 	# awaiting texts with нерге = 'badger' (mäyrä)
-	
+
+REMOVE:RiskyAdv Adv IF (-1 Gen)(0 Po);
+
 #!! * __PoNeedsGen__ removes postposition if the word to the left is not Gen or Nom
 REMOVE:PoNeedsGen Po IF (NOT -1 Gen OR Nom);
 
 
 #!! !!Adverbs
+
 
 SELECT:ijyn Adv IF (-1 A)(0 ("ийын"));
 	
@@ -554,22 +557,6 @@ SELECT:AifVövny A IF (*-1 ("вӧвны") BARRIER N);
 
 
 SECTION
-#!! * __CCasCNPCVP__ Map (@CNP @CVP) to CC
-MAP:CCasCNPCVP (@CNP) TARGET ("ден" CC) ;
-MAP:CCasCNPCVP (@CNP @CVP) TARGET ("да" CC) ;
-
-
-MAP:shkepo @>P TARGET ("шке") IF (1 Po);
-
-MAP:shkeadvl @ADVL> TARGET ("шке") IF (NOT 0 OBLCASE)(NOT 1 N);
-MAP:shkeattr @>N TARGET ("шке") IF (NOT 0 OBLCASE)(1 N);
-
-MAP:preNmodif @>N TARGET N + Gen IF (1C N);
-MAP:preNmodif @>N TARGET Pron + Gen IF (1C N);
-	
-MAP:obj @OBJ> TARGET Acc (*1 V);
-MAP:subj @SUBJ> TARGET Nom (*1 V);
-MAP:vfin @+FMAINV TARGET Ind ;
 
 LIST Hom1 = Hom1 ;
 LIST Hom2 = Hom2 ;
