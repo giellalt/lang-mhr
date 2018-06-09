@@ -1,0 +1,24 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+
+  Noun - палымаш: # Noun 'knowledge'
+
+     палымаш+N+Sg+Nom: палымаш
+     палымаш+N+Sg+Nom+PxSg1: палымашем
+     палымаш+N+Sg+Nom+Foc/at: палымашат
+     палымаш+N+Sg+Gen: палымашын
+     палымаш+N+Sg+Dat: палымашлан
+     палымаш+N+Pl+Nom: [палымаш-влак, палымаш-шамыч]
+     палымаш+N+Sg+Nom+PxSg3: [палымашыже, палымашше, палымашыж]
+     палымаш+N+Sg+Ine: [палымашыште, палымаште]
+     палымаш+N+Sg+Ill: [палымашышке, палымашке, палымашыш]
+
