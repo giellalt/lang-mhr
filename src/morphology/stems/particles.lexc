@@ -23,13 +23,13 @@ LEXICON particles
 векат:векат PCLE_  "" ;
 вет:вет Pmuu  "-hAn, varmaankin Pmuu" ;
 витне:витн%{еы%} PCLE_  "" ;
-вообще:вообщ%{еы%} PCLE_  "" ;
+вообще:вообще PCLE_  "" ;
 вот:вот Pmuu  "kas niin Pmuu" ;
-вудо-вуде:вудо-вуд%{еы%} Pmuu  "(deskr. jstak epäselvästä, huomaamattomasta) Pmuu" ;
+вудо-вудо:вудо-вуд%{оы%} Pmuu  "(deskr. jstak epäselvästä, huomaamattomasta) Pmuu" ;
 вудык-вудык:вудык-вудык Pmuu  "(deskr. jnk pörröisen huojumisesta) Pmuu" ;
 вуж-вуж:вуж-вуж Pmuu  "(onom. tuulen huminaa) Pmuu" ;
 вузык:вузык Pmuu  "(jhk aineeseen sotkeutumisesta) Pmuu" ;
-выде-вуде:выде-вуд%{еы%} Pmuu  "(deskr. jstak epäselvästä, huomaamattomasta) Pmuu" ;
+выде-вудо:выде-вуд%{оы%} Pmuu  "(deskr. jstak epäselvästä, huomaamattomasta) Pmuu" ;
 выж-ж:выж-ж Pmuu  "(onom. tuulen kevyestä huminasta) Pmuu" ;
 выргӱп:выргӱп Pmuu  "(onom. kaatumisen hiljaisesta äänestä) Pmuu" ;
 вырлоч:вырлоч Pmuu  "(deskr.) läiskis Pmuu" ;
@@ -47,7 +47,7 @@ LEXICON particles
 и:и Pmuu  "-kin, -kAAn, -pA Pmuu" ;
 иже:иж%{еы%} PCLE_  "" ;
 икманаш:икманаш PCLE_  "" ;
-ите:ит%{еы%} PCLE_  "" ;
+ито:ито PCLE_  "" ;
 йок:йок PCLE_  "" ;
 йывылдик:йывылдик Pmuu  "katosi kuin tuhka tuuleen; (jnk puuttumisesta) Pmuu" ;
 йыли-юли:йыли-юли Pmuu  "(välkkyvästä yms.) Pmuu" ;
@@ -62,7 +62,7 @@ LEXICON particles
 кернакак:кернакак PCLE_  "" ;
 кеч:кеч PCLE_  "" ;
 кигик-когок:кигик-когок Pmuu  "(hanhien huuto) Pmuu" ;
-киндончылне:киндончылн%{еы%} Pmuu  "(vala sanotun vannomiseksi) Pmuu" ;
+киндончылно:киндончылн%{оы%} Pmuu  "(vala sanotun vannomiseksi) Pmuu" ;
 кис-кис:кис-кис Pmuu  "(kissan kuts.) kis kis Pmuu" ;
 конешне:конешн%{еы%} PCLE_  "" ;
 коп:коп Pmuu  "hupsis Pmuu" ;
@@ -72,7 +72,7 @@ LEXICON particles
 кузе-гынат:кузе-гынат Pmuu  "kaikin mokomin, miten vain (halutaan) Pmuu" ;
 кукареку-ку-у:кукареку-ку-у Pmuu  "(onom.) kukkokiekuu Pmuu" ;
 кыж-гож:кыж-гож Pmuu  "(deskr. havinaa) Pmuu" ;
-кылде-голде:кылде-голд%{еы%} Pmuu  "(onom. hiljaista kolketta) Pmuu" ;
+кылде-голдо:кылде-голд%{оы%} Pmuu  "(onom. hiljaista kolketta) Pmuu" ;
 кылт-калт:кылт-калт Pmuu  "(onom.) tiktak Pmuu" ;
 кычыр-кочыр:кычыр-кочыр Pmuu  "(onom. narinaa, rapinaa) Pmuu" ;
 кыштыр-коштыр:кыштыр-коштыр Pmuu  "(onom. kahinaa) Pmuu" ;
@@ -84,7 +84,7 @@ LEXICON particles
 ласан:ласан PCLE_  "" ;
 лыб-лыб-лыб:лыб-лыб-лыб Pmuu  "(onom. värinä) Pmuu" ;
 лыдыр-ладыр:лыдыр-ладыр Pmuu  "(deskr. telegan äänistä, laahustavasta liikkumisesta) Pmuu" ;
-лыпте-лопте:лыпте-лопт%{еы%} Pmuu  "(onom. läimäyttelystä) Pmuu" ;
+лыпте-лопто:лыпте-лопт%{оы%} Pmuu  "(onom. läimäyttelystä) Pmuu" ;
 лӱч:лӱч Pmuu  "(onom.) pum, pam Pmuu" ;
 ма:ма PCLE_  "" ;
 мо-мо:мо-мо PCLE_  "" ;
@@ -128,11 +128,11 @@ LEXICON particles
 тожо:тожо PCLE_  "" ;
 туалгын:туалгын PCLE_  "" ;
 тугалмо:тугалмо PCLE_  "" ;
-туге:туг%{еы%} PCLE_  "" ;
-туде:туд%{еы%} Pmuu  "-hAn, -pA, kyllä Pmuu" ;
+туге:туге PCLE_  "" ;
+тудо:туд%{оы%} Pmuu  "-hAn, -pA, kyllä Pmuu" ;
 тук-тук:тук-тук Pmuu  "kop kop Pmuu" ;
 тулечла:тулечла PCLE_  "" ;
-тӧве:тӧв%{еы%} Pmuu  "kas/katsos tuo/se/nuo/ne Pmuu" ;
+тӧвӧ:тӧв%{ӧы%} Pmuu  "kas/katsos tuo/se/nuo/ne Pmuu" ;
 тӧвӧ:тӧвӧ PCLE_  "" ;
 ужат:ужат PCLE_  "" ;
 уна:уна PCLE_  "" ;
@@ -149,7 +149,7 @@ LEXICON particles
 шолдырдок:шолдырдок Pmuu  "(onom.) naps(is), raks(is) Pmuu" ;
 шолт-шолт:шолт-шолт Pmuu  "kop kop Pmuu" ;
 шуй-шуй:шуй-шуй Pmuu  "(onom. sydämenlyöntien kiihtyminen) Pmuu" ;
-шыве-шове:шыве-шов%{еы%} Pmuu  "(onom. veden loiske) Pmuu" ;
+шыве-шово:шыве-шов%{оы%} Pmuu  "(onom. veden loiske) Pmuu" ;
 шыве-шыве:шыве-шыв%{еы%} Pmuu  "hys hys (kuiskinta) Pmuu" ;
 шылт-шолт:шылт-шолт Pmuu  "(onom. lyönnin, koputuksen ääni) Pmuu" ;
 шырт-шорт:шырт-шорт Pmuu  "(deskr. ryske, rätinä) Pmuu" ;
@@ -159,7 +159,7 @@ LEXICON particles
 эсмаса:эсмаса PCLE_  "" ;
 эсогыл:эсогыл PCLE_  "" ;
 юмашне:юмашн%{еы%} Pmuu  "(puhek.) jumala varjelkoon Pmuu" ;
-юмончылне:юмончылн%{еы%} Pmuu  "(puhek.) totta tosiaan Pmuu" ;
+юмончылно:юмончылн%{оы%} Pmuu  "(puhek.) totta tosiaan Pmuu" ;
 юргылдым-юргылдым:юргылдым-юргылдым Pmuu  "(deskr. loikkaus) Pmuu" ;
 юрт:юрт Pmuu  "(deskr. säikähdys) Pmuu" ;
 юшт:юшт Pmuu  "(deskr. hyppy) Pmuu" ;
