@@ -197,10 +197,11 @@ LIST @>N = @>N ;
 LIST @OBJ> = @OBJ> ;
 LIST @SUBJ> = @SUBJ> ;
 LIST @+FMAINV = @+FMAINV ;
-
+LIST @-FMAINV = @-FMAINV ;
 
 #!! !!Sets
 
+LIST ADVLCASE = Abl Dat Com Cns Ins Ine Ill Cmpr ;
 LIST CASE = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Cmpr ; #!! * __CASE__ = all cases
 SET OBLCASE = CASE - Nom ; #!! * __OBLCASE__ = All cases except Nom
 SET VFIN = Ind | Cond | Des | Imprt ; #!! * __VFIN__ = All moods
