@@ -17,11 +17,11 @@
 LEXICON N_  !!= * @CODE@ redirects to N-ava_01
     +N: N-ava_01 ; 
 
-LEXICON N-VS  !!= * @CODE@ to N underscore
-  N_ ;
+!LEXICON N-VS  !!= * @CODE@ to N underscore
+!  N_ ;
 
-LEXICON N-a/e !!= * @CODE@ to N underscore
-  N_ ;
+!LEXICON N-a/e !!= * @CODE@ to N underscore
+!  N_ ;
 
 
 !! Derivational morphology
@@ -49,10 +49,10 @@ LEXICON N_SINGLE-SYLLABLE-U
 LEXICON N-continuation  !!= * @CODE@ comes from Proper nouns
                N-ava_01      ; 
 
-LEXICON N-ava !!= * @CODE@ to N-ava_01 and vocatives
-            +N:     N-ava_01 ;
-        +N+Voc:%>й  ENDLEX        ;
-  +N+Voc+PxSg1:%>ем ENDLEX        ;
+!LEXICON N-ava !!= * @CODE@ to N-ava_01 and vocatives
+!            +N:     N-ava_01 ;
+!        +N+Voc:%>й  ENDLEX        ;
+!  +N+Voc+PxSg1:%>ем ENDLEX        ;
 
 LEXICON N-ava_01 !!= * @CODE@ obl because of pronouns
   N-SG-NOM       ;
