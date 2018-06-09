@@ -10,12 +10,7 @@
   "+Ex/V"   <- "+V"   ||
 # change always and only when followed by a derivation:
   _ \[ "+Cmp" ]*
-       [ "+Der"
-       | "+Der1"
-       | "+Der2"
-       | "+Der3"
-       | "+Der4"
-       | "+Der5"
+       [ "+Der/MWN"
        ]
 ] .o.
 
