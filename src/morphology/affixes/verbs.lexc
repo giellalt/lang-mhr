@@ -168,16 +168,16 @@ LEXICON Vam-Des  !!= @CODE@ for desiderative, Желательное накло�
 
 !! !The -em class
 !! First four lexica: V_em with Gerund, the rest without, all going to V_em_ALL to get derivation affixes.
-! V_em                  = V_em
-! V_em-1SYLL            = V_em_puash  
-! V_em-1SYLL-j          = V_em_kajash
-! V_em-MULTI-1SYLL-IN-J = V_em_kutajash
+! V_em                  = V_em           the restx
+! V_em-1SYLL            = V_em_puash     monosyll stems in у
+! V_em-1SYLL-j          = V_em_kajash    monosyll stems in й
+! V_em-MULTI-1SYLL-IN-J = V_em_kutajash  polysyll stems in й
 
 LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
                    +V:          V_em_ALL ;
-!           +V+Ger+Gen:          K          ; !CHECKME is %>Ы2%^END required
-           +V+ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
-        +V+Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
+
+LEXICON V_em-MULTI-SYLL-IN-J
+                   +V:          V_em_ALL ;
 
 LEXICON V_em-1SYLL-j !!= @CODE@ allow for literary norm until 1970 (Alhoniemi 1985: 105-106) кайше, кайшаш
  +V+Err/Orth: non-finites ; !!= @CODE@ until 1972 reform
@@ -185,13 +185,10 @@ LEXICON V_em-1SYLL-j !!= @CODE@ allow for literary norm until 1970 (Alhoniemi 19
           +V+ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
        +V+Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
 
-LEXICON V_em-MULTI-SYLL-IN-J
-                   +V:              V_em_ALL ;
-
 LEXICON V_em-1SYLL !!= @CODE@ single syll V_em verbs, do not include bare-stem gerunds in their paradigms
                    +V:           V_em_ALL ;
-          +V+ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
-       +V+Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
+          +V+ConNeg: K           ; ! Only single-syllables in й
+       +V+Imprt+Sg2: K-imprt     ; !
 
 !! Optional derivation:  All verbs going to V_em_INFL
 LEXICON V_em_ALL
@@ -218,8 +215,10 @@ LEXICON V_em_INFL
 ! Деепричастие образа действия:
    +Ger+Gen:%>Е2н       K           ;
            :ы           non-finites ;
-    +ConNeg:%>Ы2%^END   K           ; !
- +Imprt+Sg2:%>Ы2%^END   K-imprt     ;
+    +ConNeg:%>Ы2   K           ; !
+ +Imprt+Sg2:%>Ы2   K-imprt     ;
+!    +ConNeg:%>Ы2%^END   K           ; !
+! +Imprt+Sg2:%>Ы2%^END   K-imprt     ;
 
 
 
