@@ -47,17 +47,17 @@ N_KIN_SPECIAL_2 ;
 
 LEXICON N_KIN_SPECIAL_1
 +Nom+PxSg1: K ;
-+Gen+PxSg1+SO/PC:%>ын K ;
-+Acc+PxSg1+SO/PC:%>ым K ;
-+Dat+PxSg1+SO/PC:%>лан K ;
-+Com+PxSg1+SO/PC:%>ге K ;
-+Cmpr+PxSg1+SO/PC:%>ла K ;
++Gen+PxSg1+So/PC:%>ын K ;
++Acc+PxSg1+So/PC:%>ым K ;
++Dat+PxSg1+So/PC:%>лан K ;
++Com+PxSg1+So/PC:%>ге K ;
++Cmpr+PxSg1+So/PC:%>ла K ;
 
 LEXICON N_KIN_SPECIAL_2
 +Nom+PxSg2: K ;
-+Gen+PxSg2+SO/PC:%>ын K ;
-+Acc+PxSg2+SO/PC:%>ым K ;
-+Dat+PxSg2+SO/PC:%>лан K ;
-+Com+PxSg2+SO/PC:%>ге K ;
-+Cmpr+PxSg2+SO/PC:%>ла K ;
++Gen+PxSg2+So/PC:%>ын K ;
++Acc+PxSg2+So/PC:%>ым K ;
++Dat+PxSg2+So/PC:%>лан K ;
++Com+PxSg2+So/PC:%>ге K ;
++Cmpr+PxSg2+So/PC:%>ла K ;
 
