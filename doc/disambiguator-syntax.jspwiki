@@ -291,13 +291,11 @@ Adjectives
 
 *__RemAdj2__ removes A if no N or Pron in a clause
 
-Proper nouns
-
 
 
 !Nouns
 
-* __lym__ nalash 'to take a name' = to be given a title'
+* __lym__ nalash "to take a name" = "to be given a title"
 
 
 *__RemNomIfPronLeft__ removes Nom if Pron Nom anywhere to the left
