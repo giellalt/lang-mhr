@@ -68,7 +68,7 @@ Archiphonemes for vowels, Apertium style
  * Vow =  Vo VO Ve ы Ы ;    
 
  * Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш    
-        Б В Г Д Ж З Й К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;   
+        з2 ;   
 
  * CnsNoj =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш    
            Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     
@@ -163,11 +163,15 @@ __ stem-final vowel realized %{аы%}:а __
 
 __ Stem-final non-stressed vowel loss __
 
+* __а•льф{аы}>А2т __
+* __а0льф0>ат __
+
 __ Stem-final non-stressed %{еы%} loss __
 * __киска•лʼь%{еы%}>А2т __
 * __киска•л000>ят __
 * __пятибо•рь%{еы%}>А2т __
 * __пятибо•рье>ат __
+
 
 
 __ suffix-final vowel realized %{еы%}:ы  __  
@@ -222,7 +226,6 @@ __ Clitics in At and Ak take onset glide = ja __
 __ Clitics in At and Ak take ZERO __
 
 
-
 __ й Deletion in front of я Suffix and others __  
 
 * __кий>А2ш __
@@ -253,11 +256,18 @@ __ Stem-final consonant loss к __
 __ Stem-final consonant loss н __
 
 
+
 * __колхоз __
 * __колхоз __
 
-* __воз2> __
-* __воч> __
+* __воз2^END __
+* __воч0 __
+
+* __воз2>аш __
+* __воз>аш __
+
+* __камвоз2>аш __
+* __камвоз>аш __
 
 * __воз2>са __
 * __воч>са __
@@ -296,6 +306,12 @@ __ Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs  __
 
 
 
+
+* __и•мнʼь%{еы%}>A2т __
+* __и0мн000>ят __
+
+* __и __ {{• }} (Eng. м н ʼ ь %{еы%} > A2 т)
+* __и __ {{0 }} (Eng. м н 0 0 0 > я т)
 
 * __а __
 * __б __
