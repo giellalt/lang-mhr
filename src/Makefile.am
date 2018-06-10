@@ -80,10 +80,10 @@ analyser-disamb-gt-desc.hfst: analyser-disamb-gt-desc.tmp.hfst \
 define giella_generators
 generator-gt-%.$(1): generator-gt-%.tmp.$(1) \
 					 filters/make-optional-suffix_order-tags.$(1)    \
-					 filters/rename_optional-POS_before_Der-tags.$(1) 
+					 filters/rename-POS_before_Der-tags.$(1) 
 	$$(AM_V_XFST_TOOL)$$(PRINTF) "read regex \
-			.o. @\"filters/make-optional-suffix_order-tags.$(1)\"     \
-			.o. @\"filters/rename_optional-POS_before_Der-tags.$(1)\" \
+			    @\"filters/make-optional-suffix_order-tags.$(1)\"     \
+			.o. @\"filters/rename-POS_before_Der-tags.$(1)\" \
 			.o. @\"$$<\"                                        \
 			;\n\
 		 $$(INVERT_XFST)$$(INVERT_FOMA)\
