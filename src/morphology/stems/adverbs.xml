@@ -840,7 +840,7 @@
    <lg>
      <l pos="Adv">ала-кушко</l>
      <stg>
-       <st Contlex="ADV_">ала•-ку•шко</st>
+       <st Contlex="ADV_">ала•-ку•шк%{оы%}</st>
      </stg> <stress>ала•-ку•шко</stress>
    </lg>
    <mg>
@@ -852,7 +852,7 @@
    <lg>
      <l pos="Adv">ала-кушто</l>
      <stg>
-       <st Contlex="ADV_">ала•-ку•што</st>
+       <st Contlex="ADV_">ала•-ку•шт%{оы%}</st>
      </stg> <stress>ала•-ку•што</stress>
    </lg>
    <mg>
@@ -957,7 +957,7 @@
    <lg>
      <l pos="Adv">ала-мочоло</l>
      <stg>
-       <st Contlex="ADV_">ала•-мочо•ло</st>
+       <st Contlex="ADV_">ала•-мочо•л%{оы%}</st>
      </stg> <stress>ала•-мочо•ло</stress>
    </lg>
    <mg>
@@ -1162,7 +1162,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="Adv">replacements, successors; replacement, substitute; in turns, in shifts, by turns, alternately; duty, on duty</t>
+       <t pos="Adv">in turns, in shifts, by turns, alternately; duty, on duty</t>
      </tg>
    </mg>
 </e>
@@ -1238,7 +1238,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">алнʼек</l>
+     <l pos="Adv">алнек</l>
      <stg>
        <st Contlex="ADV_">алнʼе•к</st>
      </stg> <stress>алнʼе•к</stress>
@@ -1250,16 +1250,6 @@
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">алнек</l>
-     <stg>
-       <st Contlex="ADV_">алнек</st>
-     </stg> <stress>алне•к</stress>
-   </lg>
-   <mg>
      <tg xml:lang="fin">
        <t pos="Adv">kokonaan</t>
      </tg>
@@ -1731,7 +1721,7 @@
      <stg>
        <st Contlex="ADV_">аркамба•к%{еы%}</st>
        <st Contlex="ADV_">аркамба•к</st>
-     </stg> <stress>аркамба•к(е)</stress>
+     </stg> <stress>аркамба•ке</stress>
    </lg>
    <mg>
      <defNative/>
@@ -1776,11 +1766,11 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">аркамбачын</l>
+     <l pos="Adv">аркамбач</l>
      <stg>
        <st Contlex="ADV_">аркамба•чын</st>
        <st Contlex="ADV_">аркамба•ч</st>
-     </stg> <stress>аркамба•ч(ын)</stress>
+     </stg> <stress>аркамба•ч</stress>
    </lg>
    <mg>
      <defNative/>
@@ -2093,7 +2083,7 @@
      <stg>
        <st Contlex="ADV_">аҥамба•к%{еы%}</st>
        <st Contlex="ADV_">аҥамба•к</st>
-     </stg> <stress>аҥамба•к(е)</stress>
+     </stg> <stress>аҥамба•ке</stress>
    </lg>
    <mg>
      <defNative/>
@@ -2154,11 +2144,11 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">аҥамбачын</l>
+     <l pos="Adv">аҥамбач</l>
      <stg>
        <st Contlex="ADV_">аҥамба•чын</st>
        <st Contlex="ADV_">аҥамба•ч</st>
-     </stg> <stress>аҥамба•ч(ын)</stress>
+     </stg> <stress>аҥамба•ч</stress>
    </lg>
    <mg>
      <defNative/>
@@ -7321,7 +7311,7 @@
    <lg>
      <l pos="Adv">живо</l>
      <stg>
-       <st Contlex="ADV_">жи•во</st>
+       <st Contlex="ADV_">жи•в%{оы%}</st>
      </stg> <stress>жи•во</stress>
    </lg>
    <mg>
@@ -8271,7 +8261,7 @@
    <lg>
      <l pos="Adv">икмочоло</l>
      <stg>
-       <st Contlex="ADV_">икмочо•ло</st>
+       <st Contlex="ADV_">икмочо•л%{оы%}</st>
      </stg> <stress>икмочо•ло</stress>
    </lg>
    <mg>
@@ -8665,7 +8655,7 @@
    <lg>
      <l pos="Adv">иктаж-кушко</l>
      <stg>
-       <st Contlex="ADV_">икта•ж-ку•шко</st>
+       <st Contlex="ADV_">икта•ж-ку•шк%{оы%}</st>
      </stg> <stress>икта•ж-ку•шко</stress>
    </lg>
    <mg>
@@ -8677,7 +8667,7 @@
    <lg>
      <l pos="Adv">иктаж-кушто</l>
      <stg>
-       <st Contlex="ADV_">икта•ж-ку•што</st>
+       <st Contlex="ADV_">икта•ж-ку•шт%{оы%}</st>
      </stg> <stress>икта•ж-ку•што</stress>
    </lg>
    <mg>
@@ -11757,7 +11747,7 @@
    <lg>
      <l pos="Adv">йырве-йорво</l>
      <stg>
-       <st Contlex="ADV_">йы•рве-йо•рво</st>
+       <st Contlex="ADV_">йы•рве-йо•рв%{оы%}</st>
      </stg> <stress>йы•рве-йо•рво</stress>
    </lg>
    <mg>
@@ -17194,7 +17184,7 @@
    <lg>
      <l pos="Adv">керек-кушко</l>
      <stg>
-       <st Contlex="ADV_">кере•к-ку•шко</st>
+       <st Contlex="ADV_">кере•к-ку•шк%{оы%}</st>
      </stg> <stress>кере•к-ку•шко</stress>
    </lg>
    <mg>
@@ -17206,7 +17196,7 @@
    <lg>
      <l pos="Adv">керек-кушто</l>
      <stg>
-       <st Contlex="ADV_">кере•к-ку•што</st>
+       <st Contlex="ADV_">кере•к-ку•шт%{оы%}</st>
      </stg> <stress>кере•к-ку•што</stress>
    </lg>
    <mg>
@@ -17523,7 +17513,7 @@
    <lg>
      <l pos="Adv">кеч-кушко</l>
      <stg>
-       <st Contlex="ADV_">кеч-ку•шко</st>
+       <st Contlex="ADV_">кеч-ку•шк%{оы%}</st>
      </stg> <stress>кеч-ку•шко</stress>
    </lg>
    <mg>
@@ -17535,7 +17525,7 @@
    <lg>
      <l pos="Adv">кеч-кушто</l>
      <stg>
-       <st Contlex="ADV_">кеч-ку•што</st>
+       <st Contlex="ADV_">кеч-ку•шт%{оы%}</st>
      </stg> <stress>кеч-ку•што</stress>
    </lg>
    <mg>
@@ -23202,7 +23192,7 @@
    <lg>
      <l pos="Adv">кумшо</l>
      <stg>
-       <st Contlex="ADV_">ку•мшо</st>
+       <st Contlex="ADV_">ку•мш%{оы%}</st>
      </stg> <stress>ку•мшо</stress>
    </lg>
    <mg>
@@ -23559,7 +23549,7 @@
    <lg>
      <l pos="Adv">кумышто</l>
      <stg>
-       <st Contlex="ADV_">ку•мышто</st>
+       <st Contlex="ADV_">ку•мышт%{оы%}</st>
      </stg> <stress>ку•мышто</stress>
    </lg>
    <mg>
@@ -24399,7 +24389,7 @@
    <lg>
      <l pos="Adv">кушко</l>
      <stg>
-       <st Contlex="ADV_">ку•шко</st>
+       <st Contlex="ADV_">ку•шк%{оы%}</st>
      </stg> <stress>ку•шко</stress>
    </lg>
    <mg>
@@ -24424,7 +24414,7 @@
    <lg>
      <l pos="Adv">кушко-кушко</l>
      <stg>
-       <st Contlex="ADV_">ку•шко-ку•шко</st>
+       <st Contlex="ADV_">ку•шко-ку•шк%{оы%}</st>
      </stg> <stress>ку•шко-ку•шко</stress>
    </lg>
    <mg>
@@ -24529,7 +24519,7 @@
    <lg>
      <l pos="Adv">кушто</l>
      <stg>
-       <st Contlex="ADV_">ку•што</st>
+       <st Contlex="ADV_">ку•шт%{оы%}</st>
      </stg> <stress>ку•што</stress>
    </lg>
    <mg>
@@ -24555,7 +24545,7 @@
    <lg>
      <l pos="Adv">кушто-кушто</l>
      <stg>
-       <st Contlex="ADV_">ку•што-ку•што</st>
+       <st Contlex="ADV_">ку•што-ку•шт%{оы%}</st>
      </stg> <stress>ку•што-ку•што</stress>
    </lg>
    <mg>
@@ -29108,7 +29098,7 @@
    <lg>
      <l pos="Adv">лучо</l>
      <stg>
-       <st Contlex="ADV_">лу•чо</st>
+       <st Contlex="ADV_">лу•ч%{оы%}</st>
      </stg> <stress>лу•чо</stress>
    </lg>
    <mg>
@@ -29603,7 +29593,7 @@
    <lg>
      <l pos="Adv">лыке-луко</l>
      <stg>
-       <st Contlex="ADV_">лы•ке-лу•ко</st>
+       <st Contlex="ADV_">лы•ке-лу•к%{оы%}</st>
      </stg> <stress>лы•ке-лу•ко</stress>
    </lg>
    <mg>
@@ -32116,7 +32106,7 @@
    <lg>
      <l pos="Adv">мочоло</l>
      <stg>
-       <st Contlex="ADV_">мочо•ло</st>
+       <st Contlex="ADV_">мочо•л%{оы%}</st>
      </stg> <stress>мочо•ло</stress>
    </lg>
    <mg>
@@ -32629,7 +32619,7 @@
    <lg>
      <l pos="Adv">мучко</l>
      <stg>
-       <st Contlex="ADV_">му•чко</st>
+       <st Contlex="ADV_">му•чк%{оы%}</st>
      </stg> <stress>му•чко</stress>
    </lg>
    <mg>
@@ -32691,7 +32681,7 @@
    <lg>
      <l pos="Adv">мыге-муго</l>
      <stg>
-       <st Contlex="ADV_">мы•ге-му•го</st>
+       <st Contlex="ADV_">мы•ге-му•г%{оы%}</st>
        <st Contlex="ADV_" status="Err/Orth">мы•ге-му•ге</st>
      </stg> <stress>мы•ге-му•го</stress>
    </lg>
@@ -33688,7 +33678,7 @@
    <lg>
      <l pos="Adv">нигушко</l>
      <stg>
-       <st Contlex="ADV_">нʼигу•шко</st>
+       <st Contlex="ADV_">нʼигу•шк%{оы%}</st>
      </stg> <stress>нʼигу•шко</stress>
    </lg>
    <mg>
@@ -33700,7 +33690,7 @@
    <lg>
      <l pos="Adv">нигушто</l>
      <stg>
-       <st Contlex="ADV_">нʼигу•што</st>
+       <st Contlex="ADV_">нʼигу•шт%{оы%}</st>
      </stg> <stress>нʼигу•што</stress>
    </lg>
    <mg>
@@ -35807,7 +35797,7 @@
    <lg>
      <l pos="Adv">ожно</l>
      <stg>
-       <st Contlex="ADV_">о•жно</st>
+       <st Contlex="ADV_">о•жн%{оы%}</st>
      </stg> <stress>о•жно</stress>
    </lg>
    <mg>
@@ -36784,7 +36774,7 @@
    <lg>
      <l pos="Adv">ончыко</l>
      <stg>
-       <st Contlex="ADV_">о•нчыко</st>
+       <st Contlex="ADV_">о•нчык%{оы%}</st>
      </stg> <stress>о•нчыко</stress>
    </lg>
    <mg>
@@ -37011,7 +37001,7 @@
    <lg>
      <l pos="Adv">ончылно</l>
      <stg>
-       <st Contlex="ADV_">о•нчылно</st>
+       <st Contlex="ADV_">о•нчылн%{оы%}</st>
      </stg> <stress>о•нчылно</stress>
    </lg>
    <mg>
@@ -41434,7 +41424,7 @@
    <lg>
      <l pos="Adv">просто</l>
      <stg>
-       <st Contlex="ADV_">про•сто</st>
+       <st Contlex="ADV_">про•ст%{оы%}</st>
      </stg> <stress>про•сто</stress>
    </lg>
    <mg>
@@ -41938,7 +41928,7 @@
    <lg>
      <l pos="Adv">пылде-полдо</l>
      <stg>
-       <st Contlex="ADV_">пы•лде-по•лдо</st>
+       <st Contlex="ADV_">пы•лде-по•лд%{оы%}</st>
      </stg> <stress>пы•лде-по•лдо</stress>
    </lg>
    <mg>
@@ -46222,7 +46212,7 @@
    <lg>
      <l pos="Adv">сырве-сорво</l>
      <stg>
-       <st Contlex="ADV_">сы•рве-со•рво</st>
+       <st Contlex="ADV_">сы•рве-со•рв%{оы%}</st>
      </stg> <stress>сы•рве-со•рво</stress>
    </lg>
    <mg>
@@ -48617,7 +48607,7 @@
    <lg>
      <l pos="Adv">тожо</l>
      <stg>
-       <st Contlex="ADV_">то•жо</st>
+       <st Contlex="ADV_">то•ж%{оы%}</st>
      </stg> <stress>то•жо</stress>
    </lg>
    <mg>
@@ -51606,7 +51596,7 @@
    <lg>
      <l pos="Adv">тушко</l>
      <stg>
-       <st Contlex="ADV_">ту•шко</st>
+       <st Contlex="ADV_">ту•шк%{оы%}</st>
      </stg> <stress>ту•шко</stress>
    </lg>
    <mg>
@@ -51687,7 +51677,7 @@
    <lg>
      <l hid="Hom1" pos="Adv">тушто</l>
      <stg>
-       <st Contlex="ADV_">ту•што</st>
+       <st Contlex="ADV_">ту•шт%{оы%}</st>
      </stg> <stress>ту•што [1]</stress>
    </lg>
    <mg>
@@ -53160,7 +53150,7 @@
    <lg>
      <l pos="Adv">тырме-тормо</l>
      <stg>
-       <st Contlex="ADV_">ты•рме-то•рмо</st>
+       <st Contlex="ADV_">ты•рме-то•рм%{оы%}</st>
      </stg> <stress>ты•рме-то•рмо</stress>
    </lg>
    <mg>
@@ -53535,7 +53525,7 @@
    <lg>
      <l pos="Adv">тышке-тушко</l>
      <stg>
-       <st Contlex="ADV_">ты•шке-ту•шко</st>
+       <st Contlex="ADV_">ты•шке-ту•шк%{оы%}</st>
      </stg> <stress>ты•шке-ту•шко</stress>
    </lg>
    <mg>
@@ -53643,7 +53633,7 @@
    <lg>
      <l pos="Adv">тыште-тушто</l>
      <stg>
-       <st Contlex="ADV_">ты•ште-ту•што</st>
+       <st Contlex="ADV_">ты•ште-ту•шт%{оы%}</st>
      </stg> <stress>ты•ште-ту•што</stress>
    </lg>
    <mg>
@@ -64616,7 +64606,7 @@
    <lg>
      <l pos="Adv">шойыко</l>
      <stg>
-       <st Contlex="ADV_">шо•йыко</st>
+       <st Contlex="ADV_">шо•йык%{оы%}</st>
      </stg> <stress>шо•йыко</stress>
    </lg>
    <mg>
@@ -64657,7 +64647,7 @@
    <lg>
      <l pos="Adv">шойылко</l>
      <stg>
-       <st Contlex="ADV_">шо•йылко</st>
+       <st Contlex="ADV_">шо•йылк%{оы%}</st>
      </stg> <stress>шо•йылко</stress>
    </lg>
    <mg>
@@ -64683,7 +64673,7 @@
    <lg>
      <l pos="Adv">шойылно</l>
      <stg>
-       <st Contlex="ADV_">шо•йылно</st>
+       <st Contlex="ADV_">шо•йылн%{оы%}</st>
      </stg> <stress>шо•йылно</stress>
    </lg>
    <mg>
@@ -65671,7 +65661,7 @@
    <lg>
      <l pos="Adv">шотдымо</l>
      <stg>
-       <st Contlex="ADV_">шо•тдымо</st>
+       <st Contlex="ADV_">шо•тдым%{оы%}</st>
      </stg> <stress>шо•тдымо</stress>
    </lg>
    <mg>
@@ -66296,7 +66286,7 @@
    <lg>
      <l pos="Adv">шуко</l>
      <stg>
-       <st Contlex="ADV_">шу•ко</st>
+       <st Contlex="ADV_">шу•к%{оы%}</st>
      </stg> <stress>шу•ко</stress>
    </lg>
    <mg>
@@ -66322,7 +66312,7 @@
    <lg>
      <l pos="Adv">шуко-шуко</l>
      <stg>
-       <st Contlex="ADV_">шу•ко-шу•ко</st>
+       <st Contlex="ADV_">шу•ко-шу•к%{оы%}</st>
      </stg> <stress>шу•ко-шу•ко</stress>
    </lg>
    <mg>
@@ -70885,7 +70875,7 @@
    <lg>
      <l pos="Adv">южышко</l>
      <stg>
-       <st Contlex="ADV_">ю•жышко</st>
+       <st Contlex="ADV_">ю•жышк%{оы%}</st>
      </stg> <stress>ю•жышко</stress>
    </lg>
    <mg>
@@ -70911,7 +70901,7 @@
    <lg>
      <l pos="Adv">южышто</l>
      <stg>
-       <st Contlex="ADV_">ю•жышто</st>
+       <st Contlex="ADV_">ю•жышт%{оы%}</st>
      </stg> <stress>ю•жышто</stress>
    </lg>
    <mg>
@@ -70985,7 +70975,7 @@
    <lg>
      <l pos="Adv">юмончылно</l>
      <stg>
-       <st Contlex="ADV_">юмо•нчылно</st>
+       <st Contlex="ADV_">юмо•нчылн%{оы%}</st>
      </stg> <stress>юмо•нчылно</stress>
    </lg>
    <mg>
