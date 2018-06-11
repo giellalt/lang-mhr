@@ -706,6 +706,11 @@
 	"ончаш" V Der/Caus Pass Prc N Sg Nom PxSg3
 	"ончыкташ" V Pass Prc N Sg Nom Foc/Poss
 	"ончыкташ" V Pass Prc N Sg Nom PxSg3
+	"ончыктымо" A Foc/Poss
+	"ончыктымо" Ex/A Der/MWN N Sg Nom Foc/Poss
+	"ончыктымо" Ex/A Der/MWN N Sg Nom PxSg3
+	"ончыктымо" N Sg Nom Foc/Poss
+	"ончыктымо" N Sg Nom PxSg3
 "<,>"
 	"," CLB
 "<марий>"
@@ -736,6 +741,7 @@
 	"шочаш" V Pass Prc N Sg Dat PxSg3 So/NPC
 	"шочме" Ex/A Der/MWN N Sg Dat PxSg3 So/NPC
 	"шочмо" Ex/A Der/MWN N Sg Dat PxSg3 So/NPC
+	"шочмо" N Sg Dat PxSg3 So/NPC
 "<125>"
 	"125" ?
 "<ий>"
@@ -842,6 +848,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<премий>"
 	"премий" N
 	"премий" N Sg Nom
@@ -894,7 +901,6 @@
 "<кандаш>"
 	"кандаш" Num Attr
 "<тӱжем>"
-	"тӱж" Ex/A Der/MWN N Sg Nom PxSg1
 	"тӱжем" Num
 	"тӱжем" Num Sg Nom
 	"тӱжӧ" Ex/A Der/MWN N Sg Nom PxSg1
@@ -932,8 +938,6 @@
 	"пуышо" Hom2 A
 	"пуышо" Hom2 Ex/A Der/MWN N
 	"пуышо" Hom2 Ex/A Der/MWN N Sg Nom
-	"пуышо" Hom2 N
-	"пуышо" Hom2 N Sg Nom
 "<марий>"
 	"марий" A
 	"марий" Ex/A Der/MWN N
@@ -1020,6 +1024,8 @@
 	"кӧрге" Ex/A Der/MWN N Sg Ine
 	"кӧрге" N Sg Ine
 	"кӧргыштӧ" Adv
+	"кӧргӧ" Ex/A Der/MWN N Sg Ine
+	"кӧргӧ" N Sg Ine
 "<,>"
 	"," CLB
 "<тӱнямбал>"
@@ -1412,6 +1418,7 @@
 	"шочаш" V Pass Prc N Sg Dat PxSg3 So/NPC
 	"шочме" Ex/A Der/MWN N Sg Dat PxSg3 So/NPC
 	"шочмо" Ex/A Der/MWN N Sg Dat PxSg3 So/NPC
+	"шочмо" N Sg Dat PxSg3 So/NPC
 "<80>"
 	"80" ?
 "<ий>"
@@ -1577,8 +1584,6 @@
 	"пуышо" Hom2 A
 	"пуышо" Hom2 Ex/A Der/MWN N
 	"пуышо" Hom2 Ex/A Der/MWN N Sg Nom
-	"пуышо" Hom2 N
-	"пуышо" Hom2 N Sg Nom
 "<поэт>"
 	"поэт" N
 	"поэт" N Sg Nom
@@ -1943,6 +1948,9 @@
 "<икмыняр>"
 	"икмыняр" Adv
 	"икмыняр" Pron Ind
+	"икмыняре" A
+	"икмыняре" Ex/A Der/MWN N
+	"икмыняре" Ex/A Der/MWN N Sg Nom
 "<лӱмгечыжым>"
 	"лӱмгече" N Sg Acc PxSg3 So/NPC
 "<удан>"
@@ -3298,7 +3306,7 @@
 "<.>"
 	"." CLB
 "<Моланжым>"
-	"Моланжым" ?
+	"моло" Ex/N Der/Poss Ex/A Der/MWN N Sg Acc PxSg3 So/NPC
 "<рашемдаш>"
 	"рашемдаш" V Inf
 "<тӧчен>"
@@ -3510,6 +3518,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<«>"
 	"«" ?
 "<поэтын>"
@@ -3568,6 +3577,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<аксакална>"
 	"аксакална" ?
 "<,>"
@@ -3602,6 +3612,9 @@
 	"шого" Ex/A Der/MWN Ex/N Der/Priv Ex/A Der/MWN N
 	"шого" Ex/A Der/MWN Ex/N Der/Priv Ex/A Der/MWN N Sg Nom
 	"шого" Ex/A Der/MWN N Der/Priv A
+	"шого" Hom2 Ex/A Der/MWN Ex/N Der/Priv Ex/A Der/MWN N
+	"шого" Hom2 Ex/A Der/MWN Ex/N Der/Priv Ex/A Der/MWN N Sg Nom
+	"шого" Hom2 Ex/A Der/MWN N Der/Priv A
 	"шогыдымо" A
 	"шогыдымо" Ex/A Der/MWN N
 	"шогыдымо" Ex/A Der/MWN N Sg Nom
@@ -4963,9 +4976,9 @@
 "<дене>"
 	"дене" Po
 "<илен>"
-	"илʼе" Ex/A Der/MWN N Sg Gen
 	"илаш" V Ger Gen
 	"илаш" V Ind Prt2 Sg3
+	"иле" Ex/A Der/MWN N Sg Gen
 "<да>"
 	"да" CC
 	"да" Interj
@@ -4980,6 +4993,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<профессий>"
 	"профессий" N
 	"профессий" N Sg Nom
@@ -5114,7 +5128,6 @@
 	"ончыкыжым" Adv
 "<куштылго>"
 	"куштылго" A
-	"куштылго" Adv
 	"куштылго" Ex/A Der/MWN N
 	"куштылго" Ex/A Der/MWN N Sg Nom
 	"куштылго" N
@@ -5195,6 +5208,9 @@
 "<икмыняр>"
 	"икмыняр" Adv
 	"икмыняр" Pron Ind
+	"икмыняре" A
+	"икмыняре" Ex/A Der/MWN N
+	"икмыняре" Ex/A Der/MWN N Sg Nom
 "<тылзе>"
 	"тылзе" N
 	"тылзе" N Sg Nom
@@ -5651,6 +5667,7 @@
 "<ончыкыла>"
 	"ончыке" Adv Weak
 	"ончыке" Po Weak
+	"ончыко" Adv Weak
 	"ончыкыла" Adv
 "<виктарен>"
 	"виктараш" V Ger Gen
@@ -5910,17 +5927,13 @@
 "<,>"
 	"," CLB
 "<ош>"
-	"ош" A
-	"ош" Ex/A Der/MWN N
-	"ош" Ex/A Der/MWN N Sg Nom
+	"ош" ?
 "<пӧрт-влак>"
 	"пӧрт" N Pl Nom
 "<.>"
 	"." CLB
 "<Ош>"
-	"ош" A
-	"ош" Ex/A Der/MWN N
-	"ош" Ex/A Der/MWN N Sg Nom
+	"Ош" ?
 "<ола>"
 	"ола" A
 	"ола" Ex/A Der/MWN N
@@ -6116,6 +6129,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<могырыш>"
 	"могыр" N Sg Ill
 	"могырыш" Po
@@ -6266,7 +6280,6 @@
 	"почаш" V Inf Foc/at
 "<куштылго>"
 	"куштылго" A
-	"куштылго" Adv
 	"куштылго" Ex/A Der/MWN N
 	"куштылго" Ex/A Der/MWN N Sg Nom
 	"куштылго" N
@@ -6374,6 +6387,7 @@
 	"туш" Hom3 N Sg Ine Foc/Poss
 	"тушташ" V Imprt Sg3
 	"тушто" Adv Foc/Poss
+	"тушто" Hom1 Adv Foc/Poss
 	"тушто" Hom2 N Sg Nom Foc/Poss
 	"тушто" Hom2 N Sg Nom PxSg3
 "<лачшымак>"
@@ -6443,6 +6457,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<омсаш>"
 	"омса" N Sg Ill
 	"омса" N Sg Lat
@@ -6559,6 +6574,9 @@
 "<икмыняр>"
 	"икмыняр" Adv
 	"икмыняр" Pron Ind
+	"икмыняре" A
+	"икмыняре" Ex/A Der/MWN N
+	"икмыняре" Ex/A Der/MWN N Sg Nom
 "<кагазеш>"
 	"кагаз" Ex/A Der/MWN N Sg Lat
 	"кагаз" N Sg Lat
@@ -6688,7 +6706,7 @@
 "<Кызытеш>"
 	"кызытеш" Adv
 "<мӧҥгыда>"
-	"мӧҥгыда" ?
+	"мӧҥгӧ" N Sg Nom PxPl2
 "<.>"
 	"." CLB
 "<Кок>"
@@ -7024,6 +7042,10 @@
 "<?>"
 	"?" CLB
 "<Нимо>"
+	"нʼимо" A
+	"нʼимо" Ex/A Der/MWN N
+	"нʼимо" Ex/A Der/MWN N Sg Nom
+	"нимо" Adv
 	"нимо" Pron Ind Sg Nom
 "<денат>"
 	"дене" Po Foc/at
@@ -7095,11 +7117,11 @@
 "<дене>"
 	"дене" Po
 "<иле>"
-	"илʼе" A
-	"илʼе" Ex/A Der/MWN N
-	"илʼе" Ex/A Der/MWN N Sg Nom
 	"илаш" V ConNeg
 	"илаш" V Imprt Sg2
+	"иле" A
+	"иле" Ex/A Der/MWN N
+	"иле" Ex/A Der/MWN N Sg Nom
 "<.>"
 	"." CLB
 "<Вара>"
@@ -7149,7 +7171,7 @@
 	"ала" Interj
 	"алаш" V Ind Prs Sg3
 "<иктаж-мом>"
-	"иктаж-мо" Ex/A Der/MWN N Sg Acc
+	"иктаж-мом" ?
 "<шонен>"
 	"шонаш" V Ger Gen
 	"шонаш" V Ind Prt2 Sg3
@@ -7193,6 +7215,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<абитуриентын>"
 	"абитуриент" N Sg Gen
 "<документ-влакшым>"
@@ -7579,11 +7602,11 @@
 "<кызытеш>"
 	"кызытеш" Adv
 "<иле>"
-	"илʼе" A
-	"илʼе" Ex/A Der/MWN N
-	"илʼе" Ex/A Der/MWN N Sg Nom
 	"илаш" V ConNeg
 	"илаш" V Imprt Sg2
+	"иле" A
+	"иле" Ex/A Der/MWN N
+	"иле" Ex/A Der/MWN N Sg Nom
 "<...>"
 	"..." CLB
 "<»>"
@@ -7698,9 +7721,9 @@
 	"кушто" Adv
 	"кушто" Pron
 "<илен>"
-	"илʼе" Ex/A Der/MWN N Sg Gen
 	"илаш" V Ger Gen
 	"илаш" V Ind Prt2 Sg3
+	"иле" Ex/A Der/MWN N Sg Gen
 "<лекташ>"
 	"лекташ" V Inf
 "<?>"
@@ -7788,6 +7811,7 @@
 	"йӧсе" N Sg Gen
 	"йӧсын" Adv
 	"йӧсӧ" Ex/A Der/MWN N Sg Gen
+	"йӧсӧ" N Sg Gen
 "<темда>"
 	"темаш" V Ind Prt1 Pl2
 	"темдаш" V Ind Prs Sg3
@@ -7868,7 +7892,8 @@
 	"иктаж-кӧ" Pron
 	"иктаж-кӧ" Pron Ind
 "<мӧҥгыжӧ>"
-	"мӧҥге" Adv Foc/Poss
+	"мӧҥгӧ" N Sg Nom Foc/Poss
+	"мӧҥгӧ" N Sg Nom PxSg3
 "<пурта>"
 	"пурташ" V Ind Prs Sg3
 "<?>"
@@ -8146,6 +8171,8 @@
 	"кӧрге" Ex/A Der/MWN N Sg Ill Foc/at
 	"кӧрге" N Sg Ill Foc/at
 	"кӧргышке" Adv Foc/at
+	"кӧргӧ" Ex/A Der/MWN N Sg Ill Foc/at
+	"кӧргӧ" N Sg Ill Foc/at
 "<пурен>"
 	"пураш" V Ger Gen
 	"пураш" V Ind Prt2 Sg3
@@ -8168,6 +8195,7 @@
 "<тушкыла>"
 	"ту" Hom2 N Sg Ill Weak
 	"ту" Hom3 N Sg Ill Weak
+	"тушко" Adv Weak
 	"тушкыла" Adv
 "<ошкыльо>"
 	"ошкылаш" V Ind Prt1 Sg3
@@ -8347,6 +8375,9 @@
 "<улыс>"
 	"уле" A Foc/ys
 	"уле" Ex/A Der/MWN N Sg Nom Foc/ys
+	"уло" A Foc/ys
+	"уло" Ex/A Der/MWN N Sg Nom Foc/ys
+	"уло" N Sg Nom Foc/ys
 "<.>"
 	"." CLB
 "<Мӧҥгӧ>"
@@ -8493,6 +8524,8 @@
 "<улыда>"
 	"улаш" V Ind Prs Pl2
 	"уле" Ex/A Der/MWN N Sg Nom PxPl2
+	"уло" Ex/A Der/MWN N Sg Nom PxPl2
+	"уло" N Sg Nom PxPl2
 "<?>"
 	"?" CLB
 "<Виса>"
@@ -8610,6 +8643,8 @@
 "<улына>"
 	"улаш" V Ind Prs Pl1
 	"уле" Ex/A Der/MWN N Sg Nom PxPl1
+	"уло" Ex/A Der/MWN N Sg Nom PxPl1
+	"уло" N Sg Nom PxPl1
 "<.>"
 	"." CLB
 "<А>"
@@ -8637,6 +8672,9 @@
 	"улаш" V Ind Prs Sg2
 	"уле" A Foc/at
 	"уле" Ex/A Der/MWN N Sg Nom Foc/at
+	"уло" A Foc/at
+	"уло" Ex/A Der/MWN N Sg Nom Foc/at
+	"уло" N Sg Nom Foc/at
 "<?>"
 	"?" CLB
 "<—>"
@@ -9204,6 +9242,9 @@
 	"шого" A Foc/Poss
 	"шого" Ex/A Der/MWN N Sg Nom Foc/Poss
 	"шого" Ex/A Der/MWN N Sg Nom PxSg3
+	"шого" Hom2 A Foc/Poss
+	"шого" Hom2 Ex/A Der/MWN N Sg Nom Foc/Poss
+	"шого" Hom2 Ex/A Der/MWN N Sg Nom PxSg3
 "<,>"
 	"," CLB
 "<тӱняште>"
@@ -10379,6 +10420,8 @@
 "<улыда>"
 	"улаш" V Ind Prs Pl2
 	"уле" Ex/A Der/MWN N Sg Nom PxPl2
+	"уло" Ex/A Der/MWN N Sg Nom PxPl2
+	"уло" N Sg Nom PxPl2
 "<,>"
 	"," CLB
 "<вӱдшӧ>"
@@ -10433,6 +10476,9 @@
 "<.>"
 	"." CLB
 "<Нимогай>"
+	"нʼимогай" A
+	"нʼимогай" Ex/A Der/MWN N
+	"нʼимогай" Ex/A Der/MWN N Sg Nom
 	"нимогай" A
 	"нимогай" Ex/A Der/MWN N
 	"нимогай" Ex/A Der/MWN N Sg Nom
@@ -10442,6 +10488,9 @@
 "<,>"
 	"," CLB
 "<нимогай>"
+	"нʼимогай" A
+	"нʼимогай" Ex/A Der/MWN N
+	"нʼимогай" Ex/A Der/MWN N Sg Nom
 	"нимогай" A
 	"нимогай" Ex/A Der/MWN N
 	"нимогай" Ex/A Der/MWN N Sg Nom
@@ -10540,6 +10589,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<курык>"
 	"курык" N
 	"курык" N Sg Nom
@@ -10786,6 +10836,7 @@
 "<куштылгын>"
 	"куштылге" Ex/A Der/MWN N Sg Gen
 	"куштылго" Ex/A Der/MWN N Sg Gen
+	"куштылго" N Sg Gen
 	"куштылгын" Adv
 "<чучаш>"
 	"чучаш" V Inf
@@ -10925,9 +10976,7 @@
 "<...>"
 	"..." CLB
 "<Ош>"
-	"ош" A
-	"ош" Ex/A Der/MWN N
-	"ош" Ex/A Der/MWN N Sg Nom
+	"Ош" ?
 "<тӱняшке>"
 	"тӱня" N Sg Ill
 "<толшо>"
@@ -11155,6 +11204,10 @@
 	"тыгодымак" Adv
 	"тыгодымак" Pron
 "<нимо>"
+	"нʼимо" A
+	"нʼимо" Ex/A Der/MWN N
+	"нʼимо" Ex/A Der/MWN N Sg Nom
+	"нимо" Adv
 	"нимо" Pron Ind Sg Nom
 "<деч>"
 	"деч" Po
@@ -11194,6 +11247,7 @@
 	"курым" N Sg Nom
 "<ожнак>"
 	"ожне" Adv Foc/ak
+	"ожно" Adv Foc/ak
 "<мыйын>"
 	"мый" Pron Pers Sg1 Gen
 "<кугезе>"
@@ -11277,6 +11331,9 @@
 "<икмыняр>"
 	"икмыняр" Adv
 	"икмыняр" Pron Ind
+	"икмыняре" A
+	"икмыняре" Ex/A Der/MWN N
+	"икмыняре" Ex/A Der/MWN N Sg Nom
 "<палдарынем>"
 	"палдараш" V Des Prs Sg1
 "<.>"
@@ -11597,6 +11654,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<пошкудем>"
 	"пошкудо" N Sg Nom PxSg1
 "<—>"
@@ -11648,9 +11706,8 @@
 	"черемис" N
 	"черемис" N Sg Nom
 "<сарым>"
-	"сар" Ex/A Der/MWN N Sg Acc
 	"сар" Hom1 N Sg Acc
-	"саре" Ex/A Der/MWN N Sg Acc
+	"саре" Hom2 Ex/A Der/MWN N Sg Acc
 "<,>"
 	"," CLB
 "<пызыралмеке>"
@@ -12346,11 +12403,11 @@
 	"ок" V Neg Ind Prs Pl3
 	"ок" V Neg Ind Prs Sg2 Indep
 "<иле>"
-	"илʼе" A
-	"илʼе" Ex/A Der/MWN N
-	"илʼе" Ex/A Der/MWN N Sg Nom
 	"илаш" V ConNeg
 	"илаш" V Imprt Sg2
+	"иле" A
+	"иле" Ex/A Der/MWN N
+	"иле" Ex/A Der/MWN N Sg Nom
 "<?>"
 	"?" CLB
 "<Адакше>"
@@ -12546,7 +12603,7 @@
 "<,>"
 	"," CLB
 "<илемым>"
-	"илʼе" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
+	"иле" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
 	"илем" N Sg Acc
 	"илемаш" V Ind Prt1 Sg1
 "<ончыктен>"
@@ -12626,9 +12683,9 @@
 "<,>"
 	"," CLB
 "<илем>"
-	"илʼе" Ex/A Der/MWN N Sg Acc
-	"илʼе" Ex/A Der/MWN N Sg Nom PxSg1
 	"илаш" V Ind Prs Sg1
+	"иле" Ex/A Der/MWN N Sg Acc
+	"иле" Ex/A Der/MWN N Sg Nom PxSg1
 	"илем" N
 	"илем" N Sg Nom
 	"илемаш" V ConNeg
@@ -12853,6 +12910,7 @@
 	"тулеч" Pron
 "<ожныжо>"
 	"ожне" Adv Foc/Poss
+	"ожно" Adv Foc/Poss
 "<пӱтынь>"
 	"пӱтынь" A
 	"пӱтынь" Adv
@@ -12881,9 +12939,9 @@
 "<посна-посна>"
 	"посна-посна" Adv
 "<илем>"
-	"илʼе" Ex/A Der/MWN N Sg Acc
-	"илʼе" Ex/A Der/MWN N Sg Nom PxSg1
 	"илаш" V Ind Prs Sg1
+	"иле" Ex/A Der/MWN N Sg Acc
+	"иле" Ex/A Der/MWN N Sg Nom PxSg1
 	"илем" N
 	"илем" N Sg Nom
 	"илемаш" V ConNeg
@@ -12898,9 +12956,9 @@
 "<Кажне>"
 	"кажне" Pron Ind
 "<илем>"
-	"илʼе" Ex/A Der/MWN N Sg Acc
-	"илʼе" Ex/A Der/MWN N Sg Nom PxSg1
 	"илаш" V Ind Prs Sg1
+	"иле" Ex/A Der/MWN N Sg Acc
+	"иле" Ex/A Der/MWN N Sg Nom PxSg1
 	"илем" N
 	"илем" N Sg Nom
 	"илемаш" V ConNeg
@@ -12938,7 +12996,7 @@
 "<.>"
 	"." CLB
 "<Илемым>"
-	"илʼе" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
+	"иле" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
 	"илем" N Sg Acc
 	"илемаш" V Ind Prt1 Sg1
 "<тунам>"
@@ -13162,6 +13220,9 @@
 	"вер" N LocPl Ine
 	"верлаште" Adv
 "<нимогай>"
+	"нʼимогай" A
+	"нʼимогай" Ex/A Der/MWN N
+	"нʼимогай" Ex/A Der/MWN N Sg Nom
 	"нимогай" A
 	"нимогай" Ex/A Der/MWN N
 	"нимогай" Ex/A Der/MWN N Sg Nom
@@ -13171,10 +13232,11 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<илемат>"
-	"илʼе" Ex/A Der/MWN N Sg Acc Foc/at
-	"илʼе" Ex/A Der/MWN N Sg Nom PxSg1 Foc/at
 	"илаш" V Ind Prs Sg1 Foc/at
+	"иле" Ex/A Der/MWN N Sg Acc Foc/at
+	"иле" Ex/A Der/MWN N Sg Nom PxSg1 Foc/at
 	"илем" N Sg Nom Foc/at
 	"илемаш" V Ind Prs Sg2
 "<лийын>"
@@ -13291,7 +13353,7 @@
 "<.>"
 	"." CLB
 "<Илемым>"
-	"илʼе" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
+	"иле" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
 	"илем" N Sg Acc
 	"илемаш" V Ind Prt1 Sg1
 "<,>"
@@ -13467,6 +13529,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<легенде>"
 	"легенде" N
 	"легенде" N Sg Nom
@@ -13651,7 +13714,7 @@
 	"руш" Ex/A Der/MWN N Pl Nom
 	"руш" N Pl Nom
 "<илемым>"
-	"илʼе" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
+	"иле" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
 	"илем" N Sg Acc
 	"илемаш" V Ind Prt1 Sg1
 "<Руш>"
@@ -13692,9 +13755,8 @@
 	"тӱнямбал" N
 	"тӱнямбал" N Sg Nom
 "<сарын>"
-	"сар" Ex/A Der/MWN N Sg Gen
 	"сар" Hom1 N Sg Gen
-	"саре" Ex/A Der/MWN N Sg Gen
+	"саре" Hom2 Ex/A Der/MWN N Sg Gen
 	"сарын" Adv
 "<участникше>"
 	"участник" N Sg Nom Foc/Poss
@@ -13875,6 +13937,8 @@
 	"кызыт" Adv Foc/Poss
 "<улыжат>"
 	"уле" Ex/A Der/MWN N Sg Nom PxSg3 Foc/at
+	"уло" Ex/A Der/MWN N Sg Nom PxSg3 Foc/at
+	"уло" N Sg Nom PxSg3 Foc/at
 	"улыже" A Foc/at
 	"улыже" Adv Foc/at
 	"улыже" Ex/A Der/MWN N Sg Nom Foc/at
@@ -14038,6 +14102,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<верыш>"
 	"вер" N Sg Ill
 "<тарванашышт>"
@@ -14407,6 +14472,9 @@
 	"улак" N Sg Nom
 	"уле" A Foc/ak
 	"уле" Ex/A Der/MWN N Sg Nom Foc/ak
+	"уло" A Foc/ak
+	"уло" Ex/A Der/MWN N Sg Nom Foc/ak
+	"уло" N Sg Nom Foc/ak
 "<да>"
 	"да" CC
 	"да" Interj
@@ -14440,6 +14508,7 @@
 	"мӧҥгеш" Adv
 	"мӧҥгеш" Ex/A Der/MWN N
 	"мӧҥгеш" Ex/A Der/MWN N Sg Nom
+	"мӧҥгӧ" N Sg Lat
 "<пӧртылын>"
 	"пӧртылаш" V Ger Gen
 	"пӧртылаш" V Ind Prt2 Sg3
@@ -14513,6 +14582,7 @@
 	"тӱрлаш" V Imprt Sg3 Foc/at
 	"тӱрле" Ex/A Der/MWN N Sg Nom PxSg3 Foc/at
 	"тӱрлӧ" Ex/A Der/MWN N Sg Nom PxSg3 Foc/at
+	"тӱрлӧ" N Sg Nom PxSg3 Foc/at
 "<лиеден>"
 	"лиедаш" V Ger Gen
 	"лиедаш" V Ind Prt2 Sg3
@@ -14535,6 +14605,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<вере>"
 	"вере" Adv
 	"вере" Po
@@ -14548,7 +14619,7 @@
 "<,>"
 	"," CLB
 "<илемым>"
-	"илʼе" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
+	"иле" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
 	"илем" N Sg Acc
 	"илемаш" V Ind Prt1 Sg1
 "<почын>"
@@ -14573,7 +14644,7 @@
 "<родо-тукымыштын>"
 	"родо-тукым" N Sg Gen PxPl3 So/PC
 "<илемым>"
-	"илʼе" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
+	"иле" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
 	"илем" N Sg Acc
 	"илемаш" V Ind Prt1 Sg1
 "<тиде>"
@@ -14735,7 +14806,7 @@
 	"марий" N
 	"марий" N Sg Nom
 "<илем-влак>"
-	"илʼе" Ex/A Der/MWN N Pl Nom PxSg1 So/PN
+	"иле" Ex/A Der/MWN N Pl Nom PxSg1 So/PN
 	"илем" N Pl Nom
 "<деч>"
 	"деч" Po
@@ -15100,7 +15171,7 @@
 	"изирак" Ex/A Der/MWN N
 	"изирак" Ex/A Der/MWN N Sg Nom
 "<илемым>"
-	"илʼе" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
+	"иле" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
 	"илем" N Sg Acc
 	"илемаш" V Ind Prt1 Sg1
 "<толашышт>"
@@ -15784,9 +15855,6 @@
 	"пӧрт" N
 	"пӧрт" N Sg Nom
 "<шеме>"
-	"шем(е)" A
-	"шем(е)" Ex/A Der/MWN N
-	"шем(е)" Ex/A Der/MWN N Sg Nom
 	"шеме" A
 	"шеме" Ex/A Der/MWN N
 	"шеме" Ex/A Der/MWN N Sg Nom
@@ -15803,6 +15871,9 @@
 	"мо" Pron Interr Sg Dat
 	"мо" Pron Rel Sg Dat
 	"молан" Adv
+	"моло" Ex/N Der/Poss Ex/A Der/MWN N
+	"моло" Ex/N Der/Poss Ex/A Der/MWN N Sg Nom
+	"моло" N Der/Poss A
 "<манаш>"
 	"манаш" V Inf
 "<гын>"
@@ -15932,8 +16003,6 @@
 "<,>"
 	"," CLB
 "<пила>"
-	"пи" N LocPl Nom
-	"пи" N Sg Cmpr
 	"пила" N
 	"пила" N Sg Nom
 "<тунам>"
@@ -16353,9 +16422,9 @@
 	"уаш" Hom2 V ConNeg
 	"уаш" Hom2 V Imprt Sg2
 "<илем>"
-	"илʼе" Ex/A Der/MWN N Sg Acc
-	"илʼе" Ex/A Der/MWN N Sg Nom PxSg1
 	"илаш" V Ind Prs Sg1
+	"иле" Ex/A Der/MWN N Sg Acc
+	"иле" Ex/A Der/MWN N Sg Nom PxSg1
 	"илем" N
 	"илем" N Sg Nom
 	"илемаш" V ConNeg
@@ -16435,6 +16504,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<шошымжо>"
 	"шоше" Ex/A Der/MWN N Sg Acc Foc/Poss
 	"шошо" N Sg Acc Foc/Poss
@@ -16741,6 +16811,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<кеҥежымже>"
 	"кеҥеж" Ex/A Der/MWN N Sg Acc Foc/Poss
 	"кеҥеж" N Sg Acc Foc/Poss
@@ -16763,7 +16834,7 @@
 	"посна" Ex/A Der/MWN N Sg Nom
 	"посна" Po
 "<илемым>"
-	"илʼе" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
+	"иле" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
 	"илем" N Sg Acc
 	"илемаш" V Ind Prt1 Sg1
 "<да>"
@@ -16929,6 +17000,7 @@
 "<нигунамат>"
 	"нигунам" Adv Foc/at
 	"нигунам" Pron Ind Foc/at
+	"нигунамат" Adv
 	"нигунамат" Pron Ind
 "<ӱчашымаш>"
 	"ӱчашаш" V Der/Nom N
@@ -17108,6 +17180,9 @@
 "<икмыняр>"
 	"икмыняр" Adv
 	"икмыняр" Pron Ind
+	"икмыняре" A
+	"икмыняре" Ex/A Der/MWN N
+	"икмыняре" Ex/A Der/MWN N Sg Nom
 "<ий>"
 	"ий" Hom1 N
 	"ий" Hom1 N Sg Nom
@@ -17260,9 +17335,9 @@
 	"уаш" Hom2 V ConNeg
 	"уаш" Hom2 V Imprt Sg2
 "<илем>"
-	"илʼе" Ex/A Der/MWN N Sg Acc
-	"илʼе" Ex/A Der/MWN N Sg Nom PxSg1
 	"илаш" V Ind Prs Sg1
+	"иле" Ex/A Der/MWN N Sg Acc
+	"иле" Ex/A Der/MWN N Sg Nom PxSg1
 	"илем" N
 	"илем" N Sg Nom
 	"илемаш" V ConNeg
@@ -17276,6 +17351,9 @@
 "<Икмыняр>"
 	"икмыняр" Adv
 	"икмыняр" Pron Ind
+	"икмыняре" A
+	"икмыняре" Ex/A Der/MWN N
+	"икмыняре" Ex/A Der/MWN N Sg Nom
 "<жап>"
 	"жап" N
 	"жап" N Sg Nom
@@ -17307,9 +17385,9 @@
 	"лишыл" N
 	"лишыл" N Sg Nom
 "<илем>"
-	"илʼе" Ex/A Der/MWN N Sg Acc
-	"илʼе" Ex/A Der/MWN N Sg Nom PxSg1
 	"илаш" V Ind Prs Sg1
+	"иле" Ex/A Der/MWN N Sg Acc
+	"иле" Ex/A Der/MWN N Sg Nom PxSg1
 	"илем" N
 	"илем" N Sg Nom
 	"илемаш" V ConNeg
@@ -17348,9 +17426,9 @@
 "<Йӱлетӱр>"
 	"Йӱлетӱр" ?
 "<илем>"
-	"илʼе" Ex/A Der/MWN N Sg Acc
-	"илʼе" Ex/A Der/MWN N Sg Nom PxSg1
 	"илаш" V Ind Prs Sg1
+	"иле" Ex/A Der/MWN N Sg Acc
+	"иле" Ex/A Der/MWN N Sg Nom PxSg1
 	"илем" N
 	"илем" N Sg Nom
 	"илемаш" V ConNeg
@@ -17369,6 +17447,7 @@
 	"вес" Ex/A Der/MWN N
 	"вес" Ex/A Der/MWN N Sg Nom
 	"вес" Pron Ind
+	"весе" A Attr
 "<тукым>"
 	"тукым" N
 	"тукым" N Sg Nom
@@ -17425,9 +17504,9 @@
 	"уаш" Hom2 V ConNeg
 	"уаш" Hom2 V Imprt Sg2
 "<илем>"
-	"илʼе" Ex/A Der/MWN N Sg Acc
-	"илʼе" Ex/A Der/MWN N Sg Nom PxSg1
 	"илаш" V Ind Prs Sg1
+	"иле" Ex/A Der/MWN N Sg Acc
+	"иле" Ex/A Der/MWN N Sg Nom PxSg1
 	"илем" N
 	"илем" N Sg Nom
 	"илемаш" V ConNeg
@@ -17738,6 +17817,8 @@
 "<улеш>"
 	"улаш" V Ind Prs Sg3
 	"уле" Ex/A Der/MWN N Sg Lat
+	"уло" Ex/A Der/MWN N Sg Lat
+	"уло" N Sg Lat
 "<гынат>"
 	"гын" Interj Foc/at
 	"гына" Adv Foc/at
@@ -17792,6 +17873,7 @@
 "<нигунамат>"
 	"нигунам" Adv Foc/at
 	"нигунам" Pron Ind Foc/at
+	"нигунамат" Adv
 	"нигунамат" Pron Ind
 "<лийын>"
 	"лийын" Po
@@ -18315,7 +18397,7 @@
 	"уаш" Hom2 V ConNeg
 	"уаш" Hom2 V Imprt Sg2
 "<илемым>"
-	"илʼе" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
+	"иле" Ex/A Der/MWN N Sg Acc PxSg1 So/PC
 	"илем" N Sg Acc
 	"илемаш" V Ind Prt1 Sg1
 "<почын>"
@@ -18563,9 +18645,9 @@
 	"олмо" N
 	"олмо" N Sg Nom
 "<илем>"
-	"илʼе" Ex/A Der/MWN N Sg Acc
-	"илʼе" Ex/A Der/MWN N Sg Nom PxSg1
 	"илаш" V Ind Prs Sg1
+	"иле" Ex/A Der/MWN N Sg Acc
+	"иле" Ex/A Der/MWN N Sg Nom PxSg1
 	"илем" N
 	"илем" N Sg Nom
 	"илемаш" V ConNeg
@@ -18696,6 +18778,8 @@
 	"деч" Po
 "<улыжат>"
 	"уле" Ex/A Der/MWN N Sg Nom PxSg3 Foc/at
+	"уло" Ex/A Der/MWN N Sg Nom PxSg3 Foc/at
+	"уло" N Sg Nom PxSg3 Foc/at
 	"улыже" A Foc/at
 	"улыже" Adv Foc/at
 	"улыже" Ex/A Der/MWN N Sg Nom Foc/at
@@ -18988,6 +19072,8 @@
 "<ончыктымым>"
 	"ончаш" V Der/Caus Pass Prc N Sg Acc
 	"ончыкташ" V Pass Prc N Sg Acc
+	"ончыктымо" Ex/A Der/MWN N Sg Acc
+	"ончыктымо" N Sg Acc
 "<ужаш>"
 	"ужа" N Sg Ill
 	"ужа" N Sg Lat
@@ -19229,6 +19315,8 @@
 	"," CLB
 "<улыжат>"
 	"уле" Ex/A Der/MWN N Sg Nom PxSg3 Foc/at
+	"уло" Ex/A Der/MWN N Sg Nom PxSg3 Foc/at
+	"уло" N Sg Nom PxSg3 Foc/at
 	"улыже" A Foc/at
 	"улыже" Adv Foc/at
 	"улыже" Ex/A Der/MWN N Sg Nom Foc/at
@@ -19856,6 +19944,7 @@
 "<шукырак>"
 	"шуке" A Comp
 	"шуко" A Comp
+	"шуко" Adv Comp
 	"шукырак" A
 	"шукырак" Adv
 	"шукырак" Ex/A Der/MWN N
@@ -19915,6 +20004,7 @@
 "<,>"
 	"," CLB
 "<нимом>"
+	"нʼимо" Ex/A Der/MWN N Sg Acc
 	"нимо" Pron Ind Sg Acc
 "<вашештен>"
 	"вашешташ" V Ger Gen
@@ -20392,6 +20482,7 @@
 "<кочкаш>"
 	"кочкаш" V Inf
 "<нимом>"
+	"нʼимо" Ex/A Der/MWN N Sg Acc
 	"нимо" Pron Ind Sg Acc
 "<налын>"
 	"налаш" V Ger Gen
@@ -20439,9 +20530,7 @@
 	"шучко" N
 	"шучко" N Sg Nom
 "<шем>"
-	"шем" A
-	"шем" Ex/A Der/MWN N
-	"шем" Ex/A Der/MWN N Sg Nom
+	"шеме" A Attr
 "<вӱдшӧ>"
 	"вӱд" N Sg Nom Foc/Poss
 	"вӱд" N Sg Nom PxSg3
@@ -20633,9 +20722,9 @@
 	"кугыза" N
 	"кугыза" N Sg Nom
 "<илен>"
-	"илʼе" Ex/A Der/MWN N Sg Gen
 	"илаш" V Ger Gen
 	"илаш" V Ind Prt2 Sg3
+	"иле" Ex/A Der/MWN N Sg Gen
 "<.>"
 	"." CLB
 "<Тудо>"
@@ -20736,6 +20825,8 @@
 	"шогаш" V Ind Prs Pl3
 	"шого" A Foc/at
 	"шого" Ex/A Der/MWN N Sg Nom Foc/at
+	"шого" Hom2 A Foc/at
+	"шого" Hom2 Ex/A Der/MWN N Sg Nom Foc/at
 "<.>"
 	"." CLB
 "<А>"
@@ -20884,6 +20975,7 @@
 "<шогыш>"
 	"шогаш" V Ind Prt1 Sg3
 	"шого" Ex/A Der/MWN N Sg Ill
+	"шого" Hom2 Ex/A Der/MWN N Sg Ill
 "<,>"
 	"," CLB
 "<но>"
@@ -20909,9 +21001,7 @@
 	"ерысе" Ex/A Der/MWN N
 	"ерысе" Ex/A Der/MWN N Sg Nom
 "<шем>"
-	"шем" A
-	"шем" Ex/A Der/MWN N
-	"шем" Ex/A Der/MWN N Sg Nom
+	"шеме" A Attr
 "<вӱдеш>"
 	"вӱд" N Sg Lat
 "<йомо>"
@@ -20931,6 +21021,7 @@
 	"воктене" Adv
 	"воктене" Po
 "<нимом>"
+	"нʼимо" Ex/A Der/MWN N Sg Acc
 	"нимо" Pron Ind Sg Acc
 "<ышташ>"
 	"ышташ" V Inf
@@ -22669,6 +22760,7 @@
 "<.>"
 	"." CLB
 "<Нимом>"
+	"нʼимо" Ex/A Der/MWN N Sg Acc
 	"нимо" Pron Ind Sg Acc
 "<ышташ>"
 	"ышташ" V Inf
@@ -22936,7 +23028,6 @@
 	"шӧргаш" N Sg Nom
 	"шӧргаш" V Inf
 "<пижын>"
-	"пи" N Sg Gen PxSg3 So/NPC
 	"пиж" N Sg Gen
 	"пижаш" V Ger Gen
 	"пижаш" V Ind Prt2 Sg3
@@ -22989,7 +23080,7 @@
 "<.>"
 	"." CLB
 "<Молышт>"
-	"Молышт" ?
+	"моло" N Sg Nom PxPl3
 "<умбак>"
 	"умбак" Adv
 "<ойырлен>"
@@ -23327,6 +23418,8 @@
 	"кӧрге" Ex/A Der/MWN N Sg Ill
 	"кӧрге" N Sg Ill
 	"кӧргыш" Adv
+	"кӧргӧ" Ex/A Der/MWN N Sg Ill
+	"кӧргӧ" N Sg Ill
 "<петырен>"
 	"петыраш" V Ger Gen
 	"петыраш" V Ind Prt2 Sg3
@@ -23478,6 +23571,7 @@
 "<тушкыла>"
 	"ту" Hom2 N Sg Ill Weak
 	"ту" Hom3 N Sg Ill Weak
+	"тушко" Adv Weak
 	"тушкыла" Adv
 "<савырна>"
 	"савыр" N Sg Nom PxPl1
@@ -23495,6 +23589,8 @@
 	"кӧрге" Ex/A Der/MWN N Sg Ill
 	"кӧрге" N Sg Ill
 	"кӧргыш" Adv
+	"кӧргӧ" Ex/A Der/MWN N Sg Ill
+	"кӧргӧ" N Sg Ill
 "<почшымат>"
 	"поч" N Sg Acc PxSg3 So/NPC Foc/at
 	"почаш" V Act Prc N Sg Acc Foc/at
@@ -24046,6 +24142,7 @@
 "<теммеш>"
 	"темаш" V Ger Imprf
 	"темаш" V Pass Prc N Sg Lat
+	"теммешке" Adv
 "<вӱдым>"
 	"вӱд" N Sg Acc
 "<йӱэш>"
@@ -25222,6 +25319,7 @@
 	"луде" Ex/A Der/MWN N Sg Ill
 	"лудо" Ex/A Der/MWN N Sg Ill
 	"лудо" Hom1 N Sg Ill
+	"лудо" Hom2 Ex/A Der/MWN N Sg Ill
 	"лудыш" N
 	"лудыш" N Sg Nom
 "<книга>"
@@ -25772,6 +25870,9 @@
 "<Икмыняр>"
 	"икмыняр" Adv
 	"икмыняр" Pron Ind
+	"икмыняре" A
+	"икмыняре" Ex/A Der/MWN N
+	"икмыняре" Ex/A Der/MWN N Sg Nom
 "<ий>"
 	"ий" Hom1 N
 	"ий" Hom1 N Sg Nom
