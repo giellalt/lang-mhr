@@ -2329,20 +2329,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">алди-булди</l>
-     <stg>
-       <st Contlex="A_">алди•-булди</st>
-     </stg> <stress>алди•-булди•</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">алдыме</l>
      <stg>
        <st Contlex="A_">а•лдым%{еы%}</st>
@@ -30603,6 +30589,9 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">round; {mathematics}round, rounded; stout, portly</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">pyöreä</t>
      </tg>
    </mg>
 </e>
@@ -130300,20 +130289,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">чорката</l>
-     <stg>
-       <st Contlex="A_">чорката</st>
-     </stg> <stress>чорката•</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">чоршо</l>
      <stg>
        <st Contlex="A_">чо•рш%{оы%}</st>
@@ -153509,6 +153484,9 @@
      <tg xml:lang="eng">
        <t pos="A">unstable, unsteady, inconsistent, inconsequent; stupidly, inappropriately, unsuitably</t>
      </tg>
+     <tg xml:lang="fin">
+       <t pos="A">(deskr. epäjohdonmukaisesta, häilyvästä ihmisestä)</t>
+     </tg>
    </mg>
 </e>
 <e order="2">
@@ -164109,6 +164087,20 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l hid="Hom2" pos="A">чорка</l>
+     <stg>
+       <st Contlex="A_">чорка•</st>
+     </stg> <stress>чорка• [2]</stress>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="A">made of grated potatoes (bread)</t>
+     </tg>
+   </mg>
+</e>
 <e order="2">
    <lg>
      <l pos="A">чорката</l>
@@ -164118,7 +164110,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">{zoology}crest; edge, point, jag; sharp, pointed</t>
+       <t pos="A">sharp, pointed</t>
      </tg>
    </mg>
 </e>
