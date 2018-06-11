@@ -192,44 +192,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Вӱлтӓк</l>
-
-      <stg>
-        <st Contlex="PROP_">Вӱлтӓк</st>
-      </stg>
-
-      <stress>Вӱлтӓк</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Вӱрзӹм</l>
-
-      <stg>
-        <st Contlex="PROP_">Вӱрзӹм</st>
-      </stg>
-
-      <stress>Вӱрзӹм</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" type="Prop">Даря</l>
 
       <stg>

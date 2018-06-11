@@ -4069,24 +4069,4 @@
       </tg>
     </mg>
   </e>
-
-  <e>
-    <lg>
-      <l pos="Pcle">ӓлӓсӓ</l>
-
-      <stg>
-        <st Contlex="PCLE_">ӓлӓсӓ</st>
-      </stg>
-
-      <stress>ӓлӓсӓ</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pcle"/>
-      </tg>
-    </mg>
-  </e>
 </r>

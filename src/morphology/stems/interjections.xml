@@ -2067,26 +2067,6 @@
 
   <e>
     <lg>
-      <l pos="Interj">пӹрӧс</l>
-
-      <stg>
-        <st Contlex="INTERJ_">пӹрӧс</st>
-      </stg>
-
-      <stress>пӹрӧс</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Interj">ракмат</l>
 
       <stg>
@@ -2191,46 +2171,6 @@
 
   <e>
     <lg>
-      <l pos="Interj">тпрӱгӓ</l>
-
-      <stg>
-        <st Contlex="INTERJ_">тпрӱгӓ</st>
-      </stg>
-
-      <stress>тпрӱгӓ</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">тпрӱгӓнӓ</l>
-
-      <stg>
-        <st Contlex="INTERJ_">тпрӱгӓнӓ</st>
-      </stg>
-
-      <stress>тпрӱгӓнӓ</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Interj">тпрӱй-тпрӱй</l>
 
       <stg>
@@ -2278,26 +2218,6 @@
       </stg>
 
       <stress>тьфу</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">тӹрӧ</l>
-
-      <stg>
-        <st Contlex="INTERJ_">тӹрӧ</st>
-      </stg>
-
-      <stress>тӹрӧ</stress>
     </lg>
 
     <mg>
@@ -3180,47 +3100,6 @@
       </tg>
     </mg>
   </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">чӹвӧ</l>
-
-      <stg>
-        <st Contlex="INTERJ_">чӹвӧ</st>
-      </stg>
-
-      <stress>чӹвӧ</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">чӹвӧч</l>
-
-      <stg>
-        <st Contlex="INTERJ_">чӹвӧч</st>
-      </stg>
-
-      <stress>чӹвӧч</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"/>
-      </tg>
-    </mg>
-  </e>
-
   <e>
     <lg>
       <l pos="Interj">шабаш</l>
@@ -3570,26 +3449,6 @@
       </stg>
 
       <stress>ярымдык</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">ӓйвий</l>
-
-      <stg>
-        <st Contlex="INTERJ_">ӓйвий</st>
-      </stg>
-
-      <stress>ӓйвий</stress>
     </lg>
 
     <mg>
