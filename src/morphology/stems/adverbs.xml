@@ -7643,6 +7643,7 @@
        <t pos="Adv">young and old, children and grownups</t>
      </tg>
      <tg xml:lang="fin">
+       <t pos="Adv">pienet ja isot</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -49207,6 +49208,8 @@
        <t pos="Adv">length and width, lengthwise and broadwise; {textile working}not made from different threads, having a matching warp and woof, purely made from one fabric</t>
      </tg>
      <tg xml:lang="fin">
+       <t pos="Adv">kuteet ja loimi</t>
+       <t pos="Adv">(kangas) leveydeltään ja pituudeltaan</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -74346,6 +74349,20 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="ADV">from a plank bed</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="ADV">виге</l>
+     <stg>
+       <st Contlex="ADV_">виге•</st>
+     </stg> <stress>виге•</stress>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="ADV">completely, wholly, fully, entirely</t>
      </tg>
    </mg>
 </e>

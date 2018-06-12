@@ -2610,6 +2610,9 @@
      <tg xml:lang="eng">
        <t>(clumsy action)</t>
      </tg>
+     <tg xml:lang="fin">
+       <t>(deskr. kömpelöstä ihmisestä)</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -2765,6 +2768,9 @@
    <mg>
      <tg xml:lang="eng">
        <t>(rapid movement that creates a noise)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(deskr. kahina)</t>
      </tg>
    </mg>
 </e>
@@ -3149,12 +3155,15 @@
    <lg>
      <l pos="Descr">кыпте-копто</l>
      <stg>
-       <st Contlex="DESCR_">кы•пте-ко•пто</st>
+       <st Contlex="DESCR_">кы•пте-ко•пт%{оы%}</st>
      </stg><stress>кы•пте-ко•пто</stress>
    </lg>
    <mg>
      <tg xml:lang="eng">
        <t>(awkward movement)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(deskr. nopea ja taitava liike)</t>
      </tg>
    </mg>
 </e>
@@ -4248,6 +4257,9 @@
      <tg xml:lang="eng">
        <t>(clouds gathering)</t>
      </tg>
+     <tg xml:lang="fin">
+       <t>(deskr. pilvien keräytymisestä)</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -4429,6 +4441,9 @@
    <mg>
      <tg xml:lang="eng">
        <t>(sloshing of water, mud)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(deskr. tilanteesta, jossa kastuu)</t>
      </tg>
    </mg>
 </e>
@@ -4728,6 +4743,9 @@
    <mg>
      <tg xml:lang="eng">
        <t>(weak, flabby, watery, jelly-like)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(deskr. tahmeasta)</t>
      </tg>
    </mg>
 </e>
@@ -5457,6 +5475,9 @@
      <tg xml:lang="eng">
        <t>(flickering objects that appear and disappear)</t>
      </tg>
+     <tg xml:lang="fin">
+       <t>(deskr. nuotiossa ol. esineestä, joka ilmestyy ja katoaa)</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -5484,7 +5505,7 @@
        <t>(rapid movement)</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="N">(deskr. nopeasta tekemisestä)</t>
+       <t>(deskr. nopeasta tekemisestä)</t>
      </tg>
    </mg>
 </e>
@@ -5563,6 +5584,9 @@
    <mg>
      <tg xml:lang="eng">
        <t>(dripping, trickling, drops falling)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(deskr. edestakaisesta nopeasta liikkeestä)</t>
      </tg>
    </mg>
 </e>
@@ -9775,6 +9799,48 @@
    <mg>
      <tg xml:lang="eng">
        <t>(swift, short movement, such as a jump, entrance, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чорик</l>
+     <stg>
+       <st Contlex="DESCR_">чорик</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t>(deskr. läpitunkevasta kirkunasta)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӱлай-мӱлай</l>
+     <stg>
+       <st Contlex="DESCR_">ӱлай-мӱлай</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t>(deskr. hyvää elämää, hyvää ruokaa)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кызыр-кызыр</l>
+     <stg>
+       <st Contlex="DESCR_">кызыр-кызыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t>(deskr. lapsen käsistä)</t>
      </tg>
    </mg>
 </e>
