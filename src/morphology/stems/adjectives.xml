@@ -147,21 +147,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ава</l>
-     <stg>
-       <st Contlex="A/S-a/e">ава</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">naaraspuolinen</t>
-       <t pos="A">naaras</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">авадыме</l>
      <stg>
        <st Contlex="A_">ава•дым%{еы%}</st>
@@ -4024,10 +4009,11 @@
 </e>
 <e>
    <lg>
-     <l pos="A">аркамбалсе</l>
+     <l pos="A">аркамбалысе</l>
      <stg>
-       <st Contlex="A_">аркамбалс%{еы%}</st>
-     </stg> <stress>аркамба•лсе</stress>
+       <st Contlex="A_">аркамбалыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">аркамбалс%{еы%}</st>
+     </stg> <stress>аркамба•лысе</stress>
    </lg>
    <mg>
      <defNative/>
@@ -6678,20 +6664,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">бобрик</l>
-     <stg>
-       <st Contlex="A/S">бобрик</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">friisikankainen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">боевой</l>
      <stg>
        <st Contlex="A_">боево•й</st>
@@ -6861,20 +6833,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">бриллиант</l>
-     <stg>
-       <st Contlex="A/S">бриллиант</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">briljanttinen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">британский</l>
      <stg>
        <st Contlex="A_">брита•нский</st>
@@ -6956,34 +6914,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">soft</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">бумажник</l>
-     <stg>
-       <st Contlex="A/S">бумажник</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">kloottikankainen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">бумазей</l>
-     <stg>
-       <st Contlex="A/S">бумазей</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">pumasiinikankainen A/S</t>
      </tg>
    </mg>
 </e>
@@ -7144,20 +7074,6 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="A">byrokraattinen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">бязь</l>
-     <stg>
-       <st Contlex="A/S">бязь</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">kalikookankainen A/S</t>
      </tg>
    </mg>
 </e>
@@ -7693,23 +7609,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">вачӱмбалсе</l>
-     <stg>
-       <st Contlex="A_">вачӱмбалс%{еы%}</st>
-     </stg> <stress>вачӱмба•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">вачӱмбалысе</l>
      <stg>
        <st Contlex="A_">вачӱмба•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">вачӱмбалс%{еы%}</st>
      </stg> <stress>вачӱмба•лысе</stress>
    </lg>
    <mg>
@@ -7737,7 +7640,7 @@
    <lg>
      <l pos="A">ваш-ваш</l>
      <stg>
-       <st Contlex="A-VS">ваш-ваш</st>
+       <st Contlex="A_">ваш-ваш</st>
      </stg>
    </lg>
    <mg>
@@ -7745,20 +7648,6 @@
      <tg xml:lang="fin">
        <t pos="A">keskinäinen</t>
        <t pos="A">molemminpuolinen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">ваш-ваш</l>
-     <stg>
-       <st Contlex="A_">ва•ш-ваш</st>
-     </stg> <stress>ва•ш-ва•ш</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
      </tg>
    </mg>
 </e>
@@ -8082,20 +7971,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">exchange; changed, exchanged, replaced; {literature}free indirect</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">ваштар</l>
-     <stg>
-       <st Contlex="A/S">ваштар</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">vaahterainen A/S</t>
      </tg>
    </mg>
 </e>
@@ -13875,20 +13750,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">вулне</l>
-     <stg>
-       <st Contlex="A/S">вулн%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">tinainen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">вулныдымо</l>
      <stg>
        <st Contlex="A_">ву•лныдым%{оы%}</st>
@@ -14199,20 +14060,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">вурс</l>
-     <stg>
-       <st Contlex="A/S">вурс</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">teräksinen A/S</t>
      </tg>
    </mg>
 </e>
@@ -14877,20 +14724,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">вынер</l>
-     <stg>
-       <st Contlex="A/S">вынер</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">palttina- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">вынеран</l>
      <stg>
        <st Contlex="A_">вынеран</st>
@@ -15126,20 +14959,6 @@
      <tg xml:lang="fin">
        <t pos="A">tulva-</t>
        <t pos="A">tulviva</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">вӱдвулно</l>
-     <stg>
-       <st Contlex="A/S">вӱдвулн%{оы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">lyijyinen A/S</t>
      </tg>
    </mg>
 </e>
@@ -15490,20 +15309,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">chalcolithic, eneolithic</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">вӱргене</l>
-     <stg>
-       <st Contlex="A/S">вӱрген%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">kupari(n)- A/S</t>
      </tg>
    </mg>
 </e>
@@ -21804,20 +21609,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">закуп</l>
-     <stg>
-       <st Contlex="A/S">закуп</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">osto- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">закускан</l>
      <stg>
        <st Contlex="A_">закускан</st>
@@ -22182,20 +21973,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">with a charge</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">заседаний</l>
-     <stg>
-       <st Contlex="A/S">заседаний</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">istunto- A/S</t>
      </tg>
    </mg>
 </e>
@@ -25158,21 +24935,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">илыш</l>
-     <stg>
-       <st Contlex="A/S-VS">илыш</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">elämän-</t>
-       <t pos="A">elin- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">илышан</l>
      <stg>
        <st Contlex="A_">илышан</st>
@@ -25385,21 +25147,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">concrete, denominate</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">имне</l>
-     <stg>
-       <st Contlex="A/S">имн%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">hevos(en)-</t>
-       <t pos="A">ratsu- A/S</t>
      </tg>
    </mg>
 </e>
@@ -27942,38 +27689,11 @@
 </e>
 <e>
    <lg>
-     <l pos="A">йолйымалсе</l>
+     <l pos="A">йолйымалысе</l>
      <stg>
-       <st Contlex="A_">йолйымалс%{еы%}</st>
-     </stg> <stress>йолйыма•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">йолке</l>
-     <stg>
-       <st Contlex="A_">йолк%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">laiska</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">йолко</l>
-     <stg>
-       <st Contlex="A_">йолк%{оы%}</st>
-     </stg> <stress>йо•лко</stress>
+       <st Contlex="A_">йолйымалыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">йолйымалс%{еы%}</st>
+     </stg> <stress>йолйыма•лысе</stress>
    </lg>
    <mg>
      <defNative/>
@@ -28594,20 +28314,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">йотышнысе</l>
-     <stg>
-       <st Contlex="A_">йотышныс%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">ujosteleva</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">йотышнышан</l>
      <stg>
        <st Contlex="A_">йотышныша•н</st>
@@ -28634,6 +28340,9 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">shy, bashful, timid</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">ujosteleva</t>
      </tg>
    </mg>
 </e>
@@ -28665,20 +28374,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">foreign, not local</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">йоча</l>
-     <stg>
-       <st Contlex="A-a/e">йоча</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">(taikina yms.) venyvä</t>
      </tg>
    </mg>
 </e>
@@ -28819,20 +28514,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">reddish bronze</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">йошкар-тор</l>
-     <stg>
-       <st Contlex="A_">йошкар-тор</st>
-     </stg> <stress>йошкар-тор</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
      </tg>
    </mg>
 </e>
@@ -30265,21 +29946,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">йымал</l>
-     <stg>
-       <st Contlex="A/S">йымал</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">ala-</t>
-       <t pos="A">alus- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">йымалнысе</l>
      <stg>
        <st Contlex="A_">йыма•лныс%{еы%}</st>
@@ -30294,29 +29960,19 @@
 </e>
 <e>
    <lg>
-     <l pos="A">йымалсе</l>
-     <stg>
-       <st Contlex="A_">йымалс%{еы%}</st>
-     </stg> <stress>йыма•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">alla oleva</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">йымалысе</l>
      <stg>
        <st Contlex="A_">йыма•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">йыма•лыс%{еы%}</st>
      </stg> <stress>йыма•лысе</stress>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">lower, under</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">alla oleva</t>
      </tg>
    </mg>
 </e>
@@ -30891,20 +30547,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">йытын</l>
-     <stg>
-       <st Contlex="A/S">йытын</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">pellavainen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">йытыра</l>
      <stg>
        <st Contlex="A-a/e">йытыра</st>
@@ -31240,7 +30882,7 @@
    <lg>
      <l pos="A">йӧрале</l>
      <stg>
-       <st Contlex="A_">йӧра•льʼ%{еы%}</st>
+       <st Contlex="A_">йӧра•лʼь%{еы%}</st>
      </stg> <stress>йӧра•лʼе</stress>
    </lg>
    <mg>
@@ -32912,7 +32554,7 @@
    <lg>
      <l pos="A">кавыне</l>
      <stg>
-       <st Contlex="A_">ка•выньʼ%{еы%}</st>
+       <st Contlex="A_">ка•вынʼь%{еы%}</st>
      </stg> <stress>ка•вынʼе</stress>
    </lg>
    <mg>
@@ -32989,20 +32631,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">withered; withered, faded, weak</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">кагаз</l>
-     <stg>
-       <st Contlex="A/S">кагаз</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">paperi- A/S</t>
      </tg>
    </mg>
 </e>
@@ -33486,21 +33114,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кайык</l>
-     <stg>
-       <st Contlex="A/S">кайык</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">lintu-</t>
-       <t pos="A">siipikarja(n)- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">кайыкан</l>
      <stg>
        <st Contlex="A_">кайыкан</st>
@@ -33800,20 +33413,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">dry, hard (soil); meagre, poor (soil)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">калай</l>
-     <stg>
-       <st Contlex="A/S">калай</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">pelti- A/S</t>
      </tg>
    </mg>
 </e>
@@ -34517,20 +34116,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">канат</l>
-     <stg>
-       <st Contlex="A/S">канат</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">köysi- A/S</t>
      </tg>
    </mg>
 </e>
@@ -35962,20 +35547,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кас</l>
-     <stg>
-       <st Contlex="A/S">кас</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">ilta- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">кас-йӱдвелнысе</l>
      <stg>
        <st Contlex="A_">кас-йӱдве•лныс%{еы%}</st>
@@ -36077,21 +35648,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">касвел</l>
-     <stg>
-       <st Contlex="A/S">касвел</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">länsi-</t>
-       <t pos="A">lännen- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">касвел-йӱдвелнысе</l>
      <stg>
        <st Contlex="A_">касве•л-йӱдве•лныс%{еы%}</st>
@@ -36176,23 +35732,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">касвелсе</l>
-     <stg>
-       <st Contlex="A_">касвелс%{еы%}</st>
-     </stg> <stress>касве•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">касвелысе</l>
      <stg>
        <st Contlex="A_">касве•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">касвелс%{еы%}</st>
      </stg> <stress>касве•лысе</stress>
    </lg>
    <mg>
@@ -37782,20 +37325,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кермыч</l>
-     <stg>
-       <st Contlex="A/S">кермыч</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">tiili- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">кермычалге</l>
      <stg>
        <st Contlex="A_">кермыча•лг%{еы%}</st>
@@ -38006,33 +37535,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кеч-кушакын</l>
-     <stg>
-       <st Contlex="A_">кеч-куша•кын</st>
-     </stg> <stress>кеч-куша•кын</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="eng"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">кеч-могай</l>
-     <stg>
-       <st Contlex="A_">кеч-могай</st>
-     </stg> <stress>кеч-мога•й</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">кечалтше</l>
      <stg>
        <st Contlex="A_">кеча•лтш%{еы%}</st>
@@ -38066,42 +37568,18 @@
    <lg>
      <l pos="A">кечаш</l>
      <stg>
-       <st Contlex="A-VS">кечаш</st>
+       <st Contlex="A_">кеча•ш</st>
+       <st Contlex="A_">кеча•шлык</st>
      </stg> <stress>кеча•ш</stress>
    </lg>
    <mg>
      <defNative/>
+     <tg xml:lang="eng">
+       <t pos="A">daily, a day's, for a day</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="A">yksipäiväinen</t>
        <t pos="A">päivän</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">кечаш</l>
-     <stg>
-       <st Contlex="A_">кеча•ш</st>
-     </stg> <stress>кеча•ш</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="eng">
-       <t pos="A">daily, a day's, for a day</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">кечашлык</l>
-     <stg>
-       <st Contlex="A_">кеча•шлык</st>
-     </stg> <stress>кеча•шлык</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="eng">
-       <t pos="A">daily, a day's, for a day</t>
      </tg>
    </mg>
 </e>
@@ -38135,37 +37613,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кечывалвел</l>
-     <stg>
-       <st Contlex="A/S">кечывалвел</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">etelä- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">кечывалвел-касвелсе</l>
-     <stg>
-       <st Contlex="A_">кечывалве•л-касвелс%{еы%}</st>
-     </stg> <stress>кечывалве•л-касве•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">кечывалвел-касвелысе</l>
      <stg>
        <st Contlex="A_">кечывалве•л-касве•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">кечывалве•л-касвелс%{еы%}</st>
      </stg> <stress>кечывалве•л-касве•лысе</stress>
    </lg>
    <mg>
@@ -38233,20 +37684,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кечывалйымал</l>
-     <stg>
-       <st Contlex="A/S">кечывалйымал</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">etelä- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">кечывалйымалнысе</l>
      <stg>
        <st Contlex="A_">кечывалйыма•лныс%{еы%}</st>
@@ -38261,23 +37698,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кечывалйымалсе</l>
-     <stg>
-       <st Contlex="A_">кечывалйымалс%{еы%}</st>
-     </stg> <stress>кечывалйыма•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">кечывалйымалысе</l>
      <stg>
        <st Contlex="A_">кечывалйыма•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">кечывалйымалс%{еы%}</st>
      </stg> <stress>кечывалйыма•лысе</stress>
    </lg>
    <mg>
@@ -38486,20 +37910,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">кеҥеж</l>
-     <stg>
-       <st Contlex="A/S">кеҥеж</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">kesäinen A/S</t>
      </tg>
    </mg>
 </e>
@@ -40743,21 +40153,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кокла</l>
-     <stg>
-       <st Contlex="A/S-a/e">кокла</st>
-     </stg> <stress>кокла•</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">keski-</t>
-       <t pos="A">väli- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">коклагид</l>
      <stg>
        <st Contlex="A_">коклаги•д</st>
@@ -41149,20 +40544,6 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="A">kuuro</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">коленкор</l>
-     <stg>
-       <st Contlex="A/S">коленкор</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">klootti- A/S</t>
      </tg>
    </mg>
 </e>
@@ -43683,20 +43064,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">король</l>
-     <stg>
-       <st Contlex="A/S">король</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">kuninkaallinen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">коронкысо</l>
      <stg>
        <st Contlex="A_">коронкыс%{оы%}</st>
@@ -45134,21 +44501,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">крепостной</l>
-     <stg>
-       <st Contlex="A/S">крепостной</st>
-     </stg> <stress>крепостно•й</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">maaorja-</t>
-       <t pos="A">maaorjuus- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">креслан</l>
      <stg>
        <st Contlex="A_">кресла•н</st>
@@ -46152,20 +45504,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">кугыжа</l>
-     <stg>
-       <st Contlex="A/S-a/e">кугыжа</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">tsaarin A/S</t>
      </tg>
    </mg>
 </e>
@@ -47705,20 +47043,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кумыж</l>
-     <stg>
-       <st Contlex="A/S">кумыж</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">tuohinen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">кумыжан</l>
      <stg>
        <st Contlex="A_">кумыжан</st>
@@ -48213,20 +47537,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A">kevytmielinen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">куп</l>
-     <stg>
-       <st Contlex="A/S">куп</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">soinen A/S</t>
      </tg>
    </mg>
 </e>
@@ -51184,20 +50494,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кыне</l>
-     <stg>
-       <st Contlex="A/S-a/e">кын%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">hamppuinen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">кынеан</l>
      <stg>
        <st Contlex="A_">кынеан</st>
@@ -52518,20 +51814,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кӱ</l>
-     <stg>
-       <st Contlex="A/S">кӱ</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">kivinen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">кӱан</l>
      <stg>
        <st Contlex="A_">кӱа•н</st>
@@ -53536,20 +52818,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кӱртнье</l>
-     <stg>
-       <st Contlex="A/S">кӱртнь%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">rautainen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">кӱртньыгорнысо</l>
      <stg>
        <st Contlex="A_">кӱртньыго•рныс%{оы%}</st>
@@ -54073,44 +53341,20 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кӱшылсе</l>
-     <stg>
-       <st Contlex="A_">кӱшылс%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">yllä/ylhäällä oleva</t>
-       <t pos="A">korkealla oleva</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">кӱшылсӧ</l>
-     <stg>
-       <st Contlex="A_">кӱшылс%{ӧы%}</st>
-     </stg> <stress>кӱ•шылсӧ</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">кӱшылысӧ</l>
      <stg>
        <st Contlex="A_">кӱ•шылыс%{ӧы%}</st>
+       <st Contlex="A_" status="Err/Orth">кӱшылс%{ӧы%}</st>
      </stg> <stress>кӱ•шылысӧ</stress>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">upper, higher</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">yllä/ylhäällä oleva</t>
+       <t pos="A">korkealla oleva</t>
      </tg>
    </mg>
 </e>
@@ -57022,20 +56266,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">лишылсе</l>
-     <stg>
-       <st Contlex="A_">лишылс%{еы%}</st>
-     </stg> <stress>ли•шылсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">läheinen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">лишылшинчан</l>
      <stg>
        <st Contlex="A_">лишылшинча•н</st>
@@ -57054,12 +56284,16 @@
      <l pos="A">лишылысе</l>
      <stg>
        <st Contlex="A_">ли•шылыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">лишылс%{еы%}</st>
      </stg> <stress>ли•шылысе</stress>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">close, near, nearby</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">läheinen</t>
      </tg>
    </mg>
 </e>
@@ -57939,20 +57173,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">лотерей</l>
-     <stg>
-       <st Contlex="A/S">лотерей</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">arpa- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">лотерейный</l>
      <stg>
        <st Contlex="A_">лотере•йный</st>
@@ -58080,20 +57300,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">winnowing; winnower</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">лу</l>
-     <stg>
-       <st Contlex="A/S">лу</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">luinen A/S</t>
      </tg>
    </mg>
 </e>
@@ -58297,20 +57503,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">луде</l>
-     <stg>
-       <st Contlex="A_">луд%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">harmaa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">лудитлыме</l>
      <stg>
        <st Contlex="A_">луди•тлым%{еы%}</st>
@@ -58325,65 +57517,19 @@
 </e>
 <e>
    <lg>
-     <l pos="A">лудмаш</l>
-     <stg>
-       <st Contlex="A-VS">лудмаш</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">luku-</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">лудме</l>
-     <stg>
-       <st Contlex="A_">лудм%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">luettu</t>
-       <t pos="A">luku-</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">laskettu</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">лудо</l>
-     <stg>
-       <st Contlex="A_">луд%{оы%}</st>
-     </stg> <stress>лу•до</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l hid="Hom2" pos="A">лудо</l>
      <stg>
        <st Contlex="A_">лу•д%{оы%}</st>
-     </stg> <stress>лу•до [2]</stress>
+     </stg> <stress>лу•до</stress>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A" langDom="_US">gray</t>
        <t pos="A" langDom="_GB">grey</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">harmaa</t>
      </tg>
    </mg>
 </e>
@@ -58795,20 +57941,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">boneless, flexible</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">лум</l>
-     <stg>
-       <st Contlex="A/S">лум</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">luminen A/S</t>
      </tg>
    </mg>
 </e>
@@ -62479,23 +61611,8 @@
      <tg xml:lang="fin">
        <t pos="A">nukkuva</t>
        <t pos="A">uninen</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
        <t pos="A">laiska</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
        <t pos="A">juoksettuva</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
        <t pos="A">vanuva</t>
      </tg>
    </mg>
@@ -62570,26 +61687,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">soft, fluffy</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">мамык</l>
-     <stg>
-       <st Contlex="A/S">мамык</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">untuva-</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">puuvilla- A/S</t>
      </tg>
    </mg>
 </e>
@@ -63479,20 +62576,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">меж</l>
-     <stg>
-       <st Contlex="A/S">меж</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">villainen A/S</t>
      </tg>
    </mg>
 </e>
@@ -64874,10 +63957,13 @@
 </e>
 <e>
    <lg>
-     <l pos="A">мландӱмбалсе</l>
+     <l pos="A">мландымбалысе</l>
      <stg>
-       <st Contlex="A_">мландӱмбалс%{еы%}</st>
-     </stg> <stress>мландӱмба•лсе</stress>
+       <st Contlex="A_">мландымбалыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">мландымбалс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">мландӱмбалс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">мландӱмбалыс%{еы%}</st>
+     </stg> <stress>мландымба•лысе</stress>
    </lg>
    <mg>
      <defNative/>
@@ -67698,19 +66784,7 @@
        <t pos="A">well-to-do, comfortable, well provided for; spoiled, carefree, light-hearted, unconcerned; lazy; fat, plump, round</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="A">vallaton</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">hemmoteltu</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">laiska</t>
+       <t pos="A">vallaton; hemmoteltu; laiska</t>
      </tg>
    </mg>
 </e>
@@ -68287,7 +67361,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">нʼемыран</l>
+     <l pos="A">немыран</l>
      <stg>
        <st Contlex="A_">нʼемыра•н</st>
      </stg> <stress>нʼемыра•н</stress>
@@ -68301,7 +67375,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">нʼигунамсе</l>
+     <l pos="A">нигунамсе</l>
      <stg>
        <st Contlex="A_">нʼигуна•мс%{еы%}</st>
      </stg> <stress>нʼигуна•мсе</stress>
@@ -68315,7 +67389,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">нʼимогайымше</l>
+     <l pos="A">нимогайымше</l>
      <stg>
        <st Contlex="A_">нʼимога•йымш%{еы%}</st>
      </stg> <stress>нʼимога•йымше</stress>
@@ -73812,20 +72886,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">озанлык</l>
-     <stg>
-       <st Contlex="A/S">озанлык</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">talous- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">озанлыкан</l>
      <stg>
        <st Contlex="A_">озанлыкан</st>
@@ -75135,20 +74195,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">олым</l>
-     <stg>
-       <st Contlex="A/S">олым</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">olki- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">олымалге</l>
      <stg>
        <st Contlex="A_">олыма•лг%{еы%}</st>
@@ -75178,10 +74224,11 @@
 </e>
 <e>
    <lg>
-     <l pos="A">олымбалсе</l>
+     <l pos="A">олымбалысе</l>
      <stg>
-       <st Contlex="A_">олымбалс%{еы%}</st>
-     </stg> <stress>олымба•лсе</stress>
+       <st Contlex="A_">олымбалыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">олымбалс%{еы%}</st>
+     </stg> <stress>олымба•лысе</stress>
    </lg>
    <mg>
      <defNative/>
@@ -75390,20 +74437,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">sleepless</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">омыж</l>
-     <stg>
-       <st Contlex="A/S">омыж</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">kaisla- A/S</t>
      </tg>
    </mg>
 </e>
@@ -75809,29 +74842,16 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ончылсе</l>
+     <l pos="A">ончылысо</l>
      <stg>
-       <st Contlex="A_">ончылс%{еы%}</st>
-     </stg>
+       <st Contlex="A_">ончылыс%{оы%}</st>
+       <st Contlex="A_" status="Err/Orth">ончылыс%{оы%}</st>
+     </stg> <stress>о•нчылысо</stress>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A">edessä oleva</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">ончылсо</l>
-     <stg>
-       <st Contlex="A_">ончылс%{оы%}</st>
-     </stg> <stress>о•нчылсо</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
      </tg>
    </mg>
 </e>
@@ -75851,20 +74871,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ончычсе</l>
-     <stg>
-       <st Contlex="A_">ончычс%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">entinen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">ончычсо</l>
      <stg>
        <st Contlex="A_">о•нчычс%{оы%}</st>
@@ -75874,6 +74880,9 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">former, ex-; previous, former, last, prior, last; front, at the front; of a certain number of years ago; before</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">entinen</t>
      </tg>
    </mg>
 </e>
@@ -78871,10 +77880,11 @@
 </e>
 <e>
    <lg>
-     <l pos="A">оҥамбалсе</l>
+     <l pos="A">оҥамбалысе</l>
      <stg>
-       <st Contlex="A_">оҥамбалс%{еы%}</st>
-     </stg> <stress>оҥамба•лсе</stress>
+       <st Contlex="A_">оҥамбалыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">оҥамбалс%{еы%}</st>
+     </stg> <stress>оҥамба•лысе</stress>
    </lg>
    <mg>
      <defNative/>
@@ -79429,20 +78439,6 @@
    <lg>
      <l pos="A">пакма</l>
      <stg>
-       <st Contlex="A-a/e">пакма</st>
-     </stg> <stress>пакма•</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">(hevonen) laiska</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">пакма</l>
-     <stg>
        <st Contlex="A_">пакма•</st>
      </stg> <stress>пакма•</stress>
    </lg>
@@ -79450,6 +78446,9 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">sluggish, slow (horse); {figuratively}sluggish, slow, lazy (person)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">(hevonen) laiska</t>
      </tg>
    </mg>
 </e>
@@ -81183,20 +80182,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A">työtön</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">пашазе</l>
-     <stg>
-       <st Contlex="A/S">пашаз%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">työväen- A/S</t>
      </tg>
    </mg>
 </e>
@@ -84883,29 +83868,19 @@
 </e>
 <e>
    <lg>
-     <l pos="A">покшелсе</l>
-     <stg>
-       <st Contlex="A_">покшелс%{еы%}</st>
-     </stg> <stress>покше•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">keskellä oleva</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">покшелысе</l>
      <stg>
        <st Contlex="A_">покше•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">покшелс%{еы%}</st>
      </stg> <stress>покше•лысе</stress>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">central, middle</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">keskellä oleva</t>
      </tg>
    </mg>
 </e>
@@ -85813,21 +84788,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">пор</l>
-     <stg>
-       <st Contlex="A/S">пор</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">liitu-</t>
-       <t pos="A">liidun A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">поранан</l>
      <stg>
        <st Contlex="A_">порана•н</st>
@@ -85967,20 +84927,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">thoroughbred, pedigree</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">порсын</l>
-     <stg>
-       <st Contlex="A/S">порсын</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">silkki- A/S</t>
      </tg>
    </mg>
 </e>
@@ -86475,20 +85421,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">post-industrial</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">посто</l>
-     <stg>
-       <st Contlex="A/S">пост%{оы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">verkainen A/S</t>
      </tg>
    </mg>
 </e>
@@ -90403,7 +89335,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">пурнʼек</l>
+     <l pos="A">пурнек</l>
      <stg>
        <st Contlex="A_">пурнʼе•к</st>
      </stg> <stress>пурнʼе•к</stress>
@@ -90413,17 +89345,6 @@
      <tg xml:lang="eng">
        <t pos="A">bad, mean, wicked, angry</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">пурнек</l>
-     <stg>
-       <st Contlex="A_">пурнек</st>
-     </stg> <stress>пурне•к</stress>
-   </lg>
-   <mg>
-     <defNative/>
      <tg xml:lang="fin">
        <t pos="A">ilkeä</t>
        <t pos="A">äkäinen</t>
@@ -93449,20 +92370,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">пӱкш</l>
-     <stg>
-       <st Contlex="A/S">пӱкш</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">pähkinäinen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">пӱкшан</l>
      <stg>
        <st Contlex="A_">пӱкша•н</st>
@@ -93566,20 +92473,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">powerless, weak, weakened</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">пӱнче</l>
-     <stg>
-       <st Contlex="A/S">пӱнч%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">mäntyinen A/S</t>
      </tg>
    </mg>
 </e>
@@ -95408,20 +94301,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">рвезылык</l>
-     <stg>
-       <st Contlex="A/S">рвезылык</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">nuoriso- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">реабилитироватлыме</l>
      <stg>
        <st Contlex="A_">реабилитирова•тлым%{еы%}</st>
@@ -95833,20 +94712,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">reserve, backup</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">резина</l>
-     <stg>
-       <st Contlex="A/S">резин%{аы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">kuminen A/S</t>
      </tg>
    </mg>
 </e>
@@ -99148,20 +98013,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">сакыр</l>
-     <stg>
-       <st Contlex="A/S">сакыр</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">sokerinen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">сакыран</l>
      <stg>
        <st Contlex="A_">сакыра•н</st>
@@ -100427,20 +99278,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">wandering, roaming, lost; raving, delirious</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">сатин</l>
-     <stg>
-       <st Contlex="A/S">сатин</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">satiini- A/S</t>
      </tg>
    </mg>
 </e>
@@ -102190,7 +101027,7 @@
    <lg>
      <l pos="A">ситале</l>
      <stg>
-       <st Contlex="A_">сита•льʼ%{еы%}</st>
+       <st Contlex="A_">сита•лʼь%{еы%}</st>
      </stg> <stress>сита•лʼе</stress>
    </lg>
    <mg>
@@ -102228,20 +101065,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">well-to-do, well provided for, prosperous, affluent</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">ситартыш</l>
-     <stg>
-       <st Contlex="A/S-VS">ситартыш</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">lisä- A/S</t>
      </tg>
    </mg>
 </e>
@@ -102290,20 +101113,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">ситце</l>
-     <stg>
-       <st Contlex="A/S">ситц%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">karttuuni- A/S</t>
      </tg>
    </mg>
 </e>
@@ -102857,7 +101666,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">снʼеган</l>
+     <l pos="A">снеган</l>
      <stg>
        <st Contlex="A_">снʼега•н</st>
      </stg> <stress>снʼега•н</stress>
@@ -110135,7 +108944,7 @@
    <lg>
      <l pos="A">тембале</l>
      <stg>
-       <st Contlex="A_">темба•льʼ%{еы%}</st>
+       <st Contlex="A_">темба•лʼь%{еы%}</st>
      </stg> <stress>темба•лʼе</stress>
    </lg>
    <mg>
@@ -110156,20 +108965,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">close, near, nearby, close-by</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">тембалсе</l>
-     <stg>
-       <st Contlex="A_">тембалс%{еы%}</st>
-     </stg> <stress>темба•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
      </tg>
    </mg>
 </e>
@@ -111004,20 +109799,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">теҥыз</l>
-     <stg>
-       <st Contlex="A/S">теҥыз</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">merellinen A/S</t>
      </tg>
    </mg>
 </e>
@@ -111888,7 +110669,7 @@
    <lg>
      <l pos="A">тожале</l>
      <stg>
-       <st Contlex="A_">тожа•льʼ%{еы%}</st>
+       <st Contlex="A_">тожа•лʼь%{еы%}</st>
      </stg> <stress>тожа•лʼе</stress>
    </lg>
    <mg>
@@ -114524,28 +113305,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">тул</l>
-     <stg>
-       <st Contlex="A/S">тул</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">tuli-</t>
-       <t pos="A">tulinen</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">valo-</t>
-       <t pos="A">valoinen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">тул-йошкарге</l>
      <stg>
        <st Contlex="A_">тул-йошкарг%{еы%}</st>
@@ -116057,20 +114816,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">тушман</l>
-     <stg>
-       <st Contlex="A/S">тушман</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">vihollis- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">тушманле</l>
      <stg>
        <st Contlex="A_">тушма•нл%{еы%}</st>
@@ -116230,42 +114975,16 @@
 </e>
 <e>
    <lg>
-     <l pos="A">тывелсе</l>
-     <stg>
-       <st Contlex="A_">тывелс%{еы%}</st>
-     </stg> <stress>тыве•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">тывелысе</l>
      <stg>
        <st Contlex="A_">тыве•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">тывелс%{еы%}</st>
      </stg> <stress>тыве•лысе</stress>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">local, from here, from this area, on this side</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">тывечын-тувечын</l>
-     <stg>
-       <st Contlex="A_">тыве•чын-туве•чын</st>
-     </stg> <stress>тыве•чын-туве•чын</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="eng"> <t/>
      </tg>
    </mg>
 </e>
@@ -116294,34 +115013,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A">(senkin) mokoma</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">тыгай-тугай</l>
-     <stg>
-       <st Contlex="A_">тыга•й-тугай</st>
-     </stg> <stress>тыга•й-туга•й</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">тыгане</l>
-     <stg>
-       <st Contlex="A_">тыган%{еы%}</st>
-     </stg> <stress>тыга•не</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
      </tg>
    </mg>
 </e>
@@ -117084,7 +115775,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">тырмылʼи-тормылʼи</l>
+     <l pos="A">тырмыли-тормыли</l>
      <stg>
        <st Contlex="A_">тырмылʼи•-тормылʼи•</st>
      </stg> <stress>тырмылʼи•-тормылʼи•</stress>
@@ -118143,30 +116834,20 @@
 </e>
 <e>
    <lg>
-     <l pos="A">тӱжвалсе</l>
-     <stg>
-       <st Contlex="A_">тӱжвалс%{еы%}</st>
-     </stg> <stress>тӱжва•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">ulkona oleva</t>
-       <t pos="A">ulkopuolella oleva</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">тӱжвалысе</l>
      <stg>
        <st Contlex="A_">тӱжва•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">тӱжвалс%{еы%}</st>
      </stg> <stress>тӱжва•лысе</stress>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">external, outer, exterior, outside</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">ulkona oleva</t>
+       <t pos="A">ulkopuolella oleva</t>
      </tg>
    </mg>
 </e>
@@ -118776,7 +117457,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">тӱлʼеман</l>
+     <l pos="A">тӱлеман</l>
      <stg>
        <st Contlex="A_">тӱлʼема•н</st>
      </stg> <stress>тӱлʼема•н</stress>
@@ -118790,7 +117471,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">тӱлʼетан</l>
+     <l pos="A">тӱлетан</l>
      <stg>
        <st Contlex="A_">тӱлʼета•н</st>
      </stg> <stress>тӱлʼета•н</stress>
@@ -119341,24 +118022,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">тӱнямбалсе</l>
-     <stg>
-       <st Contlex="A_">тӱнямбалс%{еы%}</st>
-     </stg> <stress>тӱнямба•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">maailmassa oleva</t>
-       <t pos="A">yleismaailmallinen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">тӱнямбалысе</l>
      <stg>
        <st Contlex="A_">тӱнямба•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">тӱнямбалс%{еы%}</st>
      </stg> <stress>тӱнямба•лысе</stress>
    </lg>
    <mg>
@@ -122933,23 +121600,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">умбалсе</l>
-     <stg>
-       <st Contlex="A_">умбалс%{еы%}</st>
-     </stg> <stress>умба•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">умбалысе</l>
      <stg>
        <st Contlex="A_">умба•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">умбалс%{еы%}</st>
      </stg> <stress>умба•лысе</stress>
    </lg>
    <mg>
@@ -123936,20 +122590,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">уржа</l>
-     <stg>
-       <st Contlex="A/S-a/e">уржа</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">ruis- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">уржавечан</l>
      <stg>
        <st Contlex="A_">уржавечан</st>
@@ -124720,23 +123360,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">уш</l>
-     <stg>
-       <st Contlex="A/S-VS">уш</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">älyllinen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">уш-акылан</l>
      <stg>
        <st Contlex="A_">уш-акыла•н</st>
+       <st Contlex="A_" status="Err/Orth">ушакыла•н</st>
      </stg> <stress>уш-акыла•н</stress>
    </lg>
    <mg>
@@ -124744,20 +123371,6 @@
      <tg xml:lang="eng">
        <t pos="A">sensible, intelligent, reasonable</t>
      </tg>
-     <tg xml:lang="fin">
-       <t pos="A">järkevä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">ушакылан</l>
-     <stg>
-       <st Contlex="A_">ушакылан</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
      <tg xml:lang="fin">
        <t pos="A">järkevä</t>
      </tg>
@@ -125021,21 +123634,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">joining, of a union</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">уштартыш</l>
-     <stg>
-       <st Contlex="A/S-VS">уштартыш</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">lisä-</t>
-       <t pos="A">täydennys- A/S</t>
      </tg>
    </mg>
 </e>
@@ -125322,20 +123920,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">фанера</l>
-     <stg>
-       <st Contlex="A/S">фанер%{аы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">vaneri- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">фантастический</l>
      <stg>
        <st Contlex="A_">фантасти•ческий</st>
@@ -125359,34 +123943,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">pharmaceutical</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">фарфор</l>
-     <stg>
-       <st Contlex="A/S">фарфор</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">posliininen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">фаянс</l>
-     <stg>
-       <st Contlex="A/S">фаянс</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">fajanssinen A/S</t>
      </tg>
    </mg>
 </e>
@@ -125730,20 +124286,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">фланель</l>
-     <stg>
-       <st Contlex="A/S">фланель</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">flanellinen A/S</t>
      </tg>
    </mg>
 </e>
@@ -126243,20 +124785,6 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="A">peto-</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">хлопок</l>
-     <stg>
-       <st Contlex="A/S">хлопок</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">puuvilla- A/S</t>
      </tg>
    </mg>
 </e>
@@ -135188,7 +133716,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">шертнʼеран</l>
+     <l pos="A">шертнеран</l>
      <stg>
        <st Contlex="A_">шертнʼера•н</st>
      </stg> <stress>шертнʼера•н</stress>
@@ -135197,20 +133725,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">with pussy willow thickets, covered with pussy willow thickets</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">шертнеран</l>
-     <stg>
-       <st Contlex="A_">шертнеран</st>
-     </stg> <stress>шертнера•н</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
      </tg>
    </mg>
 </e>
@@ -135258,20 +133772,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">шеҥгел</l>
-     <stg>
-       <st Contlex="A/S">шеҥгел</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">taka- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">шеҥгелнысе</l>
      <stg>
        <st Contlex="A_">шеҥге•лныс%{еы%}</st>
@@ -135286,24 +133786,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">шеҥгелсе</l>
-     <stg>
-       <st Contlex="A_">шеҥгелс%{еы%}</st>
-     </stg> <stress>шеҥге•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">takainen</t>
-       <t pos="A">taka-</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">шеҥгелысе</l>
      <stg>
        <st Contlex="A_">шеҥге•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">шеҥгелс%{еы%}</st>
      </stg> <stress>шеҥге•лысе</stress>
    </lg>
    <mg>
@@ -135311,33 +133797,9 @@
      <tg xml:lang="eng">
        <t pos="A">back, hind, rear; behind (something)</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">шижде</l>
-     <stg>
-       <st Contlex="A-a/e">шижде</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
      <tg xml:lang="fin">
-       <t pos="A">tahaton</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">шижде-вучыде</l>
-     <stg>
-       <st Contlex="A_">шижде•-вучыде</st>
-     </stg> <stress>шижде•-вучыде•</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
+       <t pos="A">takainen</t>
+       <t pos="A">taka-</t>
      </tg>
    </mg>
 </e>
@@ -135540,34 +134002,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">sparkling silver</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">ший-шӧртнье</l>
-     <stg>
-       <st Contlex="A_">ший-шӧртнь%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">hopean kultainen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">ший-шӧртньӧ</l>
-     <stg>
-       <st Contlex="A_">ший-шӧртнь%{ӧы%}</st>
-     </stg> <stress>ший-шӧ•ртньӧ</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
      </tg>
    </mg>
 </e>
@@ -136538,21 +134972,6 @@
    <lg>
      <l pos="A">шовычлык</l>
      <stg>
-       <st Contlex="A/S">шовычлык</st>
-     </stg> <stress>шо•вычлык</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">liina-</t>
-       <t pos="A">huivi- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">шовычлык</l>
-     <stg>
        <st Contlex="A_">шо•вычлык</st>
      </stg> <stress>шо•вычлык</stress>
    </lg>
@@ -136561,19 +134980,9 @@
      <tg xml:lang="eng">
        <t pos="A">for a kerchief, for a headscarf</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">шовыше</l>
-     <stg>
-       <st Contlex="A_">шовыш%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
      <tg xml:lang="fin">
-       <t pos="A">hapan</t>
+       <t pos="A">liina-</t>
+       <t pos="A">huivi-</t>
      </tg>
    </mg>
 </e>
@@ -136790,40 +135199,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">шойыл</l>
-     <stg>
-       <st Contlex="A/S">шойыл</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">taka- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">шойылнысе</l>
-     <stg>
-       <st Contlex="A_">шойылныс%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">takainen</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">takana oleva</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">шойылнысо</l>
      <stg>
        <st Contlex="A_">шо•йылныс%{оы%}</st>
@@ -136834,19 +135209,8 @@
      <tg xml:lang="eng">
        <t pos="A">back, hind, rear</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">шойылсо</l>
-     <stg>
-       <st Contlex="A_">шойылс%{оы%}</st>
-     </stg> <stress>шо•йылсо</stress>
-   </lg>
-   <mg>
-     <defNative/>
      <tg xml:lang="fin">
-       <t pos="A"/>
+       <t pos="A">takainen; takana oleva</t>
      </tg>
    </mg>
 </e>
@@ -136855,6 +135219,7 @@
      <l pos="A">шойылысо</l>
      <stg>
        <st Contlex="A_">шо•йылыс%{оы%}</st>
+       <st Contlex="A_" status="Err/Orth">шойылс%{оы%}</st>
      </stg> <stress>шо•йылысо</stress>
    </lg>
    <mg>
@@ -136908,10 +135273,11 @@
 </e>
 <e>
    <lg>
-     <l pos="A">шоктмо</l>
+     <l pos="A">шокмо</l>
      <stg>
-       <st Contlex="A_">шоктм%{оы%}</st>
-     </stg> <stress>шо•ктмо</stress>
+       <st Contlex="A_">шокм%{оы%}</st>
+       <st Contlex="A_" status="Err/Orth">шоктм%{оы%}</st>
+     </stg> <stress>шо•кмо</stress>
    </lg>
    <mg>
      <defNative/>
@@ -137968,12 +136334,16 @@
      <l pos="A">шопышо</l>
      <stg>
        <st Contlex="A_">шо•пыш%{оы%}</st>
+       <st Contlex="A_" status="Err/Orth">шовыш%{оы%}</st>
      </stg> <stress>шо•пышо</stress>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">spoiled, sour</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">hapan</t>
      </tg>
    </mg>
 </e>
@@ -138482,20 +136852,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">шоше</l>
-     <stg>
-       <st Contlex="A/S">шош%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">keväinen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">шошика</l>
      <stg>
        <st Contlex="A_">шошика•</st>
@@ -138505,20 +136861,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">violet</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">шошымсе</l>
-     <stg>
-       <st Contlex="A_">шошымс%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">keväinen</t>
      </tg>
    </mg>
 </e>
@@ -138534,19 +136876,8 @@
      <tg xml:lang="eng">
        <t pos="A">spring, spring's, vernal</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">шоя</l>
-     <stg>
-       <st Contlex="A/S-a/e">шоя</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
      <tg xml:lang="fin">
-       <t pos="A">valheellinen A/S</t>
+       <t pos="A">keväinen</t>
      </tg>
    </mg>
 </e>
@@ -138561,20 +136892,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">occipital</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">шояк</l>
-     <stg>
-       <st Contlex="A/S">шояк</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">valheellinen A/S</t>
      </tg>
    </mg>
 </e>
@@ -140153,21 +138470,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">шун</l>
-     <stg>
-       <st Contlex="A/S">шун</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">savi-</t>
-       <t pos="A">savinen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">шуналге</l>
      <stg>
        <st Contlex="A_">шуна•лг%{еы%}</st>
@@ -141195,21 +139497,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A">(ääni) käheä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">шыже</l>
-     <stg>
-       <st Contlex="A/S">шыж%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">syys-</t>
-       <t pos="A">syksyinen A/S</t>
      </tg>
    </mg>
 </e>
@@ -142310,21 +140597,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">waxen, cream, turned yellow</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">шыште</l>
-     <stg>
-       <st Contlex="A/S">шышт%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">vaha-</t>
-       <t pos="A">vahainen A/S</t>
      </tg>
    </mg>
 </e>
@@ -144562,20 +142834,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">шӱште</l>
-     <stg>
-       <st Contlex="A/S">шӱшт%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">nahkainen A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">шӱштыра</l>
      <stg>
        <st Contlex="A-a/e">шӱштыра</st>
@@ -146507,26 +144765,6 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">of an epoch, of an era, of an age</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">эр</l>
-     <stg>
-       <st Contlex="A/S">эр</st>
-     </stg> <stress>эр</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">aamuinen</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">aikainen A/S</t>
      </tg>
    </mg>
 </e>
@@ -151792,44 +150030,20 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ӱлылсе</l>
-     <stg>
-       <st Contlex="A_">ӱлылс%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">alinen</t>
-       <t pos="A">alimmainen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">ӱлылсӧ</l>
-     <stg>
-       <st Contlex="A_">ӱлылс%{ӧы%}</st>
-     </stg> <stress>ӱ•лылсӧ</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">ӱлылысӧ</l>
      <stg>
        <st Contlex="A_">ӱ•лылыс%{ӧы%}</st>
+       <st Contlex="A_" status="Err/Orth">ӱлылс%{ӧы%}</st>
      </stg> <stress>ӱ•лылысӧ</stress>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">lower, bottom</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">alinen</t>
+       <t pos="A">alimmainen</t>
      </tg>
    </mg>
 </e>
@@ -151894,22 +150108,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ӱмбал</l>
-     <stg>
-       <st Contlex="A/S">ӱмбал</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">pinta-</t>
-       <t pos="A">päällimmäinen</t>
-       <t pos="A">ylä- A/S</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l hid="Hom2" pos="A">ӱмбалан</l>
      <stg>
        <st Contlex="A_">ӱмбала•н</st>
@@ -151962,21 +150160,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">ӱмбалсе</l>
-     <stg>
-       <st Contlex="A_">ӱмбалс%{еы%}</st>
-     </stg> <stress>ӱмба•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">päällä oleva</t>
-       <t pos="A">(adess. +) oleva</t>
      </tg>
    </mg>
 </e>
@@ -152363,28 +150546,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ӱпшыше</l>
-     <stg>
-       <st Contlex="A_">ӱпшыш%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">haiseva</t>
-       <t pos="A">tuoksuva</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">pilaantunut</t>
-       <t pos="A">ummehtunut</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">ӱпшышӧ</l>
      <stg>
        <st Contlex="A_">ӱ•пшыш%{ӧы%}</st>
@@ -152394,6 +150555,12 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="A">smelly, smelling</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">haiseva</t>
+       <t pos="A">tuoksuva</t>
+       <t pos="A">pilaantunut</t>
+       <t pos="A">ummehtunut</t>
      </tg>
    </mg>
 </e>
@@ -152483,23 +150650,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ӱстембалсе</l>
-     <stg>
-       <st Contlex="A_">ӱстембалс%{еы%}</st>
-     </stg> <stress>ӱстемба•лсе</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">ӱстембалысе</l>
      <stg>
        <st Contlex="A_">ӱстемба•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">ӱстембалс%{еы%}</st>
      </stg> <stress>ӱстемба•лысе</stress>
    </lg>
    <mg>
@@ -155153,7 +153307,10 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">idler, loafer, lazy person; lazy</t>
+       <t pos="A">lazy</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">laiska</t>
      </tg>
    </mg>
 </e>
@@ -155258,19 +153415,6 @@
    <mg>
      <tg xml:lang="eng">
        <t pos="A">children's, for children; childishness; childhood</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="A">йошкарге</l>
-     <stg>
-       <st Contlex="A_">йошка•рг%{еы%}</st>
-     </stg> <stress>йошка•рге</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t pos="A">red; {figuratively}{politics}Red, communist; {history}ten-ruble bill, chervonets; red wine</t>
      </tg>
    </mg>
 </e>
@@ -155492,6 +153636,10 @@
    <mg>
      <tg xml:lang="eng">
        <t pos="A">bottom, foot, lower part; lower, bottom; under, worn under other clothes</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">ala-</t>
+       <t pos="A">alus-</t>
      </tg>
    </mg>
 </e>
@@ -155921,7 +154069,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">{mythology}(evil spirit); {mythology}(ancestral guardian spirit); sacred grove; {pejorative}damn, damn it, dammit; {pejorative}damned, blasted, infernal</t>
+       <t pos="A">{pejorative}damned, blasted, infernal</t>
      </tg>
    </mg>
 </e>
@@ -156029,7 +154177,11 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">distance, gap; interval; relations, relationships; middle; average, medium, mean</t>
+       <t pos="A">middle; average, medium, mean</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">keski-</t>
+       <t pos="A">väli-</t>
      </tg>
    </mg>
 </e>
@@ -156184,7 +154336,7 @@
    <lg>
      <l pos="A">косатале</l>
      <stg>
-       <st Contlex="A_">косата•льʼ%{еы%}</st>
+       <st Contlex="A_">косата•лʼь%{еы%}</st>
      </stg> <stress>косата•лʼе</stress>
    </lg>
    <mg>
@@ -156373,7 +154525,11 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">serf, servile, related to serfdom; (a) serf</t>
+       <t pos="A">serf, servile, related to serfdom</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">maaorja-</t>
+       <t pos="A">maaorjuus-</t>
      </tg>
    </mg>
 </e>
@@ -157564,6 +155720,11 @@
      <tg xml:lang="eng">
        <t pos="A">reading; read; {textile working}{unit}(unit used when counting threads)</t>
      </tg>
+     <tg xml:lang="fin">
+       <t pos="A">luettu</t>
+       <t pos="A">luku-</t>
+       <t pos="A">laskettu</t>
+     </tg>
    </mg>
 </e>
 <e order="2">
@@ -158478,7 +156639,7 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="A">нʼимо</l>
+     <l pos="A">нимо</l>
      <stg>
        <st Contlex="A_">нʼимо•</st>
      </stg> <stress>нʼимо•</stress>
@@ -158491,7 +156652,7 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="A">нʼимо-оккӱл</l>
+     <l pos="A">нимо-оккӱл</l>
      <stg>
        <st Contlex="A_">нʼимо•-о•ккӱл</st>
      </stg> <stress>нʼимо•-о•ккӱл</stress>
@@ -158504,7 +156665,7 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="A">нʼимогае</l>
+     <l pos="A">нимогае</l>
      <stg>
        <st Contlex="A_">нʼимога•е</st>
      </stg> <stress>нʼимога•е</stress>
@@ -158516,7 +156677,7 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="A">нʼимогай</l>
+     <l pos="A">нимогай</l>
      <stg>
        <st Contlex="A_">нʼимога•й</st>
      </stg> <stress>нʼимога•й</stress>
@@ -158529,7 +156690,7 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="A">нʼимодымо</l>
+     <l pos="A">нимодымо</l>
      <stg>
        <st Contlex="A_">нʼимо•дым%{оы%}</st>
      </stg> <stress>нʼимо•дымо</stress>
@@ -158542,7 +156703,7 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="A">нʼимолык</l>
+     <l pos="A">нимолык</l>
      <stg>
        <st Contlex="A_">нʼимо•лык</st>
      </stg> <stress>нʼимо•лык</stress>
@@ -158555,7 +156716,7 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="A">нʼимучашдыме</l>
+     <l pos="A">нимучашдыме</l>
      <stg>
        <st Contlex="A_">нʼимуча•шдым%{еы%}</st>
      </stg> <stress>нʼимуча•шдыме</stress>
@@ -159576,7 +157737,10 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">worker, workman,&lt;amer&gt;laborer&lt;/amer&gt;,&lt;brit&gt;labourer&lt;/brit&gt;; worker's, working, working-class; working</t>
+       <t pos="A">worker's, working, working-class; working</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">työväen-</t>
      </tg>
    </mg>
 </e>
@@ -159602,7 +157766,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">small, tiny; piece, bit</t>
+       <t pos="A">small, tiny</t>
      </tg>
    </mg>
 </e>
@@ -162089,7 +160253,7 @@
        <t pos="A">brass; bronze; {color}bronze, copper, reddish-yellow</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="A">messinkinen A/S</t>
+       <t pos="A">messinkinen</t>
      </tg>
    </mg>
 </e>
@@ -162640,21 +160804,11 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="A">тыгае</l>
-     <stg>
-       <st Contlex="A_">тыга•е</st>
-     </stg> <stress>тыга•е</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng"> <t/>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
      <l pos="A">тыгай</l>
      <stg>
        <st Contlex="A_">тыга•й</st>
+       <st Contlex="A_">тыга•е</st>
+       <st Contlex="A_" status="Err/Orth">тыга•нʼь%{еы%}</st>
      </stg> <stress>тыга•й</stress>
    </lg>
    <mg>
@@ -163565,7 +161719,7 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="A">унчылʼи</l>
+     <l pos="A">унчыли</l>
      <stg>
        <st Contlex="A_">унчылʼи•</st>
      </stg> <stress>унчылʼи•</stress>
@@ -164656,7 +162810,10 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">back, rear, hind; backside, back, rear part; {figuratively}{anatomy}behind, buttocks, backside, rear</t>
+       <t pos="A">back, rear, hind</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">taka-</t>
      </tg>
    </mg>
 </e>
@@ -164665,11 +162822,11 @@
      <l hid="Hom1" pos="A">ший</l>
      <stg>
        <st Contlex="A_">ший</st>
-     </stg> <stress>ший [1]</stress>
+     </stg> <stress>ший</stress>
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">{also figuratively}{chemistry}silver,{scientific}Ag; {ethnography}silver coin ornament (worn by women); {color}silvery, silver; {figuratively}silvery (voice, sound)</t>
+       <t pos="A">{color}silvery, silver; {figuratively}silvery (voice, sound)</t>
      </tg>
    </mg>
 </e>
@@ -164682,7 +162839,10 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">silver and gold, riches, treasure; {color}silver and gold</t>
+       <t pos="A">{color}silver and gold</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">hopean kultainen</t>
      </tg>
    </mg>
 </e>
@@ -164840,6 +163000,9 @@
      <tg xml:lang="eng">
        <t pos="A">back, rear, hind; behind (no movement); back part, back</t>
      </tg>
+     <tg xml:lang="fin">
+       <t pos="A">taka-</t>
+     </tg>
    </mg>
 </e>
 <e order="2">
@@ -164864,7 +163027,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">left, left-hand; {politics}left-wing; the one on the left, the left one</t>
+       <t pos="A">left, left-hand; {politics}left-wing</t>
      </tg>
    </mg>
 </e>
@@ -164877,7 +163040,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">on the left, on the left-hand side, left; {figuratively}wrong, incorrect; left, left-hand; left-handed person, lefty</t>
+       <t pos="A">left, left-hand; {figuratively}wrong, incorrect</t>
      </tg>
    </mg>
 </e>
@@ -164903,7 +163066,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">coolness, freshness; cool</t>
+       <t pos="A">cool</t>
      </tg>
    </mg>
 </e>
@@ -165163,7 +163326,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">{mathematics}polyhedron; {figuratively}multilateral, many-sided</t>
+       <t pos="A">{figuratively}multilateral, many-sided</t>
      </tg>
    </mg>
 </e>
@@ -165176,7 +163339,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">winged, having wings, with wings; with a fin, with fins, with flippers; having sails, having vanes, with sails, with vanes (e.g., windmill); bird</t>
+       <t pos="A">winged, having wings, with wings; with a fin, with fins, with flippers; having sails, having vanes, with sails, with vanes (e.g., windmill)</t>
      </tg>
    </mg>
 </e>
@@ -165722,7 +163885,10 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">morning; early</t>
+       <t pos="A">early</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">aamuinen; aikainen</t>
      </tg>
    </mg>
 </e>
@@ -165735,7 +163901,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">dirty, untidy; {pejorative}untidy person, sloven, slob; {pejorative}devil, scum, vermin; dirtiness</t>
+       <t pos="A">dirty, untidy</t>
      </tg>
    </mg>
 </e>
@@ -165748,7 +163914,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">pampered, effete, spoiled; big baby, sissy, spoiled child</t>
+       <t pos="A">pampered, effete, spoiled</t>
      </tg>
    </mg>
 </e>
@@ -165787,7 +163953,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">tomorrow; {figuratively}tomorrow, the near future,; tomorrow's</t>
+       <t pos="A">tomorrow's</t>
      </tg>
    </mg>
 </e>
@@ -166307,20 +164473,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">butter; oil; nutrients, fertilizer,&lt;brit_alt&gt;fertiliser&lt;/brit_alt&gt;; ointment; {figuratively}sensual, lustful</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="A">ӱмбал</l>
-     <stg>
-       <st Contlex="A_">ӱмба•л</st>
-     </stg> <stress>ӱмба•л</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t pos="A">top, surface, outside, cover; top part, upper part, top; roof, roofing; appearance, exterior, external appearance; sour cream; cream; {figuratively}the cream (e.g., of society); {ethnography}outer layer of hemp, hemp of worst quality; upper, top, outside, outer; outward, external; on</t>
+       <t pos="A">{figuratively}sensual, lustful</t>
      </tg>
    </mg>
 </e>
@@ -166368,11 +164521,16 @@
      <l pos="A">ӱмбалысе</l>
      <stg>
        <st Contlex="A_">ӱмба•лыс%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">ӱмбалс%{еы%}</st>
      </stg> <stress>ӱмба•лысе</stress>
    </lg>
    <mg>
      <tg xml:lang="eng">
        <t pos="A">upper, surface, top</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">päällä oleva</t>
+       <t pos="A">(adess. +) oleva</t>
      </tg>
    </mg>
 </e>
