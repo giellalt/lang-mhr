@@ -12,11 +12,11 @@ Tests:
 
   Noun - кол: # Noun 'fish'
 
-     кол+N+Sg+Nom: кол
-     кол+N+Sg+Nom+PxSg1: колем
-     кол+N+Sg+Nom+Foc/at: колат
-     кол+N+Sg+Gen: колын
-     кол+N+Sg+Dat: коллан
-     кол+N+Pl+Nom: [кол-влак, кол-шамыч]
-     кол+N+Sg+Nom+PxSg3: колжо	
+    кол+N+Sg+Nom: кол
+    кол+N+Sg+Nom+PxSg1: колем
+    кол+N+Sg+Nom+Foc/at: колат
+    кол+N+Sg+Gen: колын
+    кол+N+Sg+Dat: коллан
+    кол+N+Pl+Nom: [кол-влак, кол-шамыч]
+    кол+N+Sg+Nom+PxSg3: колжо	
 
