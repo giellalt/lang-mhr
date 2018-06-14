@@ -40,19 +40,19 @@ Tests:
   Noun - ола: # Noun 'city'
 
 
-     ола+N+Sg+Nom: ола
-     ола+N+Sg+Gen: олан
-     ола+N+Sg+Dat: олалан
-     ола+N+Sg+Acc: олам
-     ола+N+Sg+Cmpr: олала
-     ола+N+Sg+Com: олаге
-     ола+N+Sg+Ine: олаште
-     ола+N+Sg+Ill: [олашке, олаш]
-     ола+N+Sg+Lat: олаш
-     ола+N+Sg+Abe: оладе
+     ола+Hom1+N+Sg+Nom: ола
+     ола+Hom1+N+Sg+Gen: олан
+     ола+Hom1+N+Sg+Dat: олалан
+     ола+Hom1+N+Sg+Acc: олам
+     ола+Hom1+N+Sg+Cmpr: олала
+     ола+Hom1+N+Sg+Com: олаге
+     ола+Hom1+N+Sg+Ine: олаште
+     ола+Hom1+N+Sg+Ill: [олашке, олаш]
+     ола+Hom1+N+Sg+Lat: олаш
+     ола+Hom1+N+Sg+Abe: оладе
 
-     ола+N+Sg+Nom+PxSg1: олам
-     ола+N+Sg+Nom+Foc/at: олат
-     ола+N+Pl+Nom: [ола-влак, ола-шамыч]
-     ола+N+Sg+Nom+PxSg3: [олаже, олаж]
+     ола+Hom1+N+Sg+Nom+PxSg1: олам
+     ола+Hom1+N+Sg+Nom+Foc/at: олат
+     ола+Hom1+N+Pl+Nom: [ола-влак, ола-шамыч]
+     ола+Hom1+N+Sg+Nom+PxSg3: [олаже, олаж]
 
