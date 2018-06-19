@@ -160741,12 +160741,12 @@
    <lg>
      <l hid="Hom3" pos="A">тур</l>
      <stg>
-       <st Contlex="A_">тур [3]</st>
+       <st Contlex="A_">тур</st>
      </stg> <stress>тур [3]</stress>
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">quiet, silence, calm; quiet, silent, calm</t>
+       <t pos="A">quiet, silent, calm</t>
      </tg>
    </mg>
 </e>
