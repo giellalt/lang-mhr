@@ -490,7 +490,7 @@ symbols in the lexicon files:
  * __А2 	__ = 
  * __Ы1 	__ = stem-onset archi-vowel
  * __Ы2	__ =
- * __з2	__ = for возаш : воч Preparing to remove %^LOAN
+ * __з2	__ = for возаш : воч 
  * к2   кочк- коч# 'eat/есть' мушк- муш 'wash/мыть'
  * н2   шинч- шич# 'sit down/сесть'
  * т2   лект- лек# 'leave/ уходить'
@@ -499,7 +499,6 @@ symbols in the lexicon files:
 
 And following triggers to control variation
  * %^V2IMPRT	 for -ем verbs in й
- * %^LOAN	         for preserving clusters in фрукт, ланч
  * %^END       	 for -ам verb final, i.e. Imprf
 
  * {front} 
