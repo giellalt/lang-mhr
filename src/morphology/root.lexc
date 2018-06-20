@@ -524,7 +524,10 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 А2 	     !!≈ * __@CODE@__ = 
 Ы1 	     !!≈ * __@CODE@__ = stem-onset archi-vowel
 Ы2	     !!≈ * __@CODE@__ =
-з2	     !!≈ * __@CODE@__ = for возаш : воч
+з2	     !!≈ * __@CODE@__ = for возаш : воч Preparing to remove %^LOAN
+к2  !!= * @CODE@ кочк- коч# 'eat/есть' мушк- муш 'wash/мыть'
+н2  !!= * @CODE@ шинч- шич# 'sit down/сесть'
+т2  !!= * @CODE@ лект- лек# 'leave/ уходить'
 %>	     !!≈ * __@CODE@__ = 
 +TEST    !!≈ * __@CODE@__ = 
 

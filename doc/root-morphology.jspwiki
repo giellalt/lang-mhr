@@ -490,7 +490,10 @@ symbols in the lexicon files:
  * __А2 	__ = 
  * __Ы1 	__ = stem-onset archi-vowel
  * __Ы2	__ =
- * __з2	__ = for возаш : воч
+ * __з2	__ = for возаш : воч Preparing to remove %^LOAN
+ * к2   кочк- коч# 'eat/есть' мушк- муш 'wash/мыть'
+ * н2   шинч- шич# 'sit down/сесть'
+ * т2   лект- лек# 'leave/ уходить'
  * __%>	__ = 
  * __+TEST__ = 
 

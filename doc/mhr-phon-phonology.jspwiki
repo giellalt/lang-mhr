@@ -49,6 +49,15 @@ Archiphonemes for vowels, Apertium style
 !Arcihphonemes for consonants
 
  * з2:з   for з:ч, thus  возаш - воч but колхоз (*колхоч)
+ * з2:ч   for native stems
+ * к2:0   кочк- коч# 'eat/есть' мушк- муш 'wash/мыть'
+ * к2:к   кочк- коч# 'eat/есть' мушк- муш 'wash/мыть'
+ * н2:0   шинч- шич# 'sit down/сесть'
+ * н2:н   шинч- шич# 'sit down/сесть'
+ * т2:0   лект- лек# 'leave/ уходить'
+ * т2:т   лект- лек# 'leave/ уходить'
+
+
 
  * %^V2IMPRT:0	 for -ем verbs in й
  * %^END:0		   for -ам verb final, i.e. Imprf
@@ -97,6 +106,7 @@ __ Palatal mark loss before vowel __
 __ Onset vowel loss in suffix after stem vowel __  
 
 __ Onset vowel Е2 realized in suffix е __  
+
 
 __ Onset vowel Е2 realized in suffix э __  
 
@@ -251,9 +261,13 @@ __ Onset consonant devoicing з:с  __
 
 __ Stem-final consonant loss т __
 
+
 __ Stem-final consonant loss к __
 
+
 __ Stem-final consonant loss н __
+
+
 
 
 
@@ -272,11 +286,11 @@ __ Stem-final consonant loss н __
 * __воз2>са __
 * __воч>са __
 
-__ Stem-final consonant variation з:ч __
+__ Stem-final consonant variation з2:з __
 
 
 
-__ Stem-final consonant variation з:ч __
+__ Stem-final consonant variation з2:з __
 
 
 
