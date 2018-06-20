@@ -524,7 +524,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 А2 	     !!≈ * __@CODE@__ = 
 Ы1 	     !!≈ * __@CODE@__ = stem-onset archi-vowel
 Ы2	     !!≈ * __@CODE@__ =
-з2	     !!≈ * __@CODE@__ = for возаш : воч Preparing to remove %^LOAN
+з2	     !!≈ * __@CODE@__ = for возаш : воч 
 к2  !!= * @CODE@ кочк- коч# 'eat/есть' мушк- муш 'wash/мыть'
 н2  !!= * @CODE@ шинч- шич# 'sit down/сесть'
 т2  !!= * @CODE@ лект- лек# 'leave/ уходить'
@@ -533,7 +533,6 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 
 !! And following triggers to control variation
 %^V2IMPRT	!!= * @CODE@ for -ем verbs in й
-%^LOAN	        !!= * @CODE@ for preserving clusters in фрукт, ланч
 %^END       	!!= * @CODE@ for -ам verb final, i.e. Imprf
 
 {front}    !!≈ * @CODE@ 
