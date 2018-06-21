@@ -63,6 +63,18 @@ endif # CAN_FOMA
 #################################################
 #### Add language-specific build rules here: ####
 
+
+# ... as well as in the HFST analysers:
+analyser-gt-%.hfst: analyser-gt-%.tmp.hfst \
+				filters/rename-POS_before_Der-tags.hfst        
+	$(AM_V_HXFST)$(PRINTF) "read regex \
+		    @\"filters/rename-POS_before_Der-tags.hfst\"      \
+		.o. @\"$<\"                                           \
+		;\n\
+	invert net\n\
+	save stack $@\n\
+	quit\n" | $(HFST_XFST) -p $(MORE_VERBOSITY)
+
 # ... as well as in the HFST disambiguation analyser:
 analyser-disamb-gt-desc.hfst: analyser-disamb-gt-desc.tmp.hfst \
 				filters/rename-POS_before_Der-tags.hfst        
