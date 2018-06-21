@@ -158,16 +158,16 @@ Question and Focus particles:
  * __+Ex/TV__ = change to other transitivity
  * __+EX/IV__ = change to other transitivity
 
- * __+Der/MWN__ = Modifier without noun (better: +A+Sg+Nom etc.)
- * __+Der/Poss__ = Originally genitive form without a head
 
  * __+Der/Nom__ =  Derivation V > N: Nominalization
  * __+Der/NomNeg__ = Derivation V > N: Negative nominalization
  * __+Der/Priv__ =  Derivation N > A: Privative adjective
- * __+Der/Poss__ =   Derivation N > A: Possessive adjective
+ * __+Der/Poss__ =   Derivation N > A: Possessive adjective, orig. genitive form without a head
+ * __+Der/Pur__ =   Derivation N > A: 
  * __+Der/Rel__ =  Derivation N > A: Relational adjective
  * __+Der/Caus__ = Derivation V > V: Causative
  * __+Der/Refl__ = Derivation V > V: Reflexive
+ * __+Der/MWN__ = Modifier without noun (better: +A+Sg+Nom etc.)
 
 Abbreviated words are classified with:
  * __+ABBR__ = for abbreviations that (may) contain period
@@ -217,7 +217,7 @@ The Usage extents are marked using following tags:
  * __+Use/NGminip__ Not for miniparadigm in VD dicts
  * __+Use/Disamb__ means that the following is only used in the analyser feeding the disambiguator
  * __+Use/GC__ only retained in the HFST Grammar Checker disambiguation analyser
- * __+Use/-PMatch__ Do not include in fst's made for hfst-pmatch
+ * __+Use/-PMatch__ Do not include in fsts made for hfst-pmatch
  * __+MWESplit__ Split point for MWE
 
  * __+Err/Orth__ = orthographical error (analysed, not accepted in speller)
@@ -491,9 +491,9 @@ symbols in the lexicon files:
  * __Ы1 	__ = stem-onset archi-vowel
  * __Ы2	__ =
  * __з2	__ = for возаш : воч 
- * к2   кочк- коч# 'eat/есть' мушк- муш 'wash/мыть'
- * н2   шинч- шич# 'sit down/сесть'
- * т2   лект- лек# 'leave/ уходить'
+ * к2   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+ * н2   шинч- шич# "sit down/сесть"
+ * т2   лект- лек# "leave/ уходить"
  * __%>	__ = 
  * __+TEST__ = 
 
