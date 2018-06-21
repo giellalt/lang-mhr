@@ -239,7 +239,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
  +Use/NGminip     !!≈ * __@CODE@__ Not for miniparadigm in VD dicts
  +Use/Disamb      !!≈ * __@CODE@__ means that the following is only used in the analyser feeding the disambiguator
  +Use/GC          !!≈ * __@CODE@__ only retained in the HFST Grammar Checker disambiguation analyser
- +Use/-PMatch     !!≈ * __@CODE@__ Do not include in fst's made for hfst-pmatch
+ +Use/-PMatch     !!≈ * __@CODE@__ Do not include in fsts made for hfst-pmatch
  +MWESplit        !!≈ * __@CODE@__ Split point for MWE
 
 +Err/Orth        !!≈ * __@CODE@__ = orthographical error (analysed, not accepted in speller)
@@ -525,9 +525,9 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 Ы1 	     !!≈ * __@CODE@__ = stem-onset archi-vowel
 Ы2	     !!≈ * __@CODE@__ =
 з2	     !!≈ * __@CODE@__ = for возаш : воч 
-к2  !!= * @CODE@ кочк- коч# 'eat/есть' мушк- муш 'wash/мыть'
-н2  !!= * @CODE@ шинч- шич# 'sit down/сесть'
-т2  !!= * @CODE@ лект- лек# 'leave/ уходить'
+к2  !!= * @CODE@ кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+н2  !!= * @CODE@ шинч- шич# "sit down/сесть"
+т2  !!= * @CODE@ лект- лек# "leave/ уходить"
 %>	     !!≈ * __@CODE@__ = 
 +TEST    !!≈ * __@CODE@__ = 
 
