@@ -6,28 +6,10 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
-      <l pos="Pron">ала-куде</l>
-
-      <stg>
-        <st Contlex="PronInd">ала-куд%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>joku, jompikumpi</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">ала-кудо</l>
 
       <stg>
-        <st Contlex="PRON_">ала-кудо</st>
+        <st Contlex="PRON_">ала-куд%{оы%}</st>
       </stg>
 
       <stress>ала-ку•до</stress>
@@ -35,9 +17,8 @@
 
     <mg>
       <defNative/>
-
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>joku, jompikumpi</t>
       </tg>
     </mg>
   </e>
@@ -224,24 +205,6 @@
 
   <e>
     <lg>
-      <l pos="Pron">ала-кушке</l>
-
-      <stg>
-        <st Contlex="PronInd">ала-кушк%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>johonkin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">ала-кушкен</l>
 
       <stg>
@@ -263,7 +226,7 @@
       <l pos="Pron">ала-кушко</l>
 
       <stg>
-        <st Contlex="PRON_">ала-кушко</st>
+        <st Contlex="PRON_">ала-кушк%{оы%}</st>
       </stg>
 
       <stress>ала-ку•шко</stress>
@@ -273,25 +236,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">ала-куште</l>
-
-      <stg>
-        <st Contlex="PronInd">ала-кушт%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>jossakin</t>
+        <t>johonkin</t>
       </tg>
     </mg>
   </e>
@@ -301,7 +246,7 @@
       <l pos="Pron">ала-кушто</l>
 
       <stg>
-        <st Contlex="PRON_">ала-кушто</st>
+        <st Contlex="PRON_">ала-кушт%{оы%}</st>
       </stg>
 
       <stress>ала-ку•што</stress>
@@ -311,7 +256,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>jossakin</t>
       </tg>
     </mg>
   </e>
@@ -417,10 +362,10 @@
   </e>
   <e>
     <lg>
-      <l pos="Pron">ала-могайе</l>
+      <l pos="Pron">ала-могае</l>
 
       <stg>
-        <st Contlex="PronInd">ала-могай%{еы%}</st>
+        <st Contlex="PronInd">ала-могае</st>
       </stg>
     </lg>
 
@@ -616,7 +561,7 @@
       <l pos="Pron">вийге</l>
 
       <stg>
-        <st Contlex="PRON_">вийг%{еы%}</st>
+        <st Contlex="PRON_">вийге</st>
       </stg>
 
       <stress>вийге</stress>
@@ -672,24 +617,6 @@
 
   <e>
     <lg>
-      <l pos="Pron">икме</l>
-
-      <stg>
-        <st Contlex="PronInd">икм%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>jokin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">икмо</l>
 
       <stg>
@@ -703,7 +630,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>jokin</t>
       </tg>
     </mg>
   </e>
@@ -773,7 +700,7 @@
       <l pos="Pron">иктаж-кузе</l>
 
       <stg>
-        <st Contlex="PronInd">иктаж-куз%{еы%}</st>
+        <st Contlex="PronInd">иктаж-кузе</st>
       </stg>
     </lg>
 
@@ -786,7 +713,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">иктаж-кӧ</l>
 
@@ -806,10 +733,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">иктаж-кӱшан</l>
+      <l pos="Pron">иктаж-кушан</l>
 
       <stg>
-        <st Contlex="PronInd">иктаж-кӱшан</st>
+        <st Contlex="PronInd">иктаж-кушан</st>
       </stg>
     </lg>
 
@@ -824,10 +751,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">иктаж-кӱшеч</l>
+      <l pos="Pron">иктаж-кушеч</l>
 
       <stg>
-        <st Contlex="PronInd">иктаж-кӱшеч</st>
+        <st Contlex="PronInd">иктаж-кушеч</st>
       </stg>
     </lg>
 
@@ -840,43 +767,7 @@
     </mg>
   </e>
 
-  <e>
-    <lg>
-      <l pos="Pron">иктаж-кӱшке</l>
-
-      <stg>
-        <st Contlex="PronInd">иктаж-кӱшк%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>johonkin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">иктаж-кӱште</l>
-
-      <stg>
-        <st Contlex="PronInd">иктаж-кӱшт%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>jossakin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
+  <e  exclude="fst">
     <lg>
       <l pos="Pron">иктаж-мо</l>
 
@@ -914,10 +805,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">иктаж-могайе</l>
+      <l pos="Pron">иктаж-могае</l>
 
       <stg>
-        <st Contlex="PronInd">иктаж-могай%{еы%}</st>
+        <st Contlex="PronInd">иктаж-могае</st>
       </stg>
     </lg>
 
@@ -1029,30 +920,10 @@
       <l pos="Pron">иктаж-кудо</l>
 
       <stg>
-        <st Contlex="PRON_">икта•ж-кудо</st>
+        <st Contlex="PRON_">икта•ж-куд%{оы%}</st>
       </stg>
 
       <stress>икта•ж-ку•до</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">иктаж-кузе</l>
-
-      <stg>
-        <st Contlex="PRON_">икта•ж-кузе</st>
-      </stg>
-
-      <stress>икта•ж-кузе•</stress>
     </lg>
 
     <mg>
@@ -1104,52 +975,13 @@
     </mg>
   </e>
 
-  <e>
-    <lg>
-      <l pos="Pron">иктаж-кушан</l>
-
-      <stg>
-        <st Contlex="PRON_">икта•ж-кушан</st>
-      </stg>
-
-      <stress>икта•ж-куша•н</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">иктаж-кушеч</l>
-
-      <stg>
-        <st Contlex="PRON_">икта•ж-кушеч</st>
-      </stg>
-
-      <stress>икта•ж-куше•ч</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
 
   <e>
     <lg>
       <l pos="Pron">иктаж-кушко</l>
 
       <stg>
-        <st Contlex="PRON_">икта•ж-кушко</st>
+        <st Contlex="PRON_">икта•ж-кушк%{оы%}</st>
       </stg>
 
       <stress>икта•ж-ку•шко</stress>
@@ -1159,7 +991,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>johonkin</t>
       </tg>
     </mg>
   </e>
@@ -1169,7 +1001,7 @@
       <l pos="Pron">иктаж-кушто</l>
 
       <stg>
-        <st Contlex="PRON_">икта•ж-кушто</st>
+        <st Contlex="PRON_">икта•ж-кушт%{оы%}</st>
       </stg>
 
       <stress>икта•ж-ку•што</stress>
@@ -1179,47 +1011,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">иктаж-кӧ</l>
-
-      <stg>
-        <st Contlex="PRON_">икта•ж-кӧ</st>
-      </stg>
-
-      <stress>икта•ж-кӧ•</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">иктаж-мо</l>
-
-      <stg>
-        <st Contlex="PRON_">икта•ж-мо</st>
-      </stg>
-
-      <stress>икта•ж-мо•</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>jossakin</t>
       </tg>
     </mg>
   </e>
@@ -1384,26 +1176,6 @@
 
   <e>
     <lg>
-      <l pos="Pron">икте-весе</l>
-
-      <stg>
-        <st Contlex="PRON_">и•кте-вес%{еы%}</st>
-      </stg>
-
-      <stress>и•кте-ве•се</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">кажне</l>
 
       <stg>
@@ -1424,28 +1196,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">керек-куде</l>
-
-      <stg>
-        <st Contlex="PronInd">керек-куд%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>kuka/mikä tahansa</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">керек-кудо</l>
 
       <stg>
-        <st Contlex="PRON_">керек-кудо</st>
+        <st Contlex="PRON_">керек-куд%{оы%}</st>
       </stg>
 
       <stress>керек-ку•до</stress>
@@ -1455,7 +1209,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>kuka/mikä tahansa</t>
       </tg>
     </mg>
   </e>
@@ -1582,11 +1336,13 @@
 
   <e>
     <lg>
-      <l pos="Pron">керек-кушке</l>
+      <l pos="Pron">керек-кушко</l>
 
       <stg>
-        <st Contlex="PronInd">керек-кушк%{еы%}</st>
+        <st Contlex="PRON_">керек-кушк%{оы%}</st>
       </stg>
+
+      <stress>керек-ку•шко</stress>
     </lg>
 
     <mg>
@@ -1600,48 +1356,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">керек-кушко</l>
-
-      <stg>
-        <st Contlex="PRON_">керек-кушко</st>
-      </stg>
-
-      <stress>керек-ку•шко</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">керек-куште</l>
-
-      <stg>
-        <st Contlex="PronInd">керек-кушт%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>missä tahansa</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">керек-кушто</l>
 
       <stg>
-        <st Contlex="PRON_">керек-кушто</st>
+        <st Contlex="PRON_">керек-кушт%{оы%}</st>
       </stg>
 
       <stress>керек-ку•што</stress>
@@ -1651,7 +1369,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>missä tahansa</t>
       </tg>
     </mg>
   </e>
@@ -1758,26 +1476,6 @@
 
   <e>
     <lg>
-      <l pos="Pron">керек-кунамат</l>
-
-      <stg>
-        <st Contlex="PRON_">кере•к-кунамат</st>
-      </stg>
-
-      <stress>кере•к-кунама•т</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">керек-кушечын</l>
 
       <stg>
@@ -1798,28 +1496,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">кеч-куде</l>
-
-      <stg>
-        <st Contlex="PronInd">кеч-куд%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>kuka/mikä tahansa</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">кеч-кудо</l>
 
       <stg>
-        <st Contlex="PRON_">кеч-кудо</st>
+        <st Contlex="PRON_">кеч-куд%{оы%}</st>
       </stg>
 
       <stress>кеч-ку•до</stress>
@@ -1829,7 +1509,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>kuka/mikä tahansa</t>
       </tg>
     </mg>
   </e>
@@ -2014,11 +1694,13 @@
 
   <e>
     <lg>
-      <l pos="Pron">кеч-кушке</l>
+      <l pos="Pron">кеч-кушко</l>
 
       <stg>
-        <st Contlex="PronInd">кеч-кушк%{еы%}</st>
+        <st Contlex="PRON_">кеч-кушк%{оы%}</st>
       </stg>
+
+      <stress>кеч-ку•шко</stress>
     </lg>
 
     <mg>
@@ -2032,48 +1714,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">кеч-кушко</l>
-
-      <stg>
-        <st Contlex="PRON_">кеч-кушко</st>
-      </stg>
-
-      <stress>кеч-ку•шко</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кеч-куште</l>
-
-      <stg>
-        <st Contlex="PronInd">кеч-кушт%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>missä tahansa</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">кеч-кушто</l>
 
       <stg>
-        <st Contlex="PRON_">кеч-кушто</st>
+        <st Contlex="PRON_">кеч-кушт%{оы%}</st>
       </stg>
 
       <stress>кеч-ку•што</stress>
@@ -2083,7 +1727,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>missä tahansa</t>
       </tg>
     </mg>
   </e>
@@ -2322,48 +1966,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">куде</l>
-
-      <stg>
-        <st Contlex="PronIR">куд%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>kuka, kumpi, mikä, joka, mones</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">куде</l>
-
-      <stg>
-        <st Contlex="PronInd">куд%{еы%}</st>
-      </stg>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>??talo</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">кудо</l>
 
       <stg>
-        <st Contlex="PRON_">кудо</st>
+        <st Contlex="PRON_">куд%{оы%}</st>
       </stg>
 
       <stress>ку•до</stress>
@@ -2373,7 +1979,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>kuka, kumpi, mikä, joka, mones</t>
       </tg>
     </mg>
   </e>
@@ -2518,7 +2124,7 @@
       <l pos="Pron">кузеже-можо</l>
 
       <stg>
-        <st Contlex="PRON_">кузе•же-можо</st>
+        <st Contlex="PRON_">кузе•же-мож%{оы%}</st>
       </stg>
 
       <stress>кузе•же-мо•жо</stress>
@@ -2773,28 +2379,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">кусе</l>
-
-      <stg>
-        <st Contlex="PronIR">кус%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>mistä?</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">кусо</l>
 
       <stg>
-        <st Contlex="PRON_">кусо</st>
+        <st Contlex="PRON_">кус%{оы%}</st>
       </stg>
 
       <stress>ку•со</stress>
@@ -2804,7 +2392,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>mistä?</t>
       </tg>
     </mg>
   </e>
@@ -2969,28 +2557,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">кушке</l>
+      <l pos="Pron">кушко</l>
 
       <stg>
-        <st Contlex="PronIR">кушк%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>mihin?</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кушке</l>
-
-      <stg>
-        <st Contlex="PronIR">кушк%{еы%}</st>
+        <st Contlex="PronIR">кушк%{оы%}</st>
       </stg>
     </lg>
 
@@ -3026,7 +2596,7 @@
       <l pos="Pron">кушко</l>
 
       <stg>
-        <st Contlex="PRON_">кушко</st>
+        <st Contlex="PRON_">кушк%{оы%}</st>
       </stg>
 
       <stress>ку•шко</stress>
@@ -3036,7 +2606,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>mihin</t>
       </tg>
     </mg>
   </e>
@@ -3079,28 +2649,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">куште</l>
-
-      <stg>
-        <st Contlex="PronIR">кушт%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>missä?</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">кушто</l>
 
       <stg>
-        <st Contlex="PRON_">кушто</st>
+        <st Contlex="PRON_">кушт%{оы%}</st>
       </stg>
 
       <stress>ку•што</stress>
@@ -3110,7 +2662,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>missä?</t>
       </tg>
     </mg>
   </e>
@@ -3218,7 +2770,7 @@
       <l pos="Pron">кушко-кушко</l>
 
       <stg>
-        <st Contlex="PRON_">ку•шко-кушко</st>
+        <st Contlex="PRON_">ку•шко-кушк%{оы%}</st>
       </stg>
 
       <stress>ку•шко-ку•шко</stress>
@@ -3258,7 +2810,7 @@
       <l pos="Pron">кушто-кушто</l>
 
       <stg>
-        <st Contlex="PRON_">ку•што-кушто</st>
+        <st Contlex="PRON_">ку•што-кушт%{оы%}</st>
       </stg>
 
       <stress>ку•што-ку•што</stress>
@@ -3466,7 +3018,7 @@
       <l pos="Pron">кӧжӧ-можо</l>
 
       <stg>
-        <st Contlex="PRON_">кӧ•жӧ-можо</st>
+        <st Contlex="PRON_">кӧ•жӧ-мож%{оы%}</st>
       </stg>
 
       <stress>кӧ•жӧ-мо•жо</stress>
@@ -3627,7 +3179,7 @@
       <l pos="Pron">могайе</l>
 
       <stg>
-        <st Contlex="PronIR">могай%{еы%}</st>
+        <st Contlex="PronIR">могае</st>
       </stg>
     </lg>
 
@@ -3800,28 +3352,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">моле</l>
-
-      <stg>
-        <st Contlex="PronInd">мол%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>toinen, muu, loput</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">моло</l>
 
       <stg>
-        <st Contlex="PRON_">моло</st>
+        <st Contlex="PRON_">мол%{оы%}</st>
       </stg>
 
       <stress>мо•ло</stress>
@@ -3831,7 +3365,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>toinen, muu, loput</t>
       </tg>
     </mg>
   </e>
@@ -3952,28 +3486,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">мочоле</l>
-
-      <stg>
-        <st Contlex="PronIR">мочол%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>kuinka monta?</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">мочоло</l>
 
       <stg>
-        <st Contlex="PRON_">мочоло</st>
+        <st Contlex="PRON_">мочол%{оы%}</st>
       </stg>
 
       <stress>мочо•ло</stress>
@@ -3983,7 +3499,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>kuinka monta?</t>
       </tg>
     </mg>
   </e>
@@ -4220,28 +3736,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">нигуде</l>
-
-      <stg>
-        <st Contlex="PronInd">нигуд%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>ei kukaan</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">нигудо</l>
 
       <stg>
-        <st Contlex="PRON_">нигудо</st>
+        <st Contlex="PRON_">нигуд%{оы%}</st>
       </stg>
 
       <stress>нигу•до</stress>
@@ -4251,7 +3749,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>ei kukaan</t>
       </tg>
     </mg>
   </e>
@@ -4436,11 +3934,13 @@
 
   <e>
     <lg>
-      <l pos="Pron">нигушке</l>
+      <l pos="Pron">нигушко</l>
 
       <stg>
-        <st Contlex="PronInd">нигушк%{еы%}</st>
+        <st Contlex="PRON_">нигушк%{оы%}</st>
       </stg>
+
+      <stress>нигу•шко</stress>
     </lg>
 
     <mg>
@@ -4454,30 +3954,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">нигушко</l>
-
-      <stg>
-        <st Contlex="PRON_">нигушко</st>
-      </stg>
-
-      <stress>нигу•шко</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">нигушто</l>
 
       <stg>
-        <st Contlex="PronInd">нигушто</st>
+        <st Contlex="PronInd">нигушт%{оы%}</st>
       </stg>
 
       <stress>нигу•што</stress>
@@ -4572,10 +4052,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">нимогайе</l>
+      <l pos="Pron">нимогае</l>
 
       <stg>
-        <st Contlex="PronInd">нимогай%{еы%}</st>
+        <st Contlex="PronInd">нимогае</st>
       </stg>
     </lg>
 
@@ -4697,25 +4177,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">нуне</l>
-
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>he</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">нуне</l>
+      <l pos="Pron">нуно</l>
 
       <stg>
-        <st Contlex="PronDem">нун%{еы%}</st>
+        <st Contlex="PronDem">нун%{оы%}</st>
       </stg>
     </lg>
 
@@ -4733,7 +4198,7 @@
       <l pos="Pron">нуно</l>
 
       <stg>
-        <st Contlex="PRON_">нуно</st>
+        <st Contlex="PRON_">нун%{оы%}</st>
       </stg>
 
       <stress>ну•но</stress>
@@ -4871,7 +4336,7 @@
       <l pos="Pron">седыге</l>
 
       <stg>
-        <st Contlex="PRON_">седыг%{еы%}</st>
+        <st Contlex="PRON_">седыге</st>
       </stg>
 
       <stress>седыге</stress>
@@ -5029,7 +4494,7 @@
       <l pos="Pron">тиде-тудо</l>
 
       <stg>
-        <st Contlex="PRON_">ти•де-тудо</st>
+        <st Contlex="PRON_">ти•де-туд%{оы%}</st>
       </stg>
 
       <stress>ти•де-ту•до</stress>
@@ -5267,7 +4732,7 @@
       <l pos="Pron">тугодсо</l>
 
       <stg>
-        <st Contlex="PRON_">тугодсо</st>
+        <st Contlex="PRON_">тугодс%{оы%}</st>
       </stg>
 
       <stress>туго•дсо</stress>
@@ -5364,38 +4829,6 @@
 
   <e>
     <lg>
-      <l pos="Pron">туде</l>
-
-      <stg>
-        <st Contlex="PronDem">туд%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>tuo, se</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">туде</l>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>hän</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">тудлан</l>
 
       <stg>
@@ -5447,10 +4880,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">тудыже</l>
+      <l pos="Pron">тудыжо</l>
 
       <stg>
-        <st Contlex="PronDem">тудыж%{еы%}</st>
+        <st Contlex="PronDem">тудыж%{оы%}</st>
       </stg>
     </lg>
 
@@ -5743,7 +5176,7 @@
       <l pos="Pron">тусо</l>
 
       <stg>
-        <st Contlex="PRON_">тусо</st>
+        <st Contlex="PRON_">тус%{оы%}</st>
       </stg>
 
       <stress>ту•со</stress>
@@ -5838,26 +5271,6 @@
 
   <e>
     <lg>
-      <l pos="Pron">тушакак</l>
-
-      <stg>
-        <st Contlex="PRON_">тушакак</st>
-      </stg>
-
-      <stress>тушакак</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">тушан</l>
 
       <stg>
@@ -5872,26 +5285,6 @@
 
       <tg xml:lang="fin">
         <t>siellä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">тушанак</l>
-
-      <stg>
-        <st Contlex="PRON_">тушанак</st>
-      </stg>
-
-      <stress>тушанак</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
       </tg>
     </mg>
   </e>
@@ -5938,11 +5331,13 @@
 
   <e>
     <lg>
-      <l pos="Pron">тушке</l>
+      <l pos="Pron">тушко</l>
 
       <stg>
-        <st Contlex="PronDem">тушк%{еы%}</st>
+        <st Contlex="PRON_">тушк%{оы%}</st>
       </stg>
+
+      <stress>ту•шко</stress>
     </lg>
 
     <mg>
@@ -5956,30 +5351,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">тушко</l>
+      <l pos="Pron">тушто</l>
 
       <stg>
-        <st Contlex="PRON_">тушко</st>
-      </stg>
-
-      <stress>ту•шко</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">туште</l>
-
-      <stg>
-        <st Contlex="PronDem">тушт%{еы%}</st>
+        <st Contlex="PronDem">тушт%{оы%}</st>
       </stg>
     </lg>
 
@@ -6334,7 +5709,7 @@
       <l pos="Pron">тыгодсо</l>
 
       <stg>
-        <st Contlex="PRON_">тыгодсо</st>
+        <st Contlex="PRON_">тыгодс%{оы%}</st>
       </stg>
 
       <stress>тыго•дсо</stress>
@@ -6962,10 +6337,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">тышке-тушке</l>
+      <l pos="Pron">тышке-тушко</l>
 
       <stg>
-        <st Contlex="N_">тышке-тушк%{еы%}</st>
+        <st Contlex="N_">тышке-тушк%{оы%}</st>
       </stg>
     </lg>
 
@@ -7100,10 +6475,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">тыште</l>
+      <l pos="Pron">тышто</l>
 
       <stg>
-        <st Contlex="PronDem">тышт%{еы%}</st>
+        <st Contlex="PronDem">тышт%{оы%}</st>
       </stg>
 
       <stress>ты•ште</stress>
@@ -7120,10 +6495,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">тыште-туште</l>
+      <l pos="Pron">тыште-тушто</l>
 
       <stg>
-        <st Contlex="PronDem">тыште-тушт%{еы%}</st>
+        <st Contlex="PronDem">тыште-тушт%{оы%}</st>
       </stg>
     </lg>
 
@@ -7142,7 +6517,7 @@
       <l pos="Pron">тышке-тушко</l>
 
       <stg>
-        <st Contlex="PRON_">ты•шке-тушко</st>
+        <st Contlex="PRON_">ты•шке-тушк%{оы%}</st>
       </stg>
 
       <stress>ты•шке-ту•шко</stress>
@@ -7153,54 +6528,6 @@
 
       <tg xml:lang="fin">
         <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">тыште-тушто</l>
-
-      <stg>
-        <st Contlex="PRON_">ты•ште-тушто</st>
-      </stg>
-
-      <stress>ты•ште-ту•што</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">тӱйым</l>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>sinut, sinua</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">тӱйын</l>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>sinun</t>
       </tg>
     </mg>
   </e>
@@ -7739,7 +7066,7 @@
     </mg>
   </e>
 
-  <e>
+  <e  exclude="fst">
     <lg>
       <l pos="Pron">шкеныштын</l>
 
@@ -7813,24 +7140,6 @@
 
       <tg xml:lang="fin">
         <t pos="Pron"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">юже</l>
-
-      <stg>
-        <st Contlex="PronInd">юж%{еы%}</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t>joku, jokin, jonkinlainen</t>
       </tg>
     </mg>
   </e>
@@ -7916,7 +7225,7 @@
       <l pos="Pron">южо</l>
 
       <stg>
-        <st Contlex="PRON_">южо</st>
+        <st Contlex="PRON_">юж%{оы%}</st>
       </stg>
 
       <stress>ю•жо</stress>
@@ -7926,17 +7235,17 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pron"/>
+        <t>joku, jokin, jonkinlainen</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Pron">южыже</l>
+      <l pos="Pron">южыжо</l>
 
       <stg>
-        <st Contlex="PronInd">южыж%{еы%}</st>
+        <st Contlex="PronInd">южыж%{оы%}</st>
       </stg>
     </lg>
 
@@ -7954,7 +7263,7 @@
       <l pos="Pron">южышко</l>
 
       <stg>
-        <st Contlex="PRON_">южышко</st>
+        <st Contlex="PRON_">южышк%{оы%}</st>
       </stg>
 
       <stress>южышко</stress>
@@ -7974,7 +7283,7 @@
       <l pos="Pron">южышто</l>
 
       <stg>
-        <st Contlex="PRON_">южышто</st>
+        <st Contlex="PRON_">южышт%{оы%}</st>
       </stg>
 
       <stress>южышто</stress>
