@@ -77629,7 +77629,7 @@
    <mg>
      <defNative/>
      <tg xml:lang="eng">
-       <t pos="A">white; fair, light, blond; pale; clean (clothing); {history}White; white, person with light skin; blonde; white wine; vodka; whitewash; {biology}protein</t>
+       <t pos="A">white; fair, light, blond; pale; clean (clothing)</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="A">valkoinen</t>
@@ -77733,20 +77733,6 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="A"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">ояр</l>
-     <stg>
-       <st Contlex="A_">ояр</st>
-     </stg> <stress>оя•р</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">(sää) selkeä</t>
      </tg>
    </mg>
 </e>
@@ -157152,7 +157138,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">nonsense, rubbish; unnecessary, absurd, ridiculous, foolish, stupid</t>
+       <t pos="A">unnecessary, absurd, ridiculous, foolish, stupid</t>
      </tg>
    </mg>
 </e>
@@ -157165,7 +157151,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">fool, simpleton, blockhead, dolt, idiot; stupid, foolish, obtuse</t>
+       <t pos="A">stupid, foolish, obtuse</t>
      </tg>
    </mg>
 </e>
@@ -157178,7 +157164,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">stupid, foolish; stupidity, foolishness</t>
+       <t pos="A">stupid, foolish</t>
      </tg>
    </mg>
 </e>
@@ -157204,7 +157190,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">lame person, limping person; lame, limping</t>
+       <t pos="A">lame, limping</t>
      </tg>
    </mg>
 </e>
@@ -157217,7 +157203,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">disabled person, invalid; disabled, handicapped</t>
+       <t pos="A">disabled, handicapped</t>
      </tg>
    </mg>
 </e>
@@ -157230,7 +157216,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">cripple, invalid, disabled person; crippled, maimed, wounded</t>
+       <t pos="A">crippled, maimed, wounded</t>
      </tg>
    </mg>
 </e>
@@ -157243,7 +157229,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">{botany}apple; {figuratively}beautiful, ruddy</t>
+       <t pos="A">{figuratively}beautiful, ruddy</t>
      </tg>
    </mg>
 </e>
@@ -157256,7 +157242,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">substituting, replacing, substitute; substitute, replacement</t>
+       <t pos="A">substituting, replacing, substitute</t>
      </tg>
    </mg>
 </e>
@@ -157282,7 +157268,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">deceiver, cheat, fraud, liar; deceptive, cheating, lying</t>
+       <t pos="A">deceptive, cheating, lying</t>
      </tg>
    </mg>
 </e>
@@ -157308,7 +157294,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">shown, displayed; {linguistics}the signified, designatum</t>
+       <t pos="A">shown, displayed</t>
      </tg>
    </mg>
 </e>
@@ -157321,7 +157307,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">guide, head; {computing}browser; {linguistics}signifier; pointing, indicating, demonstrative; {mathematics}exponential</t>
+       <t pos="A">pointing, indicating, demonstrative; {mathematics}exponential</t>
      </tg>
    </mg>
 </e>
@@ -157334,7 +157320,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">future; coming, future, upcoming</t>
+       <t pos="A">coming, future, upcoming</t>
      </tg>
    </mg>
 </e>
@@ -157347,7 +157333,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">front, forepart, front side, place in front of; front, in the front; future, coming; {figuratively}foremost, leading, outstanding; previous</t>
+       <t pos="A">future, coming; {figuratively}foremost, leading, outstanding; previous</t>
      </tg>
    </mg>
 </e>
@@ -157464,7 +157450,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">tormentor, torturer; excruciating, agonizing,&lt;brit_alt&gt;agonising&lt;/brit_alt&gt;</t>
+       <t pos="A">excruciating, agonizing,&lt;brit_alt&gt;agonising&lt;/brit_alt&gt;</t>
      </tg>
    </mg>
 </e>
@@ -157477,7 +157463,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">scoundrel, rascal; unnecessary, worthless; clumsy, awkward</t>
+       <t pos="A">unnecessary, worthless; clumsy, awkward</t>
      </tg>
    </mg>
 </e>
@@ -157490,7 +157476,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">evil, harm; {mythology}evil spirit; evil, bad, harmful, spiteful, wicked, cruel, malicious, nasty; serious, grave; spoiled, coddled, pampered</t>
+       <t pos="A">evil, bad, harmful, spiteful, wicked, cruel, malicious, nasty; serious, grave; spoiled, coddled, pampered</t>
      </tg>
    </mg>
 </e>
@@ -157516,7 +157502,10 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">fine weather; bright, clear, sunny, cloudless</t>
+       <t pos="A">bright, clear, sunny, cloudless</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="A">(sää) selkeä</t>
      </tg>
    </mg>
 </e>
@@ -157529,7 +157518,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">interesting; amusing, funny; {figuratively}fitting, suitable, appropriate; interestingly, in an interesting manner, in an interesting fashion; amusingly, funnily, in an amusing manner, in an amusing fashion, in a fun way</t>
+       <t pos="A">interesting; amusing, funny; {figuratively}fitting, suitable, appropriate</t>
      </tg>
    </mg>
 </e>
