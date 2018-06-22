@@ -138,29 +138,18 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Арабий</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Арабий</st>
-     </stg> <stress>Ара•бий</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="N" type="Prop">Arabia</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Аравий</l>
      <stg>
        <st Contlex="PROP-PLC_">Ара•вий</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Ара•бий</st>
      </stg> <stress>Ара•вий</stress>
    </lg>
    <mg> <defNative/>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Arabia</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Arabia</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -224,31 +213,18 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Афины</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Афины</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="eng"> <t/>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="N" type="Prop">Ateena</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Афин</l>
      <stg>
        <st Contlex="PROP-PLC_">Афи•н</st>
+       <st Contlex="PROP-OLD-ORTH-SG-NOM_">Афины</st>
      </stg> <stress>Афи•н</stress>
    </lg>
    <mg> <defNative/>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Athens,{scientific}37°58′N 23°43′E</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Ateena</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -520,6 +496,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Брӱссел</l>
      <stg>
        <st Contlex="PROP-PLC_">Брӱссе•л</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Брӱссе•л</st>
      </stg> <stress>Брӱссе•л</stress>
    </lg>
    <mg> <defNative/>
@@ -599,24 +576,10 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Вак-сола</l>
+     <l pos="N" sem_type="Plc" type="Prop">Варшава</l>
      <stg>
-       <st Contlex="PROP-PLC_">Вак-сола</st>
-     </stg> <stress>Вак-сола</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Prop"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Варшаве</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Варша•в%{еы%}</st>
-       <st Contlex="PROP-OLD-ORTH-SG-NOM_">Варшав%{аы%}</st>
-     </stg> <stress>Варша•ве</stress>
+       <st Contlex="PROP-PLC_">Варша•в%{аы%}</st>
+     </stg> <stress>Варша•ва</stress>
    </lg>
    <mg> <defNative/>
      <tg xml:lang="eng">
@@ -626,19 +589,6 @@
        <t pos="N" type="Prop">Varsova</t>
      </tg>
      <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Василь-ола</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Василь-ола</st>
-     </stg> <stress>Василь-ола</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Prop"/>
      </tg>
    </mg>
 </e>
@@ -754,23 +704,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">Вӱдйоктарыше</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Вӱдйокта•рыш%{еы%}</st>
-     </stg> <stress>Вӱдйокта•рыше</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Aquarius</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Вӱтла</l>
      <stg>
        <st Contlex="PROP-PLC_">Вӱтла•</st>
@@ -866,23 +799,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Господь</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Госпо•дь</st>
-     </stg> <stress>Госпо•дь</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">god, the lord</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Гренландий</l>
      <stg>
        <st Contlex="PROP-PLC_">Гренландий</st>
@@ -951,23 +867,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Девон</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Дево•н</st>
-     </stg> <stress>Дево•н</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Devonian, Devonian Period</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Дунай</l>
      <stg>
        <st Contlex="PROP-PLC_">Дуна•й</st>
@@ -1007,7 +906,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Европо</l>
      <stg>
        <st Contlex="PROP-PLC_">Евро•п%{оы%}</st>
-       <st Contlex="PROP-PLC_">Евро•п%{оы%}</st>
+       <st Contlex="PROP-OLD-ORTH-SG-NOM_">Евро•п%{аы%}</st>
      </stg> <stress>Евро•по</stress>
    </lg>
    <mg> <defNative/>
@@ -1104,36 +1003,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Ильна-ола</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Ильна-ола</st>
-     </stg> <stress>Ильна-ола</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Prop"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Илянгече</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Илянге•ч%{еы%}</st>
-     </stg> <stress>Илянге•че</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Saint Elijah's Day</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ингушетий</l>
      <stg>
        <st Contlex="PROP-PLC_">Ингушетий</st>
@@ -1142,23 +1011,6 @@
    <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="N" type="Prop">Ingušetia</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Индешкугарня</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Индешкугарня•</st>
-     </stg> <stress>Индешкугарня•</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">ninth Friday after Easter</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -1277,23 +1129,6 @@
        <t pos="N" type="Prop">Yoshkar-Ola,{scientific}56°38′N 47°52′E</t>
      </tg>
      <tg xml:lang="fin">
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Йӱдвелшӱдыр</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Йӱдвелшӱ•дыр</st>
-     </stg> <stress>Йӱдвелшӱ•дыр</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Polaris, North Star, Pole Star</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -1476,23 +1311,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Коркашӱдыр</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Коркашӱ•дыр</st>
-     </stg> <stress>Коркашӱ•дыр</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Big Dipper</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Крым</l>
      <stg>
        <st Contlex="PROP-PLC_">Крым</st>
@@ -1561,19 +1379,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Лайыш-ола</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Лайыш-ола</st>
-     </stg> <stress>Лайыш-ола</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Prop"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Лапландий</l>
      <stg>
        <st Contlex="PROP-PLC_">Лапла•ндий</st>
@@ -1599,19 +1404,6 @@
    <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="N" type="Prop">Latvia</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Ленин-ола</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Ленин-ола</st>
-     </stg> <stress>Ленин-ола</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Prop"/>
      </tg>
    </mg>
 </e>
@@ -1669,23 +1461,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Лумӱдыр</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Лумӱ•дыр</st>
-     </stg> <stress>Лумӱ•дыр</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Snow Maiden</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Малайзий</l>
      <stg>
        <st Contlex="PROP-PLC_">Малайзий</st>
@@ -1694,19 +1469,6 @@
    <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="N" type="Prop">Malasia</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Мариэл</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Мариэл</st>
-     </stg> <stress>Мариэ•л</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Prop"/>
      </tg>
    </mg>
 </e>
@@ -1746,23 +1508,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Мормон</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Мормо•н</st>
-     </stg> <stress>Мормо•н</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Mormon</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Москва</l>
      <stg>
        <st Contlex="PROP-PLC_">Москва•</st>
@@ -1772,7 +1517,8 @@
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Moscow,{scientific}55°45′N 37°37′E</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Moskova</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -1819,6 +1565,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Мӱнхен</l>
      <stg>
        <st Contlex="PROP-PLC_">Мӱ•нхен</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Мю•нхен</st>
      </stg> <stress>Мӱ•нхен</stress>
    </lg>
    <mg> <defNative/>
@@ -1906,23 +1653,6 @@
    <mg> <defNative/>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Novgorod</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Овен</l>
-     <stg>
-       <st Contlex="PROP-PLC_">О•вен</st>
-     </stg> <stress>О•вен</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Aries (constellation)</t>
      </tg>
      <tg xml:lang="fin"> <t/>
      </tg>
@@ -2150,8 +1880,9 @@
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Buy River, Buy</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Buj</t>
+      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
@@ -2178,28 +1909,17 @@
      <l pos="N" sem_type="Plc" type="Prop">Пӱрывӱд</l>
      <stg>
        <st Contlex="PROP-PLC_">Пӱрывӱ•д</st>
+       <st Contlex="PROP-PLC_" status ="Err/Orth">Пӱрӧвӱ•д</st>
      </stg> <stress>Пӱрывӱ•д</stress>
    </lg>
    <mg> <defNative/>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Bir (right tributary to the Belaya)</t>
      </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Bir</t>
+      </tg>
      <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Пӱрӧ-ола</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Пӱрӧ-ола</st>
-     </stg> <stress>Пӱрӧ-ола</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Prop"/>
      </tg>
    </mg>
 </e>
@@ -2213,23 +1933,6 @@
    <mg> <defNative/>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Birsk,{scientific}55°25′N 55°32′E</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Реформаций</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Реформа•ций</st>
-     </stg> <stress>Реформа•ций</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Reformation</t>
      </tg>
      <tg xml:lang="fin"> <t/>
      </tg>
@@ -2292,23 +1995,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Рошто</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Рошто•</st>
-     </stg> <stress>Рошто•</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Christmas</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Румыний</l>
      <stg>
        <st Contlex="PROP-PLC_">Румы•ний</st>
@@ -2352,23 +2038,6 @@
    <mg> <defNative/>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">USA, United States of America</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Сабантуй</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Сабанту•й</st>
-     </stg> <stress>Сабанту•й</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Sabantuy (folk holiday of Tatar origin)</t>
      </tg>
      <tg xml:lang="fin"> <t/>
      </tg>
@@ -2451,19 +2120,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Сия-ола</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Сия-ола</st>
-     </stg> <stress>Сия-ола</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Prop"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Скандинавий</l>
      <stg>
        <st Contlex="PROP-PLC_">Скандинавий</st>
@@ -2498,23 +2154,6 @@
    <mg> <defNative/>
      <tg xml:lang="fin">
        <t pos="N" type="Prop">Slovenia</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Совинформбюро</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Совинформбюро•</st>
-     </stg> <stress>Совинформбюро•</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Soviet Information Bureau</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -2562,19 +2201,6 @@
      <tg xml:lang="fin">
      </tg>
      <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Сымбыр-ола</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Сымбыр-ола</st>
-     </stg> <stress>Сымбыр-ола</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Prop"/>
      </tg>
    </mg>
 </e>
@@ -2717,7 +2343,7 @@
    </lg>
    <mg> <defNative/>
      <tg xml:lang="fin">
-       <t pos="N" type="Prop">Philadelfia</t>
+       <t pos="N" type="Prop">Philadelphia</t>
      </tg>
    </mg>
 </e>
@@ -2844,7 +2470,7 @@
        <t pos="N" type="Prop">Tsaryovokokshaysk, Yoshkar-Ola,{scientific}56°38′N 47°52′E</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="N" type="Prop">(vanh.) JoSkar-Ola</t>
+       <t pos="N" type="Prop">(vanh.) Joškar-Ola</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -2860,23 +2486,6 @@
    <mg> <defNative/>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Cheboksary,{scientific}56°06′37″N 47°15′04″E</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Чека</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Чека•</st>
-     </stg> <stress>Чека•</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Cheka</t>
      </tg>
      <tg xml:lang="fin"> <t/>
      </tg>
@@ -3040,26 +2649,10 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Шоктешӱдыр</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Шоктешӱ•дыр</st>
-     </stg> <stress>Шоктешӱ•дыр</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Pleiades, Seven Sisters,{scientific}M45</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N" sem_type="Plc" type="Prop">Шолэҥер</l>
      <stg>
        <st Contlex="PROP-PLC_">Шолэҥе•р</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Шолеҥе•р</st>
      </stg> <stress>Шолэҥе•р</stress>
    </lg>
    <mg> <defNative/>
@@ -3225,23 +2818,7 @@
      </tg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Юникод</l>
-     <stg>
-       <st Contlex="PROP-PLC_">Юнико•д</st>
-     </stg> <stress>Юнико•д</stress>
-   </lg>
-   <mg> <defNative/>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Unicode</t>
-     </tg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
+
 <e>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Якутий</l>

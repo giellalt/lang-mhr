@@ -21,25 +21,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Морко</l>
-
-      <stg>
-        <st Contlex="PROP_">Морко</st>
-      </stg>
-
-      <stress>Морко</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" type="Prop">Кыргори</l>
 
       <stg>
@@ -306,25 +287,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Каван-ер</l>
-
-      <stg>
-        <st Contlex="PROP_">Каван-ер</st>
-      </stg>
-
-      <stress>Каван-ер</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" type="Prop">Кечамыш</l>
 
       <stg>
@@ -382,25 +344,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Кокла-лоҥго</l>
-
-      <stg>
-        <st Contlex="PROP_">Кокла-лоҥго</st>
-      </stg>
-
-      <stress>Кокла-лоҥго</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" type="Prop">Кокшай</l>
 
       <stg>
@@ -446,69 +389,11 @@
       </stg>
     </lg>
     <mg>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Big Dipper</t>
+     </tg>
       <tg xml:lang="fin">
         <t pos="N" type="Prop">Otava</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кугу-Какшан</l>
-
-      <stg>
-        <st Contlex="PROP_">Кугу-Какшан</st>
-      </stg>
-
-      <stress>Кугу-Какшан</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кугу-Кокуй</l>
-
-      <stg>
-        <st Contlex="PROP_">Кугу-Кокуй</st>
-      </stg>
-
-      <stress>Кугу-Кокуй</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Куж-нур</l>
-
-      <stg>
-        <st Contlex="PROP_">Куж-нур</st>
-      </stg>
-
-      <stress>Куж-нур</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
       </tg>
     </mg>
   </e>
@@ -552,25 +437,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Кӱшыл-соказа</l>
-
-      <stg>
-        <st Contlex="PROP_">Кӱшыл-соказа</st>
-      </stg>
-
-      <stress>Кӱшыл-соказа</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" type="Prop">Лепешкан</l>
 
       <stg>
@@ -597,25 +463,6 @@
       </stg>
 
       <stress>Макаря</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Макаря-кӱ</l>
-
-      <stg>
-        <st Contlex="PROP_">Макаря-кӱ</st>
-      </stg>
-
-      <stress>Макаря-кӱ</stress>
     </lg>
 
     <mg>
@@ -723,25 +570,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Озаҥ</l>
-
-      <stg>
-        <st Contlex="PROP_">Озаҥ</st>
-      </stg>
-
-      <stress>Озаҥ</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" type="Prop">Орымбор</l>
 
       <stg>
@@ -749,25 +577,6 @@
       </stg>
 
       <stress>Орымбор</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ош-Виче</l>
-
-      <stg>
-        <st Contlex="PROP_">Ош-Вич%{еы%}</st>
-      </stg>
-
-      <stress>Ош-Виче</stress>
     </lg>
 
     <mg>
@@ -951,82 +760,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Пӱевӱд</l>
-
-      <stg>
-        <st Contlex="PROP_">Пӱевӱд</st>
-      </stg>
-
-      <stress>Пӱевӱ•д</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop">Buj</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пӱнчер</l>
-
-      <stg>
-        <st Contlex="PROP_">Пӱнчер</st>
-      </stg>
-
-      <stress>Пӱнчер</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пӱрӧ</l>
-
-      <stg>
-        <st Contlex="PROP_">Пӱрӧ</st>
-      </stg>
-
-      <stress>Пӱрӧ</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пӱрӧвӱд</l>
-
-      <stg>
-        <st Contlex="PROP_">Пӱрӧвӱд</st>
-      </stg>
-
-      <stress>Пӱрӧвӱ•д</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop">Bir</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" type="Prop">Сайтий</l>
 
       <stg>
@@ -1122,25 +855,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Танып-вӱд</l>
-
-      <stg>
-        <st Contlex="PROP_">Танып-вӱд</st>
-      </stg>
-
-      <stress>Танып-вӱд</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" type="Prop">Токтар</l>
 
       <stg>
@@ -1198,25 +912,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Тымбай</l>
-
-      <stg>
-        <st Contlex="PROP_">Тымбай</st>
-      </stg>
-
-      <stress>Тымбай</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" type="Prop">Тӧлдӧ</l>
 
       <stg>
@@ -1255,25 +950,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Тӧргым-тӱр</l>
-
-      <stg>
-        <st Contlex="PROP_">Тӧргым-тӱр</st>
-      </stg>
-
-      <stress>Тӧргым-тӱр</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" type="Prop">Тӧрмет</l>
 
       <stg>
@@ -1300,44 +976,6 @@
       </stg>
 
       <stress>Тӧҥгак</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" type="Prop">У-корак</l>
-
-      <stg>
-        <st Contlex="PROP_">У-корак</st>
-      </stg>
-
-      <stress>У-корак</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Угарман</l>
-
-      <stg>
-        <st Contlex="PROP_">Угарман</st>
-      </stg>
-
-      <stress>Угарма•н</stress>
     </lg>
 
     <mg>
@@ -1445,13 +1083,14 @@
   </e>
   <e>
     <lg>
-      <l pos="N" type="Prop">Шобашеҥер</l>
+      <l pos="N" type="Prop">Шобашэҥер</l>
 
       <stg>
-        <st Contlex="PROP_">Шобашеҥер</st>
+        <st Contlex="PROP_">Шобашэҥер</st>
+        <st Contlex="PROP_" status="Err/Orth">Шобашеҥер</st>
       </stg>
 
-      <stress>Шобашеҥер</stress>
+      <stress>Шобашэҥер</stress>
     </lg>
 
     <mg>
@@ -1471,10 +1110,9 @@
       </stg>
     </lg>
     <mg>
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Pleiades, Seven Sisters,{scientific}M45</t>
+     </tg>
       <tg xml:lang="fin">
         <t pos="N" type="Prop">Seulaset</t>
       </tg>
@@ -1546,25 +1184,6 @@
       </stg>
 
       <stress>Ярмет</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Prop"/>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ӱпӧ-вӱд</l>
-
-      <stg>
-        <st Contlex="PROP_">Ӱпӧ-вӱд</st>
-      </stg>
-
-      <stress>Ӱпӧ-вӱд</stress>
     </lg>
 
     <mg>
@@ -1655,6 +1274,261 @@
    <mg> <defNative/>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">(a Mari feast celebrated in July)</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Юникод</l>
+     <stg>
+       <st Contlex="PROP_">Юнико•д</st>
+     </stg> <stress>Юнико•д</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Unicode</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Совинформбюро</l>
+     <stg>
+       <st Contlex="PROP_">Совинформбюро•</st>
+     </stg> <stress>Совинформбюро•</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Soviet Information Bureau</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Рошто</l>
+     <stg>
+       <st Contlex="PROP_">Рошто•</st>
+     </stg> <stress>Рошто•</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Christmas</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Реформаций</l>
+     <stg>
+       <st Contlex="PROP_">Реформа•ций</st>
+     </stg> <stress>Реформа•ций</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Reformation</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Овен</l>
+     <stg>
+       <st Contlex="PROP_">О•вен</st>
+     </stg> <stress>О•вен</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Aries (constellation)</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Йӱдвелшӱдыр</l>
+     <stg>
+       <st Contlex="PROP_">Йӱдвелшӱ•дыр</st>
+     </stg> <stress>Йӱдвелшӱ•дыр</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Polaris, North Star, Pole Star</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Лумӱдыр</l>
+     <stg>
+       <st Contlex="PROP_">Лумӱ•дыр</st>
+     </stg> <stress>Лумӱ•дыр</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Snow Maiden</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Вӱдйоктарыше</l>
+     <stg>
+       <st Contlex="PROP_">Вӱдйокта•рыш%{еы%}</st>
+     </stg> <stress>Вӱдйокта•рыше</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Aquarius</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Господь</l>
+     <stg>
+       <st Contlex="PROP_">Госпо•дь</st>
+     </stg> <stress>Госпо•дь</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">god, the lord</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Девон</l>
+     <stg>
+       <st Contlex="PROP_">Дево•н</st>
+     </stg> <stress>Дево•н</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Devonian, Devonian Period</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Илянгече</l>
+     <stg>
+       <st Contlex="PROP_">Илянге•ч%{еы%}</st>
+     </stg> <stress>Илянге•че</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Saint Elijah's Day</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Индешкугарня</l>
+     <stg>
+       <st Contlex="PROP_">Индешкугарня•</st>
+     </stg> <stress>Индешкугарня•</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">ninth Friday after Easter</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Мормон</l>
+     <stg>
+       <st Contlex="PROP_">Мормо•н</st>
+     </stg> <stress>Мормо•н</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Mormon</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Чека</l>
+     <stg>
+       <st Contlex="PROP_">Чека•</st>
+     </stg> <stress>Чека•</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Cheka</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Prop" type="Prop">Сабантуй</l>
+     <stg>
+       <st Contlex="PROP_">Сабанту•й</st>
+     </stg> <stress>Сабанту•й</stress>
+   </lg>
+   <mg> <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Sabantuy (folk holiday of Tatar origin)</t>
      </tg>
      <tg xml:lang="fin"> <t/>
      </tg>
