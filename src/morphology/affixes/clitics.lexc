@@ -13,8 +13,10 @@ LEXICON K_at
  +Foc/at:%>А2т ENDLEX ;
  +Foc/Poss:%>ыжЫ2 ENDLEX ; !Px3Sg as clitic
  +Foc/Poss:%>жЫ2 ENDLEX ; !Px3Sg as clitic
-
-
+ +Foc/Poss+Foc/at:%>ыжат ENDLEX ; !Px3Sg as clitic + at-clitic
+ +Foc/Poss+Foc/at:%>жат ENDLEX ; !Px3Sg as clitic + at-clitic
+ +Foc/Poss+Foc/ak:%>ыжак ENDLEX ; !Px3Sg as clitic + ak-clitic
+ +Foc/Poss+Foc/ak:%>жак ENDLEX ; !Px3Sg as clitic + ak-clitic
 
 
 

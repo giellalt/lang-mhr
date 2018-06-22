@@ -9,13 +9,18 @@ LEXICON pronouns_not_from_xml !!= * @CODE@
 тиде+Pron: TIDE ;	
 шке+Pron+Refl: SHKE ;
 кеч-мо:кеч-мо PRON-INDEF ;
+кеч-кӧ:кеч-кӧ PRON-INDEF ;
 нимо:нимо PRON-INDEF ;
 нигӧ:нигӧ PRON-INDEF ;
 ала-мо:ала-мо PRON-INDEF ;
-кеч-кӧ:кеч-кӧ PRON-INDEF ;
 ала-кӧ:ала-кӧ PRON-INDEF ;
+кеч-мо:кеч-мо PRON-INDEF ;
+кеч-кӧ:кеч-кӧ PRON-INDEF ;
 керек-мо:керек-мо PRON-INDEF ;
 керек-кӧ:керек-кӧ PRON-INDEF ;
+иктаж-мо:иктаж-мо PRON-INDEF ;
+иктаж-кӧ:иктаж-кӧ PRON-INDEF ;
+
 мо+Pron+Interr+Sg+PxSg2:моч N_KIN_SPECIAL ;
 нимо+Pron+Neg+Sg+PxSg2:нимоч N_KIN_SPECIAL ;
 кеч-мо+Pron+Indef+Sg+PxSg2:кеч-моч N_KIN_SPECIAL ;
@@ -140,7 +145,26 @@ LEXICON PRON_ !!= * @CODE@
 +Pron: K ;
 
 LEXICON PronRes !!= * @CODE@
-+Pron: K ;
++Pron+Ind+Sg+Acc:%>м K_at ;
++Pron+Ind+Sg+Dat:%>лан K_at ;
++Pron+Ind+Sg+Gen:%>н K_at ;
++Pron+Ind+Sg+Nom: K_at ;
++Pron+Ind+Sg+Acc+PxPl1:%>нам K_at ;
++Pron+Ind+Sg+Dat+PxPl1:%>налан K_at ;
++Pron+Ind+Sg+Dat+PxPl1+Use/NG:%>ланна K_at ;
++Pron+Ind+Sg+Gen+PxPl1:%>нан K_at ;
++Pron+Ind+Sg+Nom+PxPl1:%>на K_at ;
++Pron+Ind+Sg+Acc+PxPl2:%>дам K_at ;
++Pron+Ind+Sg+Dat+PxPl2:%>далан K_at ;
++Pron+Ind+Sg+Dat+PxPl2+Use/NG:%>ланда K_at ;
++Pron+Ind+Sg+Gen+PxPl2:%>дан K_at ;
++Pron+Ind+Sg+Nom+PxPl2:%>да K_at ;
++Pron+Ind+Sg+Acc+PxPl3:%>Ы1штым K_at ;
++Pron+Ind+Sg+Dat+PxPl3:%>Ы1штлан K_at ;
++Pron+Ind+Sg+Dat+PxPl3+Use/NG:%>ланышт K_at ;
++Pron+Ind+Sg+Gen+PxPl3:%>Ы1штын K_at ;
++Pron+Ind+Sg+Nom+PxPl3:%>Ы1шт K_at ;
+
 
 LEXICON PronI !!= * @CODE@
 +Pron: # ;
