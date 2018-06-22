@@ -274,7 +274,7 @@ LEXICON N-SG-ABE !!= * @CODE@
 
 LEXICON N-LOCPL-ILL !!= * @CODE@
  +LocPl+Ill:%>лашке K ;
- +LocPl+Ill:%>лаш K ;
+ +LocPl+Ill:%>лаш ENDLEX ;
 
 LEXICON N-LOCPL-INE !!= * @CODE@
  +LocPl+Ine:%>лаште K ;
@@ -300,7 +300,7 @@ LEXICON N-ASSOCPL-GEN
 +AssocPl+Gen:%>мытын K ;
 LEXICON N-ASSOCPL-ILL
 +AssocPl+Ill:%>мытышк%{еы%} K ;
-+AssocPl+Ill:%>мытыш K ;
++AssocPl+Ill:%>мытыш ENDLEX ;
 LEXICON N-ASSOCPL-INE
 +AssocPl+Ine:%>мытышт%{еы%} K ;
 LEXICON N-ASSOCPL-LAT
@@ -343,8 +343,8 @@ LEXICON N-PL-INE !!= * @CODE@
 LEXICON N-PL-ILL !!= * @CODE@
  +Pl+Ill:%-влакышке  K ;
  +Pl+Ill:%-шамычышке K ;
- +Pl+Ill:%-влакыш  K ;
- +Pl+Ill:%-шамычыш K ;
+ +Pl+Ill:%-влакыш  ENDLEX ;
+ +Pl+Ill:%-шамычыш ENDLEX ;
 
 LEXICON N-PL-LAT !!= * @CODE@
  +Pl+Lat:%-влакеш  K ;
@@ -445,8 +445,8 @@ LEXICON N-PL-PxSg1-ILL !!= * @CODE@
  +Pl+Ill+PxSg1+So/NCP:%-шамычышкем  K ; !NB_CX_PX
  +Pl+Ill+PxSg1+So/PNC:%>Е2м%-влакышке  K ; !PX_NB_CX
  +Pl+Ill+PxSg1+So/PNC:%>Е2м%-шамычышке K ; !PX_NB_CX
- +Pl+Ill+PxSg1+So/PNC:%>Е2м%-влакыш  K ; !PX_NB_CX
- +Pl+Ill+PxSg1+So/PNC:%>Е2м%-шамычыш K ; !PX_NB_CX
+ +Pl+Ill+PxSg1+So/PNC:%>Е2м%-влакыш  ENDLEX ; !PX_NB_CX
+ +Pl+Ill+PxSg1+So/PNC:%>Е2м%-шамычыш ENDLEX ; !PX_NB_CX
 
 LEXICON N-PL-PxSg1-LAT !!= * @CODE@
  +Pl+Lat+PxSg1+So/NCP:%-влакешем  K ; !NB_CX_PX
@@ -547,8 +547,8 @@ LEXICON N-PL-PxSg2-ILL !!= * @CODE@
  +Pl+Ill+PxSg2+So/NCP:%-шамычышкет K ; !NB_CX_PX
  +Pl+Ill+PxSg2+So/PNC:%>Е2т%-влакышке  K ; !PX_NB_CX
  +Pl+Ill+PxSg2+So/PNC:%>Е2т%-шамычышке K ; !PX_NB_CX
- +Pl+Ill+PxSg2+So/PNC:%>Е2т%-влакыш  K ; !PX_NB_CX
- +Pl+Ill+PxSg2+So/PNC:%>Е2т%-шамычыш K ; !PX_NB_CX
+ +Pl+Ill+PxSg2+So/PNC:%>Е2т%-влакыш  ENDLEX ; !PX_NB_CX
+ +Pl+Ill+PxSg2+So/PNC:%>Е2т%-шамычыш ENDLEX ; !PX_NB_CX
 
 LEXICON N-PL-PxSg2-LAT
  +Pl+Lat+PxSg2+So/NCP:%-влакешет  K ; !NB_CX_PX
@@ -564,10 +564,10 @@ LEXICON N-PL-PxSg2-ABE
 
 !! !Sg Sg3
 LEXICON N-SG-PxSg3-NOM !!= * @CODE@
- +Sg+Nom+PxSg3:%>ыж K ; !NB_PX_CX Only after ш see twolc
+ +Sg+Nom+PxSg3:%>ыж ENDLEX ; !NB_PX_CX Only after ш see twolc
  +Sg+Nom+PxSg3:%>ыжЫ2 K ; !NB_PX_CX Only after ш see twolc
  +Sg+Nom+PxSg3:%>жЫ2 K ; !NB_PX_CX
- +Sg+Nom+PxSg3:%>ж K ; !NB_PX_CX
+ +Sg+Nom+PxSg3:%>ж ENDLEX ; !NB_PX_CX
 
 LEXICON N-SG-PxSg3-GEN !!= * @CODE@
  +Sg+Gen+PxSg3+So/PC:%>ыж%>ын K ; !NB_PX_CX
@@ -596,18 +596,18 @@ LEXICON N-SG-PxSg3-COM !!= * @CODE@
 
 LEXICON N-SG-PxSg3-INE !!= * @CODE@
  +Sg+Ine+PxSg3+So/CP:%>Ы1шты%>жЫ2 K ; !NB_CX_PX
- +Sg+Ine+PxSg3+So/CP:%>Ы1шты%>ж K ; !NB_CX_PX
+ +Sg+Ine+PxSg3+So/CP:%>Ы1шты%>ж ENDLEX ; !NB_CX_PX
 
 
 LEXICON N-SG-PxSg3-ILL !!= * @CODE@
  +Sg+Ill+PxSg3+So/CP:%>Ы1шкы%>жЫ2 K ; !NB_CX_PX
- +Sg+Ill+PxSg3+So/CP:%>Ы1шкы%>ж K ; !NB_CX_PX
+ +Sg+Ill+PxSg3+So/CP:%>Ы1шкы%>ж ENDLEX ; !NB_CX_PX
 
 
 LEXICON N-SG-PxSg3-LAT !!= * @CODE@
  +Sg+Lat+PxSg3+So/CP:%>Е2шыже K ; !CHECKME 2016-12-27
 
- +Sg+Lat+PxSg3+So/CP:%>Е2шыж K ; !CHECKME 2017-01-23
+ +Sg+Lat+PxSg3+So/CP:%>Е2шыж ENDLEX ; !CHECKME 2017-01-23
  +Sg+Lat+PxSg3+So/CP:%>Е2шше K ; !CHECKME 2017-01-23 
 
 LEXICON N-SG-PxSg3-ABE !!= * @CODE@
@@ -709,20 +709,20 @@ LEXICON N-PL-PxSg3-ILL !!= * @CODE@
  +Pl+Ill+PxSg3+So/NCP:%-шамычышкыже K ; !NB_CX_PX
  +Pl+Ill+PxSg3+So/PNC:%>жЫ2%-влакышке  K ; !PX_NB_CX
  +Pl+Ill+PxSg3+So/PNC:%>жЫ2%-шамычышке K ; !PX_NB_CX
- +Pl+Ill+PxSg3+So/PNC:%>жЫ2%-влакыш  K ; !PX_NB_CX
- +Pl+Ill+PxSg3+So/PNC:%>жЫ2%-шамычыш K ; !PX_NB_CX
+ +Pl+Ill+PxSg3+So/PNC:%>жЫ2%-влакыш  ENDLEX ; !PX_NB_CX
+ +Pl+Ill+PxSg3+So/PNC:%>жЫ2%-шамычыш ENDLEX ; !PX_NB_CX
  +Pl+Ill+PxSg3+So/PNC:%>ж%-влакышке  K ; !PX_NB_CX
  +Pl+Ill+PxSg3+So/PNC:%>ж%-шамычышке K ; !PX_NB_CX
- +Pl+Ill+PxSg3+So/PNC:%>ж%-влакыш  K ; !PX_NB_CX
- +Pl+Ill+PxSg3+So/PNC:%>ж%-шамычыш K ; !PX_NB_CX
+ +Pl+Ill+PxSg3+So/PNC:%>ж%-влакыш  ENDLEX ; !PX_NB_CX
+ +Pl+Ill+PxSg3+So/PNC:%>ж%-шамычыш ENDLEX ; !PX_NB_CX
  +Pl+Ill+PxSg3+So/PNC:%>ыж%-влакышке  K ; !PX_NB_CX
  +Pl+Ill+PxSg3+So/PNC:%>ыж%-шамычышке K ; !PX_NB_CX
  +Pl+Ill+PxSg3+So/PNC:%>ыжЫ2%-влакышке  K ; !PX_NB_CX
  +Pl+Ill+PxSg3+So/PNC:%>ыжЫ2%-шамычышке K ; !PX_NB_CX
- +Pl+Ill+PxSg3+So/PNC:%>ыж%-влакыш  K ; !PX_NB_CX
- +Pl+Ill+PxSg3+So/PNC:%>ыж%-шамычыш K ; !PX_NB_CX
- +Pl+Ill+PxSg3+So/PNC:%>ыжЫ2%-влакыш  K ; !PX_NB_CX
- +Pl+Ill+PxSg3+So/PNC:%>ыжЫ2%-шамычыш K ; !PX_NB_CX
+ +Pl+Ill+PxSg3+So/PNC:%>ыж%-влакыш  ENDLEX ; !PX_NB_CX
+ +Pl+Ill+PxSg3+So/PNC:%>ыж%-шамычыш ENDLEX ; !PX_NB_CX
+ +Pl+Ill+PxSg3+So/PNC:%>ыжЫ2%-влакыш  ENDLEX ; !PX_NB_CX
+ +Pl+Ill+PxSg3+So/PNC:%>ыжЫ2%-шамычыш ENDLEX ; !PX_NB_CX
 
 LEXICON N-PL-PxSg3-LAT !!= * @CODE@
  +Pl+Lat+PxSg3+So/NCP:%-влакешыже  K ; !NB_CX_PX
@@ -835,8 +835,8 @@ LEXICON N-PL-PxPl1-ILL !!= * @CODE@
  +Pl+Ill+PxPl1+So/NCP:%-шамычышкына K ; !NB_CX_PX
  +Pl+Ill+PxPl1+So/PNC:%>на%-влакышке  K ; !PX_NB_CX
  +Pl+Ill+PxPl1+So/PNC:%>на%-шамычышке K ; !PX_NB_CX
- +Pl+Ill+PxPl1+So/PNC:%>на%-влакыш  K ; !PX_NB_CX
- +Pl+Ill+PxPl1+So/PNC:%>на%-шамычыш K ; !PX_NB_CX
+ +Pl+Ill+PxPl1+So/PNC:%>на%-влакыш  ENDLEX ; !PX_NB_CX
+ +Pl+Ill+PxPl1+So/PNC:%>на%-шамычыш ENDLEX ; !PX_NB_CX
 
 LEXICON N-PL-PxPl1-LAT !!= * @CODE@
  +Pl+Lat+PxPl1+So/NCP:%-влакешна  K ; !NB_PX_CX
@@ -936,8 +936,8 @@ LEXICON N-PL-PxPl2-ILL !!= * @CODE@
  +Pl+Ill+PxPl2+So/NCP:%-шамычышкыда K ; !NB_CX_PX
  +Pl+Ill+PxPl2+So/PNC:%>да%-влакышке  K ; !PX_NB_CX
  +Pl+Ill+PxPl2+So/PNC:%>да%-шамычышке K ; !PX_NB_CX
- +Pl+Ill+PxPl2+So/PNC:%>да%-влакыш  K ; !PX_NB_CX
- +Pl+Ill+PxPl2+So/PNC:%>да%-шамычыш K ; !PX_NB_CX
+ +Pl+Ill+PxPl2+So/PNC:%>да%-влакыш  ENDLEX ; !PX_NB_CX
+ +Pl+Ill+PxPl2+So/PNC:%>да%-шамычыш ENDLEX ; !PX_NB_CX
 
 LEXICON N-PL-PxPl2-LAT !!= * @CODE@
  +Pl+Lat+PxPl2+So/NCP:%-влакешда  K ;
@@ -1039,8 +1039,8 @@ LEXICON N-PL-PxPl3-ILL !!= * @CODE@
  +Pl+Ill+PxPl3+So/NCP:%-шамычышкышт K ;	!NB_CX_PX
  +Pl+Ill+PxPl3+So/PNC:%>Ы1шт%-влакышке  K ; !PX_NB_CX
  +Pl+Ill+PxPl3+So/PNC:%>Ы1шт%-шамычышке K ; !PX_NB_CX
- +Pl+Ill+PxPl3+So/PNC:%>Ы1шт%-влакыш  K ; !PX_NB_CX
- +Pl+Ill+PxPl3+So/PNC:%>Ы1шт%-шамычыш K ; !PX_NB_CX
+ +Pl+Ill+PxPl3+So/PNC:%>Ы1шт%-влакыш  ENDLEX ; !PX_NB_CX
+ +Pl+Ill+PxPl3+So/PNC:%>Ы1шт%-шамычыш ENDLEX ; !PX_NB_CX
 
 LEXICON N-PL-PxPl3-LAT !!= * @CODE@
  +Pl+Lat+PxPl3+So/NCP:%-влакешышт  K ; !NB_CX_PX
