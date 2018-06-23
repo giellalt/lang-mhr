@@ -864,7 +864,7 @@ LEXICON ProperNoun-mhr
 Раман:Раман PROP_KUDO_MAL "" ;
 Семон:Семон PROP_KUDO_MAL "" ;
 Симяк:Симяк PROP_KUDO_MAL "" ;
-Серге:Серг%{еы%} PROP_KUDO_MAL "" ;
+Серге:Серге PROP_KUDO_MAL "" ;
 Стапан:Стапан PROP_KUDO_MAL "" ;
 Сепан:Сепан PROP_KUDO_MAL "" ;
 Сапан:Сапан PROP_KUDO_MAL "" ;
@@ -4203,7 +4203,6 @@ LEXICON ProperNoun-mhr
 Ӱлыл% Янаево:Ӱлыл% Янаево PROP-PLC_ "" ;
 Ӱлыл% Ӱзек:Ӱлыл% Ӱзек PROP-PLC_ "" ;
 Ӱлылсола:Ӱлылсола PROP-PLC_ "" ;
-Ӱпӧ:Ӱпӧ PROP-PLC_ "" ;
 Ӱшнӱр:Ӱшнӱр PROP-PLC_ "" ;
 Ӱштымбал:Ӱштымбал PROP-PLC_ "" ;
 Ӱшӱттӱр:Ӱшӱттӱр PROP-PLC_ "" ;
@@ -4215,15 +4214,26 @@ LEXICON ProperNoun-mhr
 Тольык:Тольык PROP_KUDO_MAL "" ;
 Пӧтыр:Пӧтыр PROP_KUDO_MAL "" ;
 Метрий:Метрий PROP_KUDO_MAL "" ;
+Метри:Метри PROP_KUDO_MAL "" ;
 Онтон:Онтон PROP_KUDO_MAL "" ;
+Якып:Якып PROP_KUDO_MAL "" ;
+Епрем:Епрем PROP_KUDO_MAL "" ;
+
+Анук:Анук PROP_KUDO_FEM "Z" ;
+Олюк:Олюк PROP_KUDO_FEM "Z" ;
 
 Торъял:Торъял PROP-PLC_ "" ;
 Тӧлбай:Тӧлбай PROP-PLC_ "" ;
 Медведево:Медведево PROP-PLC_ "" ;
+Звенигово:Звенигово PROP-PLC_ "" ;
+Волжск:Волжск PROP-PLC_ "" ;
+Антиохий:Антиохий PROP-PLC_ "" ;
 
 ! JB: These names should probably be added to the general lexicon for Languages of Russia,
 ! but as it is not clear how diminutive forms should be handled there, leaving them here
 ! for now.
+
+Синедрион:Синедрион PROP-PLC_ "" ;
 
 Нина:Нина PROP_KUDO_FEM "" ;
 Зоя:Зоя PROP_KUDO_FEM "Z" ;
@@ -4232,8 +4242,12 @@ LEXICON ProperNoun-mhr
 Валя:Валя PROP_KUDO_FEM "Z" ;
 Ану:Ану PROP_KUDO_FEM "Z" ;
 Саша:Саша PROP_KUDO_FEM "Z" ;
+Оля:Оля PROP_KUDO_FEM "Z" ;
 
-
+Витя:Витя PROP_KUDO_MAL "" ;
+Слава:Слава PROP_KUDO_MAL "" ;
+Юра:Юра PROP_KUDO_MAL "" ;
+Гриша:Гриша PROP_KUDO_MAL "" ;
 Веня:Веня PROP_KUDO_MAL "" ;
 Валерий:Валерий PROP_KUDO_MAL "" ;
 Костя:Костя PROP_KUDO_MAL "" ;
@@ -4247,4 +4261,16 @@ LEXICON ProperNoun-mhr
 Ваня:Ваня PROP_KUDO_MAL "" ;
 Джереми:Джереми PROP_KUDO_MAL "" ;
 Тимоти:Тимоти PROP_KUDO_MAL "" ;
+Петя:Петя PROP_KUDO_MAL "" ;
+Миша:Миша PROP_KUDO_MAL "" ;
+Янош:Янош PROP_KUDO_MAL "" ;
+Юха:Юха PROP_KUDO_MAL "" ;
+Павел:Павел PROP_KUDO_MAL "" ;
+Савл:Савл PROP_KUDO_MAL "" ;
+Симон-Петр:Симон-Петр PROP_KUDO_MAL "" ;
+Илия:Илия PROP_KUDO_MAL "" ;
+Левий:Левий PROP_KUDO_MAL "" ;
+Агриппа:Агриппа PROP_KUDO_MAL "" ;
+Исаак:Исаак PROP_KUDO_MAL "" ;
 
+Иордан:Иордан PROP-PLC_ "" ;
