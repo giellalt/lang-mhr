@@ -31483,10 +31483,11 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">мландымбак(е)</l>
+     <l pos="Adv">мландымбак</l>
      <stg>
-       <st Contlex="ADV_">мландымба•к(е)</st>
-     </stg> <stress>мландымба•к(е)</stress>
+       <st Contlex="ADV_">мландымба•к</st>
+       <st Contlex="ADV_" status="Err/Orth">мландӱмба•к</st>
+     </stg> <stress>мландымба•к</stress>
    </lg>
    <mg>
      <defNative/>
@@ -31502,6 +31503,7 @@
      <l pos="Adv">мландымбаке</l>
      <stg>
        <st Contlex="ADV_">мландымба•к%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">мландӱмба•к%{еы%}</st>
      </stg> <stress>мландымба•ке</stress>
    </lg>
    <mg>
@@ -31517,6 +31519,7 @@
      <l pos="Adv">мландымбалан</l>
      <stg>
        <st Contlex="ADV_">мландымбала•н</st>
+       <st Contlex="ADV_" status="Err/Orth">мландӱмбала•н</st>
      </stg> <stress>мландымбала•н</stress>
    </lg>
    <mg>
@@ -31533,6 +31536,7 @@
      <l pos="Adv">мландымбалне</l>
      <stg>
        <st Contlex="ADV_">мландымба•лн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">мландӱмба•лн%{еы%}</st>
      </stg> <stress>мландымба•лне</stress>
    </lg>
    <mg>
@@ -31549,6 +31553,7 @@
      <l pos="Adv">мландымбалым</l>
      <stg>
        <st Contlex="ADV_">мландымба•лым</st>
+       <st Contlex="ADV_" status="Err/Orth">мландӱмба•лым</st>
      </stg> <stress>мландымба•лым</stress>
    </lg>
    <mg>
@@ -31562,10 +31567,11 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">мландымбач(ын)</l>
+     <l pos="Adv">мландымбач</l>
      <stg>
-       <st Contlex="ADV_">мландымба•ч(ын)</st>
-     </stg> <stress>мландымба•ч(ын)</stress>
+       <st Contlex="ADV_">мландымба•ч</st>
+       <st Contlex="ADV_" status="Err/Orth">мландӱмба•ч</st>
+     </stg> <stress>мландымба•ч</stress>
    </lg>
    <mg>
      <defNative/>
@@ -31581,6 +31587,7 @@
      <l pos="Adv">мландымбачын</l>
      <stg>
        <st Contlex="ADV_">мландымба•чын</st>
+       <st Contlex="ADV_" status="Err/Orth">мландӱмба•чын</st>
      </stg> <stress>мландымба•чын</stress>
    </lg>
    <mg>
@@ -31600,7 +31607,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="Adv">what; (interrogative particle); really? isn't it so?; why, for what reason, for what purpose; what sort of, what kind of, what; how many (used to denote large quantities); when, since; what does it matter to him/her/etc., what does he/she/etc. care</t>
+       <t pos="Adv">how many (used to denote large quantities); when, since; what does it matter to him/her/etc., what does he/she/etc. care</t>
      </tg>
    </mg>
 </e>
@@ -31613,7 +31620,7 @@
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="Adv">something, anything, whatever, something or other; still, all the same</t>
+       <t pos="Adv">still, all the same</t>
      </tg>
    </mg>
 </e>
