@@ -4243,7 +4243,9 @@ LEXICON ProperNoun-mhr
 Ану:Ану PROP_KUDO_FEM "Z" ;
 Саша:Саша PROP_KUDO_FEM "Z" ;
 Оля:Оля PROP_KUDO_FEM "Z" ;
+Маша:Маша PROP_KUDO_FEM "Z" ;
 
+Володя:Володя PROP_KUDO_MAL "" ;
 Витя:Витя PROP_KUDO_MAL "" ;
 Слава:Слава PROP_KUDO_MAL "" ;
 Юра:Юра PROP_KUDO_MAL "" ;
@@ -4272,5 +4274,9 @@ LEXICON ProperNoun-mhr
 Левий:Левий PROP_KUDO_MAL "" ;
 Агриппа:Агриппа PROP_KUDO_MAL "" ;
 Исаак:Исаак PROP_KUDO_MAL "" ;
+Ромео:Ромео PROP_KUDO_MAL "" ;
 
 Иордан:Иордан PROP-PLC_ "" ;
+Царевококшайск:Царевококшайск PROP-PLC_ "" ;
+Башкортостан:Башкортостан PROP-PLC_ "" ;
+Маргостеатр:Маргостеатр PROP-PLC_ "" ;
