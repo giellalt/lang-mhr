@@ -382,10 +382,12 @@ LEXICON N-SG-PxSg1-COM !!= * @CODE@
 LEXICON N-SG-PxSg1-INE !!= * @CODE@
 ! +Sg+Ine+PxSg1+So/PC:%>Е2мыште K ; !NB_PX_CX
  +Sg+Ine+PxSg1+So/CP:%>Ы1штем   K ; !NB_CX_PX
+ +Sg+Ine+PxSg1+So/CP:%>тем K ;
 
 LEXICON N-SG-PxSg1-ILL !!= * @CODE@
 ! +Sg+Ill+PxSg1+So/PC:%>Е2мышке K ; !NB_PX_CX
  +Sg+Ill+PxSg1+So/CP:%>Ы1шкем   K ; !NB_CX_PX
+ +Sg+Ill+PxSg1+So/CP:%>кем K ;
 
 LEXICON N-SG-PxSg1-LAT !!= * @CODE@
  +Sg+Lat+PxSg1+So/CP:%>Е2шем K ; !NB_CX_PX CHECKME 2016-12-27
@@ -484,10 +486,12 @@ LEXICON N-SG-PxSg2-COM !!= * @CODE@
 
 LEXICON N-SG-PxSg2-INE !!= * @CODE@
  +Sg+Ine+PxSg2+So/CP:%>Ы1штет   K ; !NB_CX_PX
+ +Sg+Ine+PxSg2+So/CP:%>тет K ;
 ! +Sg+Ine+PxSg2+So/PC:%>Е2тыште K ; !NB_PX_CX
 
 LEXICON N-SG-PxSg2-ILL !!= * @CODE@
  +Sg+Ill+PxSg2+So/CP:%>Ы1шкет   K ; !NB_CX_PX
+ +Sg+Ill+PxSg1+So/CP:%>кет K ;
 ! +Sg+Ill+PxSg2+So/PC:%>Е2тышке K ; !NB_PX_CX
 
 LEXICON N-SG-PxSg2-LAT !!= * @CODE@
@@ -598,12 +602,14 @@ LEXICON N-SG-PxSg3-COM !!= * @CODE@
 LEXICON N-SG-PxSg3-INE !!= * @CODE@
  +Sg+Ine+PxSg3+So/CP:%>Ы1шты%>жЫ2 K ; !NB_CX_PX
  +Sg+Ine+PxSg3+So/CP:%>Ы1шты%>ж ENDLEX ; !NB_CX_PX
-
+ +Sg+Ine+PxSg3+So/CP:%>ты%>жЫ2 K ;
+ +Sg+Ine+PxSg3+So/CP:%>ты%>ж K ;
 
 LEXICON N-SG-PxSg3-ILL !!= * @CODE@
  +Sg+Ill+PxSg3+So/CP:%>Ы1шкы%>жЫ2 K ; !NB_CX_PX
  +Sg+Ill+PxSg3+So/CP:%>Ы1шкы%>ж ENDLEX ; !NB_CX_PX
-
+ +Sg+Ill+PxSg3+So/CP:%>кы%>жЫ2 K ;
+ +Sg+Ill+PxSg3+So/CP:%>кы%>ж K ;
 
 LEXICON N-SG-PxSg3-LAT !!= * @CODE@
  +Sg+Lat+PxSg3+So/CP:%>Е2шыже K ; !CHECKME 2016-12-27
@@ -773,10 +779,12 @@ LEXICON N-SG-PxPl1-COM !!= * @CODE@
 LEXICON N-SG-PxPl1-INE !!= * @CODE@
 ! +Sg+Ine+PxPl1+So/PC:%>наште K ; !NB_PX_CX
  +Sg+Ine+PxPl1+So/CP:%>Ы1штына K ; !NB_CX_PX
+ +Sg+Ine+PxPl1+So/CP:%>тына K ;
 
 LEXICON N-SG-PxPl1-ILL !!= * @CODE@
 ! +Sg+Ill+PxPl1+So/PC:%>нашке K ; !NB_PX_CX
  +Sg+Ill+PxPl1+So/CP:%>Ы1шкына K ; !NB_CX_PX
+ +Sg+Ill+PxPl1+So/CP:%>кына K ;
 
 LEXICON N-SG-PxPl1-LAT !!= * @CODE@
  +Sg+Lat+PxPl1+So/CP:%>Е2шна K ;
@@ -875,10 +883,12 @@ LEXICON N-SG-PxPl2-COM !!= * @CODE@
 LEXICON N-SG-PxPl2-INE !!= * @CODE@
 ! +Sg+Ine+PxPl2+So/PC:%>даште K ; !NB_PX_CX
  +Sg+Ine+PxPl2+So/CP:%>Ы1штыда K ; !NB_CX_PX
+ +Sg+Ine+PxPl2+So/CP:%>тыда K ;
 
 LEXICON N-SG-PxPl2-ILL
 ! +Sg+Ill+PxPl2+So/PC:%>дашке K ; !NB_PX_CX
  +Sg+Ill+PxPl2+So/CP:%>Ы1шкыда K ; !NB_CX_PX
+ +Sg+Ill+PxPl2+So/CP:%>кыда K ;
 
 LEXICON N-SG-PxPl2-LAT !!= * @CODE@
  +Sg+Lat+PxPl2+So/CP:%>Е2шда K ;
@@ -975,9 +985,11 @@ LEXICON N-SG-PxPl3-COM !!= * @CODE@
 
 LEXICON N-SG-PxPl3-INE !!= * @CODE@
  +Sg+Ine+PxPl3+So/CP:%>Ы1штышт K ;
+ +Sg+Ine+PxPl3+So/CP:%>тышт K ;
 
 LEXICON N-SG-PxPl3-ILL !!= * @CODE@
  +Sg+Ill+PxPl3+So/CP:%>Ы1шкышт K ;
+ +Sg+Ill+PxPl3+So/CP:%>кышт K ;
 
 LEXICON N-SG-PxPl3-LAT !!= * @CODE@
  +Sg+Lat+PxPl3+So/CP:%>Е2шышт K ;
