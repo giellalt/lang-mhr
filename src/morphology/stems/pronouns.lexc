@@ -32,7 +32,7 @@ LEXICON pronouns
 икмо:икмо PRON_  "jokin" ;
 икмочол:икмочол PRON_  "" ;
 икмыняр:икмыняр PronInd  "muutama" ;
-иктаж:иктаж PronInd  "joku, jokin, eräs" ;
+иктаж:иктаж PRON-INDEF  "joku, jokin, eräs" ;
 иктаж-кузе:иктаж-кузе PronInd  "jollakin tapaa" ;
 иктаж-кушан:иктаж-кушан PronInd  "jossakin" ;
 иктаж-кушеч:иктаж-кушеч PronInd  "jostakin" ;
@@ -56,7 +56,7 @@ LEXICON pronouns
 икте:икт%{еы%} PronInd  "eräs; sama" ;
 икте-весе:икте-вес%{еы%} PronRes  "toinen toise- PronRes" ;
 иктыже:иктыж%{еы%} PRON_  "" ;
-кажне:кажн%{еы%} PronInd  "joka(inen)" ;
+кажне:кажн%{еы%} PRON-INDEF  "joka(inen)" ;
 керек-кудо:керек-куд%{оы%} PRON_  "kuka/mikä tahansa" ;
 керек-кузе:керек-кузе PronInd  "miten tahansa" ;
 керек-кунам:керек-кунам PronInd  "milloin tahansa" ;

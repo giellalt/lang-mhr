@@ -680,7 +680,7 @@
       <l pos="Pron">иктаж</l>
 
       <stg>
-        <st Contlex="PronInd">иктаж</st>
+        <st Contlex="PRON-INDEF">иктаж</st>
       </stg>
 
       <stress>икта•ж</stress>
@@ -1179,7 +1179,7 @@
       <l pos="Pron">кажне</l>
 
       <stg>
-        <st Contlex="PronInd">кажн%{еы%}</st>
+        <st Contlex="PRON-INDEF">кажн%{еы%}</st>
       </stg>
 
       <stress>ка•жне</stress>

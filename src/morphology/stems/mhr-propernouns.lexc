@@ -160,7 +160,7 @@ LEXICON ProperNoun-mhr
 Итыкай:Итыкай PROP_KUDO_MAL "" ;
 Ишим:Ишим PROP_KUDO_MAL "" ;
 Ишкелде:Ишкелд%{еы%} PROP_KUDO_MAL "" ;
-Ишко:Ишк%{оы%} PROP_KUDO_MAL "" ;
+Ишко:Ишко PROP_KUDO_MAL "" ;
 Ишмет:Ишмет PROP_KUDO_MAL "" ;
 Иштерек:Иштерек PROP_KUDO_MAL "" ;
 Йолагай:Йолагай PROP_KUDO_MAL "" ;
@@ -4218,9 +4218,15 @@ LEXICON ProperNoun-mhr
 Онтон:Онтон PROP_KUDO_MAL "" ;
 Якып:Якып PROP_KUDO_MAL "" ;
 Епрем:Епрем PROP_KUDO_MAL "" ;
+Ӧршӧҥгӧ:Ӧршӧҥг%{ӧы%} PROP_KUDO_MAL "" ;
+Ирук:Ирук PROP_KUDO_MAL "" ;
+Пӧча:Пӧча PROP_KUDO_MAL "" ;
+Вӓйнӓмӧйнен:Вӓйнӓмӧйнен PROP_KUDO_MAL "" ;
+Япык:Япык PROP_KUDO_MAL "" ;
 
 Анук:Анук PROP_KUDO_FEM "Z" ;
 Олюк:Олюк PROP_KUDO_FEM "Z" ;
+Чачавий:Чачавий PROP_KUDO_FEM "Z" ;
 
 Торъял:Торъял PROP-PLC_ "" ;
 Тӧлбай:Тӧлбай PROP-PLC_ "" ;
@@ -4228,12 +4234,18 @@ LEXICON ProperNoun-mhr
 Звенигово:Звенигово PROP-PLC_ "" ;
 Волжск:Волжск PROP-PLC_ "" ;
 Антиохий:Антиохий PROP-PLC_ "" ;
+Пӱнчеръял:Пӱнчеръял PROP-PLC_ "" ;
+Чукотка:Чукотк%{аы%} PROP-PLC_ "" ;
+Цӱрих:Цӱрих PROP-PLC_ "" ;
+Матародо:Матарод%{оы%} PROP-PLC_ "" ;
+Мордовий:Мордовий PROP-PLC_ "" ;
+Черногорий:Черногорий PROP-PLC_ "" ;
+Ӱшнур:Ӱшнур PROP-PLC_ "" ;
+Лаждӱр:Лаждӱр PROP-PLC_ "" ;
 
 ! JB: These names should probably be added to the general lexicon for Languages of Russia,
 ! but as it is not clear how diminutive forms should be handled there, leaving them here
 ! for now.
-
-Синедрион:Синедрион PROP-PLC_ "" ;
 
 Нина:Нина PROP_KUDO_FEM "" ;
 Зоя:Зоя PROP_KUDO_FEM "Z" ;
@@ -4244,7 +4256,17 @@ LEXICON ProperNoun-mhr
 Саша:Саша PROP_KUDO_FEM "Z" ;
 Оля:Оля PROP_KUDO_FEM "Z" ;
 Маша:Маша PROP_KUDO_FEM "Z" ;
+Эля:Эля PROP_KUDO_FEM "Z" ;
+Эва:Эва PROP_KUDO_FEM "Z" ;
+Раисия:Раисия PROP_KUDO_FEM "Z" ;
+Лилия:Лилия PROP_KUDO_FEM "Z" ;
+Аля:Аля PROP_KUDO_FEM "Z" ;
 
+Саня:Саня PROP_KUDO_MAL "" ;
+Леня:Леня PROP_KUDO_MAL "" ;
+Митя:Митя PROP_KUDO_MAL "" ;
+Алёша:Алёша PROP_KUDO_MAL "" ;
+Гена:Гена PROP_KUDO_MAL "" ;
 Володя:Володя PROP_KUDO_MAL "" ;
 Витя:Витя PROP_KUDO_MAL "" ;
 Слава:Слава PROP_KUDO_MAL "" ;
@@ -4275,8 +4297,51 @@ LEXICON ProperNoun-mhr
 Агриппа:Агриппа PROP_KUDO_MAL "" ;
 Исаак:Исаак PROP_KUDO_MAL "" ;
 Ромео:Ромео PROP_KUDO_MAL "" ;
+Валерик:Валерик PROP_KUDO_MAL "" ;
+Панкрат:Панкрат PROP_KUDO_MAL "" ;
+Айно:Айно PROP_KUDO_MAL "" ;
+Йоулупукки:Йоулупукки PROP_KUDO_MAL "" ;
+Микко:Микко PROP_KUDO_MAL "" ;
+Тим:Тим PROP_KUDO_MAL "" ;
+Питер:Питер PROP_KUDO_MAL "" ;
+Иштван:Иштван PROP_KUDO_MAL "" ;
+Чарли:Чарли PROP_KUDO_MAL "" ;
+Эрай:Эрай PROP_KUDO_MAL "" ;
+Кузьма:Кузьма PROP_KUDO_MAL "" ;
+Петер:Петер PROP_KUDO_MAL "" ;
+
+Ильич:Ильич PROP_KUDO_MAL "" ;
+
+Цезарь:Цезарь PROP_KUDO_MAL "" ;
 
 Иордан:Иордан PROP-PLC_ "" ;
 Царевококшайск:Царевококшайск PROP-PLC_ "" ;
 Башкортостан:Башкортостан PROP-PLC_ "" ;
 Маргостеатр:Маргостеатр PROP-PLC_ "" ;
+Певек:Певек PROP-PLC_ "" ;
+Чаун:Чаун PROP-PLC_ "" ;
+Петроград:Петроград PROP-PLC_ "" ;
+Синедрион:Синедрион PROP-PLC_ "" ;
+Фейсбук:Фейсбук PROP-PLC_ "" ;
+Яльчик:Яльчик PROP-PLC_ "" ;
+Эльбрус:Эльбрус PROP-PLC_ "" ;
+Леонардо:Леонардо PROP-PLC_ "" ;
+Балатон:Балатон PROP-PLC_ "" ;
+Краснококшайск:Краснококшайск PROP-PLC_ "" ;
+Яндекс:Яндекс PROP-PLC_ "" ;
+Куженер:Куженер PROP-PLC_ "" ;
+Параньга:Параньга PROP-PLC_ "" ;
+Оршанка:Оршанка PROP-PLC_ "" ;
+Юрино:Юрино PROP-PLC_ "" ;
+Нижний:Нижний PROP-PLC_ "" ;
+Казань:Казань PROP-PLC_ "" ;
+Немда:Немда PROP-PLC_ "" ;
+Марисола:Марисола PROP-PLC_ "" ;
+Мартелком:Мартелком PROP-PLC_ "" ;
+Вятка:Вятка PROP-PLC_ "" ;
+Люксембург:Люксембург PROP-PLC_ "" ;
+Янаул:Янаул PROP-PLC_ "" ;
+Бирск:Бирск PROP-PLC_ "" ;
+Россельхозбанк:Россельхозбанк PROP-PLC_ "" ;
+Ульяновск:Ульяновск PROP-PLC_ "" ;
+Татарстан:Татарстан PROP-PLC_ "" ;
