@@ -33,8 +33,8 @@ LEXICON MYJ !!= * @CODE@
 +Sg1+Gen:мыйын K_at ;
 +Sg1+Der/Poss:мыйын N-ava_01_obl ;
 +Sg1+Acc:мыйым K_at ;
-+Sg1+Dat+Use/NG:мыланем #;
-+Sg1+Dat:мылам #;
++Sg1+Dat+Use/NG:мыланем K_at;
++Sg1+Dat:мылам K_at;
 +Sg1+Com:мыйге # ;
 +Sg1+Cmpr:мыйла # ;
 +Pl1+Nom:ме K_at ;
@@ -51,15 +51,15 @@ LEXICON TYJ !!= * @CODE@
 +Sg2+Gen:тыйын K_at ;
 +Sg2+Der/Poss:тыйын N-ava_01_obl ;
 +Sg2+Acc:тыйым K_at ;
-+Sg2+Dat+Use/NG:тыланет #;
-+Sg2+Dat:тылат #;
++Sg2+Dat+Use/NG:тыланет K_at;
++Sg2+Dat:тылат K_at;
 +Sg2+Com:тыйге # ;
 +Sg2+Cmpr:тыйла # ;
 +Pl2+Nom:те K_at ;
 +Pl2+Gen:тендан K_at ;
 +Pl2+Der/Poss:тендан N-ava_01_obl ;
 +Pl2+Acc:тендам K_at ;
-+Pl2+Dat:тыланда #;
++Pl2+Dat:тыланда K_at;
 +Pl2+Dat+Use/NG:тендалан #;
 +Pl2+Com:теге # ;
 +Pl2+Cmpr:тела # ;
@@ -73,6 +73,7 @@ LEXICON TUDO !!= * @CODE@
 +Pers+Sg3+Com:тудыге # ;
 +Pers+Sg3+Cmpr:тудла # ;
 +Pers+Pl3+Nom:нун%{оы%} K_at ;
++Pers+Pl3+Nom+PxPl3:нунышт K_at ;
 +Pers+Pl3+Gen:нунын K_at ;
 +Pl+Der/Poss:нунын N-ava_01_obl ;
 +Pers+Pl3+Acc:нуным K_at ;

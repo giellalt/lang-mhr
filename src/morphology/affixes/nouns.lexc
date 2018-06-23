@@ -19,6 +19,7 @@ LEXICON N_  !!= * @CODE@ redirects to N-ava_01
  +N+Der/Priv:%>дымЫ2 A_ ;   ! вӱр 'blood' > вӱрдымӧ 'bloodless' - Privative derivation
  +N+Der/Poss:%>А2н A_ ;     ! вӱр 'blood' > вӱран 'bloody' - Possessive derivation
  +N+Der/Rel:%>Ы1%>сЫ2 A_ ;    ! вӱр 'blood' > вӱрысӧ 'of/in blood' - Relational derivation
+ +N+Der/Rel+Err/Orth:%>сЫ2 A_ ;    ! Relational derivation with missing ы, i.e. вӱрсӧ - depreciated
  +N+Der/Pur:%>лык A_ ;      ! вӱр 'blood' > вӱрлык 'for blood' - Purposive derivation
  +N+LocPl+Der/Rel:%>лас%{еы%} A_ ; ! эл 'land' > элласе 'of/in lands' - Plur + Relational derivation
 
