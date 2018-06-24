@@ -59,6 +59,9 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Recipr    !!≈ * __@CODE@__ = Reciprocal pronoun
 +Rel       !!≈ * __@CODE@__ = Relative pronoun
 +Indef     !!≈ * __@CODE@__ = Indefinite pronoun
++Coll !!≈ * __@CODE@__ = Collective numerals -ын-
++AssocColl !!≈ * __@CODE@__ = Collective associative numerals with obligatory possessive suffixes -нь-
+
 +Patr      !!≈ * __@CODE@__ = patronym, look at this in other cyr fsts.
 +Aux       !!≈ * __@CODE@__ = Auxiliary verb
 +Depend   !!≈ * __@CODE@__ = ( pair verbs that do not occur independently get this marker.)
