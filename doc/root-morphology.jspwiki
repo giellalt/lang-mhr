@@ -14,6 +14,10 @@ The morphological analyses of the wordforms of Eastern Mari language are
 presented in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
+ * %^VoTrigger   for use with acronyms after hyphen
+ * %^VeTrigger   for use with acronyms after hyphen
+ * %^VOTrigger   for use with acronyms after hyphen
+
 
 !The parts-of-speech are:
 

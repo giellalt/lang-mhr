@@ -243,15 +243,14 @@ LEXICON PROP-PLC_KUDO !!= * @CODE@
 
 
 
-LEXICON Prop !!= * @CODE@
- +N+Prop: N-continuation ;
- +N+Prop: ENDLEX ;
+!LEXICON Prop !!= * @CODE@
+! +N+Prop: N-continuation ;
+! +N+Prop: ENDLEX ;
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
-     Prop ;
- :%: Prop ;
- :%- Prop ;
- :%' Prop ;
++Sg+Nom:     ENDLEX ;
+ :%- N-ava_01_obl ;
+! :%' Prop ;
 
 
 

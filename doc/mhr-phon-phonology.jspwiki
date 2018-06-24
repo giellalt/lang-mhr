@@ -62,6 +62,10 @@ Archiphonemes for vowels, Apertium style
  * %^V2IMPRT:0	 for -ем verbs in й
  * %^END:0		   for -ам verb final, i.e. Imprf
 
+ * %^VoTrigger:0   for use with acronyms after hyphen о у ё ю О У Ё Ю
+ * %^VeTrigger:0   for use with acronyms after hyphen а е и э я А Е И Э Я
+ * %^VOTrigger:0   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+
 
  *  %>    
 
