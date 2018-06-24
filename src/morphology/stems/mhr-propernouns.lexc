@@ -4223,6 +4223,7 @@ LEXICON ProperNoun-mhr
 Пӧча:Пӧча PROP_KUDO_MAL "" ;
 Вӓйнӓмӧйнен:Вӓйнӓмӧйнен PROP_KUDO_MAL "" ;
 Япык:Япык PROP_KUDO_MAL "" ;
+Юкуат:Юкуат PROP_KUDO_MAL "" ;
 
 Анук:Анук PROP_KUDO_FEM "Z" ;
 Олюк:Олюк PROP_KUDO_FEM "Z" ;
@@ -4242,6 +4243,9 @@ LEXICON ProperNoun-mhr
 Черногорий:Черногорий PROP-PLC_ "" ;
 Ӱшнур:Ӱшнур PROP-PLC_ "" ;
 Лаждӱр:Лаждӱр PROP-PLC_ "" ;
+Упшер:Упшер PROP-PLC_ "" ;
+Шайра:Шайра PROP-PLC_ "" ;
+Эреҥер:Эреҥер PROP-PLC_ "" ;
 
 ! JB: These names should probably be added to the general lexicon for Languages of Russia,
 ! but as it is not clear how diminutive forms should be handled there, leaving them here
@@ -4344,4 +4348,11 @@ LEXICON ProperNoun-mhr
 Бирск:Бирск PROP-PLC_ "" ;
 Россельхозбанк:Россельхозбанк PROP-PLC_ "" ;
 Ульяновск:Ульяновск PROP-PLC_ "" ;
-Татарстан:Татарстан PROP-PLC_ "" ;
+Турек:Турек PROP-PLC_ "" ;
+Арбор:Арбор PROP-PLC_ "" ;
+Нижегородский:Нижегородский PROP-PLC_ "" ;
+Кокшайск:Кокшайск PROP-PLC_ "" ;
+Дон:Дон PROP-PLC_ "" ;
+Коркатово:Коркатово PROP-PLC_ "" ;
+Украина:Украина PROP-PLC_ "" ;
+Канада:Канада PROP-PLC_ "" ;

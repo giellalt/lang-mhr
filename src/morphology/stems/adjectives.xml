@@ -63007,6 +63007,7 @@
      <l pos="A">мер-политике</l>
      <stg>
        <st Contlex="A_">мер-поли•тик%{еы%}</st>
+       <st Contlex="A_" status="Err/Orth">мер-поли•тик%{аы%}</st>
      </stg> <stress>мер-поли•тике</stress>
    </lg>
    <mg>
@@ -119028,28 +119029,18 @@
      <l pos="A">тӱҥ</l>
      <stg>
        <st Contlex="A_">тӱҥ</st>
+       <st Contlex="A_" status="Err/Orth">тӱн</st>
      </stg>
    </lg>
    <mg>
      <defNative/>
+     <tg xml:lang="eng">
+       <t pos="A">main, fundamental, basic, principal, essential, primary; head, chief, main, senior; original, primordial, radical, native, indigenous; direct (relative); {linguistics}not derived, nonderived</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="A">perus-</t>
        <t pos="A">pää-</t>
        <t pos="A">yli-</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">тӱҥ-вожан</l>
-     <stg>
-       <st Contlex="A_">тӱҥ-вожан</st>
-     </stg> <stress>тӱҥ-вожа•н</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A"/>
      </tg>
    </mg>
 </e>
@@ -152731,11 +152722,12 @@
      <l pos="A">еҥ</l>
      <stg>
        <st Contlex="A_">еҥ</st>
+       <st Contlex="A_" status="Err/Orth">ен</st>
      </stg> <stress>еҥ</stress>
    </lg>
    <mg>
      <tg xml:lang="eng">
-       <t pos="A">person, human; different person, stranger, other person, other people; foreign, someone else's; incorrect, false</t>
+       <t pos="A">foreign, someone else's; incorrect, false</t>
      </tg>
    </mg>
 </e>
@@ -161444,19 +161436,6 @@
    <mg>
      <tg xml:lang="eng">
        <t pos="A">fixed, intent, concentrated (stare); sharp-sighted, sharp (eye); careful, cautious, attentive, vigilant, watchful; thoughtful, considerate; attentiveness</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="A">тӱҥ</l>
-     <stg>
-       <st Contlex="A_">тӱҥ</st>
-     </stg> <stress>тӱҥ</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t pos="A">foundation, basis, base; beginning, start; essence, heart, core, essentials, gist; {biology}base (of a tree trunk); main, fundamental, basic, principal, essential, primary; head, chief, main, senior; original, primordial, radical, native, indigenous; direct (relative); {linguistics}not derived, nonderived; main thing, the main thing, the most important thing (is that/to ...)</t>
      </tg>
    </mg>
 </e>
