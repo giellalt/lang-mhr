@@ -25,6 +25,7 @@ GT_LEXC_ROOT=$(srcdir)/root.lexc
 GT_LEXC_SRCS_L1_L2=\
 			 stems/abbreviations.lexc \
 			 stems/acronyms.lexc      \
+			 stems/numerals.lexc      \
 			 stems/punctuation.lexc   \
 			 stems/exceptions.lexc   \
 			 stems/mhr-propernouns.lexc   \
