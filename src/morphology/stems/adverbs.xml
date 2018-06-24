@@ -23,6 +23,7 @@
      <l pos="Adv">абстрактне</l>
      <stg>
        <st Contlex="ADV_">абстра•ктн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">абстра•ктн%{оы%}</st>
      </stg> <stress>абстра•ктне</stress>
    </lg>
    <mg>
@@ -428,6 +429,7 @@
      <l pos="Adv">аккуратне</l>
      <stg>
        <st Contlex="ADV_">аккуратн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">аккуратн%{оы%}</st>
      </stg>
    </lg>
    <mg>
@@ -486,6 +488,7 @@
      <l pos="Adv">активне</l>
      <stg>
        <st Contlex="ADV_">акти•вн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">активн%{оы%}</st>
      </stg> <stress>акти•вне</stress>
    </lg>
    <mg>
@@ -522,6 +525,7 @@
      <l pos="Adv">актуальне</l>
      <stg>
        <st Contlex="ADV_">актуа•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">актуа•льн%{оы%}</st>
      </stg> <stress>актуа•льне</stress>
    </lg>
    <mg>
@@ -3196,6 +3200,7 @@
      <l pos="Adv">верне</l>
      <stg>
        <st Contlex="ADV_">ве•рн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">ве•рн%{оы%}</st>
      </stg> <stress>ве•рне</stress>
    </lg>
    <mg>
@@ -3214,6 +3219,7 @@
      <l pos="Adv">вертикальне</l>
      <stg>
        <st Contlex="ADV_">вертика•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">вертика•льн%{оы%}</st>
      </stg> <stress>вертика•льне</stress>
    </lg>
    <mg>
@@ -4125,6 +4131,7 @@
      <l pos="Adv">внимательне</l>
      <stg>
        <st Contlex="ADV_">внима•тельн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">внима•тельн%{оы%}</st>
      </stg> <stress>внима•тельне</stress>
    </lg>
    <mg>
@@ -4196,6 +4203,7 @@
      <l pos="Adv">водно</l>
      <stg>
        <st Contlex="ADV_">во•дн%{оы%}</st>
+       <st Contlex="ADV_" status ="Err/Orth">во•тн%{оы%}</st>
      </stg> <stress>во•дно</stress>
    </lg>
    <mg>
@@ -4204,6 +4212,7 @@
        <t pos="Adv">yesterday evening; on the eve, on the evening before</t>
      </tg>
      <tg xml:lang="fin">
+       <t pos="Adv">eilen illalla</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -4663,18 +4672,6 @@
      </tg>
    </mg>
 </e>
-<e order="2">
-   <lg>
-     <l pos="Adv">воктене</l>
-     <stg>
-       <st Contlex="ADV_">вокте•н%{еы%}</st>
-     </stg> <stress>вокте•не</stress>
-   </lg>
-   <mg>
-     <tg xml:lang="eng"> <t/>
-     </tg>
-   </mg>
-</e>
 <e>
    <lg>
      <l pos="Adv">воктеч</l>
@@ -5013,33 +5010,6 @@
        <t pos="Adv">exactly, quite so, precisely; just on the point of, just about to</t>
      </tg>
      <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">вотне</l>
-     <stg>
-       <st Contlex="ADV_">вотн%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">eilen illalla</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">вотно</l>
-     <stg>
-       <st Contlex="ADV_">вотн%{оы%}</st>
-     </stg> <stress>во•тно</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Adv"/>
      </tg>
    </mg>
 </e>
@@ -6925,6 +6895,7 @@
      <l pos="Adv">добросовестне</l>
      <stg>
        <st Contlex="ADV_">добросо•вестн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">добросо•вестн%{оы%}</st>
      </stg> <stress>добросо•вестне</stress>
    </lg>
    <mg>
@@ -6981,19 +6952,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">достойне</l>
-     <stg>
-       <st Contlex="ADV_">достойн%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">ansiokkaasti</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">достойно</l>
      <stg>
        <st Contlex="ADV_">досто•йн%{оы%}</st>
@@ -7005,6 +6963,7 @@
        <t pos="Adv">suitably, worthily, in a worthy manner</t>
      </tg>
      <tg xml:lang="fin">
+       <t pos="Adv">ansiokkaasti</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -9481,6 +9440,7 @@
      <l pos="Adv">интерактивне</l>
      <stg>
        <st Contlex="ADV_">интеракти•вн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">интеракти•вн%{оы%}</st>
      </stg> <stress>интеракти•вне</stress>
    </lg>
    <mg>
@@ -9497,6 +9457,7 @@
      <l pos="Adv">интуитивне</l>
      <stg>
        <st Contlex="ADV_">интуити•вн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">интуити•вн%{оы%}</st>
      </stg> <stress>интуити•вне</stress>
    </lg>
    <mg>
@@ -9545,6 +9506,7 @@
      <l pos="Adv">иррациональне</l>
      <stg>
        <st Contlex="ADV_">иррациона•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">иррациона•льн%{оы%}</st>
      </stg> <stress>иррациона•льне</stress>
    </lg>
    <mg>
@@ -20204,6 +20166,7 @@
      <l pos="Adv">комплексне</l>
      <stg>
        <st Contlex="ADV_">ко•мплексн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">ко•мплексн%{оы%}</st>
      </stg> <stress>ко•мплексне</stress>
    </lg>
    <mg>
@@ -20236,6 +20199,8 @@
      <l pos="Adv">конешне</l>
      <stg>
        <st Contlex="ADV_">конешн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">конешн%{оы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">конечн%{оы%}</st>
      </stg>
    </lg>
    <mg>
@@ -20267,6 +20232,7 @@
      <l pos="Adv">конкретне</l>
      <stg>
        <st Contlex="ADV_">конкре•тн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">конкре•тн%{оы%}</st>
      </stg> <stress>конкре•тне</stress>
    </lg>
    <mg>
@@ -26075,19 +26041,6 @@
      </tg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="Adv">кӱдылне</l>
-     <stg>
-       <st Contlex="ADV_">кӱдылн%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">vieressä</t>
-     </tg>
-   </mg>
-</e>
 <e order="2">
    <lg>
      <l pos="Adv">кӱдылнӧ</l>
@@ -26098,6 +26051,9 @@
    <mg>
      <tg xml:lang="eng">
        <t pos="Adv">beside, near, close to, by</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">vieressä</t>
      </tg>
    </mg>
 </e>
@@ -26927,19 +26883,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">кӱшне</l>
-     <stg>
-       <st Contlex="ADV_">кӱшн%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">ylhäällä, yllä, korkealla</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">кӱшнӧ</l>
      <stg>
        <st Contlex="ADV_">кӱ•шн%{ӧы%}</st>
@@ -26951,6 +26894,7 @@
        <t pos="Adv">above, up high, on the top; before, ahead, in front; {figuratively}at the front, higher than; {figuratively}up at the top, in the higher echelon</t>
      </tg>
      <tg xml:lang="fin">
+       <t pos="Adv">ylhäällä, yllä, korkealla</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -31165,6 +31109,7 @@
      <l pos="Adv">маргинальне</l>
      <stg>
        <st Contlex="ADV_">маргина•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">маргина•льн%{оы%}</st>
      </stg> <stress>маргина•льне</stress>
    </lg>
    <mg>
@@ -31361,6 +31306,7 @@
      <l pos="Adv">материальне</l>
      <stg>
        <st Contlex="ADV_">материа•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">материа•льн%{оы%}</st>
      </stg> <stress>материа•льне</stress>
    </lg>
    <mg>
@@ -31995,6 +31941,7 @@
      <l pos="Adv">моральне</l>
      <stg>
        <st Contlex="ADV_">мора•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">мора•льн%{оы%}</st>
      </stg> <stress>мора•льне</stress>
    </lg>
    <mg>
@@ -32003,20 +31950,6 @@
        <t pos="Adv">morally</t>
      </tg>
      <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">морально</l>
-     <stg>
-       <st Contlex="ADV_">моральн%{оы%}</st>
-     </stg> <stress>мора•льно</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Adv"/>
      </tg>
    </mg>
 </e>
@@ -33416,19 +33349,6 @@
      </tg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="Adv">мӱндырке</l>
-     <stg>
-       <st Contlex="ADV_">мӱндырк%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">kauas</t>
-     </tg>
-   </mg>
-</e>
 <e order="2">
    <lg>
      <l pos="Adv">мӱндыркӧ</l>
@@ -33437,20 +33357,8 @@
      </stg> <stress>мӱ•ндыркӧ</stress>
    </lg>
    <mg>
-     <tg xml:lang="eng"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">мӱндырне</l>
-     <stg>
-       <st Contlex="ADV_">мӱндырн%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
      <tg xml:lang="fin">
-       <t pos="Adv">kaukana</t>
+       <t pos="Adv">kauas</t>
      </tg>
    </mg>
 </e>
@@ -33464,6 +33372,9 @@
    <mg>
      <tg xml:lang="eng">
        <t pos="Adv">far, far off, far away, in the distance; {figuratively}far, not close, not near to (e.g., accomplishing something)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">kaukana</t>
      </tg>
    </mg>
 </e>
@@ -33908,6 +33819,7 @@
      <l pos="Adv">наглядне</l>
      <stg>
        <st Contlex="ADV_">нагля•дн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">нагля•дн%{оы%}</st>
      </stg> <stress>нагля•дне</stress>
    </lg>
    <mg>
@@ -34358,6 +34270,7 @@
      <l pos="Adv">нахальне</l>
      <stg>
        <st Contlex="ADV_">наха•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">наха•льн%{оы%}</st>
      </stg> <stress>наха•льне</stress>
    </lg>
    <mg>
@@ -35594,6 +35507,7 @@
      <l pos="Adv">обидне</l>
      <stg>
        <st Contlex="ADV_">оби•дн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">оби•дн%{оы%}</st>
      </stg> <stress>оби•дне</stress>
    </lg>
    <mg>
@@ -35631,6 +35545,7 @@
      <l pos="Adv">образне</l>
      <stg>
        <st Contlex="ADV_">о•бразн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">о•бразн%{оы%}</st>
      </stg> <stress>о•бразне</stress>
    </lg>
    <mg>
@@ -35661,6 +35576,7 @@
      <l pos="Adv">общественне</l>
      <stg>
        <st Contlex="ADV_">обще•ственн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">обще•ственн%{оы%}</st>
      </stg> <stress>обще•ственне</stress>
    </lg>
    <mg>
@@ -35677,6 +35593,7 @@
      <l pos="Adv">объективне</l>
      <stg>
        <st Contlex="ADV_">объекти•вн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">объекти•вн%{оы%}</st>
      </stg> <stress>объекти•вне</stress>
    </lg>
    <mg>
@@ -35711,6 +35628,7 @@
      <l pos="Adv">обязательне</l>
      <stg>
        <st Contlex="ADV_">обяза•тельн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">обяза•тельн%{оы%}</st>
      </stg> <stress>обяза•тельне</stress>
    </lg>
    <mg>
@@ -35788,19 +35706,6 @@
      </tg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="Adv">ожне</l>
-     <stg>
-       <st Contlex="ADV_">ожн%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">ennen, muinoin</t>
-     </tg>
-   </mg>
-</e>
 <e order="2">
    <lg>
      <l pos="Adv">ожно</l>
@@ -35811,6 +35716,9 @@
    <mg>
      <tg xml:lang="eng">
        <t pos="Adv">once, long ago, before, back then; ago; first, at first, at the beginning</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">ennen, muinoin</t>
      </tg>
    </mg>
 </e>
@@ -36992,19 +36900,6 @@
      </tg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="Adv">ончылне</l>
-     <stg>
-       <st Contlex="ADV_">ончылн%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">edessä</t>
-     </tg>
-   </mg>
-</e>
 <e order="2">
    <lg>
      <l pos="Adv">ончылно</l>
@@ -37015,6 +36910,9 @@
    <mg>
      <tg xml:lang="eng">
        <t pos="Adv">in front, ahead; in future, in the future; earlier; {figuratively}at the front, leading, in first place; in front of; in the presence of, in front of</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">edessä</t>
      </tg>
    </mg>
 </e>
@@ -37235,6 +37133,7 @@
      <l pos="Adv">оперативне</l>
      <stg>
        <st Contlex="ADV_">операти•вн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">операти•вн%{оы%}</st>
      </stg> <stress>операти•вне</stress>
    </lg>
    <mg>
@@ -37486,6 +37385,7 @@
      <l pos="Adv">организованне</l>
      <stg>
        <st Contlex="ADV_">организо•ванн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">организо•ванн%{оы%}</st>
      </stg> <stress>организо•ванне</stress>
    </lg>
    <mg>
@@ -37671,6 +37571,7 @@
      <l pos="Adv">отличне</l>
      <stg>
        <st Contlex="ADV_">отли•чн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">отли•чн%{оы%}</st>
      </stg> <stress>отли•чне</stress>
    </lg>
    <mg>
@@ -37679,20 +37580,6 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="Adv">(arvostelussa) kiitettävästi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">отлично</l>
-     <stg>
-       <st Contlex="ADV_">отличн%{оы%}</st>
-     </stg> <stress>отли•чно</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Adv"/>
      </tg>
    </mg>
 </e>
@@ -37717,6 +37604,7 @@
      <l pos="Adv">относительне</l>
      <stg>
        <st Contlex="ADV_">относи•тельн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">относи•тельн%{оы%}</st>
      </stg> <stress>относи•тельне</stress>
    </lg>
    <mg>
@@ -37765,6 +37653,7 @@
      <l pos="Adv">официальне</l>
      <stg>
        <st Contlex="ADV_">официа•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">официа•льн%{оы%}</st>
      </stg> <stress>официа•льне</stress>
    </lg>
    <mg>
@@ -37775,20 +37664,6 @@
      <tg xml:lang="fin">
      </tg>
      <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">официально</l>
-     <stg>
-       <st Contlex="ADV_">официальн%{оы%}</st>
-     </stg> <stress>официа•льно</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Adv"/>
      </tg>
    </mg>
 </e>
@@ -40144,6 +40019,7 @@
      <l pos="Adv">персональне</l>
      <stg>
        <st Contlex="ADV_">персона•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">персона•льн%{оы%}</st>
      </stg> <stress>персона•льне</stress>
    </lg>
    <mg>
@@ -40847,6 +40723,7 @@
      <l pos="Adv">положительне</l>
      <stg>
        <st Contlex="ADV_">положи•тельн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">положи•тельн%{оы%}</st>
      </stg> <stress>положи•тельне</stress>
    </lg>
    <mg>
@@ -41464,6 +41341,7 @@
      <l pos="Adv">публичне</l>
      <stg>
        <st Contlex="ADV_">публи•чн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">публи•чн%{оы%}</st>
      </stg> <stress>публи•чне</stress>
    </lg>
    <mg>
@@ -43099,6 +42977,7 @@
      <l pos="Adv">рациональне</l>
      <stg>
        <st Contlex="ADV_">рациональн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">рациональн%{оы%}</st>
      </stg>
    </lg>
    <mg>
@@ -43389,6 +43268,7 @@
      <l pos="Adv">реальне</l>
      <stg>
        <st Contlex="ADV_">реа•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">реа•льн%{оы%}</st>
      </stg> <stress>реа•льне</stress>
    </lg>
    <mg>
@@ -43420,6 +43300,7 @@
      <l pos="Adv">решительне</l>
      <stg>
        <st Contlex="ADV_">реши•тельн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">реши•тельн%{оы%}</st>
      </stg> <stress>реши•тельне</stress>
    </lg>
    <mg>
@@ -44618,6 +44499,7 @@
      <l pos="Adv">сдельне</l>
      <stg>
        <st Contlex="ADV_">сде•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">сде•льн%{оы%}</st>
      </stg> <stress>сде•льне</stress>
    </lg>
    <mg>
@@ -44655,6 +44537,7 @@
      <l pos="Adv">сексуальне</l>
      <stg>
        <st Contlex="ADV_">сексуа•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">сексуа•льн%{оы%}</st>
      </stg> <stress>сексуа•льне</stress>
    </lg>
    <mg>
@@ -44663,20 +44546,6 @@
        <t pos="Adv">sexually</t>
      </tg>
      <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">сексуально</l>
-     <stg>
-       <st Contlex="ADV_">сексуальн%{оы%}</st>
-     </stg> <stress>сексуа•льно</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Adv"/>
      </tg>
    </mg>
 </e>
@@ -45144,6 +45013,7 @@
      <l pos="Adv">случайне</l>
      <stg>
        <st Contlex="ADV_">случа•йн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">случа•йн%{оы%}</st>
      </stg> <stress>случа•йне</stress>
    </lg>
    <mg>
@@ -45177,7 +45047,7 @@
    <lg>
      <l pos="Adv">со</l>
      <stg>
-       <st Contlex="ADV_">с%{оы%}</st>
+       <st Contlex="ADV_">со</st>
      </stg> <stress>со</stress>
    </lg>
    <mg>
@@ -45296,6 +45166,7 @@
      <l pos="Adv">сознательне</l>
      <stg>
        <st Contlex="ADV_">созна•тельн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">созна•тельн%{оы%}</st>
      </stg> <stress>созна•тельне</stress>
    </lg>
    <mg>
@@ -45574,6 +45445,7 @@
      <l pos="Adv">социальне</l>
      <stg>
        <st Contlex="ADV_">социа•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">социа•льн%{оы%}</st>
      </stg> <stress>социа•льне</stress>
    </lg>
    <mg>
@@ -46027,6 +45899,7 @@
      <l pos="Adv">схематичне</l>
      <stg>
        <st Contlex="ADV_">схемати•чн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">схемати•чн%{оы%}</st>
      </stg> <stress>схемати•чне</stress>
    </lg>
    <mg>
@@ -49286,6 +49159,7 @@
      <l pos="Adv">торжественне</l>
      <stg>
        <st Contlex="ADV_">торже•ственн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">торже•ственн%{оы%}</st>
      </stg> <stress>торже•ственне</stress>
    </lg>
    <mg>
@@ -55818,6 +55692,7 @@
      <l pos="Adv">ударне</l>
      <stg>
        <st Contlex="ADV_">уда•рн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">уда•рн%{оы%}</st>
      </stg> <stress>уда•рне</stress>
    </lg>
    <mg>
@@ -57278,19 +57153,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">устне</l>
-     <stg>
-       <st Contlex="ADV_">устн%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">suullisesti</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">устно</l>
      <stg>
        <st Contlex="ADV_">у•стн%{оы%}</st>
@@ -57302,6 +57164,7 @@
        <t pos="Adv">orally, verbally</t>
      </tg>
      <tg xml:lang="fin">
+       <t pos="Adv">suullisesti</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -57486,21 +57349,6 @@
    <mg>
      <tg xml:lang="fin">
        <t pos="Adv">liikaa, liian</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">утыждене</l>
-     <stg>
-       <st Contlex="ADV_">утыжде•н%{еы%}</st>
-     </stg> <stress>утыжде•не</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="eng"> <t/>
-     </tg>
-     <tg xml:lang="rus"> <t/>
      </tg>
    </mg>
 </e>
@@ -57896,6 +57744,7 @@
      <l pos="Adv">формальне</l>
      <stg>
        <st Contlex="ADV_">форма•льн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">форма•льн%{оы%}</st>
      </stg> <stress>форма•льне</stress>
    </lg>
    <mg>
@@ -59115,6 +58964,7 @@
      <l pos="Adv">честне</l>
      <stg>
        <st Contlex="ADV_">че•стн%{еы%}</st>
+       <st Contlex="ADV_" status="Err/Orth">че•стн%{оы%}</st>
      </stg> <stress>че•стне</stress>
    </lg>
    <mg>
@@ -72750,19 +72600,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">ӱлне</l>
-     <stg>
-       <st Contlex="ADV_">ӱлн%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">alhaalla</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">ӱлнырак</l>
      <stg>
        <st Contlex="ADV_">ӱлныра•к</st>
@@ -72793,6 +72630,7 @@
        <t pos="Adv">below, at the bottom (no movement)</t>
      </tg>
      <tg xml:lang="fin">
+       <t pos="Adv">alhaalla</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
