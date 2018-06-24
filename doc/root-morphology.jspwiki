@@ -42,6 +42,9 @@ The parts of speech are further split up into:
  * __+Recipr__ = Reciprocal pronoun
  * __+Rel__ = Relative pronoun
  * __+Indef__ = Indefinite pronoun
+ * __+Coll__ = Collective numerals -ын-
+ * __+AssocColl__ = Collective associative numerals with obligatory possessive suffixes -нь-
+
  * __+Patr__ = patronym, look at this in other cyr fsts.
  * __+Aux__ = Auxiliary verb
  * __+Depend__ = ( pair verbs that do not occur independently get this marker.)
@@ -571,8 +574,10 @@ the following basic word classes:
    verbs_not_from_xml ;    
    Abbreviation	;   
    Acronym		;	    
+   Numeral		;	    
    Punctuation	;	    
  * Exceptions ;   
+   NUM-COLL_  ;  
 
    urj-Cyrl-ProperNouns ;   
 

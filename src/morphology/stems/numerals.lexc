@@ -7135,10 +7135,16 @@ LEXICON ROMNUMTAG   !!≈ * __@CODE@__
 !
  LEXICON ARABICCASEORD_Back   !!≈ * __@CODE@__ ordinals Is this then becoming +Ex/A?
  +Arab+N:%>ш%{оы%}  N-continuation ;
+ +Err/Orth+Arab+N:%>ш%{еы%}  N-continuation ;
+ +Err/Orth+Arab+N:%>ш%{ӧы%}  N-continuation ;
  LEXICON ARABICCASEORD_Front   !!≈ * __@CODE@__ ordinals
  +Arab+N:%>ш%{еы%}  N-continuation ;
+ +Err/Orth+Arab+N:%>ш%{оы%}  N-continuation ;
+ +Err/Orth+Arab+N:%>ш%{ӧы%}  N-continuation ;
  LEXICON ARABICCASEORD_FrontRound   !!≈ * __@CODE@__ ordinals
  +Arab+N:%>ш%{ӧы%}  N-continuation ;
+ +Err/Orth+Arab+N:%>ш%{оы%}  N-continuation ;
+ +Err/Orth+Arab+N:%>ш%{еы%}  N-continuation ;
 
 ! LEXICON ARABICCASECOLL   !!≈ * __@CODE@__ collectives
 ! +Arab+Sg+Nom:%>s    K ;
