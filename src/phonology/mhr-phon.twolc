@@ -72,6 +72,10 @@ Alphabet
 %^V2IMPRT:0	!!= * @CODE@ for -ем verbs in й
 %^END:0		  !!= * @CODE@ for -ам verb final, i.e. Imprf
 
+%^VoTrigger:0  !!= * @CODE@ for use with acronyms after hyphen о у ё ю О У Ё Ю
+%^VeTrigger:0  !!= * @CODE@ for use with acronyms after hyphen а е и э я А Е И Э Я
+%^VOTrigger:0  !!= * @CODE@ for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+
 ! old !  +  /  {  _  $  }  @  ~  &  # (old = Jorma 1985)
 
 ! JMR 2012-09-18
@@ -107,11 +111,11 @@ all =  Ltrs  %- ;    !!= * @CODE@
 
 Definitions
 
-BackRounded = [ :Vo (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:о| Ы2:ы]*  ] ;
+BackRounded = [[ :Vo (•:)|%^VoTrigger:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:о| Ы2:ы]*  ] ;
 
-FrontRounded = [:VO  (•:) [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]* ] ;
+FrontRounded = [[:VO  (•:)|%^VOTrigger:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]* ] ;
 
-FrontUnrounded = [ [:Ve (•:) |ы •:|#] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы | Е2:]*  ] ;
+FrontUnrounded = [ [:Ve (•:) |ы •:|#|%^VeTrigger:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы | Е2:]*  ] ;
 
 !! !!Rules
 Rules
@@ -133,7 +137,7 @@ Rules
 ! JMR 2012-09-18
 "Onset vowel loss in suffix after stem vowel"
 !! __ @RULENAME@ __  
- Ы1:0 <=>  :Vow (•:) %> _ ;
+ Ы1:0 <=>  [ [:Vow (•:)|Б|В|Г|Д|Ж|З|Й|К|П|Т|Х|Ц|Ч|Ш|Щ] (%^VoTrigger: %-) ] %> _ ;
 	
 "Onset vowel Е2 realized in suffix е"
 !! __ @RULENAME@ __  
@@ -151,7 +155,7 @@ Rules
 
 "Onset vowel Ы1 realized in suffix"
 !! __ @RULENAME@ __  
-  Ы1:ы <=> [ Cns ((ʼ:) ь:) | й ] %> _ ;
+  Ы1:ы <=> [ Cns ((ʼ:) ь:) | й | [С|Ф|Ъ|Ь] %^VeTrigger: ] %> _ ;
 
 
 "suffix-final vowel loss after stem-final vowel"
