@@ -81,7 +81,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="Num">визыньышт</l>
      <stg>
@@ -713,7 +713,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="Num" type="Coll">когыньышт</l>
      <stg>
@@ -1222,7 +1222,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="Num">кумыньышт</l>
      <stg>
@@ -2016,7 +2016,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="Num">нылыньышт</l>
      <stg>

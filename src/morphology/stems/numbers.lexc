@@ -5,7 +5,6 @@ LEXICON numbers
 амиян:амиян QNT_  "" ;
 весе:вес%{еы%} KvO  "toinen KvO" ;
 визымше:ви•зымш%{еы%} KvO  "viides KvO" ;
-визыньышт:ви•зынь NUM-COLL_  "" ;
 визыт:ви•зыт KvK  "viisi" ;
 визытын:визытын KvKoll  "viidestään KvKoll" ;
 витле:ви•тл%{еы%} KvK  "viisikymmentä KvK" ;
@@ -48,7 +47,6 @@ LEXICON numbers
 кандашымше:кандашымш%{еы%} QNT_  "" ;
 кандашын:кандашын KvKoll  "kahdeksastaan KvKoll" ;
 кандаымше:кандаымш%{еы%} KvO  "kahdeksas KvO" ;
-когыньышт:ко•гы NUM-COLL_2-3  "" ;
 кок:кок KvK_ATTR  "kaksi KvK" ;
 кок-кум:кок-кум N_  "" ;
 коктын:коктын KvKoll  "kahden (kesken) KvKoll" ;
@@ -80,7 +78,6 @@ LEXICON numbers
 кумшӱдымшӧ:кумшӱ•дымш%{ӧы%} KvO  "kolmassadas" ;
 кумшӱдӧ:кумшӱ•д%{ӧы%} KvK  "kolmesataa KvK" ;
 кумынек:кумынек KvKoll  "kaikki kolme KvKoll" ;
-кумыньышт:ку•мы NUM-COLL_2-3  "" ;
 латвизымше:латви•зымш%{еы%} KvO  "viidestoista KvO" ;
 латвизыт:латвизыт KvK  "viisitoista KvK" ;
 латвич:латви•ч KvK_ATTR  "viisitoista KvK" ;
@@ -131,7 +128,6 @@ LEXICON numbers
 нылшӱдӧ:нылшӱ•д%{ӧы%} KvK  "neljäsataa KvK" ;
 нылымше:ны•лымш%{еы%} KvO  "neljäs KvO" ;
 нылынек:нылынек KvKoll  "kaikki neljä KvK" ;
-нылыньышт:ны•лынь NUM-COLL_  "" ;
 нылыт:ны•лыт KvK  "neljä KvK" ;
 нылытын:нылытын KvKoll  "neljästään KvKoll" ;
 осьмушка:осьмушка KvMurt  "kahdeksannes KvMurt" ;
