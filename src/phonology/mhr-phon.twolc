@@ -94,6 +94,9 @@ Ve =   а е и э я А Е И Э Я ;  !!= * @CODE@
 Vow =  Vo VO Ve ы Ы ;   !!= * @CODE@ 
 
 Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ !!= * @CODE@ 
+       з2 к2 н2 т2 ;   !!= @CODE@
+
+CnsAll =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ !!= * @CODE@ 
        Б В Г Д Ж З Й К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш Щ
        з2 к2 н2 т2 ;   !!= @CODE@
        
@@ -111,11 +114,11 @@ all =  Ltrs  %- ;    !!= * @CODE@
 
 Definitions
 
-BackRounded = [[ :Vo (•:)|%^VoTrigger:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:о| Ы2:ы]*  ] ;
+BackRounded = [[ :Vo (•:)|%^VoTrigger: %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:о| Ы2:ы]*  ] ;
 
-FrontRounded = [[:VO  (•:)|%^VOTrigger:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]* ] ;
+FrontRounded = [[:VO  (•:)|%^VOTrigger: %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]* ] ;
 
-FrontUnrounded = [ [:Ve (•:) |ы •:|#|%^VeTrigger:] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы | Е2:]*  ] ;
+FrontUnrounded = [ [:Ve (•:) |ы •:|#|%^VeTrigger: %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы | Е2:]*  ] ;
 
 !! !!Rules
 Rules
@@ -137,7 +140,7 @@ Rules
 ! JMR 2012-09-18
 "Onset vowel loss in suffix after stem vowel"
 !! __ @RULENAME@ __  
- Ы1:0 <=>  [ [:Vow (•:)|Б|В|Г|Д|Ж|З|Й|К|П|Т|Х|Ц|Ч|Ш|Щ] (%^VoTrigger: %-) ] %> _ ;
+ Ы1:0 <=>  [ :Vow (•:)|[А|Б|В|Г|Д|Е|Ж|З|И|Й|К|П|Т|Х|Ц|Ч|Ш|Щ|Ы|Э|Ӹ|Ӱ|Ӓ|О|Ӧ|У|Ӱ|Ю|Я] (%^VoTrigger: %-|%^VOTrigger: %-|%^VeTrigger: %-) ] %> _ ;
 	
 "Onset vowel Е2 realized in suffix е"
 !! __ @RULENAME@ __  
@@ -155,14 +158,14 @@ Rules
 
 "Onset vowel Ы1 realized in suffix"
 !! __ @RULENAME@ __  
-  Ы1:ы <=> [ Cns ((ʼ:) ь:) | й | [С|Ф|Ъ|Ь] %^VeTrigger: ] %> _ ;
+  Ы1:ы <=> [ Cns ((ʼ:) ь:) | й | [Л|М|Н|Р|Ҥ|С|Ф|Ъ|Ь] %^VeTrigger: %- ] %> _ ;
 
 
 "suffix-final vowel loss after stem-final vowel"
 !! __ @RULENAME@ __  
   Ы2:0 <=>
 !    Vow (•:) %> Ы1: ш [ т | к ]  _ %> [ л | н | р | г | ш | д | м | Е2: | А2: ] ;
-   Vow (•:) %> Ы1: ш [ т | к ]  _ %> [ Е2: | А2: ] ;
+   Vow (•:)  %> Ы1: ш [ т | к ]  _ %> [ Е2: | А2: ] ;
                 Cns %> Ы1: ш [ т | к ]  _ %> [ е ш |Е1: ш | А2: ] ;
                                         _ %> [Е2:|А2:] ;
 !        .#. (Cns) [у|ӱ|ӧ|о|е|э] (•:) %> _ %^END:  ; ! пуаш : пу no, wrong string
