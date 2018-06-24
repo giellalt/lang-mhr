@@ -27,7 +27,9 @@ LEXICON negverb !!= @CODE@ TODO: fix
         +Ind+Prs+Pl3:огыт       K ;
 
        +Ind+Prt1+Sg1:шым        K ;
++Ind+Prt1+Sg1+Use/NG:ыжым        K ;
        +Ind+Prt1+Sg2:шыч        K ;
++Ind+Prt1+Sg1+Use/NG:ыжыч        K ;
        +Ind+Prt1+Sg3:ыш         K ;
        +Ind+Prt1+Pl1:ышна       K ;
        +Ind+Prt1+Pl2:ышда       K ;
