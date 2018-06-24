@@ -15,14 +15,29 @@ LEXICON acr4
  acr5 ;
 
 LEXICON acr5
-< А|Б|В|Г|Д|Е|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|Ё|Ҥ|Ӓ|Ӱ|Ӹ|Ӧ > acrotag ;
+< О|У|Ю|Ё > acrotag_BackVowel ;
+< А|Б|В|Г|Д|Е|Ж|З|И|Й|К|П|Т|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Я|Ӓ|Ӹ > acrotag_FrontVowel ;
+< Ӱ|Ӧ > acrotag_FrontRoundedVowel ;
+< Л|М|Н|Р|Ҥ > acrotag_FrontSon ;
+< С|Ф > acrotag_FrontObstr ;
 
 
+LEXICON acrotag_BackVowel
++N+ACR: ACRONDELIMITER ;
+LEXICON acrotag_FrontVowel
++N+ACR: ACRONDELIMITER ;
+LEXICON acrotag_FrontRoundedVowel
++N+ACR: ACRONDELIMITER ;
+LEXICON acrotag_FrontSon
++N+ACR: ACRONDELIMITER ;
+LEXICON acrotag_FrontObstr
++N+ACR: ACRONDELIMITER ;
 LEXICON acrotag
 +N+ACR: ACRONDELIMITER ;
 
+
 LEXICON acros
-см³ acrotag ;
+см³ acrotag ; ! 
 °C acrotag ;
 K acrotag ; ! Kelvin, Latin letter K
 
