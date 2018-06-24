@@ -4063,19 +4063,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">вишкыде</l>
-     <stg>
-       <st Contlex="ADV_">вишкыд%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">heikosti, laihasti, harvasti</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">вишкыдын</l>
      <stg>
        <st Contlex="ADV_">ви•шкыдын</st>
@@ -4087,6 +4074,7 @@
        <t pos="Adv">not thickly, not densely, thin; {figuratively}weakly, inexpressively, without expression</t>
      </tg>
      <tg xml:lang="fin">
+       <t pos="Adv">heikosti, laihasti, harvasti</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -72363,26 +72351,13 @@
    <lg>
      <l pos="Adv">ӱвыре</l>
      <stg>
-       <st Contlex="ADV_">ӱвыр%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">olla sokkosilla</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">ӱвыре</l>
-     <stg>
-       <st Contlex="ADV_">ӱ•выре</st>
-     </stg> <stress>ӱ•выре•</stress>
+       <st Contlex="ADV_">ӱвыре•</st>
+     </stg> <stress>ӱвыре•</stress>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="Adv"/>
+       <t pos="Adv">olla sokkosilla</t>
      </tg>
    </mg>
 </e>
@@ -72556,19 +72531,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">ӱлке</l>
-     <stg>
-       <st Contlex="ADV_">ӱлк%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">alas, alhaalle</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">ӱлкырак</l>
      <stg>
        <st Contlex="ADV_">ӱлкырак</st>
@@ -72733,19 +72695,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">ӱлыке</l>
-     <stg>
-       <st Contlex="ADV_">ӱлык%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">alhaalle, alas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">ӱлыксырак</l>
      <stg>
        <st Contlex="ADV_">ӱлыксырак</st>
@@ -72818,6 +72767,9 @@
    <mg>
      <defNative/>
      <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">alhaalle, alas</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -73257,19 +73209,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">ӱмырыште</l>
-     <stg>
-       <st Contlex="ADV_">ӱмырышт%{еы%}</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">(kielto +) koskaan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">ӱмырыштӧ</l>
      <stg>
        <st Contlex="ADV_">ӱ•мырышт%{ӧы%}</st>
@@ -73281,6 +73220,9 @@
        <t pos="Adv">in one's life, one's whole life</t>
      </tg>
      <tg xml:lang="rus"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">(kielto +) koskaan</t>
      </tg>
    </mg>
 </e>
@@ -74208,6 +74150,96 @@
      <defNative/>
      <tg xml:lang="eng">
        <t pos="ADV">completely, wholly, fully, entirely</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="ADV">тиддеч</l>
+     <stg>
+       <st Contlex="ADV_">тидде•ч</st>
+       <st Contlex="ADV_" status="Use/NG">тидде•чын</st>
+     </stg> <stress>тидде•ч</stress>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="ADV">from this</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="ADV">тиддене</l>
+     <stg>
+       <st Contlex="ADV_">тидде•не</st>
+       <st Contlex="ADV_" status="Use/NG">тидде•н</st>
+     </stg> <stress>тидде•не</stress>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="ADV">with this</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="ADV">тиддеке</l>
+     <stg>
+       <st Contlex="ADV_">тидде•ке</st>
+       <st Contlex="ADV_" status="Use/NG">тидде•к</st>
+     </stg> <stress>тидде•ке</stress>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="ADV">to this</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="ADV">туддеч</l>
+     <stg>
+       <st Contlex="ADV_">тудде•ч</st>
+       <st Contlex="ADV_" status="Use/NG">тудде•чын</st>
+     </stg> <stress>тудде•ч</stress>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="ADV">from that; from him/her</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="ADV">туддене</l>
+     <stg>
+       <st Contlex="ADV_">тудде•не</st>
+       <st Contlex="ADV_" status="Use/NG">тудде•н</st>
+     </stg> <stress>тудде•не</stress>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="ADV">with that; with him/her</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="ADV">туддеке</l>
+     <stg>
+       <st Contlex="ADV_">тудде•ке</st>
+       <st Contlex="ADV_" status="Use/NG">тудде•к</st>
+     </stg> <stress>тудде•ке</stress>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="ADV">to that; to him/her</t>
      </tg>
    </mg>
 </e>
