@@ -50,6 +50,9 @@ LEXICON N-ava_01 !!= * @CODE@ obl because of pronouns
   N-ava_01_obl ;
 
 LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
+ N-ava_01_obl_without-hyphens ;
+ N-ava_01_obl_with-hyphens ;
+LEXICON   N-ava_01_obl_without-hyphens !!= * @CODE@ to obl only
   N-SG-GEN       ;
   N-SG-DAT       ;
   N-SG-ACC       ;
@@ -76,17 +79,6 @@ LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
   N-ASSOCPL-LAT  ;
   N-ASSOCPL-NOM  ;
 
-  N-PL-ABE       ;
-  N-PL-ACC       ;
-  N-PL-CMPR      ;
-  N-PL-COM       ;
-  N-PL-DAT       ;
-  N-PL-GEN       ;
-  N-PL-ILL       ;
-  N-PL-INE       ;
-  N-PL-LAT       ;
-  N-PL-NOM       ;
-
   N-SG-PxSg1-NOM ;
   N-SG-PxSg1-GEN ;
   N-SG-PxSg1-DAT ;
@@ -97,17 +89,6 @@ LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
   N-SG-PxSg1-ILL ;
   N-SG-PxSg1-LAT ;
   N-SG-PxSg1-ABE ;
-
-  N-PL-PxSg1-NOM ;
-  N-PL-PxSg1-GEN ;
-  N-PL-PxSg1-DAT ;
-  N-PL-PxSg1-ACC ;
-  N-PL-PxSg1-CMPR ;
-  N-PL-PxSg1-COM ;
-  N-PL-PxSg1-INE ;
-  N-PL-PxSg1-ILL ;
-  N-PL-PxSg1-LAT ;
-  N-PL-PxSg1-ABE ;
 
   N-SG-PxSg2-NOM ;
   N-SG-PxSg2-GEN ;
@@ -120,17 +101,6 @@ LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
   N-SG-PxSg2-LAT ;
   N-SG-PxSg2-ABE ;
 
-  N-PL-PxSg2-NOM ;
-  N-PL-PxSg2-GEN ;
-  N-PL-PxSg2-DAT ;
-  N-PL-PxSg2-ACC ;
-  N-PL-PxSg2-CMPR ;
-  N-PL-PxSg2-COM ;
-  N-PL-PxSg2-INE ;
-  N-PL-PxSg2-ILL ;
-  N-PL-PxSg2-LAT ;
-  N-PL-PxSg2-ABE ;
-
   N-SG-PxSg3-NOM ;
   N-SG-PxSg3-GEN ;
   N-SG-PxSg3-DAT ;
@@ -141,17 +111,6 @@ LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
   N-SG-PxSg3-ILL ;
   N-SG-PxSg3-LAT ;
   N-SG-PxSg3-ABE ;
-
-  N-PL-PxSg3-NOM ;
-  N-PL-PxSg3-GEN ;
-  N-PL-PxSg3-DAT ;
-  N-PL-PxSg3-ACC ;
-  N-PL-PxSg3-CMPR ;
-  N-PL-PxSg3-COM ;
-  N-PL-PxSg3-INE ;
-  N-PL-PxSg3-ILL ;
-  N-PL-PxSg3-LAT ;
-  N-PL-PxSg3-ABE ;
 
   N-SG-PxPl1-NOM ;
   N-SG-PxPl1-GEN ;
@@ -164,17 +123,6 @@ LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
   N-SG-PxPl1-LAT ;
   N-SG-PxPl1-ABE ;
 
-  N-PL-PxPl1-NOM ;
-  N-PL-PxPl1-GEN ;
-  N-PL-PxPl1-DAT ;
-  N-PL-PxPl1-ACC ;
-  N-PL-PxPl1-CMPR ;
-  N-PL-PxPl1-COM ;
-  N-PL-PxPl1-INE ;
-  N-PL-PxPl1-ILL ;
-  N-PL-PxPl1-LAT ;
-  N-PL-PxPl1-ABE ;
-
   N-SG-PxPl2-NOM ;
   N-SG-PxPl2-GEN ;
   N-SG-PxPl2-DAT ;
@@ -186,17 +134,6 @@ LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
   N-SG-PxPl2-LAT ;
   N-SG-PxPl2-ABE ;
 
-  N-PL-PxPl2-NOM ;
-  N-PL-PxPl2-GEN ;
-  N-PL-PxPl2-DAT ;
-  N-PL-PxPl2-ACC ;
-  N-PL-PxPl2-CMPR ;
-  N-PL-PxPl2-COM ;
-  N-PL-PxPl2-INE ;
-  N-PL-PxPl2-ILL ;
-  N-PL-PxPl2-LAT ;
-  N-PL-PxPl2-ABE ;
-
   N-SG-PxPl3-NOM ;
   N-SG-PxPl3-GEN ;
   N-SG-PxPl3-DAT ;
@@ -207,6 +144,73 @@ LEXICON   N-ava_01_obl !!= * @CODE@ to obl only
   N-SG-PxPl3-ILL ;
   N-SG-PxPl3-LAT ;
   N-SG-PxPl3-ABE ;
+
+LEXICON   N-ava_01_obl_with-hyphens !!= * @CODE@ to obl only, also ООО-влак
+  N-PL-ABE       ;
+  N-PL-ACC       ;
+  N-PL-CMPR      ;
+  N-PL-COM       ;
+  N-PL-DAT       ;
+  N-PL-GEN       ;
+  N-PL-ILL       ;
+  N-PL-INE       ;
+  N-PL-LAT       ;
+  N-PL-NOM       ;
+
+  N-PL-PxSg1-NOM ;
+  N-PL-PxSg1-GEN ;
+  N-PL-PxSg1-DAT ;
+  N-PL-PxSg1-ACC ;
+  N-PL-PxSg1-CMPR ;
+  N-PL-PxSg1-COM ;
+  N-PL-PxSg1-INE ;
+  N-PL-PxSg1-ILL ;
+  N-PL-PxSg1-LAT ;
+  N-PL-PxSg1-ABE ;
+
+  N-PL-PxSg2-NOM ;
+  N-PL-PxSg2-GEN ;
+  N-PL-PxSg2-DAT ;
+  N-PL-PxSg2-ACC ;
+  N-PL-PxSg2-CMPR ;
+  N-PL-PxSg2-COM ;
+  N-PL-PxSg2-INE ;
+  N-PL-PxSg2-ILL ;
+  N-PL-PxSg2-LAT ;
+  N-PL-PxSg2-ABE ;
+
+  N-PL-PxSg3-NOM ;
+  N-PL-PxSg3-GEN ;
+  N-PL-PxSg3-DAT ;
+  N-PL-PxSg3-ACC ;
+  N-PL-PxSg3-CMPR ;
+  N-PL-PxSg3-COM ;
+  N-PL-PxSg3-INE ;
+  N-PL-PxSg3-ILL ;
+  N-PL-PxSg3-LAT ;
+  N-PL-PxSg3-ABE ;
+
+  N-PL-PxPl1-NOM ;
+  N-PL-PxPl1-GEN ;
+  N-PL-PxPl1-DAT ;
+  N-PL-PxPl1-ACC ;
+  N-PL-PxPl1-CMPR ;
+  N-PL-PxPl1-COM ;
+  N-PL-PxPl1-INE ;
+  N-PL-PxPl1-ILL ;
+  N-PL-PxPl1-LAT ;
+  N-PL-PxPl1-ABE ;
+
+  N-PL-PxPl2-NOM ;
+  N-PL-PxPl2-GEN ;
+  N-PL-PxPl2-DAT ;
+  N-PL-PxPl2-ACC ;
+  N-PL-PxPl2-CMPR ;
+  N-PL-PxPl2-COM ;
+  N-PL-PxPl2-INE ;
+  N-PL-PxPl2-ILL ;
+  N-PL-PxPl2-LAT ;
+  N-PL-PxPl2-ABE ;
 
   N-PL-PxPl3-NOM ;
   N-PL-PxPl3-GEN ;

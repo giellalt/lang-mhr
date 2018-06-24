@@ -249,8 +249,10 @@ LEXICON PROP-PLC_KUDO !!= * @CODE@
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
 +Sg+Nom:     ENDLEX ;
- :%- N-ava_01_obl ;
+ :%- N-ava_01_obl_without-hyphens ;
+ : N-ava_01_obl_with-hyphens ;
 ! :%' Prop ;
+
 
 
 
