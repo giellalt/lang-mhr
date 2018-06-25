@@ -1142,6 +1142,7 @@
 
       <stg>
         <st Contlex="PronRes">икте-вес%{еы%}</st>
+        <st Contlex="PronRes" status="Err/Orth">иктевес%{еы%}</st>
       </stg>
     </lg>
 
@@ -1174,7 +1175,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="Pron">кажне</l>
 

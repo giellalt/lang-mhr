@@ -80,6 +80,8 @@ LEXICON propernouns-toponyms
 Индий+Sem/Plc:И•ндий PROP-PLC_  "Intia" ;
 Йошкар-Ола+Sem/Plc:Йошка•р-Ола• PROP-PLC_  "" ;
 Йошкар-Ола+Sem/Plc+Err/Orth:Йошка•р-ола• PROP-PLC_  "" ;
+Йошкар-Ола+Sem/Plc+Err/Orth:Йошкарола• PROP-PLC_  "" ;
+Йошкар-Ола+Sem/Plc+Err/Orth:ЙошкарОла• PROP-PLC_  "" ;
 Кавказ+Sem/Plc:Кавка•з PROP-PLC_  "" ;
 Казахстан+Sem/Plc:Казахста•н PROP-PLC_  "" ;
 Какшан+Sem/Plc:Какша•н PROP-PLC_  "(joki) Koks`aga" ;
