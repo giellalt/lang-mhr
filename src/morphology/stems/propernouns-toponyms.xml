@@ -1125,6 +1125,8 @@
      <stg>
        <st Contlex="PROP-PLC_">Йошка•р-Ола•</st>
        <st Contlex="PROP-PLC_" status="Err/Orth">Йошка•р-ола•</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Йошкарола•</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">ЙошкарОла•</st>
      </stg> <stress>Йошка•р-Ола•</stress>
    </lg>
    <mg> <defNative/>
