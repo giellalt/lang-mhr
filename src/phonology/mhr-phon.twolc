@@ -75,6 +75,9 @@ Alphabet
 %^VoTrigger:0  !!= * @CODE@ for use with acronyms after hyphen о у ё ю О У Ё Ю
 %^VeTrigger:0  !!= * @CODE@ for use with acronyms after hyphen а е и э я А Е И Э Я
 %^VOTrigger:0  !!= * @CODE@ for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+%^FrontSon:0   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+%^FrontObstr:0 !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
+
 
 ! old !  +  /  {  _  $  }  @  ~  &  # (old = Jorma 1985)
 
@@ -118,7 +121,7 @@ BackRounded = [[ :Vo (•:)|%^VoTrigger: %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :�
 
 FrontRounded = [[:VO  (•:)|%^VOTrigger: %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]* ] ;
 
-FrontUnrounded = [ [:Ve (•:) |ы •:|#|%^VeTrigger: %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы | Е2:]*  ] ;
+FrontUnrounded = [ [:Ve (•:) |ы •:|#|%^VeTrigger: (%^FrontSon:|%^FrontObstr:) %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы | Е2:]*  ] ;
 
 !! !!Rules
 Rules
@@ -140,7 +143,8 @@ Rules
 ! JMR 2012-09-18
 "Onset vowel loss in suffix after stem vowel"
 !! __ @RULENAME@ __  
- Ы1:0 <=>  [ :Vow (•:)|[А|Б|В|Г|Д|Е|Ж|З|И|Й|К|П|Т|Х|Ц|Ч|Ш|Щ|Ы|Э|Ӹ|Ӱ|Ӓ|О|Ӧ|У|Ӱ|Ю|Я] (%^VoTrigger: %-|%^VOTrigger: %-|%^VeTrigger: %-) ] %> _ ;
+ Ы1:0 <=>  [ :Vow (•:) |%^VoTrigger: %-|%^VOTrigger: %-|%^VeTrigger: %-] %> _ ;
+! [ :Vow (•:)|[А|Б|В|Г|Д|Е|Ж|З|И|Й|К|П|Т|Х|Ц|Ч|Ш|Щ|Ы|Э|Ӹ|Ӱ|Ӓ|О|Ӧ|У|Ӱ|Ю|Я] (%^VoTrigger: %-|%^VOTrigger: %-|%^VeTrigger: %-) ] %> _ ;
 	
 "Onset vowel Е2 realized in suffix е"
 !! __ @RULENAME@ __  
@@ -158,7 +162,7 @@ Rules
 
 "Onset vowel Ы1 realized in suffix"
 !! __ @RULENAME@ __  
-  Ы1:ы <=> [ Cns ((ʼ:) ь:) | й | [Л|М|Н|Р|Ҥ|С|Ф|Ъ|Ь] %^VeTrigger: %- ] %> _ ;
+  Ы1:ы <=> [ Cns ((ʼ:) ь:) | й | %^VeTrigger: [%^FrontSon:|%^FrontObstr:] %- ] %> _ ;
 
 
 "suffix-final vowel loss after stem-final vowel"
@@ -417,6 +421,7 @@ Rules
 ж:ш <=> :Cst (ь) (:0)  %> _ [ Ы2: | ы %> ] ;
 !!€ авалтымаш%>жы%>ла
 !!€ авалтымаш%>шы%>ла
+   %^FrontObstr: %- %> _ [ Ы2: | ы %> ] ;
 
 "Onset consonant devoicing з:с "
 !! __ @RULENAME@ __

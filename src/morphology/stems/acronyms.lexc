@@ -28,9 +28,10 @@ LEXICON acrotag_FrontVowel
 LEXICON acrotag_FrontRoundedVowel
 +N+ACR:%^VOTrigger ACRONDELIMITER ;
 LEXICON acrotag_FrontSon
-+N+ACR:%^VeTrigger ACRONDELIMITER ;
++N+ACR:%^VeTrigger%^FrontSon ACRONDELIMITER ;
++Err/Orth+N+ACR:%^VeTrigger ACRONDELIMITER ;
 LEXICON acrotag_FrontObstr
-+N+ACR:%^VeTrigger ACRONDELIMITER ;
++N+ACR:%^VeTrigger%^FrontObstr ACRONDELIMITER ;
 LEXICON acrotag
 +N+ACR: ACRONDELIMITER ;
 
