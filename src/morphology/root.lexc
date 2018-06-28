@@ -33,8 +33,8 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 %^VoTrigger  !!= * @CODE@ for use with acronyms after hyphen
 %^VeTrigger  !!= * @CODE@ for use with acronyms after hyphen
 %^VOTrigger  !!= * @CODE@ for use with acronyms after hyphen
-%^FrontSon   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
-%^FrontObstr !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
+%^Sonorant   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+%^Obstruent !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
 
 
 %^END ! slutt
