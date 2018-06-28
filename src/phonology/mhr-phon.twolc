@@ -75,8 +75,8 @@ Alphabet
 %^VoTrigger:0  !!= * @CODE@ for use with acronyms after hyphen о у ё ю О У Ё Ю
 %^VeTrigger:0  !!= * @CODE@ for use with acronyms after hyphen а е и э я А Е И Э Я
 %^VOTrigger:0  !!= * @CODE@ for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
-%^FrontSon:0   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
-%^FrontObstr:0 !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
+%^Sonorant:0   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+%^Obstruent:0 !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
 
 
 ! old !  +  /  {  _  $  }  @  ~  &  # (old = Jorma 1985)
@@ -117,11 +117,11 @@ all =  Ltrs  %- ;    !!= * @CODE@
 
 Definitions
 
-BackRounded = [[ :Vo (•:)|%^VoTrigger: %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:о| Ы2:ы]*  ] ;
+BackRounded = [[ :Vo (•:)|%^VoTrigger: (%^Sonorant:|%^Obstruent:) %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:о| Ы2:ы]*  ] ;
 
-FrontRounded = [[:VO  (•:)|%^VOTrigger: %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]* ] ;
+FrontRounded = [[:VO  (•:)|%^VOTrigger: (%^Sonorant:|%^Obstruent:) %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:ӧ| Ы2:ы]* ] ;
 
-FrontUnrounded = [ [:Ve (•:) |ы •:|#|%^VeTrigger: (%^FrontSon:|%^FrontObstr:) %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы | Е2:]*  ] ;
+FrontUnrounded = [ [:Ve (•:) |ы •:|#|%^VeTrigger: (%^Sonorant:|%^Obstruent:) %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы | Е2:]*  ] ;
 
 !! !!Rules
 Rules
@@ -162,7 +162,7 @@ Rules
 
 "Onset vowel Ы1 realized in suffix"
 !! __ @RULENAME@ __  
-  Ы1:ы <=> [ Cns ((ʼ:) ь:) | й | %^VeTrigger: [%^FrontSon:|%^FrontObstr:] %- ] %> _ ;
+  Ы1:ы <=> [ Cns ((ʼ:) ь:) | й | [%^VoTrigger:|%^VeTrigger:|%^VOTrigger:] [%^Sonorant:|%^Obstruent:] %- ] %> _ ;
 
 
 "suffix-final vowel loss after stem-final vowel"
@@ -421,7 +421,7 @@ Rules
 ж:ш <=> :Cst (ь) (:0)  %> _ [ Ы2: | ы %> ] ;
 !!€ авалтымаш%>жы%>ла
 !!€ авалтымаш%>шы%>ла
-   %^FrontObstr: %- %> _ [ Ы2: | ы %> ] ;
+   %^Obstruent: %- %> _ [ Ы2: | ы %> ] ;
 
 "Onset consonant devoicing з:с "
 !! __ @RULENAME@ __
