@@ -12,7 +12,7 @@ acros ;
 ДОССАФ+Sem/Org:ДОССАФ  acrotag_FrontObstr ;
 КамАЗ:КамАЗ acrotag_FrontSon ;
 МарГИЗ+Sem/Org:МарГИЗ acrotag_FrontVowel ;
-МарГТУ+Sem/OrgМарГТУ acrotag_BackVowel ;
+МарГТУ+Sem/Org:МарГТУ acrotag_BackVowel ;
 МарНИИ+Sem/Org:МарНИИ acrotag_FrontVowel ;
 МАССР:МАССР  acrotag_FrontSon ;
 ОМОН:ОМОН acrotag_BackSon ;
