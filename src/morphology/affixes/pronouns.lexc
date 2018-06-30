@@ -225,12 +225,16 @@ LEXICON KAZHNE !!= * @CODE@
 +Der/Poss:кажнын N-ava_01_obl ;
 +Acc:кажным K_at ;
 +Dat:кажнылан K_at ;
++Ine:кажнышт{еы%} K_at ;
++Ill:кажнышт{еы%} K_at ;
 +Nom+PxSg3:кажныж%{еы%} K_at ;
 +Nom+PxSg3+Use/NG:кажныж ENDLEX ;
 +Gen+PxSg3+So/PC:кажныжын K_at ;
 +Gen+PxSg3+Der/Poss:кажныжын N-ava_01_obl ;
 +Acc+PxSg3+So/PC:кажныжым K_at ;
 +Dat+PxSg3+So/PC:кажныжлан K_at ;
++Ine+PxSg3+So/CP:кажныштыж%{еы%} K_at ;
++Ill+PxSg3+So/CP:кажнышкыж%{еы%} K_at ;
 +Nom+PxPl1:кажнына K_at ;
 +Gen+PxPl1+So/PC:кажнынан K_at ;
 +Gen+PxPl1+Der/Poss:кажнынан N-ava_01_obl ;
