@@ -14,6 +14,7 @@ acros ;
 МарГИЗ+Sem/Org:МарГИЗ acrotag_FrontVowel ;
 МарГТУ+Sem/Org:МарГТУ acrotag_BackVowel ;
 МарНИИ+Sem/Org:МарНИИ acrotag_FrontVowel ;
+МарНИИЯЛИ+Sem/Org:МарНИИЯЛИ acrotag_FrontVowel ;
 МАССР:МАССР  acrotag_FrontSon ;
 ОМОН:ОМОН acrotag_BackSon ;
 ДЮСШ:ДЮСШ acrotag_BackObstr ;
@@ -59,6 +60,14 @@ LEXICON acrotag
 
 
 LEXICON acros
+кг  acrotag ; ! kilogramme
+мм acrotag ; ! millimetre
+стр acrotag ; ! page
+экз acrotag ; ! example
+млн acrotag ; ! million
+Мф  acrotag ; ! books of the New Testament
+Ап  acrotag ; ! books of the New Testament
+Лк  acrotag ; ! books of the New Testament
 см³ acrotag ; ! 
 °C acrotag ;
 K acrotag ; ! Kelvin, Latin letter K

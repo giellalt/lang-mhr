@@ -526,27 +526,6 @@
 
   <e>
     <lg>
-      <l pos="CS">пуйте</l>
-
-      <stg>
-        <st Contlex="CS_">пуйт%{еы%}</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>ikään kuin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="CS">пуйто</l>
 
       <stg>
@@ -560,7 +539,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="CS">kuin</t>
+        <t pos="CS">ikään kuin, kuin</t>
       </tg>
     </mg>
   </e>
@@ -710,34 +689,11 @@
 
   <e>
     <lg>
-      <l pos="Conj">тольке</l>
-
-      <stg>
-        <st Contlex="CS_">тольк%{еы%}</st>
-      </stg>
-    </lg>
-
-    <pos>CS</pos>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t>mutta K</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Conj">только</l>
 
       <stg>
         <st Contlex="CONJ_">только</st>
+        <st Contlex="CONJ_" status ="Err/Orth">тольык</st>
       </stg>
 
       <stress>то•лько</stress>
@@ -747,7 +703,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t>mutta K</t>
       </tg>
     </mg>
   </e>
