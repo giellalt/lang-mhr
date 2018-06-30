@@ -69518,20 +69518,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">эргудымак</l>
-     <stg>
-       <st Contlex="ADV_">эргудымак</st>
-     </stg> <stress>эргудымак</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Adv"/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">эргылыкеш</l>
      <stg>
        <st Contlex="ADV_">эргылыке•ш</st>
@@ -69543,22 +69529,6 @@
        <t pos="Adv">:</t>
      </tg>
      <tg xml:lang="fin">
-     </tg>
-     <tg xml:lang="rus"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">эрден(е)</l>
-     <stg>
-       <st Contlex="ADV_">эрде•н(е)</st>
-     </stg> <stress>эрде•н(е)</stress>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="eng">
-       <t pos="Adv">in the morning</t>
      </tg>
      <tg xml:lang="rus"> <t/>
      </tg>
@@ -69601,9 +69571,13 @@
      <l pos="Adv">эрдене</l>
      <stg>
        <st Contlex="ADV_">эрден%{еы%}</st>
+       <st Contlex="ADV_" status="Use/NG">эрден</st>
      </stg> <stress>эрде•не</stress>
    </lg>
    <mg>
+     <tg xml:lang="eng">
+       <t pos="Adv">in the morning</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="Adv">aamulla</t>
      </tg>
@@ -69618,6 +69592,9 @@
    </lg>
    <mg>
      <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Adv">aamulla</t>
+     </tg>
      <tg xml:lang="eng"> <t/>
      </tg>
      <tg xml:lang="rus"> <t/>

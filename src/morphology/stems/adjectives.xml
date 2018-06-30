@@ -164681,4 +164681,20 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="A">законный</l>
+     <stg>
+       <st Contlex="A_">зако•нный</st>
+     </stg> <stress>зако•нный</stress>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="A">lawful, legal; legitimate</t>
+     </tg>
+     <tg xml:lang="fin">
+     </tg>
+   </mg>
+</e>
 </r> 
