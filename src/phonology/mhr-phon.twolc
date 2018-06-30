@@ -418,10 +418,10 @@ Rules
 ! Devoicing
 "Onset consonant devoicing ж:ш "
 !! __ @RULENAME@ __
-ж:ш <=> :Cst (ь) (:0)  %> _ [ Ы2: | ы %> ] ;
+ж:ш <=> :Cst (ь) (:0)  %> _ [ Ы2: | а | ы %> ] ;
 !!€ авалтымаш%>жы%>ла
 !!€ авалтымаш%>шы%>ла
-   %^Obstruent: %- %> _ [ Ы2: | ы %> ] ;
+   %^Obstruent: %- %> _ [ Ы2: | а | ы %> ] ;
 
 "Onset consonant devoicing з:с "
 !! __ @RULENAME@ __
