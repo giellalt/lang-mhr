@@ -4226,6 +4226,7 @@ LEXICON ProperNoun-mhr
 Вӓйно:Вӓйно PROP_KUDO_MAL "" ;
 Япык:Япык PROP_KUDO_MAL "" ;
 Юкуат:Юкуат PROP_KUDO_MAL "" ;
+Каврий:Каврий PROP_KUDO_MAL "" ;
 
 Анук:Анук PROP_KUDO_FEM "Z" ;
 Олюк:Олюк PROP_KUDO_FEM "Z" ;
@@ -4248,6 +4249,7 @@ LEXICON ProperNoun-mhr
 Упшер:Упшер PROP-PLC_ "" ;
 Шайра:Шайра PROP-PLC_ "" ;
 Эреҥер:Эреҥер PROP-PLC_ "" ;
+Кырла:Кырла PROP-PLC_ "" ;
 
 ! JB: These names should probably be added to the general lexicon for Languages of Russia,
 ! but as it is not clear how diminutive forms should be handled there, leaving them here
@@ -4267,7 +4269,11 @@ LEXICON ProperNoun-mhr
 Раисия:Раисия PROP_KUDO_FEM "Z" ;
 Лилия:Лилия PROP_KUDO_FEM "Z" ;
 Аля:Аля PROP_KUDO_FEM "Z" ;
+Поллианна:Поллианна PROP_KUDO_FEM "Z" ;
+Полли:Полли PROP_KUDO_FEM "Z" ;
+Ненси:Ненси PROP_KUDO_FEM "Z" ;
 
+Джимми:Джимми PROP_KUDO_MAL "" ;
 Саня:Саня PROP_KUDO_MAL "" ;
 Леня:Леня PROP_KUDO_MAL "" ;
 Митя:Митя PROP_KUDO_MAL "" ;
@@ -4319,6 +4325,8 @@ LEXICON ProperNoun-mhr
 Ильич:Ильич PROP_KUDO_MAL "" ;
 
 Цезарь:Цезарь PROP_KUDO_MAL "" ;
+Пендлетон:Пендлетон PROP_KUDO_MAL "" ;
+Сноу:Сноу PROP_KUDO_MAL "" ;
 
 Иордан:Иордан PROP-PLC_ "" ;
 Царевококшайск:Царевококшайск PROP-PLC_ "" ;
@@ -4336,6 +4344,7 @@ LEXICON ProperNoun-mhr
 Краснококшайск:Краснококшайск PROP-PLC_ "" ;
 Яндекс:Яндекс PROP-PLC_ "" ;
 Куженер:Куженер PROP-PLC_ "" ;
+Кужеҥер:Кужеҥер PROP-PLC_ "" ;
 Параньга:Параньга PROP-PLC_ "" ;
 Оршанка:Оршанка PROP-PLC_ "" ;
 Юрино:Юрино PROP-PLC_ "" ;
@@ -4358,3 +4367,6 @@ LEXICON ProperNoun-mhr
 Коркатово:Коркатово PROP-PLC_ "" ;
 Украина:Украина PROP-PLC_ "" ;
 Канада:Канада PROP-PLC_ "" ;
+Красноуфимск:Красноуфимск PROP-PLC_ "" ;
+
+Марийская% правда:Марийская% правда PROP-PLC_ "" ;
