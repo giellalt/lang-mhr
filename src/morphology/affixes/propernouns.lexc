@@ -110,7 +110,7 @@ LEXICON PROP_KAL_SURMAL !!= * @CODE@
 
 LEXICON PROP_KUDO_SURFEM !!= * @CODE@
  +N+Prop+Sem/Sur: N-ava_01 ;
- +N+Prop++Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Fem: N-ava_01 ;
  +N+Prop+Sem/Sur: ENDLEX ;
  +N+Prop+Sem/Fem: ENDLEX ;
 
