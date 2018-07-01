@@ -4255,72 +4255,10 @@ LEXICON ProperNoun-mhr
 ! but as it is not clear how diminutive forms should be handled there, leaving them here
 ! for now.
 
-Нина:Нина PROP_KUDO_FEM "" ;
-Зоя:Зоя PROP_KUDO_FEM "Z" ;
-Катя:Катя PROP_KUDO_FEM "Z" ;
-Света:Света PROP_KUDO_FEM "Z" ;
-Валя:Валя PROP_KUDO_FEM "Z" ;
-Ану:Ану PROP_KUDO_FEM "Z" ;
-Саша:Саша PROP_KUDO_FEM "Z" ;
-Оля:Оля PROP_KUDO_FEM "Z" ;
-Маша:Маша PROP_KUDO_FEM "Z" ;
-Эля:Эля PROP_KUDO_FEM "Z" ;
-Эва:Эва PROP_KUDO_FEM "Z" ;
-Раисия:Раисия PROP_KUDO_FEM "Z" ;
-Лилия:Лилия PROP_KUDO_FEM "Z" ;
-Аля:Аля PROP_KUDO_FEM "Z" ;
-Поллианна:Поллианна PROP_KUDO_FEM "Z" ;
-Полли:Полли PROP_KUDO_FEM "Z" ;
-Ненси:Ненси PROP_KUDO_FEM "Z" ;
 
-Джимми:Джимми PROP_KUDO_MAL "" ;
-Саня:Саня PROP_KUDO_MAL "" ;
-Леня:Леня PROP_KUDO_MAL "" ;
-Митя:Митя PROP_KUDO_MAL "" ;
-Алёша:Алёша PROP_KUDO_MAL "" ;
-Гена:Гена PROP_KUDO_MAL "" ;
-Володя:Володя PROP_KUDO_MAL "" ;
-Витя:Витя PROP_KUDO_MAL "" ;
-Слава:Слава PROP_KUDO_MAL "" ;
-Юра:Юра PROP_KUDO_MAL "" ;
-Гриша:Гриша PROP_KUDO_MAL "" ;
-Веня:Веня PROP_KUDO_MAL "" ;
-Валерий:Валерий PROP_KUDO_MAL "" ;
-Костя:Костя PROP_KUDO_MAL "" ;
-Илья:Илья PROP_KUDO_MAL "" ;
-Валя:Валя PROP_KUDO_MAL "" ;
-Назарий:Назарий PROP_KUDO_MAL "" ;
-Яков:Яков PROP_KUDO_MAL "" ;
-Игорь:Игорь PROP_KUDO_MAL "" ;
-Саша:Саша PROP_KUDO_MAL "" ;
-Никита:Никита PROP_KUDO_MAL "" ;
-Ваня:Ваня PROP_KUDO_MAL "" ;
-Джереми:Джереми PROP_KUDO_MAL "" ;
-Тимоти:Тимоти PROP_KUDO_MAL "" ;
-Петя:Петя PROP_KUDO_MAL "" ;
-Миша:Миша PROP_KUDO_MAL "" ;
-Янош:Янош PROP_KUDO_MAL "" ;
-Юха:Юха PROP_KUDO_MAL "" ;
-Павел:Павел PROP_KUDO_MAL "" ;
-Савл:Савл PROP_KUDO_MAL "" ;
-Симон-Петр:Симон-Петр PROP_KUDO_MAL "" ;
-Илия:Илия PROP_KUDO_MAL "" ;
-Левий:Левий PROP_KUDO_MAL "" ;
-Агриппа:Агриппа PROP_KUDO_MAL "" ;
-Исаак:Исаак PROP_KUDO_MAL "" ;
-Ромео:Ромео PROP_KUDO_MAL "" ;
-Валерик:Валерик PROP_KUDO_MAL "" ;
-Панкрат:Панкрат PROP_KUDO_MAL "" ;
-Айно:Айно PROP_KUDO_MAL "" ;
-Йоулупукки:Йоулупукки PROP_KUDO_MAL "" ;
-Микко:Микко PROP_KUDO_MAL "" ;
-Тим:Тим PROP_KUDO_MAL "" ;
-Питер:Питер PROP_KUDO_MAL "" ;
-Иштван:Иштван PROP_KUDO_MAL "" ;
-Чарли:Чарли PROP_KUDO_MAL "" ;
-Эрай:Эрай PROP_KUDO_MAL "" ;
-Кузьма:Кузьма PROP_KUDO_MAL "" ;
-Петер:Петер PROP_KUDO_MAL "" ;
+
+Айно:Айно PROP_KUDO_FEM "Z" ;
+Йоулупукки:Йоулупукки PROP_KUDO_MAL "Z" ;
 
 Ильич:Ильич PROP_KUDO_MAL "" ;
 
