@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mhr">
+<e order="1">
+   <lg>
+     <l hid="Hom2" pos="Interj">ура</l>
+     <stg>
+       <st Contlex="INTERJ_">ура•</st>
+     </stg> <stress>ура• [2]</stress>
+   </lg>
+   <mg>
+     <tg xml:lang="eng">
+       <t>(battle cry during attack)</t>
+     </tg>
+     <defNative type="comment">кугун куанен кычкырымаш</defNative>
+     <tg type="head" xml:lang="rus">
+       <t pos="N">ура</t>
+     </tg>
+     <xg type="mwe" src="В. Исенеков.">
+       <x>– Ура, лекте вет, а!</x>
+       <xt xml:lang="rus"> – Ура, ведь получилось, а!</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Я. Ялкайн.">– Ура-а-а! – залыште, воктенысе пӧлемлаште, коридорышто, кудывечыште шӱдӧ дене еҥын йывыртен кычкыралме йӱкшӧ шарла.</x>
+       <xt xml:lang="rus">– Ура-а-а! – в зале, соседних комнатах, коридоре, во дворе раздаётся радостный крик сотен людей.</xt>
+     </xg>
+   </mg>
+   <mg>
+     <defNative type="comment">атаке годым ӱжын, таратен кычкырымаш</defNative>
+     <tg type="head" xml:lang="rus">
+       <t pos="N">ура</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Иванов.">– Ура! – ончыл линий мучко шергылт кайыш.</x>
+       <xt xml:lang="rus">– Ура! – раздалось по передовой линии.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Ф. Майоров.">Салтак-влакым нурыш луктын кредалаш туныктат: атакыш наҥгаят, урам кычкырыктат.</x>
+       <xt xml:lang="rus">Солдат обучают вести бой в поле: ведут в атаку, заставляют кричать «ура».</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Interj">а</l>
