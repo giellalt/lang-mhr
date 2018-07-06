@@ -634,7 +634,9 @@ ProperNoun-mhr ;  !!=   @CODE@ specifically Mari names
 
 !! Here comes a set of ragbag continuation lexica.
 
-LEXICON CONJ_ !!= * @CODE@ TODO: why +WORK?
+LEXICON ADP_  !!= * @CODE@ TODO: why +WORK?
++Adp: ENDLEX ;
+LEXICON CONJ_ !!= * @CODE@ TODO: why +WORK? All CONJ_ should be identified as either CC or CS or both, work in progress
 +CC+WORK: ENDLEX ;
 
 LEXICON CC_ !!= * @CODE@ conjunctinos
