@@ -17,6 +17,9 @@ presented in this system in terms of the following symbols.
  * %^VoTrigger   for use with acronyms after hyphen
  * %^VeTrigger   for use with acronyms after hyphen
  * %^VOTrigger   for use with acronyms after hyphen
+ * %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+ * %^Obstruent  for use with acronyms after hyphen С|Ф|Ъ|Ь
+
 
 
 !The parts-of-speech are:
@@ -564,7 +567,6 @@ the following basic word classes:
    adverbs  ;		    
    conjunctions  ;	    
    dependents   ;	    
-   descriptives   ;	    
    interjections   ;   
    nouns   ;		    
    numbers    ;    
@@ -593,12 +595,14 @@ the following basic word classes:
 
 Here comes a set of ragbag continuation lexica.
 
- * LEXICON CONJ_  TODO: why +WORK?
+ * LEXICON ADP_   TODO: why +WORK?
+ * LEXICON CONJ_  TODO: why +WORK? All CONJ_ should be identified as either CC or CS or both, work in progress
 
  * LEXICON CC_  conjunctinos
 
  * LEXICON CS_  subjunctions
 
+ * LEXICON DESCR-AUD_  these are audible, others may be visible or otherwise sensed, but for now just calling them Interj+Descr should suffice
 
  * LEXICON AD-A  also adverbs
 

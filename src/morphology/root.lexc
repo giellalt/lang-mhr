@@ -602,7 +602,6 @@ adjectives  ;	   !!= * @CODE@
 adverbs  ;		   !!=   @CODE@ 
 conjunctions  ;	   !!=   @CODE@ 
 dependents   ;	   !!=   @CODE@ 
-descriptives   ;	   !!=   @CODE@ 
 interjections   ;  !!=   @CODE@ 
 nouns   ;		   !!=   @CODE@ 
 numbers    ;   !!=   @CODE@ 
@@ -646,7 +645,9 @@ LEXICON CS_ !!= * @CODE@ subjunctions
 +CS: ENDLEX ;
 
 LEXICON DESCR_
-+Descr: K ;
++Interj+Descr: K ;
+LEXICON DESCR-AUD_ !!= * @CODE@ these are audible, others may be visible or otherwise sensed, but for now just calling them Interj+Descr should suffice
++Interj+Descr: K ;
 
 LEXICON AD-A !!= * @CODE@ also adverbs
 +Adv: ENDLEX ;
