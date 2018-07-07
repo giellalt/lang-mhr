@@ -14,7 +14,7 @@
 
       <stress>а</stress>
     </lg>
-    <mg>
+    <mg relId="0">
         <defNative/>
 
       <tg xml:lang="eng">
@@ -60,25 +60,41 @@
       <l pos="CC">але</l>
 
       <stg>
-        <st Contlex="CC_">ал%{еы%}</st>
+        <st Contlex="CC_">а•лʼ%{еы%}</st>
       </stg>
 
       <stress>а•ле</stress>
     </lg>
-
-    <pos>CC</pos>
-
-    <mg>
+    <mg relId="0">
         <defNative/>
-
-      <tg xml:lang="eng">
-        <t/>
-      </tg>
+     <tg xml:lang="eng">
+       <t pos="Adv">or; or, that is, i.e.; (алʼе ... алʼе) either ... or</t>
+     </tg>
 
       <tg xml:lang="fin">
-        <t>vai; tai; eli K</t>
+        <t>vai; tai; eli</t>
       </tg>
-    </mg>
+     <tg type="head" xml:lang="rus">
+       <t pos="CC"><com type="abbrAux">соотв. разд. союзу</com> или</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Казаков.">Мо сӧрале – кайык муро але ӱдыръеҥын семже?</x>
+       <xt xml:lang="rus">Что красивей – пение птиц или песни девушек?</xt>
+     </xg>
+     <xg type="quote">
+       <x src="О. Ипай.">Але тыйын возыметым уке лудшо, але тыйын шочын огыл чапет.</x>
+       <xt xml:lang="rus">Или никто не читает твои сочинения, или не завоевал ты ещё славы.</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><posType>поясн.</posType> <pos>союзу</pos> или</t>
+     </tg>
+     <xg type="mwe">
+       <x>Юж коштмаш, але мардеж, пӱртӱсыштӧ кугу верым налын шога.</x>
+       <xt xml:lang="rus">Движение воздуха, или ветер, занимает важное место в природе.</xt>
+     </xg>
+   </mg>
   </e>
 
   <e>
@@ -491,7 +507,7 @@
 
       <stress>но</stress>
     </lg>
-    <mg>
+    <mg relId="0">
         <defNative/>
 
       <tg xml:lang="eng">
@@ -552,7 +568,7 @@
         <st Contlex="K">садак</st>
       </stg>
     </lg>
-    <mg>
+    <mg relId="0">
         <defNative/>
 
       <tg xml:lang="eng">
@@ -573,7 +589,7 @@
         <st Contlex="K">садиктак</st>
       </stg>
     </lg>
-    <mg>
+    <mg relId="0">
         <defNative/>
 
       <tg xml:lang="eng">
@@ -654,7 +670,7 @@
         <st Contlex="CC_">тев%{еы%}</st>
       </stg>
     </lg>
-    <mg>
+    <mg relId="0">
         <defNative/>
 
       <tg xml:lang="eng">
@@ -786,7 +802,7 @@
 
       <stress>я</stress>
     </lg>
-    <mg>
+    <mg relId="0">
         <defNative/>
 
       <tg xml:lang="eng">

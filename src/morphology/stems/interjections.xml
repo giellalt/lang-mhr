@@ -476,19 +476,20 @@
    <lg>
      <l pos="Interj">апчи</l>
      <stg>
-       <st Contlex="INTERJ_">апчи</st>
+       <st Contlex="INTERJ_">апчи•</st>
      </stg><stress>апчи•</stress>
    </lg> <pos>Interj</pos>
    <mg>
      <defNative/>
-     <tg xml:lang="eng"> <t/>
+     <tg xml:lang="eng">
+       <t>(sneezing) achoo!</t>
      </tg>
      <tg xml:lang="fin">
        <t>(aivastus) atsih I</t>
      </tg>
      <defNative type="comment">подражание чиханию</defNative>
      <tg xml:lang="rus">
-       <t>апчхи </t>
+       <t>апчхи</t>
      </tg>
    </mg>
 </e>
@@ -692,7 +693,7 @@
      </tg>
      <defNative type="comment">моктымашым, куанымашым ончыкта</defNative>
      <tg xml:lang="rus">
-       <t>браво </t>
+       <t>браво</t>
      </tg>
      <xg type="quote">
        <x src="М. Евсеева.">– Браво, молодец улыда! – манеш Александр Эпатаевич, совым кыра.</x>
