@@ -65,6 +65,9 @@ Archiphonemes for vowels, Apertium style
  * %^VoTrigger:0   for use with acronyms after hyphen о у ё ю О У Ё Ю
  * %^VeTrigger:0   for use with acronyms after hyphen а е и э я А Е И Э Я
  * %^VOTrigger:0   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+ * %^Sonorant:0    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+ * %^Obstruent:0  for use with acronyms after hyphen С|Ф|Ъ|Ь
+
 
 
  *  %>    
