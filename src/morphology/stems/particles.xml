@@ -49,7 +49,33 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
+   <lg>
+     <l pos="Pcle">адак</l>
+     <stg>
+       <st Contlex="ADV_">ада•к</st>
+     </stg> <stress>ада•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg type="head" xml:lang="rus">
+       <t pos="Pcle"><com type="abbrAux">соотв.</com> <pos>част.</pos> ещё</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Шкетан.">Инспектор ончык адак кок еҥ толын шогалыт.</x>
+       <xt xml:lang="rus">К инспектору подходят ещё два человека.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="М. Шкетан.">Мо адак кӱлеш?</x>
+       <xt xml:lang="rus">Что ещё надо?</xt>
+     </xg>
+     <xg type="quote">
+       <x src="М. Шкетан.">– Адак мо? – мый ончык тӧрштышым.</x>
+       <xt xml:lang="rus">– Ещё что? – я прыгнул вперёд.</xt>
+     </xg>
+       <semRel type="compare_to">эше</semRel>
+   </mg>
+</e>
+<e>
    <lg>
      <l pos="Pcle">адыштан</l>
      <stg>
@@ -62,7 +88,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ай</l>
      <stg>
@@ -79,7 +105,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">айда</l>
      <stg>
@@ -92,7 +118,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">айдыза</l>
      <stg>
@@ -105,7 +131,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">айза</l>
      <stg>
@@ -118,7 +144,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">айста</l>
      <stg>
@@ -153,17 +179,62 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
-     <l pos="Pcle">ал'е</l>
+     <l pos="Pcle">але</l>
      <stg>
        <st Contlex="PCLE_">а•л'%{еы%}</st>
      </stg><stress>а•л'е</stress>
    </lg>
    <mg relId="0">
      <tg xml:lang="eng">
-       <t pos="Pcle">or; or, that is, i.e.; (ал'е ... ал'е) either ... or; (emphatic particle); still, yet, not yet; really, perhaps</t>
+       <t pos="Pcle">(emphatic particle); still, yet, not yet; really, perhaps</t>
      </tg>
+     <tg type="head" xml:lang="rus">
+       <t pos="Pcle"><com type="abbrAux">соотв.</com>-ка</t>
+     </tg>
+     <xg type="mwe">
+       <x>Тол-але</x>
+       <xt xml:lang="rus">иди-ка</xt>
+     </xg>
+     <xg type="mwe">
+       <x>пу-але</x>
+       <xt xml:lang="rus">дай-ка.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Й. Ялмарий.">Шого-але, Виталий Александрович.</x>
+       <xt xml:lang="rus">Погоди-ка, Виталий Александрович.</xt>
+     </xg>
+     <xg type="mwe">
+       <x>Шого, пурен ончем-але.</x>
+       <xt xml:lang="rus">Погоди, попробую-ка зайти.</xt>
+     </xg>
+     <xg type="mwe">
+       <x>Тиде книгам лӱдын ончем-але.</x>
+       <xt xml:lang="rus">Прочту-ка эту книгу.</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t pos="Pcle"> же</t>
+     </tg>
+     <xg type="quote">
+       <x src="П. Корнилов.">Ну, чыте але! Шкаланет муат!</x>
+       <xt xml:lang="rus">Ну погоди же! И себе найдёшь.</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t pos="Pcle"> неужели, разве, ли</t>
+     </tg>
+     <xg type="quote">
+       <x src="Г. Гадиатов.">Але тый от пале, мо уда, мо поро?</x>
+       <xt xml:lang="rus">Разве ты не знаешь, что плохо, что хорошо?</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">Але шканет шӱгарым кӱнчет?</x>
+       <xt xml:lang="rus">Неужели ты себе роешь могилу?</xt>
+     </xg>
    </mg>
 </e>
 <e>
@@ -239,7 +310,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ала-ала</l>
      <stg>
@@ -252,7 +323,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ала-мо</l>
      <stg>
@@ -338,7 +409,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">аманат</l>
      <stg>
@@ -351,7 +422,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ан'е</l>
      <stg>
@@ -367,7 +438,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">анян</l>
      <stg>
@@ -380,7 +451,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">анят</l>
      <stg>
@@ -396,20 +467,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
-   <lg>
-     <l pos="Pcle">апчи</l>
-     <stg>
-       <st Contlex="DESCR_">апчи•</st>
-     </stg><stress>апчи•</stress>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="eng">
-       <t>(sneezing) achoo!</t>
-     </tg>
-   </mg>
-</e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">аттан</l>
      <stg>
@@ -422,7 +480,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">баш</l>
      <stg>
@@ -435,7 +493,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">буль-буль</l>
      <stg>
@@ -448,7 +506,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">буль-буль</l>
      <stg>
@@ -461,7 +519,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">бушт</l>
      <stg>
@@ -474,7 +532,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">буҥ</l>
      <stg>
@@ -487,7 +545,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">была</l>
      <stg>
@@ -500,7 +558,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">бырлоч</l>
      <stg>
@@ -513,7 +571,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">бырлоч</l>
      <stg>
@@ -591,7 +649,7 @@
      </xg> <sg><s s_type="compare_to">дыр</s></sg> <sg><s s_type="compare_to">докан</s></sg> <sg><s s_type="compare_to">очыни</s></sg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">веле</l>
      <stg>
@@ -642,7 +700,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">вжик</l>
      <stg>
@@ -655,7 +713,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">витн'е</l>
      <stg>
@@ -668,7 +726,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">во</l>
      <stg>
@@ -780,7 +838,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">вуди-вуди</l>
      <stg>
@@ -793,7 +851,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">вудо-вудо</l>
      <stg>
@@ -809,7 +867,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">вудык-вудык</l>
      <stg>
@@ -825,7 +883,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">вуйгак</l>
      <stg>
@@ -838,7 +896,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">вурт</l>
      <stg>
@@ -851,7 +909,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">выдык-вудык</l>
      <stg>
@@ -864,7 +922,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">выль-выль</l>
      <stg>
@@ -877,7 +935,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">гай</l>
      <stg>
@@ -890,7 +948,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">гала</l>
      <stg>
@@ -906,7 +964,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">гойыш</l>
      <stg>
@@ -919,7 +977,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">гылдыр-голдыр</l>
      <stg>
@@ -932,7 +990,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">гын</l>
      <stg>
@@ -948,7 +1006,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">гына</l>
      <stg>
@@ -961,7 +1019,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">гынай</l>
      <stg>
@@ -974,7 +1032,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">гынат</l>
      <stg>
@@ -1060,7 +1118,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">давай</l>
      <stg>
@@ -1073,7 +1131,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">даже</l>
      <stg>
@@ -1227,7 +1285,7 @@
      </xg> <sg><s s_type="compare_to">докан</s></sg> <sg><s s_type="compare_to">векат</s></sg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">жалке</l>
      <stg>
@@ -1240,7 +1298,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">жалкын</l>
      <stg>
@@ -1276,7 +1334,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e>
    <lg>
      <l pos="Pcle">ида</l>
      <stg>
@@ -1325,7 +1383,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">иже</l>
      <stg>
@@ -1338,7 +1396,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ик</l>
      <stg>
@@ -1351,7 +1409,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">икманаш</l>
      <stg>
@@ -1389,7 +1447,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ито</l>
      <stg>
@@ -1402,7 +1460,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">йок</l>
      <stg>
@@ -1415,7 +1473,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">йылдырге</l>
      <stg>
@@ -1473,7 +1531,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">йӧрш</l>
      <stg>
@@ -1486,7 +1544,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">кавуй</l>
      <stg>
@@ -1502,7 +1560,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">кай</l>
      <stg>
@@ -1515,7 +1573,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">керак</l>
      <stg>
@@ -1528,7 +1586,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">керек</l>
      <stg>
@@ -1572,7 +1630,7 @@
      </xg> <sg><s s_type="compare_to">чынжымак</s></sg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">кернакак</l>
      <stg>
@@ -1585,7 +1643,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">кеч</l>
      <stg>
@@ -1598,7 +1656,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">киндончылно</l>
      <stg>
@@ -1611,7 +1669,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">коеш</l>
      <stg>
@@ -1624,7 +1682,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">коли</l>
      <stg>
@@ -1637,7 +1695,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">кон'ешне</l>
      <stg>
@@ -1650,7 +1708,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e>
    <lg>
      <l pos="Pcle">конешне</l>
      <stg>
@@ -1678,7 +1736,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">коҥ</l>
      <stg>
@@ -1691,7 +1749,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">кузе</l>
      <stg>
@@ -1704,7 +1762,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">кузе-гынат</l>
      <stg>
@@ -1717,7 +1775,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">кунам</l>
      <stg>
@@ -1730,7 +1788,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">кыдыр-кадыр</l>
      <stg>
@@ -1743,7 +1801,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">кыдыр-кудыр</l>
      <stg>
@@ -1756,7 +1814,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">кырт-кырт</l>
      <stg>
@@ -1769,7 +1827,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e>
    <lg>
      <l pos="Pcle">ла</l>
      <stg>
@@ -1791,7 +1849,7 @@
      </xg> <sg><s s_type="compare_to">шол</s></sg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">лаваса</l>
      <stg>
@@ -1804,7 +1862,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">лавысан</l>
      <stg>
@@ -1817,7 +1875,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e>
    <lg>
      <l pos="Pcle">лай</l>
      <stg>
@@ -1852,7 +1910,7 @@
      </xg> <sg><s s_type="see_also">вет</s></sg> <sg><s s_type="see_also">шол</s></sg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ласан</l>
      <stg>
@@ -1865,7 +1923,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">лач</l>
      <stg>
@@ -1899,7 +1957,7 @@
      </xg> <sg><s s_type="compare_to">гала</s></sg> <sg><s s_type="compare_to">гын</s></sg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">лиеш</l>
      <stg>
@@ -1912,7 +1970,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">лийже</l>
      <stg>
@@ -1949,7 +2007,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">лоҥ</l>
      <stg>
@@ -1962,7 +2020,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">лып-лоп</l>
      <stg>
@@ -2018,7 +2076,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ман</l>
      <stg>
@@ -2031,7 +2089,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e>
    <lg>
      <l pos="Pcle">мекан</l>
      <stg>
@@ -2049,7 +2107,7 @@
      </xg> <sg><s s_type="see_also">ала</s></sg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">мо</l>
      <stg>
@@ -2062,7 +2120,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">мо-мо</l>
      <stg>
@@ -2075,7 +2133,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">могай</l>
      <stg>
@@ -2088,7 +2146,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">можыч</l>
      <stg>
@@ -2126,7 +2184,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">монь</l>
      <stg>
@@ -2142,7 +2200,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">мотри</l>
      <stg>
@@ -2155,7 +2213,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">мутлан</l>
      <stg>
@@ -2168,7 +2226,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">мыге-муго</l>
      <stg>
@@ -2181,7 +2239,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">на</l>
      <stg>
@@ -2218,7 +2276,7 @@
      </xg> <sg><s s_type="compare_to">очыни</s></sg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">не</l>
      <stg>
@@ -2231,7 +2289,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">неужели</l>
      <stg>
@@ -2247,7 +2305,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">неужто</l>
      <stg>
@@ -2282,7 +2340,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">нечыве</l>
      <stg>
@@ -2295,7 +2353,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ни</l>
      <stg>
@@ -2311,7 +2369,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">но</l>
      <stg>
@@ -2324,7 +2382,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ну</l>
      <stg>
@@ -2340,7 +2398,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ны</l>
      <stg>
@@ -2353,7 +2411,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ньорик-ньорик</l>
      <stg>
@@ -2366,7 +2424,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ньыге-нюго</l>
      <stg>
@@ -2379,7 +2437,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">огла</l>
      <stg>
@@ -2392,7 +2450,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">огыл</l>
      <stg>
@@ -2405,7 +2463,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">огыла</l>
      <stg>
@@ -2418,7 +2476,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">очын'и</l>
      <stg>
@@ -2431,7 +2489,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">пожал'е</l>
      <stg>
@@ -2444,7 +2502,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e>
    <lg>
      <l pos="Pcle">пожале</l>
      <stg>
@@ -2465,7 +2523,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">пожалуй</l>
      <stg>
@@ -2478,7 +2536,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">пожалуйста</l>
      <stg>
@@ -2494,7 +2552,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">поро-осал</l>
      <stg>
@@ -2507,7 +2565,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">порылий</l>
      <stg>
@@ -2520,7 +2578,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">просто</l>
      <stg>
@@ -2533,7 +2591,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">пуйто</l>
      <stg>
@@ -2546,7 +2604,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">разве</l>
      <stg>
@@ -2562,7 +2620,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">райзе</l>
      <stg>
@@ -2578,7 +2636,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">раш</l>
      <stg>
@@ -2591,7 +2649,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">роштке¤</l>
      <stg>
@@ -2604,7 +2662,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">рыз</l>
      <stg>
@@ -2617,7 +2675,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">садак</l>
      <stg>
@@ -2630,7 +2688,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">садыге</l>
      <stg>
@@ -2643,7 +2701,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">сек</l>
      <stg>
@@ -2709,7 +2767,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">так</l>
      <stg>
@@ -2722,7 +2780,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тебе</l>
      <stg>
@@ -2735,7 +2793,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тевак</l>
      <stg>
@@ -2748,7 +2806,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l hid="Hom1" pos="Pcle">теве</l>
      <stg>
@@ -2765,7 +2823,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l hid="Hom2" pos="Pcle">теве</l>
      <stg>
@@ -2778,7 +2836,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">теве-теве</l>
      <stg>
@@ -2791,7 +2849,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тевыс</l>
      <stg>
@@ -2804,7 +2862,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тегак</l>
      <stg>
@@ -2817,7 +2875,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тек</l>
      <stg>
@@ -2855,7 +2913,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">товат</l>
      <stg>
@@ -2868,7 +2926,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">товатат</l>
      <stg>
@@ -2945,7 +3003,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тожо</l>
      <stg>
@@ -2958,7 +3016,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">только</l>
      <stg>
@@ -2971,7 +3029,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">точно</l>
      <stg>
@@ -2984,7 +3042,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ту</l>
      <stg>
@@ -2997,7 +3055,7 @@
      </tg>
    </mg>
 </e>
-<e order="2" exclude="fst">
+<e exclude="fst">
    <lg>
      <l pos="Pcle">ту</l>
      <stg>
@@ -3020,7 +3078,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">туалгын</l>
      <stg>
@@ -3033,7 +3091,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тугалмо</l>
      <stg>
@@ -3046,7 +3104,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тугат</l>
      <stg>
@@ -3059,7 +3117,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">туге</l>
      <stg>
@@ -3072,7 +3130,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тугеже</l>
      <stg>
@@ -3085,7 +3143,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тудо</l>
      <stg>
@@ -3101,7 +3159,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тулечла</l>
      <stg>
@@ -3114,7 +3172,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тушто</l>
      <stg>
@@ -3127,7 +3185,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ты</l>
      <stg>
@@ -3140,7 +3198,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тыгак</l>
      <stg>
@@ -3153,7 +3211,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тыге</l>
      <stg>
@@ -3166,7 +3224,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">тык</l>
      <stg>
@@ -3179,7 +3237,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">уж</l>
      <stg>
@@ -3192,7 +3250,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ужамат</l>
      <stg>
@@ -3205,7 +3263,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ужат</l>
      <stg>
@@ -3218,7 +3276,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">уже</l>
      <stg>
@@ -3231,7 +3289,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">уке</l>
      <stg>
@@ -3244,7 +3302,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">уке-уке</l>
      <stg>
@@ -3257,7 +3315,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">укерак</l>
      <stg>
@@ -3270,7 +3328,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">улмашын</l>
      <stg>
@@ -3354,7 +3412,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">улыжо-укеже</l>
      <stg>
@@ -3367,7 +3425,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">уна</l>
      <stg>
@@ -3413,7 +3471,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">чай</l>
      <stg>
@@ -3426,7 +3484,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">чурик</l>
      <stg>
@@ -3439,7 +3497,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">чыла</l>
      <stg>
@@ -3452,7 +3510,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">чылт</l>
      <stg>
@@ -3465,7 +3523,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">чынак</l>
      <stg>
@@ -3478,7 +3536,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">чынакак</l>
      <stg>
@@ -3491,7 +3549,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">чынжым</l>
      <stg>
@@ -3504,7 +3562,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">чырык-чурык</l>
      <stg>
@@ -3517,7 +3575,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e>
    <lg>
      <l pos="Pcle">шке урманже дене</l>
      <stg>
@@ -3534,7 +3592,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">шкет</l>
      <stg>
@@ -3593,7 +3651,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">шонет</l>
      <stg>
@@ -3606,7 +3664,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">шуын</l>
      <stg>
@@ -3619,7 +3677,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e>
    <lg>
      <l pos="Pcle">ыгы</l>
      <stg>
@@ -3722,7 +3780,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ынде</l>
      <stg>
@@ -3770,7 +3828,7 @@
      </xg> <sg><s s_type="see_also">шол</s></sg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">э</l>
      <stg>
@@ -3783,7 +3841,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">эй</l>
      <stg>
@@ -3796,7 +3854,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">эла</l>
      <stg>
@@ -3834,50 +3892,6 @@
        <x src="МДЭ.">Эр сайын кая эмыш ӱдырамаш.</x>
        <xt xml:lang="rus">Каждое утро как будто идёт женщина.</xt>
      </xg> <sg><s s_type="see_also">пуйто</s></sg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">эн</l>
-     <stg>
-       <st Contlex="Pmuu">эн</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="fin">
-       <t>kaikkein (superlatiivin muodostava part.)</t>
-     </tg> <pos>част.</pos> <com>образует превосходную степень прилагательных и наречий; передаётся местоимениями</com> €
-     <tg xml:lang="rus">
-       <t>самый <com>(при прилагательных) и</com> всех <com type="comment">при наречиях</com></t>
-     </tg>
-     <xg type="mwe">
-       <x>Эн сай</x>
-       <xt xml:lang="rus">самый лучший</xt>
-     </xg>
-     <xg type="mwe">
-       <x>эн шерге</x>
-       <xt xml:lang="rus">самый дорогой</xt>
-     </xg>
-     <xg type="mwe">
-       <x>эн ончыч</x>
-       <xt xml:lang="rus">прежде всего, в самом начале, с самого начала</xt>
-     </xg>
-     <xg type="mwe">
-       <x>эн ончылно</x>
-       <xt xml:lang="rus">впереди всех.</xt>
-     </xg>
-     <xg type="quote">
-       <x src="М. Шкетан.">Эн ончычак «Юмо кугыжам арале»-м мурыктышт.</x>
-       <xt xml:lang="rus">В самом начале заставили петь «Боже царя храни».</xt>
-     </xg>
-     <xg type="quote">
-       <x src="А. Айзенворт.">Эн кӱчык шырпе Макарлан вереште.</x>
-       <xt xml:lang="rus">Самая короткая спичка попалась Макару.</xt>
-     </xg>
-     <xg type="quote">
-       <x src="В. Сапаев.">Физкультур урокышто эн писын куржаш, эн торашке тӧршташ тыршем.</x>
-       <xt xml:lang="rus">На уроке физкультуры стараюсь бежать быстрее всех, прыгать дальше всех.</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -3969,7 +3983,7 @@
      </xg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">юлдыр-ялдыр</l>
      <stg>
@@ -3982,7 +3996,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">юмончылно</l>
      <stg>
@@ -4015,7 +4029,7 @@
      </xg> <sg><s s_type="compare_to">юрик</s></sg> <sg><s s_type="compare_to">юрк</s></sg> <sg><s s_type="compare_to">юрт</s></sg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ючик</l>
      <stg>
@@ -4056,7 +4070,7 @@
      </xg> <sg><s s_type="compare_to">-ян</s></sg> <sg><s s_type="compare_to">але</s></sg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ялт</l>
      <stg>
@@ -4069,7 +4083,7 @@
      </tg>
    </mg>
 </e>
-<e order="1">
+<e>
    <lg>
      <l pos="Pcle">ӱлай-мӱлай</l>
      <stg>
