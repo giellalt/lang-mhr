@@ -43,13 +43,12 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 
 +N	    !!≈ * __@CODE@__ = nouns
 +A	    !!≈ * __@CODE@__ = adjectives
++Adp    !!≈ * __@CODE@__ = adpositions
 +Adv    !!≈ * __@CODE@__ = adverbs
 +V	    !!≈ * __@CODE@__ = verbs
 +Pron   !!≈ * __@CODE@__ = pronouns
 +CS	    !!≈ * __@CODE@__ = subjunctions
 +CC	    !!≈ * __@CODE@__ = conjunctions
-+Po	    !!≈ * __@CODE@__ = postpositions
-+Pr	    !!≈ * __@CODE@__ = prepositons
 +Interj !!≈ * __@CODE@__ = interjections
 +Pcle   !!≈ * __@CODE@__ = particles
 +Num    !!≈ * __@CODE@__ = numerals
@@ -57,6 +56,8 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 
 !! !POS subtags
 !! The parts of speech are further split up into:
++Po	    !!≈ * __@CODE@__ = postpositions
++Pr	    !!≈ * __@CODE@__ = prepositons
 
 +Prop      !!≈ * __@CODE@__ = Proper noun
 +Pers      !!≈ * __@CODE@__ = Personal pronoun
