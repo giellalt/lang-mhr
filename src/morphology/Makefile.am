@@ -26,7 +26,6 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/abbreviations.lexc \
 			 stems/acronyms.lexc      \
 			 stems/numerals.lexc      \
-			 stems/punctuation.lexc   \
 			 stems/exceptions.lexc   \
 			 stems/mhr-propernouns.lexc   \
 			 affixes/adjectives.lexc  \
@@ -57,13 +56,14 @@ GT_LEXC_L2_SRCS=\
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
 			 generated_files/urj-Cyrl-propernouns.lexc \
+			 generated_files/punctuation.lexc   \
 			 $(srcdir)/stems/adjectives.lexc    \
 			 $(srcdir)/stems/adverbs.lexc       \
 			 $(srcdir)/stems/conjunctions.lexc  \
 			 $(srcdir)/stems/dependents.lexc    \
 			 $(srcdir)/stems/interjections.lexc \
 			 $(srcdir)/stems/nouns.lexc         \
-			 $(srcdir)/stems/numbers.lexc   \
+			 $(srcdir)/stems/numbers.lexc       \
 			 $(srcdir)/stems/particles.lexc     \
 			 $(srcdir)/stems/postpositions.lexc \
 			 $(srcdir)/stems/pronouns.lexc      \
