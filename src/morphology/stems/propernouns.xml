@@ -1283,7 +1283,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Юникод</l>
+     <l pos="N" type="Prop">Юникод</l>
      <stg>
        <st Contlex="PROP_">Юнико•д</st>
      </stg> <stress>Юнико•д</stress>
@@ -1300,7 +1300,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Совинформбюро</l>
+     <l pos="N" type="Prop">Совинформбюро</l>
      <stg>
        <st Contlex="PROP_">Совинформбюро•</st>
      </stg> <stress>Совинформбюро•</stress>
@@ -1317,7 +1317,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Рошто</l>
+     <l pos="N" type="Prop">Рошто</l>
      <stg>
        <st Contlex="PROP_">Рошто•</st>
      </stg> <stress>Рошто•</stress>
@@ -1334,7 +1334,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Реформаций</l>
+     <l pos="N" type="Prop">Реформаций</l>
      <stg>
        <st Contlex="PROP_">Реформа•ций</st>
      </stg> <stress>Реформа•ций</stress>
@@ -1351,7 +1351,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Овен</l>
+     <l pos="N" type="Prop">Овен</l>
      <stg>
        <st Contlex="PROP_">О•вен</st>
      </stg> <stress>О•вен</stress>
@@ -1368,7 +1368,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Йӱдвелшӱдыр</l>
+     <l pos="N" type="Prop">Йӱдвелшӱдыр</l>
      <stg>
        <st Contlex="PROP_">Йӱдвелшӱ•дыр</st>
      </stg> <stress>Йӱдвелшӱ•дыр</stress>
@@ -1385,7 +1385,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Лумӱдыр</l>
+     <l pos="N" type="Prop">Лумӱдыр</l>
      <stg>
        <st Contlex="PROP_">Лумӱ•дыр</st>
      </stg> <stress>Лумӱ•дыр</stress>
@@ -1402,7 +1402,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Вӱдйоктарыше</l>
+     <l pos="N" type="Prop">Вӱдйоктарыше</l>
      <stg>
        <st Contlex="PROP_">Вӱдйокта•рыш%{еы%}</st>
      </stg> <stress>Вӱдйокта•рыше</stress>
@@ -1419,7 +1419,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Господь</l>
+     <l pos="N" type="Prop">Господь</l>
      <stg>
        <st Contlex="PROP_">Госпо•дь</st>
      </stg> <stress>Госпо•дь</stress>
@@ -1436,7 +1436,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Девон</l>
+     <l pos="N" type="Prop">Девон</l>
      <stg>
        <st Contlex="PROP_">Дево•н</st>
      </stg> <stress>Дево•н</stress>
@@ -1453,7 +1453,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Илянгече</l>
+     <l pos="N" type="Prop">Илянгече</l>
      <stg>
        <st Contlex="PROP_">Илянге•ч%{еы%}</st>
      </stg> <stress>Илянге•че</stress>
@@ -1470,7 +1470,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Индешкугарня</l>
+     <l pos="N" type="Prop">Индешкугарня</l>
      <stg>
        <st Contlex="PROP_">Индешкугарня•</st>
      </stg> <stress>Индешкугарня•</stress>
@@ -1487,7 +1487,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Мормон</l>
+     <l pos="N" type="Prop">Мормон</l>
      <stg>
        <st Contlex="PROP_">Мормо•н</st>
      </stg> <stress>Мормо•н</stress>
@@ -1504,7 +1504,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Чека</l>
+     <l pos="N" type="Prop">Чека</l>
      <stg>
        <st Contlex="PROP_">Чека•</st>
      </stg> <stress>Чека•</stress>
@@ -1521,7 +1521,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N" sem_type="Prop" type="Prop">Сабантуй</l>
+     <l pos="N" type="Prop">Сабантуй</l>
      <stg>
        <st Contlex="PROP_">Сабанту•й</st>
      </stg> <stress>Сабанту•й</stress>
