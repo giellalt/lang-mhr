@@ -226,6 +226,8 @@ SET V-NOT-DER-V	= V - DER-V-V ;
 SET DER-V-N = Der/Nom OR (Act Prc) ;
 SET N-NOT-DER-V = N - DER-V-N ;	
 
+SET N-INFL = (N Sg) OR (N Pl) ;
+SET N-ATTR = N - N-INFL ;
 
 LIST Sem/Date = Sem/Date ;           #!! Der/Date
 LIST Sem/Year = Sem/Year ;           #!! Der/Year
@@ -281,6 +283,9 @@ REMOVE:onlyteve  CC IF (0 ("теве"));
 #!! * __PcleNotCC__ Lauseen alussa on Pcle
 REMOVE:PcleNotCC CC IF (-1 BOS)(0 Pcle);
 
+#!! * __CCnotInterj__
+REMOVE:CCnotInterj Interj IF (-1 WORD)(0 CC)(1 WORD);
+
 #!! * __Posna__ деч посна
 SELECT:Posna Po IF (-1 ("деч"))(0 ("посна"));
 
@@ -329,9 +334,11 @@ REMOVE:NotImpWhenWords1 Imprt IF (-1 N)(0 N);
 #!! * __NotImpWhenWords2__
 REMOVE:NotImpWhenWords2 Imprt IF (-1 WORD LINK *-1 BOS BARRIER Imprt);
 
-#!! Adjectives
 
+REMOVE:noninfl N + Sg + Nom IF (0 N-ATTR)(1 N-INFL OR ("."));
+REMOVE:ninfl N-ATTR IF (NOT 1 A OR N + Nom OR ("улаш"));
 
+#!! !Adjectives
 
 REMOVE A IF (0 ("ола"))(1 N);
 
@@ -466,10 +473,12 @@ LIST NomPost = "" ;
 SELECT:nergen Po IF (0 ("нерген"));
 	# awaiting texts with нерге = 'badger' (mäyrä)
 
+SET Pocase = Nom OR Gen ;
+
 REMOVE:RiskyAdv Adv IF (-1 Gen)(0 Po);
 
 #!! * __PoNeedsGen__ removes postposition if the word to the left is not Gen or Nom
-REMOVE:PoNeedsGen Po IF (NOT -1 Gen OR Nom);
+REMOVE:PoNeedsGen Po IF (NOT -1 Pocase);
 
 
 #!! !!Adverbs
@@ -507,7 +516,7 @@ SELECT:GerNotFin Ger IF (1 Ind OR Inf) ;
 SELECT:GerNotFin2 Ger IF (1 CC)(2C Ger) ;
 
 #!!* __Conneg__ ConNeg if there is Neg to the left
-IFF:Conneg ConNeg IF (*-1 Neg BARRIER WORD - Pcle) ; #JEREMY AND SASHA ADDED 28-06-2017
+IFF:Conneg ConNeg IF (*-1 Neg BARRIER WORD - Pcle LINK NOT 0 ("улаш")) ; #JEREMY AND SASHA ADDED 28-06-2017
 
 #!!* __NegVerb__ if there is ConNeg to the right
 IFF:NegVerb Neg IF (*1 ConNeg BARRIER WORD - Pcle) ; #JEREMY AND SASHA MODIFIED 28-06-2017
@@ -544,7 +553,7 @@ REMOVE:iNotAbbr ABBR IF (0 CC)(NOT 1 ("."));
 #!! !Interjection
 
 #!! * __NoExclNoInterj__
-REMOVE:NoExclNoInterj Interj IF (NOT 1* ("!") BARRIER COMMA) ;
+REMOVE:NoExclNoInterj Interj IF (NOT *1 ("!"));# BARRIER COMMA) ;
 
 #!! !Predicative
 
