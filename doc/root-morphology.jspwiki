@@ -26,20 +26,22 @@ presented in this system in terms of the following symbols.
 
  * __+N	__ = nouns
  * __+A	__ = adjectives
+ * __+Adp__ = adpositions
  * __+Adv__ = adverbs
  * __+V	__ = verbs
  * __+Pron__ = pronouns
  * __+CS	__ = subjunctions
  * __+CC	__ = conjunctions
- * __+Po	__ = postpositions
- * __+Pr	__ = prepositons
  * __+Interj__ = interjections
  * __+Pcle__ = particles
  * __+Num__ = numerals
  * __+Descr	__ = descriptive ideophones
 
+
 !POS subtags
 The parts of speech are further split up into:
+ * __+Po	__ = postpositions
+ * __+Pr	__ = prepositons
 
  * __+Prop__ = Proper noun
  * __+Pers__ = Personal pronoun
@@ -56,6 +58,15 @@ The parts of speech are further split up into:
  * __+Aux__ = Auxiliary verb
  * __+Depend__ = ( pair verbs that do not occur independently get this marker.)
 
+
+Have a look at these:
+
+ * __+Foc/Poss__ = 
+ * __+Prf__ = perfective
+ * __+Arab__ = arabic numerals
+ * __+Qnt__ = quantifiers
+ * __+Rom__ = roman numerals
+ * __+Weak__ = weak (?) form 
 
 
 The nominals are inflected in the following numbers
@@ -78,6 +89,9 @@ The nominals are inflected in the following Case and Number
  * __+Cmpr 	__ = comparative case
  * __+Abe	__ = abessive
  * __+Voc	__ = vocative
+ * __+Attr	__ = attributive form
+ * __+Instr 	__ =
+
 
 The possession is marked as such:
 
@@ -146,6 +160,7 @@ Other verb forms are
  * __+Nec	__ = Necessive infinitive
  * __+Fut__ = Future participle
  * __+Neg	__ = Negative participle
+ * __+Imprf	__ = Imperfective (?) -- XXX check this
  * __+Act	__ = Active
  * __+Pass	__ = Passive
 
@@ -211,6 +226,7 @@ here and there in the inflection pattern.
  * __+Hom3__ = Third pattern (if it should exist + even more?)
  * __+Hom4	__ = 
  * __+Hom5	__ = 
+ * __+Hom6	__ = 
 
 !Usage tags
 
@@ -526,6 +542,8 @@ And following triggers to control variation
  * __Z2__ = 
  * %- 
 
+
+
 !!Flag diacritics
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
@@ -553,6 +571,10 @@ these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
  | @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
  | @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
+
+
+
+
 
 
 
