@@ -88,7 +88,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Америка</l>
      <stg>
        <st Contlex="PROP-PLC_">Аме•рик%{аы%}</st>
-       <st Contlex="PROP-PLC_" status="Orth/Err">Америк%{еы%}</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Америк%{еы%}</st>
      </stg> <stress>Аме•рика</stress>
    </lg>
    <mg> <defNative/>
@@ -160,7 +160,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Аргентина</l>
      <stg>
        <st Contlex="PROP-PLC_">Аргенти•н%{аы%}</st>
-       <st Contlex="PROP-PLC_" status="Orth/Err">Аргентин%{еы%}</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Аргентин%{еы%}</st>
      </stg> <stress>Аргенти•на</stress>
    </lg>
    <mg> <defNative/>
@@ -197,7 +197,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Атлантика</l>
      <stg>
        <st Contlex="PROP-PLC_">Атла•нтик%{аы%}</st>
-       <st Contlex="PROP-PLC_" status="Orth/Err">Атлантик%{еы%}</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Атлантик%{еы%}</st>
      </stg> <stress>Атла•нтика</stress>
    </lg>
    <mg> <defNative/>
@@ -305,7 +305,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Африка</l>
      <stg>
        <st Contlex="PROP-PLC_">А•фрик%{аы%}</st>
-       <st Contlex="PROP-PLC_" status="Orth/Err">Африк%{еы%}</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Африк%{еы%}</st>
      </stg> <stress>А•фрика</stress>
    </lg>
    <mg> <defNative/>
@@ -395,7 +395,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Бирма</l>
      <stg>
        <st Contlex="PROP-PLC_">Би•рм%{аы%}</st>
-       <st Contlex="PROP-PLC_" status="Orth/Err">Би•рм%{еы%}</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Би•рм%{еы%}</st>
      </stg> <stress>Би•рма</stress>
    </lg>
    <mg> <defNative/>
@@ -580,7 +580,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Варшава</l>
      <stg>
        <st Contlex="PROP-PLC_">Варша•в%{аы%}</st>
-       <st Contlex="PROP-PLC_" status="Orth/Err">Варша•в%{еы%}</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Варша•в%{еы%}</st>
      </stg> <stress>Варша•ва</stress>
    </lg>
    <mg> <defNative/>
@@ -630,7 +630,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Вена</l>
      <stg>
        <st Contlex="PROP-PLC_">Ве•н%{аы%}</st>
-       <st Contlex="PROP-PLC_" status="Orth/Err">Ве•н%{еы%}</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Ве•н%{еы%}</st>
      </stg> <stress>Ве•на</stress>
    </lg>
    <mg> <defNative/>
@@ -909,7 +909,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Европа</l>
      <stg>
        <st Contlex="PROP-PLC_">Евро•п%{аы%}</st>
-       <st Contlex="PROP-PLC_" status="Orth/Err">Евро•п%{еы%}</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Евро•п%{еы%}</st>
      </stg> <stress>Евро•па</stress>
    </lg>
    <mg> <defNative/>
@@ -1353,7 +1353,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Куба</l>
      <stg>
        <st Contlex="PROP-PLC_">Ку•б%{аы%}</st>
-       <st Contlex="PROP-PLC_" status="Orth/Err">Ку•б%{оы%}</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Ку•б%{оы%}</st>
      </stg> <stress>Ку•ба</stress>
    </lg>
    <mg> <defNative/>
@@ -1827,7 +1827,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Польша</l>
      <stg>
        <st Contlex="PROP-PLC_">По•льш%{аы%}</st>
-       <st Contlex="PROP-PLC_" status="Orth/Err">По•льш%{оы%}</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">По•льш%{оы%}</st>
      </stg> <stress>По•льша</stress>
    </lg>
    <mg> <defNative/>
@@ -1846,7 +1846,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Прибалтика</l>
      <stg>
        <st Contlex="PROP-PLC_">Приба•лтик%{аы%}</st>
-       <st Contlex="PROP-PLC_" status="Orth/Err">Приба•лтик%{еы%}</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Приба•лтик%{еы%}</st>
      </stg> <stress>Приба•лтика</stress>
    </lg>
    <mg> <defNative/>
@@ -1970,7 +1970,7 @@
      <l pos="N" sem_type="Plc" type="Prop">Рига</l>
      <stg>
        <st Contlex="PROP-PLC_">Ри•г%{аы%}</st>
-       <st Contlex="PROP-PLC_" status="Orth/Err">Ри•г%{еы%}</st>
+       <st Contlex="PROP-PLC_" status="Err/Orth">Ри•г%{еы%}</st>
      </stg> <stress>Ри•га</stress>
    </lg>
    <mg> <defNative/>

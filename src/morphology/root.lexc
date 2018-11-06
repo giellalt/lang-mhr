@@ -54,6 +54,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Num    !!≈ * __@CODE@__ = numerals
 +Descr	!!≈ * __@CODE@__ = descriptive ideophones
 
+
 !! !POS subtags
 !! The parts of speech are further split up into:
 +Po	    !!≈ * __@CODE@__ = postpositions
@@ -74,6 +75,15 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Aux       !!≈ * __@CODE@__ = Auxiliary verb
 +Depend   !!≈ * __@CODE@__ = ( pair verbs that do not occur independently get this marker.)
 
+
+!! Have a look at these:
+
++Foc/Poss   !!≈ * __@CODE@__ = 
++Prf      !!≈ * __@CODE@__ = perfective
++Arab     !!≈ * __@CODE@__ = arabic numerals
++Qnt     !!≈ * __@CODE@__ = quantifiers
++Rom     !!≈ * __@CODE@__ = roman numerals
++Weak     !!≈ * __@CODE@__ = weak (?) form 
 
 
 !! The nominals are inflected in the following numbers
@@ -96,7 +106,9 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Cmpr 	   !!≈ * __@CODE@__ = comparative case
 +Abe	   !!≈ * __@CODE@__ = abessive
 +Voc	   !!≈ * __@CODE@__ = vocative
-+Attr
++Attr	   !!≈ * __@CODE@__ = attributive form
++Instr 	   !!≈ * __@CODE@__ =
+
 
 !! The possession is marked as such:
 
@@ -166,7 +178,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 !+Prf	          !!≈ * __@CODE@__ = Perfective participle
 +Fut          !!≈ * __@CODE@__ = Future participle
 +Neg	          !!≈ * __@CODE@__ = Negative participle
-!+Imprf	          !!≈ * __@CODE@__ = Imperfective (?)
++Imprf	          !!≈ * __@CODE@__ = Imperfective (?) -- XXX check this
 +Act	          !!≈ * __@CODE@__ = Active
 +Pass	          !!≈ * __@CODE@__ = Passive
 
@@ -234,6 +246,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Hom3     !!≈ * __@CODE@__ = Third pattern (if it should exist + even more?)
 +Hom4	  !!≈ * __@CODE@__ = 
 +Hom5	  !!≈ * __@CODE@__ = 
++Hom6	  !!≈ * __@CODE@__ = 
 
 !! !Usage tags
 
@@ -562,6 +575,11 @@ Z2      !!≈ * __@CODE@__ =
 %-      !!≈ * @CODE@ 
 
 +Cmp
++Cmp/Hyph
++Cmp/SoftHyph
++Cmp/SplitR
+
+
 !! !!Flag diacritics
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics - only allow compounds
@@ -589,6 +607,13 @@ Z2      !!≈ * __@CODE@__ =
 !! given the proper use of these flags.
  @U.Cap.Obl@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
  @U.Cap.Opt@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
+
+@C.NeedsVowRed@
+@U.NeedsVowRed.OFF@
+@U.NeedsVowRed.ON@
+
+
+
 
 
 
