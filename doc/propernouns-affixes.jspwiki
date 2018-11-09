@@ -7,11 +7,15 @@ nouns, but with a colon (':') as separator. (???)
 
 
  * LEXICON PROP_  
- *  +N+Prop: N-ava_01 ;  decline like common nouns
-  *  +N+Prop: ENDLEX ;  in attributive position
+ *  : N-ava_01 ;  decline like common nouns
+  *  : ENDLEX ;  in attributive position ?SHOULD THIS HAVE an +Attr tag?
 
  * LEXICON PROP-PLC_  
+ *  : N-ava_01 ;  decline like common nouns
+
+ * LEXICON LEXC_PROP-PLC_  
  *  +N+Prop+Sem/Plc: N-ava_01 ;  decline like common nouns
+
 
 !!Male given name for deriving patronyms 
 
@@ -97,6 +101,8 @@ Check whether +Orth/Colloq is orthographically wrong
 
  * LEXICON PROP_KUDO_MAL 
 
+ * LEXICON LEXC_PROP_KUDO_MAL 
+
 
 
  * LEXICON PROP_OSH_PATRMAL 
@@ -118,6 +124,8 @@ Check whether +Orth/Colloq is orthographically wrong
 
 
  * LEXICON PROP_KUDO_FEM 
+
+ * LEXICON LEXC_PROP_KUDO_FEM 
 
 
 PLACE NAMES FROM TEMPLATE 

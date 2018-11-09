@@ -15,35 +15,35 @@
 
 
 LEXICON N_  !!= * @CODE@ redirects to N-ava_01
- +N: N-ava_01 ; 
- +N+Der/Priv:%>дымЫ2 A_ ;   ! вӱр 'blood' > вӱрдымӧ 'bloodless' - Privative derivation
- +N+Der/Poss:%>А2н A_ ;     ! вӱр 'blood' > вӱран 'bloody' - Possessive derivation
- +N+Der/Rel:%>Ы1%>сЫ2 A_ ;    ! вӱр 'blood' > вӱрысӧ 'of/in blood' - Relational derivation
- +N+Der/Rel+Err/Orth:%>сЫ2 A_ ;    ! Relational derivation with missing ы, i.e. вӱрсӧ - depreciated
- +N+Der/Pur:%>лык A_ ;      ! вӱр 'blood' > вӱрлык 'for blood' - Purposive derivation
- +N+LocPl+Der/Rel:%>лас%{еы%} A_ ; ! эл 'land' > элласе 'of/in lands' - Plur + Relational derivation
+ : N-ava_01 ; 
+ +Der/Priv:%>дымЫ2 A_ ;   ! вӱр 'blood' > вӱрдымӧ 'bloodless' - Privative derivation
+ +Der/Poss:%>А2н A_ ;     ! вӱр 'blood' > вӱран 'bloody' - Possessive derivation
+ +Der/Rel:%>Ы1%>сЫ2 A_ ;    ! вӱр 'blood' > вӱрысӧ 'of/in blood' - Relational derivation
+ +Der/Rel+Err/Orth:%>сЫ2 A_ ;    ! Relational derivation with missing ы, i.e. вӱрсӧ - depreciated
+ +Der/Pur:%>лык A_ ;      ! вӱр 'blood' > вӱрлык 'for blood' - Purposive derivation
+ +LocPl+Der/Rel:%>лас%{еы%} A_ ; ! эл 'land' > элласе 'of/in lands' - Plur + Relational derivation
 
 LEXICON N_SINGLE-SYLLABLE-U
 ! лу ну пу ру ту шу кӱ ю у
-+N+Sg+Gen+Err/Orth:%>ын K ;
-+N+Sg+Acc+Err/Orth:%>ым K ;
-+N+Sg+Nom+PxSg3+Err/Orth:%>ыжЫ2 K ;
-+N+Sg+Nom+PxPl3+Err/Orth:%>ышт K ;
-+N+Sg+Ine+Err/Orth:%>ыштЫ2 K ;
-+N+Sg+Ine+PxSg1+So/CP+Err/Orth:%>ыштем K ;
-+N+Sg+Ine+PxSg2+So/CP+Err/Orth:%>ыштет K ;
-+N+Sg+Ine+PxSg3+So/CP+Err/Orth:%>ыштыжЫ2 K ;
-+N+Sg+Ine+PxPl1+So/CP+Err/Orth:%>ыштна K ;
-+N+Sg+Ine+PxPl2+So/CP+Err/Orth:%>ыштда K ;
-+N+Sg+Ine+PxPl3+So/CP+Err/Orth:%>ыштышт K ;
++Sg+Gen+Err/Orth:%>ын K ;
++Sg+Acc+Err/Orth:%>ым K ;
++Sg+Nom+PxSg3+Err/Orth:%>ыжЫ2 K ;
++Sg+Nom+PxPl3+Err/Orth:%>ышт K ;
++Sg+Ine+Err/Orth:%>ыштЫ2 K ;
++Sg+Ine+PxSg1+So/CP+Err/Orth:%>ыштем K ;
++Sg+Ine+PxSg2+So/CP+Err/Orth:%>ыштет K ;
++Sg+Ine+PxSg3+So/CP+Err/Orth:%>ыштыжЫ2 K ;
++Sg+Ine+PxPl1+So/CP+Err/Orth:%>ыштна K ;
++Sg+Ine+PxPl2+So/CP+Err/Orth:%>ыштда K ;
++Sg+Ine+PxPl3+So/CP+Err/Orth:%>ыштышт K ;
 
 LEXICON N-continuation  !!= * @CODE@ comes from Proper nouns
                N-ava_01      ; 
 
 !LEXICON N-ava !!= * @CODE@ to N-ava_01 and vocatives
-!            +N:     N-ava_01 ;
-!        +N+Voc:%>й  ENDLEX        ;
-!  +N+Voc+PxSg1:%>ем ENDLEX        ;
+!            :     N-ava_01 ;
+!        +Voc:%>й  ENDLEX        ;
+!  +Voc+PxSg1:%>ем ENDLEX        ;
 
 LEXICON N-ava_01 !!= * @CODE@ obl because of pronouns
   N-SG-NOM       ;
@@ -224,83 +224,83 @@ LEXICON   N-ava_01_obl_with-hyphens !!= * @CODE@ to obl only, also ООО-вла
   N-PL-PxPl3-ABE ;
 
 LEXICON N-OLD-ORTH-SG-NOM_  !!= * @CODE@
-+Err/Orth+N+Sg+Nom: ENDLEX ;
-+Err/Orth+N: ENDLEX ;
-+Err/Orth+N: N-PL-NOM ;
-+Err/Orth+N: N-PL-GEN ;
-+Err/Orth+N: N-PL-DAT ;
-+Err/Orth+N: N-PL-ACC ;
-+Err/Orth+N: N-PL-CMPR ;
-+Err/Orth+N: N-PL-COM ;
-+Err/Orth+N: N-PL-INE ;
-+Err/Orth+N: N-PL-ILL ;
-+Err/Orth+N: N-PL-LAT ;
-+Err/Orth+N: N-PL-ABE ;
-+Err/Orth+N: N-PL-PxSg1-NOM_NB-first ;
-+Err/Orth+N: N-PL-PxSg1-GEN_NB-first ;
-+Err/Orth+N: N-PL-PxSg1-DAT_NB-first ;
-+Err/Orth+N: N-PL-PxSg1-ACC_NB-first ;
-+Err/Orth+N: N-PL-PxSg1-CMPR_NB-first ;
-+Err/Orth+N: N-PL-PxSg1-COM_NB-first ;
-+Err/Orth+N: N-PL-PxSg1-INE_NB-first ;
-+Err/Orth+N: N-PL-PxSg1-ILL_NB-first ;
-+Err/Orth+N: N-PL-PxSg1-LAT_NB-first ;
-+Err/Orth+N: N-PL-PxSg1-ABE_NB-first ;
++Err/Orth+Sg+Nom: ENDLEX ;
++Err/Orth: ENDLEX ;
++Err/Orth: N-PL-NOM ;
++Err/Orth: N-PL-GEN ;
++Err/Orth: N-PL-DAT ;
++Err/Orth: N-PL-ACC ;
++Err/Orth: N-PL-CMPR ;
++Err/Orth: N-PL-COM ;
++Err/Orth: N-PL-INE ;
++Err/Orth: N-PL-ILL ;
++Err/Orth: N-PL-LAT ;
++Err/Orth: N-PL-ABE ;
++Err/Orth: N-PL-PxSg1-NOM_NB-first ;
++Err/Orth: N-PL-PxSg1-GEN_NB-first ;
++Err/Orth: N-PL-PxSg1-DAT_NB-first ;
++Err/Orth: N-PL-PxSg1-ACC_NB-first ;
++Err/Orth: N-PL-PxSg1-CMPR_NB-first ;
++Err/Orth: N-PL-PxSg1-COM_NB-first ;
++Err/Orth: N-PL-PxSg1-INE_NB-first ;
++Err/Orth: N-PL-PxSg1-ILL_NB-first ;
++Err/Orth: N-PL-PxSg1-LAT_NB-first ;
++Err/Orth: N-PL-PxSg1-ABE_NB-first ;
 
-+Err/Orth+N: N-PL-PxSg2-NOM_NB-first ;
-+Err/Orth+N: N-PL-PxSg2-GEN_NB-first ;
-+Err/Orth+N: N-PL-PxSg2-DAT_NB-first ;
-+Err/Orth+N: N-PL-PxSg2-ACC_NB-first ;
-+Err/Orth+N: N-PL-PxSg2-CMPR_NB-first ;
-+Err/Orth+N: N-PL-PxSg2-COM_NB-first ;
-+Err/Orth+N: N-PL-PxSg2-INE_NB-first ;
-+Err/Orth+N: N-PL-PxSg2-ILL_NB-first ;
-+Err/Orth+N: N-PL-PxSg2-LAT_NB-first ;
-+Err/Orth+N: N-PL-PxSg2-ABE_NB-first ;
++Err/Orth: N-PL-PxSg2-NOM_NB-first ;
++Err/Orth: N-PL-PxSg2-GEN_NB-first ;
++Err/Orth: N-PL-PxSg2-DAT_NB-first ;
++Err/Orth: N-PL-PxSg2-ACC_NB-first ;
++Err/Orth: N-PL-PxSg2-CMPR_NB-first ;
++Err/Orth: N-PL-PxSg2-COM_NB-first ;
++Err/Orth: N-PL-PxSg2-INE_NB-first ;
++Err/Orth: N-PL-PxSg2-ILL_NB-first ;
++Err/Orth: N-PL-PxSg2-LAT_NB-first ;
++Err/Orth: N-PL-PxSg2-ABE_NB-first ;
 
-+Err/Orth+N: N-PL-PxSg3-NOM_NB-first ;
-+Err/Orth+N: N-PL-PxSg3-GEN_NB-first ;
-+Err/Orth+N: N-PL-PxSg3-DAT_NB-first ;
-+Err/Orth+N: N-PL-PxSg3-ACC_NB-first ;
-+Err/Orth+N: N-PL-PxSg3-CMPR_NB-first ;
-+Err/Orth+N: N-PL-PxSg3-COM_NB-first ;
-+Err/Orth+N: N-PL-PxSg3-INE_NB-first ;
-+Err/Orth+N: N-PL-PxSg3-ILL_NB-first ;
-+Err/Orth+N: N-PL-PxSg3-LAT_NB-first ;
-+Err/Orth+N: N-PL-PxSg3-ABE_NB-first ;
++Err/Orth: N-PL-PxSg3-NOM_NB-first ;
++Err/Orth: N-PL-PxSg3-GEN_NB-first ;
++Err/Orth: N-PL-PxSg3-DAT_NB-first ;
++Err/Orth: N-PL-PxSg3-ACC_NB-first ;
++Err/Orth: N-PL-PxSg3-CMPR_NB-first ;
++Err/Orth: N-PL-PxSg3-COM_NB-first ;
++Err/Orth: N-PL-PxSg3-INE_NB-first ;
++Err/Orth: N-PL-PxSg3-ILL_NB-first ;
++Err/Orth: N-PL-PxSg3-LAT_NB-first ;
++Err/Orth: N-PL-PxSg3-ABE_NB-first ;
 
-+Err/Orth+N: N-PL-PxPl1-NOM_NB-first ;
-+Err/Orth+N: N-PL-PxPl1-GEN_NB-first ;
-+Err/Orth+N: N-PL-PxPl1-DAT_NB-first ;
-+Err/Orth+N: N-PL-PxPl1-ACC_NB-first ;
-+Err/Orth+N: N-PL-PxPl1-CMPR_NB-first ;
-+Err/Orth+N: N-PL-PxPl1-COM_NB-first ;
-+Err/Orth+N: N-PL-PxPl1-INE_NB-first ;
-+Err/Orth+N: N-PL-PxPl1-ILL_NB-first ;
-+Err/Orth+N: N-PL-PxPl1-LAT_NB-first ;
-+Err/Orth+N: N-PL-PxPl1-ABE_NB-first ;
++Err/Orth: N-PL-PxPl1-NOM_NB-first ;
++Err/Orth: N-PL-PxPl1-GEN_NB-first ;
++Err/Orth: N-PL-PxPl1-DAT_NB-first ;
++Err/Orth: N-PL-PxPl1-ACC_NB-first ;
++Err/Orth: N-PL-PxPl1-CMPR_NB-first ;
++Err/Orth: N-PL-PxPl1-COM_NB-first ;
++Err/Orth: N-PL-PxPl1-INE_NB-first ;
++Err/Orth: N-PL-PxPl1-ILL_NB-first ;
++Err/Orth: N-PL-PxPl1-LAT_NB-first ;
++Err/Orth: N-PL-PxPl1-ABE_NB-first ;
 
-+Err/Orth+N: N-PL-PxPl2-NOM_NB-first ;
-+Err/Orth+N: N-PL-PxPl2-GEN_NB-first ;
-+Err/Orth+N: N-PL-PxPl2-DAT_NB-first ;
-+Err/Orth+N: N-PL-PxPl2-ACC_NB-first ;
-+Err/Orth+N: N-PL-PxPl2-CMPR_NB-first ;
-+Err/Orth+N: N-PL-PxPl2-COM_NB-first ;
-+Err/Orth+N: N-PL-PxPl2-INE_NB-first ;
-+Err/Orth+N: N-PL-PxPl2-ILL_NB-first ;
-+Err/Orth+N: N-PL-PxPl2-LAT_NB-first ;
-+Err/Orth+N: N-PL-PxPl2-ABE_NB-first ;
++Err/Orth: N-PL-PxPl2-NOM_NB-first ;
++Err/Orth: N-PL-PxPl2-GEN_NB-first ;
++Err/Orth: N-PL-PxPl2-DAT_NB-first ;
++Err/Orth: N-PL-PxPl2-ACC_NB-first ;
++Err/Orth: N-PL-PxPl2-CMPR_NB-first ;
++Err/Orth: N-PL-PxPl2-COM_NB-first ;
++Err/Orth: N-PL-PxPl2-INE_NB-first ;
++Err/Orth: N-PL-PxPl2-ILL_NB-first ;
++Err/Orth: N-PL-PxPl2-LAT_NB-first ;
++Err/Orth: N-PL-PxPl2-ABE_NB-first ;
 
-+Err/Orth+N: N-PL-PxPl3-NOM_NB-first ;
-+Err/Orth+N: N-PL-PxPl3-GEN_NB-first ;
-+Err/Orth+N: N-PL-PxPl3-DAT_NB-first ;
-+Err/Orth+N: N-PL-PxPl3-ACC_NB-first ;
-+Err/Orth+N: N-PL-PxPl3-CMPR_NB-first ;
-+Err/Orth+N: N-PL-PxPl3-COM_NB-first ;
-+Err/Orth+N: N-PL-PxPl3-INE_NB-first ;
-+Err/Orth+N: N-PL-PxPl3-ILL_NB-first ;
-+Err/Orth+N: N-PL-PxPl3-LAT_NB-first ;
-+Err/Orth+N: N-PL-PxPl3-ABE_NB-first ;
++Err/Orth: N-PL-PxPl3-NOM_NB-first ;
++Err/Orth: N-PL-PxPl3-GEN_NB-first ;
++Err/Orth: N-PL-PxPl3-DAT_NB-first ;
++Err/Orth: N-PL-PxPl3-ACC_NB-first ;
++Err/Orth: N-PL-PxPl3-CMPR_NB-first ;
++Err/Orth: N-PL-PxPl3-COM_NB-first ;
++Err/Orth: N-PL-PxPl3-INE_NB-first ;
++Err/Orth: N-PL-PxPl3-ILL_NB-first ;
++Err/Orth: N-PL-PxPl3-LAT_NB-first ;
++Err/Orth: N-PL-PxPl3-ABE_NB-first ;
 
 
 
@@ -1377,8 +1377,8 @@ LEXICON N-PL-PxPl3-ABE_NB-first !!= * @CODE@
 ! +Lat:%>еш     K ; ! Check this again
 ! +Abe:%>де     K ;
 
-! 2012-10-26 Jaska!+N: N_NB_Nb-Px-Cx ;
-! 2012-10-26 Jaska!+N: N_Px_Px-Nb-Cx ;
+! 2012-10-26 Jaska!: N_NB_Nb-Px-Cx ;
+! 2012-10-26 Jaska!: N_Px_Px-Nb-Cx ;
 
 !LEXICON N_NB_Nb-Px-Cx
 !      +Sg:        N_Cx_Nb-Px-Cx ;

@@ -5,27 +5,27 @@
 
 
 LEXICON A-ATTR_ ! йошкарге:йошкар
-+A+Attr: # ;
++Attr: # ;
 
 !LEXICON A-GEN-ATTR_ ! ава >> Sg_Gen аван:аван
-!+A+Attr: # ;
+!+Attr: # ;
 
 LEXICON A_OLD-ORTH
-+A: #; !йӧрыктымӧ:йӧрыктым%{еы%}
+: #; !йӧрыктымӧ:йӧрыктым%{еы%}
 
 
 LEXICON A_  !! LEXICON A underscore
-         +A:      K  ;
-    +A+Comp:%>рак K  ;
-    +A+Comp+Instr:%>ракын K  ;
-    +A+Comp+Instr:%>Ы1нрак K ;
- +A+Der/MWN:      N_ ;
+         :      K  ;
+    +Comp:%>рак K  ;
+    +Comp+Instr:%>ракын K  ;
+    +Comp+Instr:%>Ы1нрак K ;
+ +Der/MWN+N:      N_ ;
 
 
 LEXICON A-a/e  !!= * @CODE@
-         +A:      K  ; ! missing comparative
-    +A+Comp:%>рак #  ;
- +A+Der/MWN:     N_ ;
+         :      K  ; ! missing comparative
+    +Comp:%>рак #  ;
+ +Der/MWN+N:     N_ ;
 
 
 
