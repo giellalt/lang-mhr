@@ -9,18 +9,18 @@ LEXICON pronouns_not_from_xml !!= * @CODE@
 тиде+Pron: TIDE ;	
 шке+Pron+Refl: SHKE ;
 кажне+Pron+Indef: KAZHNE ;
-кеч-мо:кеч-мо PRON-INDEF ;
-кеч-кӧ:кеч-кӧ PRON-INDEF ;
-нимо:нимо PRON-INDEF ;
-нигӧ:нигӧ PRON-INDEF ;
-ала-мо:ала-мо PRON-INDEF ;
-ала-кӧ:ала-кӧ PRON-INDEF ;
-кеч-мо:кеч-мо PRON-INDEF ;
-кеч-кӧ:кеч-кӧ PRON-INDEF ;
-керек-мо:керек-мо PRON-INDEF ;
-керек-кӧ:керек-кӧ PRON-INDEF ;
-иктаж-мо:иктаж-мо PRON-INDEF ;
-иктаж-кӧ:иктаж-кӧ PRON-INDEF ;
+кеч-мо+Pron:кеч-мо PRON-INDEF ;
+кеч-кӧ+Pron:кеч-кӧ PRON-INDEF ;
+нимо+Pron:нимо PRON-INDEF ;
+нигӧ+Pron:нигӧ PRON-INDEF ;
+ала-мо+Pron:ала-мо PRON-INDEF ;
+ала-кӧ+Pron:ала-кӧ PRON-INDEF ;
+кеч-мо+Pron:кеч-мо PRON-INDEF ;
+кеч-кӧ+Pron:кеч-кӧ PRON-INDEF ;
+керек-мо+Pron:керек-мо PRON-INDEF ;
+керек-кӧ+Pron:керек-кӧ PRON-INDEF ;
+иктаж-мо+Pron:иктаж-мо PRON-INDEF ;
+иктаж-кӧ+Pron:иктаж-кӧ PRON-INDEF ;
 
 мо+Pron+Interr+Sg+PxSg2:моч N_KIN_SPECIAL ;
 нимо+Pron+Neg+Sg+PxSg2:нимоч N_KIN_SPECIAL ;
@@ -152,17 +152,21 @@ LEXICON SHKE !!= * @CODE@
 !! !!Pronoun lexica from xml
 
 LEXICON Pimp  !!= * @CODE@
-+Pron: K ;
+!+Pron: K ;
+ K ;
 
 LEXICON Pmuu !!= * @CODE@
 +Interj: K ; ! Several Pmuu do not belong here
 
 LEXICON PRON-IR_ !!= * @CODE@
-+Pron+Interr: K ;
-+Pron+Rel: K ;
++Interr: K ;
++Rel: K ;
+!+Pron+Interr: K ;
+!+Pron+Rel: K ;
 
 LEXICON PRON_ !!= * @CODE@
-+Pron: K ;
+: K ;
+!+Pron: K ;
 
 LEXICON PronRes !!= * @CODE@
 +Pron+Recipr+Acc:%>м K_at ;
@@ -192,32 +196,36 @@ LEXICON PronRes !!= * @CODE@
 
 
 LEXICON PronI !!= * @CODE@
-+Pron: # ;
+: # ;
+!+Pron: # ;
 
 LEXICON PronIR !!= * @CODE@
-+Pron+Interr: # ;
++Interr: # ;
+!+Pron+Interr: # ;
 
 LEXICON PRON-INTERR/REL_
-+Pron+Interr: N-ava_01 ;
-+Pron+Rel: N-ava_01 ;
++Interr: N-ava_01 ;
++Rel: N-ava_01 ;
+!+Pron+Interr: N-ava_01 ;
+!+Pron+Rel: N-ava_01 ;
 
 
 LEXICON PronInd !!= * @CODE@
 +Pron+Ind: K_at  ;
 
 LEXICON PRON-INDEF !!= * @CODE@
-+Pron+Indef+Acc:%>Ы1м K_at ;
-+Pron+Indef+Dat:%>лан K_at ;
-+Pron+Indef+Gen:%>Ы1н K_at ;
-+Pron+Indef+Nom+PxSg3+So/PC:%>ж ENDLEX ;
-+Pron+Indef+Nom+PxSg3+So/PC:%>ыжЫ2 K_at ;
-+Pron+Indef+Acc+PxSg3+So/PC:%>ыж%>ым K_at ;
-+Pron+Indef+Acc+PxSg3+So/PC:%>жы%>м K_at ;
-+Pron+Indef+Dat+PxSg3+So/PC:%>ыж%>лан K_at ;
-+Pron+Indef+Dat+PxSg3+So/PC:%>ж%>лан K_at ;
-+Pron+Indef+Gen+PxSg3+So/PC:%>ыж%>ын K_at ;
-+Pron+Indef+Gen+PxSg3+So/PC:%>жы%>н K_at ;
-+Pron+Indef+Nom: K_at ;
++Indef+Acc:%>Ы1м K_at ;
++Indef+Dat:%>лан K_at ;
++Indef+Gen:%>Ы1н K_at ;
++Indef+Nom+PxSg3+So/PC:%>ж ENDLEX ;
++Indef+Nom+PxSg3+So/PC:%>ыжЫ2 K_at ;
++Indef+Acc+PxSg3+So/PC:%>ыж%>ым K_at ;
++Indef+Acc+PxSg3+So/PC:%>жы%>м K_at ;
++Indef+Dat+PxSg3+So/PC:%>ыж%>лан K_at ;
++Indef+Dat+PxSg3+So/PC:%>ж%>лан K_at ;
++Indef+Gen+PxSg3+So/PC:%>ыж%>ын K_at ;
++Indef+Gen+PxSg3+So/PC:%>жы%>н K_at ;
++Indef+Nom: K_at ;
 
 LEXICON KAZHNE !!= * @CODE@
 +Nom:кажн%{еы%} K_at ;

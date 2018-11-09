@@ -1,20 +1,20 @@
 LEXICON ADV_ !!= * @CODE@ adverbs
-+Adv+Comp:%>рак K  ;
-+Adv+Weak:%>ла K  ;
-+Adv: K ;
++Comp:%>рак K  ;
++Weak:%>ла K  ;
+: K ;
 
 !LEXICON ADV2_  ! Adverbs that take PX
-!+Adv+PxSg1:%>Е2м   K ;
-!+Adv+PxSg2:%>Е2т K ;
+!+PxSg1:%>Е2м   K ;
+!+PxSg2:%>Е2т K ;
 
-!+Adv+PxSg3:%>ыж K ; !NB_PX_CX Only after ш see twolc
-!+Adv+PxSg3:%>ыжЫ2 K ; !NB_PX_CX Only after ш see twolc
-!+Adv+PxSg3:%>жЫ2 K ; !NB_PX_CX
-!+Adv+PxSg3:%>ж K ; !NB_PX_CX
+!+PxSg3:%>ыж K ; !NB_PX_CX Only after ш see twolc
+!+PxSg3:%>ыжЫ2 K ; !NB_PX_CX Only after ш see twolc
+!+PxSg3:%>жЫ2 K ; !NB_PX_CX
+!+PxSg3:%>ж K ; !NB_PX_CX
 
-!+Adv+PxPl1:%>на K ;
-!+Adv+PxPl2:%>да K ;
-!+Adv+PxPl3:%>Ы1шт K ;
-!+Adv+Comp:%>рак K  ;
-!+Adv+Weak:%>ла K  ;
-!+Adv: K ;
+!+PxPl1:%>на K ;
+!+PxPl2:%>да K ;
+!+PxPl3:%>Ы1шт K ;
+!+Comp:%>рак K  ;
+!+Weak:%>ла K  ;
+!: K ;

@@ -773,16 +773,34 @@
 
       <stg>
         <st Contlex="PronInd">иктаж-мо</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
+     </stg> <stress>икта•ж-мо</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pron">anything, something; some, some kind of, some sort of</t>
+     </tg>
       <tg xml:lang="fin">
         <t>jokin, jotkin, jotakin</t>
       </tg>
-    </mg>
+     <tg xml:lang="rus">
+ <pos>межд.</pos> <posType>неопр.</posType>
+       <t pos="Pron">что-нибудь</t>
+       <t pos="Pron">что-либо</t>
+       <t pos="Pron">какой-нибудь предмет, явление, вещь <com type="abbrAux">и т.д.</com> (безразлично какой)</t>
+     </tg>
+     <xg type="mwe">
+       <x>Иктаж-мом нал</x>
+       <xt xml:lang="rus">возьми что-нибудь</xt>
+     </xg>
+     <xg type="mwe">
+       <x>иктаж-мо дене ончыкто</x>
+       <xt xml:lang="rus">покажи чем-нибудь.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="И. Ломберский.">Ну, ынде иктаж-мом йодыт гын, пытышым, шонем, вет мый немычла ойлен ом мошто.</x>
+       <xt xml:lang="rus">Ну, думаю, если спросят о чём-нибудь, то я пропал: ведь я не умею говорить по-немецки.</xt>
+     </xg>
+   </mg>
   </e>
 
   <e>

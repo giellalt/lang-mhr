@@ -10,12 +10,17 @@ LEXICON PROP-OLD-ORTH-SG-NOM_  !!= * @CODE@
 
 
 LEXICON PROP_  !!= * @CODE@
- +N+Prop: N-ava_01 ; !!= * @CODE@ decline like common nouns
- +N+Prop: ENDLEX ; !!=  * @CODE@ in attributive position
+ : N-ava_01 ; !!= * @CODE@ decline like common nouns
+ : ENDLEX ; !!=  * @CODE@ in attributive position ?SHOULD THIS HAVE an +Attr tag?
  
 LEXICON PROP-PLC_  !!= * @CODE@
+ : N-ava_01 ; !!= * @CODE@ decline like common nouns
+ +Der/Rel:%>Ы1%>сЫ2 A_ ;
+
+LEXICON LEXC_PROP-PLC_  !!= * @CODE@
  +N+Prop+Sem/Plc: N-ava_01 ; !!= * @CODE@ decline like common nouns
  +N+Prop+Sem/Plc+Der/Rel:%>Ы1%>сЫ2 A_ ;
+
 
 !! !!Male given name for deriving patronyms 
 
@@ -181,6 +186,10 @@ LEXICON PROP_KUDO_MAL !!= * @CODE@
  +N+Prop+Sem/Mal: N-ava_01 ;
  +N+Prop+Sem/Mal: ENDLEX ;
 
+LEXICON LEXC_PROP_KUDO_MAL !!= * @CODE@
+ +N+Prop+Sem/Mal: N-ava_01 ;
+ +N+Prop+Sem/Mal: ENDLEX ;
+
 
 
 LEXICON PROP_OSH_PATRMAL !!= * @CODE@
@@ -220,6 +229,10 @@ LEXICON PROP_OSH_FEM !!= * @CODE@
 ! +N+Prop+Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_KUDO_FEM !!= * @CODE@
+ +N+Prop+Sem/Fem: N-ava_01 ;
+ +N+Prop+Sem/Fem: ENDLEX ;
+
+LEXICON LEXC_PROP_KUDO_FEM !!= * @CODE@
  +N+Prop+Sem/Fem: N-ava_01 ;
  +N+Prop+Sem/Fem: ENDLEX ;
 

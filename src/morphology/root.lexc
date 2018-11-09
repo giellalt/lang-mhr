@@ -665,10 +665,10 @@ LEXICON CONJ_ !!= * @CODE@ TODO: why +WORK? All CONJ_ should be identified as ei
 +CC+WORK: ENDLEX ;
 
 LEXICON CC_ !!= * @CODE@ conjunctinos
-+CC: ENDLEX ;
+: ENDLEX ;
 
 LEXICON CS_ !!= * @CODE@ subjunctions
-+CS: ENDLEX ;
+: ENDLEX ;
 
 LEXICON DESCR_
 +Interj+Descr: K ;
@@ -679,7 +679,7 @@ LEXICON AD-A !!= * @CODE@ also adverbs
 +Adv: ENDLEX ;
 
 LEXICON INTERJ_ !!= * @CODE@ interjections
-+Interj: ENDLEX ;
+: ENDLEX ;
 
 LEXICON Puh-a/e  !!= * @CODE@  XXX do not know
 N_ ;
@@ -688,7 +688,7 @@ LEXICON Puh  !!= * @CODE@  XXX do not know
 N_ ;
 
 LEXICON PCLE_ !!= * @CODE@ particles, check these
-+Pcle: ENDLEX ;
+: ENDLEX ;
 
 LEXICON X !!= * @CODE@ for N attributes
 +N+Attr: ENDLEX ;
