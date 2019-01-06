@@ -3368,6 +3368,49 @@
       </tg>
     </mg>
   </e>
+  <e>
+   <lg>
+     <l pos="Pron">моло</l>
+     <stg>
+       <st Contlex="PRON-INDEF">мо•л%{оы%}</st>
+     </stg> <stress>мо•ло</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pron">other</t>
+        <t pos="Pron">the rest</t>
+        <t pos="Pron">the others</t>
+        <t pos="Pron">something else</t>
+     </tg>
+      <tg xml:lang="fin">
+        <t pos="Pron">toinen</t>
+	<t pos="Pron">muu</t>
+        <t pos="Pron">loput</t>
+      </tg>
+     <tg type="head" xml:lang="rus">
+       <t pos="Pron">другой</t>
+        <t pos="Pron">иной</t>
+        <t pos="Pron">прочий</t>
+        <t pos="Pron">остальной</t>
+     </tg>
+     <xg type="mwe">
+       <x>Молыжым эрлалан кодаш</x>
+       <xt xml:lang="rus">остальное оставить на завтра</xt>
+     </xg>
+     <xg type="mwe">
+       <x>моло семын ок лий</x>
+       <xt xml:lang="rus">иначе нельзя.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Н. Арбан.">Кок теҥге кагаз окса, молыжо вӱргене ден ший.</x>
+       <xt xml:lang="rus">Бумажных денег два рубля, остальное медяки и серебро.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="А. Юзыкайн.">Япык мешак гыч киндым, шылым, ӱйым да молымат лукто.</x>
+       <xt xml:lang="rus">Япык из мешка достал хлеб, мясо, масло и прочее.</xt>
+     </xg>
+   </mg>
+</e>
 
   <e>
     <lg>
@@ -3383,9 +3426,6 @@
     <mg>
       <defNative/>
 
-      <tg xml:lang="fin">
-        <t>toinen, muu, loput</t>
-      </tg>
     </mg>
   </e>
 
