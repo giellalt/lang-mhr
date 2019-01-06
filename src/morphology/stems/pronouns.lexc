@@ -161,7 +161,8 @@ LEXICON pronouns
 молан-гынат+Pron:мола•н-гынат PRON_  "" ;
 молгунам+Pron:молгунам PRON_  "" ;
 молгунамсе+Pron:молгунамс%{еы%} PRON_  "" ;
-моло+Pron:мол%{оы%} PRON_  "toinen, muu, loput" ;
+моло+Pron:мо•л%{оы%} PRON-INDEF  "toinen" ;
+моло+Pron:мол%{оы%} PRON_  "" ;
 молыла+Pron:молыла PRON_  "" ;
 мом+Pron:мом PronIR  "mitä, minkä" ;
 мом-гынат+Pron:мом-гынат PronI  "jotakin, jonkin PronI" ;
