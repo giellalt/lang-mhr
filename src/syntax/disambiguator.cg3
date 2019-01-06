@@ -464,6 +464,10 @@ SELECT:Dem Dem IF (0 Dem)(1 N + Nom);
 #!! * __уке__
 SELECT:AdvUke Adv IF (0 ("уке"))(1 CLB OR EOS OR ("гын"));
 
+#!! !Conjunctions
+
+SELECT:GynatBeforeComma CS IF (0 ("гынат"))(1 COMMA);
+
 	
 #!! !Postpositions
 
@@ -487,7 +491,9 @@ REMOVE:PoNeedsGen Po IF (NOT -1 Pocase);
 SELECT:ijyn Adv IF (-1 A)(0 ("ийын"));
 	
 SELECT:vara Adv IF (-1 ("деч"))(0 ("вара"));
-	
+
+SELECT:vele Adv IF (0 ("веле")); # awiting examples for Prt1 Sg3 of велаш "pour IV"
+
 SELECT:modat ("мо") IF (0 ("молан"))(*0 DAT-V OR DAT-PO OR DAT-A BARRIER CLB) ;
 
 #!! * __molan__ awaiting rules for dative verbs subcategorising for mo Dat
@@ -496,7 +502,14 @@ REMOVE:molan ("мо") IF (0 ("молан")) ;
 
 REMOVE:AdvNotPcle Pcle IF (0 Adv)(1 V);
 
-REMOVE:PcleKillsAdv Adv IF (0 Pcle);
+REMOVE Pcle IF (-1 CC);
+## да тушто...
+
+# ынде
+
+#REMOVE:PcleKillsAdv Adv IF (0 Pcle);
+
+
 
 #!! !!Verbs
 #     =====
@@ -516,10 +529,15 @@ SELECT:GerNotFin Ger IF (1 Ind OR Inf) ;
 SELECT:GerNotFin2 Ger IF (1 CC)(2C Ger) ;
 
 #!!* __Conneg__ ConNeg if there is Neg to the left
-IFF:Conneg ConNeg IF (*-1 Neg BARRIER WORD - Pcle LINK NOT 0 ("улаш")) ; #JEREMY AND SASHA ADDED 28-06-2017
+IFF:Connega ConNeg IF (*-1 Neg BARRIER WORD - Pcle LINK NOT 0 ("улаш")) ; #JEREMY AND SASHA ADDED 28-06-2017
 
+#REMOVE:HardConneg ConNeg IF (NOT *-1 Neg);
+	
 #!!* __NegVerb__ if there is ConNeg to the right
 IFF:NegVerb Neg IF (*1 ConNeg BARRIER WORD - Pcle) ; #JEREMY AND SASHA MODIFIED 28-06-2017
+
+
+REMOVE:Conneg ConNeg IF (*-1 Neg BARRIER WORD - Pcle LINK NOT 0 ("улаш")) ; #JEREMY AND SASHA ADDED 28-06-2017
 
 #!! !First or third person
 
