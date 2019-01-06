@@ -1,0 +1,49 @@
+! ====================================== !
+! Orthographic converter for Meadow Mari !
+! ====================================== !
+
+! This program translates text written in the orthographies
+! of the 20s and 30s into modern orthography
+
+echo <<defining Cns and Vow...>>
+
+
+# а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
+# А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
+
+define Vow = [ а | е | и | э | я | о | у | ё | ю | ӧ | ӱ | А | Е | И | Э | Я | О | У | Ё | Ю | Ӧ | Ӱ ] ; 
+
+define Vow2 = [ а | э | у | А | Э | У ] ; 
+
+define Cns =  [ б | в | г | д | ж | з | й | к | л | м | н | ҥ | п | р | с | т | ф | х | ц | ч | ш | щ | 
+                Б | В | Г | Д | Ж | З | Й | К | Л | М | Н | Ҥ | П | Р | С | Т | Ф | Х | Ц | Ч | Ш | Щ ] ;
+   
+
+echo << Rules>>
+
+define CnsJV = й -> ъ й || Cns _ Vow2 ;  # пӧрйэҥ -> пӧръйэҥ
+
+define JE =  й э -> е , ь э -> е ; # пӧръйэҥ -> пӧръеҥ
+define JA =  й а -> я , ь а -> я ;
+define JU =  й у -> ю , ь у -> ю ;
+
+define CnsE = э -> е || Cns _ ;
+
+
+echo << Combining >>
+
+read regex [ CnsJV
+.o. JE 
+.o. JA 
+.o. JU 
+.o. CnsE ] ;
+
+# cd src/orthography/
+# xfst -e " source < oldorthography2norm.xfscript "
+# invert net
+# save o2n.fst
+# quit
+
+# Тӱньа ӱмбал шэмэр калыкын пагалымэ, йӧратымэ вуйлатышыжэ ВЛАДИМИР ИЛЬИЧ ЛЕНИН укэ лийэ.
+
+# пӧрйеҥ мутйарым ыштышйӧн
