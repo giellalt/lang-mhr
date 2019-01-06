@@ -31,6 +31,27 @@
      </xg>
    </mg>
 </e>
+
+<e>
+   <lg>
+     <l pos="Adp">веке</l>
+     <stg>
+       <st Contlex="PO_">век</st>
+       <st Contlex="PO_">ве•к%{еы%}</st>
+     </stg> <stress>ве•ке</stress>
+   </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t></t>
+      </tg>
+    </mg>
+  </e>
+
+
+
   <e>
     <lg>
       <l pos="Adp">улмаште</l>
@@ -348,6 +369,7 @@
       </tg>
     </mg>
   </e>
+
 
   <e>
     <lg>
