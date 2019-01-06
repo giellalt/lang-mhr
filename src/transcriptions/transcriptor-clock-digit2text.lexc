@@ -177,18 +177,18 @@ LEXICON OVER
  :cipahikanis% mîyâskam%  HOUR ;
 
 LEXICON HALFHOUR
-@U.TIME.1@:nîsosâp@U.TIME.1@          HALF ;           
-@U.TIME.2@:peyak@U.TIME.2@         HALF ;         
-@U.TIME.3@:nîso@U.TIME.3@          HALF ;          
-@U.TIME.4@:nisto@U.TIME.4@       HALF ;       
-@U.TIME.5@:newo@U.TIME.5@         HALF ;         
-@U.TIME.6@:nîyânan@U.TIME.6@         HALF ;         
-@U.TIME.7@:nikotwâsik@U.TIME.7@       HALF ;       
-@U.TIME.8@:tepakohp@U.TIME.8@       HALF ;       
-@U.TIME.9@:ayinânew@U.TIME.9@         HALF ;         
-@U.TIME.10@:kekâmitâtaht@U.TIME.10@       HALF ;       
-@U.TIME.11@:mitâtaht@U.TIME.11@   HALF ;   
-@U.TIME.12@:peyakosâp@U.TIME.12@     HALF ; 
+@U.TIME.1@:@U.TIME.1@nîsosâp          HALF ;           
+@U.TIME.2@:@U.TIME.2@peyak         HALF ;         
+@U.TIME.3@:@U.TIME.3@nîso          HALF ;          
+@U.TIME.4@:@U.TIME.4@nisto       HALF ;       
+@U.TIME.5@:@U.TIME.5@newo         HALF ;         
+@U.TIME.6@:@U.TIME.6@nîyânan         HALF ;         
+@U.TIME.7@:@U.TIME.7@nikotwâsik       HALF ;       
+@U.TIME.8@:@U.TIME.8@tepakohp       HALF ;       
+@U.TIME.9@:@U.TIME.9@ayinânew         HALF ;         
+@U.TIME.10@:@U.TIME.10@kekâmitâtaht       HALF ;       
+@U.TIME.11@:@U.TIME.11@mitâtaht   HALF ;   
+@U.TIME.12@:@U.TIME.12@peyakosâp     HALF ; 
 
 LEXICON HALF
  :% mînâpihtaw # ; !Not obligatory to add tipahikan
@@ -196,18 +196,18 @@ LEXICON HALF
 
 
 LEXICON HOUR
-@U.TIME.1@:peyak@U.TIME.1@          TIPAHIKAN ;           
-@U.TIME.2@:nîso@U.TIME.2@         TIPAHIKAN ;         
-@U.TIME.3@:nisto@U.TIME.3@          TIPAHIKAN ;          
-@U.TIME.4@:newo@U.TIME.4@       TIPAHIKAN ;       
-@U.TIME.5@:nîyânan@U.TIME.5@         TIPAHIKAN ;         
-@U.TIME.6@:nikotwâsik@U.TIME.6@         TIPAHIKAN ;         
-@U.TIME.7@:tepakohp@U.TIME.7@       TIPAHIKAN ;       
-@U.TIME.8@:ayinânew@U.TIME.8@       TIPAHIKAN ;       
-@U.TIME.9@:kekâmitâtaht@U.TIME.9@         TIPAHIKAN ;         
-@U.TIME.10@:mitâtaht@U.TIME.10@       TIPAHIKAN ;       
-@U.TIME.11@:peyakosâp@U.TIME.11@   TIPAHIKAN ;   
-@U.TIME.12@:nîsosâp@U.TIME.12@     TIPAHIKAN ; 
+@U.TIME.1@:@U.TIME.1@peyak          TIPAHIKAN ;           
+@U.TIME.2@:@U.TIME.2@nîso         TIPAHIKAN ;         
+@U.TIME.3@:@U.TIME.3@nisto          TIPAHIKAN ;          
+@U.TIME.4@:@U.TIME.4@newo       TIPAHIKAN ;       
+@U.TIME.5@:@U.TIME.5@nîyânan         TIPAHIKAN ;         
+@U.TIME.6@:@U.TIME.6@nikotwâsik         TIPAHIKAN ;         
+@U.TIME.7@:@U.TIME.7@tepakohp       TIPAHIKAN ;       
+@U.TIME.8@:@U.TIME.8@ayinânew       TIPAHIKAN ;       
+@U.TIME.9@:@U.TIME.9@kekâmitâtaht         TIPAHIKAN ;         
+@U.TIME.10@:@U.TIME.10@mitâtaht       TIPAHIKAN ;       
+@U.TIME.11@:@U.TIME.11@peyakosâp   TIPAHIKAN ;   
+@U.TIME.12@:@U.TIME.12@nîsosâp     TIPAHIKAN ; 
 
 LEXICON TIPAHIKAN
  :% tipahikan # ;
