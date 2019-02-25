@@ -1,6 +1,6 @@
 
 Translation from old to new orthography is done with the script 
-[../src/orthography/oldorthography2norm.xfscript].
+{{mhr/src/orthography/oldorthography2norm.xfscript}}.
 
 After having compiled the Mari transducers, the orthography folder contains
 the transducer __oldorthography2norm.lookup.xfst__, which will convert
