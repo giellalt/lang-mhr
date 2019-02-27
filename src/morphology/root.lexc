@@ -642,8 +642,9 @@ verbs_not_from_xml ;   !!=   @CODE@
 Abbreviation	;  !!=   @CODE@ 
 Acronym		;	   !!=   @CODE@ 
 Numeral		;	   !!=   @CODE@ 
-Punctuation	;	   !!=   @CODE@ 
-Exceptions ;  !!= * @CODE@ 
+Punctuation	;	   !!=   @CODE@
+Symbols     ;	   !!=   @CODE@
+Exceptions ;  !!= * @CODE@
 NUM-COLL_  ;  !!=   @CODE@
 
 urj-Cyrl-ProperNouns ;  !!=   @CODE@ 

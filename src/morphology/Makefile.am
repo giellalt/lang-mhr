@@ -26,16 +26,17 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/abbreviations.lexc \
 			 stems/acronyms.lexc      \
 			 stems/numerals.lexc      \
-			 stems/exceptions.lexc   \
+			 stems/exceptions.lexc    \
 			 stems/mhr-propernouns.lexc   \
 			 affixes/adjectives.lexc  \
 			 affixes/clitics.lexc     \
 			 affixes/nouns.lexc       \
-			 affixes/numbers.lexc \
+			 affixes/numbers.lexc     \
 			 affixes/pronouns.lexc    \
 			 affixes/propernouns.lexc \
-			 affixes/adverbs.lexc    \
+			 affixes/adverbs.lexc     \
 			 affixes/postpositions.lexc \
+			 affixes/symbols.lexc     \
 			 affixes/verbs.lexc
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
@@ -57,6 +58,7 @@ GT_LEXC_L2_SRCS=\
 GENERATED_LEXC_SRCS=\
 			 generated_files/urj-Cyrl-propernouns.lexc \
 			 generated_files/punctuation.lexc   \
+			 generated_files/symbols.lexc       \
 			 $(srcdir)/stems/adjectives.lexc    \
 			 $(srcdir)/stems/adverbs.lexc       \
 			 $(srcdir)/stems/conjunctions.lexc  \
