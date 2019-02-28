@@ -1,705 +1,312 @@
-! Divvun & Giellatekno - open source grammars for Eastern Mari language
-! Copyright © 2015 The University of Tromsø & the Norwegian Sámi Parliament
-! http://giellatekno.uit.no & http://divvun.no
-!
-! This program is free software; you can redistribute and/or modify
-! this file under the terms of the GNU General Public License as published by
-! the Free Software Foundation, either version 3 of the License, or
-! (at your option) any later version. The GNU General Public License
-! is found at http://www.gnu.org/licenses/gpl.html. It is
-! also available in the file $GTHOME/LICENSE.txt.
-!
-! Other licensing options are available upon request, please contact
-! giellatekno@uit.no or feedback@divvun.no
+!!                     !!!mhr morphological analyser 
+!IDEAS FOR IMPROVEMENT
+!Fsm:ssä pitää erottaa z ja Z omaksi konsonanttiryhmäkseen niiden erikoisen 
+!käyttäytymisen takia (niiden jälkeen tulevat soinnittomat suffiksit). Samoin ehkä myös 
+!soinnittomat  sibilantit (vaativat joskus välivokaalin). 
+!COMMENTS ON OVERPRODUCTIVITY
+!- generates PxSg3 forms ending in -Z  without restrictions (because a postposition 
+!  requiring the short PxSg3 might be the next word). Informants test show no clear
+!  rules of the acceptability of the shorter form, see journal 9.2.05
 
-!! !!!Morphology
-!  ----------
-!! This file consists of three parts:
-!! # Multichar Symbols declaration
-!! # The __Root__ lexicon 
-!! # A set of lexica for minor parts of speech
-!! # A set of unfinished lexica, to be either deleted or expanded.
-
-Multichar_Symbols  !!≈ !!!Declaration of @CODE@
-
-!! !!Analysis symbols
-!  ----------------
-
-!! The morphological analyses of the wordforms of Eastern Mari language are
-!! presented in this system in terms of the following symbols.
-!! (It is highly suggested to follow existing standards when adding new tags).
-!+WORK
-
-%^VoTrigger  !!= * @CODE@ for use with acronyms after hyphen
-%^VeTrigger  !!= * @CODE@ for use with acronyms after hyphen
-%^VOTrigger  !!= * @CODE@ for use with acronyms after hyphen
-%^Sonorant   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
-%^Obstruent !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!Polku leksikkoketjun läpi menee pääpiirteissään seuraavassa järjestyksessä:
+! LEXICON Root -> (haarautuminen sanaluokkiin) 
+!                        -> Stem-alkuiset leksikot (vars. sanasto)
+!                        -> N, N-ae jne. (prefiksittömät leksikkonimet)
+!                        -> (haarautuminen suffiksileksikoihin)
+!                        -> Sx-alkuiset leksikot
+!Leksikot ovat tiedostossa suunnilleen samassa järjestyksessä kuin niiden
+!läpi mennään eli sisällysluettelo on:
 
 
-%^END ! slutt
+!   Principles of the mnemonic naming of lexicons: 
+!   -- category names begin with capital letter, e.g. LEXICON Cx-GenAcc 
+!  (a lexicon containing the Genetive and Accusative  case endings)
+!   -- graphemes represented by small letters, e.g. LEXICON Enc-la ;  Enc-laj
+!  (a lexicon containing the enclitics la and laj; in some cases the user just must
+!   know whether, for instance, "y"  refers to "ы" or "ӱ")
+!   -- classes of graphemes marked by capital letters, e.g. LEXICON StemV2-(C)V
+!  (a lexicon containing the stems of monosyllabic II conj. verbs with the structure 
+!    'a possible consonant and a vowel')
+!   -- "logical operations" marked by capital letters, e.g. LEXICON Cx-IllIne-NOsh
+!  (a lexicon containing the Illative and Inessive case suffixes but with no sh grapheme)
 
-!! !The parts-of-speech are:
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! (1) MULTICHARACTER SYMBOLS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-+N	    !!≈ * __@CODE@__ = nouns
-+A	    !!≈ * __@CODE@__ = adjectives
-+Adp    !!≈ * __@CODE@__ = adpositions
-+Adv    !!≈ * __@CODE@__ = adverbs
-+V	    !!≈ * __@CODE@__ = verbs
-+Pron   !!≈ * __@CODE@__ = pronouns
-+CS	    !!≈ * __@CODE@__ = subjunctions
-+CC	    !!≈ * __@CODE@__ = conjunctions
-+Interj !!≈ * __@CODE@__ = interjections
-+Pcle   !!≈ * __@CODE@__ = particles
-+Num    !!≈ * __@CODE@__ = numerals
-+Descr	!!≈ * __@CODE@__ = descriptive ideophones
+Multichar_Symbols
 
+!Flag diacritics
+! @P.OBLCASE.PRESENT@   !Oblique case suffix is present
+! @D.OBLCASE@  !Disallows the presence of an oblique case suffix
+! @U.PX.ZE@ !Controls the use of the abbreviate Sg3 possessive suffix Z
+! @U.PX.Z@ !Controls the use of the abbreviate Sg3 possessive suffix Z
+! @U.PX.Z@ !Controls the use of the abbreviate Sg3 possessive suffix Z
+! @R.PX.Z@ !Controls the use of the abbreviate Sg3 possessive suffix Z
+ @P.PXSG3.PRESENT@ !Controls the use of the mozho enclitic and GerAnt mekshe
+ @R.PXSG3.PRESENT@ !Controls the use of the mozho enclitic and GerAnt mekshe
+ @P.PXSG2.PRESENT@ !Controls the use of the mochet enclitic
+ @R.PXSG2.PRESENT@ !Controls the use of the mochet enclitic
+ @P.PL.PRESENT@ !Prevents rak-Pl forms
+ @D.PL.PRESENT@ !Prevents rak-Pl forms
+ @P.GERSIM.BEG@ !Controls the -la of the +Ger+Sim
+ @R.GERSIM.BEG@ !Controls the -la of the +Ger+Sim
+ @D.GERSIM.BEG@ !Prevents modals in +Ger+Sim
+ @P.GERSIM.END@ !Prevents modals in +Ger+Sim
+ @P.VERB.PRESENT@ !Controls the suffixes after infinitive verb forms
+ @D.VERB.PRESENT@ !Controls the suffixes after infinitive verb forms
 
-!! !POS subtags
-!! The parts of speech are further split up into:
-+Po	    !!≈ * __@CODE@__ = postpositions
-+Pr	    !!≈ * __@CODE@__ = prepositons
+!Word classes:
++Cat +N +A +Pron +Qu +Po +Adv +V +Conj +Pcle
 
-+Prop      !!≈ * __@CODE@__ = Proper noun
-+Pers      !!≈ * __@CODE@__ = Personal pronoun
-+Dem       !!≈ * __@CODE@__ = Demonstrative pronoun
-+Interr    !!≈ * __@CODE@__ = Interrogative pronoun
-+Refl      !!≈ * __@CODE@__ = Reflexive pronoun
-+Recipr    !!≈ * __@CODE@__ = Reciprocal pronoun
-+Rel       !!≈ * __@CODE@__ = Relative pronoun
-+Indef     !!≈ * __@CODE@__ = Indefinite pronoun
-+Coll !!≈ * __@CODE@__ = Collective numerals -ын-
-+AssocColl !!≈ * __@CODE@__ = Collective associative numerals with obligatory possessive suffixes -нь-
-
-+Patr      !!≈ * __@CODE@__ = patronym, look at this in other cyr fsts.
-+Aux       !!≈ * __@CODE@__ = Auxiliary verb
-+Depend   !!≈ * __@CODE@__ = ( pair verbs that do not occur independently get this marker.)
-
-
-!! Have a look at these:
-
-+Foc/Poss   !!≈ * __@CODE@__ = 
-+Prf      !!≈ * __@CODE@__ = perfective
-+Arab     !!≈ * __@CODE@__ = arabic numerals
-+Qnt     !!≈ * __@CODE@__ = quantifiers
-+Rom     !!≈ * __@CODE@__ = roman numerals
-+Weak     !!≈ * __@CODE@__ = weak (?) form 
-
-
-!! The nominals are inflected in the following numbers
-
-+Sg		   !!≈ * __@CODE@__ = 
-+Pl		   !!≈ * __@CODE@__ = 
-+AssocPl   !!≈ * __@CODE@__ = 
-+LocPl	   !!≈ * __@CODE@__ = location, better witho LocusPl to avoid Loc case?
-
-!! The nominals are inflected in the following Case and Number
-
-+Nom 	   !!≈ * __@CODE@__ = nominative
-+Gen 	   !!≈ * __@CODE@__ = genitive
-+Acc 	   !!≈ * __@CODE@__ = accusative
-+Com 	   !!≈ * __@CODE@__ = comitative
-+Ill 	   !!≈ * __@CODE@__ = illative
-+Ine 	   !!≈ * __@CODE@__ = inessive
-+Lat 	   !!≈ * __@CODE@__ = lative
-+Dat 	   !!≈ * __@CODE@__ = dative
-+Cmpr 	   !!≈ * __@CODE@__ = comparative case
-+Abe	   !!≈ * __@CODE@__ = abessive
-+Voc	   !!≈ * __@CODE@__ = vocative
-+Attr	   !!≈ * __@CODE@__ = attributive form
-+Instr 	   !!≈ * __@CODE@__ =
-
-
-!! The possession is marked as such:
-
-+PxSg1  !!≈ * __@CODE@__ = 
-+PxSg2  !!≈ * __@CODE@__ = 
-+PxSg3  !!≈ * __@CODE@__ = 
-+PxPl1  !!≈ * __@CODE@__ = 
-+PxPl2  !!≈ * __@CODE@__ = 
-+PxPl3  !!≈ * __@CODE@__ = 
-
-!! Suffix ordering tags:
-+So/CP	  !!≈ * __@CODE@__ =
-+So/PC	  !!≈ * __@CODE@__ =
-+So/NCP	  !!≈ * __@CODE@__ =
-+So/NPC	  !!≈ * __@CODE@__ =
-+So/NP	  !!≈ * __@CODE@__ =
-+So/PN	  !!≈ * __@CODE@__ =
-+So/PNC	  !!≈ * __@CODE@__ =
-
-!! The comparative forms are:
-+Comp      !!≈ * __@CODE@__ = comparative (not: not Cmp)
-+Superl     !!≈ * __@CODE@__ = superlative
- 
-!! Numerals are classified under:
-
-+Card   !!≈ * __@CODE@__ = (hmm, skip+Card?)
-+Ord   !!≈ * __@CODE@__ = 
- 
- 
-!! Note the attributive tag, in defferent contexts
-
-+Attr   !!≈ * __@CODE@__ = 
-
-!! Verb moods are:
-
-+Ind       !!≈ * __@CODE@__ = indicative
-+Cond      !!≈ * __@CODE@__ = conditional
-+Imprt     !!≈ * __@CODE@__ = imperative
-+Des       !!≈ * __@CODE@__ = desiderative
-
-!! Verb tenses are:
-
-+Prs       !!≈ * __@CODE@__ = present
-+Prt1      !!≈ * __@CODE@__ = 1st preterite, direct observation
-+Prt2      !!≈ * __@CODE@__ = 2nd preterite, indirect narrative, conclusion
-
-!! Verb personal forms are: (also used with personal pronouns)
-
-+Sg1          !!≈ * __@CODE@__ = 
-+Sg2          !!≈ * __@CODE@__ = 
-+Sg3          !!≈ * __@CODE@__ = 
-+Pl1          !!≈ * __@CODE@__ = 
-+Pl2          !!≈ * __@CODE@__ = 
-+Pl3          !!≈ * __@CODE@__ = 
-
-+Ext          !!≈ * __@CODE@__ = form уло
-+Indep          !!≈ * __@CODE@__ = forms огым, огыт, ите 
-
-!! Other verb forms are
-
-+Inf	          !!≈ * __@CODE@__ = Infinitive
-+Ger	          !!≈ * __@CODE@__ = Gerund
-+Neg	          !!≈ * __@CODE@__ = Negation verb
-+ConNeg	          !!≈ * __@CODE@__ = Invariant main verb in negation expression
-+Prc	          !!≈ * __@CODE@__ = Participle
-+Nec	          !!≈ * __@CODE@__ = Necessive infinitive
-!+Prf	          !!≈ * __@CODE@__ = Perfective participle
-+Fut          !!≈ * __@CODE@__ = Future participle
-+Neg	          !!≈ * __@CODE@__ = Negative participle
-+Imprf	          !!≈ * __@CODE@__ = Imperfective (?) -- XXX check this
-+Act	          !!≈ * __@CODE@__ = Active
-+Pass	          !!≈ * __@CODE@__ = Passive
-
-
-!! Question and Focus particles:
-+Qst      !!≈ * __@CODE@__ = 
-+Foc    !!≈ * __@CODE@__ = 
- 
-! -ат/-ят, -ак/-як, -с/-ыс
-+Foc/at       !!≈ * __@CODE@__ = -at focus particla
-+Foc/ak       !!≈ * __@CODE@__ = -ak focus particle
-+Foc/ys	      !!≈ * __@CODE@__ = -ys focus particle
-+Foc/jan	      !!≈ * __@CODE@__ = -jan focus particle
-+Foc/ja	      !!≈ * __@CODE@__ = -ja focus particle
-
-!! !Derivations
-
-+Ex/N      !!≈ * __@CODE@__ = for derivation from N to anoter POS
-+Ex/V      !!≈ * __@CODE@__ = for derivation from V  to anoter POS
-+Ex/A      !!≈ * __@CODE@__ = for derivation from A to anoter POS
-+Ex/TV      !!≈ * __@CODE@__ = change to other transitivity
-+EX/IV      !!≈ * __@CODE@__ = change to other transitivity
-
-
-+Der/Nom    !!≈ * __@CODE@__ =  Derivation V > N: Nominalization
-+Der/NomNeg    !!≈ * __@CODE@__ = Derivation V > N: Negative nominalization
-+Der/Priv    !!≈ * __@CODE@__ =  Derivation N > A: Privative adjective
-+Der/Poss    !!≈ * __@CODE@__ =   Derivation N > A: Possessive adjective, orig. genitive form without a head
-+Der/Pur    !!≈ * __@CODE@__ =   Derivation N > A: 
-+Der/Rel    !!≈ * __@CODE@__ =  Derivation N > A: Relational adjective
-+Der/Caus    !!≈ * __@CODE@__ = Derivation V > V: Causative
-+Der/Refl    !!≈ * __@CODE@__ = Derivation V > V: Reflexive
-+Der/MWN      !!≈ * __@CODE@__ = Modifier without noun (better: +A+Sg+Nom etc.)
-!+Der/исЕ      !!≈ * __@CODE@__ = Used with place names
-
-!! Abbreviated words are classified with:
-+ABBR         !!≈ * __@CODE@__ = for abbreviations that (may) contain period
 +Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
-+ACR          !!≈ * __@CODE@__ = acronyms
 
-!! Special symbols are classified with:
+!Cases:
++Nom +Gen +Acc +Com +Ill +Ine +Lat +Dat +Mod
 
-+CLB           !!≈ * __@CODE@__ = clause and sentence boundary symbols
-+PUNCT         !!≈ * __@CODE@__ = other punctuation marks
-+LEFT          !!≈ * __@CODE@__ = paired symbols
-+RIGHT         !!≈ * __@CODE@__ = paired symbols
+!Number:
++Pls +Plw +Pll +Plm +Sg 
 
-!! The verbs are syntactically split according to transitivity:
-+TV       !!≈ * __@CODE@__ = 
-+IV       !!≈ * __@CODE@__ = 
+!Possessive suffixes:
++PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
 
-!! Special multiword units are analysed with:
-+Multi    !!≈ * __@CODE@__ = 
- 
-!! Non-dictionary words can be recognised with:
-+Guess    !!≈ * __@CODE@__ = 
- 
-!! !Homony tags
-
-!! These are especially for verbs. Note that this is __not__
-!! a semantic distinction, we talk about paradigms deviating
-!! here and there in the inflection pattern.
-
-+Hom1     !!≈ * __@CODE@__ = First pattern (let us say -ам)
-+Hom2     !!≈ * __@CODE@__ = Second pattern (let us say -ем)
-+Hom3     !!≈ * __@CODE@__ = Third pattern (if it should exist + even more?)
-+Hom4	  !!≈ * __@CODE@__ = 
-+Hom5	  !!≈ * __@CODE@__ = 
-+Hom6	  !!≈ * __@CODE@__ = 
-
-!! !Usage tags
-
-!! The Usage extents are marked using following tags:
-
- +Use/Marg        !!≈ * __@CODE@__ marginal
- +Use/-PLX        !!≈ * __@CODE@__ Excluded in PLX-speller
- +Use/SpellNoSugg !!≈ * __@CODE@__ recognized but not suggested in speller
- +Use/Circ        !!≈ * __@CODE@__ circular paths (old ^C^)
- +Use/CircN       !!≈ * __@CODE@__ circular paths for the numerals (old ^N^)
- +Use/NG          !!≈ * __@CODE@__ not-generate, for ped generation isme-ped.fst
- +Use/MT          !!≈ * __@CODE@__ Generate for MT only, for restricting analyses needed 
-                  !!               for MT generation not to pop up elsewhere
- +Use/NGminip     !!≈ * __@CODE@__ Not for miniparadigm in VD dicts
- +Use/Disamb      !!≈ * __@CODE@__ means that the following is only used in the analyser feeding the disambiguator
- +Use/GC          !!≈ * __@CODE@__ only retained in the HFST Grammar Checker disambiguation analyser
- +Use/-PMatch     !!≈ * __@CODE@__ Do not include in fsts made for hfst-pmatch
- +MWESplit        !!≈ * __@CODE@__ Split point for MWE
-
-+Err/Orth        !!≈ * __@CODE@__ = orthographical error (analysed, not accepted in speller)
-+Use/-Spell      !!≈ * __@CODE@__ = accepted in normative FST but not in speller
-+Use/Test !!≈ * __@CODE@__ =  Dealing with lative form 2012-10-27 аваеш, пашаш
-
-
-!! !Semantic tags
-
-! Semantic tags to help disambiguation & synt. analysis: (before POS)
-! Borrowed from main/langs/sme/src/morphology/root.lexc
-+Sem/Act         !!≈ * __@CODE@__ = Activity
-+Sem/Amount      !!≈ * __@CODE@__ = Amount
-+Sem/Ani         !!≈ * __@CODE@__ = Animate
-+Sem/Aniprod     !!≈ * __@CODE@__ = Animal Product
-+Sem/Body        !!≈ * __@CODE@__ = Bodypart
-+Sem/Body-abstr  !!≈ * __@CODE@__ = siellu, vuoig?a, jierbmi
-+Sem/Build       !!≈ * __@CODE@__ = Building
-+Sem/Build-part  !!≈ * __@CODE@__ = Part of Bulding, like the closet
-+Sem/Cat         !!≈ * __@CODE@__ = Category
-+Sem/Clth        !!≈ * __@CODE@__ = Clothes
-+Sem/Clth-jewl   !!≈ * __@CODE@__ = Jewelery
-+Sem/Clth-part   !!≈ * __@CODE@__ = part of clothes, boallu, sávdnji...
-+Sem/Ctain       !!≈ * __@CODE@__ = Container
-+Sem/Ctain-abstr !!≈ * __@CODE@__ = Abstract container like bank account
-+Sem/Ctain-clth  !!≈ * __@CODE@__
-+Sem/Curr        !!≈ * __@CODE@__ = Currency like dollár, Not Money
-+Sem/Dance       !!≈ * __@CODE@__ = Dance
-+Sem/Dir         !!≈ * __@CODE@__ = Direction like GPS-kursa
-+Sem/Domain      !!≈ * __@CODE@__ = Domain like politics, reindeerherding (a system of actions)
-+Sem/Drink       !!≈ * __@CODE@__ = Drink
-+Sem/Dummytag    !!≈ * __@CODE@__ = Dummytag
-+Sem/Edu         !!≈ * __@CODE@__ = Educational event
-+Sem/Event       !!≈ * __@CODE@__ = Event
-+Sem/Feat        !!≈ * __@CODE@__ = Feature, like Árvu
-+Sem/Feat-phys   !!≈ * __@CODE@__ = Physiological feature, ivdni, fárda
-+Sem/Feat-psych  !!≈ * __@CODE@__ = Psychological feauture
-+Sem/Feat-measr  !!≈ * __@CODE@__ = Psychological feauture
-+Sem/Fem         !!≈ * __@CODE@__ = Female name
-+Sem/Food        !!≈ * __@CODE@__ = Food
-+Sem/Food-med    !!≈ * __@CODE@__ = Medicine
-+Sem/Furn        !!≈ * __@CODE@__ = Furniture
-+Sem/Game        !!≈ * __@CODE@__ = Game
-+Sem/Geom        !!≈ * __@CODE@__ = Geometrical object
-+Sem/Group       !!≈ * __@CODE@__ = Animal or Human Group
-+Sem/Hum         !!≈ * __@CODE@__ = Human
-+Sem/Hum-abstr   !!≈ * __@CODE@__ = Human abstract
-+Sem/Ideol       !!≈ * __@CODE@__ = Ideology
-+Sem/Lang        !!≈ * __@CODE@__ = Language
-+Sem/Mal         !!≈ * __@CODE@__ = Male name
-+Sem/Mat         !!≈ * __@CODE@__ = Material for producing things
-+Sem/Measr       !!≈ * __@CODE@__ = Measure
-+Sem/Money       !!≈ * __@CODE@__ = Has to do with money, like wages, not Curr(ency)
-+Sem/Obj         !!≈ * __@CODE@__ = Object
-+Sem/Obj-clo         !!≈ * __@CODE@__ = Cloth
-+Sem/Obj-cogn        !!≈ * __@CODE@__ = Cloth
-+Sem/Obj-el          !!≈ * __@CODE@__ = (Electrical) machine or apparatus
-+Sem/Obj-ling        !!≈ * __@CODE@__ = Object with something written on it
-+Sem/Obj-rope        !!≈ * __@CODE@__ = flexible ropelike object
-+Sem/Obj-surfc       !!≈ * __@CODE@__ = Surface object
-+Sem/Org         !!≈ * __@CODE@__ = Organisation
-+Sem/Part        !!≈ * __@CODE@__ = Feature, oassi, bealli
-+Sem/Perc-cogn       !!≈ * __@CODE@__ = Cognative perception
-+Sem/Perc-emo        !!≈ * __@CODE@__ = Emotional perception
-+Sem/Perc-phys       !!≈ * __@CODE@__ = Physical perception
-+Sem/Perc-psych      !!≈ * __@CODE@__ = Physical perception
-+Sem/Plant       !!≈ * __@CODE@__ = Plant
-+Sem/Plant-part      !!≈ * __@CODE@__ = Plant part
-+Sem/Plc         !!≈ * __@CODE@__ = Place
-+Sem/Plc-abstr       !!≈ * __@CODE@__ = Abstract place
-+Sem/Plc-elevate     !!≈ * __@CODE@__ = Place
-+Sem/Plc-line        !!≈ * __@CODE@__ = Place
-+Sem/Plc-water       !!≈ * __@CODE@__ = Place
-+Sem/Pos         !!≈ * __@CODE@__ = Position (as in social position job)
-+Sem/Process     !!≈ * __@CODE@__ = Process
-+Sem/Prod        !!≈ * __@CODE@__ = Product
-+Sem/Prod-audio      !!≈ * __@CODE@__ = Audio product
-+Sem/Prod-cogn       !!≈ * __@CODE@__ = Cognition product
-+Sem/Prod-ling       !!≈ * __@CODE@__ = Linguistic product
-+Sem/Prod-vis        !!≈ * __@CODE@__ = Visual product
-+Sem/Rel         !!≈ * __@CODE@__ = Relation
-+Sem/Route       !!≈ * __@CODE@__ = Name of a Route
-+Sem/Rule        !!≈ * __@CODE@__ = Rule or convention
-+Sem/Semcon      !!≈ * __@CODE@__ = Semantic concept
-+Sem/Sign        !!≈ * __@CODE@__ = Sign (e.g. numbers, punctuation) 
-+Sem/Sport       !!≈ * __@CODE@__ = Sport
-+Sem/State       !!≈ * __@CODE@__ = 
-+Sem/State-sick      !!≈ * __@CODE@__ = Illness
-+Sem/Substnc     !!≈ * __@CODE@__ = Substance, like Air and Water
-+Sem/Sur         !!≈ * __@CODE@__ = Surname
-+Sem/Symbol      !!≈ * __@CODE@__ = Symbol
-+Sem/Time        !!≈ * __@CODE@__ = Time
-+Sem/Tool        !!≈ * __@CODE@__ = Prototypical tool for repairing things
-+Sem/Tool-catch      !!≈ * __@CODE@__ = Tool used for catching (e.g. fish)
-+Sem/Tool-clean      !!≈ * __@CODE@__ = Tool used for cleaning
-+Sem/Tool-it         !!≈ * __@CODE@__ = Tool used in IT
-+Sem/Tool-measr      !!≈ * __@CODE@__ = Tool used for measuring
-+Sem/Tool-music      !!≈ * __@CODE@__ = Music instrument
-+Sem/Tool-write      !!≈ * __@CODE@__ = Writing tool
-+Sem/Txt         !!≈ * __@CODE@__ = Text (girji, lávlla...)
-+Sem/Veh         !!≈ * __@CODE@__ = Vehicle
-+Sem/Wpn         !!≈ * __@CODE@__ = Weapon
-+Sem/Wthr        !!≈ * __@CODE@__ = The Weather or the state of ground
-
-
-
-!! Multiple Semantic tags:
-
-+Sem/Act_Group					       !!≈ * __@CODE@__ = 
-+Sem/Act_Plc					       !!≈ * __@CODE@__ = 
-+Sem/Act_Route					       !!≈ * __@CODE@__ = 
-+Sem/Amount_Build				       !!≈ * __@CODE@__ = 
-+Sem/Amount_Semcon				       !!≈ * __@CODE@__ = 
-+Sem/Ani_Body-abstr_Hum			       !!≈ * __@CODE@__ = 
-+Sem/Ani_Build					       !!≈ * __@CODE@__ = 
-+Sem/Ani_Build-part				       !!≈ * __@CODE@__ = 
-+Sem/Ani_Build_Hum_Txt			       !!≈ * __@CODE@__ = 
-+Sem/Ani_Group					       !!≈ * __@CODE@__ = 
-+Sem/Ani_Group_Hum				       !!≈ * __@CODE@__ = 
-+Sem/Ani_Hum					       !!≈ * __@CODE@__ = 
-+Sem/Ani_Hum_Plc				       !!≈ * __@CODE@__ = 
-+Sem/Ani_Hum_Time				       !!≈ * __@CODE@__ = 
-+Sem/Ani_Plc					       !!≈ * __@CODE@__ = 
-+Sem/Ani_Plc_Txt				       !!≈ * __@CODE@__ = 
-+Sem/Ani_Time					       !!≈ * __@CODE@__ = 
-+Sem/Ani_Veh					       !!≈ * __@CODE@__ = 
-+Sem/Aniprod_Hum				       !!≈ * __@CODE@__ = 
-+Sem/Aniprod_Obj-clo			       !!≈ * __@CODE@__ = 
-+Sem/Aniprod_Perc-phys			       !!≈ * __@CODE@__ = 
-+Sem/Aniprod_Plc				       !!≈ * __@CODE@__ = 
-+Sem/Body-abstr_Prod-audio_Semcon      !!≈ * __@CODE@__ = 
-+Sem/Body_Body-abstr			       !!≈ * __@CODE@__ = 
-+Sem/Body_Clth					       !!≈ * __@CODE@__ = 
-+Sem/Body_Food					       !!≈ * __@CODE@__ = 
-+Sem/Body_Group_Hum				       !!≈ * __@CODE@__ = 
-+Sem/Body_Hum					       !!≈ * __@CODE@__ = 
-+Sem/Body_Mat					       !!≈ * __@CODE@__ = 
-+Sem/Body_Measr					       !!≈ * __@CODE@__ = 
-+Sem/Body_Obj_Tool-catch		       !!≈ * __@CODE@__ = 
-+Sem/Body_Plc					       !!≈ * __@CODE@__ = 
-+Sem/Body_Time					       !!≈ * __@CODE@__ = 
-+Sem/Build-part_Plc				       !!≈ * __@CODE@__ = 
-+Sem/Build_Build-part			       !!≈ * __@CODE@__ = 
-+Sem/Build_Clth-part			       !!≈ * __@CODE@__ = 
-+Sem/Build_Edu_Org				       !!≈ * __@CODE@__ = 
-+Sem/Build_Event_Org			       !!≈ * __@CODE@__ = 
-+Sem/Build_Org					       !!≈ * __@CODE@__ = 
-+Sem/Build_Route				       !!≈ * __@CODE@__ = 
-+Sem/Clth-jewl_Curr				       !!≈ * __@CODE@__ = 
-+Sem/Clth-jewl_Money			       !!≈ * __@CODE@__ = 
-+Sem/Clth-jewl_Plant			       !!≈ * __@CODE@__ = 
-+Sem/Clth_Hum					       !!≈ * __@CODE@__ = 
-+Sem/Ctain-abstr_Org			       !!≈ * __@CODE@__ = 
-+Sem/Ctain-clth_Plant			       !!≈ * __@CODE@__ = 
-+Sem/Ctain-clth_Veh				       !!≈ * __@CODE@__ = 
-+Sem/Ctain_Feat-phys			       !!≈ * __@CODE@__ = 
-+Sem/Ctain_Furn					       !!≈ * __@CODE@__ = 
-+Sem/Ctain_Tool					       !!≈ * __@CODE@__ = 
-+Sem/Ctain_Tool-measr			       !!≈ * __@CODE@__ = 
-+Sem/Curr_Org					       !!≈ * __@CODE@__ = 
-+Sem/Dance_Org					       !!≈ * __@CODE@__ = 
-+Sem/Dance_Prod-audio			       !!≈ * __@CODE@__ = 
-+Sem/Domain_Food-med			       !!≈ * __@CODE@__ = 
-+Sem/Domain_Prod-audio			       !!≈ * __@CODE@__ = 
-+Sem/Edu_Event					       !!≈ * __@CODE@__ = 
-+Sem/Edu_Group_Hum				       !!≈ * __@CODE@__ = 
-+Sem/Edu_Mat					       !!≈ * __@CODE@__ = 
-+Sem/Edu_Org					       !!≈ * __@CODE@__ = 
-+Sem/Event_Food					       !!≈ * __@CODE@__ = 
-+Sem/Event_Hum					       !!≈ * __@CODE@__ = 
-+Sem/Event_Plc					       !!≈ * __@CODE@__ = 
-+Sem/Event_Time					       !!≈ * __@CODE@__ = 
-+Sem/Feat-phys_Tool-write		       !!≈ * __@CODE@__ = 
-+Sem/Feat-phys_Veh				       !!≈ * __@CODE@__ = 
-+Sem/Feat-phys_Wthr				       !!≈ * __@CODE@__ = 
-+Sem/Feat-psych_Hum				       !!≈ * __@CODE@__ = 
-+Sem/Feat_Plant					       !!≈ * __@CODE@__ = 
-+Sem/Food_Perc-phys				       !!≈ * __@CODE@__ = 
-+Sem/Food_Plant					       !!≈ * __@CODE@__ = 
-+Sem/Game_Obj-play				       !!≈ * __@CODE@__ = 
-+Sem/Geom_Obj					       !!≈ * __@CODE@__ = 
-+Sem/Group_Hum					       !!≈ * __@CODE@__ = 
-+Sem/Group_Hum_Org				       !!≈ * __@CODE@__ = 
-+Sem/Group_Hum_Plc				       !!≈ * __@CODE@__ = 
-+Sem/Group_Hum_Prod-vis			       !!≈ * __@CODE@__ = 
-+Sem/Group_Org					       !!≈ * __@CODE@__ = 
-+Sem/Group_Sign					       !!≈ * __@CODE@__ = 
-+Sem/Group_Txt					       !!≈ * __@CODE@__ = 
-+Sem/Hum_Lang					       !!≈ * __@CODE@__ = 
-+Sem/Hum_Lang_Plc				       !!≈ * __@CODE@__ = 
-+Sem/Hum_Lang_Time				       !!≈ * __@CODE@__ = 
-+Sem/Hum_Obj					       !!≈ * __@CODE@__ = 
-+Sem/Hum_Org					       !!≈ * __@CODE@__ = 
-+Sem/Hum_Plant					       !!≈ * __@CODE@__ = 
-+Sem/Hum_Plc					       !!≈ * __@CODE@__ = 
-+Sem/Hum_Tool					       !!≈ * __@CODE@__ = 
-+Sem/Hum_Veh					       !!≈ * __@CODE@__ = 
-+Sem/Hum_Wthr					       !!≈ * __@CODE@__ = 
-+Sem/Lang_Tool					       !!≈ * __@CODE@__ = 
-+Sem/Mat_Plant					       !!≈ * __@CODE@__ = 
-+Sem/Mat_Txt					       !!≈ * __@CODE@__ = 
-+Sem/Measr_Time					       !!≈ * __@CODE@__ = 
-+Sem/Money_Obj					       !!≈ * __@CODE@__ = 
-+Sem/Money_Txt					       !!≈ * __@CODE@__ = 
-+Sem/Obj-play					       !!≈ * __@CODE@__ = 
-+Sem/Obj-play_Sport				       !!≈ * __@CODE@__ = 
-+Sem/Obj_Semcon					       !!≈ * __@CODE@__ = 
-+Sem/Clth-jewl_Org				       !!≈ * __@CODE@__ = 
-+Sem/Org_Rule					       !!≈ * __@CODE@__ = 
-+Sem/Org_Txt					       !!≈ * __@CODE@__ = 
-+Sem/Org_Veh					       !!≈ * __@CODE@__ = 
-+Sem/Part_Prod-cogn				       !!≈ * __@CODE@__ = 
-+Sem/Perc-emo_Wthr				       !!≈ * __@CODE@__ = 
-+Sem/Plant_Plant-part			       !!≈ * __@CODE@__ = 
-+Sem/Plant_Tool					       !!≈ * __@CODE@__ = 
-+Sem/Plant_Tool-measr			       !!≈ * __@CODE@__ = 
-+Sem/Plc-abstr_Rel_State		       !!≈ * __@CODE@__ = 
-+Sem/Plc-abstr_Route			       !!≈ * __@CODE@__ = 
-+Sem/Plc_Pos					       !!≈ * __@CODE@__ = 
-+Sem/Plc_Route					       !!≈ * __@CODE@__ = 
-+Sem/Plc_Substnc				       !!≈ * __@CODE@__ = 
-+Sem/Plc_Substnc_Wthr			       !!≈ * __@CODE@__ = 
-+Sem/Plc_Time					       !!≈ * __@CODE@__ = 
-+Sem/Plc_Tool-catch				       !!≈ * __@CODE@__ = 
-+Sem/Plc_Wthr					       !!≈ * __@CODE@__ = 
-+Sem/Prod-audio_Txt				       !!≈ * __@CODE@__ = 
-+Sem/Prod-cogn_Txt				       !!≈ * __@CODE@__ = 
-+Sem/Semcon_Txt					       !!≈ * __@CODE@__ = 
-+Sem/Obj_State					       !!≈ * __@CODE@__ = 
-+Sem/Substnc_Wthr				       !!≈ * __@CODE@__ = 
-+Sem/Time_Wthr					       !!≈ * __@CODE@__ = 
-
-
-!! Semantics are classified with
-!+Sem/Kin    !!≈ * __@CODE@__ =  Kinship term (reflected in special PxSg2 forms),
-!+Sem/Divinity !!≈ * __@CODE@__ =  Divinity (god personified),
-! +Sem/Constellation !!≈ * __@CODE@__ =  Constellation,
-! +Sem/Kin	  !!≈ * __@CODE@__ = Kin term
-! +Sem/Patr   	  !!≈ * __@CODE@__ =  Patronym
-! +Sem/Rvr    !!≈ * __@CODE@__ =  name of river or water way, media of transportation,
-! +Sem/Inanim !!≈ * __@CODE@__ =  Inanimate,
-! +Sem/NonHum !!≈ * __@CODE@__ =  Nonhuman,
-
-
-!! Derivations are classified under the morphophonetic form of the suffix, the
-!! source and target part-of-speech.
- +V→N 	         !!≈ * __@CODE@__ = 
-+V→V 	         !!≈ * __@CODE@__ = 
-+V→A	         !!≈ * __@CODE@__ = 
-+N→A	         !!≈ * __@CODE@__ = 
-+Der/xxx        !!≈ * __@CODE@__ = 
-+Der/mO	         !!≈ * __@CODE@__ = 
-
-!! Morphophonology
-! ---------------
-!! To represent phonologic variations in word forms we use the following
-!! symbols in the lexicon files:
-%{аы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
-%{еы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
-%{оы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
-%{ӧы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
-%{яы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel preceded by ь
-%{еоыӧØ%}  !!= * @CODE@ PxSg3 final
-%{ыØ%}  !!= * @CODE@ PxSg3 onset
-
-%{ьØ%}  !!= * @CODE@ for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
-
-
-{aä}       !!≈ * @CODE@ for vowel harmony
-{oö}       !!≈ * @CODE@ for vowel harmony
-{uü}       !!≈ * @CODE@ for vowel harmony
-е1 	        !!≈ * __@CODE@__ = 
-а1 	        !!≈ * __@CODE@__ = 
-и1 	        !!≈ * __@CODE@__ = 
-у1 	        !!≈ * __@CODE@__ = 
-ӱ1 	        !!≈ * __@CODE@__ = 
-я1	        !!≈ * __@CODE@__ = 
-
-Е1               !!≈ * __@CODE@__ = lative
-! JMR 2012-09-18
-Е2 	     !!≈ * __@CODE@__ = 
-А2 	     !!≈ * __@CODE@__ = 
-Ы1 	     !!≈ * __@CODE@__ = stem-onset archi-vowel
-Ы2	     !!≈ * __@CODE@__ =
-з2	     !!≈ * __@CODE@__ = for возаш : воч 
-к2  !!= * @CODE@ кочк- коч# "eat/есть" мушк- муш "wash/мыть"
-н2  !!= * @CODE@ шинч- шич# "sit down/сесть"
-т2  !!= * @CODE@ лект- лек# "leave/ уходить"
-%>	     !!≈ * __@CODE@__ = 
-+TEST    !!≈ * __@CODE@__ = 
-
-!! And following triggers to control variation
-%^V2IMPRT	!!= * @CODE@ for -ем verbs in й
-%^END       	!!= * @CODE@ for -ам verb final, i.e. Imprf
-
-{front}    !!≈ * @CODE@ 
-{back}     !!≈ * @CODE@ 
-X1      !!≈ * __@CODE@__ = 
-X2      !!≈ * __@CODE@__ = 
-X3      !!≈ * __@CODE@__ = 
-X4      !!≈ * __@CODE@__ = 
-X5      !!≈ * __@CODE@__ = 
-X6      !!≈ * __@CODE@__ = 
-X7      !!≈ * __@CODE@__ = 
-X8      !!≈ * __@CODE@__ = 
-X9      !!≈ * __@CODE@__ = 
-Z1      !!≈ * __@CODE@__ = 
-Z2      !!≈ * __@CODE@__ = 
-%-      !!≈ * @CODE@ 
-
+!Comparation of adjectives:
 +Cmp
-+Cmp/Hyph
-+Cmp/SoftHyph
-+Cmp/SplitR
+
+!Verbs:
++V1 +V2
++Ind+Pres +Ind+Pret1 +Ind+Pret2 +Imp +Des+Pres
++Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
++CoNeg  !Connegative form 
++Inf +Inf+Nec
++Ptc+Act +Ptc+Pas +Ptc+Fut +Ptc+Neg
++Ger+Instr +Ger+Neg +Ger+Ant +Ger+Post +Ger+Sim
+
+!Enclitics:
++Enc
+
+!Symbols for morphophonemes
+
+^E ^A
+
+!Junctures (Tämä tarpeeton?)
+
+!%$
+
+!Symbol for possible epenthetic vowel
+
+VEP
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! (2) INITIAL BRANCHING !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON Root
+! Tested lexica
+    Nouns ;
+    Verbs ;
+    Punctuation ;
+    Symbols     ;
+
+! Experimental lexica
+! Comment out the following experimental lexica for basic fst testing    
+   Nouns_and_adjectives ;
+    Verbs_alustavasti ;
+    Pronouns ;
+    Numerals_and_quantifiers ;
+    Adverbs ;
+    Postpositions ;             
+    Conjunctions ;        
+    Interjections ;     
+    Particles ;
+    Descriptive_words ;
+    Unknown_continuation ;
+
+!!!junktuurisymboli $, jotta morfofonologiset 
+!!!säännöt toimisivat oikein.
 
 
-!! !!Flag diacritics
-!! We have manually optimised the structure of our lexicon using following
-!! flag diacritics to restrict morhpological combinatorics - only allow compounds
-!! with verbs if the verb is further derived into a noun again:
- @P.NeedNoun.ON@    !!≈ | @CODE@ | (Dis)allow compounds with verbs unless nominalised
- @D.NeedNoun.ON@    !!≈ | @CODE@ | (Dis)allow compounds with verbs unless nominalised
- @C.NeedNoun@       !!≈ | @CODE@ | (Dis)allow compounds with verbs unless nominalised
-!! 
-!! For languages that allow compounding, the following flag diacritics are needed
-!! to control position-based compounding restrictions for nominals. Their use is
-!! handled automatically if combined with +CmpN/xxx tags. If not used, they will
-!! do no harm.
- @P.CmpFrst.FALSE@ !!≈ | @CODE@ | Require that words tagged as such only appear first
- @D.CmpPref.TRUE@  !!≈ | @CODE@ | Block such words from entering ENDLEX
- @P.CmpPref.FALSE@ !!≈ | @CODE@ | Block these words from making further compounds
- @D.CmpLast.TRUE@  !!≈ | @CODE@ | Block such words from entering R
- @D.CmpNone.TRUE@  !!≈ | @CODE@ | Combines with the next tag to prohibit compounding
- @U.CmpNone.FALSE@ !!≈ | @CODE@ | Combines with the prev tag to prohibit compounding
- @P.CmpOnly.TRUE@  !!≈ | @CODE@ | Sets a flag to indicate that the word has passed R
- @D.CmpOnly.FALSE@ !!≈ | @CODE@ | Disallow words coming directly from root.
-!! 
-!! Use the following flag diacritics to control downcasing of derived proper
-!! nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
-!! these flags. There exists a ready-made regex that will do the actual down-casing
-!! given the proper use of these flags.
- @U.Cap.Obl@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
- @U.Cap.Opt@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! THE END OF THE WORD !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-@C.NeedsVowRed@
-@U.NeedsVowRed.OFF@
-@U.NeedsVowRed.ON@
-
-
-
-
-
-
-!! !!The Root lexicon
-
-LEXICON Root  !! @CODE@ Here it all starts
-
-!! The word forms in Meadow Mari language start from the lexeme roots of 
-
-!! the following basic word classes: 
-adjectives  ;	   !!= * @CODE@ 
-adverbs  ;		   !!=   @CODE@ 
-conjunctions  ;	   !!=   @CODE@ 
-dependents   ;	   !!=   @CODE@ 
-interjections   ;  !!=   @CODE@ 
-nouns   ;		   !!=   @CODE@ 
-numbers    ;   !!=   @CODE@ 
-particles   ;	   !!=   @CODE@ 
-postpositions	;  !!=   @CODE@ 
-pronouns    ;	   !!=   @CODE@ 
-pronouns_not_from_xml ;	   !!=   @CODE@ 
-propernouns    ;   !!=   @CODE@ 
-propernouns-toponyms    ;   !!=   @CODE@ 
-verbs   ;		   !!=   @CODE@ 
-verbs_not_from_xml ;   !!=   @CODE@ 
-Abbreviation	;  !!=   @CODE@ 
-Acronym		;	   !!=   @CODE@ 
-Numeral		;	   !!=   @CODE@ 
-Punctuation	;	   !!=   @CODE@
-Symbols     ;	   !!=   @CODE@
-Exceptions ;  !!= * @CODE@
-NUM-COLL_  ;  !!=   @CODE@
-
-urj-Cyrl-ProperNouns ;  !!=   @CODE@ 
-
-ProperNoun-mhr ;  !!=   @CODE@ specifically Mari names
-
-! wordToNumeral	; !This has been moved to GTLANG/src/transcriptions/numbers.lexc
-
-
-!      ############# !
-!! !!!  Continuation lexica 
-!      ############# !
-
-!! Here comes a set of ragbag continuation lexica.
-
-LEXICON ADP_  !!= * @CODE@ TODO: why +WORK?
-+Adp: ENDLEX ;
-LEXICON CONJ_ !!= * @CODE@ TODO: why +WORK? All CONJ_ should be identified as either CC or CS or both, work in progress
-+CC+WORK: ENDLEX ;
-
-LEXICON CC_ !!= * @CODE@ conjunctinos
-: ENDLEX ;
-
-LEXICON CS_ !!= * @CODE@ subjunctions
-: ENDLEX ;
-
-LEXICON DESCR_
-+Interj+Descr: K ;
-LEXICON DESCR-AUD_ !!= * @CODE@ these are audible, others may be visible or otherwise sensed, but for now just calling them Interj+Descr should suffice
-+Interj+Descr: K ;
-
-LEXICON AD-A !!= * @CODE@ also adverbs
-+Adv: ENDLEX ;
-
-LEXICON INTERJ_ !!= * @CODE@ interjections
-: ENDLEX ;
-
-LEXICON Puh-a/e  !!= * @CODE@  XXX do not know
-N_ ;
-
-LEXICON Puh  !!= * @CODE@  XXX do not know
-N_ ;
-
-LEXICON PCLE_ !!= * @CODE@ particles, check these
-: ENDLEX ;
-
-LEXICON X !!= * @CODE@ for N attributes
-+N+Attr: ENDLEX ;
-
-
-LEXICON ENDLEX
- :%^END # ;
+LEXICON WordEnd
+ < "@D.GERSIM.BEG@" >  # ;  !To prevent path from GerSimBEG
+                                                ! -> Px -> WordEnd
 
 
 
 
-! vim: set ft=xfst-lexc:
+
+
+ 
+LEXICON X
++Cat: # ; ! to be determined
+ 
+LEXICON Unknown_continuation
+аш:аш   X ;  ! "aS lijZe! terveydeksi! (juotaessa) X" 
+вещевой:вещевой   X ;  ! "v. meSak reppu X" 
+винительный:винительный   X ;  ! "v. padeZ akkusatiivi X" 
+вуйым-почым:вуйым-почым   X ;  ! "v.-p. pogaS hankkia lähtöä X" 
+грецкий:грецкий   X ;  ! "g. pykS saksanpähkinä X" 
+дательный:дательный   X ;  ! "d. padeZ datiivi X" 
+желательный:желательный   X ;  ! "Z. naklonenij desideratiivi X" 
+зеркальный:зеркальный   X ;  ! "z. karp peilikarppi X" 
+ида:ида   X ;  ! "(ida˙) $v" 
+ида:ида   X ;  ! "älkää VKielt" 
+ит:ит   X ;  ! "älä VKielt" 
+йолт:йолт   X ;  ! "j. koAS väl(k)ähtää X" 
+йоҥ-йоҥ:йоҥ-йоҥ   X ;  ! "j. SoktaS soida X" 
+йора:йора   X ;  ! "j. nalaS (hevosen) raviharjoitus X" 
+коҥ:коҥ   X ;  ! "k. lijmeS tajuttomuuteen asti X" 
+коҥгок:коҥгок   X ;  ! "k. liAS (leivänkannikka) kuivua X" 
+копыж-ж:копыж-ж   X ;  ! "mogyr kovaStem k. lie minun tuli luihin asti vilu X" 
+косвенный:косвенный   X ;  ! "k. padeZ obliikvisija, k. dopolnenij välillinen objekti X" 
+кулай:кулай   X ;  ! "k. dene modmo piiloleikki X" 
+кумалтыш:кумалтыш   X ;  ! "k. vurgem kapiot (sulhaselle ja hänen sukulaisilleen) X" 
+кумыжвуян:кумыжвуян   X ;  ! "k. kiSke tarhakäärme, rantakäärme X" 
+кыдач-покшеч:кыдач-покшеч   X ;  ! "k. ojlyStaS puhua sekavasti X" 
+кыр-гор:кыр-гор   X ;  ! "k. SoktaS alkaa raapia/kuulua rapinaa X" 
+кырпак:кырпак   X ;  ! "k. lum ensilumi X" 
+леҥге:леҥг%^E   X ;  ! "l. oNa istumapenkin lauta X" 
+лийшаш:лийшаш   X ;  ! "pitää olla V" 
+лицевой:лицевой   X ;  ! "l. sCet henkilötili X" 
+логарумбал:логарумбал   X ;  ! "l. nörgö (anat.) kurkunkansi X" 
+лоштак:лоштак   X ;  ! "l. volen SinCaS istua kuin kotonaan X" 
+луэш:луэш   X ;  ! "l. nalaS mennä takuuseen, puolustaa X" 
+лумаш:лумаш   X ;  ! "ik l. mlande yhden ihmisen maaosuus X" 
+махым:махым   X ;  ! "m. puaS ogyl olla haksahtamatta X" 
+машинно-тракторный:машинно-тракторный   X ;  ! "m. stancij maanviljelyskoneasema X" 
+местный:местный   X ;  ! "m. padeZ lokatiivi X" 
+намызе:намыз%^E   X ;  ! "n. godso vanha(naikainen) X" 
+направительный:направительный   X ;  ! "n. padeZ tulosija X" 
+нашатырный:нашатырный   X ;  ! "n. spirt ammoniakki(liuos) X" 
+нелеш:нелеш   X ;  ! "n. nalaS pahastua X" 
+ноля:ноля   X ;  ! "n. meraN (ihm.) laiha X" 
+ньыге-нюге:ньыге-нюг%^E   X ;  ! "Conlan n. CuCeS tuntuu epämiellyttävältä X" 
+обстоятельственный:обстоятельственный   X ;  ! "o. padeZ (marin) latiivi(sija) X" 
+огеш:огеш   X ;  ! "ei Vkielt" 
+огыда:огыда   X ;  ! "ette Vkielt" 
+огыдал:огыдал   X ;  ! "ette ole Vkielt" 
+огыл:огыл   X ;  ! "ei ole Vkielt" 
+огым:огым   X ;  ! "en Vkielt" 
+огына:огына   X ;  ! "emme Vkielt" 
+огынал:огынал   X ;  ! "emme ole Vkielt" 
+огыт:огыт   X ;  ! "eivät Vkielt" 
+огыт:огыт   X ;  ! "et Vkielt" 
+огытыл:огытыл   X ;  ! "eivät ole Vkielt" 
+ода:ода   X ;  ! "ette Vkielt" 
+одал:одал   X ;  ! "ette ole Vkielt" 
+ок:ок   X ;  ! "ei Vkielt" 
+олмештыш:олмештыш   X ;  ! "o. mut pronomini X" 
+ом:ом   X ;  ! "en Vkielt" 
+омыл:омыл   X ;  ! "en ole Vkielt" 
+омыл:омыл   X ;  ! "en ole Vkielt" 
+она:она   X ;  ! "emme Vkielt" 
+онал:онал   X ;  ! "emme ole Vkielt" 
+от:от   X ;  ! "et Vkielt" 
+отчетно-сайлымаш:отчетно-сайлымаш   X ;  ! "o. pogynymaS vaalikokous X" 
+отыл:отыл   X ;  ! "et ole Vkielt" 
+ошын:ошын   X ;  ! "o. koAS valjeta X" 
+перспективный:перспективный   X ;  ! "p. paSa plan työn pitkän ajan suunnitelma X" 
+пжик:пжик   X ;  ! "p. koAS kadota, livistää X" 
+повелительный:повелительный   X ;  ! "p. naklonenij imperatiivi X" 
+повествовательный:повествовательный   X ;  ! "p. predloZenij väitelause X" 
+подвесной:подвесной   X ;  ! "p. korno nostinrata X" 
+пожа:пожа   X ;  ! "p. mySkyr möhömaha X" 
+понудительный:понудительный   X ;  ! "p. zalog kausatiivi X" 
+порволыже:порволыж%^E   X ;  ! "olkoon kirottu! V" 
+порволышаш:порволышаш   X ;  ! "tulkoon kirotuksi V" 
+почеш:почеш   X ;  ! "p. mut postpositio X" 
+пӧтынь:пӧтынь   X ;  ! "p. nalaS ostaa X" 
+превосходный:превосходный   X ;  ! "p. stepen< superlatiivi X" 
+препинаний:препинаний   X ;  ! "p. znak-vlak välimerkit X" 
+придаточный:придаточный   X ;  ! "p. predloZenij sivulause X" 
+пунчеж:пунчеж   X ;  ! "p. pu niveräinen puu X" 
+пучмыла:пучмыла   X ;  ! "p. kalasen SyndaS hän sanoa paukautti X" 
+пыч:пыч   X ;  ! "SinCam p. yStaS räp(s)äyttää silmää X" 
+рад:рад   X ;  ! "r. dene riveittäin X" 
+родительный:родительный   X ;  ! "r. padeZ genetiivi X" 
+роп:роп   X ;  ! "uSeS r. vozo ajatus tuli mieleen äkkiä X" 
+ручной:ручной   X ;  ! "r. granata käsikranaatti X" 
+руп:руп   X ;  ! "r. liAS tummeta X" 
+рушке:рушк%^E   X ;  ! "r. pu (puu, jossa on niverät syyt) X" 
+сип:сип   X ;  ! "s. CodYra tiheikkö X" 
+ситыш:ситыш   X ;  ! "on riittävästi, riittää V" 
+скорый:скорый   X ;  ! "s. poezd pikajuna X" 
+сообщений:сообщений   X ;  ! "s. korno ministerstvo liikenneministeriö X" 
+сослагательный:сослагательный   X ;  ! "s. naklonenij konditionaali X" 
+страдательный:страдательный   X ;  ! "s. zalog passiivi X" 
+так:так   X ;  ! "t. koStaS kulkea joutilaana X" 
+такеш:такеш   X ;  ! "t. kece arkipäivä X" 
+тап:тап   X ;  ! "t. tolaS sattua, joutua, esiintyä X" 
+ташлама:ташлама   X ;  ! "t. korka kousa X" 
+тойки-мойки:тойки-мойки   X ;  ! "(leikillinen sana laulussa) X" 
+торланен:торланен   X ;  ! "t. koStaS kuljeskella X" 
+тортен:тортен   X ;  ! "t. koStaS vältellä X" 
+туаде:туад%^E   X ;  ! "t. vodyn tänä iltana X" 
+тулеч:тулеч   X ;  ! "t. utla sen lisäksi; t. vara sen jälkeen; t. oZno sitä ennen X" 
+туп:туп   X ;  ! "t. imne aisahevonen. t. rodo verisukulaisuus. t. sokyr täysin sokea X" 
+туран:туран   X ;  ! "t. poCkaS lorvailla X" 
+тыҥгас:тыҥгас   X ;  ! "t. orva kaksipyöräiset kärryt X" 
+уголок:уголок   X ;  ! "krasnyj u. punanurkka X" 
+удобрений:удобрений   X ;  ! "iskusstvennyj u. apulanta X" 
+укалеш:укалеш   X ;  ! "ei ole Vkielt." 
+уке:уке   X ;  ! "ei, ei ole Vkielt" 
+уле:ул%^E   X ;  ! "on (olemassa) V" 
+улмаш:улмаш   X ;  ! "oli; (apuverbi) V" 
+улмаште:улмашт%^E   X ;  ! "(jnk) ollessa (läsnä); jos on V" 
+улмашын:улмашын   X ;  ! "oli; (apuverbi) V" 
+улме:улм%^E   X ;  ! "u:o godym ollessa, (jnk) aikana X" 
+умыландарыше:умыландарыш%^E   X ;  ! "u. Clen adverbiaali X" 
+условный:условный   X ;  ! "u. naklonenij konditionaali X" 
+уша:уша   X ;  ! "u. oNa lauta (jolla pyöritellään taikinaa) X" 
+удырлыкеш:удырлыкеш   X ;  ! "y. nalaS ottaa (otto)tyttäreksi X" 
+удырлыклан:удырлыклан   X ;  ! "y. nalaS ottaa (otto)tyttäreksi X" 
+чаня:чаня   X ;  ! "C. eN (ihminen) heikko, ponneton X" 
+чатлама:чатлама   X ;  ! "C. jyStö paukkupakkanen X" 
+чроҥ:чроҥ   X ;  ! "C. Sokten rämisten X" 
+чурк:чурк   X ;  ! "C. liAS herkistyä, höristää korviaan X" 
+чуч:чуч   X ;  ! "C. SinCaS laskeutua kyykkyyn X" 
+чылдыр-чолдыр:чылдыр-чолдыр   X ;  ! "C. SoktaS helistä, soida X" 
+чыли:чыли   X ;  ! "C. tul tuikku, (pieni) tuli X" 
+шагыл:шагыл   X ;  ! "S. jolan imne valkojalkainen hevonen X" 
+шемын:шемын   X ;  ! "S. koAS häämöttää X" 
+шожым:шожым   X ;  ! "S. luktaS poistaa lika X" 
+шот:шот   X ;  ! "S. dene (jnk) mukaan X" 
+шоч:шоч   X ;  ! "S. jyd sydänyö X" 
+шутыдыме:шутыдым%^E   X ;  ! "vij S. paSa ylivoimainen työ X" 
+шутыме:шутым%^E   X ;  ! "vij S. paSa voimien mukainen työ X" 
+шу-у:шу-у   X ;  ! "(onom. veden kohina, naurun hohotus) Pmuu" 
+шушкыш:шушкыш   X ;  ! "S. jyk vihellys(ääni) X" 
+шушпык:шушпык   X ;  ! "S. omo nokonen X" 
+шым:шым   X ;  ! "en (pret.) Vkielt" 
+шыч:шыч   X ;  ! "(SYC) $v" 
+шыч:шыч   X ;  ! "et (pret.) Vkielt" 
+ыле:ыл%^E   X ;  ! "oli; (kond.) -isi V" 
+ыльда:ыльда   X ;  ! "olitte V" 
+ыльна:ыльна   X ;  ! "olimme V" 
+ыльым:ыльым   X ;  ! "olin V" 
+ыльыч:ыльыч   X ;  ! "olit; olivat V" 
+ынеда:ынеда   X ;  ! "ette halua Vkielt" 
+ынеж:ынеж   X ;  ! "ei halua Vkielt" 
+ынем:ынем   X ;  ! "en halua Vkielt" 
+ынена:ынена   X ;  ! "emme halua Vkielt" 
+ынет:ынет   X ;  ! "et halua Vkielt" 
+ынешт:ынешт   X ;  ! "eivät halua Vkielt" 
+ынже:ынж%^E   X ;  ! "älköön Vkielt" 
+ынышт:ынышт   X ;  ! "älkööt Vkielt" 
+ыресан:ыресан   X ;  ! "Y. ENyremyS ristilukki X" 
+ыш:ыш   X ;  ! "ei (pret.) Vkielt" 
+ышда:ышда   X ;  ! "ette (pret.) Vkielt" 
+ышна:ышна   X ;  ! "emme (pret.) Vkielt" 
+ышт:ышт   X ;  ! "eivät (pret.) Vkielt" 
+ышым:ышым   X ;  ! "en (pret.) Vkielt" 
+ышыч:ышыч   X ;  ! "et (pret.) Vkielt" 
+юнге:юнг%^E   X ;  ! "U. Cer ajos (kynnen alla) X" 
+юпке:юпке   X ;  ! "U. kiAS maata oikoisena X" 
+ямым:ямым   X ;  ! "A. koStaS olla kyytimiehenä X" 
+ямынза:ямынза   X ;  ! "A. portyS huopa X" 
+
+ 
