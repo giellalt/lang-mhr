@@ -216,6 +216,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 
 !! Abbreviated words are classified with:
 +ABBR         !!≈ * __@CODE@__ = for abbreviations that (may) contain period
++Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
 +ACR          !!≈ * __@CODE@__ = acronyms
 
 !! Special symbols are classified with:
