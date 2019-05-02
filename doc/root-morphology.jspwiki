@@ -196,6 +196,7 @@ Question and Focus particles:
 
 Abbreviated words are classified with:
  * __+ABBR__ = for abbreviations that (may) contain period
+ * +Symbol = independent symbols in the text stream, like £, €, ©
  * __+ACR__ = acronyms
 
 Special symbols are classified with:
@@ -603,8 +604,9 @@ the following basic word classes:
    Abbreviation	;   
    Acronym		;	    
    Numeral		;	    
-   Punctuation	;	    
- * Exceptions ;   
+   Punctuation	;	   
+   Symbols     ;	   
+ * Exceptions ;  
    NUM-COLL_  ;  
 
    urj-Cyrl-ProperNouns ;   
