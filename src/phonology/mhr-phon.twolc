@@ -77,6 +77,7 @@ Alphabet
 %^VOTrigger:0  !!= * @CODE@ for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
 %^Sonorant:0   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
 %^Obstruent:0 !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
+%^FrontObstr:0 !!= * @CODE@ for use with acronyms after hyphen 
 
 
 ! old !  +  /  {  _  $  }  @  ~  &  # (old = Jorma 1985)
