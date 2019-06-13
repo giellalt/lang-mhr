@@ -441,6 +441,13 @@ REMOVE:AccNeedsVerb Acc IF (0C Nom OR Acc) (NOT -1* VFIN BARRIER BOS) (NOT 1* VF
 
 SELECT:NomCC $$CASE IF (1 CC) (*2C N + $$CASE BARRIER NON-PRE-N);
 
+
+
+#!! !Proper nouns
+
+REMOVE Sem/Fem IF (-1 Sem/Fem OR N + ABBR)(0 Sem/Sur);
+REMOVE Sem/Mal IF (-1 Sem/Mal OR N + ABBR)(0 Sem/Sur);
+
 #!! !Numerals
 
 #!! * __IkNumN__ ik is num before N Sg
