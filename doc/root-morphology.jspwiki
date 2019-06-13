@@ -19,6 +19,7 @@ presented in this system in terms of the following symbols.
  * %^VOTrigger   for use with acronyms after hyphen
  * %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
  * %^Obstruent  for use with acronyms after hyphen С|Ф|Ъ|Ь
+ * %^FrontObstr  for use with acronyms after hyphen С|Ф|Ъ|Ь
 
 
 
@@ -544,6 +545,22 @@ And following triggers to control variation
  * %- 
 
 
+ * %^VoTrigger   for use with acronyms after hyphen о у ё ю О У Ё Ю
+ * %^VeTrigger   for use with acronyms after hyphen а е и э я А Е И Э Я
+ * %^VOTrigger   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+ * %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+ * %^Obstruent   for use with acronyms after hyphen С|Ф|Ъ|Ь
+
+
+
+!!Symbols that need to be escaped on the lower side (towards twolc):
+ ; »7 : Literal »
+ ; «7 : Literal «
+{{{
+  %[%>%]  - Literal >
+  %[%<%]  - Literal <
+}}}
+
 
 !!Flag diacritics
 We have manually optimised the structure of our lexicon using following
@@ -592,7 +609,7 @@ the following basic word classes:
    dependents   ;	    
    interjections   ;   
    nouns   ;		    
-   numbers    ;    
+   numbers   ;    
    particles   ;	    
    postpositions	;   
    pronouns    ;	    
