@@ -35,6 +35,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 %^VOTrigger  !!= * @CODE@ for use with acronyms after hyphen
 %^Sonorant   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
 %^Obstruent !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
+%^FrontObstr !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
 
 
 %^END ! slutt
@@ -575,6 +576,14 @@ Z1      !!≈ * __@CODE@__ =
 Z2      !!≈ * __@CODE@__ = 
 %-      !!≈ * @CODE@ 
 
+
+%^VoTrigger  !!= * @CODE@ for use with acronyms after hyphen о у ё ю О У Ё Ю
+%^VeTrigger  !!= * @CODE@ for use with acronyms after hyphen а е и э я А Е И Э Я
+%^VOTrigger  !!= * @CODE@ for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+%^Sonorant   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+%^Obstruent  !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
+
+
 +Cmp
 +Cmp/Hyph
 +Cmp/SoftHyph
@@ -639,7 +648,7 @@ conjunctions  ;	   !!=   @CODE@
 dependents   ;	   !!=   @CODE@ 
 interjections   ;  !!=   @CODE@ 
 nouns   ;		   !!=   @CODE@ 
-numbers    ;   !!=   @CODE@ 
+numbers   ;   !!=   @CODE@ 
 particles   ;	   !!=   @CODE@ 
 postpositions	;  !!=   @CODE@ 
 pronouns    ;	   !!=   @CODE@ 
