@@ -97,7 +97,7 @@ LEXICON ARABICLOOP   !!≈ * __@CODE@__
                %/:%/       ARABIC          ; ! 24/12
              %/% :%/%      ARABIC          ; ! 24/ 12
              % %/:% %/     ARABIC          ; ! 24 /12
-                ':'7       ARABIC          ; ! Since ' denotes cons.grad. This is not optimal either.
+                ':'        ARABIC          ; ! 24'12
 
 
 LEXICON ARABICLOOPORD_Back   !!≈ * __@CODE@__ ordinals
@@ -118,17 +118,17 @@ LEXICON ARABICLOOPORD_FrontRound   !!≈ * __@CODE@__ ordinals
 
 LEXICON ARABICDELIMITERORD_Back   !!≈ * __@CODE@__ ordinals
  +Err/Orth:   ARABICCASEORD_Back ; ! This is the 1984s case.
- +Err/Orth:'7 ARABICCASEORD_Back ; ! This is the 1984's case.
+ +Err/Orth:'  ARABICCASEORD_Back ; ! This is the 1984's case.
  :%- ARABICCASEORD_Back ; ! This is the 1984-s case.
 
 LEXICON ARABICDELIMITERORD_Front   !!≈ * __@CODE@__ ordinals
  +Err/Orth:   ARABICCASEORD_Front ; ! This is the 1984s case.
- +Err/Orth:'7 ARABICCASEORD_Front ; ! This is the 1984's case.
+ +Err/Orth:'  ARABICCASEORD_Front ; ! This is the 1984's case.
  :%- ARABICCASEORD_Front ; ! This is the 1984-s case.
 
 LEXICON ARABICDELIMITERORD_FrontRound   !!≈ * __@CODE@__ ordinals
  +Err/Orth:   ARABICCASEORD_FrontRound ; ! This is the 1984s case.
- +Err/Orth:'7 ARABICCASEORD_FrontRound ; ! This is the 1984's case.
+ +Err/Orth:'  ARABICCASEORD_FrontRound ; ! This is the 1984's case.
  :%- ARABICCASEORD_FrontRound ; ! This is the 1984-s case.
 
 
