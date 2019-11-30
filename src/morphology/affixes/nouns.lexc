@@ -314,7 +314,7 @@ LEXICON N-OLD-ORTH-SG-NOM_  !!= * @CODE@
 
 LEXICON N-SG-NOM  !!= * @CODE@
  +Sg+Nom: K ; ! Non-attributive form
- ENDLEX ;     ! Attributive form
+ +Attr: ENDLEX ;     ! Attributive form
 
 LEXICON N-SG-GEN !!= * @CODE@
  +Sg+Gen:%>Ы1н K ;
