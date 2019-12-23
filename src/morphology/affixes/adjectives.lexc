@@ -15,7 +15,7 @@ LEXICON A_OLD-ORTH
 
 
 LEXICON A_  !! LEXICON A underscore
-         :      K  ;
+     +Attr:      K  ;
     +Comp:%>рак K  ;
     +Comp+Instr:%>ракын K  ;
     +Comp+Instr:%>Ы1нрак K ;
