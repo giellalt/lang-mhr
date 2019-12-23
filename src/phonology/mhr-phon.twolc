@@ -127,6 +127,11 @@ FrontUnrounded = [ [:Ve (•:) |ы •:|#|%^VeTrigger: (%^Sonorant:|%^Obstruent:
 !! !!Rules
 Rules
 
+"Punctuation bullet as such"
+!! __ @RULENAME@ __ This rule prevents deleting of BULLET when it forms a token. BULLET as stress mark is deleted as before.
+•:• <=> .#. _ .#. ;
+
+
 
 "Palatal mark loss before vowel"
 !! __ @RULENAME@ __ 
