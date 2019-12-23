@@ -465,6 +465,9 @@ REMOVE:KumNumAN N IF (0 ("кум"))(1 A OR N);
 #!! * __NotImp__ in most тиде cases
 REMOVE:tide V IF (0 ("тиде"))(NOT *1 ("^excl") + CLB);
 
+REMOVE:PronNotAttr Attr IF (0C Pron)(NOT 1 N);
+## Тиде мо?
+
 #!! * __NotInterr__ if Rel
 REMOVE:NotInterr Interr IF (-2 N)(-1 (","))(0 Rel);
 
@@ -589,6 +592,13 @@ REMOVE:NoExclNoInterj Interj IF (NOT *1 ("!"));# BARRIER COMMA) ;
 
 #!! __AifVövny__ selects A if вӧвны somewhere to the left
 SELECT:AifVövny A IF (*-1 ("вӧвны") BARRIER N);
+
+#!! !Conjunctions
+
+#!! * __NotPcle__
+REMOVE:NotPcle Pcle IF (-1 BOS OR CLB OR PUNCT)(0 CC);
+## - А тиче сай.
+
 
 
 SECTION
