@@ -385,7 +385,7 @@
 "<С.>"
 	"С" N ABBR <W:0.0> @>N
 "<Архипова>"
-	"Архипов" N N Prop Prop Sg Nom <W:0.0> @X
+	"Архипов" N Prop Sg Nom <W:0.0> @X
 : 
 "<респалдарыш>"
 	"респалдарыш" ? @X
@@ -559,7 +559,7 @@
 "<Г.>"
 	"Г" N ABBR <W:0.0> @>N
 "<Чавайнын>"
-	"Чавайн" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Чавайн" N Prop Sg Gen <W:0.0> @>N
 : 
 "<шочмыжлан>"
 	"шочмо" N Sg Dat PxSg3 So/PC <W:0.0> @ADVL>
@@ -820,7 +820,7 @@
 "<З.>"
 	"З" N ABBR <W:0.0> @>N
 "<Дудинан>"
-	"Дудин" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Дудин" N Prop Sg Gen <W:0.0> @>N
 : 
 "<да>"
 	"да" CC <W:0.0> @CVP @CNP
@@ -828,7 +828,7 @@
 "<В.>"
 	"В" N ABBR <W:0.0> @>N
 "<Матвеевын>"
-	"Матвеев" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Матвеев" N Prop Sg Gen <W:0.0> @>N
 : 
 "<пашаштым>"
 	"паша" N Sg Acc PxPl3 So/PC <W:0.0> @OBJ>
@@ -861,7 +861,7 @@
 "<А.>"
 	"А" N ABBR <W:0.0> @>N
 "<Подольскийым>"
-	"Подольский" N N Prop Prop Sg Acc <W:0.0> @OBJ>
+	"Подольский" N Prop Sg Acc <W:0.0> @OBJ>
 : 
 "<юбилейжылан>"
 	"юбилей" N Sg Dat PxSg3 So/PC <W:0.0> @ADVL>
@@ -1414,7 +1414,7 @@
 "<А.>"
 	"А" N ABBR <W:0.0> @>N
 "<Тимиркаевын>"
-	"Тимиркаев" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Тимиркаев" N Prop Sg Gen <W:0.0> @>N
 "<,>"
 	"," CLB <W:0.0>
 : 
@@ -1430,7 +1430,7 @@
 "<А.>"
 	"А" N ABBR <W:0.0> @>N
 "<Подольскийын>"
-	"Подольский" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Подольский" N Prop Sg Gen <W:0.0> @>N
 : 
 "<содоклад>"
 	"содоклад" N Attr <W:0.0> @>N
@@ -1738,7 +1738,7 @@
 "<А.>"
 	"А" N ABBR <W:0.0> @>N
 "<Тимиркаев>"
-	"Тимиркаев" N N Prop Prop Sg Nom <W:0.0> @SUBJ>
+	"Тимиркаев" N Prop Sg Nom <W:0.0> @SUBJ>
 : 
 "<теве>"
 	"теве" Adv <W:0.0> @ADVL>
@@ -2147,7 +2147,7 @@
 "<А.>"
 	"А" N ABBR <W:0.0> @>N
 "<Подольский>"
-	"Подольский" N N Prop Prop Sg Nom <W:0.0> @SUBJ>
+	"Подольский" N Prop Sg Nom <W:0.0> @SUBJ>
 : 
 "<ышташ>"
 	"ышташ" V Inf <W:0.0> @X
@@ -2355,8 +2355,8 @@
 "<В.>"
 	"В" N ABBR <W:0.0> @>N
 "<Панов>"
-	"Панов" N N Prop Prop <W:0.0> @>N
-	"Панов" N N Prop Prop Attr <W:0.0> @>N
+	"Панов" N Prop <W:0.0> @>N
+	"Панов" N Prop Attr <W:0.0> @>N
 : 
 "<поэзий>"
 	"поэзий" N Attr <W:0.0> @>N
@@ -2471,11 +2471,11 @@
 	"," CLB <W:0.0>
 : 
 "<Валентин>"
-	"Валентин" N N Prop Prop <W:0.0> @>N
-	"Валентин" N N Prop Prop Attr <W:0.0> @>N
+	"Валентин" N Prop <W:0.0> @>N
+	"Валентин" N Prop Attr <W:0.0> @>N
 : 
 "<Колумб>"
-	"Колумб" N N Prop Prop Sg Nom <W:0.0> @>P
+	"Колумб" N Prop Sg Nom <W:0.0> @>P
 : 
 "<дене>"
 	"дене" Adp Po <W:0.0> @ADVL>
@@ -2862,7 +2862,7 @@
 "<Г.>"
 	"Г" N ABBR <W:0.0> @>N
 "<Зайниевын>"
-	"Зайниев" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Зайниев" N Prop Sg Gen <W:0.0> @>N
 "<,>"
 	"," CLB <W:0.0>
 : 
@@ -2908,7 +2908,7 @@
 	"Гельсий" ? @X
 : 
 "<Зайниевичын>"
-	"Зайниевич" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Зайниевич" N Prop Sg Gen <W:0.0> @>N
 : 
 "<лӱмжӧ>"
 	"лӱм" N Sg Nom PxSg3 <W:0.0> @SUBJ>
@@ -3624,7 +3624,7 @@
 : 
 
 "<Настя>"
-	"Настя" N N Prop Prop Sg Nom <W:0.0> @SUBJ>
+	"Настя" N Prop Sg Nom <W:0.0> @SUBJ>
 : 
 "<изинекак>"
 	"изинʼек" Adv Foc/ak <W:0.0> @ADVL>
@@ -3833,8 +3833,8 @@
 	"," CLB <W:0.0>
 : 
 "<Настя>"
-	"Настя" N N Prop Prop <W:0.0> @>N
-	"Настя" N N Prop Prop Attr <W:0.0> @>N
+	"Настя" N Prop <W:0.0> @>N
+	"Настя" N Prop Attr <W:0.0> @>N
 : 
 "<медицина>"
 	"медицине" N Err/Orth <W:0.0> @>N
@@ -3934,7 +3934,7 @@
 	"—" PUNCT <W:0.0>
 : 
 "<Настя>"
-	"Настя" N N Prop Prop Sg Nom <W:0.0> @SUBJ>
+	"Настя" N Prop Sg Nom <W:0.0> @SUBJ>
 : 
 "<изинекак>"
 	"изинʼек" Adv Foc/ak <W:0.0> @ADVL>
@@ -3991,8 +3991,8 @@
 	"дене" Adp Po <W:0.0> @ADVL>
 : 
 "<Настя>"
-	"Настя" N N Prop Prop <W:0.0> @>N
-	"Настя" N N Prop Prop Attr <W:0.0> @>N
+	"Настя" N Prop <W:0.0> @>N
+	"Настя" N Prop Attr <W:0.0> @>N
 : 
 "<кугу>"
 	"кугу" A Attr <W:0.0> @>N
@@ -4184,7 +4184,7 @@
 	"тудо" Pron Pers Sg3 Nom Foc/Poss <W:0.0> @SUBJ>
 : 
 "<Настян>"
-	"Настя" N N Prop Prop Sg Gen <W:0.0> @>A
+	"Настя" N Prop Sg Gen <W:0.0> @>A
 : 
 "<изи>"
 	"изи" A Attr <W:0.0> @>N
@@ -4221,7 +4221,7 @@
 : 
 
 "<Настя>"
-	"Настя" N N Prop Prop Sg Nom <W:0.0> @HNOUN
+	"Настя" N Prop Sg Nom <W:0.0> @HNOUN
 : 
 "<—>"
 	"—" PUNCT <W:0.0>
@@ -4328,7 +4328,7 @@
 	"шупшаш" V Ind Prt2 Sg3 <W:0.0> @+FMAINV
 : 
 "<Настям>"
-	"Настя" N N Prop Prop Sg Acc <W:0.0> @X
+	"Настя" N Prop Sg Acc <W:0.0> @X
 "<?>"
 	"?" CLB <W:0.0>
 : 
@@ -4437,8 +4437,8 @@
 	"тӱс" N Sg Nom PxSg3 <W:0.0> @SUBJ>
 : 
 "<Настям>"
-	"Настя" N N Prop Prop Sg Acc <W:0.0> @OBJ>
-	"Настя" N N Prop Prop Sg Nom PxSg1 <W:0.0> @SUBJ>
+	"Настя" N Prop Sg Acc <W:0.0> @OBJ>
+	"Настя" N Prop Sg Nom PxSg1 <W:0.0> @SUBJ>
 : 
 "<шупшын>"
 	"шупшаш" V Ind Prt2 Sg3 <W:0.0> @+FMAINV
@@ -4803,7 +4803,7 @@
 	"," CLB <W:0.0>
 : 
 "<Настя>"
-	"Настя" N N Prop Prop Sg Nom <W:0.0> @APP-Pron<
+	"Настя" N Prop Sg Nom <W:0.0> @APP-Pron<
 "<?>"
 	"?" CLB <W:0.0>
 : 
@@ -5074,7 +5074,7 @@
 : 
 
 "<Настя>"
-	"Настя" N N Prop Prop Attr <W:0.0> @>N
+	"Настя" N Prop Attr <W:0.0> @>N
 : 
 "<гай>"
 	"гай" Adv <W:0.0> @ADVL>
@@ -5179,8 +5179,8 @@
 : 
 
 "<Настят>"
-	"Настя" N N Prop Prop Sg Nom Foc/at <W:0.0> @SUBJ>
-	"Настя" N N Prop Prop Sg Nom PxSg2 <W:0.0> @SUBJ>
+	"Настя" N Prop Sg Nom Foc/at <W:0.0> @SUBJ>
+	"Настя" N Prop Sg Nom PxSg2 <W:0.0> @SUBJ>
 : 
 "<шке>"
 	"шке" A Attr <W:0.0> @>N
@@ -5326,7 +5326,7 @@
 	"—" PUNCT <W:0.0>
 : 
 "<Настя>"
-	"Настя" N N Prop Prop Sg Nom <W:0.0> @SUBJ>
+	"Настя" N Prop Sg Nom <W:0.0> @SUBJ>
 : 
 "<йодо>"
 	"йодаш" V Ind Prt1 Sg3 <W:0.0> @+FMAINV
@@ -5364,7 +5364,7 @@
 	"ӱдыр" N Attr <W:0.0> @>N
 : 
 "<Настям>"
-	"Настя" N N Prop Prop Sg Nom PxSg1 <W:0.0> @SUBJ>
+	"Настя" N Prop Sg Nom PxSg1 <W:0.0> @SUBJ>
 : 
 "<ӧрын>"
 	"ӧраш" V Ger Gen <W:0.0> @X
@@ -5459,7 +5459,7 @@
 	"адакат" Adv <W:0.0> @ADVL>
 : 
 "<Настя>"
-	"Настя" N N Prop Prop Sg Nom <W:0.0> @>P
+	"Настя" N Prop Sg Nom <W:0.0> @>P
 : 
 "<ӱмбак>"
 	"ӱмбак" Adp Po <W:0.0> @ADVL>
@@ -5542,7 +5542,7 @@
 	"—" PUNCT <W:0.0>
 : 
 "<Настян>"
-	"Настя" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Настя" N Prop Sg Gen <W:0.0> @>N
 : 
 "<йолйыжыҥжат>"
 	"йолйыжыҥ" N Sg Nom PxSg3 Foc/at <W:0.0> @SUBJ>
@@ -5638,7 +5638,7 @@
 	"гана" Adp Po <W:0.0> @ADVL>
 : 
 "<Настян>"
-	"Настя" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Настя" N Prop Sg Gen <W:0.0> @>N
 : 
 "<документше-влакым>"
 	"документ" N Pl Acc PxSg3 So/PNC <W:0.0> @OBJ>
@@ -5710,7 +5710,7 @@
 : 
 
 "<Настян>"
-	"Настя" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Настя" N Prop Sg Gen <W:0.0> @>N
 : 
 "<кумылжо>"
 	"кумыл" N Sg Nom PxSg3 <W:0.0> @SUBJ>
@@ -5847,7 +5847,7 @@
 	"ӱдыр" N Attr <W:0.0> @>N
 : 
 "<Настя>"
-	"Настя" N N Prop Prop Sg Nom <W:0.0> @>P
+	"Настя" N Prop Sg Nom <W:0.0> @>P
 : 
 "<шеҥгелне>"
 	"шеҥгелне" Adp Po <W:0.0> @ADVL>
@@ -5873,8 +5873,8 @@
 : 
 
 "<Настя>"
-	"Настя" N N Prop Prop <W:0.0> @>N
-	"Настя" N N Prop Prop Attr <W:0.0> @>N
+	"Настя" N Prop <W:0.0> @>N
+	"Настя" N Prop Attr <W:0.0> @>N
 : 
 "<ӱстел>"
 	"ӱстел" N Sg Nom <W:0.0> @>P
@@ -6182,7 +6182,7 @@
 : 
 
 "<Настя>"
-	"Настя" N N Prop Prop Sg Nom <W:0.0> @SUBJ>
+	"Настя" N Prop Sg Nom <W:0.0> @SUBJ>
 : 
 "<трукышто>"
 	"трукышто" Adv <W:0.0> @ADVL>
@@ -6575,8 +6575,8 @@
 : 
 
 "<Настя>"
-	"Настя" N N Prop Prop <W:0.0> @>N
-	"Настя" N N Prop Prop Attr <W:0.0> @>N
+	"Настя" N Prop <W:0.0> @>N
+	"Настя" N Prop Attr <W:0.0> @>N
 : 
 "<йыр>"
 	"йыр" Adv <W:0.0> @ADVL>
@@ -6731,7 +6731,7 @@
 : 
 
 "<Машина>"
-	"Машин" N N Prop Prop Sg Nom <W:0.0> @>P
+	"Машин" N Prop Sg Nom <W:0.0> @>P
 	"машина" N Sg Nom <W:0.0> @>P
 : 
 "<гыч>"
@@ -6813,8 +6813,8 @@
 : 
 
 "<Настя>"
-	"Настя" N N Prop Prop <W:0.0> @SPRED>
-	"Настя" N N Prop Prop Attr <W:0.0> @>N
+	"Настя" N Prop <W:0.0> @SPRED>
+	"Настя" N Prop Attr <W:0.0> @>N
 : 
 "<ӧрын>"
 	"ӧраш" V Ger Gen <W:0.0> @X
@@ -6910,7 +6910,7 @@
 : 
 
 "<Настян>"
-	"Настя" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Настя" N Prop Sg Gen <W:0.0> @>N
 : 
 "<кумылжо>"
 	"кумыл" N Sg Nom PxSg3 <W:0.0> @SUBJ>
@@ -6959,7 +6959,7 @@
 : 
 
 "<Машина>"
-	"Машин" N N Prop Prop Sg Nom <W:0.0> @>P
+	"Машин" N Prop Sg Nom <W:0.0> @>P
 	"машина" N Sg Nom <W:0.0> @>P
 : 
 "<деке>"
@@ -7184,8 +7184,8 @@
 	"—" PUNCT <W:0.0>
 : 
 "<Настя>"
-	"Настя" N N Prop Prop <W:0.0> @>N
-	"Настя" N N Prop Prop Attr <W:0.0> @>N
+	"Настя" N Prop <W:0.0> @>N
+	"Настя" N Prop Attr <W:0.0> @>N
 : 
 "<шӱлыкын>"
 	"шӱлыкын" Adv <W:0.0> @ADVL>
@@ -7597,7 +7597,7 @@
 : 
 
 "<Тендан>"
-	"Тен" N N Prop Prop Sg Gen PxPl2 So/PC <W:0.0> @>P
+	"Тен" N Prop Sg Gen PxPl2 So/PC <W:0.0> @>P
 	"тый" Pron Pers Pl2 Gen <W:0.0> @>P
 : 
 "<гоч>"
@@ -7701,16 +7701,16 @@
 	"дене" Adp Po <W:0.0> @ADVL>
 : 
 "<Зоя>"
-	"Зоя" N N Prop Prop <W:0.0> @>N
-	"Зоя" N N Prop Prop Attr <W:0.0> @>N
+	"Зоя" N Prop <W:0.0> @>N
+	"Зоя" N Prop Attr <W:0.0> @>N
 : 
 "<Александровна>"
-	"Александр" N N Prop Prop Patr Attr <W:0.0> @>N
-	"Александр" N N Prop Prop Patr <W:0.0> @>N
+	"Александр" N Prop Patr Attr <W:0.0> @>N
+	"Александр" N Prop Patr <W:0.0> @>N
 : 
 "<Михайлова>"
-	"Михайлов" N N Prop Prop <W:0.0> @SPRED>
-	"Михайлов" N N Prop Prop Attr <W:0.0> @>N
+	"Михайлов" N Prop <W:0.0> @SPRED>
+	"Михайлов" N Prop Attr <W:0.0> @>N
 "<.>"
 	"." CLB <W:0.0>
 : 
@@ -8166,11 +8166,11 @@
 :\n
 
 "<Эрик>"
-	"Эрик" N N Prop Prop <W:0.0> @>N
-	"Эрик" N N Prop Prop Attr <W:0.0> @>N
+	"Эрик" N Prop <W:0.0> @>N
+	"Эрик" N Prop Attr <W:0.0> @>N
 : 
 "<Петров>"
-	"Петров" N N Prop Prop Sg Nom <W:0.0> @HNOUN
+	"Петров" N Prop Sg Nom <W:0.0> @HNOUN
 : 
 "<¶>"
 	"¶" CLB <W:0.0>
@@ -8397,8 +8397,8 @@
 	"Макси" N Prop Sg Acc <W:0.0> @>N
 : 
 "<Емельянов>"
-	"Емельянов" N N Prop Prop <W:0.0> @>N
-	"Емельянов" N N Prop Prop Attr <W:0.0> @>N
+	"Емельянов" N Prop <W:0.0> @>N
+	"Емельянов" N Prop Attr <W:0.0> @>N
 : 
 "<манмыла>"
 	"манаш" V Pass Prc Der/Nom N Sg Cmpr <W:0.0> @ADVL>
@@ -9456,14 +9456,14 @@
 	"кызытсе" A Attr <W:0.0> @>N
 : 
 "<Киров>"
-	"Киров" N N Prop Prop <W:0.0> @>N
-	"Киров" N N Prop Prop Attr <W:0.0> @>N
+	"Киров" N Prop <W:0.0> @>N
+	"Киров" N Prop Attr <W:0.0> @>N
 : 
 "<областьысе>"
 	"область" N Der/Rel Attr <W:0.0> @>N
 : 
 "<Кукарка>"
-	"Кукарка" N N Prop Prop Sg Nom <W:0.0> @<SUBJ
+	"Кукарка" N Prop Sg Nom <W:0.0> @<SUBJ
 	"кукарка" N Sg Nom <W:0.0> @<SUBJ
 : 
 "<(>"
@@ -9559,11 +9559,11 @@
 "<(>"
 	"(" PUNCT LEFT <W:0.0>
 "<Степан>"
-	"Степан" N N Prop Prop <W:0.0> @>N
-	"Степан" N N Prop Prop Attr <W:0.0> @>N
+	"Степан" N Prop <W:0.0> @>N
+	"Степан" N Prop Attr <W:0.0> @>N
 : 
 "<Антропов>"
-	"Антропов" N N Prop Prop Sg Nom <W:0.0> @X
+	"Антропов" N Prop Sg Nom <W:0.0> @X
 "<)>"
 	")" PUNCT RIGHT <W:0.0>
 : 
@@ -9591,7 +9591,7 @@
 	"Яким" ? @X
 : 
 "<Антропов>"
-	"Антропов" N N Prop Prop Sg Nom <W:0.0> @X
+	"Антропов" N Prop Sg Nom <W:0.0> @X
 "<)>"
 	")" PUNCT RIGHT <W:0.0>
 : 
@@ -9620,11 +9620,11 @@
 "<(>"
 	"(" PUNCT LEFT <W:0.0>
 "<Кирилл>"
-	"Кирилл" N N Prop Prop <W:0.0> @>N
-	"Кирилл" N N Prop Prop Attr <W:0.0> @>N
+	"Кирилл" N Prop <W:0.0> @>N
+	"Кирилл" N Prop Attr <W:0.0> @>N
 : 
 "<Бусыгин>"
-	"Бусыгин" N N Prop Prop Sg Nom <W:0.0> @SUBJ>
+	"Бусыгин" N Prop Sg Nom <W:0.0> @SUBJ>
 "<)>"
 	")" PUNCT RIGHT <W:0.0>
 : 
@@ -9687,8 +9687,8 @@
 	"олмо" N Sg Lat <W:0.0> @>N
 : 
 "<Кукарка>"
-	"Кукарка" N N Prop Prop <W:0.0> @>N
-	"Кукарка" N N Prop Prop Attr <W:0.0> @>N
+	"Кукарка" N Prop Attr <W:0.0> @>N
+	"Кукарка" N Prop <W:0.0> @>N
 	"кукарка" N Attr <W:0.0> @>N
 : 
 "<олам>"
@@ -9928,8 +9928,8 @@
 	"села" N Attr <W:0.0> @>N
 : 
 "<Киров>"
-	"Киров" N N Prop Prop <W:0.0> @>N
-	"Киров" N N Prop Prop Attr <W:0.0> @>N
+	"Киров" N Prop <W:0.0> @>N
+	"Киров" N Prop Attr <W:0.0> @>N
 : 
 "<областьыште>"
 	"область" N Sg Ine <W:0.0> @ADVL>
@@ -11318,11 +11318,11 @@
 	"участник" N Sg Nom PxSg3 <W:0.0> @SUBJ>
 : 
 "<Андрей>"
-	"Андрей" N N Prop Prop <W:0.0> @>N
-	"Андрей" N N Prop Prop Attr <W:0.0> @>N
+	"Андрей" N Prop <W:0.0> @>N
+	"Андрей" N Prop Attr <W:0.0> @>N
 : 
 "<Светлаковын>"
-	"Светлаков" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Светлаков" N Prop Sg Gen <W:0.0> @>N
 "<)>"
 	")" PUNCT RIGHT <W:0.0>
 : 
@@ -12104,8 +12104,8 @@
 	"кызытсе" A Attr <W:0.0> @>N
 : 
 "<Кострома>"
-	"Кострома" N N Prop Prop <W:0.0> @>N
-	"Кострома" N N Prop Prop Attr <W:0.0> @>N
+	"Кострома" N Prop Attr <W:0.0> @>N
+	"Кострома" N Prop <W:0.0> @>N
 : 
 "<областьым>"
 	"область" N Sg Acc <W:0.0> @OBJ>
@@ -13712,8 +13712,8 @@
 	"Йыван" N Prop Attr <W:0.0> @>N
 : 
 "<Петя>"
-	"Петя" N N Prop Prop <W:0.0> @>N
-	"Петя" N N Prop Prop Attr <W:0.0> @>N
+	"Петя" N Prop <W:0.0> @>N
+	"Петя" N Prop Attr <W:0.0> @>N
 : 
 "<чӱчӱн>"
 	"чӱчӱ" N Sg Gen <W:0.0> @>N
@@ -13721,11 +13721,11 @@
 "<(>"
 	"(" PUNCT LEFT <W:0.0>
 "<Петр>"
-	"Пётр" N N Prop Prop <W:0.0> @>N
-	"Пётр" N N Prop Prop Attr <W:0.0> @>N
+	"Пётр" N Prop <W:0.0> @>N
+	"Пётр" N Prop Attr <W:0.0> @>N
 : 
 "<Антроповын>"
-	"Антропов" N N Prop Prop Sg Gen <W:0.0> @>N
+	"Антропов" N Prop Sg Gen <W:0.0> @>N
 "<)>"
 	")" PUNCT RIGHT <W:0.0>
 : 
@@ -15742,8 +15742,8 @@
 	"," CLB <W:0.0>
 : 
 "<Красная>"
-	"Красный" N N Prop Prop <W:0.0> @>N
-	"Красный" N N Prop Prop Attr <W:0.0> @>N
+	"Красный" N Prop <W:0.0> @>N
+	"Красный" N Prop Attr <W:0.0> @>N
 : 
 "<Олма>"
 	"олма" A Attr <W:0.0> @>N
@@ -15751,7 +15751,7 @@
 	"," CLB <W:0.0>
 : 
 "<Красная>"
-	"Красный" N N Prop Prop Sg Nom <W:0.0> @SUBJ>
+	"Красный" N Prop Sg Nom <W:0.0> @SUBJ>
 : 
 "<деревня>"
 	"деревня" ? @X
@@ -21186,16 +21186,16 @@
 :\n
 
 "<Кудряшов>"
-	"Кудряшов" N N Prop Prop <W:0.0> @>N
-	"Кудряшов" N N Prop Prop Attr <W:0.0> @>N
+	"Кудряшов" N Prop <W:0.0> @>N
+	"Кудряшов" N Prop Attr <W:0.0> @>N
 : 
 "<Михаил>"
-	"Михаил" N N Prop Prop <W:0.0> @>N
-	"Михаил" N N Prop Prop Attr <W:0.0> @>N
+	"Михаил" N Prop <W:0.0> @>N
+	"Михаил" N Prop Attr <W:0.0> @>N
 : 
 "<Иванович>"
-	"Иванович" N N Prop Prop <W:0.0> @>N
-	"Иванович" N N Prop Prop Attr <W:0.0> @>N
+	"Иванович" N Prop <W:0.0> @>N
+	"Иванович" N Prop Attr <W:0.0> @>N
 : 
 "<Курыкмарий>"
 	"курыкмарий" N Attr <W:0.0> @>N
@@ -21612,16 +21612,16 @@
 : 
 
 "<Акшиков>"
-	"Акшиков" N N Prop Prop <W:0.0> @>N
-	"Акшиков" N N Prop Prop Attr <W:0.0> @>N
+	"Акшиков" N Prop <W:0.0> @>N
+	"Акшиков" N Prop Attr <W:0.0> @>N
 : 
 "<Александр>"
-	"Александр" N N Prop Prop <W:0.0> @>N
-	"Александр" N N Prop Prop Attr <W:0.0> @>N
+	"Александр" N Prop <W:0.0> @>N
+	"Александр" N Prop Attr <W:0.0> @>N
 : 
 "<Геннадьевич>"
-	"Геннадьевич" N N Prop Prop <W:0.0> @>N
-	"Геннадьевич" N N Prop Prop Attr <W:0.0> @>N
+	"Геннадьевич" N Prop <W:0.0> @>N
+	"Геннадьевич" N Prop Attr <W:0.0> @>N
 : 
 "<Шернур>"
 	"Шернур" N Prop Attr <W:0.0> @>N
@@ -21861,14 +21861,14 @@
 : 
 
 "<Соловьев>"
-	"Соловьев" N N Prop Prop <W:0.0> @>N
-	"Соловьев" N N Prop Prop Attr <W:0.0> @>N
-	"Соловьёв" N N Prop Prop <W:0.0> @>N
-	"Соловьёв" N N Prop Prop Attr <W:0.0> @>N
+	"Соловьев" N Prop <W:0.0> @>N
+	"Соловьев" N Prop Attr <W:0.0> @>N
+	"Соловьёв" N Prop <W:0.0> @>N
+	"Соловьёв" N Prop Attr <W:0.0> @>N
 : 
 "<Юрий>"
-	"Юрий" N N Prop Prop <W:0.0> @>N
-	"Юрий" N N Prop Prop Attr <W:0.0> @>N
+	"Юрий" N Prop <W:0.0> @>N
+	"Юрий" N Prop Attr <W:0.0> @>N
 : 
 "<Ильич>"
 	"Ильич" N Prop <W:0.0> @>N
