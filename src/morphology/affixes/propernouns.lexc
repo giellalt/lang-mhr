@@ -5,8 +5,8 @@
 !! nouns, but with a colon (':') as separator. (???)
 
 LEXICON PROP-OLD-ORTH-SG-NOM_  !!= * @CODE@
-+Err/Orth+N+Prop+Sg+Nom: ENDLEX ;
-+Err/Orth+N+Prop: ENDLEX ;
++Err/Orth+Sg+Nom: ENDLEX ;
++Err/Orth: ENDLEX ;
 
 
 LEXICON PROP_  !!= * @CODE@
@@ -108,23 +108,23 @@ LEXICON Deriv-RUS-IN_SURMAL !!= * @CODE@
 
 
 LEXICON PROP_KAL_SURMAL !!= * @CODE@
- +N+Prop+Sem/Sur: N-ava_01 ;
- +N+Prop+Sem/Mal: N-ava_01 ;
- +N+Prop+Sem/Sur: ENDLEX ;
- +N+Prop+Sem/Mal: ENDLEX ;
+ +Sem/Sur: N-ava_01 ;
+ +Sem/Mal: N-ava_01 ;
+ +Sem/Sur: ENDLEX ;
+ +Sem/Mal: ENDLEX ;
 
 LEXICON PROP_KUDO_SURFEM !!= * @CODE@
- +N+Prop+Sem/Sur: N-ava_01 ;
- +N+Prop+Sem/Fem: N-ava_01 ;
- +N+Prop+Sem/Sur: ENDLEX ;
- +N+Prop+Sem/Fem: ENDLEX ;
+ +Sem/Sur: N-ava_01 ;
+ +Sem/Fem: N-ava_01 ;
+ +Sem/Sur: ENDLEX ;
+ +Sem/Fem: ENDLEX ;
 
 LEXICON CYRL-CONS_SUR !!= * @CODE@
   PropSur-kal ;
 
 LEXICON PropSur-kal !!= * @CODE@
- +N+Prop+Sem/Sur: N-ava_01 ;
- +N+Prop+Sem/Sur: ENDLEX ;
+ +Sem/Sur: N-ava_01 ;
+ +Sem/Sur: ENDLEX ;
 
 LEXICON CYRL-T_SUR !!= * @CODE@
   PropSur-kit ;
@@ -145,8 +145,8 @@ LEXICON CYRL-SIBILANT_SUR !!= * @CODE@
   PropSur-osh ;
 
 LEXICON PropSur-osh !!= * @CODE@
- +N+Prop+Sem/Sur: N-ava_01 ;
- +N+Prop+Sem/Sur: ENDLEX ;
+ +Sem/Sur: N-ava_01 ;
+ +Sem/Sur: ENDLEX ;
 
 LEXICON CYRL-VOW_SUR !!= * @CODE@
   PROP_KUDO_SUR ;
@@ -155,36 +155,36 @@ LEXICON CYRL-A_SUR !!= * @CODE@
   PROP_KUDO_SUR ;
 
 LEXICON PROP_OSH_SUR !!= * @CODE@
- +N+Prop+Sem/Sur: N-ava_01 ;
- +N+Prop+Sem/Sur: ENDLEX ;
+ +Sem/Sur: N-ava_01 ;
+ +Sem/Sur: ENDLEX ;
 
 LEXICON PROP_KIT_SUR !!= * @CODE@
- +N+Prop+Sem/Sur: N-ava_01 ;
- +N+Prop+Sem/Sur: ENDLEX ;
+ +Sem/Sur: N-ava_01 ;
+ +Sem/Sur: ENDLEX ;
 
 LEXICON PROP_KUDO_SUR !!= * @CODE@
- +N+Prop+Sem/Sur: N-ava_01 ;
- +N+Prop+Sem/Sur: ENDLEX ;
+ +Sem/Sur: N-ava_01 ;
+ +Sem/Sur: ENDLEX ;
 
 LEXICON PROP_KAL_MAL !!= * @CODE@
- +N+Prop+Sem/Mal: N-ava_01 ;
- +N+Prop+Sem/Mal: ENDLEX ;
+ +Sem/Mal: N-ava_01 ;
+ +Sem/Mal: ENDLEX ;
 
 LEXICON PROP_LAK_MAL !!= * @CODE@
- +N+Prop+Sem/Mal: N-ava_01 ;
- +N+Prop+Sem/Mal: ENDLEX ;
+ +Sem/Mal: N-ava_01 ;
+ +Sem/Mal: ENDLEX ;
 
 LEXICON PROP_KIT_MAL !!= * @CODE@
- +N+Prop+Sem/Mal: N-ava_01 ;
- +N+Prop+Sem/Mal: ENDLEX ;
+ +Sem/Mal: N-ava_01 ;
+ +Sem/Mal: ENDLEX ;
 
 LEXICON PROP_OSH_MAL !!= * @CODE@
- +N+Prop+Sem/Mal: N-ava_01 ;
- +N+Prop+Sem/Mal: ENDLEX ;
+ +Sem/Mal: N-ava_01 ;
+ +Sem/Mal: ENDLEX ;
 
 LEXICON PROP_KUDO_MAL !!= * @CODE@
- +N+Prop+Sem/Mal: N-ava_01 ;
- +N+Prop+Sem/Mal: ENDLEX ;
+ +Sem/Mal: N-ava_01 ;
+ +Sem/Mal: ENDLEX ;
 
 LEXICON LEXC_PROP_KUDO_MAL !!= * @CODE@
  +N+Prop+Sem/Mal: N-ava_01 ;
@@ -193,31 +193,31 @@ LEXICON LEXC_PROP_KUDO_MAL !!= * @CODE@
 
 
 LEXICON PROP_OSH_PATRMAL !!= * @CODE@
- +N+Prop+Patr+Sem/Mal: N-ava_01 ;
- +N+Prop+Patr+Sem/Mal: ENDLEX ;
+ +Patr+Sem/Mal: N-ava_01 ;
+ +Patr+Sem/Mal: ENDLEX ;
 
 LEXICON PROP_KUDO_PATRFEM !!= * @CODE@
- +N+Prop+Patr+Sem/Fem: N-ava_01 ;
- +N+Prop+Patr+Sem/Mal: ENDLEX ;
+ +Patr+Sem/Fem: N-ava_01 ;
+ +Patr+Sem/Mal: ENDLEX ;
 
 
 !! !!Female Given names 
 
 
 LEXICON PROP_KAL_FEM !!= * @CODE@
- +N+Prop+Sem/Fem: N-ava_01 ;
- +N+Prop+Sem/Fem: ENDLEX ;
+ +Sem/Fem: N-ava_01 ;
+ +Sem/Fem: ENDLEX ;
 
 !LEXICON PROP_LAK_FEM
-! +N+Prop+Sem/Fem: N-ava_01 ;
+! +Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_KIT_FEM !!= * @CODE@
- +N+Prop+Sem/Fem: N-ava_01 ;
- +N+Prop+Sem/Fem: ENDLEX ;
+ +Sem/Fem: N-ava_01 ;
+ +Sem/Fem: ENDLEX ;
 
 LEXICON PROP_OSH_FEM !!= * @CODE@
- +N+Prop+Sem/Fem: N-ava_01 ;
- +N+Prop+Sem/Fem: ENDLEX ;
+ +Sem/Fem: N-ava_01 ;
+ +Sem/Fem: ENDLEX ;
 
 !LEXICON PROP_ТЕШТЕ_FEM
 !  PROP_ПАНГО_FEM ;
@@ -226,11 +226,11 @@ LEXICON PROP_OSH_FEM !!= * @CODE@
 !  PROP_ПАНГО_FEM ;
 
 !LEXICON PROP_ПАНГО_FEM
-! +N+Prop+Sem/Fem: N-ava_01 ;
+! +Sem/Fem: N-ava_01 ;
 
 LEXICON PROP_KUDO_FEM !!= * @CODE@
- +N+Prop+Sem/Fem: N-ava_01 ;
- +N+Prop+Sem/Fem: ENDLEX ;
+ +Sem/Fem: N-ava_01 ;
+ +Sem/Fem: ENDLEX ;
 
 LEXICON LEXC_PROP_KUDO_FEM !!= * @CODE@
  +N+Prop+Sem/Fem: N-ava_01 ;
@@ -240,25 +240,25 @@ LEXICON LEXC_PROP_KUDO_FEM !!= * @CODE@
 !! PLACE NAMES FROM TEMPLATE 
 
 LEXICON PROP-PLC_KAL !!= * @CODE@
- +N+Prop+Sem/Plc: N-ava_01 ;
- +N+Prop+Sem/Plc: ENDLEX ;
+ +Sem/Plc: N-ava_01 ;
+ +Sem/Plc: ENDLEX ;
 
 LEXICON PROP-PLC_KIT !!= * @CODE@
- +N+Prop+Sem/Plc: N-ava_01 ;
- +N+Prop+Sem/Plc: ENDLEX ;
+ +Sem/Plc: N-ava_01 ;
+ +Sem/Plc: ENDLEX ;
 
 !LEXICON PROP-PLC_OSH
-! +N+Prop+Sem/Plc: N-ava_01 ;
+! +Sem/Plc: N-ava_01 ;
 
 LEXICON PROP-PLC_KUDO !!= * @CODE@
- +N+Prop+Sem/Plc: N-ava_01 ;
- +N+Prop+Sem/Plc: ENDLEX ;
+ +Sem/Plc: N-ava_01 ;
+ +Sem/Plc: ENDLEX ;
 
 
 
 !LEXICON Prop !!= * @CODE@
-! +N+Prop: N-continuation ;
-! +N+Prop: ENDLEX ;
+! : N-continuation ;
+! : ENDLEX ;
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
 +Sg+Nom:     ENDLEX ;
