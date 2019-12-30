@@ -191,6 +191,7 @@ LIST Der/Nom = Der/Nom ; #!! Der/Nom
 	#!! !Tags for internal testing
 LIST CmpTest = CmpTest ; #!! CmpTest
 LIST Err = Err ; #!! Err
+LIST Err/Orth = Err/Orth ;
 
 LIST @ADVL> = @ADVL> ;
 LIST @>P = @>P ;
@@ -599,6 +600,8 @@ SELECT:AifVövny A IF (*-1 ("вӧвны") BARRIER N);
 REMOVE:NotPcle Pcle IF (-1 BOS OR CLB OR PUNCT)(0 CC);
 ## - А тиче сай.
 
+#!! * __NoErrOrth__
+REMOVE:NoErrOrth Err/Orth ;
 
 
 SECTION
