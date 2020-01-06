@@ -99,7 +99,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">ато</l>
+      <l pos="CC">ато</l>
 
       <stg>
         <st Contlex="CONJ_">ато</st>
@@ -112,14 +112,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">вет</l>
+      <l pos="CC">вет</l>
 
       <stg>
         <st Contlex="CONJ_">вет</st>
@@ -132,7 +132,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
@@ -211,7 +211,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">даже</l>
+      <l pos="CC">даже</l>
 
       <stg>
         <st Contlex="CONJ_">даж%{еы%}</st>
@@ -224,7 +224,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
@@ -296,14 +296,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">зато</l>
+      <l pos="CC">зато</l>
 
       <stg>
         <st Contlex="CONJ_">зато</st>
@@ -316,14 +316,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">и</l>
+      <l pos="CC">и</l>
 
       <stg>
         <st Contlex="CONJ_">и</st>
@@ -336,14 +336,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">ито</l>
+      <l pos="CC">ито</l>
 
       <stg>
         <st Contlex="CONJ_">ито</st>
@@ -356,14 +356,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">кала</l>
+      <l pos="CC">кала</l>
 
       <stg>
         <st Contlex="CONJ_">кала</st>
@@ -376,7 +376,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
@@ -422,7 +422,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
@@ -479,7 +479,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">ни</l>
+      <l pos="CC">ни</l>
 
       <stg>
         <st Contlex="CONJ_">ни</st>
@@ -492,7 +492,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
@@ -535,7 +535,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
@@ -562,7 +562,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">садак</l>
+      <l pos="CC">садак</l>
 
       <stg>
         <st Contlex="K">садак</st>
@@ -583,7 +583,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">садиктак</l>
+      <l pos="CC">садиктак</l>
 
       <stg>
         <st Contlex="K">садиктак</st>
@@ -604,7 +604,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">садлан</l>
+      <l pos="CC">садлан</l>
 
       <stg>
         <st Contlex="CONJ_">садлан</st>
@@ -617,14 +617,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">санден</l>
+      <l pos="CC">санден</l>
 
       <stg>
         <st Contlex="CONJ_">санден</st>
@@ -637,14 +637,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">сандене</l>
+      <l pos="CC">сандене</l>
 
       <stg>
         <st Contlex="CONJ_">санден%{еы%}</st>
@@ -657,7 +657,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
@@ -685,7 +685,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">то</l>
+      <l pos="CC">то</l>
 
       <stg>
         <st Contlex="CONJ_">то</st>
@@ -698,14 +698,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">только</l>
+      <l pos="CC">только</l>
 
       <stg>
         <st Contlex="CONJ_">только</st>
@@ -739,14 +739,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Conj"/>
+        <t pos="CC"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">что</l>
+      <l pos="CC">что</l>
 
       <stg>
         <st Contlex="CS_">что</st>
@@ -770,7 +770,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">чтобы</l>
+      <l pos="CC">чтобы</l>
 
       <stg>
         <st Contlex="CS_">чтобы</st>
