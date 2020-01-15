@@ -126,7 +126,7 @@ Define alphabet "a-z"
                |{Ӓ}|{Ӧ}|{Ӱ}|{Ӹ}|{Ҥ}
                |{ӓ}|{ӧ}|{ӱ}|{ӹ}|{ҥ}
                | "0-9"
-               |{_}|{§}|{°}|{©}
+               |{_}|{§}|{°}|{©}|{№}
                ;
 Define alphamiddle {'}|{-} ; ! Treat foo-bar as one big unknown, but -foo (or bar-) as two tokens
 Define alphaword alphabet+ ( alphamiddle alphabet+ );
