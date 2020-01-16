@@ -60,6 +60,7 @@ Define blank           Whitespace | incondform
                        | { } ! U+2001    Em Quad                    &#8193;
                        | { } ! U+2002    En Space                   &#8194;
                        | { } ! U+2003    Em Space                   &#8195;
+                       | { } ! U+0020    Space                      &#32;
                        | { } ! U+2004    Three-Per-Em Space         &#8196;
                        | { } ! U+2005    Four-Per-Em Space          &#8197;
                        | { } ! U+2006    Six-Per-Em Space           &#8198;
@@ -126,7 +127,7 @@ Define alphabet "a-z"
                |{Ӓ}|{Ӧ}|{Ӱ}|{Ӹ}|{Ҥ}
                |{ӓ}|{ӧ}|{ӱ}|{ӹ}|{ҥ}
                | "0-9"
-               |{_}|{§}|{°}|{©}|{№}
+               |{_}|{§}|{°}|{©}|{№}|{„}|{º}|{‰}
                ;
 Define alphamiddle {'}|{-} ; ! Treat foo-bar as one big unknown, but -foo (or bar-) as two tokens
 Define alphaword alphabet+ ( alphamiddle alphabet+ );
