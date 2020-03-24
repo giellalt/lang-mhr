@@ -154,9 +154,9 @@ LEXICON CYRL-VOW_SUR !!= * @CODE@
 LEXICON CYRL-A_SUR !!= * @CODE@
   PROP_KUDO_SUR ;
 
-LEXICON PROP_OSH_SUR !!= * @CODE@
- +Sem/Sur: N-ava_01 ;
- +Sem/Sur: ENDLEX ;
+!LEXICON PROP_OSH_SUR !!= * @CODE@
+! +Sem/Sur: N-ava_01 ;
+! +Sem/Sur: ENDLEX ;
 
 LEXICON PROP_KIT_SUR !!= * @CODE@
  +Sem/Sur: N-ava_01 ;
