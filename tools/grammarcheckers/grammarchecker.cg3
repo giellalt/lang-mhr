@@ -48,7 +48,7 @@
 
 
 # The pipeline (but use modes, above)
-#  echo "Тудо ок тола." | hfst-tokenise --giella-cg  ../tokenisers/tokeniser-gramcheck-gt-desc.pmhfst | vislcg3 -g ../../src/syntax/disambiguator.cg3 -t | vislcg3 -g grammarchecker.cg3 -t
+#  echo "Тудо ок тола." | hfst-tokenise --giella-cg  ../tokenisers/tokeniser-gramcheck-gt-desc.pmhfst | vislcg3 -g ../../src/cg3/disambiguator.cg3 -t | vislcg3 -g grammarchecker.cg3 -t
 
 
 
