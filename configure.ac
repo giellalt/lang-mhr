@@ -94,14 +94,14 @@ AM_CONDITIONAL([HAVE_AREAS], [test "x$AREAS" != "x"])
 # alternate orthographies, also the default must have a name.
 # It is assumed that conversion from the default orthography to the alternate
 # orthographies can be done programmatically with a regex or xfscript.
-AC_SUBST([DEFAULT_ORTH], [""])
-AC_SUBST([ALT_ORTHS], [""])
+AC_SUBST([DEFAULT_ORTH], ["standard"])
+AC_SUBST([ALT_ORTHS], ["thirties"])
 AM_CONDITIONAL([HAVE_ALT_ORTHS], [test "x$ALT_ORTHS" != "x" \
                                     -a "x$DEFAULT_ORTH" != "x"])
 # Specify whether spellers for alternative orthographies should be built, the
 # default is to build them. Change the value below from 'true' to 'false' if
 # such spellers are NOT wanted.
-AM_CONDITIONAL([WANT_ALT_ORTH_SPELLERS], [ true ])
+AM_CONDITIONAL([WANT_ALT_ORTH_SPELLERS], [ false ])
 
 # Case handling: the default is to assume an orthography with case distinctions:
 # upper vs lower case. That is not always true, or the case handling is such
@@ -119,7 +119,7 @@ AM_CONDITIONAL([HAVE_DIALECTS], [test "x$DIALECTS" != "x"])
 ########## LANGUAGE SPECIFIC BUILD SETTINGS ##########
 
 # NO_PHONOLOGY = yes
-# ... makes the bulid process skip compilation of anything in the phonology/
+# ... makes the bulid process skip compilation of anything in the morphology/
 # dir. This is mainly useful when building from external sources such that the
 # lexical fst built in the morphology/ dir is actually the full analyser.
 # The variable can also be set if a language is such that everything is
