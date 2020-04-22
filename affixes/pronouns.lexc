@@ -1,0 +1,32 @@
+
+
+!Pronouns
+
+LEXICON Pron    
++Pron:   AfterN       ;
+
+!LEXICON PronV    
+!+Pr:   SxPronV       ;
+
+!LEXICON PronEnc    
+!+Pr:   SxPronEnc       ;
+
+!LEXICON PronUndecl    
+!+Pr:   SxPronUndecl       ;
+
+
+
+
+!Pronouns
+
+!LEXICON SxN     !Tämä on jo substantiiveissa  
+
+!LEXICON SxPronV       
+!$x  WordEnd	;
+
+!LEXICON SxPronEnc       
+!$x  WordEnd	;
+
+!LEXICON SxPronUndecl       
+!$x  WordEnd	;
+
