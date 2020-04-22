@@ -1,0 +1,34 @@
+
+
+!Adverbs
+
+LEXICON Adv         
++Adv: # ;
+!+Adv:   SxAdv       ;
+
+!LEXICON AdvPx       
+!+Adv:   SxAdvPx       ;
+
+!LEXICON AdvCx        
+!+Adv:   SxAdvCx       ;
+
+!LEXICON AdvUndecl        
+!+Adv:   SxAdvUndecl       ;
+
+
+
+
+!Adverbs
+
+!LEXICON SxAdv       
+!$x  WordEnd	;
+
+!LEXICON SxAdvPx       
+!$x  WordEnd	;
+
+!LEXICON SxAdvCx       
+!$x  WordEnd	;
+
+!LEXICON SxAdvUndecl       
+!$x  WordEnd	;
+

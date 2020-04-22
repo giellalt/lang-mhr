@@ -1,0 +1,20 @@
+!Quantifiers
+
+!LEXICON Qu        
+!+Qu:   SxQu       ;
+
+!LEXICON QuUndecl        
+!+Qu:   SxQuUndecl       ; 
+
+
+
+
+
+!Quantifiers
+
+!LEXICON SxQu       
+!$x  WordEnd	;
+
+!LEXICON SxQuUndecl       
+!$x  WordEnd	;
+
