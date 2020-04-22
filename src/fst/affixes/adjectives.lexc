@@ -1,61 +1,49 @@
+!! !!! Adjective inflection
+! --------------------
+
+!! Meadow Mari adjectives
 
 
-!Adjectives
+LEXICON A-ATTR_ ! йошкарге:йошкар
++Attr: # ;
 
-!LEXICON A
-!+A: AfterN ;
+!LEXICON A-GEN-ATTR_ ! ава >> Sg_Gen аван:аван
+!+Attr: # ;
 
-!LEXICON A-ae
-!+A: AfterN-ae ;
-
-!LEXICON A-Vs1
-!+A: AfterN-Vs1 ;
-
-!LEXICON AUnprod
-!+A: SxAUnprod ;
-
-!LEXICON AUndecl  
-!+A: SxAUndecl ;
+LEXICON A_OLD-ORTH
+: #; !йӧрыктымӧ:йӧрыктым%{еы%}
 
 
+LEXICON A_  !! LEXICON A underscore
+     +Attr:      K  ;
+    +Comp:%>рак K  ;
+    +Comp+Instr:%>ракын K  ;
+    +Comp+Instr:%>Ы1нрак K ;
+ +Der/MWN+N:      N_ ;
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!! (7) LEXICONS CONTAINING THE SUFFIXES !!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!Huom! Kaikkien suffiksien eteen pitää panna 
-!!!junktuurisymboli $, jotta morfofonologiset 
-!!!säännöt toimisivat oikein.
 
-
-!-------------------------------------------------------------------------------------------------------------------
-LEXICON Cmp
-< "+Cmp":[%$ р а к ]  "@D.PL.PRESENT@"  > AfterCmp ;  !Assumed that there are 
-                                                                                       !no comparatives from plurals
+LEXICON A-a/e  !!= * @CODE@
+         :      K  ; ! missing comparative
+    +Comp:%>рак #  ;
+ +Der/MWN+N:     N_ ;
 
 
 
+LEXICON A/S-a/e  !!= * @CODE@ redirect to A underscore
+  A_ ;
+
+LEXICON A/S-VS !!= * @CODE@ redirect to A underscore
+ A_ ;
+
+LEXICON A-VS !!= * @CODE@ redirect to A underscore
+ A_ ;
+
+LEXICON A/S !!= * @CODE@ redirect to A underscore
+ A_ ;
 
 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!! (7) LEXICONS CONTAINING THE SUFFIXES !!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!Huom! Kaikkien suffiksien eteen pitää panna 
-!!!junktuurisymboli $, jotta morfofonologiset 
-!!!säännöt toimisivat oikein.
 
 
-!Adjectives
-
-!LEXICON SxN  !Tämä siis jo substantiiveissa
-
-!LEXICON SxN-ae !Tämä siis jo substantiiveissa 
-
-!LEXICON SxN-Vs1 !Tämä siis jo substantiiveissa
-
-!LEXICON SxAUnprod 
-!$x WordEnd  ;
-
-!LEXICON SxAUndecl 
-!$x WordEnd	;
+! vim: set ft=xfst-lexc:
 

@@ -1,167 +1,230 @@
 
-LEXICON Part
-+Pcle: # ;
- 
-LEXICON Particles
-аваже:аваже   Part ;  ! "(mies vaimolle) Puh" 
-авай:авай   Part ;  ! "äiti Puh" 
-авий:авий   Part ;  ! "äiti Puh" 
-адыштан:адыштан   Part ;  ! "(lauseenlisäke, joka ilm. suuttumusta) Pmuu" 
-ай:ай   Part ;  ! "(pehmennettäessä käskyä tai pyyntöä) Pmuu" 
-ай:ай   Part ;  ! "voi; (pahaa toivotettaessa) Pmuu" 
-айда:айда   Part ;  ! "(keh. tekemään jtak) kas niin, -pAs; -tAAn; (opt.) Pimp" 
-айза:айза   Part ;  ! "(ajza) $pa" 
-айста:айста   Part ;  ! "(keh.) -kAA(s), -kAA(pAs); (keh. lähtemiseen) menkää! Pimp" 
-акай:акай   Part ;  ! "(vanh. sisarelle; äidin nuor. sisarelle; nuor. miniä vanh:lle) Puh" 
-акыре:акыре   Part ;  ! "(akYre˙) $pa" 
-ала:ала   Part ;  ! "ehkäpä, (kond.) -isi-; tuskin Pmuu" 
-ала-ала:ала-ала   Part ;  ! "(ala˙-ala˙) $pa" 
-але:але   Part ;  ! "(a˙le) $co/$pa" 
-алят:алят   Part ;  ! "(alA˙t) $pa" 
-ане:ане   Part ;  ! "kyllä (+ kysytty V); (lauseenlisäke) niin, kyllä, jaa-a Pmuu" 
-анян:анян   Part ;  ! "(anAn) $pa" 
-анят:анят   Part ;  ! "ehkä, voi olla Pmuu" 
-аттан:аттан   Part ;  ! "(attan) $pa" 
-ачаже:ачаже   Part ;  ! "(vaimo aviomiehelle) Puh" 
-ачай:ачай   Part ;  ! "isä, isi Puh" 
-ачий:ачий   Part ;  ! "isä, isi Puh" 
-буль-буль:буль-буль   Part ;  ! "(pulputuksesta) pulpul Pmuu" 
-бырлоч:бырлоч   Part ;  ! "mäiskis, naps(is) Pmuu" 
-вара:вара   Part ;  ! "(vahv. part. kys.l:ssa) Pmuu" 
-веле:веле   Part ;  ! "(ve˙le) $pa" 
-вет:вет   Part ;  ! "-hAn, varmaankin Pmuu" 
-витне:витне   Part ;  ! "(vi˙tne) $pa" 
-вообще:вообще   Part ;  ! "(vo˙obHe) $pa" 
-вот:вот   Part ;  ! "kas niin Pmuu" 
-вудо-вуде:вудо-вуд%^E   Part ;  ! "(deskr. jstak epäselvästä, huomaamattomasta) Pmuu" 
-вудык-вудык:вудык-вудык   Part ;  ! "(deskr. jnk pörröisen huojumisesta) Pmuu" 
-вуж-вуж:вуж-вуж   Part ;  ! "(onom. tuulen huminaa) Pmuu" 
-вузык:вузык   Part ;  ! "(jhk aineeseen sotkeutumisesta) Pmuu" 
-выде-вуде:выде-вуд%^E   Part ;  ! "(deskr. jstak epäselvästä, huomaamattomasta) Pmuu" 
-выж-ж:выж-ж   Part ;  ! "(onom. tuulen kevyestä huminasta) Pmuu" 
-выргуп:выргуп   Part ;  ! "(onom. kaatumisen hiljaisesta äänestä) Pmuu" 
-вырлоч:вырлоч   Part ;  ! "(deskr.) läiskis Pmuu" 
-вышт:вышт   Part ;  ! "(deskr. jnk kevyen liikkumisesta) Pmuu" 
-гала:гала   Part ;  ! "(vahv. ja kysyvä) -hAn Pmuu" 
-гын:гын   Part ;  ! "-kO; -hAn Pmuu" 
-гынай:гынай   Part ;  ! "(gYnaj) $pa" 
-да:да   Part ;  ! "niin Pmuu" 
-даже:даже   Part ;  ! "(da˙Ze) $pa/$co" 
-дур-дур:дур-дур   Part ;  ! "(deskr. ukkosen jylinää) Pmuu" 
-дыр:дыр   Part ;  ! "-hAn Pmuu" 
-еҥгай:еҥгай   Part ;  ! "(isonveljen vaimolle, miniälle ja morsiamelle, vanh. n:lle) Puh" 
-жалке:жалке   Part ;  ! "(Za˙lke) $pa" 
-изием:изием   Part ;  ! "lapseni, kullanmuruni Puh" 
-ите:ите   Part ;  ! "(i˙te) $pa" 
-йок:йок   Part ;  ! "(jok) $pa" 
-йӧра:йӧра   Part ;  ! "hyvä on Pmuu" 
-йӧрш:йӧрш   Part ;  ! "(jOrS) $pa" 
-йывылдик:йывылдик   Part ;  ! "katosi kuin tuhka tuuleen; (jnk puuttumisesta) Pmuu" 
-йыли-юли:йыли-юли   Part ;  ! "(välkkyvästä yms.) Pmuu" 
-йышт-юшт:йышт-юшт   Part ;  ! "(deskr. nopeasta liikkeestä) Pmuu" 
-кавуй:кавуй   Part ;  ! "-pA, -hAn Pmuu" 
-кай:кай   Part ;  ! "(kaj) $pa" 
-калт-калт:калт-калт   Part ;  ! "kop kop Pmuu" 
-керек:керек   Part ;  ! "hyvä on Pmuu" 
-кернакак:кернакак   Part ;  ! "(kernaka˙k) $pa" 
-кеч:кеч   Part ;  ! "(keC) $co/$pa" 
-кигик-когок:кигик-когок   Part ;  ! "(hanhien huuto) Pmuu" 
-киндончылне:киндончылн%^E   Part ;  ! "(vala sanotun vannomiseksi) Pmuu" 
-кис-кис:кис-кис   Part ;  ! "(kissan kuts.) kis kis Pmuu" 
-кокай:кокай   Part ;  ! "täti (hyvä) Puh" 
-конешне:конешне   Part ;  ! "(kone˙Sne) $pa" 
-коп:коп   Part ;  ! "hupsis Pmuu" 
-кочыри-и-к:кочыри-и-к   Part ;  ! "(onom. terävästä äänestä, kitinästä yms.) Pmuu" 
-кроп:кроп   Part ;  ! "(deskr.) mäiskis Pmuu" 
-круп:круп   Part ;  ! "(onom.) hupsis Pmuu" 
-кувай:кувай   Part ;  ! "eukko/täti hyvä Puh" 
-кугызай:кугызай   Part ;  ! "setä, ukko(seni) Puh" 
-кузе-гынат:кузе-гынат   Part ;  ! "kaikin mokomin, miten vain (halutaan) Pmuu" 
-кукареку-ку-у:кукареку-ку-у   Part ;  ! "(onom.) kukkokiekuu Pmuu" 
-курскай:курскай   Part ;  ! "lanko hyvä Puh" 
-куш-ш:куш-ш   Part ;  ! "(onom. lintujen häätämiseksi) Pmuu" 
-кыж-гож:кыж-гож   Part ;  ! "(deskr. havinaa) Pmuu" 
-кылде-голде:кылде-голд%^E   Part ;  ! "(onom. hiljaista kolketta) Pmuu" 
-кылт-калт:кылт-калт   Part ;  ! "(onom.) tiktak Pmuu" 
-кычыр-кочыр:кычыр-кочыр   Part ;  ! "(onom. narinaa, rapinaa) Pmuu" 
-кыштыр-коштыр:кыштыр-коштыр   Part ;  ! "(onom. kahinaa) Pmuu" 
-лавысан:лавысан   Part ;  ! "(lavYsan) $pa" 
-ларт-ларт-ларт:ларт-ларт-ларт   Part ;  ! "(onom. ankan rääkätyksestä) Pmuu" 
-ласа:ласа   Part ;  ! "(lasa˙) $pa" 
-ласан:ласан   Part ;  ! "(lasan) $pa" 
-луч:луч   Part ;  ! "(onom.) pum, pam Pmuu" 
-лыб-лыб-лыб:лыб-лыб-лыб   Part ;  ! "(onom. värinä) Pmuu" 
-лыдыр-ладыр:лыдыр-ладыр   Part ;  ! "(deskr. telegan äänistä, laahustavasta liikkumisesta) Pmuu" 
-лыпте-лопте:лыпте-лопт%^E   Part ;  ! "(onom. läimäyttelystä) Pmuu" 
-моли:моли   Part ;  ! "(mo˙li) $pa" 
-мо-мо:мо-мо   Part ;  ! "(mo-mo) $pa" 
-монь:монь   Part ;  ! "ynnä muuta sellaista Pmuu" 
-на:на   Part ;  ! "kas tuo(ssa), no Pmuu" 
-наверне:наверне   Part ;  ! "(nave˙rne) $pa" 
-неужели:неужели   Part ;  ! "todellako?, niinkö? Pmuu" 
-нечыве:нечыве   Part ;  ! "(ne˙CYve) $pa" 
-ни:ни   Part ;  ! "ei Pmuu" 
-ну:ну   Part ;  ! "no Pmuu" 
-ҥ:ҥ   Part ;  ! "-kin, -kAAn, -pA Pmuu" 
-огла:огла   Part ;  ! "olkoon(pa niin,) että Pmuu" 
-огыла:огыла   Part ;  ! "(ogYla˙) $pa" 
-пис-пис-пис:пис-пис-пис   Part ;  ! "(koiran kutsu) tse tse Pmuu" 
-пожале:пожале   Part ;  ! "(poZa˙le) $pa" 
-пожалуйста:пожалуйста   Part ;  ! "(poZa˙lujsta) $pa" 
-пожалуйста:пожалуйст%^A   Part ;  ! "ole hyvä, olkaa hyvä Pmuu" 
-порылий:порылий   Part ;  ! "(porYlij) $pa" 
-псльоп:псльоп   Part ;  ! "loiskis Pmuu" 
-пуйто:пуйто   Part ;  ! "(pu˙jto) $co/$pa" 
-разве:разве   Part ;  ! "(ra˙zve) $pa" 
-разве:разв%^E   Part ;  ! "(kielto +) -kO...sitten, (myöntö +) -hAn Pmuu" 
-раш:раш   Part ;  ! "(on) kunnossa, selvää Pmuu" 
-рушт:рушт   Part ;  ! "(onom. kaatumisen äänestä) Pmuu" 
-содыки:содыки   Part ;  ! "(so˙dYki) $pa" 
-теве:теве   Part ;  ! "(te˙ve) $pr/$pa" 
-теве:тев%^E   Part ;  ! "kas tämä/nämä; kas tässä, no niin Pmuu" 
-теве-теве:теве-теве   Part ;  ! "(te˙ve-te˙ve) $pa" 
-тевыс:тевыс   Part ;  ! "(te˙vYs) $pa" 
-тек:тек   Part ;  ! "-kOOn Pimp" 
-товатат:товатат   Part ;  ! "(tovata˙t) $pa" 
-товро:товро   Part ;  ! "(tovro˙) $pa" 
-тожо:тожо   Part ;  ! "(to˙Zo) $pa" 
-то-то:то-то   Part ;  ! "(to-to) $pa" 
-тӧве:тӧв%^E   Part ;  ! "kas/katsos tuo/se/nuo/ne Pmuu" 
-тӧвӧ:тӧвӧ   Part ;  ! "(tO˙vO) $pa" 
-тугалмо:тугалмо   Part ;  ! "(tugalmo) $pa" 
-туде:туд%^E   Part ;  ! "-hAn, -pA, kyllä Pmuu" 
-тук-тук:тук-тук   Part ;  ! "kop kop Pmuu" 
-ужат:ужат   Part ;  ! "(uZa˙t) $pa" 
-удырем:удырем   Part ;  ! "tyttöseni Puh" 
-чай:чай   Part ;  ! "kai, ehkä, luultavasti Pmuu" 
-чияк-чияк:чияк-чияк   Part ;  ! "piip piip (- kananpoikasten ääntelyä) Pmuu" 
-чолт-чолт:чолт-чолт   Part ;  ! "kil kil Pmuu" 
-чонеем:чонеем   Part ;  ! "armaani, rakkaani Puh" 
-чонем:чонем   Part ;  ! "armaani, rakkaani Puh" 
-чоштыр-чоштыр:чоштыр-чоштыр   Part ;  ! "(onom. leikkaavan sirpin äänestä) Pmuu" 
-чуза:чуза   Part ;  ! "odottakaa!, malttakaa! Pimp" 
-чукай:чукай   Part ;  ! "rakas, kulta Puh" 
-чучуй:чучуй   Part ;  ! "setä hyvä Puh" 
-чыдыр-чодыр:чыдыр-чодыр   Part ;  ! "(onom. puun paukkeesta sen palaessa) Pmuu" 
-чырык:чырык   Part ;  ! "(deskr. hämmennystä, sekaannusta) Pmuu" 
-шеремет:шеремет   Part ;  ! "(ilm. sääliä, pahoittelua, tyytymättömyyttä) Pmuu" 
-шол:шол   Part ;  ! "-hAn Pmuu" 
-шолдырдок:шолдырдок   Part ;  ! "(onom.) naps(is), raks(is) Pmuu" 
-шолт-шолт:шолт-шолт   Part ;  ! "kop kop Pmuu" 
-шоляш:шоляш   Part ;  ! "(nuoremmalle veljelle tai ylip. nuoremmalle) Puh" 
-шуй-шуй:шуй-шуй   Part ;  ! "(onom. sydämenlyöntien kiihtyminen) Pmuu" 
-шыве-шове:шыве-шов%^E   Part ;  ! "(onom. veden loiske) Pmuu" 
-шыве-шыве:шыве-шыве   Part ;  ! "hys hys (kuiskinta) Pmuu" 
-шылт-шолт:шылт-шолт   Part ;  ! "(onom. lyönnin, koputuksen ääni) Pmuu" 
-шыҥ-шыҥ:шыҥ-шыҥ   Part ;  ! "S. temaS (tila) tulla täpätäyteen Pmuu" 
-шырт-шорт:шырт-шорт   Part ;  ! "(deskr. ryske, rätinä) Pmuu" 
-эла:эла   Part ;  ! "(Ela) $pa" 
-эн:эн   Part ;  ! "kaikkein (superlatiivin muodostava part.) Pmuu" 
-эсмаса:эсмаса   Part ;  ! "(Esmasa˙) $pa" 
-юмашне:юмашн%^E   Part ;  ! "(puhek.) jumala varjelkoon Pmuu" 
-юмончылне:юмончылн%^E   Part ;  ! "(puhek.) totta tosiaan Pmuu" 
-юргылдым-юргылдым:юргылдым-юргылдым   Part ;  ! "(deskr. loikkaus) Pmuu" 
-юрт:юрт   Part ;  ! "(deskr. säikähdys) Pmuu" 
-юшт:юшт   Part ;  ! "(deskr. hyppy) Pmuu" 
-я:я   Part ;  ! "-pA Pmuu" 
+LEXICON particles
 
+а+Pcle:а PCLE_  "" ;
+ага+Pcle:ага• PCLE_  "" ;
+адак+Pcle:ада•к ADV_  "" ;
+адыштан+Pcle:адыштан Pmuu  "(lauseenlisäke, joka ilm. suuttumusta)" ;
+ай+Pcle:ай Pmuu  "voi; (pahaa toivotettaessa)" ;
+айда+Pcle:айда• PCLE_  "" ;
+айдыза+Pcle:а•йдыза PCLE_  "" ;
+айза+Pcle:айза PCLE_  "" ;
+айста+Pcle:а•йста PCLE_  "" ;
+акыре+Pcle:акыр%{еы%} PCLE_  "" ;
+але+Pcle:а•л'%{еы%} PCLE_  "" ;
+ала+Pcle:ала• PCLE_  "ehkäpä, (kond.) -isi-; tuskin" ;
+ала-ала+Pcle:ала•-ала• PCLE_  "" ;
+ала-мо+Pcle:ала•-мо PCLE_  "" ;
+алят+Pcle:аля•т PCLE_  "" ;
+аман+Pcle:ама•н PCLE_  "" ;
+аманат+Pcle:амана•т PCLE_  "" ;
+ан'е+Pcle:а•н'%{еы%} Pmuu  "kyllä (+ kysytty V); (lauseenlisäke) niin, kyllä, jaa-a" ;
+анян+Pcle:анян PCLE_  "" ;
+анят+Pcle:аня•т Pmuu  "ehkä, voi olla" ;
+аттан+Pcle:аттан PCLE_  "" ;
+баш+Pcle:баш PCLE_  "" ;
+буль-буль+Pcle:буль-буль DESCR_  "" ;
+буль-буль+Pcle:буль-буль Pmuu  "(pulputuksesta) pulpul" ;
+бушт+Pcle:бушт DESCR_  "" ;
+буҥ+Pcle:буҥ DESCR_  "" ;
+была+Pcle:была• PCLE_  "" ;
+бырлоч+Pcle:бырло•ч DESCR_  "" ;
+бырлоч+Pcle:бырлоч Pmuu  "mäiskis, naps(is)" ;
+вара+Pcle:вара• Pmuu  "(vahv. part. kys.l:ssa)" ;
+векат+Pcle:века•т PCLE_  "" ;
+веле+Pcle:ве•л%{еы%} PCLE_  "" ;
+вет+Pcle:вет Pmuu  "-hAn, varmaankin" ;
+вжик+Pcle:вжик DESCR_  "" ;
+витн'е+Pcle:ви•тн'%{еы%} PCLE_  "" ;
+во+Pcle:во PCLE_  "" ;
+вообще+Pcle:во•обще PCLE_  "" ;
+вот+Pcle:вот Pmuu  "kas niin" ;
+вуди-вуди+Pcle:вуди•-вуди• DESCR_  "" ;
+вудо-вудо+Pcle:ву•до-ву•д%{оы%} Pmuu  "(deskr. jstak epäselvästä, huomaamattomasta)" ;
+вудык-вудык+Pcle:ву•дык-ву•дык Pmuu  "(deskr. jnk pörröisen huojumisesta)" ;
+вуйгак+Pcle:вуйга•к PCLE_  "" ;
+вурт+Pcle:вурт% [1] DESCR_  "" ;
+выдык-вудык+Pcle:вы•дык-ву•дык DESCR_  "" ;
+выль-выль+Pcle:выль-выль DESCR_  "" ;
+гай+Pcle:гай PCLE_  "" ;
+гала+Pcle:гала• Pmuu  "(vahv. ja kysyvä) -hAn" ;
+гойыш+Pcle:го•йыш PCLE_  "" ;
+гылдыр-голдыр+Pcle:гы•лдыр-го•лдыр DESCR_  "" ;
+гын+Pcle:гын Pmuu  "-kO; -hAn" ;
+гына+Pcle:гына• PCLE_  "" ;
+гынай+Pcle:гынай PCLE_  "" ;
+гынат+Pcle:гына•т PCLE_  "" ;
+да+Pcle:да Pmuu  "niin" ;
+давай+Pcle:дава•й PCLE_  "" ;
+даже+Pcle:да•ж%{еы%} PCLE_  "" ;
+докан+Pcle:дока•н PCLE_  "" ;
+дык+Pcle:дык PCLE_  "" ;
+дыр+Pcle:дыр Pmuu  "-hAn" ;
+жалке+Pcle:жалк%{еы%} PCLE_  "" ;
+жалкын+Pcle:жа•лкын PCLE_  "" ;
+и+Pcle:и Pmuu  "-kin, -kAAn, -pA" ;
+ида+Pcle:ида• PCLE_  "" ;
+ие+Pcle:ие• PCLE_  "" ;
+иже+Pcle:и•ж%{еы%} PCLE_  "" ;
+ик+Pcle:ик PCLE_  "" ;
+икманаш+Pcle:икмана•ш PCLE_  "" ;
+ите+Pcle:и•т%{еы%} PCLE_  "" ;
+ито+Pcle:ито PCLE_  "" ;
+йок+Pcle:йок PCLE_  "" ;
+йылдырге+Pcle:йы•лдырг%{еы%} DESCR_  "" ;
+йӧра+Pcle:йӧра• Pmuu  "hyvä on" ;
+йӧрш+Pcle:йӧрш PCLE_  "" ;
+кавуй+Pcle:каву•й Pmuu  "-pA, -hAn" ;
+кай+Pcle:кай PCLE_  "" ;
+керак+Pcle:кера•к PCLE_  "" ;
+керек+Pcle:кере•к Pmuu  "hyvä on" ;
+кернак+Pcle:керна•к PCLE_  "" ;
+кернакак+Pcle:кернака•к PCLE_  "" ;
+кеч+Pcle:кеч PCLE_  "" ;
+киндончылно+Pcle:киндончылн%{оы%} Pmuu  "(vala sanotun vannomiseksi)" ;
+коеш+Pcle:кое•ш PCLE_  "" ;
+коли+Pcle:коли• PCLE_  "" ;
+кон'ешне+Pcle:кон'е•шн%{еы%} PCLE_  "" ;
+конешне+Pcle:коне•шне PCLE_  "" ;
+коҥ+Pcle:коҥ DESCR_  "" ;
+кузе+Pcle:кузе• PCLE_  "" ;
+кузе-гынат+Pcle:кузе-гынат Pmuu  "kaikin mokomin, miten vain (halutaan)" ;
+кунам+Pcle:куна•м PCLE_  "" ;
+кыдыр-кадыр+Pcle:кы•дыр-ка•дыр DESCR_  "" ;
+кыдыр-кудыр+Pcle:кы•дыр-ку•дыр DESCR_  "" ;
+кырт-кырт+Pcle:кырт-кырт DESCR_  "" ;
+ла+Pcle:ла PCLE_  "" ;
+лаваса+Pcle:лаваса• PCLE_  "" ;
+лавысан+Pcle:лавысан PCLE_  "" ;
+лай+Pcle:лай PCLE_  "" ;
+ласа+Pcle:ласа• PCLE_  "" ;
+ласан+Pcle:ласан PCLE_  "" ;
+лач+Pcle:лач PCLE_  "" ;
+ли+Pcle:ли PCLE_  "" ;
+лиеш+Pcle:лие•ш PCLE_  "" ;
+лийже+Pcle:ли•йж%{еы%} PCLE_  "" ;
+лочо-лочо+Pcle:ло•чо-ло•чо DESCR_  "" ;
+лоҥ+Pcle:лоҥ PCLE_  "" ;
+лып-лоп+Pcle:лып-лоп DESCR_  "" ;
+ма+Pcle:ма PCLE_  "" ;
+ман+Pcle:ман PCLE_  "" ;
+мекан+Pcle:мека•н PCLE_  "" ;
+мо+Pcle:мо PCLE_  "" ;
+мо-мо+Pcle:мо-мо PCLE_  "" ;
+могай+Pcle:мога•й PCLE_  "" ;
+можыч+Pcle:мо•жыч PCLE_  "" ;
+моли+Pcle:мо•ли PCLE_  "" ;
+монь+Pcle:монь Pmuu  "ynnä muuta sellaista" ;
+мотри+Pcle:мотри• PCLE_  "" ;
+мутлан+Pcle:мутла•н PCLE_  "" ;
+мыге-муго+Pcle:мы•ге-му•го DESCR_  "" ;
+на+Pcle:на Pmuu  "kas tuo(ssa), no" ;
+наверне+Pcle:наве•рн%{еы%} PCLE_  "" ;
+не+Pcle:не PCLE_  "" ;
+неужели+Pcle:неуже•ли Pmuu  "todellako?, niinkö?" ;
+неужто+Pcle:неу•жт%{оы%} PCLE_  "" ;
+нечыве+Pcle:нечыв%{еы%} PCLE_  "" ;
+нечыве+Pcle:н'е•чыв%{еы%} PCLE_  "" ;
+ни+Pcle:ни Pmuu  "ei" ;
+но+Pcle:но PCLE_  "" ;
+ну+Pcle:ну Pmuu  "no" ;
+ны+Pcle:ны PCLE_  "" ;
+ньорик-ньорик+Pcle:ньори•к-ньори•к DESCR_  "" ;
+ньыге-нюго+Pcle:ньы•ге-ню•го DESCR_  "" ;
+огла+Pcle:огла Pmuu  "olkoon(pa niin,) että" ;
+огыл+Pcle:о•гыл PCLE_  "" ;
+огыла+Pcle:огыла• PCLE_  "" ;
+очын'и+Pcle:очын'и• PCLE_  "" ;
+пожал'е+Pcle:пожа•л'%{еы%} PCLE_  "" ;
+пожале+Pcle:пожа•ле PCLE_  "" ;
+пожалуй+Pcle:пожа•луй PCLE_  "" ;
+пожалуйста+Pcle:пожа•луйст%{аы%} Pmuu  "ole hyvä, olkaa hyvä" ;
+поро-осал+Pcle:по•ро-оса•л PCLE_  "" ;
+порылий+Pcle:порыли•й PCLE_  "" ;
+просто+Pcle:про•ст%{оы%} PCLE_  "" ;
+пуйто+Pcle:пу•йт%{оы%} PCLE_  "" ;
+разве+Pcle:ра•зв%{еы%} Pmuu  "(kielto +) -kO...sitten, (myöntö +) -hAn" ;
+райзе+Pcle:ра•йз%{еы%} Pmuu  "(kielto +) -kO...sitten, (myöntö +) -hAn" ;
+раш+Pcle:раш Pmuu  "(on) kunnossa, selvää" ;
+роштке¤+Pcle:ро•штке¤ DESCR_  "" ;
+рыз+Pcle:рыз DESCR_  "" ;
+садак+Pcle:сада•к PCLE_  "" ;
+садыге+Pcle:садыг%{еы%} PCLE_  "" ;
+сек+Pcle:сек PCLE_  "" ;
+си+Pcle:си PCLE_  "" ;
+содыки+Pcle:со•дыки PCLE_  "" ;
+так+Pcle:так PCLE_  "" ;
+тебе+Pcle:тебе• PCLE_  "" ;
+тевак+Pcle:тева•к PCLE_  "" ;
+теве+Hom1+Pcle:те•ве Pmuu  "kas" ;
+теве+Hom2+Pcle:теве• PCLE_  "" ;
+теве-теве+Pcle:те•ве-тев%{еы%} PCLE_  "" ;
+тевыс+Pcle:те•выс PCLE_  "" ;
+тегак+Pcle:тега•к PCLE_  "" ;
+тек+Pcle:тек PCLE_  "" ;
+то-то+Pcle:то-то PCLE_  "" ;
+товат+Pcle:това•т PCLE_  "" ;
+товатат+Pcle:товата•т PCLE_  "" ;
+тово+Pcle:тово• PCLE_  "" ;
+товро+Pcle:товро• PCLE_  "" ;
+тожо+Pcle:то•ж%{оы%} PCLE_  "" ;
+только+Pcle:то•льк%{оы%} PCLE_  "" ;
+точно+Pcle:то•чн%{оы%} PCLE_  "" ;
+ту+Pcle:ту PCLE_  "" ;
+туалгын+Pcle:туалгын PCLE_  "" ;
+тугалмо+Pcle:тугалмо PCLE_  "" ;
+тугат+Pcle:туга•т PCLE_  "" ;
+туге+Pcle:туге• PCLE_  "" ;
+тугеже+Pcle:туге•ж%{еы%} PCLE_  "" ;
+тудо+Pcle:ту•д%{оы%} Pmuu  "-hAn, -pA, kyllä" ;
+тулечла+Pcle:туле•чла PCLE_  "" ;
+тушто+Pcle:ту•шт%{оы%} PCLE_  "" ;
+ты+Pcle:ты PCLE_  "" ;
+тыгак+Pcle:тыга•к PCLE_  "" ;
+тыге+Pcle:тыге• PCLE_  "" ;
+тык+Pcle:тык PCLE_  "" ;
+уж+Pcle:уж PCLE_  "" ;
+ужамат+Pcle:ужама•т PCLE_  "" ;
+ужат+Pcle:ужа•т PCLE_  "" ;
+уже+Pcle:уже• PCLE_  "" ;
+уке+Pcle:уке• PCLE_  "" ;
+уке-уке+Pcle:уке•-уке• PCLE_  "" ;
+укерак+Pcle:укера•к PCLE_  "" ;
+улмашын+Pcle:улма•шын PCLE_  "" ;
+улмашын+Pcle:улма•ш PCLE_  "" ;
+улыжат+Pcle:улыжа•т PCLE_  "" ;
+улыжат-укежат+Pcle:улыжа•т-укежа•т PCLE_  "" ;
+улыжо-укеже+Pcle:у•лыжо-уке•ж%{еы%} PCLE_  "" ;
+уна+Pcle:уна• PCLE_  "" ;
+чай+Pcle:чай Pmuu  "kai, ehkä, luultavasti" ;
+чай+Pcle:чай PCLE_  "" ;
+чурик+Pcle:чури•к% [2] DESCR_  "" ;
+чыла+Pcle:чыла• PCLE_  "" ;
+чылт+Pcle:чылт PCLE_  "" ;
+чынак+Pcle:чына•к PCLE_  "" ;
+чынакак+Pcle:чынака•к PCLE_  "" ;
+чынжым+Pcle:чы•нжым PCLE_  "" ;
+чырык-чурык+Pcle:чы•рык-чу•рык DESCR_  "" ;
+шке% урманже% дене+Pcle:шке% урман(же)% дене PCLE_  "" ;
+шкет+Pcle:шкет PCLE_  "" ;
+шол+Pcle:шол Pmuu  "-hAn" ;
+шонет+Pcle:шоне•т PCLE_  "" ;
+шуын+Pcle:шу•ын PCLE_  "" ;
+ыгы+Pcle:ыгы• PCLE_  "" ;
+ыле+Pcle:ы•л'%{еы%} PCLE_  "" ;
+ыскала+Pcle:ыскала• PCLE_  "" ;
+э+Pcle:э PCLE_  "" ;
+эй+Pcle:эй PCLE_  "" ;
+эла+Pcle:эла PCLE_  "" ;
+эмыш+Pcle:э•мыш PCLE_  "" ;
+эсмаса+Pcle:эсмаса• PCLE_  "" ;
+эсогыл+Pcle:эсо•гыл PCLE_  "" ;
+эше-эше+Pcle:эше•-эше• PCLE_  "" ;
+юлдыр-ялдыр+Pcle:ю•лдыр-я•лдыр DESCR_  "" ;
+юмончылно+Pcle:юмончылн%{оы%} Pmuu  "(puhek.) totta tosiaan" ;
+юп+Pcle:юп DESCR_  "" ;
+ючик+Pcle:ючи•к DESCR_  "" ;
+я+Pcle:я Pmuu  "-pA" ;
+ялт+Pcle:ялт PCLE_  "" ;
+ӱлай-мӱлай+Pcle:ӱлай-мӱлай DESCR_  "(deskr. hyvää elämää, hyvää ruokaa)" ;
+ӱмырат+Pcle:ӱмыра•т PCLE_  "" ;

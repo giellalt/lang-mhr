@@ -1,190 +1,87 @@
 
- 
-LEXICON Prop
-+австралий:+австралий   Prop ;  ! "(+avstra˙lij) $pp" 
-австралий:австралий   Prop ;  ! "Australia Prop" 
-+австрий:+австрий   Prop ;  ! "(+avstrij) $pp" 
-+азий:+азий   Prop ;  ! "(+˙azij) $pp" 
-азий:азий   Prop ;  ! "Aasia Prop" 
-+аймет:+аймет   Prop ;  ! "(+ajmet) $pp" 
-+албаний:+албаний   Prop ;  ! "(+alba˙nij) $pp" 
-албаний:албаний   Prop ;  ! "Albania Prop" 
-+алмакай:+алмакай   Prop ;  ! "(+almakaj) $pp" 
-альп:альп   Prop ;  ! "Alpit Prop" 
-+америка:+америка   Prop ;  ! "(+ame˙rika) $pp" 
-америка:америк%^A   Prop ;  ! "Amerikka Prop" 
-+англий:+англий   Prop ;  ! "(+˙anglij) $pp" 
-англий:англий   Prop ;  ! "Englanti Prop" 
-+арабий:+арабий   Prop ;  ! "(+ara˙bij) $pp" 
-арабий:арабий   Prop ;  ! "Arabia Prop" 
-+аргентина:+аргентина   Prop ;  ! "(+argenti˙na) $pp" 
-аргентина:аргентин%^A   Prop ;  ! "Argentiina Prop" 
-+ардаш:+ардаш   Prop ;  ! "(+ardaS) $pp" 
-+арсланбык:+арсланбык   Prop ;  ! "(+arslanbYk) $pp" 
-+атлантика:+атлантика   Prop ;  ! "(+atla˙ntika) $pp" 
-атлантика:атлантик%^A   Prop ;  ! "Atlantti Prop" 
-+афин:+афин   Prop ;  ! "(+afi˙n) $pp" 
-афины:афины   Prop ;  ! "Ateena Prop" 
-+африка:+африка   Prop ;  ! "(+a˙frika) $pp" 
-африка:африк%^A   Prop ;  ! "Afrikka Prop" 
-балтик:балтик   Prop ;  ! "Itämeri Prop" 
-+бельгий:+бельгий   Prop ;  ! "(+be˙l<gij) $pp" 
-бельгий:бельгий   Prop ;  ! "Belgia Prop" 
-+болгарий:+болгарий   Prop ;  ! "(+bolga˙rij) $pp" 
-болгарий:болгарий   Prop ;  ! "Bulgaria Prop" 
-+бразилий:+бразилий   Prop ;  ! "(+brazi˙lij) $pp" 
-бразилий:бразилий   Prop ;  ! "Brasilia Prop" 
-+будапешт:+будапешт   Prop ;  ! "(+budape˙St) $pp" 
-будапешт:будапешт   Prop ;  ! "Budapest Prop" 
-+вак-сола:+вак-сола   Prop ;  ! "(+vak-sola) $pp" 
-+варман:+варман   Prop ;  ! "(+varman) $pp" 
-+варшава:+варшава   Prop ;  ! "(+varSa˙va) $pp" 
-варшава:варшав%^A   Prop ;  ! "Varsova Prop" 
-+василь-ола:+василь-ола   Prop ;  ! "(+vasil<-ola) $pp" 
-+венгрий:+венгрий   Prop ;  ! "(+ve˙ngrij) $pp" 
-венгрий:венгрий   Prop ;  ! "Unkari Prop" 
-+виче:+виче   Prop ;  ! "(+vi˙Ce) $pp" 
-виче:вич%^E   Prop ;  ! "Vjatka Prop" 
-+германий:+германий   Prop ;  ! "(+germa˙nij) $pp" 
-германий:германий   Prop ;  ! "Saksa Prop" 
-+даря:+даря   Prop ;  ! "(+darA) $pp" 
-+дунай:+дунай   Prop ;  ! "(+duna˙j) $pp" 
-дунай:дунай   Prop ;  ! "Tonava Prop" 
-+европа:+европа   Prop ;  ! "(+evro˙pa) $pp" 
-европа:европ%^A   Prop ;  ! "Eurooppa Prop" 
-+изикокуй:+изикокуй   Prop ;  ! "(+izikokuj) $pp" 
-+израиль:+израиль   Prop ;  ! "(+izra˙il<) $pp" 
-+изымарий:+изымарий   Prop ;  ! "(+izYmarij) $pp" 
-+ильна-ола:+ильна-ола   Prop ;  ! "(+il<na-ola) $pp" 
-+исландий:+исландий   Prop ;  ! "(+isla˙ndij) $pp" 
-+испаний:+испаний   Prop ;  ! "(+ispa˙nij) $pp" 
-испаний:испаний   Prop ;  ! "Espanja Prop" 
-+италий:+италий   Prop ;  ! "(+italij) $pp" 
-италий:италий   Prop ;  ! "Italia Prop" 
-+йошкар-+ола:+йошкар-+ола   Prop ;  ! "(+joSka˙r-+ola˙) $pp" 
-+йузбика:+йузбика   Prop ;  ! "(+jyzbika) $pp" 
-+йылдырвика:+йылдырвика   Prop ;  ! "(+jYldYrvika) $pp" 
-+каван-ер:+каван-ер   Prop ;  ! "(+kavan-er) $pp" 
-+какшан:+какшан   Prop ;  ! "(+kakSa˙n) $pp" 
-какшан:какшан   Prop ;  ! "(joki) Koks`aga Prop" 
-+карелий:+карелий   Prop ;  ! "(+kare˙lij) $pp" 
-карелий:карелий   Prop ;  ! "Karjala Prop" 
-+кечамыш:+кечамыш   Prop ;  ! "(+keCamYS) $pp" 
-+кикпай:+кикпай   Prop ;  ! "(+kikpaj) $pp" 
-+китай:+китай   Prop ;  ! "(+kita˙j) $pp" 
-китай:китай   Prop ;  ! "Kiina Prop" 
-+кождемыр:+кождемыр   Prop ;  ! "(+koZdemYr) $pp" 
-+кокла-лоҥго:+кокла-лоҥго   Prop ;  ! "(+kokla-loNgo) $pp" 
-+кокшай:+кокшай   Prop ;  ! "(+kokSaj) $pp" 
-+кокшар:+кокшар   Prop ;  ! "(+kokSar) $pp" 
-коркашудыр:коркашудыр   Prop ;  ! "Otava Prop" 
-+кугу-+какшан:+кугу-+какшан   Prop ;  ! "(+kugu-+kakSan) $pp" 
-+кугу-+кокуй:+кугу-+кокуй   Prop ;  ! "(+kugu-+kokuj) $pp" 
-+куж-нур:+куж-нур   Prop ;  ! "(+kuZ-nur) $pp" 
-+курымзак:+курымзак   Prop ;  ! "(+kurYmzak) $pp" 
-+кучывай:+кучывай   Prop ;  ! "(+kuCYvaj) $pp" 
-+кушыл-соказа:+кушыл-соказа   Prop ;  ! "(+kySYl-sokaza) $pp" 
-+лайыш-ола:+лайыш-ола   Prop ;  ! "(+lajYS-ola) $pp" 
-+лапландий:+лапландий   Prop ;  ! "(+lapla˙ndij) $pp" 
-ленинград:ленинград   Prop ;  ! "Leningrad Prop" 
-+ленин-ола:+ленин-ола   Prop ;  ! "(+lenin-ola) $pp" 
-+лепешкан:+лепешкан   Prop ;  ! "(+lepeSkan) $pp" 
-+макаря:+макаря   Prop ;  ! "(+makarA) $pp" 
-+макаря-ку:+макаря-ку   Prop ;  ! "(+makarA-ky) $pp" 
-+мариэл:+мариэл   Prop ;  ! "(+mariE˙l) $pp" 
-+маря:+маря   Prop ;  ! "(+marA) $pp" 
-+менде:+менде   Prop ;  ! "(+mende) $pp" 
-+менчыла:+менчыла   Prop ;  ! "(+menCYla) $pp" 
-+мераҥ:+мераҥ   Prop ;  ! "(+meraN) $pp" 
-+монар:+монар   Prop ;  ! "(+monar) $pp" 
-+моско:+моско   Prop ;  ! "(+mosko˙) $pp" 
-моско:моско   Prop ;  ! "Moskova Prop" 
-+нидерландий:+нидерландий   Prop ;  ! "(+niderla˙ndij) $pp" 
-нидерландий:нидерландий   Prop ;  ! "Alankomaat Prop" 
-+новгород:+новгород   Prop ;  ! "(+no˙vgorod) $pp" 
-+норвегий:+норвегий   Prop ;  ! "(+norve˙gij) $pp" 
-+озаҥ:+озаҥ   Prop ;  ! "(+ozaN) $pp" 
-+орымбор:+орымбор   Prop ;  ! "(+orYmbor) $pp" 
-+ош-+виче:+ош-+виче   Prop ;  ! "(+oS-+viCe) $pp" 
-+пайраш:+пайраш   Prop ;  ! "(+pajraS) $pp" 
-+парнякай:+парнякай   Prop ;  ! "(+parnAkaj) $pp" 
-+пекшик:+пекшик   Prop ;  ! "(+pekSik) $pp" 
-+перме:+перме   Prop ;  ! "(+perme) $pp" 
-+петербург:+петербург   Prop ;  ! "(+peterbu˙rg) $pp" 
-+петырвор:+петырвор   Prop ;  ! "(+petYrvor) $pp" 
-+питыр:+питыр   Prop ;  ! "(+pitYr) $pp" 
-+польша:+польша   Prop ;  ! "(+po˙l<Sa) $pp" 
-польша:польш%^A   Prop ;  ! "Puola Prop" 
-+пошкырт:+пошкырт   Prop ;  ! "(+po˙SkYrt) $pp" 
-+пӧкленде:+пӧкленде   Prop ;  ! "(+pOklende) $pp" 
-+прибалтика:+прибалтика   Prop ;  ! "(+priba˙ltika) $pp" 
-прибалтика:прибалтик%^A   Prop ;  ! "Baltia Prop" 
-+пуевуд:+пуевуд   Prop ;  ! "(+pyevy˙d) $pp" 
-пуевуд:пуевуд   Prop ;  ! "Buj Prop" 
-+пунчер:+пунчер   Prop ;  ! "(+pynCer) $pp" 
-+пурӧ:+пурӧ   Prop ;  ! "(+pyrO) $pp" 
-+пурӧвуд:+пурӧвуд   Prop ;  ! "(+pyrOvy˙d) $pp" 
-пурӧвуд:пурӧвуд   Prop ;  ! "Bir Prop" 
-+пурӧ-ола:+пурӧ-ола   Prop ;  ! "(+pyrO-ola) $pp" 
-+пылачок:+пылачок   Prop ;  ! "(+pYlaCok) $pp" 
-+рига:+рига   Prop ;  ! "(+ri˙ga) $pp" 
-рига:рига   Prop ;  ! "Riika Prop" 
-+россий:+россий   Prop ;  ! "(+rossi˙j) $pp" 
-россий:россий   Prop ;  ! "Venäjä Prop" 
-+румыний:+румыний   Prop ;  ! "(+rumY˙nij) $pp" 
-румыний:румыний   Prop ;  ! "Romania Prop" 
-+сайтий:+сайтий   Prop ;  ! "(+sajtij) $pp" 
-+санкт-+петербург:+санкт-+петербург   Prop ;  ! "(+sankt-+peterburg) $pp" 
-+сия:+сия   Prop ;  ! "(+siA) $pp" 
-+сия-ола:+сия-ола   Prop ;  ! "(+siA-ola) $pp" 
-+суоми:+суоми   Prop ;  ! "(+su˙omi) $pp" 
-+сувӧ:+сувӧ   Prop ;  ! "(+syvO) $pp" 
-+сувыял:+сувыял   Prop ;  ! "(+syvYAl) $pp" 
-+сундур:+сундур   Prop ;  ! "(+syndyr) $pp" 
-+сымбыр-ола:+сымбыр-ола   Prop ;  ! "(+sYmbYr-ola) $pp" 
-+таллинн:+таллинн   Prop ;  ! "(+ta˙llinn) $pp" 
-+танып-вуд:+танып-вуд   Prop ;  ! "(+tanYp-vyd) $pp" 
-+токтар:+токтар   Prop ;  ! "(+toktar) $pp" 
-+тосындо:+тосындо   Prop ;  ! "(+tosYndo) $pp" 
-+тӧлдӧ:+тӧлдӧ   Prop ;  ! "(+tOldO) $pp" 
-+тӧҥгак:+тӧҥгак   Prop ;  ! "(+tONgak) $pp" 
-+тӧргым:+тӧргым   Prop ;  ! "(+tOrgYm) $pp" 
-+тӧргым-тур:+тӧргым-тур   Prop ;  ! "(+tOrgYm-tyr) $pp" 
-+тӧрмет:+тӧрмет   Prop ;  ! "(+tOrmet) $pp" 
-+тылчак:+тылчак   Prop ;  ! "(+tYlCak) $pp" 
-+тымбай:+тымбай   Prop ;  ! "(+tYmbaj) $pp" 
-+угарман:+угарман   Prop ;  ! "(+ugarma˙n) $pp" 
-+у-корак:+у-корак   Prop ;  ! "(+u-korak) $pp" 
-упе:уп%^E   Prop ;  ! "Ufa Prop" 
-+упӧ:+упӧ   Prop ;  ! "(+ypO) $pp" 
-+упӧ-вуд:+упӧ-вуд   Prop ;  ! "(+ypO-vyd) $pp" 
-+упӧн:+упӧн   Prop ;  ! "(+ypOn) $pp" 
-+финляндий:+финляндий   Prop ;  ! "(+finlA˙ndij) $pp" 
-финляндий:финляндий   Prop ;  ! "Suomi Prop" 
-+хазан:+хазан   Prop ;  ! "(+xazan) $pp" 
-+хельсинки:+хельсинки   Prop ;  ! "(+xe˙l<sinki) $pp" 
-хельсинки:хельсинки   Prop ;  ! "Helsinki Prop" 
-+чарла:+чарла   Prop ;  ! "(+Carla˙) $pp" 
-чарла:чарла   Prop ;  ! "(vanh.) JoSkar-Ola Prop" 
-+чолкоп:+чолкоп   Prop ;  ! "(+Colkop) $pp" 
-+чолман:+чолман   Prop ;  ! "(+Colman) $pp" 
-чолман:чолман   Prop ;  ! "Kama Prop" 
-+чорай:+чорай   Prop ;  ! "(+Coraj) $pp" 
-+шавашар:+шавашар   Prop ;  ! "(+SavaSar) $pp" 
-+шанчара:+шанчара   Prop ;  ! "(+SanCara) $pp" 
-+швеций:+швеций   Prop ;  ! "(+Sve˙cij) $pp" 
-швеций:швеций   Prop ;  ! "Ruotsi Prop" 
-+шернур:+шернур   Prop ;  ! "(+Sernur) $pp" 
-+шобашеҥер:+шобашеҥер   Prop ;  ! "(+SobaSeNer) $pp" 
-шоктешудыр:шоктешудыр   Prop ;  ! "Seulaset Prop" 
-+эжвуд:+эжвуд   Prop ;  ! "(+EZvyd) $pp" 
-+элнет:+элнет   Prop ;  ! "(+Elne˙t) $pp" 
-элнет:элнет   Prop ;  ! "Iletjoki Prop" 
-+эстоний:+эстоний   Prop ;  ! "(+Esto˙nij) $pp" 
-эстоний:эстоний   Prop ;  ! "Viro Prop" 
-+эшым:+эшым   Prop ;  ! "(+ESYm) $pp" 
-+юл:+юл   Prop ;  ! "(+Ul) $pp" 
-юл:юл   Prop ;  ! "Volga Prop" 
-+яран:+яран   Prop ;  ! "(+Aran) $pp" 
-+ярмет:+ярмет   Prop ;  ! "(+Armet) $pp" 
+LEXICON propernouns
 
+Корамас+N+Prop:Корамас PROP_  "" ;
+Кыргори+N+Prop:Кыргори PROP_  "" ;
+Царевококшайский+N+Prop:Царевококшайский PROP_  "" ;
+Аймет+N+Prop:Аймет PROP_  "" ;
+Алмакай+N+Prop:Алмакай PROP_  "" ;
+Ардаш+N+Prop:Ардаш PROP_  "" ;
+Арсланбык+N+Prop:Арсланбык PROP_  "" ;
+Афин+N+Prop:Афин PROP_  "" ;
+Варман+N+Prop:Варман PROP_  "" ;
+Даря+N+Prop:Даря PROP_  "" ;
+Изикокуй+N+Prop:Изикокуй PROP_  "" ;
+Изымарий+N+Prop:Изымарий PROP_  "" ;
+Йыван+N+Prop:Йыван PROP_  "" ;
+Йылдырвика+N+Prop:Йылдырвика PROP_  "" ;
+Йӱзбика+N+Prop:Йӱзбика PROP_  "" ;
+Кечамыш+N+Prop:Кечамыш PROP_  "" ;
+Кикпай+N+Prop:Кикпай PROP_  "" ;
+Кождемыр+N+Prop:Кождемыр PROP_  "" ;
+Кокшай+N+Prop:Кокшай PROP_  "" ;
+Кокшар+N+Prop:Кокшар PROP_  "" ;
+Коркашӱдыр+N+Prop:Коркашӱдыр PROP_  "Otava" ;
+Курымзак+N+Prop:Курымзак PROP_  "" ;
+Кучывай+N+Prop:Кучывай PROP_  "" ;
+Лепешкан+N+Prop:Лепешкан PROP_  "" ;
+Макаря+N+Prop:Макаря PROP_  "" ;
+Маря+N+Prop:Маря PROP_  "" ;
+Менде+N+Prop:Менд%{еы%} PROP_  "" ;
+Менчыла+N+Prop:Менчыла PROP_  "" ;
+Мераҥ+N+Prop:Мераҥ PROP_  "" ;
+Монар+N+Prop:Монар PROP_  "" ;
+Орымбор+N+Prop:Орымбор PROP_  "" ;
+Пайраш+N+Prop:Пайраш PROP_  "" ;
+Парнякай+N+Prop:Парнякай PROP_  "" ;
+Пекшик+N+Prop:Пекшик PROP_  "" ;
+Перме+N+Prop:Перм%{еы%} PROP_  "" ;
+Петырвор+N+Prop:Петырвор PROP_  "" ;
+Питыр+N+Prop:Питыр PROP_  "" ;
+Пошкырт+N+Prop:Пошкырт PROP_  "" ;
+Пылачок+N+Prop:Пылачок PROP_  "" ;
+Пӧкленде+N+Prop:Пӧкленд%{еы%} PROP_  "" ;
+Сайтий+N+Prop:Сайтий PROP_  "" ;
+Сия+N+Prop:Сия PROP_  "" ;
+Сӱвыял+N+Prop:Сӱвыял PROP_  "" ;
+Сӱвӧ+N+Prop:Сӱвӧ PROP_  "" ;
+Сӱндӱр+N+Prop:Сӱндӱр PROP_  "" ;
+Токтар+N+Prop:Токтар PROP_  "" ;
+Тосындо+N+Prop:Тосындо PROP_  "" ;
+Тылчак+N+Prop:Тылчак PROP_  "" ;
+Тӧлдӧ+N+Prop:Тӧлдӧ PROP_  "" ;
+Тӧргым+N+Prop:Тӧргым PROP_  "" ;
+Тӧрмет+N+Prop:Тӧрмет PROP_  "" ;
+Тӧҥгак+N+Prop:Тӧҥгак PROP_  "" ;
+Хазан+N+Prop:Хазан PROP_  "" ;
+Чорай+N+Prop:Чорай PROP_  "" ;
+Чолкоп+N+Prop:Чолкоп PROP_  "" ;
+Шавашар+N+Prop:Шавашар PROP_  "" ;
+Шанчара+N+Prop:Шанчара PROP_  "" ;
+Шобашэҥер+N+Prop:Шобашэҥер PROP_  "" ;
+Шобашэҥер+N+Prop+Err/Orth:Шобашеҥер PROP_  "" ;
+Шоктешӱдыр+N+Prop:Шоктешӱдыр PROP_  "Seulaset" ;
+Эжвӱд+N+Prop:Эжвӱд PROP_  "" ;
+Эшым+N+Prop:Эшым PROP_  "" ;
+Яран+N+Prop:Яран PROP_  "" ;
+Ярмет+N+Prop:Ярмет PROP_  "" ;
+Ӱпӧн+N+Prop:Ӱпӧн PROP_  "" ;
+Семык+N+Prop:Се•мык PROP_  "" ;
+Шыжывазар+N+Prop:Шыжываза•р PROP_  "" ;
+Шорыкйол+N+Prop:Шорыкйо•л PROP_  "" ;
+Сӱрем+N+Prop:Сӱре•м PROP_  "" ;
+Юникод+N+Prop:Юнико•д PROP_  "" ;
+Совинформбюро+N+Prop:Совинформбюро• PROP_  "" ;
+Рошто+N+Prop:Рошто• PROP_  "" ;
+Реформаций+N+Prop:Реформа•ций PROP_  "" ;
+Овен+N+Prop:О•вен PROP_  "" ;
+Йӱдвелшӱдыр+N+Prop:Йӱдвелшӱ•дыр PROP_  "" ;
+Лумӱдыр+N+Prop:Лумӱ•дыр PROP_  "" ;
+Вӱдйоктарыше+N+Prop:Вӱдйокта•рыш%{еы%} PROP_  "" ;
+Господь+N+Prop:Госпо•дь PROP_  "" ;
+Девон+N+Prop:Дево•н PROP_  "" ;
+Илянгече+N+Prop:Илянге•ч%{еы%} PROP_  "" ;
+Индешкугарня+N+Prop:Индешкугарня• PROP_  "" ;
+Мормон+N+Prop:Мормо•н PROP_  "" ;
+Чека+N+Prop:Чека• PROP_  "" ;
+Сабантуй+N+Prop:Сабанту•й PROP_  "" ;

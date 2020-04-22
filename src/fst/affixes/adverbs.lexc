@@ -1,34 +1,20 @@
+LEXICON ADV_ !!= * @CODE@ adverbs
++Comp:%>рак K  ;
++Weak:%>ла K  ;
+: K ;
 
+!LEXICON ADV2_  ! Adverbs that take PX
+!+PxSg1:%>Е2м   K ;
+!+PxSg2:%>Е2т K ;
 
-!Adverbs
+!+PxSg3:%>ыж K ; !NB_PX_CX Only after ш see twolc
+!+PxSg3:%>ыжЫ2 K ; !NB_PX_CX Only after ш see twolc
+!+PxSg3:%>жЫ2 K ; !NB_PX_CX
+!+PxSg3:%>ж K ; !NB_PX_CX
 
-LEXICON Adv         
-+Adv: # ;
-!+Adv:   SxAdv       ;
-
-!LEXICON AdvPx       
-!+Adv:   SxAdvPx       ;
-
-!LEXICON AdvCx        
-!+Adv:   SxAdvCx       ;
-
-!LEXICON AdvUndecl        
-!+Adv:   SxAdvUndecl       ;
-
-
-
-
-!Adverbs
-
-!LEXICON SxAdv       
-!$x  WordEnd	;
-
-!LEXICON SxAdvPx       
-!$x  WordEnd	;
-
-!LEXICON SxAdvCx       
-!$x  WordEnd	;
-
-!LEXICON SxAdvUndecl       
-!$x  WordEnd	;
-
+!+PxPl1:%>на K ;
+!+PxPl2:%>да K ;
+!+PxPl3:%>Ы1шт K ;
+!+Comp:%>рак K  ;
+!+Weak:%>ла K  ;
+!: K ;
