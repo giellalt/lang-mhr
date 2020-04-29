@@ -5,8 +5,8 @@
 !!! Dynamic documentation
 
 * [Links to generated source file documentation|Links.html]
-* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/mhr/src/morphology/stems/]   
-  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/mhr/src/morphology/affixes/] 
+* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/mhr/src/fst/stems/]   
+  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/mhr/src/fst/affixes/] 
   / [syntax|https://gtsvn.uit.no/langtech/trunk/langs/mhr/src/syntax] 
   / [twolc|https://gtsvn.uit.no/langtech/trunk/langs/mhr/src/phonology/mhr-phon.twolc]   
   / [yaml|https://gtsvn.uit.no/langtech/trunk/langs/mhr/test/src/gt-norm-yamls/]
@@ -16,7 +16,7 @@
 
 !!! Grammatical issues
 
-* [The tags that are in use|https://gtsvn.uit.no/langtech/trunk/langs/mhr/src/morphology/root.lexc]   
+* [The tags that are in use|https://gtsvn.uit.no/langtech/trunk/langs/mhr/src/fst/root.lexc]   
 * [A list of common morphological tags|/lang/common/MorphologicalTags.html]
 * [Discussions on the tag inventory|TagDiscussion.html]
 
