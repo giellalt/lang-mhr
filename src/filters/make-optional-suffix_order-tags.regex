@@ -1,0 +1,15 @@
+# This regex removes tags we do not want in the ordinary $(GTLANG).fst
+# That is, we do not give them as output from analysis
+
+# make some mhr tags optional. 
+# These tags are for investigating suffix ordering.
+
+0 (<-) "+So/CP" ,
+0 (<-) "+So/PC" ,
+0 (<-) "+So/NCP" ,
+0 (<-) "+So/NPC" ,
+0 (<-) "+So/NP" ,
+0 (<-) "+So/PN" ,
+0 (<-) "+So/PNC" ;
+
+

@@ -1,0 +1,88 @@
+
+LEXICON Exceptions
+
+
+!! NOUNS
+
+!! KIN TERMS
+! +Nom +Gen +Dat +Acc +Com +Cmpr +PxSg3 K
+веҥе+N+Sg:веҥым N_KIN_SPECIAL_1 ;
+веҥе+N+Sg:веҥыч N_KIN_SPECIAL_2 ;
+веҥе+N+Pl:веҥым-влак N_KIN_SPECIAL_1 ;
+веҥе+N+Pl:веҥыч-влак N_KIN_SPECIAL_2 ;
+
+оньо+N+Sg:оньым N_KIN_SPECIAL_1 ;
+оньо+N+Sg:оньыч N_KIN_SPECIAL_2 ;
+оньо+N+Pl:оньым-влак N_KIN_SPECIAL_1 ;
+оньо+N+Pl:оньыч-влак N_KIN_SPECIAL_2 ;
+
+чӱчӱ+N+Sg:чӱчӱм N_KIN_SPECIAL_1 ;
+чӱчӱ+N+Sg:чӱчӱч N_KIN_SPECIAL_2 ;
+чӱчӱ+N+Pl:чӱчӱм-влак N_KIN_SPECIAL_1 ;
+чӱчӱ+N+Pl:чӱчӱч-влак N_KIN_SPECIAL_2 ;
+
+чӱчӱньӧ+N+Sg:чӱчӱньым N_KIN_SPECIAL_1 ;
+чӱчӱньӧ+N+Sg:чӱчӱньыч N_KIN_SPECIAL_2 ;
+чӱчӱньӧ+N+Pl:чӱчӱньым-влак N_KIN_SPECIAL_1 ;
+чӱчӱньӧ+N+Pl:чӱчӱньыч-влак N_KIN_SPECIAL_2 ;
+
+шешке+N+Sg:шешкым N_KIN_SPECIAL_1 ;
+шешке+N+Sg:шешкыч N_KIN_SPECIAL_2 ;
+шешке+N+Pl:шешкым-влак N_KIN_SPECIAL_1 ;
+шешке+N+Pl:шешкыч-влак N_KIN_SPECIAL_2 ;
+
+шольо+N+Sg:шольым N_KIN_SPECIAL_1 ;
+шольо+N+Sg:шольыч N_KIN_SPECIAL_2 ;
+шольо+N+Pl:шольым-влак N_KIN_SPECIAL_1 ;
+шольо+N+Pl:шольыч-влак N_KIN_SPECIAL_2 ;
+
+иза-шольо+N+Sg:иза-шольым N_KIN_SPECIAL_1 ;
+иза-шольо+N+Sg:иза-шольыч N_KIN_SPECIAL_2 ;
+иза-шольо+N+Pl:иза-шольым-влак N_KIN_SPECIAL_1 ;
+иза-шольо+N+Pl:иза-шольыч-влак N_KIN_SPECIAL_2 ;
+
+эрге+N+Sg:эргым N_KIN_SPECIAL_1;
+эрге+N+Sg:эргыч N_KIN_SPECIAL_2 ;
+эрге+N+Pl:эргым-влак N_KIN_SPECIAL_1;
+эрге+N+Pl:эргыч-влак N_KIN_SPECIAL_2 ;
+
+нудо+N+Sg:нудым N_KIN_SPECIAL_1 ;
+нудо+N+Sg:нудыч N_KIN_SPECIAL_2 ;
+нудо+N+Pl:нудым-влак N_KIN_SPECIAL_1 ;
+нудо+N+Pl:нудыч-влак N_KIN_SPECIAL_2 ;
+
+
+!! Single-syllable nouns in У Ӱ Ю
+лу:лу N_SINGLE-SYLLABLE-U ;
+ну:ну N_SINGLE-SYLLABLE-U ;
+пу:пу N_SINGLE-SYLLABLE-U ;
+ру:ру N_SINGLE-SYLLABLE-U ;
+ту:ту N_SINGLE-SYLLABLE-U ;
+шу:шу N_SINGLE-SYLLABLE-U ;
+кӱ:кӱ N_SINGLE-SYLLABLE-U ;
+ю:ю N_SINGLE-SYLLABLE-U ;
+у+A+Der/MWN:у N_SINGLE-SYLLABLE-U ;
+
+!! VERBS
+манаш+V+Ger+Gen:ман K ;
+
+LEXICON N_KIN_SPECIAL ! will this work?
+N_KIN_SPECIAL_1 ;
+N_KIN_SPECIAL_2 ;
+
+LEXICON N_KIN_SPECIAL_1
++Nom+PxSg1: K ;
++Gen+PxSg1+So/PC:%>ын K ;
++Acc+PxSg1+So/PC:%>ым K ;
++Dat+PxSg1+So/PC:%>лан K ;
++Com+PxSg1+So/PC:%>ге K ;
++Cmpr+PxSg1+So/PC:%>ла K ;
+
+LEXICON N_KIN_SPECIAL_2
++Nom+PxSg2: K ;
++Gen+PxSg2+So/PC:%>ын K ;
++Acc+PxSg2+So/PC:%>ым K ;
++Dat+PxSg2+So/PC:%>лан K ;
++Com+PxSg2+So/PC:%>ге K ;
++Cmpr+PxSg2+So/PC:%>ла K ;
+

@@ -1,0 +1,83 @@
+!! !!!East Mari Numeral inflection
+
+LEXICON QNT_  !!= * @CODE@
++Qnt: # ;
+
+LEXICON KvMurt !!= * @CODE@
++Num: N-ava_01 ;
+
+LEXICON KvK !!= * @CODE@ cardinal numerals
++Num: N-ava_01 ;
+
+LEXICON KvK_ATTR !!= * @CODE@ cardinal numerals in noun phrase scope
++Num+Attr: # ;
+
+
+LEXICON KvKoll !!= * @CODE@
++Num: # ;
+
+
+LEXICON NUM-COLL_ !!= * @CODE@
+кокыт+Num+Coll+Acc+PxPl1+So/PC:когыньнам K ;
+кокыт+Num+Coll+Acc+PxPl2+So/PC:когыньдам K ;
+кокыт+Num+Coll+Acc+PxPl3+So/PC:когыньыштым K ;
+кокыт+Num+Coll+Dat+PxPl1+So/CP:когылянна K ;
+кокыт+Num+Coll+Dat+PxPl2+So/CP:когылянда K ;
+кокыт+Num+Coll+Dat+PxPl3+So/CP:когылянышт K ;
+кокыт+Num+Coll+Gen+PxPl1+So/PC:когыньнан K ;
+кокыт+Num+Coll+Gen+PxPl2+So/PC:когыньдан K ;
+кокыт+Num+Coll+Gen+PxPl3+So/PC:когыньыштын K ;
+кокыт+Num+Coll+Nom+PxPl1:когыньна K ;
+кокыт+Num+Coll+Nom+PxPl2:когыньда K ;
+кокыт+Num+Coll+Nom+PxPl3:когыньышт K ;
+
+кумыт+Num+Coll+Acc+PxPl1+So/PC:кумыньнам K ;
+кумыт+Num+Coll+Acc+PxPl2+So/PC:кумыньдам K ;
+кумыт+Num+Coll+Acc+PxPl3+So/PC:кумыньыштым K ;
+кумыт+Num+Coll+Dat+PxPl1+So/CP:кумылянна K ;
+кумыт+Num+Coll+Dat+PxPl2+So/CP:кумылянда K ;
+кумыт+Num+Coll+Dat+PxPl3+So/CP:кумылянышт K ;
+кумыт+Num+Coll+Gen+PxPl1+So/PC:кумыньнан K ;
+кумыт+Num+Coll+Gen+PxPl2+So/PC:кумыньдан K ;
+кумыт+Num+Coll+Gen+PxPl3+So/PC:кумыньыштын K ;
+кумыт+Num+Coll+Nom+PxPl1:кумыньна K ;
+кумыт+Num+Coll+Nom+PxPl2:кумыньда K ;
+кумыт+Num+Coll+Nom+PxPl3:кумыньышт K ;
+
+нылыт+Num+Coll+Acc+PxPl1+So/PC:нылыньнам K ;
+нылыт+Num+Coll+Acc+PxPl2+So/PC:нылыньдам K ;
+нылыт+Num+Coll+Acc+PxPl3+So/PC:нылыньыштым K ;
+нылыт+Num+Coll+Dat+PxPl1+So/PC:нылыньналан K ;
+нылыт+Num+Coll+Dat+PxPl2+So/PC:нылыньдалан K ;
+нылыт+Num+Coll+Dat+PxPl3+So/PC:нылыньыштлан K ;
+нылыт+Num+Coll+Gen+PxPl1+So/PC:нылыньнан K ;
+нылыт+Num+Coll+Gen+PxPl2+So/PC:нылыньдан K ;
+нылыт+Num+Coll+Gen+PxPl3+So/PC:нылыньыштын K ;
+нылыт+Num+Coll+Nom+PxPl1:нылыньна K ;
+нылыт+Num+Coll+Nom+PxPl2:нылыньда K ;
+нылыт+Num+Coll+Nom+PxPl3:нылыньышт K ;
+
+визыт+Num+Coll+Acc+PxPl1+So/PC:визыньнам K ;
+визыт+Num+Coll+Acc+PxPl2+So/PC:визыньдам K ;
+визыт+Num+Coll+Acc+PxPl3+So/PC:визыньыштым K ;
+визыт+Num+Coll+Dat+PxPl1+So/PC:визыньналан K ;
+визыт+Num+Coll+Dat+PxPl2+So/PC:визыньдалан K ;
+визыт+Num+Coll+Dat+PxPl3+So/PC:визыньыштлан K ;
+визыт+Num+Coll+Gen+PxPl1+So/PC:визыньнан K ;
+визыт+Num+Coll+Gen+PxPl2+So/PC:визыньдан K ;
+визыт+Num+Coll+Gen+PxPl3+So/PC:визыньыштын K ;
+визыт+Num+Coll+Nom+PxPl1:визыньна K ;
+визыт+Num+Coll+Nom+PxPl2:визыньда K ;
+визыт+Num+Coll+Nom+PxPl3:визыньышт K ;
+
+LEXICON KvInd !!= * @CODE@
++Num: # ;
+
+LEXICON KvO
++A+Ord+Attr: ENDLEX ;
++A+Ord: N-ava_01 ; 
+
+
+
+LEXICON Kv-a/e  !!= * @CODE@
++Num: # ;

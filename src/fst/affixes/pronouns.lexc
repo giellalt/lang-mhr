@@ -1,0 +1,267 @@
+!! !!!Eastern Mari pronoun inflection
+
+!! !!Lexica directed from root.lexc
+
+LEXICON pronouns_not_from_xml !!= * @CODE@
+мый+Pron+Pers: MYJ ;	
+тый+Pron+Pers: TYJ ;	
+тудо+Pron: TUDO ;	
+тиде+Pron: TIDE ;	
+шке+Pron+Refl: SHKE ;
+кажне+Pron+Indef: KAZHNE ;
+кеч-мо+Pron:кеч-мо PRON-INDEF ;
+кеч-кӧ+Pron:кеч-кӧ PRON-INDEF ;
+нимо+Pron:нимо PRON-INDEF ;
+нигӧ+Pron:нигӧ PRON-INDEF ;
+ала-мо+Pron:ала-мо PRON-INDEF ;
+ала-кӧ+Pron:ала-кӧ PRON-INDEF ;
+кеч-мо+Pron:кеч-мо PRON-INDEF ;
+кеч-кӧ+Pron:кеч-кӧ PRON-INDEF ;
+керек-мо+Pron:керек-мо PRON-INDEF ;
+керек-кӧ+Pron:керек-кӧ PRON-INDEF ;
+иктаж-мо+Pron:иктаж-мо PRON-INDEF ;
+иктаж-кӧ+Pron:иктаж-кӧ PRON-INDEF ;
+
+мо+Pron+Interr+Sg+PxSg2:моч N_KIN_SPECIAL ;
+нимо+Pron+Neg+Sg+PxSg2:нимоч N_KIN_SPECIAL ;
+кеч-мо+Pron+Indef+PxSg2:кеч-моч N_KIN_SPECIAL ;
+керек-мо+Pron+Indef+PxSg2:керек-моч N_KIN_SPECIAL ;
+ала-мо+Pron+Indef+PxSg2:ала-моч N_KIN_SPECIAL ;
+иктаж-мо+Pron+Indef+PxSg2:иктаж-моч N_KIN_SPECIAL ;
+
+LEXICON MYJ !!= * @CODE@
++Sg1+Nom:мый K_at ;
++Sg1+Nom+Use/NG:мые # ;
++Sg1+Gen:мыйын K_at ;
++Sg1+Der/Poss:мыйын N-ava_01_obl ;
++Sg1+Acc:мыйым K_at ;
++Sg1+Dat+Use/NG:мыланем K_at;
++Sg1+Dat:мылам K_at;
++Sg1+Com:мыйге # ;
++Sg1+Cmpr:мыйла # ;
++Pl1+Nom:ме K_at ;
++Pl1+Gen:мемнан K_at ;
++Pl1+Der/Poss:мемнан N-ava_01_obl ;
++Pl1+Acc:мемнам K_at ;
++Pl1+Dat:мыланна K_at ;
++Pl1+Dat+Use/NG:мемналан #;
++Pl1+Com:меге # ;
++Pl1+Cmpr:мела # ;
+
+LEXICON TYJ !!= * @CODE@
++Sg2+Nom:тый K_at ;
++Sg2+Nom+Use/NG:тые # ;
++Sg2+Gen:тыйын K_at ;
++Sg2+Der/Poss:тыйын N-ava_01_obl ;
++Sg2+Acc:тыйым K_at ;
++Sg2+Dat+Use/NG:тыланет K_at;
++Sg2+Dat:тылат K_at;
++Sg2+Com:тыйге # ;
++Sg2+Cmpr:тыйла # ;
++Pl2+Nom:те K_at ;
++Pl2+Gen:тендан K_at ;
++Pl2+Der/Poss:тендан N-ava_01_obl ;
++Pl2+Acc:тендам K_at ;
++Pl2+Dat:тыланда K_at;
++Pl2+Dat+Use/NG:тендалан #;
++Pl2+Com:теге # ;
++Pl2+Cmpr:тела # ;
+
+LEXICON TUDO !!= * @CODE@
++Pers+Sg3+Nom:туд%{оы%} K_at ;
++Pers+Sg3+Gen:тудын K_at ;
++Sg+Der/Poss:тудын N-ava_01_obl ;
++Pers+Sg3+Acc:тудым K_at ;
++Pers+Sg3+Dat:тудлан K_at;
++Pers+Sg3+Com:тудыге # ;
++Pers+Sg3+Cmpr:тудла # ;
++Pers+Sg3+Gen+PxSg3+So/PC:тудыжын K_at ;
++Pers+Sg3+Acc+PxSg3+So/PC:тудыжым K_at ;
++Pers+Sg3+Dat+PxSg3+So/PC:тудыжлан K_at;
++Pers+Pl3+Nom:нун%{оы%} K_at ;
++Pers+Pl3+Nom+PxSg3:нуныж K_at ;
++Pers+Pl3+Gen+PxSg3+So/PC:нуныжын K_at ;
++Pers+Pl3+Acc+PxSg3+So/PC:нуныжым K_at ;
++Pers+Pl3+Dat+PxSg3+So/PC:нуныжлан K_at ;
++Pers+Pl3+Nom+PxPl3:нунышт K_at ;
++Pers+Pl3+Gen+PxPl3+So/PC:нуныштын K_at ;
++Pers+Pl3+Acc+PxPl3+So/PC:нуныштым K_at ;
++Pers+Pl3+Dat+PxPl3+So/PC:нуныштлан K_at ;
++Pers+Pl3+Gen:нунын K_at ;
++Pl+Der/Poss:нунын N-ava_01_obl ;
++Pers+Pl3+Acc:нуным K_at ;
++Pers+Pl3+Dat:нунылан K_at;
++Pers+Pl3+Com:нуныге # ;
++Pers+Pl3+Cmpr:нуныла # ;
+
+LEXICON TIDE !!= * @CODE@ 
++Dem+Sg+Nom:тид%{еы%} K_at ;
++Dem+Sg+Gen:тидын K_at ;
++Sg+Der/Poss:тидын N-ava_01_obl ;
++Dem+Sg+Acc:тидым K_at ;
++Dem+Sg+Dat:тидлан K_at;
++Dem+Sg+Com:тидыге # ;
++Dem+Sg+Cmpr:тидыла # ;
++Dem+Pl+Nom:нин%{еы%} K_at ;
++Dem+Pl+Cmpr:ниныла # ;
++Dem+Sg+Nom+PxSg3:тидыж%{еы%} K_at ;
++Dem+Sg+Nom+PxSg3+Use/NG:тидыж ENDLEX ;
++Dem+Sg+Gen+PxSg3+So/PC:тидыжын K_at ;
++Dem+Sg+Acc+PxSg3+So/PC:тидыжым K_at ;
++Dem+Sg+Dat+PxSg3+So/PC:тидыжлан K_at;
+
+
+LEXICON SHKE !!= * @CODE@ 
++Nom:шке K_at ;
++Nom+PxSg3:шкеж%{еы%} K_at ;
++Nom+PxSg3+Use/NG:шкеж ENDLEX ;
++Nom+PxPl3:шкешт K_at ;
+
++Gen+PxSg1:шкемын K_at ;
++PxSg1+Der/Poss:шкемын N-ava_01_obl ;
++Acc+PxSg1:шкемым K_at ;
++Dat+PxSg1:шканем K_at;
++Dat+PxSg1+Use/NG:шкаланем K_at;
++Gen+PxSg2:шкендын K_at ;
++PxSg2+Der/Poss:шкендын N-ava_01_obl ;
++Acc+PxSg2:шкендым K_at ;
++Dat+PxSg2:шканет K_at;
++Dat+PxSg2+Use/NG:шкаланет K_at;
++Gen+PxSg3:шкенжын K_at ;
++PxSg3+Der/Poss:шкенжын N-ava_01_obl ;
++Acc+PxSg3:шкенжым K_at ;
++Dat+PxSg3:шканж%{еы%} K_at;
++Dat+PxSg3+Use/NG:шкаланж%{еы%} K_at;
++Gen+PxPl1:шкенан K_at ;
++PxPl1+Der/Poss:шкенан N-ava_01_obl ;
++Acc+PxPl1:шкенам K_at ;
++Dat+PxPl1:шкaнна K_at;
++Dat+PxPl1+Use/NG:шкаланна K_at;
++Gen+PxPl2:шкендан K_at ;
++PxPl2+Der/Poss:шкендан N-ava_01_obl ;
++Acc+PxPl2:шкендам K_at ;
++Dat+PxPl2:шкaнда K_at;
++Dat+PxPl2+Use/NG:шкаланда K_at;
++Gen+PxPl3:шкеныштын K_at ;
++PxPl3+Der/Poss:шкеныштын N-ava_01_obl ;
++Acc+PxPl3:шкеныштым K_at ;
++Dat+PxPl3:шкaнышт K_at;
++Dat+PxPl3+Use/NG:шкаланышт K_at;
+
+
+!! !!Pronoun lexica from xml
+
+LEXICON Pimp  !!= * @CODE@
+!+Pron: K ;
+ K ;
+
+LEXICON Pmuu !!= * @CODE@
++Interj: K ; ! Several Pmuu do not belong here
+
+LEXICON PRON-IR_ !!= * @CODE@
++Interr: K ;
++Rel: K ;
+!+Pron+Interr: K ;
+!+Pron+Rel: K ;
+
+LEXICON PRON_ !!= * @CODE@
+: K ;
+!+Pron: K ;
+
+LEXICON PronRes !!= * @CODE@
++Pron+Recipr+Acc:%>м K_at ;
++Pron+Recipr+Dat:%>лан K_at ;
++Pron+Recipr+Gen:%>н K_at ;
++Pron+Recipr+Der/Poss:%>н N-ava_01_obl ;
++Pron+Recipr+Nom: K_at ;
++Pron+Recipr+Nom+PxSg3:%>ж ENDLEX ;
++Pron+Recipr+Acc+PxPl1:%>нам K_at ;
++Pron+Recipr+Dat+PxPl1:%>налан K_at ;
++Pron+Recipr+Dat+PxPl1+Use/NG:%>ланна K_at ;
++Pron+Recipr+Gen+PxPl1:%>нан K_at ;
++Pron+Recipr+PxPl1+Der/Poss:%>нан N-ava_01_obl ;
++Pron+Recipr+Nom+PxPl1:%>на K_at ;
++Pron+Recipr+Acc+PxPl2:%>дам K_at ;
++Pron+Recipr+Dat+PxPl2:%>далан K_at ;
++Pron+Recipr+Dat+PxPl2+Use/NG:%>ланда K_at ;
++Pron+Recipr+Gen+PxPl2:%>дан K_at ;
++Pron+Recipr+PxPl2+Der/Poss:%>дан N-ava_01_obl ;
++Pron+Recipr+Nom+PxPl2:%>да K_at ;
++Pron+Recipr+Acc+PxPl3:%>Ы1штым K_at ;
++Pron+Recipr+Dat+PxPl3:%>Ы1штлан K_at ;
++Pron+Recipr+Dat+PxPl3+Use/NG:%>ланышт K_at ;
++Pron+Recipr+Gen+PxPl3:%>Ы1штын K_at ;
++Pron+Recipr+PxPl3+Der/Poss:%>Ы1штын N-ava_01_obl ;
++Pron+Recipr+Nom+PxPl3:%>Ы1шт K_at ;
+
+
+LEXICON PronI !!= * @CODE@
+: # ;
+!+Pron: # ;
+
+LEXICON PronIR !!= * @CODE@
++Interr: # ;
+!+Pron+Interr: # ;
+
+LEXICON PRON-INTERR/REL_
++Interr: N-ava_01 ;
++Rel: N-ava_01 ;
+!+Pron+Interr: N-ava_01 ;
+!+Pron+Rel: N-ava_01 ;
+
+
+LEXICON PronInd !!= * @CODE@
++Pron+Ind: K_at  ;
+
+LEXICON PRON-INDEF !!= * @CODE@
++Indef+Acc:%>Ы1м K_at ;
++Indef+Dat:%>лан K_at ;
++Indef+Gen:%>Ы1н K_at ;
++Indef+Nom+PxSg3+So/PC:%>ж ENDLEX ;
++Indef+Nom+PxSg3+So/PC:%>ыжЫ2 K_at ;
++Indef+Acc+PxSg3+So/PC:%>ыж%>ым K_at ;
++Indef+Acc+PxSg3+So/PC:%>жы%>м K_at ;
++Indef+Dat+PxSg3+So/PC:%>ыж%>лан K_at ;
++Indef+Dat+PxSg3+So/PC:%>ж%>лан K_at ;
++Indef+Gen+PxSg3+So/PC:%>ыж%>ын K_at ;
++Indef+Gen+PxSg3+So/PC:%>жы%>н K_at ;
++Indef+Nom: K_at ;
+
+LEXICON KAZHNE !!= * @CODE@
++Nom:кажн%{еы%} K_at ;
++Gen:кажнын K_at ;
++Der/Poss:кажнын N-ava_01_obl ;
++Acc:кажным K_at ;
++Dat:кажнылан K_at ;
++Ine:кажнышт{еы%} K_at ;
++Ill:кажнышт{еы%} K_at ;
++Nom+PxSg3:кажныж%{еы%} K_at ;
++Nom+PxSg3+Use/NG:кажныж ENDLEX ;
++Gen+PxSg3+So/PC:кажныжын K_at ;
++Gen+PxSg3+Der/Poss:кажныжын N-ava_01_obl ;
++Acc+PxSg3+So/PC:кажныжым K_at ;
++Dat+PxSg3+So/PC:кажныжлан K_at ;
++Ine+PxSg3+So/CP:кажныштыж%{еы%} K_at ;
++Ill+PxSg3+So/CP:кажнышкыж%{еы%} K_at ;
++Nom+PxPl1:кажнына K_at ;
++Gen+PxPl1+So/PC:кажнынан K_at ;
++Gen+PxPl1+Der/Poss:кажнынан N-ava_01_obl ;
++Acc+PxPl1+So/PC:кажнынам K_at ;
++Dat+PxPl1+So/CP:кажныланна K_at ;
++Nom+PxPl2:кажныда K_at ;
++Gen+PxPl2+So/PC:кажныдан K_at ;
++Gen+PxPl2+Der/Poss:кажныдан N-ava_01_obl ;
++Acc+PxPl2+So/PC:кажныдам K_at ;
++Dat+PxPl2+So/CP:кажныланда K_at ;
++Nom+PxPl3:кажнышт K_at ;
++Gen+PxPl3+So/PC:кажныштын K_at ;
++Gen+PxPl3+Der/Poss:кажныштын N-ava_01_obl ;
++Acc+PxPl3+So/PC:кажныштым K_at ;
++Dat+PxPl3+So/PC:кажныштлан K_at ;
+
+LEXICON PronDem !!= * @CODE@
++Pron+Dem: # ;
+
+LEXICON PronRef !!= * @CODE@
++Pron+Refl: # ;
+

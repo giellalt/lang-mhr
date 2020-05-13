@@ -1,0 +1,24 @@
+# Meadow and Eastern Mari (also Hill Mari) #SoMe spellrelax file.
+
+[ ҥ (->)  н ,
+Ҥ (->)  Н ,
+ӓ (->)  а ,
+Ӓ (->)  А ,
+ӧ (->)  о ,
+Ӧ (->)  О ,
+ӹ (->)  ы ,
+Ӹ (->)  Ы ,
+ӱ (->)  у ,
+Ӱ (->)  У ]
+.o.
+[ о (->)  а || _ .#. ]
+.o.
+[ е (->)  а || _ .#. ]
+;
+
+
+# Explanation:
+# lexical side (->) input 
+# Or, in other words:
+# correct (->) in use out there
+

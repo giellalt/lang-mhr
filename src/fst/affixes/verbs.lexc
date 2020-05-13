@@ -1,0 +1,492 @@
+
+!! Meadow Mari verb inflection.
+!  ===========================
+
+
+! =============================== !
+!! !!!Verbal continuation lexica
+! =============================== !
+
+!! !!Auxiliary verbs
+
+!! Some of these are directed directly from root.lexc
+
+LEXICON verbs_not_from_xml   !!=   @CODE@
+ ок+V+Neg: negverb ;
+   улаш+V: ulasj   ;
+
+LEXICON negverb !!= @CODE@ TODO: fix
+        +Ind+Prs+Sg1:ом         K ;
+        +Ind+Prs+Sg2:от         K ;
+        +Ind+Prs+Sg3:ок         K ;
+ +Ind+Prs+Sg3+Use/NG:огеш       K ;
+        +Ind+Prs+Pl1:она        K ;
+ +Ind+Prs+Pl1+Use/NG:огына      K ;
+        +Ind+Prs+Pl2:ода        K ;
+ +Ind+Prs+Pl2+Use/NG:огыда      K ;
+        +Ind+Prs+Pl3:огыт       K ;
+
+       +Ind+Prt1+Sg1:шым        K ;
++Ind+Prt1+Sg1+Use/NG:ыжым       K ;
+       +Ind+Prt1+Sg2:шыч        K ;
++Ind+Prt1+Sg1+Use/NG:ыжыч       K ;
+       +Ind+Prt1+Sg3:ыш         K ;
+       +Ind+Prt1+Pl1:ышна       K ;
++Ind+Prt1+Pl1+Use/NG:ыжна       K ;
+       +Ind+Prt1+Pl2:ышда       K ;
++Ind+Prt1+Pl2+Use/NG:ыжда       K ;
+       +Ind+Prt1+Pl3:ышт        K ;
+
+          +Imprt+Sg2:ит         K ;
+          +Imprt+Pl2:ида        K ;
+          +Imprt+Sg3:ынж%{еы%}  K ;
+          +Imprt+Pl3:ынышт      K ;
+
+            +Des+Sg1:ынем       K ;
+            +Des+Sg2:ынет       K ;
+            +Des+Sg3:ынеж       K ;
+     +Des+Sg3+Use/NG:ынеж%{еы%} K ;
+            +Des+Pl1:ынена      K ;
+            +Des+Pl2:ынеда      K ;
+            +Des+Pl3:ынешт      K ;
+
+  +Ind+Prs+Sg1+Indep:огым       K ;
+  +Ind+Prs+Sg2+Indep:огыт       K ;
+    +Imprt+Sg2+Indep:ите        K ;
+
+
+LEXICON ulasj
+                     +Inf:улаш    K      ;
+             +Ind+Prs+Sg1:улам    K      ;
+             +Ind+Prs+Sg2:улат    K      ;
+             +Ind+Prs+Sg3:улеш    K      ;
+         +Ind+Prs+Sg3+Ext:уло     K      ;
+             +Ind+Prs+Pl1:улына   K      ;
+             +Ind+Prs+Pl2:улыда   K      ;
+             +Ind+Prs+Pl3:улыт    K      ;
+            +Ind+Prt1+Sg1:ыльым   K      ;
+            +Ind+Prt1+Sg2:ыльыч   K      ;
+            +Ind+Prt1+Sg3:ыле     ENDLEX ;
+     +Ind+Prt1+Sg3+Foc/ak:ыляк    ENDLEX ;
+     +Ind+Prt1+Sg3+Foc/at:ылят    ENDLEX ;
+     +Ind+Prt1+Sg3+Foc/ys:ыльыс   ENDLEX ;
+            +Ind+Prt1+Pl1:ыльна   K      ;
+            +Ind+Prt1+Pl2:ыльда   K      ;
+            +Ind+Prt1+Pl3:ыльыч   K      ;
+            +Ind+Prt2+Sg1:улынам  K      ;
+            +Ind+Prt2+Sg2:улынат  K      ;
+            +Ind+Prt2+Sg3:улмаш   K      ;
+     +Ind+Prt2+Sg3+Use/NG:улмашын K      ;
+            +Ind+Prt2+Pl1:улынна  K      ;
+            +Ind+Prt2+Pl2:улында  K      ;
+            +Ind+Prt2+Pl3:улыныт  K      ;
+
+         +Neg+Ind+Prs+Sg1:омыл    K      ;
+         +Neg+Ind+Prs+Sg2:отыл    K      ;
+         +Neg+Ind+Prs+Sg3:огыл    K      ;
+         +Neg+Ind+Prs+Pl1:онал    K      ;
+  +Neg+Ind+Prs+Pl1+Use/NG:огынал  K      ;
+         +Neg+Ind+Prs+Pl2:одал    K      ;
+  +Neg+Ind+Prs+Pl2+Use/NG:огыдал  K      ;
+         +Neg+Ind+Prs+Pl3:огытыл  K      ;
+
+!LEXICON V-AUX_  !!= @CODE@ TODO: fix
+!                  +Aux:        #      ;
+
+
+
+!! !!Regular verbs
+
+!! We divide the verbs in two, -am and -em
+
+!! !The -am class
+
+LEXICON V_am-N !!= @CODE@ divides V_am in Mood and infinites
+ +Ger+Gen:%^END K    ;
+                  V_am ;
+
+LEXICON V_am !!= @CODE@ divides V_am in Mood and infinites
+          :        V_am_inflection ;
+ +Der/Caus:ы%>кт   V_em-1SYLL      ; ! Causative derivation: ышташ 'to do' > ыштыкташ 'to make do'
+ +Der/Refl:ы%>А2лт V_am_inflection ; ! Reflexive derivation: ончыкташ 'to show' > ончыкталташ 'to show oneself'
+
+LEXICON V_am_inflection
+                     Vam-Mood    ;
+       +Inf:%>А2ш    K           ;
+
+   +Inf+Dat:%>А2шлан K           ;
+ +Inf+PxSg1:%>А2шем  K           ;
+ +Inf+PxSg2:%>А2шет  K           ;
+ +Inf+PxSg3:%>А2шыже K           ;
+ +Inf+PxSg3:%>А2шыж  K           ;
+ +Inf+PxSg3:%>А2шше  K           ;
+ +Inf+PxPl1:%>А2шна  K           ;
+ +Inf+PxPl2:%>А2шда  K           ;
+ +Inf+PxPl3:%>А2шышт K           ;
+
+   +Ger+Gen:%>ын     K           ;
+           :         non-finites ;
+    +ConNeg:%^END    K           ;
+ +Imprt+Sg2:%^END    K-imprt     ;
+
+LEXICON Vam-Mood !!= @CODE@ divides in Ind, Imprt, Des
+   +Ind: Vam-Ind ;
+ +Imprt: Vam-Imp ;
+   +Des: Vam-Des ;
+
+LEXICON Vam-Ind !!= @CODE@ gives all the Ind tenses
+  +Prs+Sg1:%>А2м      K ;
+  +Prs+Sg2:%>А2т      K ;
+  +Prs+Sg3:%>Е2ш      K ;
+  +Prs+Pl1:%>ына      K ;
+  +Prs+Pl2:%>ыда      K ;
+  +Prs+Pl3:%>ыт       K ;
+! Первое прошедшее время:
+ +Prt1+Sg1:%>%{ьØ%}ым K ;
+ +Prt1+Sg2:%>%{ьØ%}ыч K ;
+ +Prt1+Sg3:%>%{ьØ%}Ы2 K ;
+ +Prt1+Pl1:%>на       K ;
+ +Prt1+Pl2:%>да       K ;
+ +Prt1+Pl3:%>%{ьØ%}ыч K ;
+! Второе прошедшее время:
+ +Prt2+Sg1:%>ынам     K ;
+ +Prt2+Sg2:%>ынат     K ;
+ +Prt2+Sg3:%>ын       K ;
+ +Prt2+Pl1:%>ынна     K ;
+ +Prt2+Pl2:%>ында     K ;
+ +Prt2+Pl3:%>ыныт     K ;
+
+LEXICON Vam-Imp  !!= @CODE@ for imperative, Повелительное наклонение:
+ +Sg3:%>жЫ2 K       ;
+ +Pl2:%>за  K-imprt ;
+ +Pl3:%>ышт K       ;
+
+LEXICON Vam-Des  !!= @CODE@ for desiderative, Желательное наклонение:
+ +Prs+Sg1:%>нем  K ;
+ +Prs+Sg2:%>нет  K ;
+ +Prs+Sg3:%>неже K ;
+ +Prs+Pl1:%>нена K ;
+ +Prs+Pl2:%>неда K ;
+ +Prs+Pl3:%>нешт K ;
+
+
+!! !The -em class
+!! First four lexica: V_em with Gerund, the rest without, all going to V_em_ALL to get derivation affixes.
+! V_em                  = V_em           the restx
+! V_em-1SYLL            = V_em_puash     monosyll stems in у
+! V_em-1SYLL-j          = V_em_kajash    monosyll stems in й
+! V_em-MULTI-1SYLL-IN-J = V_em_kutajash  polysyll stems in й
+
+LEXICON V_em !!= @CODE@ divides V_em in Mood and infinites
+                   :          V_em_ALL ;
+
+LEXICON V_em-MULTI-SYLL-IN-J
+                   :          V_em_ALL ;
+
+LEXICON V_em-1SYLL-j !!= @CODE@ allow for literary norm until 1970 (Alhoniemi 1985: 105-106) кайше, кайшаш
+ +Err/Orth: non-finites ; !!= @CODE@ until 1972 reform
+                   :           V_em_ALL  ;
+          +ConNeg:%>%^V2IMPRT K           ; ! Only single-syllables in й
+       +Imprt+Sg2:%>%^V2IMPRT K-imprt     ; !
+
+LEXICON V_em-1SYLL !!= @CODE@ single syll V_em verbs, do not include bare-stem gerunds in their paradigms
+                   :           V_em_ALL ;
+          +ConNeg: K           ; ! Only single-syllables in й
+       +Imprt+Sg2: K-imprt     ; !
+
+!! Optional derivation:  All verbs going to V_em_INFL
+LEXICON V_em_ALL
+                                 V_em_INFL;
+    +Der/Caus:ы%>кт              V_em_INFL  ; ! Caus: ышташ 'to do' > ыштыкташ 'to make do'
+    +Der/Caus+Der/Caus:ы%>ктыкт  V_em_INFL  ; ! Caus ышташ 'to do' > ыштыкташ 'to make do'
+    +Der/Refl:%>А2лт             V_am       ; ! Refl: ончыкташ > ончыкталташ 'to show (> on)'
+    +Der/Refl+Der/Caus:%>А2лтыкт V_em       ; 
+    +Der/Refl+Der/Refl:%>А2лталт V_am       ; 
+
+LEXICON V_em_INFL
+                        Vem-Mood    ;
+       +Inf:%>А2ш       K           ;
+   +Inf+Dat:%>А2шлан    K           ;
+ +Inf+PxSg1:%>А2шем     K           ;
+ +Inf+PxSg2:%>А2шет     K           ;
+ +Inf+PxSg3:%>А2шыже    K           ;
+ +Inf+PxSg3:%>А2шыж     K           ;
+ +Inf+PxSg3:%>А2шше     K           ;
+ +Inf+PxPl1:%>А2шна     K           ;
+ +Inf+PxPl2:%>А2шда     K           ;
+ +Inf+PxPl3:%>А2шышт    K           ;
+
+! Деепричастие образа действия:
+   +Ger+Gen:%>Е2н       K           ;
+           :ы           non-finites ;
+    +ConNeg:%>Ы2   K           ; !
+ +Imprt+Sg2:%>Ы2   K-imprt     ;
+!    +ConNeg:%>Ы2%^END   K           ; !
+! +Imprt+Sg2:%>Ы2%^END   K-imprt     ;
+
+
+
+LEXICON Vem-Mood !!= @CODE@ divides in Ind, Imprt, Des
+   +Ind: Vem-Ind ;
+ +Imprt: Vem-Imp ;
+   +Des: Vem-Des ;
+
+LEXICON Vem-Ind  !!= @CODE@ gives all the Ind tenses
+  +Prs+Sg1:%>Е2м   K ;
+  +Prs+Sg2:%>Е2т   K ;
+  +Prs+Sg3:%>А2    K ;
+  +Prs+Pl1:%>Е2на  K ;
+  +Prs+Pl2:%>Е2да  K ;
+  +Prs+Pl3:%>А2т   K ;
+! Первое прошедшее время:
+ +Prt1+Sg1:%>ышым  K ;
+ +Prt1+Sg2:%>ышыч  K ;
+ +Prt1+Sg3:%>ыш    K ;
+ +Prt1+Pl1:%>ышна  K ;
+ +Prt1+Pl2:%>ышда  K ;
+ +Prt1+Pl3:%>ышт   K ;
+! Второе прошедшее время:
+ +Prt2+Sg1:%>Е2нам K ;
+ +Prt2+Sg2:%>Е2нат K ;
+ +Prt2+Sg3:%>Е2н   K ;
+ +Prt2+Pl1:%>Е2нна K ;
+ +Prt2+Pl2:%>Е2нда K ;
+ +Prt2+Pl3:%>Е2ныт K ;
+
+LEXICON Vem-Imp !!= * @CODE@ for imperative, Повелительное наклонение:
+ +Sg3:ы%>жЫ2 K       ; ! Note position of boundary break, between ы and жЫ2
+ +Pl2:%>ыза  K-imprt ;
+ +Pl3:%>ышт  K       ;
+
+LEXICON Vem-Des !!= * @CODE@ for desiderative, Желательное наклонение:
+ +Prs+Sg1:%>ынем  K ;
+ +Prs+Sg2:%>ынет  K ;
+ +Prs+Sg3:%>ынеже K ;
+ +Prs+Pl1:%>ынена K ;
+ +Prs+Pl2:%>ынеда K ;
+ +Prs+Pl3:%>ынешт K ;
+
+
+
+LEXICON non-finites !!= @CODE@ contains Mutual endings
+
+                    +Inf+Nec:%>ман        K                          ; ! Neccessitive infinitive
+                    +Act+Prc+Der/Nom+N:%>шЫ2        N_                         ; ! Действительное причастие
+                   +Pass+Prc+Der/Nom+N:%>мЫ2        N_                         ; ! Страдательное причастие
+                    +Fut+Prc+Der/Nom+N:%>шаш        N_                         ; ! Причастие будущего времени
+                    +Neg+Prc+Der/NomNeg+N:%>дымЫ2      N_                         ; ! Отрицательное причастие
+                    +Ger+Abe:%>де         K                          ; ! Отрицательная форма деепричастия образа действия:
+                    +Ger+Prf:%>мек%{еы%}  K                          ; ! Деепричастие времени (показывают время, предшествующее времени глагола):
+                    +Ger+Prf:%>мек        ENDLEX                     ; ! Деепричастие времени (показывают время, предшествующее времени глагола):
+
+              +Ger+Prf+PxSg1:%>мекем      K                          ;
+              +Ger+Prf+PxSg2:%>мекет      K                          ;
+              +Ger+Prf+PxSg3:%>мекыже     K                          ;
+              +Ger+Prf+PxSg3:%>мекше      K                          ;
+              +Ger+Prf+PxPl1:%>мекына     K                          ;
+              +Ger+Prf+PxPl2:%>мекыда     K                          ;
+              +Ger+Prf+PxPl3:%>мекышт     K                          ;
+
+                  +Ger+Imprf:%>мешк%{еы%} K                          ; ! Деепричастие времени
+                  +Ger+Imprf:%>меш        ENDLEX                     ; ! Деепричастие времени
+                         ! (показывает время, последующее за поясняемым действием)
+
+            +Ger+Imprf+PxSg1:%>мешкем     K                          ;
+            +Ger+Imprf+PxSg2:%>мешкет     K                          ;
+            +Ger+Imprf+PxSg3:%>мешкыже    K                          ;
+            +Ger+Imprf+PxPl1:%>мешкына    K                          ;
+            +Ger+Imprf+PxPl2:%>мешкыда    K                          ;
+            +Ger+Imprf+PxPl3:%>мешкышт    K                          ;
+
+! This can be considered a function of the passive participle, does not need its own form
+!                    +Der+Der/mO+Der/Nom+N:%>мЫ2        N_                         ; ! Деепричастие времени
+                         ! (добавочное действие, происходящее одновременно с поясняемым действием)
+                        +Ger:%>шыла       K                          ;
+                  +Ger+PxSg1:%>шемла      K                          ;
+                  +Ger+PxSg2:%>шетла      K                          ;
+                  +Ger+PxSg3:%>шыжла      K                          ;
+                  +Ger+PxPl3:%>шыштла     K                          ;
+                    +Der+Der/Nom+N:%>маш        N_                         ;
+                 +Der+Der/NomNeg+N:%>дымаш      N_                         ;
+
+
+
+
+
+
+
+
+! Old code from 2012
+
+
+!2012-09-21! ! Verbal affixes
+!2012-09-21! ! ---------------
+!2012-09-21!
+!2012-09-21!
+!2012-09-21! LEXICON V0
+!     2012-09-21! +Imprt+Sg2:X2X1         K0     "IMP-SG-2"          ;
+!        2012-09-21! +ConNeg:X2X1         K0     "KIELTOVART"        ;
+!2012-09-21!
+!2012-09-21! LEXICON V1
+!   2012-09-21! +Ind+Prs+Sg1:X2ам         K0     "IND-PREES-SG-1"    ;
+!   2012-09-21! +Ind+Prs+Sg2:X2ат         K0     "IND-PREES-SG-2"    ;
+!   2012-09-21! +Ind+Prs+Sg3:X2еш         K0     "IND-PREES-SG-3"    ;
+!   2012-09-21! +Ind+Prs+Pl1:X2ына        K0     "IND-PREES-PL-1"    ;
+!   2012-09-21! +Ind+Prs+Pl2:X2ыда        K0     "IND-PREES-PL-2"    ;
+!   2012-09-21! +Ind+Prs+Pl3:X2ыт         K0     "IND-PREES-PL-3"    ;
+!2012-09-21!
+!2012-09-21! LEXICON V2
+!   2012-09-21! +Ind+Prs+Sg1:X2ем         K0     "IND-PREES-SG-1"    ;
+!   2012-09-21! +Ind+Prs+Sg2:X2ет         K0     "IND-PREES-SG-2"    ;
+!   2012-09-21! +Ind+Prs+Sg3:X2а          K0     "IND-PREES-SG-3"    ;
+!   2012-09-21! +Ind+Prs+Pl1:X2ена        K0     "IND-PREES-PL-1"    ;
+!   2012-09-21! +Ind+Prs+Pl2:X2еда        K0     "IND-PREES-PL-2"    ;
+!   2012-09-21! +Ind+Prs+Pl3:X2ат         K0     "IND-PREES-PL-3"    ;
+!2012-09-21!
+!2012-09-21! LEXICON V3
+!              2012-09-21! ь              V5     " "                 ;
+!2012-09-21!
+!2012-09-21! LEXICON V4
+!   2012-09-21! +Ind+Prt+Pl1:X2на         K0     "IND-1-PRET-PL-1"   ;
+!   2012-09-21! +Ind+Prt+Pl2:X2да         K0     "IND-1-PRET-PL-2"   ;
+!2012-09-21!
+!2012-09-21! LEXICON V5
+!   2012-09-21! +Ind+Prt+Sg1:X2ым         K0     "IND-1-PRET-SG-1"   ;
+!   2012-09-21! +Ind+Prt+Sg2:X2ыч         K0     "IND-1-PRET-SG-2"   ;
+!   2012-09-21! +Ind+Prt+Sg3:X2Е1         K0     "IND-1-PRET-SG-3"   ;
+!   2012-09-21! +Ind+Prt+Pl3:X2ыч         K0     "IND-1-PRET-PL-3"   ;
+!2012-09-21!
+!2012-09-21! LEXICON V6
+!   2012-09-21! +Ind+Prt+Sg1:X2шым        K0     "IND-1-PRET-SG-1"   ;
+!   2012-09-21! +Ind+Prt+Sg2:X2шыч        K0     "IND-1-PRET-SG-2"   ;
+!   2012-09-21! +Ind+Prt+Sg3:X2ш          K0     "IND-1-PRET-SG-3"   ;
+!   2012-09-21! +Ind+Prt+Pl1:X2шна        K0     "IND-1-PRET-PL-1"   ;
+!   2012-09-21! +Ind+Prt+Pl2:X2шда        K0     "IND-1-PRET-PL-2"   ;
+!   2012-09-21! +Ind+Prt+Pl3:X2шт         K0     "IND-1-PRET-PL-3"   ;
+!2012-09-21!
+!2012-09-21! LEXICON V7
+!           2012-09-21! X5Yn              V8     "xxx"               ;
+!2012-09-21!
+!2012-09-21! LEXICON V8
+!           2012-09-21! X5en              V9     "xxx"               ;
+!2012-09-21!
+!2012-09-21! LEXICON V9
+!   2012-09-21! +Ind+Prt+Sg1:X2ам         K0     "IND-2-PRET-SG-1"   ;
+!   2012-09-21! +Ind+Prt+Sg2:X2ат         K0     "IND-2-PRET-SG-2"   ;
+!   2012-09-21! +Ind+Prt+Sg3:X2X1         K0     "IND-2-PRET-SG-3"   ;
+!   2012-09-21! +Ind+Prt+Pl1:X2на         K0     "IND-2-PRET-PL-1"   ;
+!   2012-09-21! +Ind+Prt+Pl2:X2да         K0     "IND-2-PRET-PL-2"   ;
+!   2012-09-21! +Ind+Prt+Pl3:X2ыт         K0     "IND-2-PRET-PL-3"   ;
+!2012-09-21!
+!2012-09-21! LEXICON V10
+!       2012-09-21! +Imp+Sg3:X2жЕ1        K0     "IMP-SG-3"          ;
+!       2012-09-21! +Imp+Pl2:X2за         K0     "IMP-PL-2"          ;
+!       2012-09-21! +Imp+Pl3:X1X2шт       K0     "IMP-PL-3"          ;
+!2012-09-21!
+!2012-09-21! LEXICON V11
+!   2012-09-21! +Des+Prs+Sg1:X2нем        K0     "DES-PREES-SG-1"    ;
+!   2012-09-21! +Des+Prs+Sg2:X2нет        K0     "DES-PREES-SG-2"    ;
+!   2012-09-21! +Des+Prs+Sg3:X2неже       K0     "DES-PREES-SG-3"    ;
+!   2012-09-21! +Des+Prs+Pl1:X2нена       K0     "DES-PREES-PL-1"    ;
+!   2012-09-21! +Des+Prs+Pl2:X2неда       K0     "DES-PREES-PL-2"    ;
+!   2012-09-21! +Des+Prs+Pl3:X2нешт       K0     "DES-PREES-PL-3"    ;
+!2012-09-21!
+!2012-09-21! LEXICON W0
+!     2012-09-21! +Ger+Instr:X5X1         K0     "GER-INSTR-0"       ;
+!2012-09-21!
+!2012-09-21! LEXICON W1
+!           2012-09-21! +Inf:X7аш         S      "INF-PERUS"         ;
+!2012-09-21!
+!2012-09-21! LEXICON W2
+!       2012-09-21! +Inf+Nec:X2ман        K0     "INF-NESESS"        ;
+!       2012-09-21! +Ptc+Act:$шЕ1         W      "PART-AKT"          ;
+!      2012-09-21! +Ptc+Pass:$мЕ1         W      "PART-PASS"         ;
+!       2012-09-21! +Ptc+Fut:$шаш         W      "PART-FUT"          ;
+!       2012-09-21! +Ptc+Neg:$дымЕ1       W      "PART-NEG"          ;
+! 2012-09-21! +Ger+Instr+Neg:X7де         S-a    "GER-INSTR-NEG"     ;
+!           2012-09-21! +Ger:X7меке       S-a    "GER-AIKAIS"        ;
+!           2012-09-21! +Ger:X7меш        S      "GER-MY=ъъH-mеш"    ;
+!           2012-09-21! +Ger:X7мешке      S-a    "GER-MY=ъъH-mешke"  ;
+!           2012-09-21! +Ger:X7шын        S      "GER-SAMANAIK-SYn"  ;
+!           2012-09-21! +Ger:@шы          W-la   "GER-SAMANAIK-SYla" ;
+!           2012-09-21! +Ger:@мы          W-la   "GER-SAMANAIK-mYla" ;
+!2012-09-21!
+!2012-09-21! LEXICON W3
+!     2012-09-21! +Ger+Instr:X7ен         S      "GER-INSTR"         ;
+!2012-09-21!
+!2012-09-21! LEXICON W4
+!     2012-09-21! +Ger+Instr:X7ын         S      "GER-INSTR"         ;
+!2012-09-21!
+!2012-09-21! LEXICON W5
+!            2012-09-21! ~ла              K0                         ;
+!2012-09-21!
+
+!LEXICON C !!= @CODE@ gives Comparative rak
+!                      +Comp:&рак         Lex0   "rak"               ;
+
+
+
+
+!! !!Special verbs
+!! V_am, возаш : воч
+!2017-01-04!LEXICON z-C !!= * @CODE@
+!   2017-01-04!             +Inf:з%>А2ш  K           ;
+!   2017-01-04!           +Ger+Gen:з%>ын   K           ;
+!   2017-01-04!                 :ч       non-finites ;
+!   2017-01-04!                 :з       Vam-Mood    ;
+!       2017-01-04!      +ConNeg:ч       K           ;
+!   2017-01-04!! +Ind+Prs+ConNeg:ч       K           ;
+!  2017-01-04!! +Ind+Prt1+ConNeg:ч       K           ;
+!  2017-01-04!!    +Imprt+ConNeg:ч       K           ;
+!   2017-01-04!       +Imprt+Sg2:ч       K-imprt     ;
+!  2017-01-04!!      +Des+ConNeg:ч       K           ;
+!2017-01-04!
+!2017-01-04!!! V_am, лукташ : лук
+!2017-01-04!LEXICON t-0 !!= * @CODE@
+!   2017-01-04!             +Inf:т%>А2ш  K           ;
+!   2017-01-04!           +Ger+Gen:т%>ын   K           ;
+!   2017-01-04!                 :        non-finites ;
+!   2017-01-04!                 :т       Vam-Mood    ;
+!             2017-01-04!+ConNeg:        K           ;
+!    2017-01-04!!+Ind+Prs+ConNeg:        K           ;
+!  2017-01-04!! +Ind+Prt1+ConNeg:        K           ;
+!  2017-01-04!!    +Imprt+ConNeg:        K           ;
+!   2017-01-04!       +Imprt+Sg2:        K-imprt     ;
+!  2017-01-04!!      +Des+ConNeg:        K           ;
+!2017-01-04!
+!2017-01-04!!! V_am, кушкаш : куш
+!2017-01-04!LEXICON k-0 !!= * @CODE@
+!   2017-01-04!             +Inf:к%>А2ш  K           ;
+!   2017-01-04!           +Ger+Gen:к%>ын   K           ;
+!   2017-01-04!               +Ger:к%>шыла K           ;
+!   2017-01-04!                 :        non-finites ;
+!   2017-01-04!                 :к       Vam-Mood    ;
+!             2017-01-04!+ConNeg:        K           ;
+!    2017-01-04!!+Ind+Prs+ConNeg:        K           ;
+!  2017-01-04!! +Ind+Prt1+ConNeg:        K           ;
+!  2017-01-04!!    +Imprt+ConNeg:        K           ;
+!   2017-01-04!       +Imprt+Sg2:        K-imprt     ;
+!  2017-01-04!!      +Des+ConNeg:        K           ;
+!2017-01-04!
+!2017-01-04!!! V_am, шинчаш шич
+!2017-01-04!!! this is the proof or consonant stem cf. vowel stem in -ем verbs.
+!2017-01-04!!! In mrj this is dealt with in twolc
+!2017-01-04!LEXICON nC-C
+!  2017-01-04!              +Inf:нч%>А2ш K           ;
+!  2017-01-04!            +Ger+Gen:нч%>ын  K           ;
+!  2017-01-04!                +Ger:ч%>шыла K           ;
+!  2017-01-04!                  :ч       non-finites ;
+!  2017-01-04!                  :нч      Vam-Mood    ;
+!             2017-01-04!+ConNeg:        K           ;
+!    2017-01-04!!+Ind+Prs+ConNeg:ч       K           ;
+! 2017-01-04!!  +Ind+Prt1+ConNeg:ч       K           ;
+! 2017-01-04!!     +Imprt+ConNeg:ч       K           ;
+!  2017-01-04!        +Imprt+Sg2:ч       K-imprt     ;
+! 2017-01-04!!       +Des+ConNeg:ч       K           ;
+
+!! These need work 2012-09-21
+
+
+
+
+! vim: set ft=xfst-lexc:

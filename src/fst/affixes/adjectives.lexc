@@ -1,0 +1,49 @@
+!! !!! Adjective inflection
+! --------------------
+
+!! Meadow Mari adjectives
+
+
+LEXICON A-ATTR_ ! йошкарге:йошкар
++Attr: # ;
+
+!LEXICON A-GEN-ATTR_ ! ава >> Sg_Gen аван:аван
+!+Attr: # ;
+
+LEXICON A_OLD-ORTH
+: #; !йӧрыктымӧ:йӧрыктым%{еы%}
+
+
+LEXICON A_  !! LEXICON A underscore
+     +Attr:      K  ;
+    +Comp:%>рак K  ;
+    +Comp+Instr:%>ракын K  ;
+    +Comp+Instr:%>Ы1нрак K ;
+ +Der/MWN+N:      N_ ;
+
+
+LEXICON A-a/e  !!= * @CODE@
+         :      K  ; ! missing comparative
+    +Comp:%>рак #  ;
+ +Der/MWN+N:     N_ ;
+
+
+
+LEXICON A/S-a/e  !!= * @CODE@ redirect to A underscore
+  A_ ;
+
+LEXICON A/S-VS !!= * @CODE@ redirect to A underscore
+ A_ ;
+
+LEXICON A-VS !!= * @CODE@ redirect to A underscore
+ A_ ;
+
+LEXICON A/S !!= * @CODE@ redirect to A underscore
+ A_ ;
+
+
+
+
+
+! vim: set ft=xfst-lexc:
+

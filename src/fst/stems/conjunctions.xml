@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
+   xml:lang="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="CC">а</l>
+
+      <stg>
+        <st Contlex="CC_">а</st>
+      </stg>
+
+      <stress>а</stress>
+    </lg>
+    <mg relId="0">
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>mutta; ja; vaan K</t>
+      </tg>
+    </mg>
+
+    <!-- At some point K, but K0 seems better -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">ала</l>
+
+      <stg>
+        <st Contlex="CC_">ала</st>
+      </stg>
+
+      <stress>ала•</stress>
+    </lg>
+
+    <pos>CC</pos>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>tai K</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">але</l>
+
+      <stg>
+        <st Contlex="CC_">а•лʼь%{еы%}</st>
+      </stg>
+
+      <stress>а•ле</stress>
+    </lg>
+    <mg relId="0">
+        <defNative/>
+     <tg xml:lang="eng">
+       <t pos="Adv">or; or, that is, i.e.; (алʼе ... алʼе) either ... or</t>
+     </tg>
+
+      <tg xml:lang="fin">
+        <t>vai; tai; eli</t>
+      </tg>
+     <tg type="head" xml:lang="rus">
+       <t pos="CC"><com type="abbrAux">соотв. разд. союзу</com> или</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Казаков.">Мо сӧрале – кайык муро але ӱдыръеҥын семже?</x>
+       <xt xml:lang="rus">Что красивей – пение птиц или песни девушек?</xt>
+     </xg>
+     <xg type="quote">
+       <x src="О. Ипай.">Але тыйын возыметым уке лудшо, але тыйын шочын огыл чапет.</x>
+       <xt xml:lang="rus">Или никто не читает твои сочинения, или не завоевал ты ещё славы.</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><posType>поясн.</posType> <pos>союзу</pos> или</t>
+     </tg>
+     <xg type="mwe">
+       <x>Юж коштмаш, але мардеж, пӱртӱсыштӧ кугу верым налын шога.</x>
+       <xt xml:lang="rus">Движение воздуха, или ветер, занимает важное место в природе.</xt>
+     </xg>
+   </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">ато</l>
+
+      <stg>
+        <st Contlex="CONJ_">ато</st>
+      </stg>
+
+      <stress>ато•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">вет</l>
+
+      <stg>
+        <st Contlex="CONJ_">вет</st>
+      </stg>
+
+      <stress>вет</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">гын</l>
+
+      <stg>
+        <st Contlex="CS_">гын</st>
+      </stg>
+
+      <stress>гын</stress>
+    </lg>
+
+    <pos>CS</pos>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>jos; koska; sen sijaan K</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">гынат</l>
+
+      <stg>
+        <st Contlex="CS_">гынат</st>
+      </stg>
+
+      <stress>гына•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CS">joskin</t>
+        <t pos="CS">vaikkakin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">да</l>
+
+      <stg>
+        <st Contlex="CC_">да</st>
+      </stg>
+
+      <stress>да</stress>
+    </lg>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t>and; and (connecting verb phrases); but, however</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>ja; mutta</t>
+      </tg>
+<tg xml:lang="rus"><t></t></tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">даже</l>
+
+      <stg>
+        <st Contlex="CONJ_">даж%{еы%}</st>
+      </stg>
+
+      <stress>да•же</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">ден</l>
+
+      <stg>
+        <st Contlex="CC_">ден</st>
+      </stg>
+
+      <stress>ден</stress>
+    </lg>
+
+    <pos>CC</pos>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>(vain nominien rinnastus) ja K</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">дык</l>
+
+      <stg>
+        <st Contlex="CS_">дык</st>
+      </stg>
+
+      <stress>дык</stress>
+    </lg>
+
+    <pos>CS</pos>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>jos K</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">если</l>
+
+      <stg>
+        <st Contlex="CS_">если</st>
+      </stg>
+
+      <stress>если</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">зато</l>
+
+      <stg>
+        <st Contlex="CONJ_">зато</st>
+      </stg>
+
+      <stress>зато•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">и</l>
+
+      <stg>
+        <st Contlex="CONJ_">и</st>
+      </stg>
+
+      <stress>и</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">ито</l>
+
+      <stg>
+        <st Contlex="CONJ_">ито</st>
+      </stg>
+
+      <stress>ито•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">кала</l>
+
+      <stg>
+        <st Contlex="CONJ_">кала</st>
+      </stg>
+
+      <stress>кала</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">керек</l>
+
+      <stg>
+        <st Contlex="CS_">керек</st>
+      </stg>
+
+      <stress>кере•к</stress>
+    </lg>
+
+    <pos>CC</pos>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>vaikka(kin)/(-kaan ei), joskin/kaan (ei) K</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">кеч</l>
+
+      <stg>
+        <st Contlex="CS_">кеч</st>
+      </stg>
+
+      <stress>кеч</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">ман</l>
+
+      <stg>
+        <st Contlex="CS_">ман</st>
+      </stg>
+    </lg>
+
+    <pos>CS</pos>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>että, jotta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">манын</l>
+
+      <stg>
+        <st Contlex="CS_">манын</st>
+      </stg>
+
+      <stress>ма•нын</stress>
+    </lg>
+
+    <pos>CS</pos>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>että; jotta K</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">ни</l>
+
+      <stg>
+        <st Contlex="CONJ_">ни</st>
+      </stg>
+
+      <stress>ни</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">но</l>
+
+      <stg>
+        <st Contlex="CC_">но</st>
+      </stg>
+
+      <stress>но</stress>
+    </lg>
+    <mg relId="0">
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>mutta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">потомушто</l>
+
+      <stg>
+        <st Contlex="CS_">потомушто</st>
+      </stg>
+
+      <stress>потому•што</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">пуйто</l>
+
+      <stg>
+        <st Contlex="CS_">пуйто</st>
+      </stg>
+
+      <stress>пу•йто</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CS">ikään kuin, kuin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">садак</l>
+
+      <stg>
+        <st Contlex="K">садак</st>
+      </stg>
+    </lg>
+    <mg relId="0">
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>yhtä kaikki K</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">садиктак</l>
+
+      <stg>
+        <st Contlex="K">садиктак</st>
+      </stg>
+    </lg>
+    <mg relId="0">
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>yhtä kaikki K</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">садлан</l>
+
+      <stg>
+        <st Contlex="CONJ_">садлан</st>
+      </stg>
+
+      <stress>садла•н</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">санден</l>
+
+      <stg>
+        <st Contlex="CONJ_">санден</st>
+      </stg>
+
+      <stress>санде•н</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">сандене</l>
+
+      <stg>
+        <st Contlex="CONJ_">санден%{еы%}</st>
+      </stg>
+
+      <stress>санде•не</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">теве</l>
+
+      <stg>
+        <st Contlex="CC_">тев%{еы%}</st>
+      </stg>
+    </lg>
+    <mg relId="0">
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>milloin ... milloin ...</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">то</l>
+
+      <stg>
+        <st Contlex="CONJ_">то</st>
+      </stg>
+
+      <stress>то</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">только</l>
+
+      <stg>
+        <st Contlex="CONJ_">только</st>
+        <st Contlex="CONJ_" status ="Err/Orth">тольык</st>
+      </stg>
+
+      <stress>то•лько</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t>mutta K</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">укегын</l>
+
+      <stg>
+        <st Contlex="CS_">укегын</st>
+      </stg>
+
+      <stress>укегын</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">что</l>
+
+      <stg>
+        <st Contlex="CS_">что</st>
+      </stg>
+    </lg>
+
+    <pos>CS</pos>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>että K</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">чтобы</l>
+
+      <stg>
+        <st Contlex="CS_">чтобы</st>
+      </stg>
+    </lg>
+
+    <pos>CS</pos>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>jotta K</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">я</l>
+
+      <stg>
+        <st Contlex="CC_">я</st>
+      </stg>
+
+      <stress>я</stress>
+    </lg>
+    <mg relId="0">
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t>milloin...milloin; tai, joko...tai K</t>
+      </tg>
+    </mg>
+  </e>
+</r>

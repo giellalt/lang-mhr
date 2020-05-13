@@ -1,0 +1,4122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
+   xml:lang="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e>
+   <lg>
+     <l pos="Pcle">а</l>
+     <stg>
+       <st Contlex="PCLE_">а</st>
+     </stg><stress>а [2]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">so, huh (particle placed at the end of questions)</t>
+     </tg> <pos>част.</pos>
+     <tg type="head" xml:lang="rus">
+       <t descript="выражает вопрос; передаётся"><posType>вопр.част.</posType> а</t>
+     </tg>
+     <xg type="sentence">
+       <x>Тый таче тышеч кает уке, а?</x>
+       <xt xml:lang="rus">Уйдёшь ты сегодня или нет, а?</xt>
+     </xg>
+     <xg type="sentence">
+       <x>– Куш коштыч? – А?</x>
+       <xt xml:lang="rus">– Куда ходил? – А?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ага</l>
+     <stg>
+       <st Contlex="PCLE_">ага•</st>
+     </stg><stress>ага• [2]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">uh-huh, yes; haha!</t>
+     </tg> <pos>част.</pos> <com type="abbrAux">соотв.</com> <posType>утв.част.</posType>
+     <tg xml:lang="rus">
+       <t>ага</t>
+       <t>да</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Юксерн.">– Шуженат мо? – Ага, – ӱҥышын вашешта Сану.</x>
+       <xt xml:lang="rus">– Проголодался? – Ага, – робко отвечает Сану.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">адак</l>
+     <stg>
+       <st Contlex="ADV_">ада•к</st>
+     </stg> <stress>ада•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg type="head" xml:lang="rus">
+       <t pos="Pcle"><com type="abbrAux">соотв.</com> <pos>част.</pos> ещё</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Шкетан.">Инспектор ончык адак кок еҥ толын шогалыт.</x>
+       <xt xml:lang="rus">К инспектору подходят ещё два человека.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="М. Шкетан.">Мо адак кӱлеш?</x>
+       <xt xml:lang="rus">Что ещё надо?</xt>
+     </xg>
+     <xg type="quote">
+       <x src="М. Шкетан.">– Адак мо? – мый ончык тӧрштышым.</x>
+       <xt xml:lang="rus">– Ещё что? – я прыгнул вперёд.</xt>
+     </xg>
+       <semRel type="compare_to">эше</semRel>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">адыштан</l>
+     <stg>
+       <st Contlex="Pmuu">адыштан</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t>(lauseenlisäke, joka ilm. suuttumusta)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ай</l>
+     <stg>
+       <st Contlex="Pmuu">ай</st>
+     </stg><stress>ай</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">oh, ugh, ouch (used to express various emotions: dissent, pain, embarrasment, bad wishes, etc.)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>voi; (pahaa toivotettaessa)</t>
+       <t>(pehmennettäessä käskyä tai pyyntöä)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">айда</l>
+     <stg>
+       <st Contlex="PCLE_">айда•</st>
+     </stg><stress>айда•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">{imperative}let's go (to ...); {imperative}let's (do ...); {imperative}may ((s)he do ...), let (him/her do ...); really?, is that so?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">айдыза</l>
+     <stg>
+       <st Contlex="PCLE_">а•йдыза</st>
+     </stg><stress>а•йдыза</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">let's (do ...)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">айза</l>
+     <stg>
+       <st Contlex="PCLE_">айза</st>
+     </stg> <stress>айза</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">айста</l>
+     <stg>
+       <st Contlex="PCLE_">а•йста</st>
+     </stg><stress>а•йста</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">let's go; let's (do ...)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">акыре</l>
+     <stg>
+       <st Contlex="PCLE_">акыр%{еы%}</st>
+     </stg> <stress>акыре•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg> <com type="range">диал.</com>
+     <tg xml:lang="rus">
+       <t>наверно</t>
+       <t>вероятно</t>
+       <t>должно быть</t>
+     </tg>
+     <xg type="quote">
+       <x src="Я. Ялкайн.">Огеш уж дыр, акыре, нимом юмыжат, уке гын, ок лий ыле тынар йӧсылык.</x>
+       <xt xml:lang="rus">Наверно, и бог ничего не видит, если бы видел, не было бы столько горя.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">але</l>
+     <stg>
+       <st Contlex="PCLE_">а•л'%{еы%}</st>
+     </stg><stress>а•л'е</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(emphatic particle); still, yet, not yet; really, perhaps</t>
+     </tg>
+     <tg type="head" xml:lang="rus">
+       <t pos="Pcle"><com type="abbrAux">соотв.</com>-ка</t>
+     </tg>
+     <xg type="mwe">
+       <x>Тол-але</x>
+       <xt xml:lang="rus">иди-ка</xt>
+     </xg>
+     <xg type="mwe">
+       <x>пу-але</x>
+       <xt xml:lang="rus">дай-ка.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Й. Ялмарий.">Шого-але, Виталий Александрович.</x>
+       <xt xml:lang="rus">Погоди-ка, Виталий Александрович.</xt>
+     </xg>
+     <xg type="mwe">
+       <x>Шого, пурен ончем-але.</x>
+       <xt xml:lang="rus">Погоди, попробую-ка зайти.</xt>
+     </xg>
+     <xg type="mwe">
+       <x>Тиде книгам лӱдын ончем-але.</x>
+       <xt xml:lang="rus">Прочту-ка эту книгу.</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t pos="Pcle"> же</t>
+     </tg>
+     <xg type="quote">
+       <x src="П. Корнилов.">Ну, чыте але! Шкаланет муат!</x>
+       <xt xml:lang="rus">Ну погоди же! И себе найдёшь.</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t pos="Pcle"> неужели, разве, ли</t>
+     </tg>
+     <xg type="quote">
+       <x src="Г. Гадиатов.">Але тый от пале, мо уда, мо поро?</x>
+       <xt xml:lang="rus">Разве ты не знаешь, что плохо, что хорошо?</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">Але шканет шӱгарым кӱнчет?</x>
+       <xt xml:lang="rus">Неужели ты себе роешь могилу?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ала</l>
+     <stg>
+       <st Contlex="PCLE_">ала•</st>
+     </stg><stress>ала• [1]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">maybe, probably, could be; hardly, doubtful, who knows; (emphatic particle); sometimes ... sometimes, either ... or, now ... now; or; about, roughly</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>ehkäpä, (kond.) -isi-; tuskin</t>
+     </tg> <pos>част.</pos>
+     <tg type="head" xml:lang="rus">
+       <t descript="выражает">:</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t descript="предположение, вероятность">, <com type="abbrAux">соотв.</com> <com>модальным словам</com> быть, может, возможно, вероятно</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Иванов.">Совещаний огыл гын, ала ме нигунамат ваш она лий ыле.</x>
+       <xt xml:lang="rus">Если бы не совещание, возможно, мы никогда не встретились бы.</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t descript="неуверенность, сомнение передаётся модальными словами">вряд ли, кто знает</t>
+     </tg>
+     <xg type="quote">
+       <x src="Г. Чемеков.">Умбакыже мо лиеш ыле, ала, но Лида мемнан коклаш куржын тольо.</x>
+       <xt xml:lang="rus">Что было бы дальше, кто знает, но Лида встала между нами.</xt>
+     </xg>
+   </mg>
+   <mg relId="3">
+     <tg xml:lang="rus">
+       <t descript="усиление, передаётся"><pos>част.</pos> же</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Колумб.">Адак толын лектым шочмо ялыш, мо дене суртнам таҥастарем, ала?</x>
+       <xt xml:lang="rus">Опять приехал я в родную деревню, с чем же сравнить мне усадьбу свою?</xt>
+     </xg>
+   </mg>
+   <mg relId="4"><pos>союз</pos>
+     <tg type="head" xml:lang="rus">
+       <t><com type="abbrAux">соотв.</com></t>
+     </tg>
+   </mg>
+   <mg relId="5">
+     <tg xml:lang="rus">
+       <t><posType>разд.</posType> <pos>союзу</pos> не то, не то</t>
+     </tg>
+     <xg type="quote">
+       <x src="О. Шабдар.">Мотор шинчаже вӱдыжген, изишак йошкарген: ала шортын, ала тыглаяк тыге коеш.</x>
+       <xt xml:lang="rus">Красивые глаза её увлажнились, немножко покраснели: не то плакала, не то так кажется.</xt>
+     </xg>
+   </mg>
+   <mg relId="6">
+     <tg xml:lang="rus">
+       <t><posType>разд.</posType> <pos>союзу</pos> или</t>
+     </tg>
+     <xg type="mwe">
+       <x>Эрла толам ала уке, ом пале.</x>
+       <xt xml:lang="rus">Приду завтра или нет, не знаю.</xt>
+     </xg>
+     <xg type="mwe">
+       <x>Тӱнӧ лум ала йӱр, палашат ок лий.</x>
+       <xt xml:lang="rus">На улице снег или дождь, трудно даже сказать.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ала-ала</l>
+     <stg>
+       <st Contlex="PCLE_">ала•-ала•</st>
+     </stg><stress>ала•-ала•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">hardly, doubtful, who knows</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ала-мо</l>
+     <stg>
+       <st Contlex="PCLE_">ала•-мо</st>
+     </stg><stress>ала•-мо</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">something; some; anything; probably, possibly, apparently</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pcle">але</l>
+     <stg>
+       <st Contlex="PCLE_">ал%{еы%}</st>
+     </stg> <stress>а•ле</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">алят</l>
+     <stg>
+       <st Contlex="PCLE_">аля•т</st>
+     </stg><stress>аля•т</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">still, yet, so far</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t>всё ещё</t>
+       <t>до сих пор</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Шкетан.">Суд алят уке.</x>
+       <xt xml:lang="rus">Суда всё ещё нет.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="В. Бояринова.">Шыдыже алят лушкен ок керт.</x>
+       <xt xml:lang="rus">Всё ещё не может успокоиться.</xt>
+     </xg> <sg><s s_type="compare_to">эше</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">аман</l>
+     <stg>
+       <st Contlex="PCLE_">ама•н</st>
+     </stg><stress>ама•н</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">apparently, it looks like, it would seem; still, however, nevertheless, after all</t>
+     </tg> <pos>част.</pos> <com>выражает:</com>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t descript="неполную уверенность при вопросе; передаётся вводными словами">видимо, видно, похоже, видать</t>
+     </tg>
+     <xg type="quote">
+       <x src="Д. Орай.">Акылетше нимынярат уке аман.</x>
+       <xt xml:lang="rus">У тебя, видимо, совсем нет ума.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="А. Эрыкан.">Кол кучаш лектынат аман?</x>
+       <xt xml:lang="rus">Видать, вышел на рыбалку?</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t descript="утверждение передаётся выражениями">всё-таки, всё же</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Бояринова.">Толат аман? – омса йӱкым колын, пелештыш марийже.</x>
+       <xt xml:lang="rus">Всё-таки идёшь? – сказал её муж, услышав скрип двери.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">аманат</l>
+     <stg>
+       <st Contlex="PCLE_">амана•т</st>
+     </stg><stress>амана•т [2]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">still, yet, so far</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ан'е</l>
+     <stg>
+       <st Contlex="Pmuu">а•н'%{еы%}</st>
+     </stg><stress>а•н'е</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">yes; so, yes, well; isn't that so?, isn't it?, yes?; why don't you (used to soften statements and requests)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kyllä (+ kysytty V); (lauseenlisäke) niin, kyllä, jaa-a</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">анян</l>
+     <stg>
+       <st Contlex="PCLE_">анян</st>
+     </stg> <stress>анян</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">анят</l>
+     <stg>
+       <st Contlex="Pmuu">аня•т</st>
+     </stg><stress>аня•т</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">perhaps, possibly, could be, maybe; hardly, doubtfully, I doubt it</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>ehkä, voi olla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">аттан</l>
+     <stg>
+       <st Contlex="PCLE_">аттан</st>
+     </stg> <stress>аттан</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">баш</l>
+     <stg>
+       <st Contlex="PCLE_">баш</st>
+     </stg><stress>баш</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">буль-буль</l>
+     <stg>
+       <st Contlex="DESCR_">буль-буль</st>
+     </stg><stress>буль-буль</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(gargling, blubbering)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">буль-буль</l>
+     <stg>
+       <st Contlex="Pmuu">буль-буль</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t>(pulputuksesta) pulpul</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">бушт</l>
+     <stg>
+       <st Contlex="DESCR_">бушт</st>
+     </stg><stress>бушт</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(crash, collision)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">буҥ</l>
+     <stg>
+       <st Contlex="DESCR_">буҥ</st>
+     </stg><stress>буҥ</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(shot, sudden drop, etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">была</l>
+     <stg>
+       <st Contlex="PCLE_">была•</st>
+     </stg><stress>была•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">бырлоч</l>
+     <stg>
+       <st Contlex="DESCR_">бырло•ч</st>
+     </stg><stress>бырло•ч</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(slapping, cracking, banging, hitting)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">бырлоч</l>
+     <stg>
+       <st Contlex="Pmuu">бырлоч</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t>mäiskis, naps(is)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">вара</l>
+     <stg>
+       <st Contlex="Pmuu">вара•</st>
+     </stg><stress>вара• [1]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">then, later, afterwards; late; well, then, indeed (emphatic particle); (denotes yes/no questions)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(vahv. part. kys.l:ssa)</t>
+     </tg>
+     <tg type="head" xml:lang="rus">
+       <t><posType>усил.част.</posType> (в вопросительных предложениях) же, ну</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Шкетан.">Можо вара мыланем ок сите? – манын Яндышев шканже шке ӧрын.</x>
+       <xt xml:lang="rus">– Ну, чего же мне не хватает? – думает Яндышев, удивлённый своим поведением.</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg type="head" xml:lang="rus">
+       <t pos="Pcle"><posType>вопр.</posType> ли</t>
+     </tg>
+     <xg type="quote">
+       <x src="Й. Ялмарий.">– Киножо келшыш вара? – мый Веруш деч йодшо лийым.</x>
+       <xt xml:lang="rus">– Понравилось ли кино-то? – спрашиваю я для вида у Веруш.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">векат</l>
+     <stg>
+       <st Contlex="PCLE_">века•т</st>
+     </stg><stress>века•т [1]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">probably, perhaps, it seems, I guess</t>
+     </tg> <pos>част.</pos> <com>выражает предположение, сомнение о чём-либо; передаётся словами</com>
+     <tg xml:lang="rus">
+       <t>вероятно</t>
+       <t>пожалуй</t>
+       <t>наверно</t>
+       <t>чай</t>
+       <t>поди</t>
+       <t>видимо</t>
+     </tg>
+     <xg type="mwe">
+       <x>Кая, векат</x>
+       <xt xml:lang="rus">уйдёт, наверно</xt>
+     </xg>
+     <xg type="mwe">
+       <x>ноен, векат</x>
+       <xt xml:lang="rus">устал, видимо.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="М. Шкетан.">Шӱлашат каньысыр – векат, йӱр толеш.</x>
+       <xt xml:lang="rus">И дышать трудно, наверное, будет дождь.</xt>
+     </xg> <sg><s s_type="compare_to">дыр</s></sg> <sg><s s_type="compare_to">докан</s></sg> <sg><s s_type="compare_to">очыни</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">веле</l>
+     <stg>
+       <st Contlex="PCLE_">ве•л%{еы%}</st>
+     </stg><stress>ве•ле</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">only, just, but; like, just like, as if, as though; so, just (emphatic particle); more and more (when coupled with adjectives and adverbs, denotes a gradual increase)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">вет</l>
+     <stg>
+       <st Contlex="Pmuu">вет</st>
+     </stg><stress>вет</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">so, indeed, well, as you know, really, you see, you know (emphatic particle); isn't it, isn't that so</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>-hAn, varmaankin</t>
+     </tg> <pos>част.</pos> <com>выражает:</com>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t descript="усиление высказывания; передаётся частицами">ведь, же</t>
+     </tg>
+     <xg type="quote">
+       <x src="О. Ипай.">Мыланна чыла вет партий пуэн.</x>
+       <xt xml:lang="rus">Нам всё ведь партия дала.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">Ну, уржат шочын вет!</x>
+       <xt xml:lang="rus">Ну, и уродилась же рожь!</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t descript="вопрос; передаётся частицей">ведь</t>
+     </tg>
+     <xg type="quote">
+       <x src="П. Эсеней.">(Пӧтыр:) Мо, ӱдымаш уда огыл вет?</x>
+       <xt xml:lang="rus">(Пётр:) Что, сев ведь не плохой?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">вжик</l>
+     <stg>
+       <st Contlex="DESCR_">вжик</st>
+     </stg><stress>вжик</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(quickly)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">витн'е</l>
+     <stg>
+       <st Contlex="PCLE_">ви•тн'%{еы%}</st>
+     </stg><stress>ви•тн'е</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">apparently, evidently, looks like</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">во</l>
+     <stg>
+       <st Contlex="PCLE_">во</st>
+     </stg><stress>во</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">see just, would you look at, well look at</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">вообще</l>
+     <stg>
+       <st Contlex="PCLE_">во•обще</st>
+     </stg> <stress>во•обще</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">in general, generally, generally speaking, altogether, on the whole; always; at all, not at all</t>
+     </tg>
+     <tg type="head" xml:lang="rus">
+       <t>вообще</t>
+       <t>в общем</t>
+       <t>в целом <com type="comment">икшот дене, икманаш</com></t>
+     </tg>
+     <xg type="quote">
+       <x src="«Мар. ком.»">Нуным (специалист-влакым) вообще огыл, а пашаеҥ-влакын категорийыштым шотыш налын туныкташ тыршыман.</x>
+       <xt xml:lang="rus">Специалистов нужно стараться обучать не вообще, а учитывая категорию работников.</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg type="head" xml:lang="rus">
+       <t>вообще</t>
+       <t>во всём</t>
+       <t>во всех отношениях</t>
+       <t>всегда <com type="comment">эре</com></t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Косоротов.">– Вообще оласе-влак тугайрак улыт, – манеш Саню.</x>
+       <xt xml:lang="rus">– Вообще городские такие, – молвил Саню.</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg type="head" xml:lang="rus">
+       <t>вообще</t>
+       <t>совсем</t>
+       <t>при всех условиях <com type="comment">йӧршеш, йӧршын</com></t>
+     </tg>
+     <xg type="quote">
+       <x src="А. Эрыкан.">– Вообще семинарист-влакым ит арале.</x>
+       <xt xml:lang="rus">– Вообще ты семинаристок не защищай.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">вот</l>
+     <stg>
+       <st Contlex="Pmuu">вот</st>
+     </stg><stress>вот [1]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">there, here, and here; now then! well!, see here, look</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kas niin</t>
+     </tg> <pos>част.</pos>
+     <tg type="head" xml:lang="rus">
+       <t descript="выражает">:</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t descript="указание на предмет или действие, находящееся или происходящее в непосредственной близости; передаётся частицей">вот</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Якимов.">Мемнан планетын шӱмжӧ – тиде Йошкар площадь. Вот ончылнемак.</x>
+       <xt xml:lang="rus">Сердце нашей планеты – это Красная площадь. Вот передо мной.</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t descript="усиление значения последующего слова; передаётся частицей">вот</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Иванов.">– Вот тиде чын! – колхоз председатель мокталтен пелештыш.</x>
+       <xt xml:lang="rus">– Вот это правильно! – похвалил председатель колхоза.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="М. Казаков.">– Вот тыге илена, пашам ыштена.</x>
+       <xt xml:lang="rus">– Вот так живём, работаем.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">«Но вот марий вургемым ургалтын огыл», – чонжым почын каласыш ургызо.</x>
+       <xt xml:lang="rus">Но вот марийскую одежду не приходилось шить, – признался портной.</xt>
+     </xg>
+   </mg>
+   <mg relId="3">
+     <tg type="head" xml:lang="rus">
+       <t descript="в сочетании с союзом">и <com type="abbrAux">употр.</com> <com type="abbrAux">в знач.</com> <com>союза</com> <com>сандене</com>; <com>соответствует союзу</com> поэтому</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Исенеков.">Ала-кузе йӧнеш толын огыл, вот и каласен омыл.</x>
+       <xt xml:lang="rus">Как-то не было случая, вот и не сказал.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">вуди-вуди</l>
+     <stg>
+       <st Contlex="DESCR_">вуди•-вуди•</st>
+     </stg><stress>вуди•-вуди•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(slow and peculiar manner of walking); (a duck call, used to beckon ducks)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">вудо-вудо</l>
+     <stg>
+       <st Contlex="Pmuu">ву•до-ву•д%{оы%}</st>
+     </stg><stress>ву•до-ву•до</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(something unclear, vague)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(deskr. jstak epäselvästä, huomaamattomasta)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">вудык-вудык</l>
+     <stg>
+       <st Contlex="Pmuu">ву•дык-ву•дык</st>
+     </stg><stress>ву•дык-ву•дык</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(shaking of something bushy, shaggy)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(deskr. jnk pörröisen huojumisesta)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">вуйгак</l>
+     <stg>
+       <st Contlex="PCLE_">вуйга•к</st>
+     </stg><stress>вуйга•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">generally, in general; at all, not at all; completely, totally, entirely; only, just</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">вурт</l>
+     <stg>
+       <st Contlex="DESCR_">вурт [1]</st>
+     </stg><stress>вурт [1]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(quick, sudden, unexpected action)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">выдык-вудык</l>
+     <stg>
+       <st Contlex="DESCR_">вы•дык-ву•дык</st>
+     </stg><stress>вы•дык-ву•дык</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(something which can only be seen or heard indistinctly)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">выль-выль</l>
+     <stg>
+       <st Contlex="DESCR_">выль-выль</st>
+     </stg><stress>выль-выль</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">гай</l>
+     <stg>
+       <st Contlex="PCLE_">гай</st>
+     </stg><stress>гай</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">like, as, similar to; (particle marking uncertainty); about, roughly, approximately, something like</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">гала</l>
+     <stg>
+       <st Contlex="Pmuu">гала•</st>
+     </stg><stress>гала•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">indeed, really (strengthening particle); (interrogative particle); not only</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(vahv. ja kysyvä) -hAn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">гойыш</l>
+     <stg>
+       <st Contlex="PCLE_">го•йыш</st>
+     </stg><stress>го•йыш</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">apparently, evidently, it would seem</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">гылдыр-голдыр</l>
+     <stg>
+       <st Contlex="DESCR_">гы•лдыр-го•лдыр</st>
+     </stg><stress>гы•лдыр-го•лдыр</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>in a flirtatious manner</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">гын</l>
+     <stg>
+       <st Contlex="Pmuu">гын</st>
+     </stg><stress>гын</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">if, provided that; but, however, on the other hand; when; (interrogative particle); (strengthening particle); as for, concerning, regarding</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>-kO; -hAn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">гына</l>
+     <stg>
+       <st Contlex="PCLE_">гына•</st>
+     </stg><stress>гына•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">only, merely, solely, just; only just, barely; rather, fairly, pretty; (emphatic particle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">гынай</l>
+     <stg>
+       <st Contlex="PCLE_">гынай</st>
+     </stg> <stress>гынай</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">гынат</l>
+     <stg>
+       <st Contlex="PCLE_">гына•т</st>
+     </stg><stress>гына•т</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">even though, although, even if; (with a pronoun) some, any (answer to question word)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">да</l>
+     <stg>
+       <st Contlex="Pmuu">да</st>
+     </stg><stress>да [2]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">yes; so, well, indeed (emphatic particle); yes?, right?, isn't it?</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>niin</t>
+     </tg> <pos>част.</pos> <com>выражает:</com>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t descript="утверждение; передаётся частицей">да</t>
+     </tg>
+     <xg type="quote">
+       <x src="С. Чавайн.">– Да, – мане марийже, – тудо талантан еҥ.</x>
+       <xt xml:lang="rus">– Да, – сказал её муж, – он талантливый человек.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">– Пашам томам вет, – манеш Яким, кугун шӱлалтен колта. – Да, – пеҥгыдемда Саванай.</x>
+       <xt xml:lang="rus">– Дело моё ведь дрянь, – говорит Яким, вздохнув глубоко. – Да, – подтверждает Саванай.</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t descript="усиление; передаётся частицей">да</t>
+     </tg>
+     <xg type="quote">
+       <x src="П. Корнилов.">Ну, йӧра, йӧра, ит коляне, тудо тыйым садак ок ончал. Вот мыйым дык – да!</x>
+       <xt xml:lang="rus">Ну, ладно, ладно, не горюй, она всё равно на тебя не посмотрит. Вот на меня так – да!</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">– Да мом нунын дене кужун кутыраш, – шоктыш Атбаш Вӧдыр.</x>
+       <xt xml:lang="rus">– Да что с ними долго разговаривать, – произнёс Атбаш Вёдыр.</xt>
+     </xg>
+   </mg>
+   <mg relId="3">
+     <tg xml:lang="rus">
+       <t descript="вопрос; передаётся частицей">да</t>
+     </tg>
+     <xg type="quote">
+       <x src="Г. Чемеков.">Веня, иктаж-кунам тыштат кугу ола лиеш, да?</x>
+       <xt xml:lang="rus">Веня, когда-нибудь и здесь будет большой город, да?</xt>
+     </xg>
+   </mg>
+   <mg relId="4">
+     <tg xml:lang="rus">
+       <t descript="ограничение; передаётся частицей">хотя бы</t>
+     </tg>
+     <xg type="quote">
+       <x src="Й. Ялмарий.">Молгунам Олю мыйым ужеш гын, нигунамат савырнен каяш ок вашке ыле, иктаж мутым да вашештенна.</x>
+       <xt xml:lang="rus">Раньше Олю при виде меня никогда не спешила уйти, хотя бы несколькими словами обменивались.</xt>
+     </xg>
+   </mg>
+   <mg relId="5">
+     <tg xml:lang="rus">
+       <t descript="усиление; передаётся частицей">ведь</t>
+     </tg>
+     <xg type="quote">
+       <x src="М.-Азмекей.">– Ай, Кавырля изай, висатшат тӧрлалт ок шу да, – маныт наледыше еҥ-влак.</x>
+       <xt xml:lang="rus">– Ай, дядя Кавырля, ведь и весы-то твои ещё не будут отремонтированы, – говорят покупатели.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="«Ончыко»">Илашемжат кугун кодын огыл да.</x>
+       <xt xml:lang="rus">Мне ведь и жить-то немного осталось.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">давай</l>
+     <stg>
+       <st Contlex="PCLE_">дава•й</st>
+     </stg><stress>дава•й</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">let's</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">даже</l>
+     <stg>
+       <st Contlex="PCLE_">да•ж%{еы%}</st>
+     </stg><stress>да•же</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">even</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">докан</l>
+     <stg>
+       <st Contlex="PCLE_">дока•н</st>
+     </stg><stress>дока•н</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">probably, perhaps, it seems; (emphatic particle)</t>
+     </tg> <pos>част.</pos>
+     <tg type="head" xml:lang="rus">
+       <t descript="выражает предположение; передаётся"><com type="synt">вводн.сл.</com> наверно, наверное, вероятно, видимо</t>
+     </tg>
+     <xg type="mwe">
+       <x>Толеш докан</x>
+       <xt xml:lang="rus">придёт, наверное.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="В. Исенеков.">Тергышым уэш терген лектат гын, йоҥылышетымат муат ыле докан.</x>
+       <xt xml:lang="rus">Если бы ты ещё раз проверил свою контрольную, то, наверно, обнаружил бы и свою ошибку.</xt>
+     </xg> <sg><s s_type="compare_to">дыр</s></sg> <sg><s s_type="compare_to">векат</s></sg>
+   </mg>
+   <mg relId="1">
+     <tg type="head" xml:lang="rus">
+       <t descript="употребляется при обращении к участнику речи; иногда придаёт оттенок предубеждения"/>
+     </tg>
+     <xg type="mwe">
+       <x>Колышт докан</x>
+       <xt xml:lang="rus">послушай-ка</xt>
+     </xg>
+     <xg type="mwe">
+       <x>толжо докан</x>
+       <xt xml:lang="rus">пусть придёт, пусть попробует прийти, пусть только посмеет прийти.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="М.-Азмекей.">Вот колышт докан, тыгай случаят лийын.</x>
+       <xt xml:lang="rus">Вот послушай-ка, был и такой случай.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">дык</l>
+     <stg>
+       <st Contlex="PCLE_">дык</st>
+     </stg><stress>дык</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">if; well, so (emphatic particle)</t>
+     </tg> <com type="range">разг.</com>
+     <tg type="head" xml:lang="rus">
+       <t descript="союз соответствует условному союзу">если, если бы</t>
+     </tg>
+     <xg type="mwe">
+       <x>Толеш дык, конда</x>
+       <xt xml:lang="rus">если он придёт, то принесёт.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="П. Корнилов.">– Тыгай шомакым колат дык, тый мом ыштет ыле, ом пале, а мый пеш чот йӧсланышым.</x>
+       <xt xml:lang="rus">– Если бы ты услышал такое слово, не знаю, что бы ты сделал, а я мучился очень сильно.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Г. Чемеков.">– Мыскаражым ойлен огыдал дык, воштылаш нимогай амал уке! – саде ӱдырет адак руале.</x>
+       <xt xml:lang="rus">– Если сказали не в шутку, то и смеяться нет причины! – эта девушка отрубила и на этот раз.</xt>
+     </xg> <sg><s s_type="see_also">гын</s></sg>
+   </mg>
+   <mg relId="1"><pos>част.</pos>
+     <tg type="head" xml:lang="rus">
+       <t descript="выражает усиление; подчёркивает слово, к которому она относится; передаётся частицей">так, <com type="range">диал.</com> дак</t>
+     </tg>
+     <xg type="quote">
+       <x src="П. Корнилов.">– Эх, пеленда уке ыльым, мый тудлан тыге каласен пуэм ыле дык! – Валян шинчаже чолгыжалта.</x>
+       <xt xml:lang="rus">– Эх, меня не было с вами, я так отрезала бы ему! – засверкали глаза Вали.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Г. Чемеков.">Тыртышыже айдеме кӱкшыт. Вот машина дык машина!</x>
+       <xt xml:lang="rus">Колёса в человеческий рост. Ну и машина!</xt>
+     </xg>
+     <xg type="quote">
+       <x src="А. Юзыкайн.">– Вот молодец дык, молодец! – Япык куанымыж дене улазыжым ӧндал шындыш.</x>
+       <xt xml:lang="rus">– Ну и молодец! – Япык от радости обнял своего ямщика.</xt>
+     </xg>
+   </mg>
+   <mg relId="2"><pos>част.</pos>
+     <tg type="head" xml:lang="rus">
+       <t descript="выражает присоединение; передаётся частицей">так ведь</t>
+     </tg>
+     <xg type="mwe">
+       <x>Дык, мом манаш</x>
+       <xt xml:lang="rus">что и говорить.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Д. Орай.">Дык, аҥа – каҥга, терыс – шагал.</x>
+       <xt xml:lang="rus">Так ведь, поле – бедное, навоза – мало.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="«Ончыко»">– Дык, мо, – воштылмо йӧре пелештышым. – Ожетше – кӱртньӧ, а ӧртньӧретше.</x>
+       <xt xml:lang="rus">– Так, что же, – сказал я с усмешкой. – Жеребец твой железный, а седло твоё.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">дыр</l>
+     <stg>
+       <st Contlex="Pmuu">дыр</st>
+     </stg><stress>дыр</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">probably, perhaps, it seems</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>-hAn</t>
+     </tg> <pos>част.</pos> <com>выражает предположение; передаётся словами</com> €
+     <tg xml:lang="rus">
+       <t>наверное</t>
+       <t>очевидно</t>
+       <t>вероятно</t>
+       <t>ли</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Шкетан.">«Изай шуко орлыкым чытен дыр», – манын шоналтен Марина.</x>
+       <xt xml:lang="rus">«Мой брат много, наверное, вытерпел горя», – подумала Марина.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="А. Юзыкайн.">– Ынде толын шуеш дыр. Моло ялысе марий-влак пӧртылгыч шоктатыс.</x>
+       <xt xml:lang="rus">– Теперь, наверное, приедет скоро. Мужчины из других деревень, слышно, возвращаются.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">– Аваже, тый тышеч кагазым налын отыл дыр? – йодо.</x>
+       <xt xml:lang="rus">– Мать, не брала ли ты отсюда бумагу? – спросил.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="В. Юксерн.">Ме лӧдышкак ышна логал дыр?</x>
+       <xt xml:lang="rus">Не попали мы в западню?</xt>
+     </xg> <sg><s s_type="compare_to">докан</s></sg> <sg><s s_type="compare_to">векат</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">жалке</l>
+     <stg>
+       <st Contlex="PCLE_">жалк%{еы%}</st>
+     </stg> <stress>жа•лке</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">жалкын</l>
+     <stg>
+       <st Contlex="PCLE_">жа•лкын</st>
+     </stg><stress>жа•лкын</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">pitifully</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">и</l>
+     <stg>
+       <st Contlex="Pmuu">и</st>
+     </stg><stress>и [2]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(strengthening particle)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>-kin, -kAAn, -pA</t>
+     </tg> <pos>част.</pos> <com>выражает усиление; передаётся частицей</com> €
+     <tg xml:lang="rus">
+       <t>и</t>
+     </tg>
+     <xg type="mwe">
+       <x>Тыгак и кӱлеш</x>
+       <xt xml:lang="rus">так и надо.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ида</l>
+     <stg>
+       <st Contlex="PCLE_">ида•</st>
+     </stg> <stress>ида•</stress>
+   </lg>
+   <mg relId="0"><pos>част.</pos>
+     <tg xml:lang="rus">
+       <t>не (отрицание при глаголе <com type="morph">2 л.</com> <com type="morph">мн.ч.</com> <com type="morph">повел.накл.</com>)</t>
+     </tg>
+     <xg type="mwe">
+       <x>Ида тӱкӧ</x>
+       <xt xml:lang="rus">не трогайте</xt>
+     </xg>
+     <xg type="mwe">
+       <x>ида лӱшкӧ</x>
+       <xt xml:lang="rus">не шумите.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="К. Васин.">Но мый осал еҥ улам манын, ида шоно.</x>
+       <xt xml:lang="rus">Но вы не думайте, что я плохой человек.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ие</l>
+     <stg>
+       <st Contlex="PCLE_">ие•</st>
+     </stg><stress>ие•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">yes</t>
+     </tg> <com type="range">диал.</com> <pos>част.</pos> <com>выражает утверждение; передаётся частицей</com> €
+     <tg xml:lang="rus">
+       <t>да</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Шкетан.">– Избач мо? – Ие.</x>
+       <xt xml:lang="rus">– Избач что ли? – Да.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="А. Асаев.">– Ие, туге лийже, – икмагал эртымек, Семён вуйжым нӧлтале.</x>
+       <xt xml:lang="rus">– Да, пусть будет так, – поднял голову через некоторое время Семён.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">иже</l>
+     <stg>
+       <st Contlex="PCLE_">и•ж%{еы%}</st>
+     </stg><stress>и•же</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">not until, only, only then; only, exclusively; only now, not until now</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ик</l>
+     <stg>
+       <st Contlex="PCLE_">ик</st>
+     </stg><stress>ик</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">one; one, the same; a, one, some; roughly, about, circa, around; single, united; single, sole</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">икманаш</l>
+     <stg>
+       <st Contlex="PCLE_">икмана•ш</st>
+     </stg><stress>икмана•ш</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">in a word, in one word</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ите</l>
+     <stg>
+       <st Contlex="PCLE_">и•т%{еы%}</st>
+     </stg><stress>и•те</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">don't, stop</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t>не надо</t>
+       <t>нет</t>
+     </tg>
+     <xg type="quote">
+       <x src="А. Юзыкайн.">Кеч кычкыре, кеч ите, нимом ыштен от керт.</x>
+       <xt xml:lang="rus">Хоть кричи, хоть нет, ничего не сможешь сделать.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Д. Орай.">Ой-ой, ите, Ладемыр, ите!</x>
+       <xt xml:lang="rus">Ой-ой, не надо, Ладемыр, не надо!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ито</l>
+     <stg>
+       <st Contlex="PCLE_">ито</st>
+     </stg> <stress>ито•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">йок</l>
+     <stg>
+       <st Contlex="PCLE_">йок</st>
+     </stg><stress>йок</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">йылдырге</l>
+     <stg>
+       <st Contlex="DESCR_">йы•лдырг%{еы%}</st>
+     </stg><stress>йы•лдырге</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>playfully, frivolously; smooth-tongued, flattering; (clatter of something falling)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">йӧра</l>
+     <stg>
+       <st Contlex="Pmuu">йӧра•</st>
+     </stg><stress>йӧра•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">good, fine (expressing consent, agreement, or satisfaction)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>hyvä on</t>
+     </tg>
+     <tg type="head" xml:lang="rus">
+       <t pos="Pcle"><com type="abbrAux">употр.</com> для выражения согласия, утверждения; передаётся словами ладно, хорошо</t>
+     </tg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">«Ну, йӧра, тыге лийже», – кӧныш Епрем.</x>
+       <xt xml:lang="rus">«Ну, ладно, пусть будет так», – согласился Епрем.</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg type="head" xml:lang="rus">
+       <t><com type="abbrAux">употр.</com> для выражения довольствия, чувства радости; передаётся словом хорошо</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Исенеков.">Йӧра эше, кокам кокытан нерген палыде кодо.</x>
+       <xt xml:lang="rus">Хорошо ещё, моя тётя не узнала о двойке.</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg type="head" xml:lang="rus">
+       <t><com type="abbrAux">употр.</com> <com type="abbrAux">в знач.</com> глагола годиться, годен</t>
+     </tg>
+     <xg type="quote">
+       <x src="О. Тыныш.">Имне ден посна пӧръеҥ молан йӧра?</x>
+       <xt xml:lang="rus">Куда годится безлошадный мужчина?</xt>
+     </xg>
+     <xg type="quote">
+       <x src="К. Васин.">Геройлан шорташ ок йӧрӧ.</x>
+       <xt xml:lang="rus">Герою плакать не годится.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">йӧрш</l>
+     <stg>
+       <st Contlex="PCLE_">йӧрш</st>
+     </stg> <stress>йӧрш</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">кавуй</l>
+     <stg>
+       <st Contlex="Pmuu">каву•й</st>
+     </stg><stress>каву•й</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">I hope, I wish</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>-pA, -hAn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">кай</l>
+     <stg>
+       <st Contlex="PCLE_">кай</st>
+     </stg> <stress>кай</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">керак</l>
+     <stg>
+       <st Contlex="PCLE_">кера•к</st>
+     </stg><stress>кера•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">really, truly, indeed</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">керек</l>
+     <stg>
+       <st Contlex="Pmuu">кере•к</st>
+     </stg><stress>кере•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">even if, even though, although; at least; well, good, okay; all the same, makes no difference</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>hyvä on</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">кернак</l>
+     <stg>
+       <st Contlex="PCLE_">керна•к</st>
+     </stg><stress>керна•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">really, truly, absolutely, definitely, for sure</t>
+     </tg> <pos>част.</pos> <com>выражает утверждение; передаётся словами</com> €
+     <tg xml:lang="rus">
+       <t>действительно</t>
+       <t>на самом деле</t>
+       <t>правда</t>
+       <t>вправду</t>
+       <t>фактически</t>
+     </tg>
+     <xg type="quote">
+       <x src="С. Чавайн.">Кернак, Япарын ниможат уке: пӧртшат, имньыжат, ешыжат.</x>
+       <xt xml:lang="rus">Действительно, у Япара ничего нет: ни дома, ни лошади, ни семьи.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="М. Шкетан.">Кернакат, тугай тургым жапыште погынымаш пашам гына локтылын.</x>
+       <xt xml:lang="rus">И на самом деле, в такие горячие дни собрание только портило работу.</xt>
+     </xg> <sg><s s_type="compare_to">чынжымак</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">кернакак</l>
+     <stg>
+       <st Contlex="PCLE_">кернака•к</st>
+     </stg><stress>кернака•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">кеч</l>
+     <stg>
+       <st Contlex="PCLE_">кеч</st>
+     </stg><stress>кеч</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">even if; I wish, if only; at least, if only</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">киндончылно</l>
+     <stg>
+       <st Contlex="Pmuu">киндончылн%{оы%}</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t>(vala sanotun vannomiseksi)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">коеш</l>
+     <stg>
+       <st Contlex="PCLE_">кое•ш</st>
+     </stg><stress>кое•ш</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">it seems, looks like</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">коли</l>
+     <stg>
+       <st Contlex="PCLE_">коли•</st>
+     </stg><stress>коли•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">really, indeed; if</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">кон'ешне</l>
+     <stg>
+       <st Contlex="PCLE_">кон'е•шн%{еы%}</st>
+     </stg><stress>кон'е•шне</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">of course, certainly, sure</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">конешне</l>
+     <stg>
+       <st Contlex="PCLE_">коне•шне</st>
+     </stg> <stress>коне•шне</stress>
+   </lg>
+   <mg relId="0"><com type="synt">вводн.сл.</com>
+     <tg type="head" xml:lang="rus">
+       <t>конечно</t>
+       <t>без сомнения</t>
+       <t>само собой разумеется <com type="comment">чылт тыге, ойлыманат огыл, тидыже раш</com></t>
+     </tg>
+     <xg type="quote">
+       <x src="П. Корнилов.">Жаплан, конешне, шке суртышто илаш перна.</x>
+       <xt xml:lang="rus">Временно, конечно, придётся жить в своём доме.</xt>
+     </xg>
+   </mg>
+   <mg relId="1"><pos>част.</pos>
+     <tg type="head" xml:lang="rus">
+       <t descript="выражает утверждение; передаётся частицей">конечно</t>
+     </tg>
+     <xg type="quote">
+       <x src="Г. Ефруш.">Ну, конешне, верым муына.</x>
+       <xt xml:lang="rus">Ну, конечно, найдём место.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">коҥ</l>
+     <stg>
+       <st Contlex="DESCR_">коҥ</st>
+     </stg><stress>коҥ</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">кузе</l>
+     <stg>
+       <st Contlex="PCLE_">кузе•</st>
+     </stg><stress>кузе•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">how (question word); as, in that manner; what? (expressing surprise, anger, etc.); what? come again? (said when a question was not understood or was unclear); how (strengthening particle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">кузе-гынат</l>
+     <stg>
+       <st Contlex="Pmuu">кузе-гынат</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t>kaikin mokomin, miten vain (halutaan)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">кунам</l>
+     <stg>
+       <st Contlex="PCLE_">куна•м</st>
+     </stg><stress>куна•м</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">when (question word and conjunction); how, when (used in rhetorical questions)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">кыдыр-кадыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•дыр-ка•дыр</st>
+     </stg><stress>кы•дыр-ка•дыр</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(crookedly)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">кыдыр-кудыр</l>
+     <stg>
+       <st Contlex="DESCR_">кы•дыр-ку•дыр</st>
+     </stg><stress>кы•дыр-ку•дыр</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(something crooked)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">кырт-кырт</l>
+     <stg>
+       <st Contlex="DESCR_">кырт-кырт</st>
+     </stg><stress>кырт-кырт</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>barely, just barely; almost, nearly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ла</l>
+     <stg>
+       <st Contlex="PCLE_">ла</st>
+     </stg> <stress>ла</stress>
+   </lg>
+   <mg relId="0"><pos>част.</pos> <com>выражает усиление высказывания; соответствует частицам</com> €
+     <tg xml:lang="rus">
+       <t>ведь</t>
+       <t>же</t>
+     </tg>
+     <xg type="quote">
+       <x src="Й. Осмин.">Айдеме вошт огеш койыс, янда ате огыл-ла.</x>
+       <xt xml:lang="rus">Человек ведь не стеклянная посуда, его насквозь не увидишь.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="С. Николаев.">(Матра:) Уке-ла, мӧҥгышкыжат миен огыл.</x>
+       <xt xml:lang="rus">(Матра:) Нет же, он и домой не приходил.</xt>
+     </xg> <sg><s s_type="compare_to">шол</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">лаваса</l>
+     <stg>
+       <st Contlex="PCLE_">лаваса•</st>
+     </stg><stress>лаваса•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">sure, certainly, of course; {figuratively}nightmare, horror</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">лавысан</l>
+     <stg>
+       <st Contlex="PCLE_">лавысан</st>
+     </stg> <stress>лавысан</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">лай</l>
+     <stg>
+       <st Contlex="PCLE_">лай</st>
+     </stg> <stress>лай</stress>
+   </lg>
+   <mg relId="0"><com type="range">диал.</com> <pos>част.</pos> <com>выражает усиление выразительности</com> €
+     <xg type="quote">
+       <x src="Муро.">Ужаргын-лай коеш, кандын коеш, эр шолкын ден шыдаҥын озымжо.</x>
+       <xt xml:lang="rus">Зелёными кажутся, синими кажутся прохладным утром всходы пшеницы.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ласа</l>
+     <stg>
+       <st Contlex="PCLE_">ласа•</st>
+     </stg><stress>ласа•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(emphatic particle)</t>
+     </tg> <com type="range">диал.</com> <pos>част.</pos> <com>выражает усиление высказывания; передаётся частицами</com> €
+     <tg xml:lang="rus">
+       <t>ведь</t>
+       <t>же</t>
+     </tg>
+     <xg type="quote">
+       <x src="Я. Ялкайн.">Шаярем гына ласа, молан сырет, Лизочка?</x>
+       <xt xml:lang="rus">Я ведь шучу, Лизочка, зачем сердишься?</xt>
+     </xg> <sg><s s_type="see_also">вет</s></sg> <sg><s s_type="see_also">шол</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ласан</l>
+     <stg>
+       <st Contlex="PCLE_">ласан</st>
+     </stg> <stress>ласан</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">лач</l>
+     <stg>
+       <st Contlex="PCLE_">лач</st>
+     </stg><stress>лач [1]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">just, exactly, precisely; just right; at the right time, at the right moment, opportunely; correctly, accurately; better (used, e.g., when expressing convictions, requests); only, exclusively; truth; isn't that so, isn't that right, isn't it</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ли</l>
+     <stg>
+       <st Contlex="PCLE_">ли</st>
+     </stg><stress>ли</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(interrogative particle); (ли ... ли) whether ... or</t>
+     </tg> <pos>част.</pos> <posType>вопр.</posType> <com>передаётся частицей</com> €
+     <tg xml:lang="rus">
+       <t>ли</t>
+       <t>ль</t>
+     </tg>
+     <xg type="quote">
+       <x src="А. Волков.">Героине мый дечем лектеш ли?</x>
+       <xt xml:lang="rus">Выйдет ли из меня героиня?</xt>
+     </xg> <sg><s s_type="compare_to">гала</s></sg> <sg><s s_type="compare_to">гын</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">лиеш</l>
+     <stg>
+       <st Contlex="PCLE_">лие•ш</st>
+     </stg><stress>лие•ш</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(used in combination with inflected verb to denote irreality, uncertainty); soon, shortly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">лийже</l>
+     <stg>
+       <st Contlex="PCLE_">ли•йж%{еы%}</st>
+     </stg><stress>ли•йже</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">let's imagine, let's suppose, suppose</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">лочо-лочо</l>
+     <stg>
+       <st Contlex="DESCR_">ло•чо-ло•чо</st>
+     </stg><stress>ло•чо-ло•чо</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(difficulty)</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t>подр.сл. подражание трудно выполняемому какому-либо действию, выполняемой через силу работе</t>
+     </tg>
+     <xg type="mwe">
+       <x>Лочо-лочо каяш</x>
+       <xt xml:lang="rus">передвигаться через силу</xt>
+     </xg>
+     <xg type="mwe">
+       <x>лочо-лочо нелаш</x>
+       <xt xml:lang="rus">глотать через силу.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">лоҥ</l>
+     <stg>
+       <st Contlex="PCLE_">лоҥ</st>
+     </stg><stress>лоҥ [2]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">very</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">лып-лоп</l>
+     <stg>
+       <st Contlex="DESCR_">лып-лоп</st>
+     </stg><stress>лып-лоп</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>anyhow, slapdash, in a slipshod way</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ма</l>
+     <stg>
+       <st Contlex="PCLE_">ма</st>
+     </stg><stress>ма</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(interrogative particle); whether, if; (ма ... ма) whether ... or</t>
+     </tg>
+     <tg type="head" xml:lang="rus">
+       <t pos="Pcle"><posType>вопр.</posType> <com type="abbrAux">соотв.</com> <com>частице</com> ли</t>
+     </tg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">– Пунчалжым ыштен шуктена ма, – ӧкымрак пелешта Танилан вате.</x>
+       <xt xml:lang="rus">– Успеем ли сговор-то провести, – нехотя говорит жена Танилы.</xt>
+     </xg> <sg><s s_type="compare_to">гала</s></sg>
+   </mg>
+   <mg relId="1"><pos>союз</pos>
+     <tg type="head" xml:lang="rus">
+       <t><com type="abbrAux">соотв.:</com></t>
+     </tg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t><posType>усл.</posType> <pos>союзу</pos> ли</t>
+     </tg>
+     <xg type="quote">
+       <x src="Й. Осмин.">Кӱлеш ма тыланет кияр озым, пеледыш – Мазиково руш ватын чыла уло.</x>
+       <xt xml:lang="rus">Нужна ли тебе рассада огурцов, цветы – у русской женщины из Мазикова все имеется.</xt>
+     </xg>
+   </mg>
+   <mg relId="3">
+     <tg xml:lang="rus">
+       <t><posType>разд.</posType> <pos>союзу</pos> ли…, ли</t>
+     </tg>
+     <xg type="quote">
+       <x src="Г. Чемеков.">Шуко ма, шагал ма жап эртен, ом пале, ушем пурымеке ужым: йырым-йыр пычкемыш.</x>
+       <xt xml:lang="rus">Не знаю, много ли, мало ли прошло времени, я, придя в сознание, увидел: кругом темно.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ман</l>
+     <stg>
+       <st Contlex="PCLE_">ман</st>
+     </stg><stress>ман [1]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">well I never, how about that</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">мекан</l>
+     <stg>
+       <st Contlex="PCLE_">мека•н</st>
+     </stg> <stress>мека•н</stress>
+   </lg>
+   <mg relId="0"><com type="range">диал.</com> <pos>част.</pos>
+     <tg xml:lang="rus">
+       <t>ли</t>
+       <t>то ли</t>
+     </tg>
+     <xg type="quote">
+       <x src="Муро.">Эр мекан, кас мекан, час визыт уло мекан.</x>
+       <xt xml:lang="rus">То ли утро, то ли вечер, может пять часов.</xt>
+     </xg> <sg><s s_type="see_also">ала</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">мо</l>
+     <stg>
+       <st Contlex="PCLE_">мо</st>
+     </stg><stress>мо</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">what; (interrogative particle); really? isn't it so?; why, for what reason, for what purpose; what sort of, what kind of, what; how many (used to denote large quantities); when, since; what does it matter to him/her/etc., what does he/she/etc. care</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">мо-мо</l>
+     <stg>
+       <st Contlex="PCLE_">мо-мо</st>
+     </stg><stress>мо-мо</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">what things, what</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">могай</l>
+     <stg>
+       <st Contlex="PCLE_">мога•й</st>
+     </stg><stress>мога•й</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">what sort of, what kind of, what; such, what (intensification); what kind of, what sort of (expressing doubt, denial, used in retorts etc.)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">можыч</l>
+     <stg>
+       <st Contlex="PCLE_">мо•жыч</st>
+     </stg><stress>мо•жыч</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">perhaps, maybe, possibly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">моли</l>
+     <stg>
+       <st Contlex="PCLE_">мо•ли</st>
+     </stg><stress>мо•ли</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">maybe, perhaps</t>
+     </tg> <com type="range">разг.</com> <pos>част.</pos> <com>выражает неуверенность, сомнение</com>; <com type="abbrAux">соотв.</com>
+     <tg xml:lang="rus">
+       <t>может</t>
+       <t>что ли</t>
+     </tg>
+     <xg type="quote">
+       <x src="А. Эрыкан.">– Кӧршӧк уке манын ойленат ыле. Эрла налын кондаш моли?..</x>
+       <xt xml:lang="rus">– Ты говорила, что горшка нет. Завтра купить что-ли?..</xt>
+     </xg>
+     <xg type="quote">
+       <x src="П. Корнилов.">Ялкановлан ойлаш моли?</x>
+       <xt xml:lang="rus">Может Ялканову сказать?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">монь</l>
+     <stg>
+       <st Contlex="Pmuu">монь</st>
+     </stg><stress>монь</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">and the like, and so on, and others, et cetera, etc.</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>ynnä muuta sellaista</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">мотри</l>
+     <stg>
+       <st Contlex="PCLE_">мотри•</st>
+     </stg><stress>мотри•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">look, now look, okay, come one</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">мутлан</l>
+     <stg>
+       <st Contlex="PCLE_">мутла•н</st>
+     </stg><stress>мутла•н</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">for example</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">мыге-муго</l>
+     <stg>
+       <st Contlex="DESCR_">мы•ге-му•го</st>
+     </stg><stress>мы•ге-му•го</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>vaguely, quietly, indistinctly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">на</l>
+     <stg>
+       <st Contlex="Pmuu">на</st>
+     </stg><stress>на</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">here, here you are, take it</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kas tuo(ssa), no</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">наверне</l>
+     <stg>
+       <st Contlex="PCLE_">наве•рн%{еы%}</st>
+     </stg><stress>наве•рне</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">probably, most likely, in all likelihood; certainly, for sure</t>
+     </tg> <com type="synt">вводн.сл.</com>
+     <tg xml:lang="rus">
+       <t>наверно</t>
+       <t>по всей вероятности</t>
+     </tg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">Анна Петровна, те йӱдвел гыч улына, маныда, наверне, тушто нимогай сылныжат уке.</x>
+       <xt xml:lang="rus">Вы, Анна Петровна, говорите, что из севера, наверно, там ничего прекрасного нет.</xt>
+     </xg> <sg><s s_type="compare_to">очыни</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">не</l>
+     <stg>
+       <st Contlex="PCLE_">не</st>
+     </stg><stress>не</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">неужели</l>
+     <stg>
+       <st Contlex="Pmuu">неуже•ли</st>
+     </stg><stress>неуже•ли</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">really? is it possible?</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>todellako?, niinkö?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">неужто</l>
+     <stg>
+       <st Contlex="PCLE_">неу•жт%{оы%}</st>
+     </stg><stress>неу•жто</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">really? is it possible?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">нечыве</l>
+     <stg>
+       <st Contlex="PCLE_">нечыв%{еы%}</st>
+     </stg> <stress>не•чыве</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg> <com type="range">разг.</com>
+     <tg xml:lang="rus">
+       <t>нечего</t>
+       <t>не к чему</t>
+       <t>не для чего</t>
+     </tg>
+     <xg type="quote">
+       <x src="Г. Чемеков.">Кажне минут шерге! Нечыве ляпкен шогылташ.</x>
+       <xt xml:lang="rus">Дорога каждая минута! Нечего лясы точить.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">нечыве</l>
+     <stg>
+       <st Contlex="PCLE_">н'е•чыв%{еы%}</st>
+     </stg><stress>н'е•чыве</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">there is no need, it's no use</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ни</l>
+     <stg>
+       <st Contlex="Pmuu">ни</st>
+     </stg><stress>ни</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(ни ... ни) neither ... nor; (ни ... ни у•ке) barely, just barely, with difficulty</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>ei</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">но</l>
+     <stg>
+       <st Contlex="PCLE_">но</st>
+     </stg><stress>но [1]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">but, still, nevertheless; snag, difficulty, a «but»; yes, exactly, precisely</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ну</l>
+     <stg>
+       <st Contlex="Pmuu">ну</st>
+     </stg><stress>ну</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">well, well then, come on, come (asking someone to do something, expression of surprise, delight, displeasure, irony, resignation, etc.); no!, it can't be!, what?, really? (expression of surprise, disbelief); well, yes (reply to a request, etc.); so (before questions); yes, right</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>no</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ны</l>
+     <stg>
+       <st Contlex="PCLE_">ны</st>
+     </stg><stress>ны</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(ны ... ны) neither ... nor</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ньорик-ньорик</l>
+     <stg>
+       <st Contlex="DESCR_">ньори•к-ньори•к</st>
+     </stg><stress>ньори•к-ньори•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(blowing one's nose loudly)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ньыге-нюго</l>
+     <stg>
+       <st Contlex="DESCR_">ньы•ге-ню•го</st>
+     </stg><stress>ньы•ге-ню•го</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">огла</l>
+     <stg>
+       <st Contlex="Pmuu">огла</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t>olkoon(pa niin,) että</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">огыл</l>
+     <stg>
+       <st Contlex="PCLE_">о•гыл</st>
+     </stg><stress>о•гыл</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(s)he/it is not, (s)he/it isn't, (s)he's/it's not; not (used to negate different parts of speech); (огыл ... огыл) neither ... nor</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">огыла</l>
+     <stg>
+       <st Contlex="PCLE_">огыла•</st>
+     </stg><stress>огыла•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">it's just as well, well then, well</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">очын'и</l>
+     <stg>
+       <st Contlex="PCLE_">очын'и•</st>
+     </stg><stress>очын'и•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">probably, most likely</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">пожал'е</l>
+     <stg>
+       <st Contlex="PCLE_">пожа•л'%{еы%}</st>
+     </stg><stress>пожа•л'е</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">perhaps, very likely, it may be</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">пожале</l>
+     <stg>
+       <st Contlex="PCLE_">пожа•ле</st>
+     </stg><stress>пожа•ле</stress>
+   </lg>
+   <mg relId="0"><pos>част.</pos> <com>выражает допущение, возможность чего-либо; передаётся</com> <com type="synt">вводн.сл.</com>
+     <tg xml:lang="rus">
+       <t>пожалуй</t>
+     </tg>
+     <xg type="quote">
+       <x src="К. Исаков.">А вот пашадар шотышто те, пожале, чын ойледа.</x>
+       <xt xml:lang="rus">А вот насчёт зарплаты, пожалуй, вы говорите правильно.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="П. Корнилов.">Те, пожале, ола гыч толшо студент-влак денат таҥасен кертыда.</x>
+       <xt xml:lang="rus">Вы, пожалуй, можете соревноваться и со студентами, прибывшими из города.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">пожалуй</l>
+     <stg>
+       <st Contlex="PCLE_">пожа•луй</st>
+     </stg><stress>пожа•луй</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">perhaps, very likely, it may be</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">пожалуйста</l>
+     <stg>
+       <st Contlex="Pmuu">пожа•луйст%{аы%}</st>
+     </stg><stress>пожа•луйста</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">please; certainly, by all means, go ahead; don't mention it, not at all</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>ole hyvä, olkaa hyvä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">поро-осал</l>
+     <stg>
+       <st Contlex="PCLE_">по•ро-оса•л</st>
+     </stg><stress>по•ро-оса•л</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">good and bad; for better or for worse</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">порылий</l>
+     <stg>
+       <st Contlex="PCLE_">порыли•й</st>
+     </stg><stress>порыли•й</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">please</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">просто</l>
+     <stg>
+       <st Contlex="PCLE_">про•ст%{оы%}</st>
+     </stg><stress>про•сто</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">simply, easily, in a simple fashion; just, simply, absolutely</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">пуйто</l>
+     <stg>
+       <st Contlex="PCLE_">пу•йт%{оы%}</st>
+     </stg><stress>пу•йто</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">as if, as though; that (in object clauses, can imply that information is second-hand); apparently, it is said, they say</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">разве</l>
+     <stg>
+       <st Contlex="Pmuu">ра•зв%{еы%}</st>
+     </stg><stress>ра•зве</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(interrogative particle)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(kielto +) -kO...sitten, (myöntö +) -hAn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">райзе</l>
+     <stg>
+       <st Contlex="Pmuu">ра•йз%{еы%}</st>
+     </stg><stress>ра•йзе</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(interrogative particle)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(kielto +) -kO...sitten, (myöntö +) -hAn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">раш</l>
+     <stg>
+       <st Contlex="Pmuu">раш</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t>(on) kunnossa, selvää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">роштке¤</l>
+     <stg>
+       <st Contlex="DESCR_">ро•штке¤</st>
+     </stg><stress>ро•штке¤</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>energetically, briskly, precisely; at a measured pace, with a firm tread; (sharp and loud movement, noise)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">рыз</l>
+     <stg>
+       <st Contlex="DESCR_">рыз</st>
+     </stg><stress>рыз</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">садак</l>
+     <stg>
+       <st Contlex="PCLE_">сада•к</st>
+     </stg><stress>сада•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">all the same, makes no difference, doesn't matter; nonetheless, after all, all the same</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">садыге</l>
+     <stg>
+       <st Contlex="PCLE_">садыг%{еы%}</st>
+     </stg> <stress>са•дыге</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">сек</l>
+     <stg>
+       <st Contlex="PCLE_">сек</st>
+     </stg><stress>сек</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">most (superlative particle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">си</l>
+     <stg>
+       <st Contlex="PCLE_">си</st>
+     </stg><stress>си [1]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(interrogative particle)</t>
+     </tg> <com type="range">диал.</com> <pos>част.</pos> <posType>вопр.</posType> <com>передаётся частицей</com> €
+     <tg xml:lang="rus">
+       <t>ли</t>
+       <t>ль</t>
+     </tg>
+     <xg type="mwe">
+       <x>Кече тӧрлана мо си?</x>
+       <xt xml:lang="rus">Улучшится ли погода?</xt>
+     </xg>
+     <xg type="mwe">
+       <x>Нӧртымӧ кинде уло мо си?</x>
+       <xt xml:lang="rus">Есть ли смоченный хлеб?</xt>
+     </xg> <sg><s s_type="see_also">ли</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">содыки</l>
+     <stg>
+       <st Contlex="PCLE_">со•дыки</st>
+     </stg><stress>со•дыки</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">all the same, nevertheless, still</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t>всё-таки</t>
+       <t>всё ж таки</t>
+       <t>всё же</t>
+       <t>однако</t>
+       <t>тем не менее</t>
+     </tg>
+     <xg type="quote">
+       <x src="С. Элнет.">А содыки бригадым вуйлаташ куштылго огыл.</x>
+       <xt xml:lang="rus">А руководить бригадой всё-таки нелегко.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Ю. Артамонов.">Таҥасымаште содыки мый сеҥышым.</x>
+       <xt xml:lang="rus">На соревнованиях всё-таки победила я.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">так</l>
+     <stg>
+       <st Contlex="PCLE_">так</st>
+     </stg><stress>так</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">like that, just like that; in vain, for no reason, for nothing; as soon as, when, the moment; how</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тебе</l>
+     <stg>
+       <st Contlex="PCLE_">тебе•</st>
+     </stg><stress>тебе•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тевак</l>
+     <stg>
+       <st Contlex="PCLE_">тева•к</st>
+     </stg><stress>тева•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">almost, nearly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom1" pos="Pcle">теве</l>
+     <stg>
+       <st Contlex="Pmuu">те•ве</st>
+     </stg><stress>те•ве [1]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">here, there, look, look here; almost, nearly; (теве ... теве) now ... now, sometimes ... sometimes</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pcle">kas</t>
+       <t>kas tämä/nämä; kas tässä, no niin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom2" pos="Pcle">теве</l>
+     <stg>
+       <st Contlex="PCLE_">теве•</st>
+     </stg><stress>теве• [2]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">теве-теве</l>
+     <stg>
+       <st Contlex="PCLE_">те•ве-тев%{еы%}</st>
+     </stg> <stress>те•ве-те•ве</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тевыс</l>
+     <stg>
+       <st Contlex="PCLE_">те•выс</st>
+     </stg><stress>те•выс</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">here, there, oh look, oh look here</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тегак</l>
+     <stg>
+       <st Contlex="PCLE_">тега•к</st>
+     </stg><stress>тега•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">in future, again, from now; continually, incessantly, uninterruptedly, non-stop, all the time, always; so that ... not, lest</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тек</l>
+     <stg>
+       <st Contlex="PCLE_">тек</st>
+     </stg><stress>тек</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">let, ((s)he) should, may; though, even if; inactively, quietly, silently; in future, again, from now</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">то-то</l>
+     <stg>
+       <st Contlex="PCLE_">то-то</st>
+     </stg><stress>то-то</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">that's why, so that's why, there you are</t>
+     </tg> <pos>част.</pos>
+     <tg xml:lang="rus">
+       <t>то-то; не случайно</t>
+       <t>вот почему</t>
+     </tg>
+     <xg type="quote">
+       <x src="«Ончыко»">– То-то! Илыш деч вараш кодат, агроном йолташ!</x>
+       <xt xml:lang="rus">– То-то! Отстаёшь от жизни, товарищ агроном!</xt>
+     </xg>
+     <xg type="quote">
+       <x src="В. Любимов.">– Вот то-то, шып лийыч, йымышыч, – Миклай сотара.</x>
+       <xt xml:lang="rus">– То-то вот, ты замолк, перестал говорить, – передразнивает Миклай.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">товат</l>
+     <stg>
+       <st Contlex="PCLE_">това•т</st>
+     </stg><stress>това•т</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">upon my word, really, truly, indeed, for sure, undoubtedly, no doubt; oath, vow</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">товатат</l>
+     <stg>
+       <st Contlex="PCLE_">товата•т</st>
+     </stg><stress>товата•т</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">upon my word, really, truly, indeed, for sure, undoubtedly, no doubt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тово</l>
+     <stg>
+       <st Contlex="PCLE_">тово•</st>
+     </stg><stress>тово• [3]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">er, um, you know, uh</t>
+     </tg> <com type="range">разг.</com> <pos>част.</pos>
+     <tg xml:lang="rus">
+       <t>того; <com>употребляется при заминке в речи, при подборе слов</com></t>
+     </tg>
+     <xg type="quote">
+       <x src="И. Иванов.">Пӧртылынам икана тово. Подылшо.</x>
+       <xt xml:lang="rus">Как-то я вернулся того. Подвыпивший.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="К. Васин.">Тый, тово, кугыжам ит тӱкӧ!</x>
+       <xt xml:lang="rus">Ты, того, царя не трогай!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">товро</l>
+     <stg>
+       <st Contlex="PCLE_">товро•</st>
+     </stg><stress>товро•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">of course, certainly, naturally; good, right, okay, fine</t>
+     </tg> <com type="range">разг.</com>
+     <tg type="head" xml:lang="rus">
+       <t pos="Pcle">конечно</t>
+       <t>разумеется</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Сапаев.">Шӧр деч посна, товро, тыланда йӧсӧ лиеш.</x>
+       <xt xml:lang="rus">Без молока вам, конечно, будет трудно.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="А. Авипов.">Моло областьла гыч мастер-влак толыт, товро. А мыйын икымше разряд веле.</x>
+       <xt xml:lang="rus">Из других областей приедут, разумеется, мастера. А у меня только первый разряд.</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg type="head" xml:lang="rus">
+       <t>добро</t>
+       <t>ладно</t>
+       <t>хорошо</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Юксерн.">Митрохинын йыпш теме, товро!</x>
+       <xt xml:lang="rus">Пришёл конец хитростям Митрохина, добро!</xt>
+     </xg>
+     <xg type="quote">
+       <x src="В. Колумб.">Лыжгаен кынервуйжо – кергалта, товро.</x>
+       <xt xml:lang="rus">Расползлась локоть – засучит, добро.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тожо</l>
+     <stg>
+       <st Contlex="PCLE_">то•ж%{оы%}</st>
+     </stg><stress>то•жо</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">also, as well, too; just look at, some ...!, ... indeed!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">только</l>
+     <stg>
+       <st Contlex="PCLE_">то•льк%{оы%}</st>
+     </stg><stress>то•лько</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">but, only; only, just, solely</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">точно</l>
+     <stg>
+       <st Contlex="PCLE_">то•чн%{оы%}</st>
+     </stg><stress>то•чно</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">exactly, precisely, accurately; indeed, really, for sure</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ту</l>
+     <stg>
+       <st Contlex="PCLE_">ту</st>
+     </stg><stress>ту [4]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(emphatic particle)</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pcle">ту</l>
+     <stg>
+       <st Contlex="PCLE_">ту</st>
+     </stg> <stress>ту [2]</stress>
+   </lg>
+   <mg relId="0"><com type="range">диал.</com> <posType>усил.част.</posType>
+     <tg xml:lang="rus">
+       <t pos="N">и</t>
+       <t pos="N">так и</t>
+       <t pos="N">всё</t>
+     </tg>
+     <xg type="quote">
+       <x src="Г. Кармазин.">Йыван шкетак муралтен-муралтен ту коштеш.</x>
+       <xt xml:lang="rus">Йыван, напевая про себя, так и ходит.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="«Мар. кален.»">Маршан-патыр ту шинча.</x>
+       <xt xml:lang="rus">Маршан-богатырь всё сидит.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">туалгын</l>
+     <stg>
+       <st Contlex="PCLE_">туалгын</st>
+     </stg> <stress>туа•лгын</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тугалмо</l>
+     <stg>
+       <st Contlex="PCLE_">тугалмо</st>
+     </stg> <stress>тугалмо</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тугат</l>
+     <stg>
+       <st Contlex="PCLE_">туга•т</st>
+     </stg><stress>туга•т</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">that way as well, like that, also like that, in that way as well; as it is, already, even without that; just like that, on one's own, without any help</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">туге</l>
+     <stg>
+       <st Contlex="PCLE_">туге•</st>
+     </stg><stress>туге•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">so, like that, in that way, in that manner; so, to such an extent; yes, true, right</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тугеже</l>
+     <stg>
+       <st Contlex="PCLE_">туге•ж%{еы%}</st>
+     </stg><stress>туге•же</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">so, thus, hence, then; therefore, then, that means</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тудо</l>
+     <stg>
+       <st Contlex="Pmuu">ту•д%{оы%}</st>
+     </stg><stress>ту•до</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">he, she; that, it; (s)he (who ...); well, of course (emphatic particle)</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>-hAn, -pA, kyllä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тулечла</l>
+     <stg>
+       <st Contlex="PCLE_">туле•чла</st>
+     </stg><stress>туле•чла</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">additionally, in addition, moreover</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тушто</l>
+     <stg>
+       <st Contlex="PCLE_">ту•шт%{оы%}</st>
+     </stg><stress>ту•што [1]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">there (no motion); later, then; there (particle expressing doubt, disregard, disdain, denial, objections)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ты</l>
+     <stg>
+       <st Contlex="PCLE_">ты</st>
+     </stg><stress>ты [2]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(emphatic particle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тыгак</l>
+     <stg>
+       <st Contlex="PCLE_">тыга•к</st>
+     </stg><stress>тыга•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">like this, just like this; just like that, without effect, without consequences; yes, really, indeed; also, too, as well</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тыге</l>
+     <stg>
+       <st Contlex="PCLE_">тыге•</st>
+     </stg><stress>тыге•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">so, like this, in this manner; so, to such a degree, to such an extent; like that, without effect, without consequences; yes, indeed</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тык</l>
+     <stg>
+       <st Contlex="PCLE_">тык</st>
+     </stg><stress>тык</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">уж</l>
+     <stg>
+       <st Contlex="PCLE_">уж</st>
+     </stg><stress>уж</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">already, by now; to be sure, indeed, certainly (emphatic particle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ужамат</l>
+     <stg>
+       <st Contlex="PCLE_">ужама•т</st>
+     </stg><stress>ужама•т</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">as I see, as I can see, it's visible, it's apparent</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ужат</l>
+     <stg>
+       <st Contlex="PCLE_">ужа•т</st>
+     </stg><stress>ужа•т</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">see, you see, there you are</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">уже</l>
+     <stg>
+       <st Contlex="PCLE_">уже•</st>
+     </stg><stress>уже•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">already, by now, yet</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">уке</l>
+     <stg>
+       <st Contlex="PCLE_">уке•</st>
+     </stg><stress>уке•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">no (negative answer to a question); is not, there is not, are not, there are not (used in existential, locational and possessive constructions, in third person present singular on its own, in other persons in combination with positive form of улаш or лияш); not, (or) not (used to contrast second half of sentence with first); (with participle in -шаш) should not, it's no good, there's no need, there's no point; (with nominalization in -маш) (I/you/(s)he/...) am/are/is not; that which does not exist; absence, lack, want, nothing, naught; poverty, shortage; nonsense; &lt;amer&gt;nonexistent&lt;/amer&gt;&lt;brit&gt;non-existent&lt;/brit&gt;, absent</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">уке-уке</l>
+     <stg>
+       <st Contlex="PCLE_">уке•-уке•</st>
+     </stg><stress>уке•-уке•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">no-no, oh no</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">укерак</l>
+     <stg>
+       <st Contlex="PCLE_">укера•к</st>
+     </stg><stress>укера•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">nearly, almost</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">улмашын</l>
+     <stg>
+       <st Contlex="PCLE_">улма•шын</st>
+       <st Contlex="PCLE_">улма•ш</st>
+     </stg><stress>улма•ш(ын)</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">being, existence; was, used to be; it seems, it turns out, it appears (used to form compound past tenses implying knowledge was obtained from indirect experience or perception); turns out, it turns out</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">улыжат</l>
+     <stg>
+       <st Contlex="PCLE_">улыжа•т</st>
+     </stg><stress>улыжа•т</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">only, no more than, in all, altogether</t>
+     </tg> <pos>част.</pos> <com>выражает ограничение; передаётся частицами</com> €
+     <tg xml:lang="rus">
+       <t>только</t>
+       <t>лишь</t>
+       <t>всего</t>
+       <t>всего-навсего</t>
+     </tg>
+     <xg type="mwe">
+       <x>Улыжат кум меҥге веле</x>
+       <xt xml:lang="rus">всего три километра</xt>
+     </xg>
+     <xg type="mwe">
+       <x>улыжат индеш пӧртан ял</x>
+       <xt xml:lang="rus">деревня всего лишь из девяти домов.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="М. Евсеева.">Марпушлан але улыжат коло ий веле.</x>
+       <xt xml:lang="rus">Марпуш ещё всего лишь двадцать лет.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="А. Эрыкан.">Вӧдыр улыжат Иванын могай оян улмыжым гына пален налаш тӧча.</x>
+       <xt xml:lang="rus">Вёдыр всего-навсего хочет узнать мнение Ивана.</xt>
+     </xg> <sg><s s_type="compare_to">улыжат-укежат</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">улыжат-укежат</l>
+     <stg>
+       <st Contlex="PCLE_">улыжа•т-укежа•т</st>
+     </stg><stress>улыжа•т-укежа•т</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">only, no more than, in all, altogether</t>
+     </tg> <pos>част.</pos> <com>выражает ограничение; передаётся частицами</com> €
+     <tg xml:lang="rus">
+       <t>только</t>
+       <t>лишь</t>
+       <t>всего</t>
+       <t>всего-навсего</t>
+     </tg>
+     <xg type="mwe">
+       <x>Улыжат-укежат ик эрге</x>
+       <xt xml:lang="rus">всего лишь один сын</xt>
+     </xg>
+     <xg type="mwe">
+       <x>улыжат-укежат казам кучаш</x>
+       <xt xml:lang="rus">держать только козу.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="В. Бердинский.">А райпон могай строительже уло? Улыжат-укежат ик мастер.</x>
+       <xt xml:lang="rus">А у райпо какие строители? Только один мастер.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="В. Косоротов.">Улыжат-укежат ик ойгына: «Вес тыгай марте шонымет шужо!»</x>
+       <xt xml:lang="rus">У нас только одна печаль: «Чтобы до следующей такой поры твоё желание исполнилось!»</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">улыжо-укеже</l>
+     <stg>
+       <st Contlex="PCLE_">у•лыжо-уке•ж%{еы%}</st>
+     </stg><stress>у•лыжо-уке•же</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">all there are, all there is</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">уна</l>
+     <stg>
+       <st Contlex="PCLE_">уна•</st>
+     </stg><stress>уна• [2]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">there, look there; (emphatic particle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">чай</l>
+     <stg>
+       <st Contlex="Pmuu">чай</st>
+     </stg> <stress>чай</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t>kai, ehkä, luultavasti</t>
+     </tg> <pos>част.</pos>
+     <tg type="head" xml:lang="rus">
+       <t descript="выражает предположение; передаётся словами">наверное, очевидно, вероятно, ли</t>
+     </tg>
+     <xg type="quote">
+       <x src="А. Волков.">Тый вет олаште иленат, кузежым-можым палет чай?</x>
+       <xt xml:lang="rus">Ты ведь жил в городе, знаешь, наверное, что и как?</xt>
+     </xg>
+     <xg type="quote">
+       <x src="А. Мурзашев.">Эше ик пӧртым ышташ верештеш чай.</x>
+       <xt xml:lang="rus">Ещё один дом, наверное, придётся построить.</xt>
+     </xg> <sg><s s_type="compare_to">дыр</s></sg> <sg><s s_type="compare_to">докан</s></sg>
+   </mg>
+   <mg relId="1">
+     <tg type="head" xml:lang="rus">
+       <t>же, ведь, всё-таки; <com>подчёркивает сказанное как уже известное, очевидное</com></t>
+     </tg>
+     <xg type="quote">
+       <x src="К. Васин.">– Рӱдола гыч толшо еҥлан вуйым шийман, – ойым эн ончыч Тоймет лукто. – Чай нуно кугыжа деч толшо еҥ улыт, ала полшат?!</x>
+       <xt xml:lang="rus">– Надо жаловаться человеку, прибывшему из столицы, – раньше всех заговорил Тоймет. – Они же прибыли от царя, может, помогут?!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">чай</l>
+     <stg>
+       <st Contlex="PCLE_">чай</st>
+     </stg><stress>чай [2]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">probably, apparently, presumably; (emphatic particle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">чурик</l>
+     <stg>
+       <st Contlex="DESCR_">чури•к [2]</st>
+     </stg><stress>чури•к [2]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>intently, watchfully, with bated breath; suddenly, immediately, instantly; (pricks, stabs, shocks)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">чыла</l>
+     <stg>
+       <st Contlex="PCLE_">чыла•</st>
+     </stg><stress>чыла•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">everything, all, anything; everybody, all; complete, whole, total, all; any, every, all; (it's) finished, (it's) done, that's it; even (emphatic particle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">чылт</l>
+     <stg>
+       <st Contlex="PCLE_">чылт</st>
+     </stg><stress>чылт</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">completely, totally, utterly, entirely, fully; right, directly, just (by, etc.); just when; just, just like</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">чынак</l>
+     <stg>
+       <st Contlex="PCLE_">чына•к</st>
+     </stg><stress>чына•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">really, indeed, truly, in fact</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">чынакак</l>
+     <stg>
+       <st Contlex="PCLE_">чынака•к</st>
+     </stg><stress>чынака•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">чынжым</l>
+     <stg>
+       <st Contlex="PCLE_">чы•нжым</st>
+     </stg><stress>чы•нжым</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">indeed, really, true, it's true, as a matter of fact, actually</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">чырык-чурык</l>
+     <stg>
+       <st Contlex="DESCR_">чы•рык-чу•рык</st>
+     </stg><stress>чы•рык-чу•рык</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>:</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">шке урманже дене</l>
+     <stg>
+       <st Contlex="PCLE_">шке урман(же) дене</st>
+     </stg> <stress>шке урман(же) дене</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>сам по себе, самостоятельно, без помощи (вмешательства) со стороны; себе (<pos>част.</pos>)</t>
+     </tg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">Айда Эчан шке урманже дене тек коштшо, мемнам гына ынже тӱкӧ.</x>
+       <xt xml:lang="rus">Эчан пусть ходит себе, лишь бы нас не трогал.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">шкет</l>
+     <stg>
+       <st Contlex="PCLE_">шкет</st>
+     </stg><stress>шкет</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">alone, by oneself, on one's own; only, just; solitary, lone; single, not having a family, not having relatives; individual, personal, private, own</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">шол</l>
+     <stg>
+       <st Contlex="Pmuu">шол</st>
+     </stg><stress>шол [1]</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">well, really, indeed (emphatic particle); unfortunately</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>-hAn</t>
+     </tg> <pos>част.</pos> <com type="abbrAux">употр.</com>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t descript="для выражения утверждения высказывания; передаётся"><pos>част.</pos> да, же, действительно</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Юксерн.">– Мыланем таче ала-мо ситыдымыла чучо шол.</x>
+       <xt xml:lang="rus">– Да, сегодня мне показалось, что чего-то не хватает.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="А. Березин.">– Тудыжо тугак шол, – пелештен ачаже. – Кузежым-можым шке палет, эргым.</x>
+       <xt xml:lang="rus">– Действительно, это так, – молвил его отец. – Сынок, сам знаешь, что к чему.</xt>
+     </xg>
+     <xg type="mwe">
+       <x>– Манам шол, – руалтыш Маша, – меже илен лектына, коктын улынас.</x>
+       <xt xml:lang="rus">– Я же говорю, – подхватила Маша, – мы-то проживём, нас-то двое.</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t descript="для выражения сожаления по поводу чего-либо; передаётся словами">к сожалению</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Шкетан.">Кредит ушем договорым тугайым ыштен, тӱлаш верештеш шол.</x>
+       <xt xml:lang="rus">Кредитное товарищество такой договор составило, к сожалению, придётся платить.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="«Мар. ком.»">– А мо, тендан ялыштыда пекарне уке мо? – Уло да, – кугун шӱлалта ӱдырамаш, – киндыжым огыт пыште шол.</x>
+       <xt xml:lang="rus">– А что, в вашей деревне разве нет пекарни? – Есть, но, – глубоко вздыхает женщина, – к сожалению, хлеб-то не пекут.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">шонет</l>
+     <stg>
+       <st Contlex="PCLE_">шоне•т</st>
+     </stg><stress>шоне•т</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">it seems, it's like, it's as if</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">шуын</l>
+     <stg>
+       <st Contlex="PCLE_">шу•ын</st>
+     </stg><stress>шу•ын</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">no matter (who, what, where, etc)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ыгы</l>
+     <stg>
+       <st Contlex="PCLE_">ыгы•</st>
+     </stg> <stress>ыгы•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <com>выражает утверждение; передаётся частицами</com>
+       <t>ага</t>
+       <t>да</t>
+     </tg>
+     <xg type="quote">
+       <x src="«Ончыко»">Василий Павлович але марте, «Да, да, ыгы» манын гына, вуйжым рӱзен шогыш.</x>
+       <xt xml:lang="rus">Василий Петрович до сих пор стоял лишь кивая головой и говоря: «Да, да, ага».</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ыле</l>
+     <stg>
+       <st Contlex="PCLE_">ы•л'%{еы%}</st>
+     </stg><stress>ы•л'е</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(there) was, (there) were; (he/she/it) was; (used to form compound past tenses marking continuous, repeated actions); would, had (used in counterfactual conditional clauses); (used to mark polite suggestion, reproach)</t>
+     </tg>
+     <tg type="head" xml:lang="rus">
+       <t><com type="morph">3 л.</com> <com type="morph">ед.ч.</com> <com>Ⅰ</com> <com type="morph">прош.вр.</com> [ex]от[/ex] <pos>гл.</pos> <compg>
+       <comp ord="E1">улаш</comp>
+       <comp ord="E2"/></compg>; <com type="abbrAux">употр.</com> <com>в качестве самостоятельного сказуемого</com> был, была, было</t>
+     </tg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">Тыште Андрий Иванат ыле.</x>
+       <xt xml:lang="rus">Тут был и Андрий Иван.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="К. Васин.">Тиде шошо вӱдшор эртымеке ыле.</x>
+       <xt xml:lang="rus">Это было после весеннего половодья.</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <tg type="head" xml:lang="rus">
+       <t><com type="morph">3 л.</com> <com type="morph">ед.ч.</com> <com>Ⅰ</com> <com type="morph">прош.вр.</com> [ex]от[/ex] <pos>гл.</pos> <compg>
+       <comp ord="E1">улаш</comp>
+       <comp ord="E2"/></compg>; <com type="abbrAux">употр.</com> <com>в качестве связки именного составного сказуемого; передаётся глаголами</com> был, была, было</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Шкетан.">Мемнан мланде шагал ыле.</x>
+       <xt xml:lang="rus">Земли у нас было мало.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">Вет шукерте огыл Алексеев студент ыле.</x>
+       <xt xml:lang="rus">Ведь недавно Алексеев был студентом.</xt>
+     </xg>
+   </mg>
+   <mg relId="2"><pos>част.</pos>
+     <tg type="head" xml:lang="rus">
+       <t descript="образует формы составных"><com type="morph">прош.вр.</com> <pos>гл.</pos></t>
+     </tg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">Стапан Йыван ешыж дене кудышто чайым йӱын шинча ыле.</x>
+       <xt xml:lang="rus">Стапан Йыван с семьёй сидел в летней кухне и пил чай.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Н. Лекайн.">Лазыр эрлашыжымак тышке Эчаным конден ыле.</x>
+       <xt xml:lang="rus">Лазыр на завтра же привёл сюда Эчана (<com type="abbrAux">букв.</com> привёл было).</xt>
+     </xg>
+   </mg>
+   <mg relId="3"><pos>част.</pos>
+     <tg type="head" xml:lang="rus">
+       <t descript="образует условно-сослагательное"><com type="morph">накл.</com>; <com>передаётся частицей</com> бы</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Иванов.">– Мотор куку лиям ыле гын, эрат-касат мурем ыле.</x>
+       <xt xml:lang="rus">– Была бы я красивой кукушкой, по утрам и вечерам пела бы.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Й. Ялмарий.">– Амал деч посна меат огына тол ыле, – Олю мане.</x>
+       <xt xml:lang="rus">– Без причины и мы не пришли бы, – сказала Оля.</xt>
+     </xg>
+   </mg>
+   <mg relId="4"><pos>част.</pos>
+     <tg type="head" xml:lang="rus">
+       <t descript="выражает пожелание, вежливо-предупредительное предложение, упрёк; передаётся частицей">бы</t>
+     </tg>
+     <xg type="quote">
+       <x src="М. Шкетан.">– Кияматлык янлык! – шоктыш (Темитын) йӱкшӧ. – Шым ӧрдыжлужо кӱрлам ыле!</x>
+       <xt xml:lang="rus">– Чёртов зверь! – раздался голос Темита. – Сломались бы семь рёбер у него.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="Д. Орай.">– Ала концертыш пуреда ыле?</x>
+       <xt xml:lang="rus">– Может, зайдёте (зашли бы) на концерт?</xt>
+     </xg>
+     <xg type="quote">
+       <x src="А. Волков.">– Кеч калык деч вожылам ыле.</x>
+       <xt xml:lang="rus">– Хоть народа постеснялись бы.</xt>
+     </xg>
+   </mg>
+</e>
+<!--
+<e>
+   <lg>
+     <l pos="Pcle">ынде</l>
+     <stg>
+       <st Contlex="PCLE_">ы•нд%{еы%}</st>
+     </stg><stress>ы•нде</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">now, at present; now (in contrast with before); already, now; (emphatic particle)</t>
+     </tg>
+   </mg>
+   </e>
+   -->
+<e>
+   <lg>
+     <l pos="Pcle">ыскала</l>
+     <stg>
+       <st Contlex="PCLE_">ыскала•</st>
+     </stg><stress>ыскала•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">(emphatic particle); unfortunately</t>
+     </tg> <com type="range">диал.</com> <pos>част.</pos>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t descript="выражает усиление утверждения высказывания; передаётся частицами">ведь, же</t>
+     </tg>
+     <xg type="quote">
+       <x src="«Марий Эл»">Кол келгыракым, айдеме сайракым кычалеш ыскала.</x>
+       <xt xml:lang="rus">Ведь рыба ищет, где глубже, человек – где лучше.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="«Марий Эл»">– Кеч вӱдым монь конден пуэм ыле, уке ыскала.</x>
+       <xt xml:lang="rus">– Хоть бы воду принёс, нет же.</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t descript="выражает сожаление по поводу чего-либо; передаётся словами">к сожалению</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Якимов.">Но пӱрымаш – Юмын кидыште ыскала.</x>
+       <xt xml:lang="rus">Но судьба – к сожалению, в руках Бога.</xt>
+     </xg> <sg><s s_type="see_also">шол</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">э</l>
+     <stg>
+       <st Contlex="PCLE_">э</st>
+     </stg><stress>э</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">oh, eh, uh (expresses different feelings, e.g., surprise, bewilderment, anger, regret); (emphatic particle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">эй</l>
+     <stg>
+       <st Contlex="PCLE_">эй</st>
+     </stg><stress>эй</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">hey!; oh!, ah! (expresses surprise, delight, sadness, pain, regret, disappointment, reproach, concern, etc.); (emphatic particle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">эла</l>
+     <stg>
+       <st Contlex="PCLE_">эла</st>
+     </stg> <stress>эла</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t pos="Pcle"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">эмыш</l>
+     <stg>
+       <st Contlex="PCLE_">э•мыш</st>
+     </stg><stress>э•мыш</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">looks like, apparently, they say</t>
+     </tg> <com type="range">диал.</com> <pos>част.</pos> <com>выражает предположительность высказывания, сомнение в достоверности сообщаемого; передаётся частицами</com> €
+     <tg xml:lang="rus">
+       <t>вроде</t>
+       <t>будто</t>
+       <t>как будто</t>
+       <t>якобы</t>
+     </tg>
+     <xg type="quote">
+       <x src="МДЭ.">Йыпшыже темын – тудо шуко кочкын эмыш.</x>
+       <xt xml:lang="rus">Доигрался – он якобы много ел.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="МДЭ.">Эр сайын кая эмыш ӱдырамаш.</x>
+       <xt xml:lang="rus">Каждое утро как будто идёт женщина.</xt>
+     </xg> <sg><s s_type="see_also">пуйто</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">эсмаса</l>
+     <stg>
+       <st Contlex="PCLE_">эсмаса•</st>
+     </stg><stress>эсмаса•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">even; at least, if only</t>
+     </tg> <com type="range">диал.</com> <pos>част.</pos>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="rus">
+       <t descript="выделяет и усиливает значение того слова, к которому относится; соответствует частицам">даже, и</t>
+     </tg>
+     <xg type="quote">
+       <x src="«Ончыко»">Тачана эсмаса вашмутымат ыш пу. Вургемым чияш тӱҥале.</x>
+       <xt xml:lang="rus">Тачана даже не ответила. Стала одеваться.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="«Мар. ком.»">Эсмаса мемнан декат серыш тольо.</x>
+       <xt xml:lang="rus">Даже и к нам пришло письмо.</xt>
+     </xg> <sg><s s_type="see_also">эсогыл</s></sg> <sg><s s_type="see_also">даже</s></sg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="rus">
+       <t descript="выражает выделение и ограничение значения того слова, к которому относится; соответствует частицам">хоть, хотя, хоть бы, хотя бы, по крайней мере</t>
+     </tg>
+     <xg type="quote">
+       <x src="Я. Ялкайн.">Эсмаса кочкаш сайрак лийже ыле.</x>
+       <xt xml:lang="rus">Хоть бы поесть было бы получше.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="«Ончыко»">Эсмаса эргынам шоналте ыле.</x>
+       <xt xml:lang="rus">Хоть о сыне подумал бы.</xt>
+     </xg> <sg><s s_type="see_also">кеч</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">эсогыл</l>
+     <stg>
+       <st Contlex="PCLE_">эсо•гыл</st>
+     </stg><stress>эсо•гыл</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">even</t>
+     </tg> <pos>част.</pos> <com>выделяет и усиливает значение того слова, к которому относится; соответствует частицам</com> €
+     <tg xml:lang="rus">
+       <t>даже</t>
+       <t>и</t>
+     </tg>
+     <xg type="quote">
+       <x src="Г. Чемеков.">Шып. Эсогыл гармонь йӱкат ок шокто.</x>
+       <xt xml:lang="rus">Тихо. Не слышно даже звука гармони.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="М. Казаков.">Еҥ-влак дирижабль денат кӱшкӧ кӱзат, эсогыл теҥыз гоч чоҥештылыт.</x>
+       <xt xml:lang="rus">Люди и на дирижабле поднимаются ввысь, перелетают и через моря.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="«Мар. ком.»">Пеш шып шинчем, эсогыл тарванашат ом тошт.</x>
+       <xt xml:lang="rus">Сижу очень тихо, не смею даже шевельнуться.</xt>
+     </xg> <sg><s s_type="compare_to">даже</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">эше-эше</l>
+     <stg>
+       <st Contlex="PCLE_">эше•-эше•</st>
+     </stg><stress>эше•-эше•</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">it would be good</t>
+     </tg> <pos>част.</pos>
+     <tg xml:lang="rus">
+       <t>хорошо бы</t>
+       <t>ладно бы</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Юксерн.">Ачажлан-аважлан колта гын, эше-эше, серлагашат лиеш.</x>
+       <xt xml:lang="rus">Если отправит родителям, хорошо бы, можно быть спокойным.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">юлдыр-ялдыр</l>
+     <stg>
+       <st Contlex="DESCR_">ю•лдыр-я•лдыр</st>
+     </stg><stress>ю•лдыр-я•лдыр</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>coquettishly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">юмончылно</l>
+     <stg>
+       <st Contlex="Pmuu">юмончылн%{оы%}</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t>(puhek.) totta tosiaan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">юп</l>
+     <stg>
+       <st Contlex="DESCR_">юп</st>
+     </stg><stress>юп</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(uneasiness, confusion, perplexity, embarrassment)</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t>подр.сл. подражание замиранию, стеснению (сердца) на мгновение; чувству оторопи, крайней растерянности, замешательству</t>
+     </tg>
+     <xg type="quote">
+       <x src="В. Исенеков.">Сакарын шӱмжылан юп чучо.</x>
+       <xt xml:lang="rus">Сердце Сакара ёкнуло.</xt>
+     </xg> <sg><s s_type="compare_to">юрик</s></sg> <sg><s s_type="compare_to">юрк</s></sg> <sg><s s_type="compare_to">юрт</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ючик</l>
+     <stg>
+       <st Contlex="DESCR_">ючи•к</st>
+     </stg><stress>ючи•к</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t>(uneasiness, fear, surprise)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">я</l>
+     <stg>
+       <st Contlex="Pmuu">я</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t>-pA</t>
+     </tg> <com type="abbrAux">употр. для смягчения просьбы, побуждения, приказа; передаётся частицей</com> €
+     <tg xml:lang="rus">
+       <t>-ка</t>
+     </tg>
+     <xg type="mwe">
+       <x>– Дневникетым пу-я.</x>
+       <xt xml:lang="rus">– Дай-ка свой дневник.</xt>
+     </xg>
+     <xg type="mwe">
+       <x>Окнашке ончал-я.</x>
+       <xt xml:lang="rus">Посмотри-ка в окно.</xt>
+     </xg>
+     <xg type="quote">
+       <x src="С. Чавайн.">– Ну, Васлий изай, тышке лек-я, мутланен ончена.</x>
+       <xt xml:lang="rus">– Ну, брат Васлий, выйди-ка сюда, поговорим.</xt>
+     </xg> <sg><s s_type="compare_to">-ян</s></sg> <sg><s s_type="compare_to">але</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ялт</l>
+     <stg>
+       <st Contlex="PCLE_">ялт</st>
+     </stg><stress>ялт</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">completely, totally, fully, entirely; just, quite (like); right, just, directly</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ӱлай-мӱлай</l>
+     <stg>
+       <st Contlex="DESCR_">ӱлай-мӱлай</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="fin">
+       <t>(deskr. hyvää elämää, hyvää ruokaa)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ӱмырат</l>
+     <stg>
+       <st Contlex="PCLE_">ӱмыра•т</st>
+     </stg><stress>ӱмыра•т</stress>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="eng">
+       <t pos="Pcle">really, truly, indeed</t>
+     </tg> <com type="range">диал.</com> <pos>част.</pos>
+     <tg xml:lang="rus">
+       <t>правда</t>
+       <t>ей-богу</t>
+     </tg>
+     <xg type="quote">
+       <x src="Я. Ялкайн.">– А-а, Пайгаз, от шоякле: тиде шем шинчан студенткым ӱмырат, йӧратенат!</x>
+       <xt xml:lang="rus">– А-а, Пайгаз, не обманешь: эту черноглазую студентку ты и правда полюбил!</xt>
+     </xg> <sg><s s_type="compare_to">товат</s></sg>
+   </mg>
+</e>
+</r>

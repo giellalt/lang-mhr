@@ -1,0 +1,352 @@
+# -*- cg-pre-pipe: "hfst-tokenise -g ../../tools/tokenisers/tokeniser-gramcheck-gt-desc.pmhfst" -*-
+# Divvun & Giellatekno - open source grammars for Sámi and other languages
+# Copyright © 2000-2017 UiT The arctic University of Norway
+# http://giellatekno.uit.no & http://divvun.no
+#
+# This program is free software; you can redistribute and/or modify
+# this file under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version. The GNU General Public License
+# is found at http://www.gnu.org/licenses/gpl.html. It is
+# also available in the file $GTHOME/LICENSE.txt.
+#
+# Other licensing options are available upon request, please contact
+# giellatekno@hum.uit.no or divvun@hum.uit.no
+
+# ==================================================================== #
+#!! !!!       M E A D O W   M A R I   G R A M M A R   C H E C K E R
+# ==================================================================== #
+# ====================================================================
+
+#  Sámi language technology 2000-2017, UiT The arctic University of Norway #
+
+# ---------------------- #
+#   Development setup:   #
+# ---------------------- #
+#
+# cd $GTHOME/langs/mhr
+# ./autogen.sh
+# ./configure --with-hfst --enable-syntax --enable-grammarchecker --enable-tokenisers --enable-alignment --enable-reversed-intersect
+# make
+# cd tools/grammarcheckers
+# make dev
+#
+# ---------------------- #
+#   Then edit/test as:   #
+# ---------------------- #
+#
+# emacs grammarchecker.cg3  # and C-c C-i / C-c C-c if you have cg-mode installed
+# echo "Тудо ок тола." | sh modes/mhrgram.mode  # from the terminal
+#
+# ---------------------- #
+#   Other debug-pipes:   #
+# ---------------------- #
+#
+# ls modes/
+#
+# ---------------------- #
+
+
+# The pipeline (but use modes, above)
+#  echo "Тудо ок тола." | hfst-tokenise --giella-cg  ../tokenisers/tokeniser-gramcheck-gt-desc.pmhfst | vislcg3 -g ../../src/cg3/disambiguator.cg3 -t | vislcg3 -g grammarchecker.cg3 -t
+
+
+
+      # =========================================== #
+      #      Short table of contents                #
+      # =========================================== #
+
+      # Delimiters
+      # Tags and sets
+      # Grammar checking rules
+
+# =============== #
+#!! !!!DELIMITERS
+# =============== #
+
+DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" sent ;
+#!! The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
+
+LIST DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<,>" "<;>" sent ; #SASHA ADDED 30-07-2017
+
+#PARENTHESES = "<$(>" "<$)>" "<$[>" "<$]>" "<${>" "<$}>" "<$«>" "<$»>" ;
+
+# ============= #
+# !!!Tags and sets
+# ============= #
+
+#!! The __Tags__ section lists all the tags inherited from the fst, and defines them for
+#!! use in the syntactic analysis.
+#!! The tags are documented in the root.lexc file, and here only listed for reference.
+
+#!! The next section, __Sets__, contains sets defined
+#!! on the basis of the tags listed here, those set names are not visible in the output.
+
+LIST DAT-V = "куанаш" ;
+
+LIST DAT-PO = "верч" "кӧра" ;
+
+LIST DAT-A = "поян" "тале" "пайдале" ;
+
+SETS
+
+#!! !!Tags
+
+
+
+#!! !Beginning and end of sentence
+
+LIST BOS = (>>>) (<s>); #!! BOS
+LIST EOS = (<<<) (</s>); #!! EOS
+
+#!! !Clause boundary
+LIST C-BOUNDARY = CS Rel ; #ADDED BY JEREMY AND SASHA 28-06-2017
+
+# We define end of clause and beginning of clause in a way so that the file
+# may be read both by the CG-2 and the vislcg formalisms.
+
+#!! !Parts of speech tags
+
+LIST N = N ;                    #!! N
+LIST V = V ;                    #!! V
+LIST A = A ;                    #!! A
+LIST Adv = Adv ; 				#!! Adv
+LIST CC = CC ; 					#!! CC
+LIST CS = CS ; 					#!! CS
+LIST Interj = Interj interj ij; #!! Interj
+LIST Pron = Pron ; 				#!! Pron
+LIST Num = Num ; 				#!! Num
+LIST Pcle = Pcle ; 				#!! Pcle
+LIST Clt = Clt ; 				#!! Clt
+LIST Po = Po ; 					#!! Po
+
+LIST ABBR = ABBR ;	    #!! ABBR
+LIST ACR = ACR ;	    #!! ACR
+
+#!! !Punctuation marks
+
+LIST CLB = CLB ;	    #!! CLB
+LIST COMMA = "," ;
+LIST LEFT = LEFT ;	    #!! LEFT
+LIST RIGHT = RIGHT ;    #!! RIGHT
+LIST WEB = WEB ;	    #!! WEB
+LIST QMARK = """ ;      # "  syntax colouring reset.
+LIST PPUNCT = LEFT RIGHT ;   #!! LEFT RIGHT because of apertium
+SET PUNCT = PPUNCT - QMARK ;
+
+#!! WORD is the set of all POS
+LIST WORD = N V A Adv CC CS Interj Pron Num Pcle Clt Po ;
+
+#!! !Verbal tense and mood tags
+LIST Prs = Prs ; 		 #!! Prs
+LIST Prt1 = Prt1 ; 		 #!! Prt1
+LIST Prt2 = Prt2 ; 		 #!! Prt2
+LIST Fut = Fut ; 		 #!! Fut
+LIST Imprt = Imprt ; 		 #!! Imprt
+LIST Ind = Ind ind ; 		 #!! Ind
+LIST Cond = Cond cond ; 	 #!! Cond
+LIST Des = Des des ;		 #!! Des
+
+#!! !Other verbal tags
+LIST Act = Act ; 			 #!! Act
+LIST ConNeg = ConNeg conneg; #!! ConNeg
+LIST FutPrc = FutPrc ; 			 #!! FutPrc
+LIST Ger = Ger ger ;		 #!! Ger
+LIST Inf = Inf ; 			 #!! Inf
+LIST Nec = Nec nec ;         #!! Nec
+LIST Neg = Neg neg ; 		 #!! Neg
+LIST NegPrc = NegPrc ; 			 #!! NegPrc
+LIST Pass = Pass ; 			 #!! Pass
+LIST Prc = Prc ; 			 #!! Prc
+LIST PrfPrc = PrfPrc ; 			 #!! PrfPrc
+
+#!! Verbal person-number tags
+LIST Sg1 = Sg1 ; 			 #!! Sg1
+LIST Sg2 = Sg2 ; 			 #!! Sg2
+LIST Sg3 = Sg3 ; 			 #!! Sg3
+LIST Pl1 = Pl1 ; 			 #!! Pl1
+LIST Pl2 = Pl2 ; 			 #!! Pl2
+LIST Pl3 = Pl3 ; 			 #!! Pl3
+
+
+#!! !Numeral tags
+
+LIST Sg = Sg sg ; 	  #!! Sg
+LIST Pl = Pl pl ; 	  #!! Pl
+
+#!! !Case tags
+
+LIST Nom = Nom nom ;  #!! Nom
+LIST Gen = Gen gen ;  #!! Gen
+LIST Abl = Abl abl ;  #!! Abl
+LIST Dat = Dat dat ;  #!! Dat
+LIST Com = Com com ;  #!! Com
+LIST Cns = Cns cns ;  #!! Cns
+LIST Acc = Acc acc ;   #!! Acc
+LIST Ins = Ins ins ;   #!! Ins
+LIST Ine = Ine ine ;   #!! Ine
+LIST Ill = Ill ill ;   #!! Ill
+LIST Cmpr = Cmpr ; 	   #!! Cmpr (case)
+
+#!! !Other nominal tags
+
+LIST Pers = Pers ;	   #!! Pers
+LIST Refl = Refl ; 	   #!! Refl
+LIST Rel = Rel ; 	   #!! Rel
+LIST Interr = Interr ; #!! Interr
+LIST Recipr = Recipr ; #!! Recipr
+LIST Dem = Dem ;	#!! Dem
+LIST ABBR = ABBR ;	  #!! ABBR
+LIST Pron1Sg = "мый" "Мый" ; #SASHA ADDED 3-07-2017
+LIST Pron2Sg = "тый" "Тый" ; #SASHA ADDED 3-07-2017
+
+#!! !Adjective comparison tags
+
+LIST Pos = Pos ; 	 #!! Pos (?)
+LIST Superl = Superl ; #!! Superl
+LIST Comp = Comp ; 	   #!! Comp
+
+LIST Attr = Attr ; 	   #!! Attr
+
+#!! !Possessive suffix tags
+
+LIST PxSg1 = PxSg1 ; #!! PxSg1
+LIST PxSg2 = PxSg2 ; #!! PxSg2
+LIST PxSg3 = PxSg3 ; #!! PxSg3
+LIST PxPl1 = PxPl1 ; #!! PxPl1
+LIST PxPl2 = PxPl2 ; #!! PxPl2
+LIST PxPl3 = PxPl3 ; #!! PxPl3
+
+#!! !Numeral tags
+
+LIST Card = Card ; #!! Card
+LIST Coll = Coll ;  #!! Coll
+LIST Ord = Ord ;  #!! Ord
+LIST Temp = Temp ;  #!! Temp (?)
+
+#!! !Derivation tags
+LIST Der/MWN = Der/MWN ; #!! Der/MWN
+LIST Der/са = Der/са ;	 #!! Der/sa
+
+#!! !Particles
+LIST Qst = Qst ; #!! Qst
+LIST Foc = Foc ; #!! Foc
+
+
+#!! !Tags for internal testing
+LIST CmpTest = CmpTest ; #!! CmpTest
+LIST Err = Err ; #!! Err
+
+LIST @ADVL> = @ADVL> ;
+LIST @>P = @>P ;
+LIST @>N = @>N ;
+LIST @OBJ> = @OBJ> ;
+LIST @SUBJ> = SUBJ> ;
+LIST @+FMAINV = @+FMAINV ;
+#!! !!Sets
+
+LIST CASE = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Cmpr ; #!! * __CASE__ = all cases
+SET OBLCASE = CASE - Nom ; #!! * __OBLCASE__ = All cases except Nom
+SET VFIN = Ind | Cond | Des | Imprt ; #!! * __VFIN__ = All moods
+
+LIST WORD = N V A Adv CC CS Interj Pron Num Pcle Clt Po ;
+
+SET PRE-N = A OR Gen OR Num OR Dem ;
+
+SET NON-PRE-N = WORD - PRE-N ;
+
+SET ADJ-OR-NOUN = A | N ; #SASHA ADDED 30-06-2017
+
+SET NOT-ADJ-OR-NOUN = WORD - ADJ-OR-NOUN ; #SASHA ADDED 2-07-2017
+
+LIST DER-N = Der/MWN ; #JEREMY AND SASHA ADDED 28-06-2017
+SET LEX-N = N - DER-N ; #JEREMY AND SASHA ADDED 28-06-2017
+
+
+
+
+
+# ===================================== #
+#!! !!! Grammarchecker rules begin here 
+# ===================================== #
+
+
+
+#!! !!Grammarchecker sets
+
+LIST &err-agr = &err-agr ;
+LIST &err-gen-po = &err-gen-po ;
+LIST &err-no-conneg = &err-no-conneg ;
+LIST &err-orrood-inf = &err-orrood-inf ;
+LIST &err-ext-agr = &err-ext-agr ;
+LIST &err-ext-vagr = &err-ext-vagr ;
+LIST &err--conneg-not-3rdsg = &err-conneg-not-3rdsg ;
+LIST &err-gen-po = &err-gen-po ;
+
+MAPPING-PREFIX = & ;
+
+
+#!! !!Grammarchecker rules
+
+
+SECTION
+
+
+#!! !Speller rules
+
+# Speller suggestions rule – add &SUGGESTWF to any spelling suggestion
+# that we actually want to suggest to the user.
+# The simplest is to just add it to all spelled words:
+ADD:spell-it-all (&typo &SUGGESTWF) (<spelled>) ;
+# But perhaps you want to only suggest spellings of words that are not inside "quotes":
+ADD:spell-conservatively (&typo &SUGGESTWF) (<spelled>) IF (NEGATE -1 QMARK LINK 2 QMARK);
+
+
+#!! !Agreement rules
+
+# A simple grammar checker rule without suggestions: Ensure preceding nominal agrees with the verb
+ADD:err-agr (&err-agr) TARGET V IF (-1C Sg + Nom) (0 V) (NOT 0 Sg3);
+ADD:err-agr (&err-agr) TARGET V IF (-1C Pron + Sg1 + Nom) (0 V) (NOT 0 Sg1);
+ADD:err-agr (&err-agr) TARGET V IF (-1C Pron + Sg2 + Nom) (0 V) (NOT 0 Sg2);
+ADD:err-agr (&err-agr) TARGET V IF (-1C Pron + Pl1 + Nom) (0 V) (NOT 0 Pl1);
+ADD:err-agr (&err-agr) TARGET V IF (-1C Pron + Pl2 + Nom) (0 V) (NOT 0 Pl2);
+
+
+#!! !Negation verb rules
+
+ADD:err-conneg-not-3rdsg (&err-conneg-not-3rdsg) TARGET (V Prs Sg3) IF (0 Ind OR Cond)(-1 (V Neg Sg3));
+
+
+#!! !Postposition rules
+
+
+# And one with a suggestion where we simply change the tag Sg into Attr:
+# Orig: ADD:attr-not-pred (&attr-not-pred) TARGET (A Sg) IF (NOT 0 Attr OR Gen) (1 CC LINK *1 COMMON-N) ;
+ADD:attr-not-pred (&attr-not-pred) TARGET (A Sg) IF (NOT 0 Attr OR Gen) (1 CC LINK *1 N) ;
+COPY:attr-not-pred (Attr &SUGGEST) EXCEPT (Sg) TARGET (&attr-not-pred) ;
+# The method is: Add &SUGGEST to a copied reading to *generate* a
+# suggestion form from that reading. The copy should contain the error
+# tag too – &-prefixed error tags are ignored when generating, but
+# used to create human-readable messages.
+
+LIST NomPost = "ваштареш" ;
+	
+ADD:err-gen-po (&err-gen-po) TARGET Po IF (-1 N + Gen)(0 NomPost);	
+	#$ окнан ваштареш *
+	## мемнан ваштареш ok 
+	## окна ваштареш ok
+	## окналан ваштареш ok
+	
+#!! ! NP internal rules
+
+
+#!! ! Punctuation rules
+
+# Simple punctuation rules showing how to change the lemma in the suggestions:
+ADD:use-guillemets (&guillemets) TARGET (""");
+COPY:left-guillemet ("«" &SUGGEST) EXCEPT (""") TARGET (&guillemets) ;
+COPY:right-guillemet ("»" &SUGGEST) EXCEPT (""") TARGET (&guillemets) ;
+
+ADD:use-ellipsis (&ellipsis) TARGET ("...");
+COPY:use-ellipsis ("…" &SUGGEST) EXCEPT ("...") TARGET (&ellipsis) ;
+
