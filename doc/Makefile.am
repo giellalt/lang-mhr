@@ -36,4 +36,4 @@ JSP_PAGES=root-morphology.jspwiki  \
 # smi-propernouns-stems.jspwiki    \
 # subjunctions-stems.jspwiki       \
 # verbs-stems.jspwiki              \
-include $(top_srcdir)/am-shared/doc-dir-include.am
+include $(top_srcdir)/../giella-core/am-shared/doc-dir-include.am
