@@ -9,15 +9,15 @@
 GT_ORTHOGRAPHIC_REGEX_SRCS=\
 		inituppercase.regex \
 		spellrelax.regex    \
-		spellrelax.thirties.regex    \
 		spellrelax-mobile-keyboard.regex \
 		spellrelax-tags.regex
 
 GT_ORTHOGRAPHIC_XFSCRIPT_SRCS=\
 		allcaps.xfscript      \
-		standard-to-thirties.xfscript \
 		downcase-derived_proper-strings.xfscript \
 		spellrelax-with-tags.xfscript
+
+#		Latn-to-Cyrl.xfscript
 
 # General build rules included from here:
 include $(top_srcdir)/../giella-core/am-shared/src-orthography-dir-include.am
