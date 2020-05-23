@@ -1,41 +1,103 @@
 ## Process this file with automake to produce Makefile.in
-## Copyright: Sámediggi/Divvun/UiT
-## Licence: GPL v3+
 
-ACLOCAL_AMFLAGS = -I m4
-SUBDIRS = . src tools doc test
+## Copyright (C) 2011 Samediggi
 
-EXTRA_DIST = und.timestamp
+## This program is free software: you can redistribute it and/or modify
+## it under the terms of the GNU General Public License as published by
+## the Free Software Foundation, either version 3 of the License, or
+## (at your option) any later version.
 
-pkgconfigdir = $(prefix)/share/pkgconfig
-pkgconfig_DATA = giella-$(GTLANG).pc
+## This program is distributed in the hope that it will be useful,
+## but WITHOUT ANY WARRANTY; without even the implied warranty of
+## MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+## GNU General Public License for more details.
 
+## You should have received a copy of the GNU General Public License
+## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-configure: banner und.timestamp
+# Add language-specific flags for hfst-lexc compilation here:
+HFST_LEXC_LOCAL_FLAGS=
 
-.PHONY: banner test
-banner:
-	@echo
-	@echo "*** Compiling the $(GTLANG) language. ***"
-	@echo
+####### Morphology source file defs: ########
 
-if WANT_MAINTAIN
-$(top_srcdir)/und.timestamp: ${GIELLA_TEMPLATES}/langs-templates/und/und.timestamp
-	@echo
-	@echo "	The build templates are newer than this language directory"
-	@echo "	To get new build rules and conventions, run: "
-	@echo
-	@echo "${GTCORE}/scripts/merge-templates.sh"
-	@echo
-	@echo "	The build will die now, but if you do not want to update your"
-	@echo "	templates, touch $@ and run make again."
-	@exit 1
-endif
+# Set this to name of lexc file containing Multichar_Symbols and LEXICON Root
+GT_LEXC_ROOT=$(srcdir)/root.lexc
 
-# On some systems it will try to run 'make test', and claim
-# 'nothing to be done for test'. By forwarding test to check we work around it.
-test: check
+# Set this to the names of all regular lexc source files:
+GT_LEXC_SRCS_L1_L2=\
+		 affixes/adjectives.lexc    \
+		 affixes/adverbs.lexc	    \
+		 affixes/nouns.lexc		    \
+		 affixes/postpositions.lexc \
+		 affixes/pronouns.lexc	    \
+		 affixes/propernouns.lexc   \
+		 affixes/quantifiers.lexc   \
+		 affixes/symbols.lexc       \
+		 affixes/verbs.lexc		    \
+		 stems/adjectives.lexc	    \
+		 stems/adverbs.lexc		    \
+		 stems/conjunctions.lexc    \
+		 stems/interjections.lexc   \
+		 stems/nouns.lexc		    \
+		 stems/particles.lexc	    \
+		 stems/postpositions.lexc   \
+		 stems/pronouns.lexc	    \
+		 stems/propernouns.lexc	    \
+		 stems/quantifiers.lexc	    \
+		 stems/subjunctions.lexc    \
+		 stems/verbs.lexc		    
 
-# Remove html tables created by some of the developer tools:
+# If you are building an error-detecting L2 analyser, specify the lexc files
+# that differ between the regular L1 and the L2 analysers below, in L1 and
+# L2 respectively. L2 files must end in "*-L2.lexc". See SME for an example.
+L1=
+
+L2=
+
+GT_LEXC_SRCS=\
+			$(GT_LEXC_SRCS_L1_L2) \
+			$(L1)
+
+GT_LEXC_L2_SRCS=\
+			$(GT_LEXC_SRCS_L1_L2) \
+			$(L2)
+
+# Set this to the names of all generated lexc files, if any
+GENERATED_LEXC_SRCS=generated_files/punctuation.lexc \
+                    generated_files/symbols.lexc
+
+# Set this to the names of all source xml files, if any
+GT_XML_SRCS=
+
+# Define any additional lexc sources here (compiled on their own):
+GT_LOCAL_SRCS=
+
+# Define local xfscripts here:
+GT_LOCAL_XFSCRIPT_SRCS=
+
+# Define here any additional sources just included in the distro:
+GT_DISTRO_SRCS=
+
+### BEGIN: Local processing: ###
+
+### List additional targets in the following variable, for build targets not
+### covered by other means. This comes ***in addition to*** what you can do by
+### just targeting lexicon.*: lexicon.tmp.*, and is useful if you want to build
+### separate fst's that need further treatment in the src/ dir. See the language
+### gle/ for an example of how this is used.
+
+GIELLA_LOCAL_TARGETS=
+
+### END: Local processing: ###
+
+####### Other targets: ###########
+# Clean: add local clean targets on separate lines, so that the first line can
+# easily get updates from the template dir through svn merge.
 clean-local:
-	rm -f *.html
+	-rm -f *.all.* *fst *.foma *.script generated_files/*.lexc lexicon.*
+	-rm -f url.lexc *.tmp.*
+
+include $(srcdir)/Makefile.modifications-phon.am
+include $(top_srcdir)/../giella-core/am-shared/src-morphology-dir-include.am
+
+# vim: set ft=automake:

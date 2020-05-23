@@ -1,0 +1,214 @@
+
+
+
+!Nouns
+
+LEXICON N
++N+Nom:0 AfterN ;
+
+LEXICON N-ae
++N+Nom:0 AfterN-ae ;
+
+
+LEXICON N-VS
+N-Vs ;
+
+LEXICON N-Vs
++N+Nom:0 AfterN-Vs ;
++N+Ill:0 WordEnd ; !Cont. to WordEnd because the abbreviated form probably cannot occur
+                   !in the middle of the form; cont. to enclitics could be added if necessary.
+
+!LEXICON NUnprod
+!+N: AfterNUnprod ;
+
+!LEXICON NUndecl  
+!+N: AfterNUndecl ;
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! (6) BRANCHING INTO THE SUFFIX LEXICONS !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+LEXICON AfterN 
+  Cx-Gen ; Cx-Acc ; Cx-Com ;  Cx-Ill ; Cx-Ine ; Cx-Lat-e ; Cx-Dat ; Cx-Mod ;  
+  Px-Sg12-e ; Px-Sg3-zhe ; Px-Sg3-zh ; Px-Pl ;
+  Pl-sh_w ;  Pl-la ;  Pl-myt ;
+  Cmp ; !the rak ending must later be restricted to adjectives
+  Enc-ak ; Enc-at ; Enc-la ;  Enc-laj ; Enc-s ; Enc-ys ; !makes the encl. (-)(y)s probably 
+                                                                               !overproductive
+  WordEnd ;
+
+LEXICON AfterN-ae
+  Cx-Gen ; Cx-Acc ; Cx-Com ; Cx-Ill ; Cx-Ine ; Cx-Lat-NOe ; Cx-Dat ; Cx-Mod ;  
+  Px-Sg12-NOe ; Px-Sg3-zhe ; Px-Sg3-zh ; Px-Pl ;
+  Pl-sh_w ;  Pl-la ;  Pl-myt ;
+  Cmp ; !the rak ending must later be restricted to adjectives
+  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ; Enc-s ; Enc-ys ; !makes the encl. (-)(y)s probably 
+                                                                              !overproductive
+   WordEnd ; 
+
+LEXICON AfterN-Vs
+  Cx-Gen ; Cx-Acc ; Cx-Com ; Cx-Ill ; Cx-Ine ; Cx-IllIne-NOsh ;  Cx-Lat-e ;  Cx-Dat ; Cx-Mod ;  
+  Px-Sg12-e ; Px-Sg3-zhe ;  Px-Sg3-zh ; Px-Pl ;
+  Pl-sh_w ;  Pl-la ;  Pl-myt ;
+  Cmp ; !the rak ending must later be restricted to adjectives
+  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ; Enc-s ; Enc-ys ; !makes the encl. (-)(y)s probably 
+                                                                              !overproductive
+  WordEnd ; 
+!-----------------------------------------------------------------------------------------------------------
+ LEXICON AfterCx-End  
+  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ; !Ac1amyn-laj
+  WordEnd ; 
+
+LEXICON AfterCx-Px  
+  Px-Sg12-e ; Px-Sg3-zhe ; Px-Pl ; 
+  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ; !other enclitics to be added when encountered
+  WordEnd ; 
+
+LEXICON AfterCx-aPx  
+  Px-Sg12-NOe ; Px-Sg3-zhe ;  Px-Pl ;
+  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ; !other enclitics to be added when encountered
+  WordEnd ; 
+
+LEXICON AfterCx-Lat  
+  Px-Sg12-e ; Px-Sg3-yzhe ; Px-Pl ; 
+  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ;  !other enclitics to be added when encountered
+  WordEnd ; 
+ !----------------------------------------------------------------------------------------------------------- 
+LEXICON AfterPx 
+  Cx-Gen ; Cx-Acc ; Cx-Com ; Cx-Dat ; Cx-Mod ;
+  Pl-sh_w ;  !Pl-la not included because of the dominant Pl-Px order. Perhaps    Pl-myt 
+           !should be added later if there appears Px-PlmYt forms.
+  Vx-GerSim-la ;
+  Enc-ak ; Enc-at ;  Enc-la ;  Enc-laj ; Enc-mozho ; Enc-mochet ;   !other enclitics to be added 
+                                                                                !when encountered
+  WordEnd ;
+ 
+LEXICON AfterPx-zh 
+  Cx-Com ; Cx-Dat ; Cx-Mod ;
+  Vx-GerSim-la ;
+  WordEnd ; 
+!-----------------------------------------------------------------------------------------------------------
+!The continuations of the plurals are constructed so that vlak and samych take
+!after them anything that a normal word does, whereas la takes only local cases
+! and myt takes other cases than local.
+LEXICON AfterPl-la 
+  Cx-Ill ; Cx-Ine ; Cx-Lat-NOe ;  !Other cases must be added if found in texts
+  Px-Sg12-NOe ; Px-Sg3-zhe ;  Px-Pl ;
+  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ;  !other enclitics to be added when encountered
+  WordEnd ; 
+
+LEXICON AfterPl-myt 
+  Cx-Gen ; Cx-Acc ; Cx-Com ;  Cx-Dat ; Cx-Mod ;  !Local cases must be added if found in texts
+  Px-Sg12-e ; Px-Sg3-zhe ;  Px-Pl ;
+  Enc-ak ; Enc-at ; Enc-la ; Enc-laj ; 
+  WordEnd ;
+!---------------------------------------------------------------------------------------------------------------------------- 
+LEXICON AfterCmp  !Based on the distribution in Onchyko corpus
+  Cx-Gen ; 
+  Cx-Acc ; 
+  Cx-Dat ; 
+  Cx-Mod ;
+  Px-Sg12-e ; 
+  Px-Sg3-zhe ; 
+  Px-Pl ;
+  Pl-sh_w ;
+  Enc-ak ; 
+  Enc-at ;  
+  Enc-la ; 
+  Enc-laj ;
+  WordEnd ; 
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! (7) LEXICONS CONTAINING THE SUFFIXES !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!Huom! Kaikkien suffiksien eteen pitää panna 
+!!!junktuurisymboli $, jotta morfofonologiset 
+!!!säännöt toimisivat oikein.
+
+!Nouns
+
+!The flag diacritics @U.PX... can be removed by placing Comitative in a 
+!separate lexicon and adjusting the continuation class in the second line
+!of lexicon Px-Sg3.
+!-------------------------------------------------------------------------------------------------------------------
+LEXICON Cx-Gen 
+< "+Gen":[%$ VEP н]  >  AfterCx-End;  !no pxs after this
+
+LEXICON Cx-Acc  
+< "+Acc":[%$ VEP м]  >  AfterCx-End;  !no pxs after this 
+
+LEXICON Cx-Com
+< "+Com":[%$ г е]  >  AfterCx-End; !This lexicon is needed because of
+                                                    !the shorter variant of the PxSg3
+                                                    !which is attached to Dat, Mod,Com.
+
+LEXICON Cx-Ill   !Ill and Ine divided into two lexicons because only Ill
+                              !can come after -SaS participe
+< "+Ill":[%$ VEP ш к %^E]  >  AfterCx-Px;  !normal pxs 
+< "+Ill":[%$ VEP ш]  >  AfterCx-End; !Used only without Px 
+
+LEXICON Cx-Ine
+< "+Ine":[%$ VEP ш т %^E]  >  AfterCx-Px;
+
+LEXICON Cx-IllIne-NOsh
+< "+Ill":[%$ к %^E]  > AfterCx-Px; 
+< "+Ine":[%$ т %^E]  > AfterCx-Px; 
+
+LEXICON Cx-Lat-NOe
+< "+Lat":[%$ ш]  > AfterCx-Lat ; !*muneSSe type  prevented 
+
+LEXICON Cx-Lat-e
+< "+Lat":[%$ е ш]  > AfterCx-Lat;
+
+LEXICON Cx-Dat
+< "+Dat":[%$ л а н]  > AfterCx-Px;
+
+LEXICON Cx-Mod
+< "+Mod":[%$ л а]  "@D.GERSIM.BEG@" > AfterCx-aPx; !Pxs that come 
+                                                     !after strong a/e
+!-------------------------------------------------------------------------------------------------------------------
+LEXICON Px-Sg12-e
++PxSg1:$ем AfterPx ;
+< "+PxSg1+Acc":[%$ е м]  "@D.VERB.PRESENT@" > AfterPx ;
+< "+PxSg2":[%$ е т]  "@P.PXSG2.PRESENT@" > AfterPx ;
+
+LEXICON Px-Sg12-NOe
++PxSg1:$м AfterPx ;
++PxSg1+Acc:$м AfterPx ;
+< "+PxSg2":[%$ т]  "@P.PXSG2.PRESENT@" > AfterPx ;
+
+LEXICON Px-Sg3-zhe
+< "+PxSg3":[%$ VEP ж %^E]  "@P.PXSG3.PRESENT@" > AfterPx ; 
+
+LEXICON Px-Sg3-zh
+< "+PxSg3":[%$ VEP ж]  > AfterPx-zh ;  !only in certain cases
+
+LEXICON Px-Sg3-yzhe    !This lexicon is for the latives, to expel the 
+                                   !*muneSSe type
+< "+PxSg3":[%$ ы ж %^E]  "@P.PXSG3.PRESENT@" > AfterPx ; 
+
+LEXICON Px-Pl
++PxPl1:$на AfterPx ;
++PxPl2:$да AfterPx ;
++PxPl3:$VEPшт AfterPx ;
+!-------------------------------------------------------------------------------------------------------------------
+LEXICON Pl-sh_w  !shamych and wlak plurals are treated (almost) like normal words
+< "+Pls":[%$ %- ш а м ы ч]  "@P.PL.PRESENT@" > AfterN ;
+< "+Plw":[%$ %- в л а к]  "@P.PL.PRESENT@" > AfterN ;
+
+LEXICON Pl-la
++Pll:$ла AfterPl-la ; !pitää laittaa kontinuaatio pxeihin, sillä PlPx tässä 
+                                !dominoiva, 
+                               !ks. väikkäri s. 125
+
+LEXICON Pl-myt
++Plm:$мыт AfterPl-myt ; 
+
+
+

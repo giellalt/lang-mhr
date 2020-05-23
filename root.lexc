@@ -1,0 +1,312 @@
+!!                     !!!mhr morphological analyser 
+!IDEAS FOR IMPROVEMENT
+!Fsm:ssä pitää erottaa z ja Z omaksi konsonanttiryhmäkseen niiden erikoisen 
+!käyttäytymisen takia (niiden jälkeen tulevat soinnittomat suffiksit). Samoin ehkä myös 
+!soinnittomat  sibilantit (vaativat joskus välivokaalin). 
+!COMMENTS ON OVERPRODUCTIVITY
+!- generates PxSg3 forms ending in -Z  without restrictions (because a postposition 
+!  requiring the short PxSg3 might be the next word). Informants test show no clear
+!  rules of the acceptability of the shorter form, see journal 9.2.05
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!Polku leksikkoketjun läpi menee pääpiirteissään seuraavassa järjestyksessä:
+! LEXICON Root -> (haarautuminen sanaluokkiin) 
+!                        -> Stem-alkuiset leksikot (vars. sanasto)
+!                        -> N, N-ae jne. (prefiksittömät leksikkonimet)
+!                        -> (haarautuminen suffiksileksikoihin)
+!                        -> Sx-alkuiset leksikot
+!Leksikot ovat tiedostossa suunnilleen samassa järjestyksessä kuin niiden
+!läpi mennään eli sisällysluettelo on:
+
+
+!   Principles of the mnemonic naming of lexicons: 
+!   -- category names begin with capital letter, e.g. LEXICON Cx-GenAcc 
+!  (a lexicon containing the Genetive and Accusative  case endings)
+!   -- graphemes represented by small letters, e.g. LEXICON Enc-la ;  Enc-laj
+!  (a lexicon containing the enclitics la and laj; in some cases the user just must
+!   know whether, for instance, "y"  refers to "ы" or "ӱ")
+!   -- classes of graphemes marked by capital letters, e.g. LEXICON StemV2-(C)V
+!  (a lexicon containing the stems of monosyllabic II conj. verbs with the structure 
+!    'a possible consonant and a vowel')
+!   -- "logical operations" marked by capital letters, e.g. LEXICON Cx-IllIne-NOsh
+!  (a lexicon containing the Illative and Inessive case suffixes but with no sh grapheme)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! (1) MULTICHARACTER SYMBOLS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Multichar_Symbols
+
+!Flag diacritics
+! @P.OBLCASE.PRESENT@   !Oblique case suffix is present
+! @D.OBLCASE@  !Disallows the presence of an oblique case suffix
+! @U.PX.ZE@ !Controls the use of the abbreviate Sg3 possessive suffix Z
+! @U.PX.Z@ !Controls the use of the abbreviate Sg3 possessive suffix Z
+! @U.PX.Z@ !Controls the use of the abbreviate Sg3 possessive suffix Z
+! @R.PX.Z@ !Controls the use of the abbreviate Sg3 possessive suffix Z
+ @P.PXSG3.PRESENT@ !Controls the use of the mozho enclitic and GerAnt mekshe
+ @R.PXSG3.PRESENT@ !Controls the use of the mozho enclitic and GerAnt mekshe
+ @P.PXSG2.PRESENT@ !Controls the use of the mochet enclitic
+ @R.PXSG2.PRESENT@ !Controls the use of the mochet enclitic
+ @P.PL.PRESENT@ !Prevents rak-Pl forms
+ @D.PL.PRESENT@ !Prevents rak-Pl forms
+ @P.GERSIM.BEG@ !Controls the -la of the +Ger+Sim
+ @R.GERSIM.BEG@ !Controls the -la of the +Ger+Sim
+ @D.GERSIM.BEG@ !Prevents modals in +Ger+Sim
+ @P.GERSIM.END@ !Prevents modals in +Ger+Sim
+ @P.VERB.PRESENT@ !Controls the suffixes after infinitive verb forms
+ @D.VERB.PRESENT@ !Controls the suffixes after infinitive verb forms
+
+!Word classes:
++Cat +N +A +Pron +Qu +Po +Adv +V +Conj +Pcle
+
++Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
+
+!Cases:
++Nom +Gen +Acc +Com +Ill +Ine +Lat +Dat +Mod
+
+!Number:
++Pls +Plw +Pll +Plm +Sg 
+
+!Possessive suffixes:
++PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
+
+!Comparation of adjectives:
++Cmp
+
+!Verbs:
++V1 +V2
++Ind+Pres +Ind+Pret1 +Ind+Pret2 +Imp +Des+Pres
++Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
++CoNeg  !Connegative form 
++Inf +Inf+Nec
++Ptc+Act +Ptc+Pas +Ptc+Fut +Ptc+Neg
++Ger+Instr +Ger+Neg +Ger+Ant +Ger+Post +Ger+Sim
+
+!Enclitics:
++Enc
+
+!Symbols for morphophonemes
+
+^E ^A
+
+!Junctures (Tämä tarpeeton?)
+
+!%$
+
+!Symbol for possible epenthetic vowel
+
+VEP
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! (2) INITIAL BRANCHING !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON Root
+! Tested lexica
+    Nouns ;
+    Verbs ;
+    Punctuation ;
+    Symbols     ;
+
+! Experimental lexica
+! Comment out the following experimental lexica for basic fst testing    
+   Nouns_and_adjectives ;
+    Verbs_alustavasti ;
+    Pronouns ;
+    Numerals_and_quantifiers ;
+    Adverbs ;
+    Postpositions ;             
+    Conjunctions ;        
+    Interjections ;     
+    Particles ;
+    Descriptive_words ;
+    Unknown_continuation ;
+
+!!!junktuurisymboli $, jotta morfofonologiset 
+!!!säännöt toimisivat oikein.
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! THE END OF THE WORD !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON WordEnd
+ < "@D.GERSIM.BEG@" >  # ;  !To prevent path from GerSimBEG
+                                                ! -> Px -> WordEnd
+
+
+
+
+
+
+ 
+LEXICON X
++Cat: # ; ! to be determined
+ 
+LEXICON Unknown_continuation
+аш:аш   X ;  ! "aS lijZe! terveydeksi! (juotaessa) X" 
+вещевой:вещевой   X ;  ! "v. meSak reppu X" 
+винительный:винительный   X ;  ! "v. padeZ akkusatiivi X" 
+вуйым-почым:вуйым-почым   X ;  ! "v.-p. pogaS hankkia lähtöä X" 
+грецкий:грецкий   X ;  ! "g. pykS saksanpähkinä X" 
+дательный:дательный   X ;  ! "d. padeZ datiivi X" 
+желательный:желательный   X ;  ! "Z. naklonenij desideratiivi X" 
+зеркальный:зеркальный   X ;  ! "z. karp peilikarppi X" 
+ида:ида   X ;  ! "(ida˙) $v" 
+ида:ида   X ;  ! "älkää VKielt" 
+ит:ит   X ;  ! "älä VKielt" 
+йолт:йолт   X ;  ! "j. koAS väl(k)ähtää X" 
+йоҥ-йоҥ:йоҥ-йоҥ   X ;  ! "j. SoktaS soida X" 
+йора:йора   X ;  ! "j. nalaS (hevosen) raviharjoitus X" 
+коҥ:коҥ   X ;  ! "k. lijmeS tajuttomuuteen asti X" 
+коҥгок:коҥгок   X ;  ! "k. liAS (leivänkannikka) kuivua X" 
+копыж-ж:копыж-ж   X ;  ! "mogyr kovaStem k. lie minun tuli luihin asti vilu X" 
+косвенный:косвенный   X ;  ! "k. padeZ obliikvisija, k. dopolnenij välillinen objekti X" 
+кулай:кулай   X ;  ! "k. dene modmo piiloleikki X" 
+кумалтыш:кумалтыш   X ;  ! "k. vurgem kapiot (sulhaselle ja hänen sukulaisilleen) X" 
+кумыжвуян:кумыжвуян   X ;  ! "k. kiSke tarhakäärme, rantakäärme X" 
+кыдач-покшеч:кыдач-покшеч   X ;  ! "k. ojlyStaS puhua sekavasti X" 
+кыр-гор:кыр-гор   X ;  ! "k. SoktaS alkaa raapia/kuulua rapinaa X" 
+кырпак:кырпак   X ;  ! "k. lum ensilumi X" 
+леҥге:леҥг%^E   X ;  ! "l. oNa istumapenkin lauta X" 
+лийшаш:лийшаш   X ;  ! "pitää olla V" 
+лицевой:лицевой   X ;  ! "l. sCet henkilötili X" 
+логарумбал:логарумбал   X ;  ! "l. nörgö (anat.) kurkunkansi X" 
+лоштак:лоштак   X ;  ! "l. volen SinCaS istua kuin kotonaan X" 
+луэш:луэш   X ;  ! "l. nalaS mennä takuuseen, puolustaa X" 
+лумаш:лумаш   X ;  ! "ik l. mlande yhden ihmisen maaosuus X" 
+махым:махым   X ;  ! "m. puaS ogyl olla haksahtamatta X" 
+машинно-тракторный:машинно-тракторный   X ;  ! "m. stancij maanviljelyskoneasema X" 
+местный:местный   X ;  ! "m. padeZ lokatiivi X" 
+намызе:намыз%^E   X ;  ! "n. godso vanha(naikainen) X" 
+направительный:направительный   X ;  ! "n. padeZ tulosija X" 
+нашатырный:нашатырный   X ;  ! "n. spirt ammoniakki(liuos) X" 
+нелеш:нелеш   X ;  ! "n. nalaS pahastua X" 
+ноля:ноля   X ;  ! "n. meraN (ihm.) laiha X" 
+ньыге-нюге:ньыге-нюг%^E   X ;  ! "Conlan n. CuCeS tuntuu epämiellyttävältä X" 
+обстоятельственный:обстоятельственный   X ;  ! "o. padeZ (marin) latiivi(sija) X" 
+огеш:огеш   X ;  ! "ei Vkielt" 
+огыда:огыда   X ;  ! "ette Vkielt" 
+огыдал:огыдал   X ;  ! "ette ole Vkielt" 
+огыл:огыл   X ;  ! "ei ole Vkielt" 
+огым:огым   X ;  ! "en Vkielt" 
+огына:огына   X ;  ! "emme Vkielt" 
+огынал:огынал   X ;  ! "emme ole Vkielt" 
+огыт:огыт   X ;  ! "eivät Vkielt" 
+огыт:огыт   X ;  ! "et Vkielt" 
+огытыл:огытыл   X ;  ! "eivät ole Vkielt" 
+ода:ода   X ;  ! "ette Vkielt" 
+одал:одал   X ;  ! "ette ole Vkielt" 
+ок:ок   X ;  ! "ei Vkielt" 
+олмештыш:олмештыш   X ;  ! "o. mut pronomini X" 
+ом:ом   X ;  ! "en Vkielt" 
+омыл:омыл   X ;  ! "en ole Vkielt" 
+омыл:омыл   X ;  ! "en ole Vkielt" 
+она:она   X ;  ! "emme Vkielt" 
+онал:онал   X ;  ! "emme ole Vkielt" 
+от:от   X ;  ! "et Vkielt" 
+отчетно-сайлымаш:отчетно-сайлымаш   X ;  ! "o. pogynymaS vaalikokous X" 
+отыл:отыл   X ;  ! "et ole Vkielt" 
+ошын:ошын   X ;  ! "o. koAS valjeta X" 
+перспективный:перспективный   X ;  ! "p. paSa plan työn pitkän ajan suunnitelma X" 
+пжик:пжик   X ;  ! "p. koAS kadota, livistää X" 
+повелительный:повелительный   X ;  ! "p. naklonenij imperatiivi X" 
+повествовательный:повествовательный   X ;  ! "p. predloZenij väitelause X" 
+подвесной:подвесной   X ;  ! "p. korno nostinrata X" 
+пожа:пожа   X ;  ! "p. mySkyr möhömaha X" 
+понудительный:понудительный   X ;  ! "p. zalog kausatiivi X" 
+порволыже:порволыж%^E   X ;  ! "olkoon kirottu! V" 
+порволышаш:порволышаш   X ;  ! "tulkoon kirotuksi V" 
+почеш:почеш   X ;  ! "p. mut postpositio X" 
+пӧтынь:пӧтынь   X ;  ! "p. nalaS ostaa X" 
+превосходный:превосходный   X ;  ! "p. stepen< superlatiivi X" 
+препинаний:препинаний   X ;  ! "p. znak-vlak välimerkit X" 
+придаточный:придаточный   X ;  ! "p. predloZenij sivulause X" 
+пунчеж:пунчеж   X ;  ! "p. pu niveräinen puu X" 
+пучмыла:пучмыла   X ;  ! "p. kalasen SyndaS hän sanoa paukautti X" 
+пыч:пыч   X ;  ! "SinCam p. yStaS räp(s)äyttää silmää X" 
+рад:рад   X ;  ! "r. dene riveittäin X" 
+родительный:родительный   X ;  ! "r. padeZ genetiivi X" 
+роп:роп   X ;  ! "uSeS r. vozo ajatus tuli mieleen äkkiä X" 
+ручной:ручной   X ;  ! "r. granata käsikranaatti X" 
+руп:руп   X ;  ! "r. liAS tummeta X" 
+рушке:рушк%^E   X ;  ! "r. pu (puu, jossa on niverät syyt) X" 
+сип:сип   X ;  ! "s. CodYra tiheikkö X" 
+ситыш:ситыш   X ;  ! "on riittävästi, riittää V" 
+скорый:скорый   X ;  ! "s. poezd pikajuna X" 
+сообщений:сообщений   X ;  ! "s. korno ministerstvo liikenneministeriö X" 
+сослагательный:сослагательный   X ;  ! "s. naklonenij konditionaali X" 
+страдательный:страдательный   X ;  ! "s. zalog passiivi X" 
+так:так   X ;  ! "t. koStaS kulkea joutilaana X" 
+такеш:такеш   X ;  ! "t. kece arkipäivä X" 
+тап:тап   X ;  ! "t. tolaS sattua, joutua, esiintyä X" 
+ташлама:ташлама   X ;  ! "t. korka kousa X" 
+тойки-мойки:тойки-мойки   X ;  ! "(leikillinen sana laulussa) X" 
+торланен:торланен   X ;  ! "t. koStaS kuljeskella X" 
+тортен:тортен   X ;  ! "t. koStaS vältellä X" 
+туаде:туад%^E   X ;  ! "t. vodyn tänä iltana X" 
+тулеч:тулеч   X ;  ! "t. utla sen lisäksi; t. vara sen jälkeen; t. oZno sitä ennen X" 
+туп:туп   X ;  ! "t. imne aisahevonen. t. rodo verisukulaisuus. t. sokyr täysin sokea X" 
+туран:туран   X ;  ! "t. poCkaS lorvailla X" 
+тыҥгас:тыҥгас   X ;  ! "t. orva kaksipyöräiset kärryt X" 
+уголок:уголок   X ;  ! "krasnyj u. punanurkka X" 
+удобрений:удобрений   X ;  ! "iskusstvennyj u. apulanta X" 
+укалеш:укалеш   X ;  ! "ei ole Vkielt." 
+уке:уке   X ;  ! "ei, ei ole Vkielt" 
+уле:ул%^E   X ;  ! "on (olemassa) V" 
+улмаш:улмаш   X ;  ! "oli; (apuverbi) V" 
+улмаште:улмашт%^E   X ;  ! "(jnk) ollessa (läsnä); jos on V" 
+улмашын:улмашын   X ;  ! "oli; (apuverbi) V" 
+улме:улм%^E   X ;  ! "u:o godym ollessa, (jnk) aikana X" 
+умыландарыше:умыландарыш%^E   X ;  ! "u. Clen adverbiaali X" 
+условный:условный   X ;  ! "u. naklonenij konditionaali X" 
+уша:уша   X ;  ! "u. oNa lauta (jolla pyöritellään taikinaa) X" 
+удырлыкеш:удырлыкеш   X ;  ! "y. nalaS ottaa (otto)tyttäreksi X" 
+удырлыклан:удырлыклан   X ;  ! "y. nalaS ottaa (otto)tyttäreksi X" 
+чаня:чаня   X ;  ! "C. eN (ihminen) heikko, ponneton X" 
+чатлама:чатлама   X ;  ! "C. jyStö paukkupakkanen X" 
+чроҥ:чроҥ   X ;  ! "C. Sokten rämisten X" 
+чурк:чурк   X ;  ! "C. liAS herkistyä, höristää korviaan X" 
+чуч:чуч   X ;  ! "C. SinCaS laskeutua kyykkyyn X" 
+чылдыр-чолдыр:чылдыр-чолдыр   X ;  ! "C. SoktaS helistä, soida X" 
+чыли:чыли   X ;  ! "C. tul tuikku, (pieni) tuli X" 
+шагыл:шагыл   X ;  ! "S. jolan imne valkojalkainen hevonen X" 
+шемын:шемын   X ;  ! "S. koAS häämöttää X" 
+шожым:шожым   X ;  ! "S. luktaS poistaa lika X" 
+шот:шот   X ;  ! "S. dene (jnk) mukaan X" 
+шоч:шоч   X ;  ! "S. jyd sydänyö X" 
+шутыдыме:шутыдым%^E   X ;  ! "vij S. paSa ylivoimainen työ X" 
+шутыме:шутым%^E   X ;  ! "vij S. paSa voimien mukainen työ X" 
+шу-у:шу-у   X ;  ! "(onom. veden kohina, naurun hohotus) Pmuu" 
+шушкыш:шушкыш   X ;  ! "S. jyk vihellys(ääni) X" 
+шушпык:шушпык   X ;  ! "S. omo nokonen X" 
+шым:шым   X ;  ! "en (pret.) Vkielt" 
+шыч:шыч   X ;  ! "(SYC) $v" 
+шыч:шыч   X ;  ! "et (pret.) Vkielt" 
+ыле:ыл%^E   X ;  ! "oli; (kond.) -isi V" 
+ыльда:ыльда   X ;  ! "olitte V" 
+ыльна:ыльна   X ;  ! "olimme V" 
+ыльым:ыльым   X ;  ! "olin V" 
+ыльыч:ыльыч   X ;  ! "olit; olivat V" 
+ынеда:ынеда   X ;  ! "ette halua Vkielt" 
+ынеж:ынеж   X ;  ! "ei halua Vkielt" 
+ынем:ынем   X ;  ! "en halua Vkielt" 
+ынена:ынена   X ;  ! "emme halua Vkielt" 
+ынет:ынет   X ;  ! "et halua Vkielt" 
+ынешт:ынешт   X ;  ! "eivät halua Vkielt" 
+ынже:ынж%^E   X ;  ! "älköön Vkielt" 
+ынышт:ынышт   X ;  ! "älkööt Vkielt" 
+ыресан:ыресан   X ;  ! "Y. ENyremyS ristilukki X" 
+ыш:ыш   X ;  ! "ei (pret.) Vkielt" 
+ышда:ышда   X ;  ! "ette (pret.) Vkielt" 
+ышна:ышна   X ;  ! "emme (pret.) Vkielt" 
+ышт:ышт   X ;  ! "eivät (pret.) Vkielt" 
+ышым:ышым   X ;  ! "en (pret.) Vkielt" 
+ышыч:ышыч   X ;  ! "et (pret.) Vkielt" 
+юнге:юнг%^E   X ;  ! "U. Cer ajos (kynnen alla) X" 
+юпке:юпке   X ;  ! "U. kiAS maata oikoisena X" 
+ямым:ямым   X ;  ! "A. koStaS olla kyytimiehenä X" 
+ямынза:ямынза   X ;  ! "A. portyS huopa X" 
+
+ 
