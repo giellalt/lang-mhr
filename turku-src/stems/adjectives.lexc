@@ -1,0 +1,26 @@
+
+
+!LEXICON Adjectives
+ !   StemA ;
+ !   StemA-ae ;
+ !   StemA-Vs1 ;
+ !   StemAUnprod ;
+ !   StemAUndecl ;
+ 
+
+!Adjectives
+
+!LEXICON StemA  !This and the following groupings correspond to 
+!s1omak A	;  !those of the nouns 
+
+!LEXICON StemA-ae 
+!s1omak A-ae	;
+
+!LEXICON StemA-Vs1 
+!s1omak A-Vs1	;
+
+!LEXICON StemAUnprod 
+!s1omak AUnprod  ;
+
+!LEXICON StemAUndecl 
+!s1omak AUndecl	;

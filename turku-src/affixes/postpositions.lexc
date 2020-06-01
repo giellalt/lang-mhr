@@ -1,0 +1,40 @@
+
+!Postpositions
+
+LEXICON Postp
++Po: # ;
+
+!LEXICON Pp         
+!+Pp:   SxAdv       ;
+
+!LEXICON PpCx        
+!+Pp:   SxPpCx       ;
+
+!LEXICON PpPx        
+!+Pp:   SxPpPx       ;
+
+!LEXICON PpPx+       
+!+Pp:   SxPpPx+       ;
+
+!LEXICON PpUndecl       
+!+Pp:   SxPpUndecl       ;
+
+
+
+
+!Postpositions
+
+!LEXICON SxAdv       !Tämä jo adverbeissa
+
+!LEXICON SxPpCx      
+!$x  WordEnd	;
+
+!LEXICON SxPpPx       
+!$x  WordEnd	;
+
+!LEXICON SxPpPx+       
+!$x  WordEnd	;
+
+!LEXICON SxPpUndecl       
+!$x  WordEnd	;
+

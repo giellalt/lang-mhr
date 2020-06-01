@@ -1,0 +1,61 @@
+
+
+!Adjectives
+
+!LEXICON A
+!+A: AfterN ;
+
+!LEXICON A-ae
+!+A: AfterN-ae ;
+
+!LEXICON A-Vs1
+!+A: AfterN-Vs1 ;
+
+!LEXICON AUnprod
+!+A: SxAUnprod ;
+
+!LEXICON AUndecl  
+!+A: SxAUndecl ;
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! (7) LEXICONS CONTAINING THE SUFFIXES !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!Huom! Kaikkien suffiksien eteen pitää panna 
+!!!junktuurisymboli $, jotta morfofonologiset 
+!!!säännöt toimisivat oikein.
+
+
+!-------------------------------------------------------------------------------------------------------------------
+LEXICON Cmp
+< "+Cmp":[%$ р а к ]  "@D.PL.PRESENT@"  > AfterCmp ;  !Assumed that there are 
+                                                                                       !no comparatives from plurals
+
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! (7) LEXICONS CONTAINING THE SUFFIXES !!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!Huom! Kaikkien suffiksien eteen pitää panna 
+!!!junktuurisymboli $, jotta morfofonologiset 
+!!!säännöt toimisivat oikein.
+
+
+!Adjectives
+
+!LEXICON SxN  !Tämä siis jo substantiiveissa
+
+!LEXICON SxN-ae !Tämä siis jo substantiiveissa 
+
+!LEXICON SxN-Vs1 !Tämä siis jo substantiiveissa
+
+!LEXICON SxAUnprod 
+!$x WordEnd  ;
+
+!LEXICON SxAUndecl 
+!$x WordEnd	;
+
