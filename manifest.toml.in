@@ -1,0 +1,9 @@
+name = "Eastern Mari"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.mhr"
+
+[windows]
+system_product_code = "B38FF964-580D-4DB3-A318-7A107C8B8BD5"
+msoffice_product_code = "F1849E44-9904-472A-9938-D7C6E306F848"
