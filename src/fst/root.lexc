@@ -74,7 +74,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 
 +Patr      !!≈ * __@CODE@__ = patronym, look at this in other cyr fsts.
 +Aux       !!≈ * __@CODE@__ = Auxiliary verb
-+Depend   !!≈ * __@CODE@__ = ( pair verbs that do not occur independently get this marker.)
++Dep   !!≈ * __@CODE@__ = ( pair verbs that do not occur independently get this marker.) /was +Depend, but +Dep used in fst.
 
 
 !! Have a look at these:
@@ -214,6 +214,13 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Der/Refl    !!≈ * __@CODE@__ = Derivation V > V: Reflexive
 +Der/MWN      !!≈ * __@CODE@__ = Modifier without noun (better: +A+Sg+Nom etc.)
 !+Der/исЕ      !!≈ * __@CODE@__ = Used with place names
+
+!! All non-positional derivations should be preceded by this tag, to make it possible
+!! to target regular expressions at all derivations in a language-independent way:
+!! just specify +Der|+Der1 .. +Der5 and you are set.
+
++Der  !!≈ * @CODE@
+
 
 !! Abbreviated words are classified with:
 +ABBR         !!≈ * __@CODE@__ = for abbreviations that (may) contain period
