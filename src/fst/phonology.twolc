@@ -85,6 +85,12 @@ Alphabet
 ! JMR 2012-09-18
  %>   !!= * @CODE@ 
 
+! Literal quotes and angles must be escaped (cf morpheme boundaries further down):
+ »7     ! »
+ «7     ! «
+ %[%>%] ! >
+ %[%<%] ! <
+
 
  ;
 
