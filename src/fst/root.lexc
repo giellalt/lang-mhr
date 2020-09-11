@@ -121,13 +121,13 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +PxPl3  !!≈ * __@CODE@__ = 
 
 !! Suffix ordering tags:
-+So/CP	  !!≈ * __@CODE@__ =
-+So/PC	  !!≈ * __@CODE@__ =
-+So/NCP	  !!≈ * __@CODE@__ =
-+So/NPC	  !!≈ * __@CODE@__ =
-+So/NP	  !!≈ * __@CODE@__ =
-+So/PN	  !!≈ * __@CODE@__ =
-+So/PNC	  !!≈ * __@CODE@__ =
++So/CP	  !!≈ * __@CODE@__ = Suffix ordering: Case + Possessive Person marking
++So/PC	  !!≈ * __@CODE@__ = Suffix ordering: Possessive Person + Case marking
++So/NCP	  !!≈ * __@CODE@__ = Suffix ordering: Number + Case + Possessive Person marking
++So/NPC	  !!≈ * __@CODE@__ = Suffix ordering: Number + Possessive Person + Case marking
++So/NP	  !!≈ * __@CODE@__ = Suffix ordering: Number + Possessive Person marking
++So/PN	  !!≈ * __@CODE@__ = Suffix ordering: Possessive Person + Number marking
++So/PNC	  !!≈ * __@CODE@__ = Suffix ordering: Possessive Person + Number + Case marking
 
 !! The comparative forms are:
 +Comp      !!≈ * __@CODE@__ = comparative (not: not Cmp)
@@ -195,6 +195,28 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Foc/jan	      !!≈ * __@CODE@__ = -jan focus particle
 +Foc/ja	      !!≈ * __@CODE@__ = -ja focus particle
 
+!! !Tags distinguishing different versions of the same lemma (before POS)
++v1   !!≈ * @CODE@
++v2   !!≈ * @CODE@
++v3   !!≈ * @CODE@
++v4   !!≈ * @CODE@
++v5   !!≈ * @CODE@
++v6   !!≈ * @CODE@
++v7   !!≈ * @CODE@
++v8   !!≈ * @CODE@
++v9   !!≈ * @CODE@
++v10  !!≈ * @CODE@
++v11  !!≈ * @CODE@
++v12  !!≈ * @CODE@
++v13  !!≈ * @CODE@
++v14  !!≈ * @CODE@
++v15  !!≈ * @CODE@
++v16  !!≈ * @CODE@
++v17  !!≈ * @CODE@
++v18  !!≈ * @CODE@
++v19  !!≈ * @CODE@
++v20  !!≈ * @CODE@
+
 !! !Derivations
 
 +Ex/N      !!≈ * __@CODE@__ = for derivation from N to anoter POS
@@ -203,7 +225,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 +Ex/TV      !!≈ * __@CODE@__ = change to other transitivity
 +EX/IV      !!≈ * __@CODE@__ = change to other transitivity
 
-
++Der     !!≈ * __@CODE@__ = This allows for Ex/... forms
 +Der/Nom    !!≈ * __@CODE@__ =  Derivation V > N: Nominalization
 +Der/NomNeg    !!≈ * __@CODE@__ = Derivation V > N: Negative nominalization
 +Der/Priv    !!≈ * __@CODE@__ =  Derivation N > A: Privative adjective
@@ -589,6 +611,13 @@ Z2      !!≈ * __@CODE@__ =
 %^VOTrigger  !!= * @CODE@ for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
 %^Sonorant   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
 %^Obstruent  !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
+
+!! !Symbols that need to be escaped on the lower side (towards twolc):
+
+ »7     !! * »
+ «7     !! * «
+ %[%>%] !! * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
+ %[%<%] !! * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
 
 
 +Cmp
