@@ -15,9 +15,12 @@ GT_ORTHOGRAPHIC_REGEX_SRCS=\
 
 GT_ORTHOGRAPHIC_XFSCRIPT_SRCS=\
 		allcaps.xfscript      \
-		standard-to-thirties.xfscript \
+		thirties-to-standard.xfscript \
 		downcase-derived_proper-strings.xfscript \
 		spellrelax-with-tags.xfscript
+
+standard-to-thirties.compose.hfst: thirties-to-standard.compose.hfst
+		hfst-invert $< $@
 
 # General build rules included from here:
 include $(top_srcdir)/../giella-core/am-shared/src-orthography-dir-include.am
