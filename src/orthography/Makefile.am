@@ -19,10 +19,15 @@ GT_ORTHOGRAPHIC_XFSCRIPT_SRCS=\
 		downcase-derived_proper-strings.xfscript \
 		spellrelax-with-tags.xfscript
 
+# Add extra targets here:
 GIELLA_ORTH_EXTRA_TARGETS=standard-to-thirties.compose.hfst
+
+###### BEGIN: local build rules below here: ######
 
 standard-to-thirties.compose.hfst: thirties-to-standard.compose.hfst
 		$(AM_V_HINVERT)$(HFST_INVERT) -i $< -o $@
+
+######  END: local build rules above here.  ######
 
 # General build rules included from here:
 include $(top_srcdir)/../giella-core/am-shared/src-orthography-dir-include.am
