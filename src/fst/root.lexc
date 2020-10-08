@@ -28,7 +28,9 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 !! The morphological analyses of the wordforms of Eastern Mari language are
 !! presented in this system in terms of the following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
-!+WORK
+
+! Tag for hmm work in progress.
++WORK
 
 %^VoTrigger  !!= * @CODE@ for use with acronyms after hyphen
 %^VeTrigger  !!= * @CODE@ for use with acronyms after hyphen
