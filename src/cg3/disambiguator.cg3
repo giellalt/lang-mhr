@@ -338,8 +338,13 @@ REMOVE:NotImpWhenWords1 Imprt IF (-1 N)(0 N);
 REMOVE:NotImpWhenWords2 Imprt IF (-1 WORD LINK *-1 BOS BARRIER Imprt);
 
 
-REMOVE:noninfl N + Sg + Nom IF (0 N-ATTR)(1 N-INFL OR ("."));
-REMOVE:ninfl N-ATTR IF (NOT 1 A OR N + Nom OR ("улаш"));
+#REMOVE:noninfl N + Sg + Nom IF (0 N-ATTR)(1 N-INFL OR ("."));
+#REMOVE:ninfl N-ATTR IF (NOT 1 A OR N + Nom OR ("улаш"));
+#REMOVE:ninfl N-ATTR IF (NOT 1 A OR N + Nom);
+REMOVE:ninfl N-ATTR IF (NOT 1 A OR N OR ("улаш"));
+REMOVE:noninfl N + Sg + Nom IF (0 N-ATTR)(1 N-INFL);
+
+
 
 #!! !Adjectives
 
