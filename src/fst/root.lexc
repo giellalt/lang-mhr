@@ -36,7 +36,7 @@ Multichar_Symbols  !!≈ !!!Declaration of @CODE@
 %^VeTrigger  !!= * @CODE@ for use with acronyms after hyphen
 %^VOTrigger  !!= * @CODE@ for use with acronyms after hyphen
 %^Sonorant   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
-%^Obstruent !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
+%^Obstruent  !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
 %^FrontObstr !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
 
 
