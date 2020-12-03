@@ -799,7 +799,7 @@ MAP:shkeattr @>N TARGET ("шке") IF (NOT 0 OBLCASE)(1 N);
 MAP:XN (@>N) TARGET ATTRFORM IF (1 N OR A);
 
 MAP:preNmodif @>N TARGET Pron + Gen IF (1C N);
-	
+MAP:indefpreNmodif @>N TARGET Pron + Indef IF (1C N);	
 
 #!! !!Postposition
 
@@ -1190,7 +1190,7 @@ MAP:subj @SUBJ> TARGET Nom (*1 V BARRIER N + Nom);
 MAP:vfin @+FMAINV TARGET Ind ;
 MAP:vifin @-FMAINV TARGET ConNeg ;
 
-MAP:advlGer (@ADVL>) TARGET Ger (1 VFIN);
+MAP:advlGer (@ADVL>) TARGET Ger (1 VFIN OR Ger); # also Ger chains.
 
 
 
