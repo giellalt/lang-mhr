@@ -116,12 +116,6 @@ LIST HUMAN = Sem/Hum Sem/Mal Sem/Fem Sem/Sur Pers NumAg Der/NumAg ;
 #!! * Sets for Morphosyntactic properties
 # --------------------------
 
-LIST Nom = Nom ;
-LIST Acc = Acc ;
-LIST Gen = Gen ;
-LIST Ill = Ill ;
-LIST Loc = Loc ;
-LIST Com = Com ;
 LIST Nom = Nom nom ;  #!! Nom
 LIST Gen = Gen gen ;  #!! Gen
 LIST Abl = Abl abl ;  #!! Abl
