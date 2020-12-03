@@ -302,6 +302,7 @@ SELECT:InterrQ Interr IF (0 Interr)(*1 ("?")) ; #SASHA ADDED 3-07-2017
 #!! *__Interr__ removes Rel if question mark to the right somewhere
 REMOVE:Interr Rel IF (0 Interr)(*1 ("?")); #SASHA MODIFIED 3-07-2017
 
+
 #!! !Verbs
 
 #!! Existential ulo
@@ -524,6 +525,11 @@ REMOVE Pcle IF (-1 CC);
 # ынде
 
 #REMOVE:PcleKillsAdv Adv IF (0 Pcle);
+
+
+#!! !! Phrases
+
+REMOVE:NotAttr Attr IF (1C Po OR EOS) ;
 
 
 
