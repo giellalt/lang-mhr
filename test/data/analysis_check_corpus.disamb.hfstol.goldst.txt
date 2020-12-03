@@ -113,7 +113,6 @@
 "<Эл>"
 	"эл" N Attr
 "<Республикын>"
-	"республик" N Err/Orth Sg Gen
 	"республик" N Sg Gen
 "<писатель>"
 	"писатель" N Attr
@@ -212,6 +211,7 @@
 	"," CLB
 "<ушем>"
 	"ушаш" V Ind Prs Sg1
+	"ушем" N Attr
 "<семын>"
 	"сем" N Sg Gen
 	"семын" Adv
@@ -277,12 +277,14 @@
 "<,>"
 	"," CLB
 "<поэтессе>"
+	"поэтессе" N Attr
 	"поэтессе" N Sg Nom
 "<С.>"
 	"С" N ABBR
 	"с" N ABBR
 "<Архипова>"
-	"Архипов" N N Prop Prop Sem/Sur Sg Nom
+	"Архипов" N Prop Sem/Sur Sg Nom
+	"Архипова" N Prop Sem/Sur Sg Nom
 "<респалдарыш>"
 	"респалдарыш" ?
 "<.>"
@@ -328,7 +330,6 @@
 "<моткоч>"
 	"моткоч" Adv
 "<сай>"
-	"сай" A Attr
 	"сай" Adv
 "<.>"
 	"." CLB
@@ -370,6 +371,7 @@
 	"гыч" Adp Po
 "<ушем>"
 	"ушаш" V Ind Prs Sg1
+	"ушем" N Attr
 "<правленийын>"
 	"правлений" N Sg Gen
 "<заседанийже>"
@@ -382,6 +384,7 @@
 	"ту" N Sg Ine
 	"туш" N Sg Ine
 	"тушто" Adv
+	"тушто" N Attr
 "<правлений>"
 	"правлений" N Attr
 "<член-влак>"
@@ -410,15 +413,17 @@
 	"С" N ABBR
 	"с" N ABBR
 "<Г.>"
+	"Г" N ABBR
 	"г" ABBR
+	"г" N ABBR
 "<Чавайнын>"
-	"Чавайн" N N Prop Prop Sem/Sur Sg Gen
+	"Чавайн" N Prop Sem/Sur Sg Gen
 "<шочмыжлан>"
 	"шочмо" N Sg Dat PxSg3 So/PC
 "<125>"
 	"125" Num Card Arab
 "<ий>"
-	"ияш" V ConNeg
+	"ий" N Attr
 "<темме>"
 	"темме" N Attr
 "<лӱмеш>"
@@ -561,7 +566,6 @@
 "<пашашт>"
 	"паша" N Sg Nom PxPl3
 "<республикыште>"
-	"республик" N Err/Orth Sg Ine
 	"республик" N Sg Ine
 "<гына>"
 	"гына" Adv
@@ -609,14 +613,16 @@
 	"З" N ABBR
 	"з" N ABBR
 "<Дудинан>"
-	"Дудин" N N Prop Prop Sem/Sur Sg Gen
+	"Дудин" N Prop Sem/Sur Sg Gen
+	"Дудина" N Prop Sem/Sur Sg Gen
 "<да>"
 	"да" CC
 "<В.>"
+	"В" N ABBR
 	"в" ABBR
+	"в" N ABBR
 "<Матвеевын>"
-	"Матвеев" N N Prop Prop Sem/Mal Sg Gen
-	"Матвеев" N N Prop Prop Sem/Sur Sg Gen
+	"Матвеев" N Prop Sem/Sur Sg Gen
 "<пашаштым>"
 	"паша" N Sg Acc PxPl3 So/PC
 "<Марий>"
@@ -624,7 +630,6 @@
 "<Эл>"
 	"эл" N Attr
 "<Республикын>"
-	"республик" N Err/Orth Sg Gen
 	"республик" N Sg Gen
 "<Кугыжаныш>"
 	"кугыжаныш" N Attr
@@ -635,16 +640,15 @@
 "<руш>"
 	"руш" A Attr
 "<поэт>"
-	"поэт" N Sg Nom
+	"поэт" N Attr
 "<А.>"
 	"А" N ABBR
 	"а" N ABBR
 "<Подольскийым>"
-	"Подольский" N N Prop Prop Sem/Sur Sg Acc
+	"Подольский" N Prop Sem/Sur Sg Acc
 "<юбилейжылан>"
 	"юбилей" N Sg Dat PxSg3 So/PC
 "<республикын>"
-	"республик" N Err/Orth Sg Gen
 	"республик" N Sg Gen
 "<правительствыжын>"
 	"правительстве" N Sg Gen PxSg3 So/PC
@@ -694,6 +698,7 @@
 	"писатель" N Attr
 "<ушем>"
 	"ушаш" V Ind Prs Sg1
+	"ушем" N Attr
 "<правленийын>"
 	"правлений" N Sg Gen
 "<надырже>"
@@ -725,7 +730,6 @@
 "<Эл>"
 	"эл" N Attr
 "<Республикын>"
-	"республик" N Err/Orth Sg Gen
 	"республик" N Sg Gen
 "<калык>"
 	"калык" A Attr
@@ -813,7 +817,7 @@
 "<80>"
 	"80" Num Card Arab
 "<ий>"
-	"ияш" V ConNeg
+	"ий" N Attr
 "<темме>"
 	"темме" N Attr
 "<чапле>"
@@ -846,7 +850,9 @@
 "<огыл>"
 	"огыл" Pcle
 "<шукталтмыла>"
+	"шукталташ" Ex/V Pass Prc Der/Nom N LocPl Nom
 	"шукталташ" Ex/V Pass Prc Der/Nom N Sg Cmpr
+	"шукташ" Ex/V Der/Refl Pass Prc Der/Nom N LocPl Nom
 	"шукташ" Ex/V Der/Refl Pass Prc Der/Nom N Sg Cmpr
 "<чучеш>"
 	"чучаш" V Ind Prs Sg3
@@ -858,6 +864,7 @@
 "<пытартыш>"
 	"пытартыш" A Attr
 "<ийлаште>"
+	"ий" N LocPl Ine
 	"ийла" N Sg Ine
 "<писательын>"
 	"писатель" N Sg Gen
@@ -890,7 +897,7 @@
 	"." CLB
 
 "<Сандене>"
-	"сандене" Conj CC WORK
+	"сандене" CC CC WORK
 "<«>"
 	"«" PUNCT LEFT
 "<ӱшаным>"
@@ -965,7 +972,9 @@
 "<огешак>"
 	"ок" V Neg Ind Prs Sg3 Foc/ak
 "<пула>"
+	"пу" N LocPl Nom
 	"пу" N Sg Cmpr
+	"пула" N Attr
 "<чучеш>"
 	"чучаш" V Ind Prs Sg3
 	"чучо" N Sg Lat
@@ -1011,8 +1020,8 @@
 "<,>"
 	"," CLB
 "<сай>"
-	"сай" A Attr
 	"сай" Adv
+	"сай" Ex/A Der/MWN N Sg Nom
 "<.>"
 	"." CLB
 
@@ -1049,7 +1058,7 @@
 	"А" N ABBR
 	"а" N ABBR
 "<Тимиркаевын>"
-	"Тимиркаев" N N Prop Prop Sem/Sur Sg Gen
+	"Тимиркаев" N Prop Sem/Sur Sg Gen
 "<,>"
 	"," CLB
 "<журнал>"
@@ -1062,7 +1071,7 @@
 	"А" N ABBR
 	"а" N ABBR
 "<Подольскийын>"
-	"Подольский" N N Prop Prop Sem/Sur Sg Gen
+	"Подольский" N Prop Sem/Sur Sg Gen
 "<содоклад>"
 	"содоклад" N Attr
 "<шотан>"
@@ -1284,7 +1293,7 @@
 	"А" N ABBR
 	"а" N ABBR
 "<Тимиркаев>"
-	"Тимиркаев" N N Prop Prop Sem/Sur Sg Nom
+	"Тимиркаев" N Prop Sem/Sur Sg Nom
 "<теве>"
 	"теве" Adv
 	"теве" Pcle
@@ -1465,7 +1474,7 @@
 	"." CLB
 
 "<Сандене>"
-	"сандене" Conj CC WORK
+	"сандене" CC CC WORK
 "<лишыл>"
 	"лишыл" A Attr
 "<ийлаште>"
@@ -1498,14 +1507,13 @@
 "<Эл>"
 	"эл" N Attr
 "<Республикым>"
-	"республик" N Err/Orth Sg Acc
 	"республик" N Sg Acc
 "<ыштымылан>"
 	"ыштыме" Ex/A Der/MWN N Sg Dat
 "<шӱдӧ>"
 	"шӱдаш" V Ind Prt1 Sg3
 "<ий>"
-	"ияш" V ConNeg
+	"ий" N Attr
 "<темме>"
 	"темме" N Attr
 "<вашеш>"
@@ -1597,7 +1605,7 @@
 	"А" N ABBR
 	"а" N ABBR
 "<Подольский>"
-	"Подольский" N N Prop Prop Sem/Sur Sg Nom
+	"Подольский" N Prop Sem/Sur Sg Nom
 "<ышташ>"
 	"ышташ" V Inf
 "<тӧчыш>"
@@ -1648,7 +1656,6 @@
 "<моткоч>"
 	"моткоч" Adv
 "<сай>"
-	"сай" A Attr
 	"сай" Adv
 "<.>"
 	"." CLB
@@ -1668,10 +1675,9 @@
 "<нерген>"
 	"нерген" Adp Po
 "<шоныман>"
-	"шонаш" Ex/V Pass Prc Der/Nom Ex/N Der/Poss Attr
 	"шонаш" V Inf Nec
-	"шонымо" Ex/A Der/MWN Ex/N Der/Poss Attr
-	"шонымо" Ex/N Der/Poss Attr
+	"шонымо" Ex/A Der/MWN Ex/N Der/Poss Der/MWN N Sg Nom
+	"шонымо" Ex/N Der/Poss Der/MWN N Sg Nom
 "<.>"
 	"." CLB
 
@@ -1685,10 +1691,9 @@
 "<кусарыше-влакым>"
 	"кусарыше" N Pl Acc
 "<ушыман>"
-	"ушаш" Ex/V Pass Prc Der/Nom Ex/N Der/Poss Attr
 	"ушаш" V Inf Nec
-	"ушым" Ex/N Der/Poss Attr
-	"ушымо" Ex/A Der/MWN Ex/N Der/Poss Attr
+	"ушым" Ex/N Der/Poss Der/MWN N Sg Nom
+	"ушымо" Ex/A Der/MWN Ex/N Der/Poss Der/MWN N Sg Nom
 "<.>"
 	"." CLB
 
@@ -1751,14 +1756,15 @@
 "<руш>"
 	"руш" A Attr
 "<поэт>"
+	"поэт" N Attr
 	"поэт" N Sg Nom
 "<В.>"
+	"В" N ABBR
 	"в" ABBR
+	"в" N ABBR
 "<Панов>"
-	"Панов" N N Prop Prop Sem/Mal
-	"Панов" N N Prop Prop Sem/Mal Attr
-	"Панов" N N Prop Prop Sem/Sur
-	"Панов" N N Prop Prop Sem/Sur Attr
+	"Панов" N Prop Sem/Sur
+	"Панов" N Prop Sem/Sur Attr
 "<поэзий>"
 	"поэзий" N Attr
 "<аланыште>"
@@ -1833,6 +1839,7 @@
 	"," CLB
 "<рӱдӧ>"
 	"рӱдаш" V Imprt Sg2
+	"рӱдӧ" N Attr
 	"рӱдӧ" N Sg Nom
 "<изданийлаште>"
 	"изданий" N LocPl Ine
@@ -1844,10 +1851,10 @@
 "<,>"
 	"," CLB
 "<Валентин>"
-	"Валентин" N N Prop Prop Sem/Mal
-	"Валентин" N N Prop Prop Sem/Mal Attr
+	"Валентин" N Prop Sem/Mal
+	"Валентин" N Prop Sem/Mal Attr
 "<Колумб>"
-	"Колумб" N N Prop Prop Sem/Sur Sg Nom
+	"Колумб" N Prop Sem/Sur Sg Nom
 "<дене>"
 	"дене" Adp Po
 "<вашлийме>"
@@ -2139,12 +2146,14 @@
 "<да>"
 	"да" CC
 "<краевед>"
+	"краевед" N Attr
 	"краевед" N Sg Nom
 "<Г.>"
+	"Г" N ABBR
 	"г" ABBR
+	"г" N ABBR
 "<Зайниевын>"
-	"Зайниев" N N Prop Prop Sem/Mal Sg Gen
-	"Зайниев" N N Prop Prop Sem/Sur Sg Gen
+	"Зайниев" N Prop Sem/Sur Sg Gen
 "<,>"
 	"," CLB
 "<чыным>"
@@ -2178,7 +2187,7 @@
 "<Гельсий>"
 	"Гельсий" ?
 "<Зайниевичын>"
-	"Зайниевич" N N Prop Prop Sem/Sur Sg Gen
+	"Зайниевич" N Prop Sem/Sur Sg Gen
 "<лӱмжӧ>"
 	"лӱм" N Sg Nom PxSg3
 "<марий>"
@@ -2276,8 +2285,8 @@
 "<могай>"
 	"могай" A Attr
 "<ситыдымаш>"
-	"ситаш" Ex/V Der Der/NomNeg N Attr
-	"ситыдымаш" N Attr
+	"ситаш" Ex/V Der Der/NomNeg N Sg Nom
+	"ситыдымаш" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -2438,7 +2447,6 @@
 
 "<Оласе>"
 	"ола" Ex/N Der/Rel Attr
-	"ола" Ex/N Der/Rel Err/Orth Attr
 	"оласе" N Attr
 "<илыш>"
 	"илыш" A Attr
@@ -2488,7 +2496,7 @@
 	"верешташ" Ex/V Act Prc Der/Nom N Sg Acc
 "<уло>"
 	"улаш" V Ind Prs Sg3 Ext
-	"уло" A Attr
+	"уло" N Attr
 "<кертмын>"
 	"керташ" Ex/V Pass Prc Der/Nom N Sg Gen
 	"кертмын" Adv
@@ -2582,7 +2590,7 @@
 	"." CLB
 
 "<Ӱдыр>"
-	"Ӱдыр" N Prop Attr
+	"Ӱдыр" N Attr
 	"ӱдыр" N Attr
 "<уш>"
 	"уш" A Attr
@@ -2608,12 +2616,9 @@
 	"вий" N Sg Nom PxSg3 Foc/at
 "<уке>"
 	"уке" A Attr
-	"уке" Adv
-	"уке" N Attr
-	"уке" Pcle
 "<гаяк>"
-	"гай" A Attr Foc/ak
-	"гаяк" A Attr
+	"гай" Ex/A Der/MWN N Sg Nom Foc/ak
+	"гаяк" Ex/A Der/MWN N Sg Nom
 "<.>"
 	"." CLB
 
@@ -2658,6 +2663,7 @@
 	"курык" N Attr
 "<серыште>"
 	"сер" N Sg Ine
+	"сере" N Sg Ine
 	"серыш" N Sg Ine
 "<верланыше>"
 	"верланаш" Ex/V Act Prc Der/Nom N Attr
@@ -2724,10 +2730,10 @@
 	"мучашдыме" Ex/A Der/MWN N LocPl Nom
 	"мучашдыме" Ex/A Der/MWN N Sg Cmpr
 "<койшо>"
-	"койшо" A Attr
+	"койшо" Ex/A Der/MWN N Attr
 "<Юл>"
-	"Юл" N Prop Attr
-	"юл" N Attr
+	"Юл" N Prop Sg Nom
+	"юл" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -2743,7 +2749,7 @@
 	"?" CLB
 
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem Sg Nom
+	"Настя" N Prop Sem/Fem Sg Nom
 "<изинекак>"
 	"изинʼек" Adv Foc/ak
 	"изинек" Adv Foc/ak
@@ -2870,6 +2876,7 @@
 	"юл" N Attr
 "<серыште>"
 	"сер" N Sg Ine
+	"сере" N Sg Ine
 	"серыш" N Sg Ine
 "<верланыше>"
 	"верланаш" Ex/V Act Prc Der/Nom N Attr
@@ -2898,10 +2905,10 @@
 "<,>"
 	"," CLB
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem
-	"Настя" N N Prop Prop Sem/Fem Attr
+	"Настя" N Prop Sem/Fem
+	"Настя" N Prop Sem/Fem Attr
 "<медицина>"
-	"медицине" N Err/Orth
+	"медицине" N Err/Orth Sg Nom
 "<академийыш>"
 	"академий" N Sg Ill
 "<тунемаш>"
@@ -2975,7 +2982,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem Sg Nom
+	"Настя" N Prop Sem/Fem Sg Nom
 "<изинекак>"
 	"изинʼек" Adv Foc/ak
 	"изинек" Adv Foc/ak
@@ -3016,8 +3023,8 @@
 "<дене>"
 	"дене" Adp Po
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem
-	"Настя" N N Prop Prop Sem/Fem Attr
+	"Настя" N Prop Sem/Fem
+	"Настя" N Prop Sem/Fem Attr
 "<кугу>"
 	"кугу" A Attr
 "<олаш>"
@@ -3161,7 +3168,7 @@
 "<тудыжо>"
 	"тудо" Pron Pers Sg3 Nom Foc/Poss
 "<Настян>"
-	"Настя" N N Prop Prop Sem/Fem Sg Gen
+	"Настя" N Prop Sem/Fem Sg Gen
 "<изи>"
 	"изи" A Attr
 "<улмыж>"
@@ -3190,7 +3197,7 @@
 	"?" CLB
 
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem Sg Nom
+	"Настя" N Prop Sem/Fem Sg Nom
 "<—>"
 	"—" PUNCT
 "<тудлан>"
@@ -3209,7 +3216,7 @@
 "<шергакан>"
 	"шергакан" A Attr
 "<айдеме>"
-	"айдеме" N Attr
+	"айдеме" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -3269,7 +3276,7 @@
 "<шупшын>"
 	"шупшаш" V Ind Prt2 Sg3
 "<Настям>"
-	"Настя" N N Prop Prop Sem/Fem Sg Acc
+	"Настя" N Prop Sem/Fem Sg Acc
 "<?>"
 	"?" CLB
 
@@ -3318,7 +3325,6 @@
 "<гай>"
 	"гай" A Attr
 "<виш>"
-	"виш" A Attr
 	"виш" Adv
 "<гычат>"
 	"гыч" Adp Po Foc/at
@@ -3344,15 +3350,15 @@
 	"а" N ABBR
 	"а" Pcle
 "<кугу>"
-	"кугу" A Attr
+	"кугу" N Attr
 "<Юлын>"
 	"Юл" N Prop Sg Gen
 	"юл" N Sg Gen
 "<тӱсшӧ>"
 	"тӱс" N Sg Nom PxSg3
 "<Настям>"
-	"Настя" N N Prop Prop Sem/Fem Sg Acc
-	"Настя" N N Prop Prop Sem/Fem Sg Nom PxSg1
+	"Настя" N Prop Sem/Fem Sg Acc
+	"Настя" N Prop Sem/Fem Sg Nom PxSg1
 "<шупшын>"
 	"шупшаш" V Ind Prt2 Sg3
 "<,>"
@@ -3367,7 +3373,7 @@
 	"." CLB
 
 "<Ӱдырлан>"
-	"Ӱдыр" N Prop Sg Dat
+	"Ӱдыр" N Sg Dat
 	"ӱдыр" N Sg Dat
 "<сай>"
 	"сай" Adv
@@ -3470,7 +3476,6 @@
 	"." CLB
 
 "<Садак>"
-	"садак" Conj
 	"садак" Pcle
 "<тунем>"
 	"тунемаш" V Ger Gen
@@ -3514,7 +3519,7 @@
 	"." CLB
 
 "<Ӱдыр>"
-	"Ӱдыр" N Prop Sg Nom
+	"Ӱдыр" N Sg Nom
 	"ӱдыр" N Sg Nom
 "<тидым>"
 	"тиде" Pron Dem Sg Acc
@@ -3598,9 +3603,10 @@
 	"." CLB
 
 "<Ош>"
-	"ош" Ex/A Der/MWN N Attr
+	"ош" A Attr
+	"ошо" A Attr
 "<ола>"
-	"ола" A Attr
+	"ола" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -3632,7 +3638,7 @@
 "<,>"
 	"," CLB
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem Sg Nom
+	"Настя" N Prop Sem/Fem Sg Nom
 "<?>"
 	"?" CLB
 
@@ -3649,6 +3655,7 @@
 	"," CLB
 "<ушым>"
 	"уш" N Sg Acc
+	"ушым" N Attr
 "<йомдарыше>"
 	"йомдарыше" N Attr
 "<ӱжара>"
@@ -3726,7 +3733,7 @@
 	"." CLB
 
 "<Ӱдырым>"
-	"Ӱдыр" N Prop Sg Acc
+	"Ӱдыр" N Sg Acc
 	"ӱдыр" N Sg Acc
 "<тидыже>"
 	"тиде" Pron Dem Sg Nom PxSg3
@@ -3755,9 +3762,11 @@
 "<куткышуэ>"
 	"куткышуэ" N Attr
 "<коклаште>"
+	"кок" N LocPl Ine
 	"кокла" N Sg Ine
 	"коклаште" Adv
 "<улмыла>"
+	"улмо" Ex/A Der/MWN N LocPl Nom
 	"улмо" Ex/A Der/MWN N Sg Cmpr
 "<чучеш>"
 	"чучаш" V Ind Prs Sg3
@@ -3786,7 +3795,7 @@
 	"¶" CLB
 
 "<Медицина>"
-	"медицине" N Err/Orth
+	"медицине" N Err/Orth Sg Nom
 "<академийын>"
 	"академий" N Sg Gen
 "<тӱҥ>"
@@ -3832,14 +3841,14 @@
 	"петырналташ" V ConNeg
 	"петырнаш" Ex/V Der/Refl ConNeg
 "<гаяк>"
-	"гай" A Attr Foc/ak
-	"гаяк" A Attr
+	"гай" Adp Po Foc/ak
+	"гаяк" Adp Po
 "<.>"
 	"." CLB
 
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem
-	"Настя" N N Prop Prop Sem/Fem Attr
+	"Настя" N Prop Sem/Fem
+	"Настя" N Prop Sem/Fem Attr
 "<гай>"
 	"гай" Adv
 	"гай" Ex/A Der/MWN N Sg Nom
@@ -3855,7 +3864,7 @@
 	"." CLB
 
 "<Ӱдыр>"
-	"Ӱдыр" N Prop Attr
+	"Ӱдыр" N Attr
 	"ӱдыр" N Attr
 "<кӱкшӧ>"
 	"кӱкшӧ" A Attr
@@ -3920,8 +3929,8 @@
 	"." CLB
 
 "<Настят>"
-	"Настя" N N Prop Prop Sem/Fem Sg Nom Foc/at
-	"Настя" N N Prop Prop Sem/Fem Sg Nom PxSg2
+	"Настя" N Prop Sem/Fem Sg Nom Foc/at
+	"Настя" N Prop Sem/Fem Sg Nom PxSg2
 "<шке>"
 	"шке" A Attr
 "<черетшым>"
@@ -3930,6 +3939,7 @@
 	"вучаш" V Ger Gen
 "<шуктыш>"
 	"шукташ" V Ind Prt1 Sg3
+	"шуктыш" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -4000,7 +4010,7 @@
 "<мане>"
 	"манаш" V Ind Prt1 Sg3
 "<ӱдыр>"
-	"ӱдыр" N Attr
+	"ӱдыр" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -4030,7 +4040,7 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem Sg Nom
+	"Настя" N Prop Sem/Fem Sg Nom
 "<йодо>"
 	"йодаш" V Ind Prt1 Sg3
 "<.>"
@@ -4060,7 +4070,7 @@
 "<ӱдыр>"
 	"ӱдыр" N Attr
 "<Настям>"
-	"Настя" N N Prop Prop Sem/Fem Sg Nom PxSg1
+	"Настя" N Prop Sem/Fem Sg Nom PxSg1
 "<ӧрын>"
 	"ӧраш" V Ger Gen
 "<ончале>"
@@ -4132,7 +4142,7 @@
 	"адак" Pcle Foc/at
 	"адакат" Adv
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem Sg Nom
+	"Настя" N Prop Sem/Fem Sg Nom
 "<ӱмбак>"
 	"ӱмбак" Adp Po
 	"ӱмбак" Adv
@@ -4194,7 +4204,7 @@
 "<—>"
 	"—" PUNCT
 "<Настян>"
-	"Настя" N N Prop Prop Sem/Fem Sg Gen
+	"Настя" N Prop Sem/Fem Sg Gen
 "<йолйыжыҥжат>"
 	"йолйыжыҥ" N Sg Nom PxSg3 Foc/at
 "<йомо>"
@@ -4262,9 +4272,9 @@
 "<ик>"
 	"икте" Num Num Attr
 "<гана>"
-	"гана" Adp Po
+	"гана" N Attr
 "<Настян>"
-	"Настя" N N Prop Prop Sem/Fem Sg Gen
+	"Настя" N Prop Sem/Fem Sg Gen
 "<документше-влакым>"
 	"документ" N Pl Acc PxSg3 So/PNC
 "<ончале>"
@@ -4318,7 +4328,7 @@
 	"." CLB
 
 "<Настян>"
-	"Настя" N N Prop Prop Sem/Fem Sg Gen
+	"Настя" N Prop Sem/Fem Sg Gen
 "<кумылжо>"
 	"кумыл" N Sg Nom PxSg3
 "<волыш>"
@@ -4364,7 +4374,7 @@
 "<дене>"
 	"дене" Adp Po
 "<иле>"
-	"иле" A Attr
+	"иле" Ex/A Der/MWN N Sg Nom
 "<.>"
 	"." CLB
 
@@ -4417,12 +4427,13 @@
 	"пыташ" V Ger Gen
 	"пыташ" V Ind Prt2 Sg3
 "<маншыла>"
+	"манаш" Ex/V Act Prc Der/Nom N LocPl Nom
 	"манаш" Ex/V Act Prc Der/Nom N Sg Cmpr
 	"манаш" V Ger
 "<ӱдыр>"
 	"ӱдыр" N Attr
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem Sg Nom
+	"Настя" N Prop Sem/Fem Sg Nom
 "<шеҥгелне>"
 	"шеҥгелне" Adp Po
 	"шеҥгелне" Adv
@@ -4437,12 +4448,13 @@
 	"документ" N Pl Acc PxSg3 So/NPC
 "<нале>"
 	"налаш" V Ind Prt1 Sg3
+	"нале" N Sg Nom
 "<.>"
 	"." CLB
 
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem
-	"Настя" N N Prop Prop Sem/Fem Attr
+	"Настя" N Prop Sem/Fem
+	"Настя" N Prop Sem/Fem Attr
 "<ӱстел>"
 	"ӱстел" N Sg Nom
 "<деч>"
@@ -4532,7 +4544,7 @@
 	"?" CLB
 
 "<Ӱдыр>"
-	"Ӱдыр" N Prop Attr
+	"Ӱдыр" N Attr
 	"ӱдыр" N Attr
 "<ятыр>"
 	"ятыр" Adv
@@ -4590,12 +4602,12 @@
 	"?" CLB
 
 "<Ӱдыр>"
-	"Ӱдыр" N Prop Sg Nom
+	"Ӱдыр" N Sg Nom
 	"ӱдыр" N Sg Nom
 "<пален>"
 	"палаш" V Ind Prt2 Sg3
 "<вет>"
-	"вет" Conj CC WORK
+	"вет" CC CC WORK
 "<:>"
 	":" CLB
 "<тӱшкагудо>"
@@ -4684,7 +4696,7 @@
 	"." CLB
 
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem Sg Nom
+	"Настя" N Prop Sem/Fem Sg Nom
 "<трукышто>"
 	"трукышто" Adv
 "<шогале>"
@@ -4716,7 +4728,7 @@
 "<кызытеш>"
 	"кызытеш" Adv
 "<иле>"
-	"иле" A Attr
+	"илаш" V ConNeg
 "<...>"
 	"..." CLB
 
@@ -4726,14 +4738,16 @@
 	"." CLB
 
 "<Ӱдырын>"
-	"Ӱдыр" N Prop Sg Gen
+	"Ӱдыр" N Sg Gen
 	"ӱдыр" N Sg Gen
 "<шӱмжым>"
 	"шӱм" N Sg Acc PxSg3 So/PC
 "<шуралтымыла>"
+	"шуралташ" Ex/V Pass Prc Der/Nom N LocPl Nom
 	"шуралташ" Ex/V Pass Prc Der/Nom N Sg Cmpr
 "<чучо>"
 	"чучаш" V Ind Prt1 Sg3
+	"чучо" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -4767,8 +4781,6 @@
 "<тудо>"
 	"тудо" Pron Pers Sg3 Nom
 "<икымше>"
-	"икымше" A Attr
-	"икымше" Num A Ord Attr
 	"икымше" Num A Ord Sg Nom
 "<гана>"
 	"гана" Adp Po
@@ -4848,15 +4860,15 @@
 	"." CLB
 
 "<Ӱдыр>"
-	"Ӱдыр" N Prop Attr
+	"Ӱдыр" N Attr
 	"ӱдыр" N Attr
 "<йӧршынак>"
 	"йӧршын" Adv Foc/ak
 "<вуйым>"
 	"вуй" N Sg Acc
 "<сакыш>"
-	"сак" Ex/A Der/MWN N Sg Ill
 	"сакаш" V Ind Prt1 Sg3
+	"сакыш" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -4964,7 +4976,6 @@
 	"мыняр" Adv
 	"мыняр" Pron Interr
 "<шуко>"
-	"шуко" A Attr
 	"шуко" Adv
 "<.>"
 	"." CLB
@@ -4996,8 +5007,8 @@
 	"..." CLB
 
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem
-	"Настя" N N Prop Prop Sem/Fem Attr
+	"Настя" N Prop Sem/Fem
+	"Настя" N Prop Sem/Fem Attr
 "<йыр>"
 	"йыр" Adv
 	"йыр" N Sg Nom
@@ -5029,7 +5040,7 @@
 	"." CLB
 
 "<Сандене>"
-	"сандене" Conj CC WORK
+	"сандене" CC CC WORK
 "<калык>"
 	"калык" N Sg Nom
 "<тыге>"
@@ -5097,7 +5108,7 @@
 	"." CLB
 
 "<Ӱдыр>"
-	"Ӱдыр" N Prop Sg Nom
+	"Ӱдыр" N Sg Nom
 	"ӱдыр" N Sg Nom
 "<,>"
 	"," CLB
@@ -5116,8 +5127,10 @@
 	"." CLB
 
 "<Машина>"
-	"Машин" N N Prop Prop Sem/Fem Sg Nom
-	"Машин" N N Prop Prop Sem/Sur Sg Nom
+	"Машин" N Prop Sem/Fem Sg Nom
+	"Машин" N Prop Sem/Sur Sg Nom
+	"Машина" N Prop Sem/Fem Sg Nom
+	"Машина" N Prop Sem/Sur Sg Nom
 	"машина" N Sg Nom
 "<гыч>"
 	"гыч" Adp Po
@@ -5179,8 +5192,8 @@
 	"." CLB
 
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem
-	"Настя" N N Prop Prop Sem/Fem Attr
+	"Настя" N Prop Sem/Fem
+	"Настя" N Prop Sem/Fem Attr
 "<ӧрын>"
 	"ӧраш" V Ger Gen
 "<колтыш>"
@@ -5257,7 +5270,7 @@
 	"." CLB
 
 "<Настян>"
-	"Настя" N N Prop Prop Sem/Fem Sg Gen
+	"Настя" N Prop Sem/Fem Sg Gen
 "<кумылжо>"
 	"кумыл" N Sg Nom PxSg3
 "<изиш>"
@@ -5292,8 +5305,10 @@
 	"." CLB
 
 "<Машина>"
-	"Машин" N N Prop Prop Sem/Fem Sg Nom
-	"Машин" N N Prop Prop Sem/Sur Sg Nom
+	"Машин" N Prop Sem/Fem Sg Nom
+	"Машин" N Prop Sem/Sur Sg Nom
+	"Машина" N Prop Sem/Fem Sg Nom
+	"Машина" N Prop Sem/Sur Sg Nom
 	"машина" N Sg Nom
 "<деке>"
 	"деке" Adp Po
@@ -5424,8 +5439,6 @@
 	"кушеч" Pron Interr
 "<улат>"
 	"улаш" V Ind Prs Sg2
-	"уле" A Attr Foc/at
-	"уло" A Attr Foc/at
 "<?>"
 	"?" CLB
 
@@ -5465,8 +5478,8 @@
 "<—>"
 	"—" PUNCT
 "<Настя>"
-	"Настя" N N Prop Prop Sem/Fem
-	"Настя" N N Prop Prop Sem/Fem Attr
+	"Настя" N Prop Sem/Fem
+	"Настя" N Prop Sem/Fem Attr
 "<шӱлыкын>"
 	"шӱлык" N Sg Gen
 	"шӱлыкын" Adv
@@ -5495,7 +5508,6 @@
 "<Мо>"
 	"мо" Pron Interr Sg Nom
 "<тыгай>"
-	"тыгай" A Attr
 	"тыгай" Adv
 	"тыгай" Pron Pron Dem
 "<?>"
@@ -5558,7 +5570,6 @@
 	"дене" Adp Po
 "<пырля>"
 	"пырля" A
-	"пырля" A Attr
 	"пырля" Adv
 "<.>"
 	"." CLB
@@ -5789,7 +5800,7 @@
 	"." CLB
 
 "<Тендан>"
-	"Тен" N N Prop Prop Sem/Sur Sg Gen PxPl2 So/PC
+	"Тен" N Prop Sem/Sur Sg Gen PxPl2 So/PC
 	"тый" Pron Pers Pl2 Gen
 "<гоч>"
 	"гоч" Adp Po
@@ -5864,14 +5875,16 @@
 "<дене>"
 	"дене" Adp Po
 "<Зоя>"
-	"Зоя" N N Prop Prop Sem/Fem
-	"Зоя" N N Prop Prop Sem/Fem Attr
+	"Зоя" N Prop Sem/Fem
+	"Зоя" N Prop Sem/Fem Attr
 "<Александровна>"
-	"Александр" N N Prop Prop Patr Sem/Fem Attr
-	"Александр" N N Prop Prop Patr Sem/Mal
+	"Александр" N Prop Patr Sem/Fem Attr
+	"Александр" N Prop Patr Sem/Mal
+	"Александровна" N Prop Patr Sem/Fem Attr
+	"Александровна" N Prop Patr Sem/Mal
 "<Михайлова>"
-	"Михайлов" N N Prop Prop Sem/Sur
-	"Михайлов" N N Prop Prop Sem/Sur Attr
+	"Михайлов" N Prop Sem/Sur Sg Nom
+	"Михайлова" N Prop Sem/Sur Sg Nom
 "<.>"
 	"." CLB
 
@@ -5882,7 +5895,7 @@
 "<Кожлалӱвал>"
 	"Кожлалӱвал" N Prop Sem/Plc Attr
 "<ял>"
-	"ял" N Attr
+	"ял" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -6224,7 +6237,7 @@
 	"¶" CLB
 
 "<Редакций>"
-	"редакций" N Attr
+	"редакций" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -6235,10 +6248,10 @@
 	"¶" CLB
 
 "<Эрик>"
-	"Эрик" N N Prop Prop Sem/Mal
-	"Эрик" N N Prop Prop Sem/Mal Attr
+	"Эрик" N Prop Sem/Mal
+	"Эрик" N Prop Sem/Mal Attr
 "<Петров>"
-	"Петров" N N Prop Prop Sem/Sur Sg Nom
+	"Петров" N Prop Sem/Sur Sg Nom
 "<¶>"
 	"¶" CLB
 
@@ -6274,7 +6287,6 @@
 "<ожнысек>"
 	"ожнысек" Adv
 "<чонем>"
-	"чонем" Interj Attr
 	"чонем" Interj Sg Nom
 "<.>"
 	"." CLB
@@ -6400,8 +6412,8 @@
 "<кумыл>"
 	"кумыл" N Attr
 "<алан>"
-	"ал" Ex/N Der/Poss Attr
 	"ала" N Sg Gen
+	"алан" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -6409,9 +6421,11 @@
 	"поэт" N Attr
 "<Максим>"
 	"Макси" N Prop Sem/Mal Sg Acc
+	"Максим" N Prop Sem/Mal
+	"Максим" N Prop Sem/Mal Attr
 "<Емельянов>"
-	"Емельянов" N N Prop Prop Sem/Sur
-	"Емельянов" N N Prop Prop Sem/Sur Attr
+	"Емельянов" N Prop Sem/Sur
+	"Емельянов" N Prop Sem/Sur Attr
 "<манмыла>"
 	"манаш" Ex/V Pass Prc Der/Nom N Sg Cmpr
 "<:>"
@@ -6478,6 +6492,7 @@
 "<,>"
 	"," CLB
 "<кок>"
+	"кок" N Attr
 	"кок" Num Num Attr
 "<могырым>"
 	"могыр" N Sg Acc
@@ -6536,7 +6551,9 @@
 	"." CLB
 
 "<А>"
+	"А" N ABBR
 	"а" Interj
+	"а" N ABBR
 	"а" Pcle
 "<сылнын>"
 	"сылне" Ex/A Der/MWN N Sg Gen
@@ -6609,7 +6626,6 @@
 "<да>"
 	"да" CC
 "<тамле>"
-	"тамле" A Attr
 	"тамле" Adv
 	"тамле" N Sg Nom
 "<!>"
@@ -6624,7 +6640,6 @@
 "<путырак>"
 	"путырак" Adv
 "<тамле>"
-	"тамле" A Attr
 	"тамле" Adv
 "<.>"
 	"." CLB
@@ -6943,7 +6958,6 @@
 "<тудо>"
 	"тудо" Pron Pers Sg3 Nom
 "<уло>"
-	"улаш" V Ind Prs Sg3 Ext
 	"уло" A Attr
 "<шол>"
 	"шол" Pcle Interj
@@ -6996,7 +7010,6 @@
 "<Марий>"
 	"марий" A Attr
 "<АССР-на>"
-	"АССР" Err/Orth N ACR Sg Nom PxPl1
 	"АССР" N ACR Sg Nom PxPl1
 "<тушто>"
 	"ту" N Sg Ine
@@ -7064,7 +7077,6 @@
 	"тыгодымак" Adv
 	"тыгодымак" Pron
 "<нимо>"
-	"нимо" A Attr
 	"нимо" Adv
 	"нимо" Pron Indef Nom
 "<деч>"
@@ -7215,19 +7227,19 @@
 "<дене>"
 	"дене" Adp Po
 "<кызытсе>"
-	"кызытсе" A Attr
+	"кызытсе" Ex/A Der/MWN N Attr
 "<Киров>"
-	"Киров" N N Prop Prop Sem/Mal
-	"Киров" N N Prop Prop Sem/Mal Attr
-	"Киров" N N Prop Prop Sem/Plc Sem/Plc Attr
-	"Киров" N N Prop Prop Sem/Sur
-	"Киров" N N Prop Prop Sem/Sur Attr
-	"Киров" N N Prop Sem/Plc Prop Sem/Plc
+	"Киров" N Prop Sem/Mal
+	"Киров" N Prop Sem/Mal Attr
+	"Киров" N Prop Sem/Plc Attr
+	"Киров" N Prop Sem/Plc Sem/Plc
+	"Киров" N Prop Sem/Sur
+	"Киров" N Prop Sem/Sur Attr
 "<областьысе>"
 	"область" Ex/N Der/Rel Attr
 "<Кукарка>"
-	"Кукарка" N N Prop Prop Sem/Sur Sg Nom
 	"Кукарка" N Prop Sem/Plc Sg Nom
+	"Кукарка" N Prop Sem/Sur Sg Nom
 	"Кукарка" N Prop Sg Nom
 	"кукарка" N Sg Nom
 "<(>"
@@ -7298,10 +7310,10 @@
 "<(>"
 	"(" PUNCT LEFT
 "<Степан>"
-	"Степан" N N Prop Prop Sem/Mal
-	"Степан" N N Prop Prop Sem/Mal Attr
+	"Степан" N Prop Sem/Mal
+	"Степан" N Prop Sem/Mal Attr
 "<Антропов>"
-	"Антропов" N N Prop Prop Sem/Sur Sg Nom
+	"Антропов" N Prop Sem/Sur Sg Nom
 "<)>"
 	")" PUNCT RIGHT
 "<ден>"
@@ -7321,8 +7333,8 @@
 "<Яким>"
 	"Яким" ?
 "<Антропов>"
-	"Антропов" N N Prop Prop Sem/Mal Sg Nom
-	"Антропов" N N Prop Prop Sem/Sur Sg Nom
+	"Антропов" N Prop Sem/Mal Sg Nom
+	"Антропов" N Prop Sem/Sur Sg Nom
 "<)>"
 	")" PUNCT RIGHT
 "<деч>"
@@ -7344,10 +7356,10 @@
 "<(>"
 	"(" PUNCT LEFT
 "<Кирилл>"
-	"Кирилл" N N Prop Prop Sem/Mal
-	"Кирилл" N N Prop Prop Sem/Mal Attr
+	"Кирилл" N Prop Sem/Mal
+	"Кирилл" N Prop Sem/Mal Attr
 "<Бусыгин>"
-	"Бусыгин" N N Prop Prop Sem/Sur Sg Nom
+	"Бусыгин" N Prop Sem/Sur Sg Nom
 "<)>"
 	")" PUNCT RIGHT
 "<ойлен>"
@@ -7394,10 +7406,10 @@
 "<олмеш>"
 	"олмо" N Sg Lat
 "<Кукарка>"
-	"Кукарка" N N Prop Prop Sem/Sur
-	"Кукарка" N N Prop Prop Sem/Sur Attr
 	"Кукарка" N Prop Attr
 	"Кукарка" N Prop Sem/Plc Attr
+	"Кукарка" N Prop Sem/Sur
+	"Кукарка" N Prop Sem/Sur Attr
 	"кукарка" N Attr
 "<олам>"
 	"ола" N Sg Nom PxSg1
@@ -7504,6 +7516,7 @@
 "<нерген>"
 	"нерген" Adp Po
 "<моло>"
+	"моло" N Attr
 	"моло" Pron
 	"моло" Pron Indef Nom
 "<кундемлаштат>"
@@ -7572,12 +7585,12 @@
 "<села>"
 	"села" N Attr
 "<Киров>"
-	"Киров" N N Prop Prop Sem/Mal
-	"Киров" N N Prop Prop Sem/Mal Attr
-	"Киров" N N Prop Prop Sem/Plc Sem/Plc Attr
-	"Киров" N N Prop Prop Sem/Sur
-	"Киров" N N Prop Prop Sem/Sur Attr
-	"Киров" N N Prop Sem/Plc Prop Sem/Plc
+	"Киров" N Prop Sem/Mal
+	"Киров" N Prop Sem/Mal Attr
+	"Киров" N Prop Sem/Plc Attr
+	"Киров" N Prop Sem/Plc Sem/Plc
+	"Киров" N Prop Sem/Sur
+	"Киров" N Prop Sem/Sur Attr
 "<областьыште>"
 	"область" N Sg Ine
 "<уло>"
@@ -7600,7 +7613,7 @@
 "<йоген>"
 	"йогаш" V Ind Prt2 Sg3
 "<эртыше>"
-	"эртыше" A Attr
+	"эртыше" N Attr
 "<Немда>"
 	"Немда" N Prop Sem/Plc Attr
 "<эҥерым>"
@@ -7956,6 +7969,8 @@
 	"." CLB
 
 "<Эше>"
+	"Эше" N Prop Sem/Mal
+	"Эше" N Prop Sem/Mal Attr
 	"эшаш" V Imprt Sg2
 	"эше" Adv
 "<весымат>"
@@ -8154,6 +8169,7 @@
 	"кеч" CS
 	"кеч" Pcle
 "<кудо>"
+	"кудо" N Attr
 	"кудо" Pron
 "<олмеш>"
 	"олмо" N Sg Lat
@@ -8626,12 +8642,12 @@
 "<участникше>"
 	"участник" N Sg Nom PxSg3
 "<Андрей>"
-	"Андрей" N N Prop Prop Sem/Mal
-	"Андрей" N N Prop Prop Sem/Mal Attr
-	"Андрей" N N Prop Prop Sem/Sur
-	"Андрей" N N Prop Prop Sem/Sur Attr
+	"Андрей" N Prop Sem/Mal
+	"Андрей" N Prop Sem/Mal Attr
+	"Андрей" N Prop Sem/Sur
+	"Андрей" N Prop Sem/Sur Attr
 "<Светлаковын>"
-	"Светлаков" N N Prop Prop Sem/Sur Sg Gen
+	"Светлаков" N Prop Sem/Sur Sg Gen
 "<)>"
 	")" PUNCT RIGHT
 "<каласкалымыж>"
@@ -8728,12 +8744,12 @@
 "<кызытше>"
 	"кызыт" Adv Foc/Poss
 "<улыжат>"
-	"улыже" Adv Foc/at
-	"улыжо" Adv Foc/at
+	"улыже" A Attr Foc/at
 "<пел>"
-	"пелаш" V ConNeg
+	"пел" N Attr
 "<меҥге>"
 	"меҥ" N Sg Com
+	"меҥге" N Attr
 "<коклаште>"
 	"кокла" N Sg Ine
 	"коклаште" Adv
@@ -9031,7 +9047,7 @@
 "<Андрий>"
 	"Андрий" ?
 "<чӱчӱ>"
-	"чӱчӱ" N Attr
+	"чӱчӱ" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -9046,6 +9062,7 @@
 	"," CLB
 "<тушман>"
 	"тушман" A Attr
+	"тушман" N Attr
 "<коштдымо>"
 	"кошташ" Ex/V Neg Prc Der/NomNeg N Attr
 "<улак>"
@@ -9079,6 +9096,7 @@
 "<,>"
 	"," CLB
 "<моло>"
+	"моло" N Attr
 	"моло" Pron
 	"моло" Pron Indef Nom
 "<родо-тукымымат>"
@@ -9209,11 +9227,11 @@
 "<мландыже>"
 	"мланде" N Sg Nom PxSg3
 "<кызытсе>"
-	"кызытсе" A Attr
+	"кызытсе" Ex/A Der/MWN N Attr
 "<Кострома>"
-	"Кострома" N N Prop Prop Sem/Sur
-	"Кострома" N N Prop Prop Sem/Sur Attr
 	"Кострома" N Prop Sem/Plc Attr
+	"Кострома" N Prop Sem/Sur
+	"Кострома" N Prop Sem/Sur Attr
 "<областьым>"
 	"область" N Sg Acc
 "<але>"
@@ -9357,6 +9375,7 @@
 "<марий>"
 	"марий" A Attr
 "<кудо>"
+	"кудо" N Attr
 	"кудо" Pron
 "<семынак>"
 	"сем" N Sg Gen Foc/ak
@@ -9428,7 +9447,7 @@
 "<,>"
 	"," CLB
 "<сандене>"
-	"сандене" Conj CC WORK
+	"сандене" CC CC WORK
 "<нунын>"
 	"тудо" Pron Pers Pl3 Gen
 "<йыр>"
@@ -9486,7 +9505,7 @@
 "<ешан>"
 	"ешан" A Attr
 "<изирак>"
-	"изирак" A Attr
+	"изи" A Comp
 "<илемым>"
 	"илем" N Sg Acc
 	"илемаш" V Ind Prt1 Sg1
@@ -9649,6 +9668,7 @@
 "<да>"
 	"да" CC
 "<моло>"
+	"моло" N Attr
 	"моло" Pron
 	"моло" Pron Indef Nom
 "<кугурак-шамычын>"
@@ -9698,6 +9718,8 @@
 "<чодыра>"
 	"чодыра" A Attr
 "<коклаш>"
+	"кок" N LocPl Ill
+	"кок" N LocPl Lat
 	"кокла" N Sg Ill
 	"кокла" N Sg Lat
 	"коклаш" Adv
@@ -9774,6 +9796,7 @@
 "<,>"
 	"," CLB
 "<моло>"
+	"моло" N Attr
 	"моло" Pron
 	"моло" Pron Indef Nom
 "<пакчасаскам>"
@@ -9859,6 +9882,7 @@
 "<,>"
 	"," CLB
 "<кудо>"
+	"кудо" N Attr
 	"кудо" Pron
 "<олмеш>"
 	"олмо" N Sg Lat
@@ -9905,6 +9929,7 @@
 	"ден" CC
 "<ӱшкыж>"
 	"ӱш" N Sg Ill PxSg3 So/CP
+	"ӱшкыж" N Attr
 "<шӱвыроҥым>"
 	"шӱвыроҥ" N Sg Acc
 "<кучылтыныт>"
@@ -10096,7 +10121,7 @@
 "<Андрий>"
 	"Андрий" ?
 "<чӱчӱ>"
-	"чӱчӱ" N Attr
+	"чӱчӱ" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -10142,7 +10167,7 @@
 "<,>"
 	"," CLB
 "<сандене>"
-	"сандене" Conj CC WORK
+	"сандене" CC CC WORK
 "<телым>"
 	"теле" N Sg Acc
 	"телым" Adv
@@ -10167,6 +10192,7 @@
 	"тайыл" A Attr
 "<сереш>"
 	"сер" N Sg Lat
+	"сере" N Sg Lat
 "<,>"
 	"," CLB
 "<памаш>"
@@ -10176,6 +10202,7 @@
 "<тораштак>"
 	"тора" N Sg Ine Foc/ak
 	"тора" N Sg Nom PxPl3 Foc/ak
+	"торашке" N Sg Ine Foc/ak
 	"тораште" Adv Foc/ak
 "<огыл>"
 	"улаш" V Neg Ind Prs Sg3
@@ -10203,7 +10230,7 @@
 "<омса>"
 	"омса" N Attr
 "<вел>"
-	"велаш" V ConNeg
+	"вел" N Attr
 "<пырдыжым>"
 	"пырдыж" N Sg Acc
 "<пырня>"
@@ -10301,12 +10328,13 @@
 	"," CLB
 "<садлан>"
 	"сад" N Sg Dat
-	"садлан" Conj CC WORK
+	"садлан" CC CC WORK
 	"садлан" Pron Pron Dem
 "<у>"
 	"у" A Attr
 "<илем>"
 	"илаш" V Ind Prs Sg1
+	"илем" N Attr
 "<кундемыште>"
 	"кундем" N Sg Ine
 "<шунан>"
@@ -10340,7 +10368,7 @@
 "<,>"
 	"," CLB
 "<мӱй>"
-	"мӱй" N Attr
+	"мӱй" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -10422,17 +10450,17 @@
 	"Йыван" N Prop Sem/Mal
 	"Йыван" N Prop Sem/Mal Attr
 "<Петя>"
-	"Петя" N N Prop Prop Sem/Mal
-	"Петя" N N Prop Prop Sem/Mal Attr
+	"Петя" N Prop Sem/Mal
+	"Петя" N Prop Sem/Mal Attr
 "<чӱчӱн>"
 	"чӱчӱ" N Sg Gen
 "<(>"
 	"(" PUNCT LEFT
 "<Петр>"
-	"Пётр" N N Prop Prop Sem/Mal
-	"Пётр" N N Prop Prop Sem/Mal Attr
+	"Пётр" N Prop Sem/Mal
+	"Пётр" N Prop Sem/Mal Attr
 "<Антроповын>"
-	"Антропов" N N Prop Prop Sem/Sur Sg Gen
+	"Антропов" N Prop Sem/Sur Sg Gen
 "<)>"
 	")" PUNCT RIGHT
 "<каласкалымышт>"
@@ -10463,7 +10491,7 @@
 "<,>"
 	"," CLB
 "<сандене>"
-	"сандене" Conj CC WORK
+	"сандене" CC CC WORK
 "<нуно>"
 	"нуно" Pron
 	"тудо" Pron Pers Pl3 Nom
@@ -10501,11 +10529,12 @@
 "<шеҥгелсе>"
 	"шеҥгелысе" A Err/Orth Attr
 "<изирак>"
-	"изирак" A Attr
+	"изи" A Comp
 "<эҥер>"
 	"эҥер" N Attr
 "<серыште>"
 	"сер" N Sg Ine
+	"сере" N Sg Ine
 	"серыш" N Sg Ine
 "<,>"
 	"," CLB
@@ -10753,7 +10782,7 @@
 "<лӱман>"
 	"лӱман" A Attr
 "<кугурак>"
-	"кугурак" A Attr
+	"кугу" A Comp
 "<эргыжлан>"
 	"эрге" N Sg Dat PxSg3 So/PC
 "<,>"
@@ -10846,7 +10875,7 @@
 "<гыч>"
 	"гыч" Adp Po
 "<изирак>"
-	"изирак" A Attr
+	"изи" A Comp
 "<кудым>"
 	"кудо" N Sg Acc
 "<чоҥен>"
@@ -10860,7 +10889,7 @@
 	"тыге" Adv
 	"тыге" Pcle
 "<кызытсе>"
-	"кызытсе" A Attr
+	"кызытсе" Ex/A Der/MWN N Attr
 "<Шумат>"
 	"шу" N Sg Acc Foc/at
 	"шу" Hom4 N Sg Acc Foc/at
@@ -11020,7 +11049,6 @@
 "<Тольык>"
 	"Тольык" N Prop Sem/Mal
 	"Тольык" N Prop Sem/Mal Attr
-	"только" Conj Err/Orth CC WORK
 "<ала-могай>"
 	"ала-могай" A Attr
 "<накаслан>"
@@ -11155,9 +11183,10 @@
 "<Марий>"
 	"марий" A Attr
 "<Олма>"
-	"олма" N Attr
+	"олма" A Attr
 "<уло>"
 	"улаш" V Ind Prs Sg3 Ext
+	"уло" N Attr
 "<Лаж>"
 	"Лаж" N Prop Sem/Plc Attr
 "<кундемлан>"
@@ -11239,7 +11268,8 @@
 	"." CLB
 
 "<Могай>"
-	"могай" A Attr
+	"могай" Pcle
+	"могай" Pron Interr
 "<илышым>"
 	"илаш" V Ind Prt1 Sg1
 	"илыш" N Sg Acc
@@ -11292,6 +11322,8 @@
 	"..." CLB
 
 "<А>"
+	"А" N ABBR
+	"а" N ABBR
 	"а" Pcle
 "<чынжым>"
 	"чын" N Sg Acc PxSg3 So/PC
@@ -11378,6 +11410,7 @@
 	"," CLB
 "<ала>"
 	"ала" CC
+	"ала" N Attr
 	"алаш" V Ind Prs Sg3
 "<Виче>"
 	"Виче" N Prop Attr
@@ -11407,6 +11440,7 @@
 "<умбакыже>"
 	"умбак" Adv Foc/Poss
 	"умбакыже" Adv
+	"умбакыже" N Attr
 "<Лаж>"
 	"Лаж" N Prop Sem/Plc Attr
 "<сер>"
@@ -11555,6 +11589,7 @@
 	"?" CLB
 
 "<Ала>"
+	"ала" N Attr
 	"ала" Pcle
 	"алаш" V Ind Prs Sg3
 "<кугезе>"
@@ -11677,7 +11712,7 @@
 "<палемдышым>"
 	"палемдаш" V Ind Prt1 Sg1
 "<вет>"
-	"вет" Conj CC WORK
+	"вет" CC CC WORK
 "<,>"
 	"," CLB
 "<мемнан>"
@@ -11707,7 +11742,7 @@
 "<,>"
 	"," CLB
 "<сандене>"
-	"сандене" Conj CC WORK
+	"сандене" CC CC WORK
 "<,>"
 	"," CLB
 "<илен-толын>"
@@ -11954,18 +11989,24 @@
 "<,>"
 	"," CLB
 "<Красная>"
-	"Красный" N N Prop Prop Sem/Fem
-	"Красный" N N Prop Prop Sem/Fem Attr
-	"Красный" N N Prop Prop Sem/Sur
-	"Красный" N N Prop Prop Sem/Sur Attr
+	"Красная" N Prop Sem/Fem
+	"Красная" N Prop Sem/Fem Attr
+	"Красная" N Prop Sem/Sur
+	"Красная" N Prop Sem/Sur Attr
+	"Красный" N Prop Sem/Fem
+	"Красный" N Prop Sem/Fem Attr
+	"Красный" N Prop Sem/Sur
+	"Красный" N Prop Sem/Sur Attr
 "<Олма>"
 	"олма" A Attr
 	"олма" N Sg Nom
 "<,>"
 	"," CLB
 "<Красная>"
-	"Красный" N N Prop Prop Sem/Fem Sg Nom
-	"Красный" N N Prop Prop Sem/Sur Sg Nom
+	"Красная" N Prop Sem/Fem Sg Nom
+	"Красная" N Prop Sem/Sur Sg Nom
+	"Красный" N Prop Sem/Fem Sg Nom
+	"Красный" N Prop Sem/Sur Sg Nom
 "<деревня>"
 	"деревня" ?
 "<манын>"
@@ -12037,6 +12078,7 @@
 "<,>"
 	"," CLB
 "<простала>"
+	"проста" Ex/A Der/MWN N LocPl Nom
 	"проста" Ex/A Der/MWN N Sg Cmpr
 "<чучшо>"
 	"чуч" Adv Foc/Poss
@@ -12228,7 +12270,7 @@
 	"адак" Pcle Foc/Poss
 	"адакше" Adv
 "<вет>"
-	"вет" Conj CC WORK
+	"вет" CC CC WORK
 "<кажне>"
 	"кажне" Pron Indef Nom
 "<тукымвож>"
@@ -12303,13 +12345,11 @@
 "<:>"
 	":" CLB
 "<эрге>"
-	"эр" N Sg Com
-	"эргаш" V Imprt Sg2
 	"эрге" N Sg Nom
 "<ден>"
 	"ден" CC
 "<ӱдыр>"
-	"ӱдыр" N Attr
+	"ӱдыр" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -12336,6 +12376,7 @@
 	"Лаймыр" N Prop Sem/Mal
 	"Лаймыр" N Prop Sem/Mal Attr
 "<кок>"
+	"кок" N Attr
 	"кок" Num Num Attr
 "<ийлан>"
 	"ий" N Sg Dat
@@ -12347,11 +12388,10 @@
 	"," CLB
 "<садлан>"
 	"сад" N Sg Dat
-	"садлан" Conj CC WORK
+	"садлан" CC CC WORK
 	"садлан" Pron Pron Dem
 "<шкенжым>"
 	"шке" Pron Refl Acc PxSg3
-	"шкен" Ex/A Der/MWN N Sg Acc PxSg3 So/PC
 "<шуко>"
 	"шуко" A Attr
 "<палышылан>"
@@ -12494,6 +12534,8 @@
 	"." CLB
 
 "<А>"
+	"А" N ABBR
+	"а" N ABBR
 	"а" Pcle
 "<ӱдырым>"
 	"ӱдыр" N Sg Acc
@@ -12527,7 +12569,7 @@
 	"." CLB
 
 "<Ӱдыр>"
-	"Ӱдыр" N Prop Attr
+	"Ӱдыр" N Attr
 	"ӱдыр" N Attr
 "<ий>"
 	"ий" N Attr
@@ -12552,10 +12594,7 @@
 "<деч>"
 	"деч" Adp Po
 "<шукырак>"
-	"шуке" A Comp
-	"шуко" A Comp
-	"шуко" Adv Comp
-	"шукырак" Adv
+	"шукырак" Ex/A Der/MWN N Sg Nom
 "<.>"
 	"." CLB
 
@@ -12653,6 +12692,7 @@
 	"," CLB
 "<кузе>"
 	"кузе" Adv
+	"кузе" N Attr
 	"кузе" Pcle
 	"кузе" Pron Interr
 "<йомакыште>"
@@ -12665,6 +12705,7 @@
 "<,>"
 	"," CLB
 "<кок>"
+	"кок" N Attr
 	"кок" Num Num Attr
 "<корнывожыш>"
 	"корнывож" N Sg Ill
@@ -12759,8 +12800,7 @@
 "<дене>"
 	"дене" Adp Po
 "<кайыман>"
-	"кайыме" Ex/A Der/MWN Ex/N Der/Poss Attr
-	"каяш" Ex/V Pass Prc Der/Nom Ex/N Der/Poss Attr
+	"кайыме" Ex/A Der/MWN Ex/N Der/Poss Der/MWN N Sg Nom
 	"каяш" V Inf Nec
 "<.>"
 	"." CLB
@@ -12779,8 +12819,7 @@
 "<пуа>"
 	"пуаш" V Ind Prs Sg3
 "<Лаймыр>"
-	"Лаймыр" N Prop Sem/Mal
-	"Лаймыр" N Prop Sem/Mal Attr
+	"Лаймыр" N Prop Sem/Mal Sg Nom
 "<.>"
 	"." CLB
 
@@ -13167,6 +13206,7 @@
 	"," CLB
 "<тораште>"
 	"тора" N Sg Ine
+	"торашке" N Sg Ine
 	"тораште" Adv
 "<йыл-йыл>"
 	"йыл-йыл" Interj Interj Descr
@@ -13204,14 +13244,14 @@
 "<,>"
 	"," CLB
 "<то>"
-	"то" Conj CC WORK
+	"то" CC CC WORK
 	"то" Pron Pron Ind
 "<иземеш>"
 	"иземаш" V Ind Prs Sg3
 "<,>"
 	"," CLB
 "<то>"
-	"то" Conj CC WORK
+	"то" CC CC WORK
 	"то" Pron Pron Ind
 "<кугемеш>"
 	"кугемаш" V Ind Prs Sg3
@@ -13439,7 +13479,7 @@
 "<Керемет>"
 	"керемет" A Attr
 "<кугыза>"
-	"кугыза" N Attr
+	"кугыза" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -13528,13 +13568,14 @@
 "<—>"
 	"—" PUNCT
 "<Пуро>"
+	"Пуро" N Prop Sem/Sur Sg Nom
 	"пураш" V Ind Prt1 Sg3
 	"пураш" V Imprt Sg2
 "<.>"
 	"." CLB
 
 "<Пуро>"
-	"Пуро" N N Prop Prop Sem/Sur Sg Nom
+	"Пуро" N Prop Sem/Sur Sg Nom
 	"пураш" V Ind Prt1 Sg3
 	"пураш" V Imprt Sg2
 "<келгышкырак>"
@@ -13603,7 +13644,7 @@
 	"." CLB
 
 "<Ӱдырым>"
-	"Ӱдыр" N Prop Sg Acc
+	"Ӱдыр" N Sg Acc
 	"ӱдыр" N Sg Acc
 "<кучен>"
 	"кучаш" V Ind Prt2 Sg3
@@ -13785,6 +13826,7 @@
 "<Тораште>"
 	"Тораш" N Prop Sem/Mal Sg Ine
 	"тора" N Sg Ine
+	"торашке" N Sg Ine
 	"тораште" Adv
 "<,>"
 	"," CLB
@@ -14140,7 +14182,7 @@
 "<Манам>"
 	"манаш" V Ind Prs Sg1
 "<вет>"
-	"вет" Conj CC WORK
+	"вет" CC CC WORK
 "<,>"
 	"," CLB
 "<ит>"
@@ -14439,11 +14481,10 @@
 	"икте" Num Num Attr
 "<шоҥго>"
 	"шоҥго" A Attr
-	"шоҥго" N Attr
 "<кува>"
 	"кува" A Attr
 "<шинча>"
-	"шинчаш" V Ind Prs Sg3
+	"шинча" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -14552,7 +14593,7 @@
 "<ойла>"
 	"ойлаш" V Ind Prs Sg3
 "<кува>"
-	"кува" A Attr
+	"кува" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -14859,7 +14900,6 @@
 "<сӧрвала>"
 	"сӧрвалаш" V Ind Prs Sg3
 "<икте>"
-	"икте" Num Num Attr
 	"икте" Num Num Sg Nom
 	"икте" Pron Pron Ind
 "<.>"
@@ -15035,6 +15075,7 @@
 	"," CLB
 "<печке>"
 	"печкаш" V Imprt Sg2
+	"печке" N Attr
 "<кӧргыш>"
 	"кӧрге" N Sg Ill
 	"кӧргыш" Adv
@@ -15060,6 +15101,7 @@
 	"печкаш" V Imprt Sg2
 "<рожысо>"
 	"рож" Ex/N Der/Rel Attr
+	"рожо" Ex/N Der/Rel Attr
 "<пашкарым>"
 	"пашкар" N Sg Acc
 "<чумал>"
@@ -15089,13 +15131,13 @@
 "<Рвезе>"
 	"рвезе" N Sg Nom
 "<ни>"
-	"ни" Conj CC WORK
+	"ни" CC CC WORK
 "<шӱла>"
 	"шӱлаш" V Ind Prs Sg3
 "<,>"
 	"," CLB
 "<ни>"
-	"ни" Conj CC WORK
+	"ни" CC CC WORK
 "<уке>"
 	"уке" Adv
 "<,>"
@@ -15126,6 +15168,7 @@
 "<,>"
 	"," CLB
 "<шыл>"
+	"шыл" N Attr
 	"шылаш" V Imprt Sg2
 "<тамым>"
 	"там" N Sg Acc
@@ -15152,6 +15195,7 @@
 	"," CLB
 "<печке>"
 	"печкаш" V Imprt Sg2
+	"печке" N Attr
 "<кӧргыш>"
 	"кӧрге" N Sg Ill
 	"кӧргыш" Adv
@@ -15190,6 +15234,7 @@
 "<уло>"
 	"улаш" V Ind Prs Sg3 Ext
 	"уло" A Attr
+	"уло" N Attr
 "<кертмыжым>"
 	"керташ" Ex/V Pass Prc Der/Nom N Sg Acc PxSg3 So/PC
 "<кычкырал>"
@@ -15315,6 +15360,8 @@
 	"." CLB
 
 "<А>"
+	"А" N ABBR
+	"а" N ABBR
 	"а" Pcle
 "<тушто>"
 	"ту" N Sg Ine
@@ -15385,9 +15432,9 @@
 "<тидак>"
 	"тиде" Pron Dem Sg Nom Foc/ak
 "<веле>"
-	"веле" Ex/A Der/MWN N Attr
+	"веле" A Attr
 "<кӱлеш>"
-	"кӱлеш" A Attr
+	"кӱлаш" V Ind Prs Sg3
 "<.>"
 	"." CLB
 
@@ -15469,6 +15516,7 @@
 	"—" PUNCT
 "<тораште>"
 	"тора" N Sg Ine
+	"торашке" N Sg Ine
 	"тораште" Adv
 "<ший>"
 	"ший" A Attr
@@ -15871,6 +15919,7 @@
 "<серыш>"
 	"сер" N Sg Ill
 	"сераш" V Ind Prt1 Sg3
+	"сере" N Sg Ill
 	"серыш" N Sg Nom
 "<лектын>"
 	"лекташ" V Ger Gen
@@ -15939,6 +15988,8 @@
 	"." CLB
 
 "<А>"
+	"А" N ABBR
+	"а" N ABBR
 	"а" Pcle
 "<шопке>"
 	"шопке" N Attr
@@ -15977,6 +16028,7 @@
 	"деч" Adp Po
 "<тораште>"
 	"тора" N Sg Ine
+	"торашке" N Sg Ine
 	"тораште" Adv
 "<йӱлат>"
 	"йӱлаш" V Ind Prs Pl3
@@ -15986,21 +16038,21 @@
 "<Тылзе>"
 	"тылзе" N Sg Nom
 "<то>"
-	"то" Conj CC WORK
+	"то" CC CC WORK
 	"то" Pron Pron Ind
 "<кугемеш>"
 	"кугемаш" V Ind Prs Sg3
 "<,>"
 	"," CLB
 "<то>"
-	"то" Conj CC WORK
+	"то" CC CC WORK
 	"то" Pron Pron Ind
 "<иземеш>"
 	"иземаш" V Ind Prs Sg3
 "<,>"
 	"," CLB
 "<то>"
-	"то" Conj CC WORK
+	"то" CC CC WORK
 	"то" Pron Pron Ind
 "<йӧршын>"
 	"йӧршын" Adv
@@ -16018,6 +16070,7 @@
 	"ер" N Attr
 "<серыште>"
 	"сер" N Sg Ine
+	"сере" N Sg Ine
 	"серыш" N Sg Ine
 "<кызыт>"
 	"кызыт" Adv
@@ -16112,16 +16165,16 @@
 	"¶" CLB
 
 "<Кудряшов>"
-	"Кудряшов" N N Prop Prop Sem/Mal
-	"Кудряшов" N N Prop Prop Sem/Mal Attr
-	"Кудряшов" N N Prop Prop Sem/Sur
-	"Кудряшов" N N Prop Prop Sem/Sur Attr
+	"Кудряшов" N Prop Sem/Mal
+	"Кудряшов" N Prop Sem/Mal Attr
+	"Кудряшов" N Prop Sem/Sur
+	"Кудряшов" N Prop Sem/Sur Attr
 "<Михаил>"
-	"Михаил" N N Prop Prop Sem/Mal
-	"Михаил" N N Prop Prop Sem/Mal Attr
+	"Михаил" N Prop Sem/Mal
+	"Михаил" N Prop Sem/Mal Attr
 "<Иванович>"
-	"Иванович" N N Prop Prop Sem/Sur
-	"Иванович" N N Prop Prop Sem/Sur Attr
+	"Иванович" N Prop Sem/Sur
+	"Иванович" N Prop Sem/Sur Attr
 "<Курыкмарий>"
 	"курыкмарий" N Attr
 "<районысо>"
@@ -16157,7 +16210,7 @@
 	"Козьмодемьянск" N Prop Sem/Plc Attr
 "<оласе>"
 	"ола" Ex/N Der/Rel Attr
-	"ола" Ex/N Der/Rel Err/Orth Attr
+	"оласе" N Attr
 "<заводышто>"
 	"завод" N Sg Ine
 "<пашам>"
@@ -16382,6 +16435,7 @@
 "<да>"
 	"да" CC
 "<моло>"
+	"моло" N Attr
 	"моло" Pron
 	"моло" Pron Indef Nom
 "<лудыш>"
@@ -16420,7 +16474,6 @@
 "<Эл>"
 	"эл" N Attr
 "<культурын>"
-	"культур" N Err/Orth Sg Gen
 	"культур" N Sg Gen
 "<сулло>"
 	"сулло" A Attr
@@ -16435,21 +16488,21 @@
 "<ушем>"
 	"ушаш" V Ind Prs Sg1
 "<член>"
-	"член" N Attr
+	"член" N Sg Nom
 "<.>"
 	"." CLB
 
 "<Акшиков>"
-	"Акшиков" N N Prop Prop Sem/Mal
-	"Акшиков" N N Prop Prop Sem/Mal Attr
-	"Акшиков" N N Prop Prop Sem/Sur
-	"Акшиков" N N Prop Prop Sem/Sur Attr
+	"Акшиков" N Prop Sem/Mal
+	"Акшиков" N Prop Sem/Mal Attr
+	"Акшиков" N Prop Sem/Sur
+	"Акшиков" N Prop Sem/Sur Attr
 "<Александр>"
-	"Александр" N N Prop Prop Sem/Sur
-	"Александр" N N Prop Prop Sem/Sur Attr
+	"Александр" N Prop Sem/Sur
+	"Александр" N Prop Sem/Sur Attr
 "<Геннадьевич>"
-	"Геннадьевич" N N Prop Prop Sem/Sur
-	"Геннадьевич" N N Prop Prop Sem/Sur Attr
+	"Геннадьевич" N Prop Sem/Sur
+	"Геннадьевич" N Prop Sem/Sur Attr
 "<Шернур>"
 	"Шернур" N Prop Attr
 	"Шернур" N Prop Sem/Plc Attr
@@ -16558,7 +16611,7 @@
 "<Марий>"
 	"марий" A Attr
 "<кугыжаныш>"
-	"кугыжан" Ex/A Der/MWN N Sg Ill
+	"кугыжаныш" N Attr
 "<университетыште>"
 	"университет" N Sg Ine
 "<заочно>"
@@ -16629,17 +16682,17 @@
 	"." CLB
 
 "<Соловьев>"
-	"Соловьев" N N Prop Prop Sem/Mal
-	"Соловьев" N N Prop Prop Sem/Mal Attr
-	"Соловьев" N N Prop Prop Sem/Sur
-	"Соловьев" N N Prop Prop Sem/Sur Attr
-	"Соловьёв" N N Prop Prop Sem/Mal
-	"Соловьёв" N N Prop Prop Sem/Mal Attr
-	"Соловьёв" N N Prop Prop Sem/Sur
-	"Соловьёв" N N Prop Prop Sem/Sur Attr
+	"Соловьев" N Prop Sem/Mal
+	"Соловьев" N Prop Sem/Mal Attr
+	"Соловьев" N Prop Sem/Sur
+	"Соловьев" N Prop Sem/Sur Attr
+	"Соловьёв" N Prop Sem/Mal
+	"Соловьёв" N Prop Sem/Mal Attr
+	"Соловьёв" N Prop Sem/Sur
+	"Соловьёв" N Prop Sem/Sur Attr
 "<Юрий>"
-	"Юрий" N N Prop Prop Sem/Mal
-	"Юрий" N N Prop Prop Sem/Mal Attr
+	"Юрий" N Prop Sem/Mal
+	"Юрий" N Prop Sem/Mal Attr
 "<Ильич>"
 	"Ильич" N Prop Sem/Mal
 	"Ильич" N Prop Sem/Mal Attr
@@ -16761,11 +16814,9 @@
 	"." CLB
 
 "<Икмыняр>"
-	"икмыняр" Adv
-	"икмыняр" Pron Pron Ind
 	"икмыняре" A Attr
 "<ий>"
-	"ияш" V ConNeg
+	"ий" N Attr
 "<Чукоткышто>"
 	"Чукотка" N Prop Sem/Plc Sg Ine
 "<«>"
@@ -16815,6 +16866,7 @@
 "<»>"
 	"»" PUNCT RIGHT
 "<журнал>"
+	"журнал" N Attr
 	"журнал" N Sg Nom
 "<редакцийлаште>"
 	"редакций" N LocPl Ine
@@ -16836,7 +16888,7 @@
 "<ГУКП>"
 	"ГУКП" N ACR Sg Nom
 "<директор>"
-	"директор" N Attr
+	"директор" N Sg Nom
 "<.>"
 	"." CLB
 
@@ -16942,7 +16994,6 @@
 "<Эл>"
 	"эл" N Attr
 "<культурын>"
-	"культур" N Err/Orth Sg Gen
 	"культур" N Sg Gen
 "<сулло>"
 	"сулло" A Attr
@@ -16953,7 +17004,7 @@
 "<республикысе>"
 	"республикысе" A Attr
 "<Кугыжаныш>"
-	"кугыжан" Ex/A Der/MWN N Sg Ill
+	"кугыжаныш" N Attr
 "<премийын>"
 	"премий" N Sg Gen
 "<лауреатше>"
@@ -16973,8 +17024,9 @@
 	"писатель" N Attr
 "<ушем>"
 	"ушаш" V Ind Prs Sg1
+	"ушем" N Attr
 "<член>"
-	"член" N Attr
+	"член" N Sg Nom
 "<.>"
 	"." CLB
 

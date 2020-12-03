@@ -1190,6 +1190,7 @@ MAP:subj @SUBJ> TARGET Nom (*1 V BARRIER N + Nom);
 MAP:vfin @+FMAINV TARGET Ind ;
 MAP:vifin @-FMAINV TARGET ConNeg ;
 
+MAP:advlGer (@ADVL>) TARGET Ger (1 VFIN);
 
 
 
