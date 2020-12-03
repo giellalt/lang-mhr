@@ -38,7 +38,7 @@
 : \n
 
 "<Кажне>"
-	"кажне" Pron Indef Nom <W:0.0> @X
+	"кажне" Pron Indef Nom <W:0.0> @>N
 : 
 "<предприятий>"
 	"предприятий" N Sg Nom <W:0.0> @SUBJ>
@@ -272,11 +272,11 @@
 	"вий" N Sg Nom PxSg3 <W:0.0> @<SUBJ
 : 
 "<ешаралтын>"
-	"ешаралташ" V Ger Gen <W:0.0> @X
-	"ешараш" V Der/Refl Ger Gen <W:0.0> @X
+	"ешаралташ" V Ger Gen <W:0.0> @ADVL>
+	"ешараш" V Der/Refl Ger Gen <W:0.0> @ADVL>
 : 
 "<манын>"
-	"манаш" V Ger Gen <W:0.0> @X
+	"манаш" V Ger Gen <W:0.0> @ADVL>
 : 
 "<моктанен>"
 	"моктанаш" V Ger Gen <W:0.0> @ADVL>
@@ -887,6 +887,7 @@
 	"палемаш" V Neg Prc Der/NomNeg N Sg Acc <W:0.0> @OBJ>
 : 
 "<ойырен>"
+	"ойыраш" V Ger Gen <W:0.0> @ADVL>
 	"ойыраш" V Ind Prt2 Sg3 <W:0.0> @+FMAINV
 : 
 "<ончыктыде>"
@@ -1630,7 +1631,7 @@
 	"редактор" N Sg Nom PxSg3 <W:0.0> @SUBJ>
 : 
 "<моктаныде>"
-	"моктанаш" V Ger Abe <W:0.0> @X
+	"моктанаш" V Ger Abe <W:0.0> @ADVL>
 : 
 "<палемден>"
 	"палемдаш" V Ger Gen <W:0.0> @>N
@@ -3117,12 +3118,13 @@
 : 
 "<гае>"
 	"гае" A Attr <W:0.0> @>N
+	"гае" A Der/MWN N Sg Nom <W:0.0> @SUBJ>
 	"гае" Adv <W:0.0> @ADVL>
 "<,>"
 	"," CLB <W:0.0>
 : 
 "<ала-можо>"
-	"ала-мо" Pron Indef Nom Foc/Poss <W:0.0> @SUBJ>
+	"ала-мо" Pron Indef Nom Foc/Poss <W:0.0> @>N
 : 
 "<шӱмым>"
 	"шӱм" N Sg Acc <W:0.0> @OBJ>
@@ -3838,7 +3840,7 @@
 	"сайын" Adv <W:0.0> @ADVL>
 : 
 "<тунем>"
-	"тунемаш" V Ger Gen <W:0.0> @X
+	"тунемаш" V Ger Gen <W:0.0> @ADVL>
 : 
 "<пытарымеке>"
 	"пытараш" V Ger Prf <W:0.0> @X
@@ -4182,7 +4184,7 @@
 	"поло" N Sg Ill <W:0.0> @ADVL>
 : 
 "<лийын>"
-	"лияш" V Ger Gen <W:0.0> @X
+	"лияш" V Ger Gen <W:0.0> @ADVL>
 : 
 "<кертын>"
 	"керташ" V Ger Gen <W:0.0> @X
@@ -6495,7 +6497,7 @@
 : 
 
 "<Иктаж-кӧ>"
-	"иктаж-кӧ" Pron Indef Nom <W:0.0> @SUBJ>
+	"иктаж-кӧ" Pron Indef Nom <W:0.0> @>N
 : 
 "<мӧҥгыжӧ>"
 	"мӧҥгӧ" N Sg Nom PxSg3 <W:0.0> @SUBJ>
@@ -9228,7 +9230,7 @@
 	"илыше" N Sg Nom <W:0.0> @HNOUN
 : 
 "<кажне>"
-	"кажне" Pron Indef Nom <W:0.0> @X
+	"кажне" Pron Indef Nom <W:0.0> @>N
 : 
 "<еҥлан>"
 	"еҥ" N Sg Dat <W:0.0> @X
@@ -9854,6 +9856,7 @@
 : 
 "<моло>"
 	"моло" N Attr <W:0.0> @>N
+	"моло" Pron Indef Nom <W:0.0> @>N
 : 
 "<кундемлаштат>"
 	"кундем" N Sg Cmpr PxPl3 So/CP Foc/at <W:0.0> @HNOUN
@@ -10303,7 +10306,7 @@
 	"олма" N Sg Nom <W:0.0> @SUBJ>
 : 
 "<лийын>"
-	"лияш" V Ger Gen <W:0.0> @X
+	"лияш" V Ger Gen <W:0.0> @ADVL>
 : 
 "<кертын>"
 	"керташ" V Ger Gen <W:0.0> @X
@@ -11388,7 +11391,7 @@
 	"олмо" N Sg Acc <W:0.0> @OBJ>
 : 
 "<сеҥен>"
-	"сеҥаш" V Ger Gen <W:0.0> @X
+	"сеҥаш" V Ger Gen <W:0.0> @ADVL>
 : 
 "<кертын>"
 	"керташ" V Ger Gen <W:0.0> @ADVL>
@@ -11948,7 +11951,7 @@
 : 
 "<моло>"
 	"моло" N Attr <W:0.0> @>N
-	"моло" Pron Indef Nom <W:0.0> @SUBJ>
+	"моло" Pron Indef Nom <W:0.0> @>N
 : 
 "<родо-тукымымат>"
 	"родо-тукым" N Sg Acc Foc/at <W:0.0> @OBJ>
@@ -12717,7 +12720,7 @@
 : 
 "<моло>"
 	"моло" N Attr <W:0.0> @>N
-	"моло" Pron Indef Nom <W:0.0> @<SUBJ
+	"моло" Pron Indef Nom <W:0.0> @>N
 : 
 "<кугурак-шамычын>"
 	"кугурак" A Der/MWN N Pl Gen <W:0.0> @>N
@@ -12880,7 +12883,7 @@
 : 
 "<моло>"
 	"моло" N Attr <W:0.0> @>N
-	"моло" Pron Indef Nom <W:0.0> @SUBJ>
+	"моло" Pron Indef Nom <W:0.0> @>N
 : 
 "<пакчасаскам>"
 	"пакчасаска" N Sg Acc <W:0.0> @OBJ>
@@ -14073,7 +14076,7 @@
 	"ваш-ваш" Adv <W:0.0> @ADVL>
 : 
 "<полшен>"
-	"полшаш" V Ger Gen <W:0.0> @X
+	"полшаш" V Ger Gen <W:0.0> @ADVL>
 : 
 "<шуктен>"
 	"шукташ" V Ger Gen <W:0.0> @ADVL>
@@ -14700,7 +14703,7 @@
 	"," CLB <W:0.0>
 : 
 "<шарлен>"
-	"шарлаш" V Ger Gen <W:0.0> @X
+	"шарлаш" V Ger Gen <W:0.0> @ADVL>
 : 
 "<кертын>"
 	"керташ" V Ger Gen <W:0.0> @X
@@ -15191,6 +15194,7 @@
 	"руш" N Pl Nom <W:0.0> @SUBJ>
 : 
 "<толын>"
+	"толаш" V Ger Gen <W:0.0> @ADVL>
 	"толаш" V Ind Prt2 Sg3 <W:0.0> @+FMAINV
 : 
 "<верланымеке>"
@@ -16134,7 +16138,7 @@
 	"вет" CC CC WORK <W:0.0> @X
 : 
 "<кажне>"
-	"кажне" Pron Indef Nom <W:0.0> @SUBJ>
+	"кажне" Pron Indef Nom <W:0.0> @>N
 : 
 "<тукымвож>"
 	"тукымвож" N Attr <W:0.0> @>N
@@ -19445,6 +19449,7 @@
 	"Лаймыр" N Prop Sg Nom <W:0.0> @SUBJ>
 : 
 "<куанен>"
+	"куанаш" V Ger Gen <W:0.0> @ADVL>
 	"куанаш" V Ind Prt2 Sg3 <W:0.0> @+FMAINV
 	"куанен" Adv <W:0.0> @ADVL>
 : 
@@ -21576,6 +21581,7 @@
 : 
 "<моло>"
 	"моло" N Attr <W:0.0> @>N
+	"моло" Pron Indef Nom <W:0.0> @>N
 : 
 "<лудыш>"
 	"лудыш" N Attr <W:0.0> @>N
