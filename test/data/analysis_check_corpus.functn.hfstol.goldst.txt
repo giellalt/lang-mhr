@@ -27,7 +27,7 @@
 	"." CLB
 
 "<Кажне>"
-	"кажне" Pron Indef Nom @X
+	"кажне" Pron Indef Nom @>N
 "<предприятий>"
 	"предприятий" N Sg Nom @SUBJ>
 "<,>"
@@ -192,9 +192,10 @@
 "<вийже>"
 	"вий" N Sg Nom PxSg3 @<SUBJ
 "<ешаралтын>"
-	"ешараш" Ex/V Der/Refl Ger Gen
+	"ешаралташ" V Ger Gen @ADVL>
+	"ешараш" Ex/V Der/Refl Ger Gen @ADVL>
 "<манын>"
-	"манаш" V Ger Gen @X
+	"манаш" V Ger Gen @ADVL>
 "<моктанен>"
 	"моктанаш" V Ger Gen @ADVL>
 "<она>"
@@ -639,6 +640,7 @@
 "<палемдымым>"
 	"палемаш" Ex/V Neg Prc Der/NomNeg N Sg Acc @OBJ>
 "<ойырен>"
+	"ойыраш" V Ger Gen @ADVL>
 	"ойыраш" V Ind Prt2 Sg3 @+FMAINV
 "<ончыктыде>"
 	"ончыкташ" V Ger Abe @ADVL>
@@ -1176,7 +1178,7 @@
 "<редакторжо>"
 	"редактор" N Sg Nom PxSg3 @SUBJ>
 "<моктаныде>"
-	"моктанаш" V Ger Abe @X
+	"моктанаш" V Ger Abe @ADVL>
 "<палемден>"
 	"палемдаш" V Ger Gen @>N
 "<кодыш>"
@@ -2269,10 +2271,11 @@
 "<гае>"
 	"гае" A Attr @>N
 	"гае" Adv @ADVL>
+	"гае" Ex/A Der/MWN N Sg Nom @SUBJ>
 "<,>"
 	"," CLB
 "<ала-можо>"
-	"ала-мо" Pron Indef Nom Foc/Poss @SUBJ>
+	"ала-мо" Pron Indef Nom Foc/Poss @>N
 "<шӱмым>"
 	"шӱм" N Sg Acc @OBJ>
 "<иша>"
@@ -2812,7 +2815,7 @@
 "<сайын>"
 	"сайын" Adv @ADVL>
 "<тунем>"
-	"тунемаш" V Ger Gen @X
+	"тунемаш" V Ger Gen @ADVL>
 "<пытарымеке>"
 	"пытараш" V Ger Prf @X
 "<,>"
@@ -3062,7 +3065,7 @@
 "<полыш>"
 	"поло" N Sg Ill @ADVL>
 "<лийын>"
-	"лияш" V Ger Gen @X
+	"лияш" V Ger Gen @ADVL>
 "<кертын>"
 	"керташ" V Ger Gen @X
 "<огыл>"
@@ -4800,7 +4803,7 @@
 	"?" CLB
 
 "<Иктаж-кӧ>"
-	"иктаж-кӧ" Pron Indef Nom @SUBJ>
+	"иктаж-кӧ" Pron Indef Nom @>N
 "<мӧҥгыжӧ>"
 	"мӧҥгӧ" N Sg Nom PxSg3 @SUBJ>
 "<пурта>"
@@ -6850,7 +6853,7 @@
 "<илыше>"
 	"илыше" N Sg Nom @HNOUN
 "<кажне>"
-	"кажне" Pron Indef Nom @X
+	"кажне" Pron Indef Nom @>N
 "<еҥлан>"
 	"еҥ" N Sg Dat @X
 "<тудо>"
@@ -7300,6 +7303,7 @@
 	"нерген" Adp Po @ADVL>
 "<моло>"
 	"моло" N Attr @>N
+	"моло" Pron Indef Nom @>N
 "<кундемлаштат>"
 	"кундем" N Sg Cmpr PxPl3 So/CP Foc/at @HNOUN
 "<тыгаяк>"
@@ -7624,7 +7628,7 @@
 "<Олма>"
 	"олма" N Sg Nom @SUBJ>
 "<лийын>"
-	"лияш" V Ger Gen @X
+	"лияш" V Ger Gen @ADVL>
 "<кертын>"
 	"керташ" V Ger Gen @X
 "<огыл>"
@@ -8421,7 +8425,7 @@
 "<олмым>"
 	"олмо" N Sg Acc @OBJ>
 "<сеҥен>"
-	"сеҥаш" V Ger Gen @X
+	"сеҥаш" V Ger Gen @ADVL>
 "<кертын>"
 	"керташ" V Ger Gen @ADVL>
 "<огытыл>"
@@ -8831,7 +8835,7 @@
 	"," CLB
 "<моло>"
 	"моло" N Attr @>N
-	"моло" Pron Indef Nom @SUBJ>
+	"моло" Pron Indef Nom @>N
 "<родо-тукымымат>"
 	"родо-тукым" N Sg Acc Foc/at @OBJ>
 "<пырля>"
@@ -9389,7 +9393,7 @@
 	"да" CC @CVP @CNP
 "<моло>"
 	"моло" N Attr @>N
-	"моло" Pron Indef Nom @<SUBJ
+	"моло" Pron Indef Nom @>N
 "<кугурак-шамычын>"
 	"кугурак" Ex/A Der/MWN N Pl Gen @>N
 "<мутышт>"
@@ -9513,7 +9517,7 @@
 	"," CLB
 "<моло>"
 	"моло" N Attr @>N
-	"моло" Pron Indef Nom @SUBJ>
+	"моло" Pron Indef Nom @>N
 "<пакчасаскам>"
 	"пакчасаска" N Sg Acc @OBJ>
 "<шынден>"
@@ -10388,7 +10392,7 @@
 	"ваш-ваш" Adv @ADVL>
 	"ваш-ваш" Ex/A Der/MWN N Sg Nom @SUBJ>
 "<полшен>"
-	"полшаш" V Ger Gen @X
+	"полшаш" V Ger Gen @ADVL>
 "<шуктен>"
 	"шукташ" V Ger Gen @ADVL>
 "<шогеныт>"
@@ -10857,7 +10861,7 @@
 "<,>"
 	"," CLB
 "<шарлен>"
-	"шарлаш" V Ger Gen @X
+	"шарлаш" V Ger Gen @ADVL>
 "<кертын>"
 	"керташ" V Ger Gen @X
 "<огыл>"
@@ -11217,6 +11221,7 @@
 "<руш-шамыч>"
 	"руш" N Pl Nom @SUBJ>
 "<толын>"
+	"толаш" V Ger Gen @ADVL>
 	"толаш" V Ind Prt2 Sg3 @+FMAINV
 "<верланымеке>"
 	"верланаш" V Ger Prf @X
@@ -11920,7 +11925,7 @@
 "<вет>"
 	"вет" CC CC WORK @X
 "<кажне>"
-	"кажне" Pron Indef Nom @SUBJ>
+	"кажне" Pron Indef Nom @>N
 "<тукымвож>"
 	"тукымвож" N Attr @>N
 "<шке>"
@@ -14385,6 +14390,7 @@
 "<Лаймыр>"
 	"Лаймыр" N Prop Sg Nom @SUBJ>
 "<куанен>"
+	"куанаш" V Ger Gen @ADVL>
 	"куанаш" V Ind Prt2 Sg3 @+FMAINV
 	"куанен" Adv @ADVL>
 "<кычкырал>"
@@ -15981,6 +15987,7 @@
 	"да" CC @CVP @CNP
 "<моло>"
 	"моло" N Attr @>N
+	"моло" Pron Indef Nom @>N
 "<лудыш>"
 	"лудыш" N Attr @>N
 "<книга>"
