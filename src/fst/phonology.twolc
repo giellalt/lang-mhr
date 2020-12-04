@@ -556,3 +556,8 @@ Rules
 ! just to see whether other tests pass:
 !!€ а
 !!€ б
+
+
+"Only optionalise soft sign after consonant"
+ʼ:0 <=> :Cns _ ;
+
