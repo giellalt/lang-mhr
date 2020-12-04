@@ -561,6 +561,6 @@ Rules
 !!€ б
 
 
-"Only optionalise soft sign after consonant"
-ʼ:0 <=> :Cns _ ;
-
+!"Only optionalise soft sign after consonant"
+!ʼ:0 <=> :Cns _ ;
+! no need 2020-12-04
