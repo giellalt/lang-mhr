@@ -20,5 +20,6 @@ do
  do
    echo "${lemma}${form}" | $LOOKUP $GTLANGS/lang-mhr/src/generator-gt-norm.xfst
  done
+ rm -f $L_FILE
 done
 
