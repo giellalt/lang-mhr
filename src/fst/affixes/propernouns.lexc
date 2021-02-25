@@ -36,6 +36,9 @@ LEXICON PropNameMaleDer-J-0Evich !!= * @CODE@
              :евна PROP_KUDO_PATRFEM ;
              :й    PROP_KAL_MAL      ;
 
+LEXICON PROP-PATR-MAL_END-IN-CH/DZ ! from urj-Cyrl-propernouns.lexc
+ PROP_OSH_PATRMAL ;
+
 LEXICON PropNameMaleDer-IJ-Y0Evich !!= * @CODE@
 ! +Orth/Colloq:ьич   PROP_OSH_PATRMAL   ;
              :ьич   PROP_OSH_PATRMAL   ;
