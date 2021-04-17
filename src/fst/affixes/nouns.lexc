@@ -1,8 +1,8 @@
-!! !!!Noun inflection
+!! # Noun inflection
 ! ---------------
 !! Meadow Mari noun inflection
 
-!! !!a final lexica
+!! ## a final lexica
 
 
 
@@ -11,7 +11,7 @@
 !! we should revisit this in the lexicon eventually - classifying postpositions into those that
 !! take Px and those that do not.
 
-!! Also here: some adverbs that take possessive suffixes, like ӱстембалне ''on the table'' > ӱстембалнем ''on my table''
+!! Also here: some adverbs that take possessive suffixes, like ӱстембалне *on the table* > ӱстембалнем *on my table*
 
 
 LEXICON N_  !!= * @CODE@ redirects to N-ava_01
@@ -310,10 +310,10 @@ LEXICON N-OLD-ORTH-SG-NOM_  !!= * @CODE@
 
 
 
-!! !! DECLENSION 
+!! DECLENSION 
 
 
-!! !Case suffixes
+!! ### Case suffixes
 !! Each case-number-person has its own lexicon.
 
 LEXICON N-SG-NOM  !!= * @CODE@
@@ -437,7 +437,7 @@ LEXICON N-PL-ABE !!= * @CODE@
  +Pl+Abe:%-влакде  K ;
  +Pl+Abe:%-шамычде K ;
 
-!! !Sg Sg1
+!! ### Sg Sg1
 !! Here starts the Px stuff
 
 
@@ -478,7 +478,7 @@ LEXICON N-SG-PxSg1-LAT !!= * @CODE@
 LEXICON N-SG-PxSg1-ABE !!= * @CODE@
  +Sg+Abe+PxSg1+So/PC:%>Е2мде K ; !NB_PX_CX
 
-!! !Pl Sg1
+!! ### Pl Sg1
 LEXICON N-PL-PxSg1-NOM !!= * @CODE@
  N-PL-PxSg1-NOM_NB-first ;
  +Pl+Nom+PxSg1+So/PN:%>Е2м%-влак  K ; !PX_NB_CX
@@ -575,7 +575,7 @@ LEXICON N-PL-PxSg1-ABE_NB-first !!= * @CODE@
  +Pl+Abe+PxSg1+So/NPC:%-влакемде  K ; !NB_PX_CX
  +Pl+Abe+PxSg1+So/NPC:%-шамычемде K ; !NB_PX_CX
 
-!! !Sg Sg2
+!! ### Sg Sg2
 LEXICON N-SG-PxSg2-NOM !!= * @CODE@
  +Sg+Nom+PxSg2:%>Е2т K ;
 
@@ -612,7 +612,7 @@ LEXICON N-SG-PxSg2-LAT !!= * @CODE@
 LEXICON N-SG-PxSg2-ABE !!= * @CODE@
  +Sg+Abe+PxSg2+So/PC:%>Е2тде K ; !NB_PX_CX
 
-!! !Pl Sg2
+!! ### Pl Sg2
 LEXICON N-PL-PxSg2-NOM !!= * @CODE@
  N-PL-PxSg2-NOM_NB-first ;
  +Pl+Nom+PxSg2+So/PN:%>Е2т%-влак  K ; !PX_NB_CX
@@ -708,7 +708,7 @@ LEXICON N-PL-PxSg2-ABE_NB-first
  +Pl+Abe+PxSg2+So/NPC:%-влакетде  K ; !NB_PX_CX
  +Pl+Abe+PxSg2+So/NPC:%-шамычетде K ; !NB_PX_CX
 
-!! !Sg Sg3
+!! ### Sg Sg3
 LEXICON N-SG-PxSg3-NOM !!= * @CODE@
  +Sg+Nom+PxSg3:%>ыж ENDLEX ; !NB_PX_CX Only after ш see twolc
  +Sg+Nom+PxSg3:%>ыжЫ2 K ; !NB_PX_CX Only after ш see twolc
@@ -763,7 +763,7 @@ LEXICON N-SG-PxSg3-ABE !!= * @CODE@
  +Sg+Abe+PxSg3+So/PC:%>ж%>де K ;! ава%>ж%>де twolc
  +Sg+Abe+PxSg3+So/PC:%>жы%>де K ; !кол%>жы%>де twolc
 
-!! !Pl Sg3
+!! ### Pl Sg3
 LEXICON N-PL-PxSg3-NOM !!= * @CODE@
  N-PL-PxSg3-NOM_NB-first ;
  +Pl+Nom+PxSg3+So/PN:%>жЫ2%-влак  K ; !PX_NB_CX
@@ -926,7 +926,7 @@ LEXICON N-PL-PxSg3-ABE_NB-first !!= * @CODE@
  +Pl+Abe+PxSg3+So/NPC:%-влакшыде  K ; !NB_PX_CX
  +Pl+Abe+PxSg3+So/NPC:%-шамычшыде K ; !NB_PX_CX
 
-!! !Sg Pl1
+!! ### Sg Pl1
 LEXICON N-SG-PxPl1-NOM !!= * @CODE@
  +Sg+Nom+PxPl1:%>на K ;
 
@@ -963,7 +963,7 @@ LEXICON N-SG-PxPl1-LAT !!= * @CODE@
 LEXICON N-SG-PxPl1-ABE !!= * @CODE@
  +Sg+Abe+PxPl1+So/PC:%>наде K ;
 
-!! !Pl Pl1
+!! ### Pl Pl1
 LEXICON N-PL-PxPl1-NOM !!= * @CODE@
  N-PL-PxPl1-NOM_NB-first ;
  +Pl+Nom+PxPl1+So/PN:%>на%-влак  K ;  !PX_NB_CX
@@ -1061,7 +1061,7 @@ LEXICON N-PL-PxPl1-ABE_NB-first !!= * @CODE@
  +Pl+Abe+PxPl1+So/NPC:%-влакнаде  K ; !NB_PX_CX
  +Pl+Abe+PxPl1+So/NPC:%-шамычнаде K ; !NB_PX_CX
 
-!! !Sg Pl2
+!! ### Sg Pl2
 LEXICON N-SG-PxPl2-NOM !!= * @CODE@
  +Sg+Nom+PxPl2:%>да K ;
 
@@ -1194,7 +1194,7 @@ LEXICON N-PL-PxPl2-ABE_NB-first !!= * @CODE@
  +Pl+Abe+PxPl2+So/NPC:%-влакдаде  K ;
  +Pl+Abe+PxPl2+So/NPC:%-шамычдаде K ;
 
-!! !Sg Pl3
+!! ### Sg Pl3
 LEXICON N-SG-PxPl3-NOM !!= * @CODE@
  +Sg+Nom+PxPl3:%>Ы1шт K ;
 

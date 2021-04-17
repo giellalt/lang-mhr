@@ -13,7 +13,7 @@
 ! giellatekno@uit.no or feedback@divvun.no
 
 ! ############################## !
-!! !!!Meadow & Eastern Mari numerals 
+!! # Meadow & Eastern Mari numerals 
 ! ############################## !
 
 
@@ -22,10 +22,10 @@
 ! Numerals
 ! ========
 
-!! !!The initial lexica
+!! ## The initial lexica
 ! ------------------
 
-LEXICON Numeral   !!≈ * __@CODE@__  initial lexica
+LEXICON Numeral   !!≈ * **@CODE@**  initial lexica
                        ARABICS          ; ! for the arabic numerals
             +Use/Circ: ROMAN            ; ! for the roman numerals
 
@@ -39,7 +39,7 @@ LEXICON ARABICS
 
 
 
-LEXICON ARABIC   !!≈ * __@CODE@__ arabic numerals
+LEXICON ARABIC   !!≈ * **@CODE@** arabic numerals
 < [1|2|3|4|5|6|7|8|9|%0] > ARABICLOOPS ;
 
 LEXICON ARABICLOOPS
@@ -69,7 +69,7 @@ LEXICON ARABICORD
                         < [1|4|5|7|8|9] > ARABICLOOPORD_Front ;
 
 
-LEXICON ARABICLOOP   !!≈ * __@CODE@__
+LEXICON ARABICLOOP   !!≈ * **@CODE@**
                            ARABIC          ;
                %-:%-       ARABIC          ; ! 1-2 multipart numbers
                %–:%–       ARABIC          ; ! 1–2 multipart numbers
@@ -100,33 +100,33 @@ LEXICON ARABICLOOP   !!≈ * __@CODE@__
                 ':'        ARABIC          ; ! 24'12
 
 
-LEXICON ARABICLOOPORD_Back   !!≈ * __@CODE@__ ordinals
+LEXICON ARABICLOOPORD_Back   !!≈ * **@CODE@** ordinals
  +A+Ord+Attr:%-шо # ;
 ! +Num+Arab+Sg+Nom#%.%<sent%>:%. # ; !for Apertium bz. 22
  +A+Ord+Use/Circ: ARABICDELIMITERORD_Back ;
 
-LEXICON ARABICLOOPORD_Front   !!≈ * __@CODE@__ ordinals
+LEXICON ARABICLOOPORD_Front   !!≈ * **@CODE@** ordinals
  +A+Ord+Attr:%-ше # ;
 ! +Num+Arab+Sg+Nom#%.%<sent%>:%. # ; !for Apertium bz. 22
  +A+Ord+Use/Circ: ARABICDELIMITERORD_Front ;
 
-LEXICON ARABICLOOPORD_FrontRound   !!≈ * __@CODE@__ ordinals
+LEXICON ARABICLOOPORD_FrontRound   !!≈ * **@CODE@** ordinals
  +A+Ord+Attr:%-шӧ # ;
 ! +Num+Arab+Sg+Nom#%.%<sent%>:%. # ; !for Apertium bz. 22
  +A+Ord+Use/Circ: ARABICDELIMITERORD_FrontRound ;
 
 
-LEXICON ARABICDELIMITERORD_Back   !!≈ * __@CODE@__ ordinals
+LEXICON ARABICDELIMITERORD_Back   !!≈ * **@CODE@** ordinals
  +Err/Orth:   ARABICCASEORD_Back ; ! This is the 1984s case.
  +Err/Orth:'  ARABICCASEORD_Back ; ! This is the 1984's case.
  :%- ARABICCASEORD_Back ; ! This is the 1984-s case.
 
-LEXICON ARABICDELIMITERORD_Front   !!≈ * __@CODE@__ ordinals
+LEXICON ARABICDELIMITERORD_Front   !!≈ * **@CODE@** ordinals
  +Err/Orth:   ARABICCASEORD_Front ; ! This is the 1984s case.
  +Err/Orth:'  ARABICCASEORD_Front ; ! This is the 1984's case.
  :%- ARABICCASEORD_Front ; ! This is the 1984-s case.
 
-LEXICON ARABICDELIMITERORD_FrontRound   !!≈ * __@CODE@__ ordinals
+LEXICON ARABICDELIMITERORD_FrontRound   !!≈ * **@CODE@** ordinals
  +Err/Orth:   ARABICCASEORD_FrontRound ; ! This is the 1984s case.
  +Err/Orth:'  ARABICCASEORD_FrontRound ; ! This is the 1984's case.
  :%- ARABICCASEORD_FrontRound ; ! This is the 1984-s case.
@@ -136,27 +136,27 @@ LEXICON ARABICDELIMITERORD_FrontRound   !!≈ * __@CODE@__ ordinals
 !! The Roman numerals !
 !! ------------------ !
 
-LEXICON ROMAN   !!≈ * __@CODE@__  roman numerals
+LEXICON ROMAN   !!≈ * **@CODE@**  roman numerals
  +Use/Circ: ROM-THOUSAND ; !
  +Use/Circ: ROM-HUNDRED ; !
  +Use/Circ: ROM-TEN ; !
  +Use/Circ: ROM-ONE ; !
 
-LEXICON ROM-THOUSAND   !!≈ * __@CODE@__
+LEXICON ROM-THOUSAND   !!≈ * **@CODE@**
      M+Use/Circ:M     ROM-THOUSAND-TAG ;
     MM+Use/Circ:MM    ROM-THOUSAND-TAG ;
    MMM+Use/Circ:MMM   ROM-THOUSAND-TAG ;
   MMMM+Use/Circ:MMMM  ROM-THOUSAND-TAG ;
  MMMMM+Use/Circ:MMMMM ROM-THOUSAND-TAG ;
 
-LEXICON ROM-THOUSAND-TAG   !!≈ * __@CODE@__
+LEXICON ROM-THOUSAND-TAG   !!≈ * **@CODE@**
  +Use/Circ: ROMNUMTAG   ; !
  +Use/Circ: ROM-HUNDRED ; !
  +Use/Circ: ROM-TEN     ; !
  +Use/Circ: ROM-ONE     ; !
  +Use/Circ: ROM-SPLIT   ; !
 
-LEXICON ROM-HUNDRED   !!≈ * __@CODE@__
+LEXICON ROM-HUNDRED   !!≈ * **@CODE@**
     C+Use/Circ:C    ROM-HUNDRED-TAG ;
    CC+Use/Circ:CC   ROM-HUNDRED-TAG ;
   CCC+Use/Circ:CCC  ROM-HUNDRED-TAG ;
@@ -167,13 +167,13 @@ LEXICON ROM-HUNDRED   !!≈ * __@CODE@__
  DCCC+Use/Circ:DCCC ROM-HUNDRED-TAG ;
    CM+Use/Circ:CM   ROM-HUNDRED-TAG ;
 
-LEXICON ROM-HUNDRED-TAG   !!≈ * __@CODE@__
+LEXICON ROM-HUNDRED-TAG   !!≈ * **@CODE@**
  +Use/Circ: ROMNUMTAG ;
  +Use/Circ: ROM-TEN   ;
  +Use/Circ: ROM-ONE   ;
  +Use/Circ: ROM-SPLIT ;
 
-LEXICON ROM-TEN   !!≈ * __@CODE@__
+LEXICON ROM-TEN   !!≈ * **@CODE@**
     X+Use/Circ:X    ROM-TEN-TAG ;
    XX+Use/Circ:XX   ROM-TEN-TAG ;
   XXX+Use/Circ:XXX  ROM-TEN-TAG ;
@@ -184,12 +184,12 @@ LEXICON ROM-TEN   !!≈ * __@CODE@__
  LXXX+Use/Circ:LXXX ROM-TEN-TAG ;
    XC+Use/Circ:XC   ROM-TEN-TAG ;
 
-LEXICON ROM-TEN-TAG   !!≈ * __@CODE@__
+LEXICON ROM-TEN-TAG   !!≈ * **@CODE@**
  +Use/Circ: ROMNUMTAG ;
  +Use/Circ: ROM-ONE   ;
  +Use/Circ: ROM-SPLIT ;
 
-LEXICON ROM-ONE   !!≈ * __@CODE@__
+LEXICON ROM-ONE   !!≈ * **@CODE@**
     I+Use/Circ:I    ROM-ONE-TAG ;
    II+Use/Circ:II   ROM-ONE-TAG ;
   III+Use/Circ:III  ROM-ONE-TAG ;
@@ -200,7 +200,7 @@ LEXICON ROM-ONE   !!≈ * __@CODE@__
  VIII+Use/Circ:VIII ROM-ONE-TAG ;
    IX+Use/Circ:IX   ROM-ONE-TAG ;
 
-LEXICON ROM-ONE-TAG   !!≈ * __@CODE@__
+LEXICON ROM-ONE-TAG   !!≈ * **@CODE@**
   +Use/Circ: ROMNUMTAG ;
 !        +N: ROMNUMTAG ; ! !The Olav viđeš fix (Roman V now gets A)
   +Use/Circ: ROM-SPLIT ;
@@ -213,32 +213,32 @@ LEXICON ROM-ONE-TAG   !!≈ * __@CODE@__
 ! "II-IV-VI-VII-IX". If that should turn out to be a good idea, a loop would
 ! do the trick.
 
-LEXICON ROM-SPLIT   !!≈ * __@CODE@__
+LEXICON ROM-SPLIT   !!≈ * **@CODE@**
  +Use/Circ:%- 2ROMAN ; ! II-VI, etc. !
 
 
 ! Here goes loop 2.
 
-LEXICON 2ROMAN   !!≈ * __@CODE@__
+LEXICON 2ROMAN   !!≈ * **@CODE@**
  +Use/Circ: 2ROM-THOUSAND ;
  +Use/Circ: 2ROM-HUNDRED  ;
  +Use/Circ: 2ROM-TEN      ;
  +Use/Circ: 2ROM-ONE      ;
 
-LEXICON 2ROM-THOUSAND   !!≈ * __@CODE@__
+LEXICON 2ROM-THOUSAND   !!≈ * **@CODE@**
      M+Use/Circ:M     2ROM-THOUSAND-TAG ;
     MM+Use/Circ:MM    2ROM-THOUSAND-TAG ;
    MMM+Use/Circ:MMM   2ROM-THOUSAND-TAG ;
   MMMM+Use/Circ:MMMM  2ROM-THOUSAND-TAG ;
  MMMMM+Use/Circ:MMMMM 2ROM-THOUSAND-TAG ;
 
-LEXICON 2ROM-THOUSAND-TAG   !!≈ * __@CODE@__
+LEXICON 2ROM-THOUSAND-TAG   !!≈ * **@CODE@**
  +Use/Circ: ROMNUMTAG    ;
  +Use/Circ: 2ROM-HUNDRED ;
  +Use/Circ: 2ROM-TEN     ;
  +Use/Circ: 2ROM-ONE     ;
 
-LEXICON 2ROM-HUNDRED   !!≈ * __@CODE@__
+LEXICON 2ROM-HUNDRED   !!≈ * **@CODE@**
     C+Use/Circ:C    2ROM-HUNDRED-TAG ;
    CC+Use/Circ:CC   2ROM-HUNDRED-TAG ;
   CCC+Use/Circ:CCC  2ROM-HUNDRED-TAG ;
@@ -249,12 +249,12 @@ LEXICON 2ROM-HUNDRED   !!≈ * __@CODE@__
  DCCC+Use/Circ:DCCC 2ROM-HUNDRED-TAG ;
    CM+Use/Circ:CM   2ROM-HUNDRED-TAG ;
 
-LEXICON 2ROM-HUNDRED-TAG   !!≈ * __@CODE@__
+LEXICON 2ROM-HUNDRED-TAG   !!≈ * **@CODE@**
  +Use/Circ: ROMNUMTAG ;
  +Use/Circ: 2ROM-TEN  ;
  +Use/Circ: 2ROM-ONE  ;
 
-LEXICON 2ROM-TEN   !!≈ * __@CODE@__
+LEXICON 2ROM-TEN   !!≈ * **@CODE@**
     X+Use/Circ:X    2ROM-TEN-TAG ;
    XX+Use/Circ:XX   2ROM-TEN-TAG ;
   XXX+Use/Circ:XXX  2ROM-TEN-TAG ;
@@ -265,11 +265,11 @@ LEXICON 2ROM-TEN   !!≈ * __@CODE@__
  LXXX+Use/Circ:LXXX 2ROM-TEN-TAG ;
    XC+Use/Circ:XC   2ROM-TEN-TAG ;
 
-LEXICON 2ROM-TEN-TAG   !!≈ * __@CODE@__
+LEXICON 2ROM-TEN-TAG   !!≈ * **@CODE@**
  +Use/Circ: ROMNUMTAG ;
  +Use/Circ: 2ROM-ONE  ;
 
-LEXICON 2ROM-ONE   !!≈ * __@CODE@__
+LEXICON 2ROM-ONE   !!≈ * **@CODE@**
     I+Use/Circ:I    2ROM-ONE-TAG ;
    II+Use/Circ:II   2ROM-ONE-TAG ;
   III+Use/Circ:III  2ROM-ONE-TAG ;
@@ -280,22 +280,22 @@ LEXICON 2ROM-ONE   !!≈ * __@CODE@__
  VIII+Use/Circ:VIII 2ROM-ONE-TAG ;
    IX+Use/Circ:IX   2ROM-ONE-TAG ;
 
-LEXICON 2ROM-ONE-TAG   !!≈ * __@CODE@__
+LEXICON 2ROM-ONE-TAG   !!≈ * **@CODE@**
  +Use/Circ: ROMNUMTAG ;
 
-LEXICON ROMNUMTAG   !!≈ * __@CODE@__
+LEXICON ROMNUMTAG   !!≈ * **@CODE@**
   +Num+Rom+Sg+Nom+Use/Circ:   #            ;
 
 
- LEXICON ARABICCASEORD_Back   !!≈ * __@CODE@__ ordinals Is this then becoming +Ex/A?
+ LEXICON ARABICCASEORD_Back   !!≈ * **@CODE@** ordinals Is this then becoming +Ex/A?
  +Arab+N:%>ш%{оы%}  N-continuation ;
  +Err/Orth+Arab+N:%>ш%{еы%}  N-continuation ;
  +Err/Orth+Arab+N:%>ш%{ӧы%}  N-continuation ;
- LEXICON ARABICCASEORD_Front   !!≈ * __@CODE@__ ordinals
+ LEXICON ARABICCASEORD_Front   !!≈ * **@CODE@** ordinals
  +Arab+N:%>ш%{еы%}  N-continuation ;
  +Err/Orth+Arab+N:%>ш%{оы%}  N-continuation ;
  +Err/Orth+Arab+N:%>ш%{ӧы%}  N-continuation ;
- LEXICON ARABICCASEORD_FrontRound   !!≈ * __@CODE@__ ordinals
+ LEXICON ARABICCASEORD_FrontRound   !!≈ * **@CODE@** ordinals
  +Arab+N:%>ш%{ӧы%}  N-continuation ;
  +Err/Orth+Arab+N:%>ш%{оы%}  N-continuation ;
  +Err/Orth+Arab+N:%>ш%{еы%}  N-continuation ;

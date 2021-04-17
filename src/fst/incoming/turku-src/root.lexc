@@ -1,4 +1,4 @@
-!!                     !!!mhr morphological analyser 
+!! # mhr morphological analyser 
 !IDEAS FOR IMPROVEMENT
 !Fsm:ssä pitää erottaa z ja Z omaksi konsonanttiryhmäkseen niiden erikoisen 
 !käyttäytymisen takia (niiden jälkeen tulevat soinnittomat suffiksit). Samoin ehkä myös 
