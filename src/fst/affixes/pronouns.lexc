@@ -1,6 +1,6 @@
-!! !!!Eastern Mari pronoun inflection
+!! # Eastern Mari pronoun inflection
 
-!! !!Lexica directed from root.lexc
+!! ## Lexica directed from root.lexc
 
 LEXICON pronouns_not_from_xml !!= * @CODE@
 мый+Pron+Pers: MYJ ;	
@@ -149,7 +149,7 @@ LEXICON SHKE !!= * @CODE@
 +Dat+PxPl3+Use/NG:шкаланышт K_at;
 
 
-!! !!Pronoun lexica from xml
+!! ## Pronoun lexica from xml
 
 LEXICON Pimp  !!= * @CODE@
 !+Pron: K ;

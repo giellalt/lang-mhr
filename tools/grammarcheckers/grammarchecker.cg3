@@ -14,7 +14,7 @@
 # giellatekno@hum.uit.no or divvun@hum.uit.no
 
 # ==================================================================== #
-#!! !!!       M E A D O W   M A R I   G R A M M A R   C H E C K E R
+#!!       M E A D O W   M A R I   G R A M M A R   C H E C K E R
 # ==================================================================== #
 # ====================================================================
 
@@ -61,7 +61,7 @@
       # Grammar checking rules
 
 # =============== #
-#!! !!!DELIMITERS
+#!! # DELIMITERS
 # =============== #
 
 DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" sent ;
@@ -75,11 +75,11 @@ LIST DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<,>" "<;>" sent ; #SASHA ADD
 # !!!Tags and sets
 # ============= #
 
-#!! The __Tags__ section lists all the tags inherited from the fst, and defines them for
+#!! The **Tags** section lists all the tags inherited from the fst, and defines them for
 #!! use in the syntactic analysis.
 #!! The tags are documented in the root.lexc file, and here only listed for reference.
 
-#!! The next section, __Sets__, contains sets defined
+#!! The next section, **Sets**, contains sets defined
 #!! on the basis of the tags listed here, those set names are not visible in the output.
 
 LIST DAT-V = "куанаш" ;
@@ -90,22 +90,22 @@ LIST DAT-A = "поян" "тале" "пайдале" ;
 
 SETS
 
-#!! !!Tags
+#!! ## Tags
 
 
 
-#!! !Beginning and end of sentence
+#!! ### Beginning and end of sentence
 
 LIST BOS = (>>>) (<s>); #!! BOS
 LIST EOS = (<<<) (</s>); #!! EOS
 
-#!! !Clause boundary
+#!! ### Clause boundary
 LIST C-BOUNDARY = CS Rel ; #ADDED BY JEREMY AND SASHA 28-06-2017
 
 # We define end of clause and beginning of clause in a way so that the file
 # may be read both by the CG-2 and the vislcg formalisms.
 
-#!! !Parts of speech tags
+#!! ### Parts of speech tags
 
 LIST N = N ;                    #!! N
 LIST V = V ;                    #!! V
@@ -123,7 +123,7 @@ LIST Po = Po ; 					#!! Po
 LIST ABBR = ABBR ;	    #!! ABBR
 LIST ACR = ACR ;	    #!! ACR
 
-#!! !Punctuation marks
+#!! ### Punctuation marks
 
 LIST CLB = CLB ;	    #!! CLB
 LIST COMMA = "," ;
@@ -137,7 +137,7 @@ SET PUNCT = PPUNCT - QMARK ;
 #!! WORD is the set of all POS
 LIST WORD = N V A Adv CC CS Interj Pron Num Pcle Clt Po ;
 
-#!! !Verbal tense and mood tags
+#!! ### Verbal tense and mood tags
 LIST Prs = Prs ; 		 #!! Prs
 LIST Prt1 = Prt1 ; 		 #!! Prt1
 LIST Prt2 = Prt2 ; 		 #!! Prt2
@@ -147,7 +147,7 @@ LIST Ind = Ind ind ; 		 #!! Ind
 LIST Cond = Cond cond ; 	 #!! Cond
 LIST Des = Des des ;		 #!! Des
 
-#!! !Other verbal tags
+#!! ### Other verbal tags
 LIST Act = Act ; 			 #!! Act
 LIST ConNeg = ConNeg conneg; #!! ConNeg
 LIST FutPrc = FutPrc ; 			 #!! FutPrc
@@ -169,12 +169,12 @@ LIST Pl2 = Pl2 ; 			 #!! Pl2
 LIST Pl3 = Pl3 ; 			 #!! Pl3
 
 
-#!! !Numeral tags
+#!! ### Numeral tags
 
 LIST Sg = Sg sg ; 	  #!! Sg
 LIST Pl = Pl pl ; 	  #!! Pl
 
-#!! !Case tags
+#!! ### Case tags
 
 LIST Nom = Nom nom ;  #!! Nom
 LIST Gen = Gen gen ;  #!! Gen
@@ -188,7 +188,7 @@ LIST Ine = Ine ine ;   #!! Ine
 LIST Ill = Ill ill ;   #!! Ill
 LIST Cmpr = Cmpr ; 	   #!! Cmpr (case)
 
-#!! !Other nominal tags
+#!! ### Other nominal tags
 
 LIST Pers = Pers ;	   #!! Pers
 LIST Refl = Refl ; 	   #!! Refl
@@ -200,7 +200,7 @@ LIST ABBR = ABBR ;	  #!! ABBR
 LIST Pron1Sg = "мый" "Мый" ; #SASHA ADDED 3-07-2017
 LIST Pron2Sg = "тый" "Тый" ; #SASHA ADDED 3-07-2017
 
-#!! !Adjective comparison tags
+#!! ### Adjective comparison tags
 
 LIST Pos = Pos ; 	 #!! Pos (?)
 LIST Superl = Superl ; #!! Superl
@@ -208,7 +208,7 @@ LIST Comp = Comp ; 	   #!! Comp
 
 LIST Attr = Attr ; 	   #!! Attr
 
-#!! !Possessive suffix tags
+#!! ### Possessive suffix tags
 
 LIST PxSg1 = PxSg1 ; #!! PxSg1
 LIST PxSg2 = PxSg2 ; #!! PxSg2
@@ -217,23 +217,23 @@ LIST PxPl1 = PxPl1 ; #!! PxPl1
 LIST PxPl2 = PxPl2 ; #!! PxPl2
 LIST PxPl3 = PxPl3 ; #!! PxPl3
 
-#!! !Numeral tags
+#!! ### Numeral tags
 
 LIST Card = Card ; #!! Card
 LIST Coll = Coll ;  #!! Coll
 LIST Ord = Ord ;  #!! Ord
 LIST Temp = Temp ;  #!! Temp (?)
 
-#!! !Derivation tags
+#!! ### Derivation tags
 LIST Der/MWN = Der/MWN ; #!! Der/MWN
 LIST Der/са = Der/са ;	 #!! Der/sa
 
-#!! !Particles
+#!! ### Particles
 LIST Qst = Qst ; #!! Qst
 LIST Foc = Foc ; #!! Foc
 
 
-#!! !Tags for internal testing
+#!! ### Tags for internal testing
 LIST CmpTest = CmpTest ; #!! CmpTest
 LIST Err = Err ; #!! Err
 
@@ -243,11 +243,11 @@ LIST @>N = @>N ;
 LIST @OBJ> = @OBJ> ;
 LIST @SUBJ> = SUBJ> ;
 LIST @+FMAINV = @+FMAINV ;
-#!! !!Sets
+#!! ## Sets
 
-LIST CASE = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Cmpr ; #!! * __CASE__ = all cases
-SET OBLCASE = CASE - Nom ; #!! * __OBLCASE__ = All cases except Nom
-SET VFIN = Ind | Cond | Des | Imprt ; #!! * __VFIN__ = All moods
+LIST CASE = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Cmpr ; #!! * **CASE** = all cases
+SET OBLCASE = CASE - Nom ; #!! * **OBLCASE** = All cases except Nom
+SET VFIN = Ind | Cond | Des | Imprt ; #!! * **VFIN** = All moods
 
 LIST WORD = N V A Adv CC CS Interj Pron Num Pcle Clt Po ;
 
@@ -267,12 +267,12 @@ SET LEX-N = N - DER-N ; #JEREMY AND SASHA ADDED 28-06-2017
 
 
 # ===================================== #
-#!! !!! Grammarchecker rules begin here 
+#!! Grammarchecker rules begin here 
 # ===================================== #
 
 
 
-#!! !!Grammarchecker sets
+#!! ## Grammarchecker sets
 
 LIST &err-agr = &err-agr ;
 LIST &err-gen-po = &err-gen-po ;
@@ -286,13 +286,13 @@ LIST &err-gen-po = &err-gen-po ;
 MAPPING-PREFIX = & ;
 
 
-#!! !!Grammarchecker rules
+#!! ## Grammarchecker rules
 
 
 SECTION
 
 
-#!! !Speller rules
+#!! ### Speller rules
 
 # Speller suggestions rule – add &SUGGESTWF to any spelling suggestion
 # that we actually want to suggest to the user.
@@ -302,7 +302,7 @@ ADD:spell-it-all (&typo &SUGGESTWF) (<spelled>) ;
 ADD:spell-conservatively (&typo &SUGGESTWF) (<spelled>) IF (NEGATE -1 QMARK LINK 2 QMARK);
 
 
-#!! !Agreement rules
+#!! ### Agreement rules
 
 # A simple grammar checker rule without suggestions: Ensure preceding nominal agrees with the verb
 ADD:err-agr (&err-agr) TARGET V IF (-1C Sg + Nom) (0 V) (NOT 0 Sg3);
@@ -312,12 +312,12 @@ ADD:err-agr (&err-agr) TARGET V IF (-1C Pron + Pl1 + Nom) (0 V) (NOT 0 Pl1);
 ADD:err-agr (&err-agr) TARGET V IF (-1C Pron + Pl2 + Nom) (0 V) (NOT 0 Pl2);
 
 
-#!! !Negation verb rules
+#!! ### Negation verb rules
 
 ADD:err-conneg-not-3rdsg (&err-conneg-not-3rdsg) TARGET (V Prs Sg3) IF (0 Ind OR Cond)(-1 (V Neg Sg3));
 
 
-#!! !Postposition rules
+#!! ### Postposition rules
 
 
 # And one with a suggestion where we simply change the tag Sg into Attr:
@@ -337,10 +337,10 @@ ADD:err-gen-po (&err-gen-po) TARGET Po IF (-1 N + Gen)(0 NomPost);
 	## окна ваштареш ok
 	## окналан ваштареш ok
 	
-#!! ! NP internal rules
+#!! ###  NP internal rules
 
 
-#!! ! Punctuation rules
+#!! ###  Punctuation rules
 
 # Simple punctuation rules showing how to change the lemma in the suggestions:
 ADD:use-guillemets (&guillemets) TARGET (""");

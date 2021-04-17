@@ -1,4 +1,4 @@
-!! !!!Proper noun inflection
+!! # Proper noun inflection
 ! ----------------------
 
 !! Meadow Mari proper nouns inflect in the same cases as regular
@@ -22,7 +22,7 @@ LEXICON LEXC_PROP-PLC_  !!= * @CODE@
  +N+Prop+Sem/Plc+Der/Rel:%>Ы1%>сЫ2 A_ ;
 
 
-!! !!Male given name for deriving patronyms 
+!! ## Male given name for deriving patronyms 
 
 
 ! Андрей:Андре
@@ -77,7 +77,7 @@ LEXICON PropNameMaleDer-Ovich !!= * @CODE@
                    PROP_KAL_MAL      ;
 
 
-!! !!Russian type Surnames 
+!! ## Russian type Surnames 
 
 
 
@@ -204,7 +204,7 @@ LEXICON PROP_KUDO_PATRFEM !!= * @CODE@
  +Patr+Sem/Mal: ENDLEX ;
 
 
-!! !!Female Given names 
+!! ## Female Given names 
 
 
 LEXICON PROP_KAL_FEM !!= * @CODE@

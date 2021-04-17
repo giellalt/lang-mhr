@@ -12,7 +12,7 @@
 INCLUDE functions.cg3 ;
 
 
-#!! !!For Korp:
+#!! ## For Korp:
 
 #!! Here we remove special tags for MT
 
@@ -23,7 +23,7 @@ SUBSTITUTE (@<ADVL-ela) (@<ADVL) TARGET (@<ADVL-ela) ;
 SUBSTITUTE (@-F<ADVL-ine) (@-F<ADVL) TARGET (@-F<ADVL-ine) ;
 SUBSTITUTE (@-F<ADVL-ela) (@-F<ADVL) TARGET (@-F<ADVL-ela) ;
 
-#!! ! __smeRemove__ removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
+#!! ###  **smeRemove** removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
 
 SUBSTITUTE:sjeRemove (<sje>) (*) TARGET (<sje>) ;
 SUBSTITUTE:smaRemove (<sma>) (*) TARGET (<sma>) ;

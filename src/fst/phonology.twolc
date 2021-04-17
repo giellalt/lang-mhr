@@ -1,13 +1,13 @@
-!! !!!Mari twol file
+!! # Mari twol file
 
 !! This file contains rules for morphophonological alternations, such as
 !! vowel harmony, stem vowel changes, palatalisation, etc.
 
-!! We define our symbols (__Alphabet__), some __Sets__, and then the __Rules__
+!! We define our symbols (**Alphabet**), some **Sets**, and then the **Rules**
 
 Alphabet
 
-!! !!Letters of the alphabet
+!! ## Letters of the alphabet
 а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ !!= * @CODE@
 А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ !!= * @CODE@
 
@@ -55,7 +55,7 @@ Alphabet
 !  Е1:Е А1:А И1:И У1:У Ӱ1:Ӱ
 !JMR 2012-09-18
 
-!! !Arcihphonemes for consonants
+!! ### Arcihphonemes for consonants
 
 з2:з  !!= * @CODE@ for з:ч, thus  возаш - воч but колхоз (*колхоч)
 з2:ч  !!= * @CODE@ for native stems
@@ -95,7 +95,7 @@ Alphabet
  ;
 
 
-!! !!Sets
+!! ## Sets
 Sets
 
 Vo =   о у ё ю О У Ё Ю ;   !!= * @CODE@ 
@@ -130,17 +130,17 @@ FrontRounded = [[:VO  (•:)|%^VOTrigger: (%^Sonorant:|%^Obstruent:) %-] [ Cns: 
 
 FrontUnrounded = [ [:Ve (•:) |ы •:|#|%^VeTrigger: (%^Sonorant:|%^Obstruent:) %-] [ Cns: |й:|(ʼ:) ь:|%{ьØ%}:| :ы | %> | Ы1: | Ы2:е| Ы2:ы | Е2:]*  ] ;
 
-!! !!Rules
+!! ## Rules
 Rules
 
 "Punctuation bullet as such"
-!! __ @RULENAME@ __ This rule prevents deleting of BULLET when it forms a token. BULLET as stress mark is deleted as before.
+!! **@RULENAME@** This rule prevents deleting of BULLET when it forms a token. BULLET as stress mark is deleted as before.
 •:• <=> .#. _ .#. ;
 
 
 
 "Palatal mark loss before vowel"
-!! __ @RULENAME@ __ 
+!! **@RULENAME@** 
     ь:0  <=>   _ (%{аы%}:|%{еы%}:|%{оы%}:|%{ӧы%}:) %> [А2:|Е2:|:е] ;
 !! имне+N+Sg+Nom+Foc/Ат
 !!€ имнь%{еы%}%>А2т
@@ -154,31 +154,31 @@ Rules
 
 ! JMR 2012-09-18
 "Onset vowel loss in suffix after stem vowel"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
  Ы1:0 <=>  [ :Vow (•:) |%^VoTrigger: %-|%^VOTrigger: %-|%^VeTrigger: %-] %> _ ;
 ! [ :Vow (•:)|[А|Б|В|Г|Д|Е|Ж|З|И|Й|К|П|Т|Х|Ц|Ч|Ш|Щ|Ы|Э|Ӹ|Ӱ|Ӓ|О|Ӧ|У|Ӱ|Ю|Я] (%^VoTrigger: %-|%^VOTrigger: %-|%^VeTrigger: %-) ] %> _ ;
 	
 "Onset vowel Е2 realized in suffix е"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Е2:е <=> [ш к2:|ч к2:|к т2:|н2: ч| з2:|Cns ((ʼ:) ь:)|й:|%{аы%}:|%{еы%}:|%{оы%}:|%{ӧы%}:|Ы2:] %> _ ;
 ! [Cns ((ʼ:) ь:)|й:|%{аы%}:|%{еы%}:|%{оы%}:|%{ӧы%}:|Ы2:] %> _ ;
 
 
 "Onset vowel Е2 realized in suffix э"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Е2:э <=> [у|ӱ|и|ю|о|ӧ] (•:) %> _ ;
 
 "Onset vowel Е2 realized in suffix ZERO"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Е2:0 <=> [а|ӓ|я|е|э] (•:) %> _ ;
 
 "Onset vowel Ы1 realized in suffix"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Ы1:ы <=> [ Cns ((ʼ:) ь:) | й | [%^VoTrigger:|%^VeTrigger:|%^VOTrigger:] [%^Sonorant:|%^Obstruent:] %- ] %> _ ;
 
 
 "suffix-final vowel loss after stem-final vowel"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Ы2:0 <=>
 !    Vow (•:) %> Ы1: ш [ т | к ]  _ %> [ л | н | р | г | ш | д | м | Е2: | А2: ] ;
    Vow (•:)  %> Ы1: ш [ т | к ]  _ %> [ Е2: | А2: ] ;
@@ -195,13 +195,13 @@ Rules
 
 
 !"suffix-final vowel realized after stem-final consonant"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
 !  Ы2:ы <=>      Cns %> [ ж: | д ы м | с ] _ %>     [ л | г | ш [ т | к ] | д | Ы1: ] ;
 !           Vow (•:) %> [ ж  | д ы м | с ] _ %> Ы1: [ м | н ] ;
 !            %>  Ы1: ш [ т | к ]  _ %> Ы1: ;
 
 "suffix-final vowel realized as -Round in word-final position е "
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Ы2:е <=>
   FrontUnrounded %> (%{ьØ%}:) [ ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | д| ш | м | д ы м | с ] _ [%^END:| %- ] ;
   FrontUnrounded %> %{ьØ%}: _ [%^END:| %- ] ; !jaska 2017-07-02 [ .#. |%^END:| %- ] ;
@@ -216,7 +216,7 @@ Rules
 
 
 "suffix-final vowel realized as +Back +Round in word-final position о "
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Ы2:о <=>
  BackRounded  %> (%{ьØ%}:) [(ж:[Ы2:о|Ы2:ы|Ы2:0] %>) Ы1: ш [т|к]|ы ж|ж:|д|ш|м|д ы м|с] _ [%^END:|%-] ;
  BackRounded  %>  %{ьØ%}:                                                             _ [%^END:|%-]  ; !jaska 2017-07-02 [.#.|%^END:| %- ] ;
@@ -236,7 +236,7 @@ Rules
 
 
 "suffix-final vowel realized as +Front +Round in word-final position ӧ "
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Ы2:ӧ <=>
  FrontRounded %> (%{ьØ%}:) [ ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %> ) Ы1: ш [ т | к ] | ы ж | ж: | д| ш | м | д ы м | с ] _ [%^END:| %- ] ;
  FrontRounded %> %{ьØ%}: _ [%^END:| %- ] ; !jaska 2017-07-02[ .#. |%^END:| %- ] ;
@@ -248,11 +248,11 @@ Rules
 !!€ шӱртнь%>ӧ0
 
 "remove ʼ mod let apostrophe"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 ʼ:0 <=> [н|л] _ [%> %{ьØ%}: | ь: | е:| и:] ;
 
 "%{ьØ%}:ь"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
  %{ьØ%}:ь <=> [н|л] (ʼ:) %> _ [ы [м|ч]|Ы2:ӧ|Ы2:о ] ;
 !! толам+V+Ind+Prt1+Sg1
 !!€ тол%>%{ьØ%}ым
@@ -263,37 +263,37 @@ Rules
 ! _Е1_ follows much the same pattern as _Ы2_
 
 "suffix-final vowel realized after stem-final consonant"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Е1:ы <=>  Cns _ %>: [ л | н | р | г | ш | д | м | Ы1: ] ;
 
 "stem-final vowel realized as -Round in word-final position"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Е1:е <=> Ve (•:) [ Cns | ы ]* Cns _ [ %^END: | %- ] ;
 
 "stem-final vowel realized as +Back +Round in word-final position"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Е1:о <=> Vo (•:) [ Cns | ы ]* _ [ %^END: | %- ] ;
 
 "stem-final vowel realized as +Front +Round in word-final position"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Е1:ӧ <=> VO (•:) [ Cns | ы ]* _ [ %^END: | %- ] ;
 
 
 "suffix-final vowel realized %{аы%}:ы "
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   %{аы%}:ы <=>  Cns _ %>: [ л | н | ж | р | г | ш | д | м | Ы1: ] ;
 
 "stem-final vowel realized %{аы%}:а"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
 !  %{аы%}:а <=> Cns _ [ %^END: | %- ] ; Leaving the more permissible jaska 2017-07-02
 !"stem-final vowel realized %{аы%}:а"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   %{аы%}:а <=> Cns ((ʼ:) ь:) _ [ %^END: | %- ] ;
 
 
 
 "Stem-final non-stressed vowel loss"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
  Vx:0 <=>        _ %> [Е2:|А2:] ;
         where Vx in (%{аы%} %{оы%} %{ӧы%}) ;
 
@@ -301,7 +301,7 @@ Rules
 !!€ а0льф0>ат
 
 "Stem-final non-stressed %{еы%} loss"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
  %{еы%}:0 <=>
      _ %> Е2: ;
    [Cns - [н|л]] _ %> А2: ;
@@ -314,7 +314,7 @@ Rules
 
 
 "suffix-final vowel realized %{еы%}:ы "
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   %{еы%}:ы <=>  [Cns ((ʼ:) ь)| Vow (•:) 0: ] _ %> [ л | н | р | г | ш | ж | д | м | Ы1: ] ;
 !! имне+N+Sg+PxSg3+Nom horse/hevonen
 !!€ имнʼь%{еы%}%>жЫ2
@@ -322,7 +322,7 @@ Rules
 
 
 "suffix-final vowel realized Ы2:ы "
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   Ы2:ы <=>
   [Cns ((ʼ:) ь)| Vow (•:) 0: ] _ %> [ л | н | р | г | ш | ж | д | м | Ы1: ] ;
 !! пӧрт+N+Sg+Ine+Foc/ys
@@ -331,39 +331,39 @@ Rules
 
 
 "stem-final vowel realized %{еы%}:е"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   %{еы%}:е <=> Cns ((ʼ:) ь:) _ [ %^END: | %- ] ;
 
 
 "suffix-final vowel realized %{ӧы%}:ы "
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   %{ӧы%}:ы <=>  [Cns ((ʼ:) ь)| Vow (•:) 0: ] _ %> [ л | н | р | г | ш | ж | д | м | Ы1: ] ;
 
 "stem-final vowel realized %{ӧы%}:ӧ"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   %{ӧы%}:ӧ <=> Cns ((ʼ:) ь) _ [ %^END: | %- ] ;
 
 "suffix-final vowel realized %{оы%}:ы "
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   %{оы%}:ы <=>  Cns ((ʼ:) ь:) _ %> [ л | н | р | г | ш | ж | д | м | Ы1: ] ;
 
 "stem-final vowel realized %{оы%}:о"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   %{оы%}:о <=> Cns ((ʼ:) ь:) _ [ %^END: | %- ] ;
 
 "suffix-final vowel realized %{яы%}:ы "
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   %{яы%}:ы <=>  [Cns (ʼ:) ь| Vow (•:) й] _ %>: [ л | н | р | г | ш | д | м | Ы1: ] ;
         
 "stem-final vowel realized %{яы%}:я"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   %{яы%}:я <=> [Cns (ʼ:) ь:| Vow (•:) 0:] _ [ %^END: | %- ] ;
 
 !!€ башнь%{яы%}
 !!€ башн0я
 
 "stem-internal glide realized in  0:й %{яы%}:ы "
-!! __ @RULENAME@ __
+!! **@RULENAME@**
   0:й <=> Vow (•:) _ [ %{яы%}:ы | %{еы%}:ы | %{аы%}:ы] ;
 
 !!€ а0%{яы%}%>Ы1м
@@ -373,7 +373,7 @@ Rules
 
 
 "Clitics in At and Ak take onset glide = a"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   А2:а <=>
    [з2:|н2:|к2:|т2: | CnsNoj ( Ы2:0 |%{аы%}:|%{еы%}:|%{оы%}:|%{ӧы%}:)| Е2:е|Е2:э|[е|э|о|ӧ|ӱ|и|ю|у] (•:) ] %> _ [ н | т | к | м | ш | л | %^END: ] ;
 !   [CnsNoj ( Ы2:0 |%{аы%}:|%{еы%}:|%{оы%}:|%{ӧы%}:)| Е2:е|Е2:э|[е|э|о|ӧ|ӱ|и|ю|у] (•:) ] %> _ [ н | т | к | м | ш | л | %^END: ] ;
@@ -381,7 +381,7 @@ Rules
 ! Line 1 was out, line 2 was in, switching due to альфат Foc/at. Follow this rule. TT, JB.
  
 "Clitics in At and Ak take onset glide = ja"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   А2:я <=>
   [CnsNoj (ʼ:) ь:|й:0 ] (Ы2:0 |%{аы%}:0|%{еы%}:0|%{оы%}:0|%{ӧы%}:0) %> _ [н|т|к|м|ш|л|%^END:] ;
                                               [н|л] %> %{ьØ%}: Ы2:  %> _ [н|т|к|м|ш|л|%^END:] ;
@@ -400,14 +400,14 @@ Rules
            й: (%{аы%}:0|%{еы%}:0|%{оы%}:0|%{ӧы%}:0) %> _  ;
 
 "Clitics in At and Ak take ZERO"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
   А2:0 <=> [а|я] (•:) %> _ [ т | к | м | ш ] ;
 
 !А2 э Е2 > Ш {аы} > _ т
 ! я э э  > Ш  а   > _ т
 
 "й Deletion in front of я Suffix and others"
-!! __ @RULENAME@ __  
+!! **@RULENAME@**  
   й:0 <=> _ [%> (:0)|(:0) %> ] [ А2: | :е | :и | :ю ]  ;
 !          _     (:0) [ :я | :е | :и | :ю ] [ %^END: | %- ] ;
 
@@ -415,11 +415,11 @@ Rules
 !!€ ки0>яш
 
 !"йа suffix as я 1"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 !й:0 <=> Vow (•:) _ %>: а: ;
 
 !"йа suffix as я 2"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 !а:я <=> Vow (•:) й: %>: _ ;
 
 !!€ кай>А2
@@ -432,33 +432,33 @@ Rules
 
 ! Devoicing
 "Onset consonant devoicing ж:ш "
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 ж:ш <=> :Cst (ь) (:0)  %> _ [ Ы2: | а | ы %> ] ;
 !!€ авалтымаш%>жы%>ла
 !!€ авалтымаш%>шы%>ла
    %^Obstruent: %- %> _ [ Ы2: | а | ы %> ] ;
 
 "Onset consonant devoicing з:с "
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 з:с <=> :Cst (:0) %> _ :Vow ;
 
 ! Consonant loss
 "Stem-final consonant loss т"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 т2:0 <=> [ к ] _ [%> [м|ш|д|н|ж:ш|з:с|с]|%^END:| %- я н] ;
 
 "Stem-final consonant variation т2:т"
 т2:т <=> _ %> [А2:а|Е2:е|(%{ьØ%}:) ы| (%{ьØ%}:) Ы2:];
 
 "Stem-final consonant loss к"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 к2:0 <=> [ ш |ч ] _ [%> [м|ш|д|н|ж:ш|з:с|с]|%^END:| %- я н] ;
 
 "Stem-final consonant variation к2:к"
 к2:к <=> _ %> [А2:а|Е2:е|(%{ьØ%}:) ы| (%{ьØ%}:) Ы2:];
 
 "Stem-final consonant loss н"
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 н2:0 <=> _ ч [%> [м|ш|д|н|ж:ш|з:с|с]|%^END:| %- я н] ;
 
 "Stem-final consonant variation н2:н"
@@ -487,7 +487,7 @@ Rules
 !!€ воч>са
 
  "Disallow PxSg3 in ж no where except after :Vow "
- !! __ @RULENAME@ __
+ !! **@RULENAME@**
  ж:ж /<= [:Ltrs - :Vow] %> _ [%^END:| %-|%>]  ;
  !!€ ава>ж>де
  !!$ кол>ж>де
@@ -495,7 +495,7 @@ Rules
 
 
  "Disallow after vowels PxSg3 combinations with dative -жылан, etc."
- !! __ @RULENAME@ __
+ !! **@RULENAME@**
  ж:ж /<= [:Vow (•:)] %> _ [ы д|ы л|ы г|ы %> д|ы %> л|ы %> г]  ;
  !!€ кол>жы>лан
  !!$ ава>жы>лан
@@ -504,7 +504,7 @@ Rules
 
  
 "Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш "
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 т:т /<= [Ltrs - ш ] (•:) %> _ Ы2:  ;
 !! йӧратымаш+N+Sg+Ine
 !!€ йӧратымаш%>тЫ2
@@ -512,7 +512,7 @@ Rules
  
 
 "Disallow Sg+Ill in кЫ2 everywhere except after stem-final ш "
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 к:к /<= [Ltrs - ш ] (•:) %> _ Ы2:  ;
 !! авалтымаш+N+Sg+Ine
 !!€ авалтымаш%>кЫ2
@@ -520,7 +520,7 @@ Rules
 
 
 "Disallow PxSg3 in ыж no where except after ш "
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 ы:ы /<=
  [Ltrs - ш] (•:) %> _ ж: (Ы2:) [%^END:| %-|%>]  ;
 !!€ йолташ%>ыж#
@@ -529,7 +529,7 @@ Rules
 !!$ олма%>ыж#
 
 !"Disallow PxSg3 in жы after vowels "
-!! __ @RULENAME@ __
+!! **@RULENAME@**
 ! ы:ы /<=
 ! Vow (•:) %> ж: _ %> [д е|л а|г е]  ;
 ! !!€ кол%>жы%>де
@@ -539,7 +539,7 @@ Rules
 
 
 "Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs "
-!! __ @RULENAME@ __                                                                                                                                                                           
+!! **@RULENAME@**                                                                                                                                                                           
 %^V2IMPRT:0 /<= [Cns: - й|ь] %> _ ;
 
  

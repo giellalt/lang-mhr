@@ -4,10 +4,10 @@
 
 
 ! =============================== !
-!! !!!Verbal continuation lexica
+!! # Verbal continuation lexica
 ! =============================== !
 
-!! !!Auxiliary verbs
+!! ## Auxiliary verbs
 
 !! Some of these are directed directly from root.lexc
 
@@ -95,11 +95,11 @@ LEXICON ulasj
 
 
 
-!! !!Regular verbs
+!! ## Regular verbs
 
 !! We divide the verbs in two, -am and -em
 
-!! !The -am class
+!! ### The -am class
 
 LEXICON V_am-N !!= @CODE@ divides V_am in Mood and infinites
  +Ger+Gen:%^END K    ;
@@ -170,7 +170,7 @@ LEXICON Vam-Des  !!= @CODE@ for desiderative, Желательное накло�
  +Prs+Pl3:%>нешт K ;
 
 
-!! !The -em class
+!! ### The -em class
 !! First four lexica: V_em with Gerund, the rest without, all going to V_em_ALL to get derivation affixes.
 ! V_em                  = V_em           the restx
 ! V_em-1SYLL            = V_em_puash     monosyll stems in у
@@ -427,7 +427,7 @@ LEXICON non-finites !!= @CODE@ contains Mutual endings
 
 
 
-!! !!Special verbs
+!! ## Special verbs
 !! V_am, возаш : воч
 !2017-01-04!LEXICON z-C !!= * @CODE@
 !   2017-01-04!             +Inf:з%>А2ш  K           ;
