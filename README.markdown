@@ -10,8 +10,8 @@ authors named in the AUTHORS file are available to grant other licencing
 choices.
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mhr)](https://github.com/giellalt/lang-mhr/issues)
-[![Build Status](https://github.com/giellalt/lang-mhr/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-mhr/actions)
-[![License](https://img.shields.io/github/license/giellalt/template-lang-mhr)](https://raw.githubusercontent.com/giellalt/lang-mhr/develop/LICENSE)
+[![Build Status](https://github.com/giellalt/lang-mhr/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mhr/actions)
+[![License](https://img.shields.io/github/license/giellalt/lang-mhr)](https://raw.githubusercontent.com/giellalt/lang-mhr/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-mhr)
 for the Eastern Mari language by using the [Divvun Installer](http://divvun.no)
