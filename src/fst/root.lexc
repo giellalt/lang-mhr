@@ -30,7 +30,7 @@ Multichar_Symbols  !!≈ # Declaration of @CODE@
 !! (It is highly suggested to follow existing standards when adding new tags).
 
 ! Tag for hmm work in progress.
-+WORK
++WORK !!≈ * **@CODE@** = nouns
 
 %^VoTrigger  !!= * @CODE@ for use with acronyms after hyphen
 %^VeTrigger  !!= * @CODE@ for use with acronyms after hyphen
@@ -40,7 +40,7 @@ Multichar_Symbols  !!≈ # Declaration of @CODE@
 %^FrontObstr !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
 
 
-%^END ! slutt
+%^END !!≈ * **@CODE@** = twolc tag to mark end of word
 
 !! ### The parts-of-speech are:
 
@@ -76,7 +76,7 @@ Multichar_Symbols  !!≈ # Declaration of @CODE@
 
 +Patr      !!≈ * **@CODE@** = patronym, look at this in other cyr fsts.
 +Aux       !!≈ * **@CODE@** = Auxiliary verb
-+Dep   !!≈ * **@CODE@** = ( pair verbs that do not occur independently get this marker.) /was +Depend, but +Dep used in fst.
++Dep        !!≈ * **@CODE@** = ( pair verbs that do not occur independently get this marker.) /was +Depend, but +Dep used in fst.
 
 
 !! Have a look at these:
@@ -188,7 +188,7 @@ Multichar_Symbols  !!≈ # Declaration of @CODE@
 
 !! Question and Focus particles:
 +Qst      !!≈ * **@CODE@** = 
-+Foc    !!≈ * **@CODE@** = 
++Foc      !!≈ * **@CODE@** = 
  
 ! -ат/-ят, -ак/-як, -с/-ыс
 +Foc/at       !!≈ * **@CODE@** = -at focus particla
@@ -248,7 +248,7 @@ Multichar_Symbols  !!≈ # Declaration of @CODE@
 
 !! Abbreviated words are classified with:
 +ABBR         !!≈ * **@CODE@** = for abbreviations that (may) contain period
-+Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
++Symbol       !!≈ * **@CODE@** = independent symbols in the text stream, like £, €, ©
 +ACR          !!≈ * **@CODE@** = acronyms
 
 !! Special symbols are classified with:
@@ -543,6 +543,7 @@ Multichar_Symbols  !!≈ # Declaration of @CODE@
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
+
  +V→N 	         !!≈ * **@CODE@** = 
 +V→V 	         !!≈ * **@CODE@** = 
 +V→A	         !!≈ * **@CODE@** = 
@@ -592,8 +593,8 @@ Multichar_Symbols  !!≈ # Declaration of @CODE@
 %^V2IMPRT	!!= * @CODE@ for -ем verbs in й
 %^END       	!!= * @CODE@ for -ам verb final, i.e. Imprf
 
-{front}    !!≈ * @CODE@ 
-{back}     !!≈ * @CODE@ 
+{front}    !!≈ * **@CODE@** 
+{back}     !!≈ * **@CODE@** 
 X1      !!≈ * **@CODE@** = 
 X2      !!≈ * **@CODE@** = 
 X3      !!≈ * **@CODE@** = 
@@ -622,24 +623,18 @@ Z2      !!≈ * **@CODE@** =
  %[%<%] !! * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
 
 
-+Cmp
-+Cmp/Hyph
-+Cmp/SoftHyph
-+Cmp/SplitR
++Cmp		   !!≈ * **@CODE@** = nouns
++Cmp/Hyph	   !!≈ * **@CODE@** = nouns
++Cmp/SoftHyph  !!≈ * **@CODE@** = nouns
++Cmp/SplitR	   !!≈ * **@CODE@** = nouns
 
-        !! ## Symbols that need to be escaped on the lower side (towards twolc):
- »7     !!≈ * **@CODE@**:  Literal »
- «7     !!≈ * **@CODE@**:  Literal «
-        !! ```
- %[%>%] !!= @CODE@ - Literal >
- %[%<%] !!= @CODE@ - Literal <
-        !! ```
 
 
 !! ## Flag diacritics
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics - only allow compounds
 !! with verbs if the verb is further derived into a noun again:
+
  @P.NeedNoun.ON@    !!≈ |  @CODE@ | (Dis)allow compounds with verbs unless nominalised
  @D.NeedNoun.ON@    !!≈ |  @CODE@ | (Dis)allow compounds with verbs unless nominalised
  @C.NeedNoun@       !!≈ |  @CODE@ | (Dis)allow compounds with verbs unless nominalised
@@ -648,6 +643,7 @@ Z2      !!≈ * **@CODE@** =
 !! to control position-based compounding restrictions for nominals. Their use is
 !! handled automatically if combined with +CmpN/xxx tags. If not used, they will
 !! do no harm.
+
  @P.CmpFrst.FALSE@ !!≈ |  @CODE@ | Require that words tagged as such only appear first
  @D.CmpPref.TRUE@  !!≈ |  @CODE@ | Block such words from entering ENDLEX
  @P.CmpPref.FALSE@ !!≈ |  @CODE@ | Block these words from making further compounds
@@ -656,14 +652,15 @@ Z2      !!≈ * **@CODE@** =
  @U.CmpNone.FALSE@ !!≈ |  @CODE@ | Combines with the prev tag to prohibit compounding
  @P.CmpOnly.TRUE@  !!≈ |  @CODE@ | Sets a flag to indicate that the word has passed R
  @D.CmpOnly.FALSE@ !!≈ |  @CODE@ | Disallow words coming directly from root.
+
 !! 
 !! Use the following flag diacritics to control downcasing of derived proper
 !! nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
 !! these flags. There exists a ready-made regex that will do the actual down-casing
 !! given the proper use of these flags.
+
  @U.Cap.Obl@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
  @U.Cap.Opt@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
-
 @C.NeedsVowRed@
 @U.NeedsVowRed.OFF@
 @U.NeedsVowRed.ON@
@@ -702,9 +699,7 @@ Punctuation	;	   !!=   @CODE@
 Symbols     ;	   !!=   @CODE@
 Exceptions ;  !!= * @CODE@
 NUM-COLL_  ;  !!=   @CODE@
-
-urj-Cyrl-ProperNouns ;  !!=   @CODE@ 
-
+urj-Cyrl-ProperNouns ;  !!=   @CODE@ s
 ProperNoun-mhr ;  !!=   @CODE@ specifically Mari names
 
 ! wordToNumeral	; !This has been moved to GTLANG/src/transcriptions/numbers.lexc
@@ -727,8 +722,9 @@ LEXICON CC_ !!= * @CODE@ conjunctinos
 LEXICON CS_ !!= * @CODE@ subjunctions
 : ENDLEX ;
 
-LEXICON DESCR_
+LEXICON DESCR_  !!≈ * **@CODE@** = descriptive something
 +Interj+Descr: K ;
+
 LEXICON DESCR-AUD_ !!= * @CODE@ these are audible, others may be visible or otherwise sensed, but for now just calling them Interj+Descr should suffice
 +Interj+Descr: K ;
 
@@ -751,7 +747,7 @@ LEXICON X !!= * @CODE@ for N attributes
 +N+Attr: ENDLEX ;
 
 
-LEXICON ENDLEX
+LEXICON ENDLEX !!≈ * **@CODE@** = and here it ends with the ^END symbol.
  :%^END # ;
 
 
