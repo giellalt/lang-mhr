@@ -1,0 +1,25 @@
+# East Mari Numeral inflection
+
+ * LEXICON QNT_  
+
+ * LEXICON KvMurt 
+
+ * LEXICON KvK  cardinal numerals
+
+ * LEXICON KvK_ATTR  cardinal numerals in noun phrase scope
+
+
+ * LEXICON KvKoll 
+
+
+ * LEXICON NUM-COLL_ 
+
+
+
+
+ * LEXICON KvInd 
+
+
+
+
+ * LEXICON Kv-a/e  
