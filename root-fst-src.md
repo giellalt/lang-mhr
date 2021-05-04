@@ -28,24 +28,24 @@ presented in this system in terms of the following symbols.
 
 ### The parts-of-speech are:
 
- * **+N	** = nouns
- * **+A	** = adjectives
+ * **+N** = nouns
+ * **+A** = adjectives
  * **+Adp** = adpositions
  * **+Adv** = adverbs
- * **+V	** = verbs
+ * **+V** = verbs
  * **+Pron** = pronouns
- * **+CS	** = subjunctions
- * **+CC	** = conjunctions
+ * **+CS** = subjunctions
+ * **+CC** = conjunctions
  * **+Interj** = interjections
  * **+Pcle** = particles
  * **+Num** = numerals
- * **+Descr	** = descriptive ideophones
+ * **+Descr** = descriptive ideophones
 
 
 ### POS subtags
 The parts of speech are further split up into:
- * **+Po	** = postpositions
- * **+Pr	** = prepositons
+ * **+Po** = postpositions
+ * **+Pr** = prepositons
 
  * **+Prop** = Proper noun
  * **+Pers** = Personal pronoun
@@ -75,26 +75,26 @@ Have a look at these:
 
 The nominals are inflected in the following numbers
 
- * **+Sg		** = 
- * **+Pl		** = 
+ * **+Sg** = 
+ * **+Pl** = 
  * **+AssocPl** = 
- * **+LocPl	** = location, better witho LocusPl to avoid Loc case?
+ * **+LocPl** = location, better witho LocusPl to avoid Loc case?
 
 The nominals are inflected in the following Case and Number
 
- * **+Nom 	** = nominative
- * **+Gen 	** = genitive
- * **+Acc 	** = accusative
- * **+Com 	** = comitative
- * **+Ill 	** = illative
- * **+Ine 	** = inessive
- * **+Lat 	** = lative
- * **+Dat 	** = dative
- * **+Cmpr 	** = comparative case
- * **+Abe	** = abessive
- * **+Voc	** = vocative
- * **+Attr	** = attributive form
- * **+Instr 	** =
+ * **+Nom** = nominative
+ * **+Gen** = genitive
+ * **+Acc** = accusative
+ * **+Com** = comitative
+ * **+Ill** = illative
+ * **+Ine** = inessive
+ * **+Lat** = lative
+ * **+Dat** = dative
+ * **+Cmpr** = comparative case
+ * **+Abe** = abessive
+ * **+Voc** = vocative
+ * **+Attr** = attributive form
+ * **+Instr** =
 
 
 The possession is marked as such:
@@ -107,13 +107,13 @@ The possession is marked as such:
  * **+PxPl3** = 
 
 Suffix ordering tags:
- * **+So/CP	** = Suffix ordering: Case + Possessive Person marking
- * **+So/PC	** = Suffix ordering: Possessive Person + Case marking
- * **+So/NCP	** = Suffix ordering: Number + Case + Possessive Person marking
- * **+So/NPC	** = Suffix ordering: Number + Possessive Person + Case marking
- * **+So/NP	** = Suffix ordering: Number + Possessive Person marking
- * **+So/PN	** = Suffix ordering: Possessive Person + Number marking
- * **+So/PNC	** = Suffix ordering: Possessive Person + Number + Case marking
+ * **+So/CP** = Suffix ordering: Case + Possessive Person marking
+ * **+So/PC** = Suffix ordering: Possessive Person + Case marking
+ * **+So/NCP** = Suffix ordering: Number + Case + Possessive Person marking
+ * **+So/NPC** = Suffix ordering: Number + Possessive Person + Case marking
+ * **+So/NP** = Suffix ordering: Number + Possessive Person marking
+ * **+So/PN** = Suffix ordering: Possessive Person + Number marking
+ * **+So/PNC** = Suffix ordering: Possessive Person + Number + Case marking
 
 The comparative forms are:
  * **+Comp** = comparative (not: not Cmp)
@@ -156,17 +156,17 @@ Verb personal forms are: (also used with personal pronouns)
 
 Other verb forms are
 
- * **+Inf	** = Infinitive
- * **+Ger	** = Gerund
- * **+Neg	** = Negation verb
- * **+ConNeg	** = Invariant main verb in negation expression
- * **+Prc	** = Participle
- * **+Nec	** = Necessive infinitive
+ * **+Inf** = Infinitive
+ * **+Ger** = Gerund
+ * **+Neg** = Negation verb
+ * **+ConNeg** = Invariant main verb in negation expression
+ * **+Prc** = Participle
+ * **+Nec** = Necessive infinitive
  * **+Fut** = Future participle
- * **+Neg	** = Negative participle
- * **+Imprf	** = Imperfective (?) -- XXX check this
- * **+Act	** = Active
- * **+Pass	** = Passive
+ * **+Neg** = Negative participle
+ * **+Imprf** = Imperfective (?) -- XXX check this
+ * **+Act** = Active
+ * **+Pass** = Passive
 
 
 Question and Focus particles:
@@ -175,9 +175,9 @@ Question and Focus particles:
 
  * **+Foc/at** = -at focus particla
  * **+Foc/ak** = -ak focus particle
- * **+Foc/ys	** = -ys focus particle
- * **+Foc/jan	** = -jan focus particle
- * **+Foc/ja	** = -ja focus particle
+ * **+Foc/ys** = -ys focus particle
+ * **+Foc/jan** = -jan focus particle
+ * **+Foc/ja** = -ja focus particle
 
 ### Tags distinguishing different versions of the same lemma (before POS)
  * +v1
@@ -258,9 +258,9 @@ here and there in the inflection pattern.
  * **+Hom1** = First pattern (let us say -ам)
  * **+Hom2** = Second pattern (let us say -ем)
  * **+Hom3** = Third pattern (if it should exist + even more?)
- * **+Hom4	** = 
- * **+Hom5	** = 
- * **+Hom6	** = 
+ * **+Hom4** = 
+ * **+Hom5** = 
+ * **+Hom6** = 
 
 ### Usage tags
 
@@ -384,129 +384,129 @@ The Usage extents are marked using following tags:
 
 Multiple Semantic tags:
 
- * **+Sem/Act_Group					** = 
- * **+Sem/Act_Plc					** = 
- * **+Sem/Act_Route					** = 
- * **+Sem/Amount_Build				** = 
- * **+Sem/Amount_Semcon				** = 
- * **+Sem/Ani_Body-abstr_Hum			** = 
- * **+Sem/Ani_Build					** = 
- * **+Sem/Ani_Build-part				** = 
- * **+Sem/Ani_Build_Hum_Txt			** = 
- * **+Sem/Ani_Group					** = 
- * **+Sem/Ani_Group_Hum				** = 
- * **+Sem/Ani_Hum					** = 
- * **+Sem/Ani_Hum_Plc				** = 
- * **+Sem/Ani_Hum_Time				** = 
- * **+Sem/Ani_Plc					** = 
- * **+Sem/Ani_Plc_Txt				** = 
- * **+Sem/Ani_Time					** = 
- * **+Sem/Ani_Veh					** = 
- * **+Sem/Aniprod_Hum				** = 
- * **+Sem/Aniprod_Obj-clo			** = 
- * **+Sem/Aniprod_Perc-phys			** = 
- * **+Sem/Aniprod_Plc				** = 
+ * **+Sem/Act_Group** = 
+ * **+Sem/Act_Plc** = 
+ * **+Sem/Act_Route** = 
+ * **+Sem/Amount_Build** = 
+ * **+Sem/Amount_Semcon** = 
+ * **+Sem/Ani_Body-abstr_Hum** = 
+ * **+Sem/Ani_Build** = 
+ * **+Sem/Ani_Build-part** = 
+ * **+Sem/Ani_Build_Hum_Txt** = 
+ * **+Sem/Ani_Group** = 
+ * **+Sem/Ani_Group_Hum** = 
+ * **+Sem/Ani_Hum** = 
+ * **+Sem/Ani_Hum_Plc** = 
+ * **+Sem/Ani_Hum_Time** = 
+ * **+Sem/Ani_Plc** = 
+ * **+Sem/Ani_Plc_Txt** = 
+ * **+Sem/Ani_Time** = 
+ * **+Sem/Ani_Veh** = 
+ * **+Sem/Aniprod_Hum** = 
+ * **+Sem/Aniprod_Obj-clo** = 
+ * **+Sem/Aniprod_Perc-phys** = 
+ * **+Sem/Aniprod_Plc** = 
  * **+Sem/Body-abstr_Prod-audio_Semcon** = 
- * **+Sem/Body_Body-abstr			** = 
- * **+Sem/Body_Clth					** = 
- * **+Sem/Body_Food					** = 
- * **+Sem/Body_Group_Hum				** = 
- * **+Sem/Body_Hum					** = 
- * **+Sem/Body_Mat					** = 
- * **+Sem/Body_Measr					** = 
- * **+Sem/Body_Obj_Tool-catch		** = 
- * **+Sem/Body_Plc					** = 
- * **+Sem/Body_Time					** = 
- * **+Sem/Build-part_Plc				** = 
- * **+Sem/Build_Build-part			** = 
- * **+Sem/Build_Clth-part			** = 
- * **+Sem/Build_Edu_Org				** = 
- * **+Sem/Build_Event_Org			** = 
- * **+Sem/Build_Org					** = 
- * **+Sem/Build_Route				** = 
- * **+Sem/Clth-jewl_Curr				** = 
- * **+Sem/Clth-jewl_Money			** = 
- * **+Sem/Clth-jewl_Plant			** = 
- * **+Sem/Clth_Hum					** = 
- * **+Sem/Ctain-abstr_Org			** = 
- * **+Sem/Ctain-clth_Plant			** = 
- * **+Sem/Ctain-clth_Veh				** = 
- * **+Sem/Ctain_Feat-phys			** = 
- * **+Sem/Ctain_Furn					** = 
- * **+Sem/Ctain_Tool					** = 
- * **+Sem/Ctain_Tool-measr			** = 
- * **+Sem/Curr_Org					** = 
- * **+Sem/Dance_Org					** = 
- * **+Sem/Dance_Prod-audio			** = 
- * **+Sem/Domain_Food-med			** = 
- * **+Sem/Domain_Prod-audio			** = 
- * **+Sem/Edu_Event					** = 
- * **+Sem/Edu_Group_Hum				** = 
- * **+Sem/Edu_Mat					** = 
- * **+Sem/Edu_Org					** = 
- * **+Sem/Event_Food					** = 
- * **+Sem/Event_Hum					** = 
- * **+Sem/Event_Plc					** = 
- * **+Sem/Event_Time					** = 
- * **+Sem/Feat-phys_Tool-write		** = 
- * **+Sem/Feat-phys_Veh				** = 
- * **+Sem/Feat-phys_Wthr				** = 
- * **+Sem/Feat-psych_Hum				** = 
- * **+Sem/Feat_Plant					** = 
- * **+Sem/Food_Perc-phys				** = 
- * **+Sem/Food_Plant					** = 
- * **+Sem/Game_Obj-play				** = 
- * **+Sem/Geom_Obj					** = 
- * **+Sem/Group_Hum					** = 
- * **+Sem/Group_Hum_Org				** = 
- * **+Sem/Group_Hum_Plc				** = 
- * **+Sem/Group_Hum_Prod-vis			** = 
- * **+Sem/Group_Org					** = 
- * **+Sem/Group_Sign					** = 
- * **+Sem/Group_Txt					** = 
- * **+Sem/Hum_Lang					** = 
- * **+Sem/Hum_Lang_Plc				** = 
- * **+Sem/Hum_Lang_Time				** = 
- * **+Sem/Hum_Obj					** = 
- * **+Sem/Hum_Org					** = 
- * **+Sem/Hum_Plant					** = 
- * **+Sem/Hum_Plc					** = 
- * **+Sem/Hum_Tool					** = 
- * **+Sem/Hum_Veh					** = 
- * **+Sem/Hum_Wthr					** = 
- * **+Sem/Lang_Tool					** = 
- * **+Sem/Mat_Plant					** = 
- * **+Sem/Mat_Txt					** = 
- * **+Sem/Measr_Time					** = 
- * **+Sem/Money_Obj					** = 
- * **+Sem/Money_Txt					** = 
- * **+Sem/Obj-play					** = 
- * **+Sem/Obj-play_Sport				** = 
- * **+Sem/Obj_Semcon					** = 
- * **+Sem/Clth-jewl_Org				** = 
- * **+Sem/Org_Rule					** = 
- * **+Sem/Org_Txt					** = 
- * **+Sem/Org_Veh					** = 
- * **+Sem/Part_Prod-cogn				** = 
- * **+Sem/Perc-emo_Wthr				** = 
- * **+Sem/Plant_Plant-part			** = 
- * **+Sem/Plant_Tool					** = 
- * **+Sem/Plant_Tool-measr			** = 
- * **+Sem/Plc-abstr_Rel_State		** = 
- * **+Sem/Plc-abstr_Route			** = 
- * **+Sem/Plc_Pos					** = 
- * **+Sem/Plc_Route					** = 
- * **+Sem/Plc_Substnc				** = 
- * **+Sem/Plc_Substnc_Wthr			** = 
- * **+Sem/Plc_Time					** = 
- * **+Sem/Plc_Tool-catch				** = 
- * **+Sem/Plc_Wthr					** = 
- * **+Sem/Prod-audio_Txt				** = 
- * **+Sem/Prod-cogn_Txt				** = 
- * **+Sem/Semcon_Txt					** = 
- * **+Sem/Obj_State					** = 
- * **+Sem/Substnc_Wthr				** = 
- * **+Sem/Time_Wthr					** = 
+ * **+Sem/Body_Body-abstr** = 
+ * **+Sem/Body_Clth** = 
+ * **+Sem/Body_Food** = 
+ * **+Sem/Body_Group_Hum** = 
+ * **+Sem/Body_Hum** = 
+ * **+Sem/Body_Mat** = 
+ * **+Sem/Body_Measr** = 
+ * **+Sem/Body_Obj_Tool-catch** = 
+ * **+Sem/Body_Plc** = 
+ * **+Sem/Body_Time** = 
+ * **+Sem/Build-part_Plc** = 
+ * **+Sem/Build_Build-part** = 
+ * **+Sem/Build_Clth-part** = 
+ * **+Sem/Build_Edu_Org** = 
+ * **+Sem/Build_Event_Org** = 
+ * **+Sem/Build_Org** = 
+ * **+Sem/Build_Route** = 
+ * **+Sem/Clth-jewl_Curr** = 
+ * **+Sem/Clth-jewl_Money** = 
+ * **+Sem/Clth-jewl_Plant** = 
+ * **+Sem/Clth_Hum** = 
+ * **+Sem/Ctain-abstr_Org** = 
+ * **+Sem/Ctain-clth_Plant** = 
+ * **+Sem/Ctain-clth_Veh** = 
+ * **+Sem/Ctain_Feat-phys** = 
+ * **+Sem/Ctain_Furn** = 
+ * **+Sem/Ctain_Tool** = 
+ * **+Sem/Ctain_Tool-measr** = 
+ * **+Sem/Curr_Org** = 
+ * **+Sem/Dance_Org** = 
+ * **+Sem/Dance_Prod-audio** = 
+ * **+Sem/Domain_Food-med** = 
+ * **+Sem/Domain_Prod-audio** = 
+ * **+Sem/Edu_Event** = 
+ * **+Sem/Edu_Group_Hum** = 
+ * **+Sem/Edu_Mat** = 
+ * **+Sem/Edu_Org** = 
+ * **+Sem/Event_Food** = 
+ * **+Sem/Event_Hum** = 
+ * **+Sem/Event_Plc** = 
+ * **+Sem/Event_Time** = 
+ * **+Sem/Feat-phys_Tool-write** = 
+ * **+Sem/Feat-phys_Veh** = 
+ * **+Sem/Feat-phys_Wthr** = 
+ * **+Sem/Feat-psych_Hum** = 
+ * **+Sem/Feat_Plant** = 
+ * **+Sem/Food_Perc-phys** = 
+ * **+Sem/Food_Plant** = 
+ * **+Sem/Game_Obj-play** = 
+ * **+Sem/Geom_Obj** = 
+ * **+Sem/Group_Hum** = 
+ * **+Sem/Group_Hum_Org** = 
+ * **+Sem/Group_Hum_Plc** = 
+ * **+Sem/Group_Hum_Prod-vis** = 
+ * **+Sem/Group_Org** = 
+ * **+Sem/Group_Sign** = 
+ * **+Sem/Group_Txt** = 
+ * **+Sem/Hum_Lang** = 
+ * **+Sem/Hum_Lang_Plc** = 
+ * **+Sem/Hum_Lang_Time** = 
+ * **+Sem/Hum_Obj** = 
+ * **+Sem/Hum_Org** = 
+ * **+Sem/Hum_Plant** = 
+ * **+Sem/Hum_Plc** = 
+ * **+Sem/Hum_Tool** = 
+ * **+Sem/Hum_Veh** = 
+ * **+Sem/Hum_Wthr** = 
+ * **+Sem/Lang_Tool** = 
+ * **+Sem/Mat_Plant** = 
+ * **+Sem/Mat_Txt** = 
+ * **+Sem/Measr_Time** = 
+ * **+Sem/Money_Obj** = 
+ * **+Sem/Money_Txt** = 
+ * **+Sem/Obj-play** = 
+ * **+Sem/Obj-play_Sport** = 
+ * **+Sem/Obj_Semcon** = 
+ * **+Sem/Clth-jewl_Org** = 
+ * **+Sem/Org_Rule** = 
+ * **+Sem/Org_Txt** = 
+ * **+Sem/Org_Veh** = 
+ * **+Sem/Part_Prod-cogn** = 
+ * **+Sem/Perc-emo_Wthr** = 
+ * **+Sem/Plant_Plant-part** = 
+ * **+Sem/Plant_Tool** = 
+ * **+Sem/Plant_Tool-measr** = 
+ * **+Sem/Plc-abstr_Rel_State** = 
+ * **+Sem/Plc-abstr_Route** = 
+ * **+Sem/Plc_Pos** = 
+ * **+Sem/Plc_Route** = 
+ * **+Sem/Plc_Substnc** = 
+ * **+Sem/Plc_Substnc_Wthr** = 
+ * **+Sem/Plc_Time** = 
+ * **+Sem/Plc_Tool-catch** = 
+ * **+Sem/Plc_Wthr** = 
+ * **+Sem/Prod-audio_Txt** = 
+ * **+Sem/Prod-cogn_Txt** = 
+ * **+Sem/Semcon_Txt** = 
+ * **+Sem/Obj_State** = 
+ * **+Sem/Substnc_Wthr** = 
+ * **+Sem/Time_Wthr** = 
 
 
 Semantics are classified with
@@ -515,12 +515,12 @@ Semantics are classified with
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
 
- * **+V→N 	** = 
- * **+V→V 	** = 
- * **+V→A	** = 
- * **+N→A	** = 
+ * **+V→N** = 
+ * **+V→V** = 
+ * **+V→A** = 
+ * **+N→A** = 
  * **+Der/xxx** = 
- * **+Der/mO	** = 
+ * **+Der/mO** = 
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
@@ -539,23 +539,23 @@ symbols in the lexicon files:
  * {aä} for vowel harmony
  * {oö} for vowel harmony
  * {uü} for vowel harmony
- * **е1 	** = 
- * **а1 	** = 
- * **и1 	** = 
- * **у1 	** = 
- * **ӱ1 	** = 
- * **я1	** = 
+ * **е1** = 
+ * **а1** = 
+ * **и1** = 
+ * **у1** = 
+ * **ӱ1** = 
+ * **я1** = 
 
  * **Е1** = lative
- * **Е2 	** = 
- * **А2 	** = 
- * **Ы1 	** = stem-onset archi-vowel
- * **Ы2	** =
- * **з2	** = for возаш : воч 
+ * **Е2** = 
+ * **А2** = 
+ * **Ы1** = stem-onset archi-vowel
+ * **Ы2** =
+ * **з2** = for возаш : воч 
  * к2   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
  * н2   шинч- шич# "sit down/сесть"
  * т2   лект- лек# "leave/ уходить"
- * **%>	** = 
+ * **%>** = 
  * **+TEST** = 
 
 And following triggers to control variation
@@ -592,10 +592,10 @@ And following triggers to control variation
 * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
 
 
- * **+Cmp		** = nouns
- * **+Cmp/Hyph	** = nouns
+ * **+Cmp** = nouns
+ * **+Cmp/Hyph** = nouns
  * **+Cmp/SoftHyph** = nouns
- * **+Cmp/SplitR	** = nouns
+ * **+Cmp/SplitR** = nouns
 
 
 
