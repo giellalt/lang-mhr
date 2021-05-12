@@ -1,3 +1,7 @@
+* [dependency-cg3-src.md](dependency-cg3-src.md)
+* [disambiguator-cg3-src.md](disambiguator-cg3-src.md)
+* [korp-cg3-src.md](korp-cg3-src.md)
+* [functions-cg3-src.md](functions-cg3-src.md)
 * [acronyms-stems-fst-src.md](acronyms-stems-fst-src.md)
 * [exceptions-stems-fst-src.md](exceptions-stems-fst-src.md)
 * [mhr-propernouns-stems-fst-src.md](mhr-propernouns-stems-fst-src.md)
@@ -14,3 +18,4 @@
 * [root-fst-src.md](root-fst-src.md)
 * [compounding-fst-src.md](compounding-fst-src.md)
 * [transcriptor-abbrevs2text-transcriptions-src.md](transcriptor-abbrevs2text-transcriptions-src.md)
+* [grammarchecker-grammarcheckers-tools.md](grammarchecker-grammarcheckers-tools.md)
