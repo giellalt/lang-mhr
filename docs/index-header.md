@@ -5,11 +5,13 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mhr)](https://github.com/giellalt/lang-mhr/issues)
 [![Build status](https://github.com/giellalt/lang-mhr/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mhr/actions)
 
-This page documents the work on the **Eastern Mari language model**. 
+This page documents the work on the [Eastern Mari language model](http://github.com/giellalt/lang-mhr). 
 
 # Project documentation
 
-* Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
+## Meetings
+
+* [The 2018 Ghent workshop](meetings/GhentWorkshop2018.html)
 
 # In-source documentation
 
