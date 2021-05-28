@@ -1,4 +1,6 @@
-!! # Mari twol file
+!! # Eastern Mari twol file
+
+!! This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mhr/blob/main/src/fst/phonology.twolc) 
 
 !! This file contains rules for morphophonological alternations, such as
 !! vowel harmony, stem vowel changes, palatalisation, etc.
