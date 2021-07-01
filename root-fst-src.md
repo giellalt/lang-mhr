@@ -273,7 +273,7 @@ The Usage extents are marked using following tags:
  * **+Use/CircN** circular paths for the numerals (old ^N^)
  * **+Use/NG** not-generate, for ped generation isme-ped.fst
  * **+Use/MT** Generate for MT only, for restricting analyses needed 
-              for MT generation not to pop up elsewhere
+for MT generation not to pop up elsewhere
  * **+Use/NGminip** Not for miniparadigm in VD dicts
  * **+Use/Disamb** means that the following is only used in the analyser feeding the disambiguator
  * **+Use/GC** only retained in the HFST Grammar Checker disambiguation analyser
@@ -670,7 +670,7 @@ the following basic word classes:
 
 
 
- Continuation lexica 
+Continuation lexica 
 
 Here comes a set of ragbag continuation lexica.
 
@@ -703,3 +703,5 @@ Here comes a set of ragbag continuation lexica.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/root.lexc)</small>

@@ -1,7 +1,7 @@
 
-   S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
+S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
 
- Sámi language technology project 2003-2014, University of Tromsø # 
+Sámi language technology project 2003-2014, University of Tromsø # 
 
 
 
@@ -22,3 +22,5 @@ proper nouns.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/korp.cg3](http://github.com/giellalt/lang-mhr/blob/main/../src/cg3/korp.cg3)</small>

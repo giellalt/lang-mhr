@@ -100,3 +100,5 @@ These need work 2012-09-21
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/verbs.lexc)</small>

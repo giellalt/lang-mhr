@@ -91,3 +91,5 @@ The Roman numerals !
  * **LEXICON ARABICCASEORD_Front** ordinals
  * **LEXICON ARABICCASEORD_FrontRound** ordinals
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/stems/numerals.lexc)</small>

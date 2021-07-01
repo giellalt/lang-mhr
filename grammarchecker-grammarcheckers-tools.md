@@ -1,5 +1,5 @@
 
-      M E A D O W   M A R I   G R A M M A R   C H E C K E R
+M E A D O W   M A R I   G R A M M A R   C H E C K E R
 
 
 
@@ -220,3 +220,5 @@ Grammarchecker rules begin here
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-mhr/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>

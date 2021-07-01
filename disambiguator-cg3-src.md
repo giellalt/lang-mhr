@@ -413,7 +413,7 @@ Phrases
 * **Sg1NotSg3** removes Prt1 Sg3 when Pers Sg1 Nom in same clause
 
 * **Sg3NotSg1** removes Prt1 Sg1 when there is no Pers Sg1 Nom in same clause
-    - This definitely is too strong, it precludes zero Sg1 subjects
+- This definitely is too strong, it precludes zero Sg1 subjects
 
 ### ConNeg or not
 * **NoConNeg1** No ConNeg if no Neg to the left
@@ -445,3 +445,5 @@ Phrases
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-mhr/blob/main/../src/cg3/disambiguator.cg3)</small>
