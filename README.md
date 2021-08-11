@@ -3,13 +3,13 @@ The Eastern Mari (Meadow and Eastern Mari) morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mhr)](https://github.com/giellalt/lang-mhr/issues)
 [![Build Status](https://github.com/giellalt/lang-mhr/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mhr/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-mhr)](https://raw.githubusercontent.com/giellalt/lang-mhr/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-mhr)](https://raw.githubusercontent.com/giellalt/lang-mhr/main/LICENSE)
 
 This repository contains finite state source files for the Eastern Mari language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under GNU GPL
 licence, also detailed in the
-[LICENCE](https://github.com/giellalt/lang-mhr/blob/develop/LICENCE). The
+[LICENSE](https://github.com/giellalt/lang-mhr/blob/main/LICENCE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
 
