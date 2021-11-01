@@ -72,7 +72,7 @@ Define alphabet "a-z" !! * lower-case ASCII
                | "0-9" !! ASCII digits
                | Lst({_§°†©№„º‰♦●®£−¬±¥}) !! * select symbols
                ! The rest are taken from mhr conversion:
-               |Lst({#@\¢¦ªºÇÐÑ×ÞçñśȬȺȻȼȽȾȿɀɁɂɃɅɆɇɈɉɊɋɌɍɐɑɒɓɕɖɗɘəɚɛɜɝɞɟɠɡɢɣɤɥɦɧɩɪɫɬɭɮɯɰɱɲɳɴɶɷɸɹɺʋʼˆϸ}‒‡‰№™→■□▲►▼★☆☺♦✓❖})
+               |Lst({#@\¢¦ªºÇÐÑ×ÞçñśȬȺȻȼȽȾȿɀɁɂɃɅɆɇɈɉɊɋɌɍɐɑɒɓɕɖɗɘəɚɛɜɝɞɟɠɡɢɣɤɥɦɧɩɪɫɬɭɮɯɰɱɲɳɴɶɷɸɹɺʋʼˆϸ‒‡‰№™→■□▲►▼★☆☺♦✓❖})
 
                !! * Combining diacritics as individual symbols,
                ! to be able to analyse unknown words with
