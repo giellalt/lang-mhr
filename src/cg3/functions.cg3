@@ -385,7 +385,7 @@ LIST Der/vuollai = Der/vuollai ;
 LIST Der/vuolde = Der/vuolde ;
 LIST <sma> = <sma> ←sma→ ;
 
-#!! !!Syntactic tags
+#!! ## Syntactic tags
 # --------------
 
 LIST @+FAUXV = @+FAUXV ;  	#!! * @+FAUXV : finite auxiliary verb 
@@ -2707,7 +2707,7 @@ MAP:leftoversX (@X) TARGET WORD ;
 
 
 
-#!! !!For Apertium:
+#!! ## For Apertium:
 #!! The analysis give double analysis because of optional semtags. We go for the one with semtag.
 
 SELECT SEMTAGS + N ;
