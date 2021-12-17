@@ -1,0 +1,25 @@
+#!/bin/bash
+
+HFST_TOKENISE=@HFST_TOKENISE@
+PMATCHFILE=@builddir@/../tokeniser-disamb-gt-desc.pmhfst
+
+function tokenise_with_timeout() {
+    echo "$@" |\
+        timeout 10s \
+            ${HFST_TOKENISE} --print-all --giella-cg --unique ${PMATCHFILE}
+}
+
+if test -x ${HFST_TOKENISE} ; then
+    if test -f ${PMATCHFILE} ; then
+        # 4
+        tokenise_with_timeout "Ильминскийыматконтрреволюционерлан"
+        # 3
+        tokenise_with_timeout \
+            "Тора - ев- рей-влакын ожнысо религиозно-мифологический возыма- шышт."
+    else
+        echo ${PMATCHFILE} not found
+    fi
+else
+    echo ${HFST_TOKENISE} not found
+    exit 77
+fi
