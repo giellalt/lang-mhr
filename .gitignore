@@ -86,6 +86,7 @@
 /tools/mt/apertium/tagsets/apertium.relabel
 /tools/mt/apertium/tagsets/apertiumtags.txt
 /tools/mt/apertium/tagsets/mt-tags.txt
+/tools/tokenisers/tests/infinite-loops.bash
 /tools/spellcheckers/filters/rename-POS_before_Der-tags.regex
 /tools/shellscripts/u*-gt.sh
 /tools/spellcheckers/easteregg.*
