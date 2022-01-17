@@ -7,13 +7,13 @@
 
 ## The initial lexica
 
- * **LEXICON Numeral**  initial lexica
+* **LEXICON Numerallexica**  initial lexica
 
 
 
 
 
- * **LEXICON ARABIC** arabic numerals
+* **LEXICON ARABICnumerals** arabic numerals
 
 
 
@@ -22,74 +22,74 @@
 
 
 
- * **LEXICON ARABICLOOP**
+* **LEXICON ARABICLOOP**@CODE@****
 
 
- * **LEXICON ARABICLOOPORD_Back** ordinals
+* **LEXICON ARABICLOOPORD_Backordinals** ordinals
 
- * **LEXICON ARABICLOOPORD_Front** ordinals
+* **LEXICON ARABICLOOPORD_Frontordinals** ordinals
 
- * **LEXICON ARABICLOOPORD_FrontRound** ordinals
+* **LEXICON ARABICLOOPORD_FrontRoundordinals** ordinals
 
 
- * **LEXICON ARABICDELIMITERORD_Back** ordinals
+* **LEXICON ARABICDELIMITERORD_Backordinals** ordinals
 
- * **LEXICON ARABICDELIMITERORD_Front** ordinals
+* **LEXICON ARABICDELIMITERORD_Frontordinals** ordinals
 
- * **LEXICON ARABICDELIMITERORD_FrontRound** ordinals
+* **LEXICON ARABICDELIMITERORD_FrontRoundordinals** ordinals
 
 
 
 The Roman numerals !
 ------------------ !
 
- * **LEXICON ROMAN**  roman numerals
+* **LEXICON ROMANnumerals**  roman numerals
 
- * **LEXICON ROM-THOUSAND**
+* **LEXICON ROM-THOUSAND**@CODE@****
 
- * **LEXICON ROM-THOUSAND-TAG**
+* **LEXICON ROM-THOUSAND-TAG**@CODE@****
 
- * **LEXICON ROM-HUNDRED**
+* **LEXICON ROM-HUNDRED**@CODE@****
 
- * **LEXICON ROM-HUNDRED-TAG**
+* **LEXICON ROM-HUNDRED-TAG**@CODE@****
 
- * **LEXICON ROM-TEN**
+* **LEXICON ROM-TEN**@CODE@****
 
- * **LEXICON ROM-TEN-TAG**
+* **LEXICON ROM-TEN-TAG**@CODE@****
 
- * **LEXICON ROM-ONE**
+* **LEXICON ROM-ONE**@CODE@****
 
- * **LEXICON ROM-ONE-TAG**
-
-
- * **LEXICON ROM-SPLIT**
+* **LEXICON ROM-ONE-TAG**@CODE@****
 
 
-
- * **LEXICON 2ROMAN**
-
- * **LEXICON 2ROM-THOUSAND**
-
- * **LEXICON 2ROM-THOUSAND-TAG**
-
- * **LEXICON 2ROM-HUNDRED**
-
- * **LEXICON 2ROM-HUNDRED-TAG**
-
- * **LEXICON 2ROM-TEN**
-
- * **LEXICON 2ROM-TEN-TAG**
-
- * **LEXICON 2ROM-ONE**
-
- * **LEXICON 2ROM-ONE-TAG**
-
- * **LEXICON ROMNUMTAG**
+* **LEXICON ROM-SPLIT**@CODE@****
 
 
- * **LEXICON ARABICCASEORD_Back** ordinals Is this then becoming +Ex/A?
- * **LEXICON ARABICCASEORD_Front** ordinals
- * **LEXICON ARABICCASEORD_FrontRound** ordinals
+
+* **LEXICON 2ROMAN**@CODE@****
+
+* **LEXICON 2ROM-THOUSAND**@CODE@****
+
+* **LEXICON 2ROM-THOUSAND-TAG**@CODE@****
+
+* **LEXICON 2ROM-HUNDRED**@CODE@****
+
+* **LEXICON 2ROM-HUNDRED-TAG**@CODE@****
+
+* **LEXICON 2ROM-TEN**@CODE@****
+
+* **LEXICON 2ROM-TEN-TAG**@CODE@****
+
+* **LEXICON 2ROM-ONE**@CODE@****
+
+* **LEXICON 2ROM-ONE-TAG**@CODE@****
+
+* **LEXICON ROMNUMTAG**@CODE@****
+
+
+* **LEXICON ARABICCASEORD_Back+Ex/A?** ordinals Is this then becoming +Ex/A?
+* **LEXICON ARABICCASEORD_Frontordinals** ordinals
+* **LEXICON ARABICCASEORD_FrontRoundordinals** ordinals
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/stems/numerals.lexc)</small>
