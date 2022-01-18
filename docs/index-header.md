@@ -25,17 +25,17 @@ dictionary.
 
 # Project documentation
 
-* [Discussions on the tag inventory](TagDiscussion.html)
-* [How to analyse text with old orthography](AnalysisWithOldOrthography.html)
+* [Discussions on the tag inventory](TagDiscussion.md)
+* [How to analyse text with old orthography](AnalysisWithOldOrthography.md)
 
 ## Meetings
 
-* [The 2018 Ghent workshop](meetings/GhentWorkshop2018.html)
+* [The 2018 Ghent workshop](meetings/GhentWorkshop2018.md)
 
 # Testing, development
 
-* [Twolc issues to look into](TwolcIssues.html)
-* [Test diary](TestDiary.html)
+* [Twolc issues to look into](TwolcIssues.md)
+* [Test diary](TestDiary.md)
 
 # In-source documentation
 
