@@ -7,11 +7,35 @@
 
 This page documents the work on the [Eastern Mari language model](http://github.com/giellalt/lang-mhr). 
 
+It is currently being developed by a work group consisting of
+Jeremy Bradley (LMU Munich/University of Vienna), Jorma Luutonen (University of Turku),
+Jack Rueter (Helsinki), Alexandra Simonenko (FWO/University of Ghent),
+Trond Trosterud (UiT Tromsø), and Anna Volkova (HSE, Moscow). It was 
+built on Jorma Luutonen's analyser from 1985, but converted to the 
+format of modern compilers.
+
+The morphological model is also based on the University of Vienna's
+morphological analyzer of Mari found at 
+[morph.mari-language.com](http://morph.mari-language.com).
+
+The analyser is in use in a morphologically enriched Meadow Mari
+dictionary. 
+
+* Generation of: [paradigms](http://giellatekno.uit.no/cgi/p-mhr.eng.html)
+
 # Project documentation
+
+* [Discussions on the tag inventory](TagDiscussion.html)
+* [How to analyse text with old orthography](AnalysisWithOldOrthography.html)
 
 ## Meetings
 
 * [The 2018 Ghent workshop](meetings/GhentWorkshop2018.html)
+
+# Testing, development
+
+* [Twolc issues to look into](TwolcIssues.html)
+* [Test diary](TestDiary.html)
 
 # In-source documentation
 
