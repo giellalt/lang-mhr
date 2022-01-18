@@ -9,71 +9,71 @@ We define our symbols (**Alphabet**), some **Sets**, and then the **Rules**
 
 
 ## Letters of the alphabet
- * а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
- * А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
+* а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
+* А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
 
 other symbols
- *    %- 
+*    %- 
 
 Archiphonemes for vowels, Giellatekno style
- *   Е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
- *  Ы2:е     Variation in еоыӧØ
- *   А1:а    
- *   Е2:е А2:а   
+*   Е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
+*  Ы2:е     Variation in еоыӧØ
+*   А1:а    
+*   Е2:е А2:а   
 
 Archiphonemes for vowels, Apertium style
- * %{аы%}:а  Stem-final vowel variation when stress falls on non-final vowel
- * %{аы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
- * %{еы%}:е  Stem-final vowel variation when stress falls on non-final vowel
- * %{еы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
- * %{оы%}:о  Stem-final vowel variation when stress falls on non-final vowel
- * %{оы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
- * %{ӧы%}:ӧ  Stem-final vowel variation when stress falls on non-final vowel
- * %{ӧы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{аы%}:а  Stem-final vowel variation when stress falls on non-final vowel
+* %{аы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{еы%}:е  Stem-final vowel variation when stress falls on non-final vowel
+* %{еы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{оы%}:о  Stem-final vowel variation when stress falls on non-final vowel
+* %{оы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{ӧы%}:ӧ  Stem-final vowel variation when stress falls on non-final vowel
+* %{ӧы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
 
- * %{яы%}:я  Stem-final vowel variation when stress falls on non-final vowel
- * %{яы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{яы%}:я  Stem-final vowel variation when stress falls on non-final vowel
+* %{яы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
 
- * %{еоыӧØ%}:е   PxSg3 final
- * %{еоыӧØ%}:о   PxSg3 final
- * %{еоыӧØ%}:ӧ   PxSg3 final
- * %{еоыӧØ%}:0   PxSg3 final
- * %{еоыӧØ%}:ы   PxSg3 final
- * %{ыØ%}:ы   PxSg3 onset
- * %{ыØ%}:0   PxSg3 onset
+* %{еоыӧØ%}:е   PxSg3 final
+* %{еоыӧØ%}:о   PxSg3 final
+* %{еоыӧØ%}:ӧ   PxSg3 final
+* %{еоыӧØ%}:0   PxSg3 final
+* %{еоыӧØ%}:ы   PxSg3 final
+* %{ыØ%}:ы   PxSg3 onset
+* %{ыØ%}:0   PxSg3 onset
 
- * %{ьØ%}:0   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
+* %{ьØ%}:0   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
 
 
- *  Е1:е  for lative
+*  Е1:е  for lative
 
 
 ### Arcihphonemes for consonants
 
- * з2:з   for з:ч, thus  возаш - воч but колхоз (*колхоч)
- * з2:ч   for native stems
- * к2:0   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
- * к2:к   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
- * н2:0   шинч- шич# "sit down/сесть"
- * н2:н   шинч- шич# "sit down/сесть"
- * т2:0   лект- лек# "leave/ уходить"
- * т2:т   лект- лек# "leave/ уходить"
+* з2:з   for з:ч, thus  возаш - воч but колхоз (*колхоч)
+* з2:ч   for native stems
+* к2:0   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+* к2:к   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+* н2:0   шинч- шич# "sit down/сесть"
+* н2:н   шинч- шич# "sit down/сесть"
+* т2:0   лект- лек# "leave/ уходить"
+* т2:т   лект- лек# "leave/ уходить"
 
 
 
- * %^V2IMPRT:0	 for -ем verbs in й
- * %^END:0		   for -ам verb final, i.e. Imprf
+* %^V2IMPRT:0	 for -ем verbs in й
+* %^END:0		   for -ам verb final, i.e. Imprf
 
- * %^VoTrigger:0   for use with acronyms after hyphen о у ё ю О У Ё Ю
- * %^VeTrigger:0   for use with acronyms after hyphen а е и э я А Е И Э Я
- * %^VOTrigger:0   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
- * %^Sonorant:0    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
- * %^Obstruent:0  for use with acronyms after hyphen С|Ф|Ъ|Ь
- * %^FrontObstr:0  for use with acronyms after hyphen 
+* %^VoTrigger:0   for use with acronyms after hyphen о у ё ю О У Ё Ю
+* %^VeTrigger:0   for use with acronyms after hyphen а е и э я А Е И Э Я
+* %^VOTrigger:0   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+* %^Sonorant:0    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+* %^Obstruent:0  for use with acronyms after hyphen С|Ф|Ъ|Ь
+* %^FrontObstr:0  for use with acronyms after hyphen 
 
 
 
- *  %>    
+*  %>    
 
 
 
@@ -81,26 +81,26 @@ Archiphonemes for vowels, Apertium style
 
 ## Sets
 
- * Vo =   о у ё ю О У Ё Ю ;    
- * VO =   ӧ ӱ Ӧ Ӱ;               
- * Ve =   а е и э я А Е И Э Я ;   
- * Vow =  Vo VO Ve ы Ы ;    
+* Vo =   о у ё ю О У Ё Ю ;    
+* VO =   ӧ ӱ Ӧ Ӱ;               
+* Ve =   а е и э я А Е И Э Я ;   
+* Vow =  Vo VO Ve ы Ы ;    
 
- * Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
-        з2 к2 н2 т2 ;   
+* Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
+       з2 к2 н2 т2 ;   
 
- * CnsAll =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
-        з2 к2 н2 т2 ;   
+* CnsAll =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
+       з2 к2 н2 т2 ;   
 
- * CnsNoj =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш щ   
-           Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш Щ;     
+* CnsNoj =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш щ   
+          Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш Щ;     
 
- * Cst =  б в г д ж з к п с т ф х ц ч ш щ       
-        Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш Щ;      
+* Cst =  б в г д ж з к п с т ф х ц ч ш щ       
+       Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш Щ;      
 
- * Ltrs = Vow Cns  ъ ь Ъ Ь ;    
+* Ltrs = Vow Cns  ъ ь Ъ Ь ;    
 
- * all =  Ltrs  %- ;     
+* all =  Ltrs  %- ;     
 
 
 

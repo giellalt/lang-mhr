@@ -1970,7 +1970,7 @@ This file consists of three parts:
 1. A set of lexica for minor parts of speech
 1. A set of unfinished lexica, to be either deleted or expanded.
 
-# Declaration of Multichar_Symbols@CODE@
+# Declaration of Multichar_Symbols
 
 ## Analysis symbols
 
@@ -1978,62 +1978,62 @@ The morphological analyses of the wordforms of Eastern Mari language are
 presented in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
-* **+WORKnouns** = nouns
+* **+WORK** = nouns
 
- * %^VoTrigger   for use with acronyms after hyphen
- * %^VeTrigger   for use with acronyms after hyphen
- * %^VOTrigger   for use with acronyms after hyphen
- * %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
- * %^Obstruent   for use with acronyms after hyphen С|Ф|Ъ|Ь
- * %^FrontObstr  for use with acronyms after hyphen С|Ф|Ъ|Ь
+* %^VoTrigger   for use with acronyms after hyphen
+* %^VeTrigger   for use with acronyms after hyphen
+* %^VOTrigger   for use with acronyms after hyphen
+* %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+* %^Obstruent   for use with acronyms after hyphen С|Ф|Ъ|Ь
+* %^FrontObstr  for use with acronyms after hyphen С|Ф|Ъ|Ь
 
 
-* **%^ENDword** = twolc tag to mark end of word
+* **%^END** = twolc tag to mark end of word
 
 ### The parts-of-speech are:
 
-* **+Nnouns** = nouns
-* **+Aadjectives** = adjectives
-* **+Adpadpositions** = adpositions
-* **+Advadverbs** = adverbs
-* **+Vverbs** = verbs
-* **+Pronpronouns** = pronouns
-* **+CSsubjunctions** = subjunctions
-* **+CCconjunctions** = conjunctions
-* **+Interjinterjections** = interjections
-* **+Pcleparticles** = particles
-* **+Numnumerals** = numerals
-* **+Descrideophones** = descriptive ideophones
+* **+N** = nouns
+* **+A** = adjectives
+* **+Adp** = adpositions
+* **+Adv** = adverbs
+* **+V** = verbs
+* **+Pron** = pronouns
+* **+CS** = subjunctions
+* **+CC** = conjunctions
+* **+Interj** = interjections
+* **+Pcle** = particles
+* **+Num** = numerals
+* **+Descr** = descriptive ideophones
 
 
 ### POS subtags
 The parts of speech are further split up into:
-* **+Popostpositions** = postpositions
-* **+Prprepositons** = prepositons
+* **+Po** = postpositions
+* **+Pr** = prepositons
 
-* **+Propnoun** = Proper noun
-* **+Perspronoun** = Personal pronoun
-* **+Dempronoun** = Demonstrative pronoun
-* **+Interrpronoun** = Interrogative pronoun
-* **+Reflpronoun** = Reflexive pronoun
-* **+Reciprpronoun** = Reciprocal pronoun
-* **+Relpronoun** = Relative pronoun
-* **+Indefpronoun** = Indefinite pronoun
-* **+Coll-ын-** = Collective numerals -ын-
-* **+AssocColl-нь-** = Collective associative numerals with obligatory possessive suffixes -нь-
+* **+Prop** = Proper noun
+* **+Pers** = Personal pronoun
+* **+Dem** = Demonstrative pronoun
+* **+Interr** = Interrogative pronoun
+* **+Refl** = Reflexive pronoun
+* **+Recipr** = Reciprocal pronoun
+* **+Rel** = Relative pronoun
+* **+Indef** = Indefinite pronoun
+* **+Coll** = Collective numerals -ын-
+* **+AssocColl** = Collective associative numerals with obligatory possessive suffixes -нь-
 
-* **+Patrfsts.** = patronym, look at this in other cyr fsts.
-* **+Auxverb** = Auxiliary verb
-* **+Depfst.** = ( pair verbs that do not occur independently get this marker.) /was +Depend, but +Dep used in fst.
+* **+Patr** = patronym, look at this in other cyr fsts.
+* **+Aux** = Auxiliary verb
+* **+Dep** = ( pair verbs that do not occur independently get this marker.) /was +Depend, but +Dep used in fst.
 
 
 Have a look at these:
 
 * **+Foc/Poss** = 
-* **+Prfperfective** = perfective
-* **+Arabnumerals** = arabic numerals
-* **+Qntquantifiers** = quantifiers
-* **+Romnumerals** = roman numerals
+* **+Prf** = perfective
+* **+Arab** = arabic numerals
+* **+Qnt** = quantifiers
+* **+Rom** = roman numerals
 * **+Weak** = weak (?) form 
 
 
@@ -2042,23 +2042,23 @@ The nominals are inflected in the following numbers
 * **+Sg** = 
 * **+Pl** = 
 * **+AssocPl** = 
-* **+LocPlcase?** = location, better witho LocusPl to avoid Loc case?
+* **+LocPl** = location, better witho LocusPl to avoid Loc case?
 
 The nominals are inflected in the following Case and Number
 
-* **+Nomnominative** = nominative
-* **+Gengenitive** = genitive
-* **+Accaccusative** = accusative
-* **+Comcomitative** = comitative
-* **+Illillative** = illative
-* **+Ineinessive** = inessive
-* **+Latlative** = lative
-* **+Datdative** = dative
-* **+Cmprcase** = comparative case
-* **+Abeabessive** = abessive
-* **+Vocvocative** = vocative
-* **+Attrform** = attributive form
-* **+Instr=** =
+* **+Nom** = nominative
+* **+Gen** = genitive
+* **+Acc** = accusative
+* **+Com** = comitative
+* **+Ill** = illative
+* **+Ine** = inessive
+* **+Lat** = lative
+* **+Dat** = dative
+* **+Cmpr** = comparative case
+* **+Abe** = abessive
+* **+Voc** = vocative
+* **+Attr** = attributive form
+* **+Instr** =
 
 
 The possession is marked as such:
@@ -2071,21 +2071,21 @@ The possession is marked as such:
 * **+PxPl3** = 
 
 Suffix ordering tags:
-* **+So/CPmarking** = Suffix ordering: Case + Possessive Person marking
-* **+So/PCmarking** = Suffix ordering: Possessive Person + Case marking
-* **+So/NCPmarking** = Suffix ordering: Number + Case + Possessive Person marking
-* **+So/NPCmarking** = Suffix ordering: Number + Possessive Person + Case marking
-* **+So/NPmarking** = Suffix ordering: Number + Possessive Person marking
-* **+So/PNmarking** = Suffix ordering: Possessive Person + Number marking
-* **+So/PNCmarking** = Suffix ordering: Possessive Person + Number + Case marking
+* **+So/CP** = Suffix ordering: Case + Possessive Person marking
+* **+So/PC** = Suffix ordering: Possessive Person + Case marking
+* **+So/NCP** = Suffix ordering: Number + Case + Possessive Person marking
+* **+So/NPC** = Suffix ordering: Number + Possessive Person + Case marking
+* **+So/NP** = Suffix ordering: Number + Possessive Person marking
+* **+So/PN** = Suffix ordering: Possessive Person + Number marking
+* **+So/PNC** = Suffix ordering: Possessive Person + Number + Case marking
 
 The comparative forms are:
-* **+CompCmp)** = comparative (not: not Cmp)
-* **+Superlsuperlative** = superlative
+* **+Comp** = comparative (not: not Cmp)
+* **+Superl** = superlative
 
 Numerals are classified under:
 
-* **+Cardskip+Card?)** = (hmm, skip+Card?)
+* **+Card** = (hmm, skip+Card?)
 * **+Ord** = 
 
 
@@ -2095,16 +2095,16 @@ Note the attributive tag, in defferent contexts
 
 Verb moods are:
 
-* **+Indindicative** = indicative
-* **+Condconditional** = conditional
-* **+Imprtimperative** = imperative
-* **+Desdesiderative** = desiderative
+* **+Ind** = indicative
+* **+Cond** = conditional
+* **+Imprt** = imperative
+* **+Des** = desiderative
 
 Verb tenses are:
 
-* **+Prspresent** = present
-* **+Prt1observation** = 1st preterite, direct observation
-* **+Prt2conclusion** = 2nd preterite, indirect narrative, conclusion
+* **+Prs** = present
+* **+Prt1** = 1st preterite, direct observation
+* **+Prt2** = 2nd preterite, indirect narrative, conclusion
 
 Verb personal forms are: (also used with personal pronouns)
 
@@ -2115,93 +2115,93 @@ Verb personal forms are: (also used with personal pronouns)
 * **+Pl2** = 
 * **+Pl3** = 
 
-* **+Extуло** = form уло
+* **+Ext** = form уло
 * **+Indep** = forms огым, огыт, ите 
 
 Other verb forms are
 
-* **+InfInfinitive** = Infinitive
-* **+GerGerund** = Gerund
-* **+Negverb** = Negation verb
-* **+ConNegexpression** = Invariant main verb in negation expression
-* **+PrcParticiple** = Participle
-* **+Necinfinitive** = Necessive infinitive
-* **+Futparticiple** = Future participle
-* **+Negparticiple** = Negative participle
-* **+Imprfthis** = Imperfective (?) -- XXX check this
-* **+ActActive** = Active
-* **+PassPassive** = Passive
+* **+Inf** = Infinitive
+* **+Ger** = Gerund
+* **+Neg** = Negation verb
+* **+ConNeg** = Invariant main verb in negation expression
+* **+Prc** = Participle
+* **+Nec** = Necessive infinitive
+* **+Fut** = Future participle
+* **+Neg** = Negative participle
+* **+Imprf** = Imperfective (?) -- XXX check this
+* **+Act** = Active
+* **+Pass** = Passive
 
 
 Question and Focus particles:
 * **+Qst** = 
 * **+Foc** = 
 
-* **+Foc/atparticla** = -at focus particla
-* **+Foc/akparticle** = -ak focus particle
-* **+Foc/ysparticle** = -ys focus particle
-* **+Foc/janparticle** = -jan focus particle
-* **+Foc/japarticle** = -ja focus particle
+* **+Foc/at** = -at focus particla
+* **+Foc/ak** = -ak focus particle
+* **+Foc/ys** = -ys focus particle
+* **+Foc/jan** = -jan focus particle
+* **+Foc/ja** = -ja focus particle
 
 ### Tags distinguishing different versions of the same lemma (before POS)
-* +v1@CODE@
-* +v2@CODE@
-* +v3@CODE@
-* +v4@CODE@
-* +v5@CODE@
-* +v6@CODE@
-* +v7@CODE@
-* +v8@CODE@
-* +v9@CODE@
-* +v10@CODE@
-* +v11@CODE@
-* +v12@CODE@
-* +v13@CODE@
-* +v14@CODE@
-* +v15@CODE@
-* +v16@CODE@
-* +v17@CODE@
-* +v18@CODE@
-* +v19@CODE@
-* +v20@CODE@
+* +v1
+* +v2
+* +v3
+* +v4
+* +v5
+* +v6
+* +v7
+* +v8
+* +v9
+* +v10
+* +v11
+* +v12
+* +v13
+* +v14
+* +v15
+* +v16
+* +v17
+* +v18
+* +v19
+* +v20
 
 ### Derivations
 
-* **+Ex/NPOS** = for derivation from N to anoter POS
-* **+Ex/VPOS** = for derivation from V  to anoter POS
-* **+Ex/APOS** = for derivation from A to anoter POS
-* **+Ex/TVtransitivity** = change to other transitivity
-* **+EX/IVtransitivity** = change to other transitivity
+* **+Ex/N** = for derivation from N to anoter POS
+* **+Ex/V** = for derivation from V  to anoter POS
+* **+Ex/A** = for derivation from A to anoter POS
+* **+Ex/TV** = change to other transitivity
+* **+EX/IV** = change to other transitivity
 
-* **+Derforms** = This allows for Ex/... forms
-* **+Der/NomNominalization** =  Derivation V > N: Nominalization
-* **+Der/NomNegnominalization** = Derivation V > N: Negative nominalization
-* **+Der/Privadjective** =  Derivation N > A: Privative adjective
-* **+Der/Posshead** =   Derivation N > A: Possessive adjective, orig. genitive form without a head
+* **+Der** = This allows for Ex/... forms
+* **+Der/Nom** =  Derivation V > N: Nominalization
+* **+Der/NomNeg** = Derivation V > N: Negative nominalization
+* **+Der/Priv** =  Derivation N > A: Privative adjective
+* **+Der/Poss** =   Derivation N > A: Possessive adjective, orig. genitive form without a head
 * **+Der/Pur** =   Derivation N > A: 
-* **+Der/Reladjective** =  Derivation N > A: Relational adjective
-* **+Der/CausCausative** = Derivation V > V: Causative
-* **+Der/ReflReflexive** = Derivation V > V: Reflexive
-* **+Der/MWNetc.)** = Modifier without noun (better: +A+Sg+Nom etc.)
+* **+Der/Rel** =  Derivation N > A: Relational adjective
+* **+Der/Caus** = Derivation V > V: Causative
+* **+Der/Refl** = Derivation V > V: Reflexive
+* **+Der/MWN** = Modifier without noun (better: +A+Sg+Nom etc.)
 
 All non-positional derivations should be preceded by this tag, to make it possible
 to target regular expressions at all derivations in a language-independent way:
 just specify +Der|+Der1 .. +Der5 and you are set.
 
-* +Der@CODE@
+* +Der
 
 
 Abbreviated words are classified with:
-* **+ABBRperiod** = for abbreviations that (may) contain period
-* **+Symbol©** = independent symbols in the text stream, like £, €, ©
-* **+ACRacronyms** = acronyms
+* **+ABBR** = for abbreviations that (may) contain period
+* **+Symbol** = independent symbols in the text stream, like £, €, ©
+* **+ACR** = acronyms
 
 Special symbols are classified with:
 
-* **+CLBsymbols** = clause and sentence boundary symbols
-* **+PUNCTmarks** = other punctuation marks
-* **+LEFTsymbols** = paired symbols
-* **+RIGHTsymbols** = paired symbols
+* **+CLB** = clause and sentence boundary symbols
+* **+PUNCT** = other punctuation marks
+* **+LEFT** = paired symbols
+* **+RIGHT** = paired symbols
 
 The verbs are syntactically split according to transitivity:
 * **+TV** = 
@@ -2219,9 +2219,9 @@ These are especially for verbs. Note that this is **not**
 a semantic distinction, we talk about paradigms deviating
 here and there in the inflection pattern.
 
-* **+Hom1-ам)** = First pattern (let us say -ам)
-* **+Hom2-ем)** = Second pattern (let us say -ем)
-* **+Hom3more?)** = Third pattern (if it should exist + even more?)
+* **+Hom1** = First pattern (let us say -ам)
+* **+Hom2** = Second pattern (let us say -ем)
+* **+Hom3** = Third pattern (if it should exist + even more?)
 * **+Hom4** = 
 * **+Hom5** = 
 * **+Hom6** = 
@@ -2230,119 +2230,119 @@ here and there in the inflection pattern.
 
 The Usage extents are marked using following tags:
 
-* **+Use/Margmarginal** marginal
-* **+Use/-PLXPLX-speller** Excluded in PLX-speller
-* **+Use/SpellNoSuggspeller** recognized but not suggested in speller
-* **+Use/Circ^C^)** circular paths (old ^C^)
-* **+Use/CircN^N^)** circular paths for the numerals (old ^N^)
-* **+Use/NGisme-ped.fst** not-generate, for ped generation isme-ped.fst
+* **+Use/Marg** marginal
+* **+Use/-PLX** Excluded in PLX-speller
+* **+Use/SpellNoSugg** recognized but not suggested in speller
+* **+Use/Circ** circular paths (old ^C^)
+* **+Use/CircN** circular paths for the numerals (old ^N^)
+* **+Use/NG** not-generate, for ped generation isme-ped.fst
 * **+Use/MT** Generate for MT only, for restricting analyses needed 
 for MT generation not to pop up elsewhere
-* **+Use/NGminipdicts** Not for miniparadigm in VD dicts
-* **+Use/Disambdisambiguator** means that the following is only used in the analyser feeding the disambiguator
-* **+Use/GCanalyser** only retained in the HFST Grammar Checker disambiguation analyser
-* **+Use/-PMatchhfst-pmatch** Do not include in fsts made for hfst-pmatch
-* **+MWESplitMWE** Split point for MWE
+* **+Use/NGminip** Not for miniparadigm in VD dicts
+* **+Use/Disamb** means that the following is only used in the analyser feeding the disambiguator
+* **+Use/GC** only retained in the HFST Grammar Checker disambiguation analyser
+* **+Use/-PMatch** Do not include in fsts made for hfst-pmatch
+* **+MWESplit** Split point for MWE
 
-* **+Err/Orthspeller)** = orthographical error (analysed, not accepted in speller)
-* **+Use/-Spellspeller** = accepted in normative FST but not in speller
-* **+Use/Testпашаш** =  Dealing with lative form 2012-10-27 аваеш, пашаш
+* **+Err/Orth** = orthographical error (analysed, not accepted in speller)
+* **+Use/-Spell** = accepted in normative FST but not in speller
+* **+Use/Test** =  Dealing with lative form 2012-10-27 аваеш, пашаш
 
 
 ### Semantic tags
 
-* **+Sem/ActActivity** = Activity
-* **+Sem/AmountAmount** = Amount
-* **+Sem/AniAnimate** = Animate
-* **+Sem/AniprodProduct** = Animal Product
-* **+Sem/BodyBodypart** = Bodypart
-* **+Sem/Body-abstrjierbmi** = siellu, vuoig?a, jierbmi
-* **+Sem/BuildBuilding** = Building
-* **+Sem/Build-partcloset** = Part of Bulding, like the closet
-* **+Sem/CatCategory** = Category
-* **+Sem/ClthClothes** = Clothes
-* **+Sem/Clth-jewlJewelery** = Jewelery
-* **+Sem/Clth-partsávdnji...** = part of clothes, boallu, sávdnji...
-* **+Sem/CtainContainer** = Container
-* **+Sem/Ctain-abstraccount** = Abstract container like bank account
-* **+Sem/Ctain-clth**@CODE@****
-* **+Sem/CurrMoney** = Currency like dollár, Not Money
-* **+Sem/DanceDance** = Dance
-* **+Sem/DirGPS-kursa** = Direction like GPS-kursa
-* **+Sem/Domainactions)** = Domain like politics, reindeerherding (a system of actions)
-* **+Sem/DrinkDrink** = Drink
-* **+Sem/DummytagDummytag** = Dummytag
-* **+Sem/Eduevent** = Educational event
-* **+Sem/EventEvent** = Event
-* **+Sem/FeatÁrvu** = Feature, like Árvu
-* **+Sem/Feat-physfárda** = Physiological feature, ivdni, fárda
-* **+Sem/Feat-psychfeauture** = Psychological feauture
-* **+Sem/Feat-measrfeauture** = Psychological feauture
-* **+Sem/Femname** = Female name
-* **+Sem/FoodFood** = Food
-* **+Sem/Food-medMedicine** = Medicine
-* **+Sem/FurnFurniture** = Furniture
-* **+Sem/GameGame** = Game
-* **+Sem/Geomobject** = Geometrical object
-* **+Sem/GroupGroup** = Animal or Human Group
-* **+Sem/HumHuman** = Human
-* **+Sem/Hum-abstrabstract** = Human abstract
-* **+Sem/IdeolIdeology** = Ideology
-* **+Sem/LangLanguage** = Language
-* **+Sem/Malname** = Male name
-* **+Sem/Matthings** = Material for producing things
-* **+Sem/MeasrMeasure** = Measure
-* **+Sem/MoneyCurr(ency)** = Has to do with money, like wages, not Curr(ency)
-* **+Sem/ObjObject** = Object
-* **+Sem/Obj-cloCloth** = Cloth
-* **+Sem/Obj-cognCloth** = Cloth
-* **+Sem/Obj-elapparatus** = (Electrical) machine or apparatus
-* **+Sem/Obj-lingit** = Object with something written on it
-* **+Sem/Obj-ropeobject** = flexible ropelike object
-* **+Sem/Obj-surfcobject** = Surface object
-* **+Sem/OrgOrganisation** = Organisation
-* **+Sem/Partbealli** = Feature, oassi, bealli
-* **+Sem/Perc-cognperception** = Cognative perception
-* **+Sem/Perc-emoperception** = Emotional perception
-* **+Sem/Perc-physperception** = Physical perception
-* **+Sem/Perc-psychperception** = Physical perception
-* **+Sem/PlantPlant** = Plant
-* **+Sem/Plant-partpart** = Plant part
-* **+Sem/PlcPlace** = Place
-* **+Sem/Plc-abstrplace** = Abstract place
-* **+Sem/Plc-elevatePlace** = Place
-* **+Sem/Plc-linePlace** = Place
-* **+Sem/Plc-waterPlace** = Place
-* **+Sem/Posjob)** = Position (as in social position job)
-* **+Sem/ProcessProcess** = Process
-* **+Sem/ProdProduct** = Product
-* **+Sem/Prod-audioproduct** = Audio product
-* **+Sem/Prod-cognproduct** = Cognition product
-* **+Sem/Prod-lingproduct** = Linguistic product
-* **+Sem/Prod-visproduct** = Visual product
-* **+Sem/RelRelation** = Relation
-* **+Sem/RouteRoute** = Name of a Route
-* **+Sem/Ruleconvention** = Rule or convention
-* **+Sem/Semconconcept** = Semantic concept
+* **+Sem/Act** = Activity
+* **+Sem/Amount** = Amount
+* **+Sem/Ani** = Animate
+* **+Sem/Aniprod** = Animal Product
+* **+Sem/Body** = Bodypart
+* **+Sem/Body-abstr** = siellu, vuoig?a, jierbmi
+* **+Sem/Build** = Building
+* **+Sem/Build-part** = Part of Bulding, like the closet
+* **+Sem/Cat** = Category
+* **+Sem/Clth** = Clothes
+* **+Sem/Clth-jewl** = Jewelery
+* **+Sem/Clth-part** = part of clothes, boallu, sávdnji...
+* **+Sem/Ctain** = Container
+* **+Sem/Ctain-abstr** = Abstract container like bank account
+* **+Sem/Ctain-clth**
+* **+Sem/Curr** = Currency like dollár, Not Money
+* **+Sem/Dance** = Dance
+* **+Sem/Dir** = Direction like GPS-kursa
+* **+Sem/Domain** = Domain like politics, reindeerherding (a system of actions)
+* **+Sem/Drink** = Drink
+* **+Sem/Dummytag** = Dummytag
+* **+Sem/Edu** = Educational event
+* **+Sem/Event** = Event
+* **+Sem/Feat** = Feature, like Árvu
+* **+Sem/Feat-phys** = Physiological feature, ivdni, fárda
+* **+Sem/Feat-psych** = Psychological feauture
+* **+Sem/Feat-measr** = Psychological feauture
+* **+Sem/Fem** = Female name
+* **+Sem/Food** = Food
+* **+Sem/Food-med** = Medicine
+* **+Sem/Furn** = Furniture
+* **+Sem/Game** = Game
+* **+Sem/Geom** = Geometrical object
+* **+Sem/Group** = Animal or Human Group
+* **+Sem/Hum** = Human
+* **+Sem/Hum-abstr** = Human abstract
+* **+Sem/Ideol** = Ideology
+* **+Sem/Lang** = Language
+* **+Sem/Mal** = Male name
+* **+Sem/Mat** = Material for producing things
+* **+Sem/Measr** = Measure
+* **+Sem/Money** = Has to do with money, like wages, not Curr(ency)
+* **+Sem/Obj** = Object
+* **+Sem/Obj-clo** = Cloth
+* **+Sem/Obj-cogn** = Cloth
+* **+Sem/Obj-el** = (Electrical) machine or apparatus
+* **+Sem/Obj-ling** = Object with something written on it
+* **+Sem/Obj-rope** = flexible ropelike object
+* **+Sem/Obj-surfc** = Surface object
+* **+Sem/Org** = Organisation
+* **+Sem/Part** = Feature, oassi, bealli
+* **+Sem/Perc-cogn** = Cognative perception
+* **+Sem/Perc-emo** = Emotional perception
+* **+Sem/Perc-phys** = Physical perception
+* **+Sem/Perc-psych** = Physical perception
+* **+Sem/Plant** = Plant
+* **+Sem/Plant-part** = Plant part
+* **+Sem/Plc** = Place
+* **+Sem/Plc-abstr** = Abstract place
+* **+Sem/Plc-elevate** = Place
+* **+Sem/Plc-line** = Place
+* **+Sem/Plc-water** = Place
+* **+Sem/Pos** = Position (as in social position job)
+* **+Sem/Process** = Process
+* **+Sem/Prod** = Product
+* **+Sem/Prod-audio** = Audio product
+* **+Sem/Prod-cogn** = Cognition product
+* **+Sem/Prod-ling** = Linguistic product
+* **+Sem/Prod-vis** = Visual product
+* **+Sem/Rel** = Relation
+* **+Sem/Route** = Name of a Route
+* **+Sem/Rule** = Rule or convention
+* **+Sem/Semcon** = Semantic concept
 * **+Sem/Sign** = Sign (e.g. numbers, punctuation) 
-* **+Sem/SportSport** = Sport
+* **+Sem/Sport** = Sport
 * **+Sem/State** = 
-* **+Sem/State-sickIllness** = Illness
-* **+Sem/SubstncWater** = Substance, like Air and Water
-* **+Sem/SurSurname** = Surname
-* **+Sem/SymbolSymbol** = Symbol
-* **+Sem/TimeTime** = Time
-* **+Sem/Toolthings** = Prototypical tool for repairing things
-* **+Sem/Tool-catchfish)** = Tool used for catching (e.g. fish)
-* **+Sem/Tool-cleancleaning** = Tool used for cleaning
-* **+Sem/Tool-itIT** = Tool used in IT
-* **+Sem/Tool-measrmeasuring** = Tool used for measuring
-* **+Sem/Tool-musicinstrument** = Music instrument
-* **+Sem/Tool-writetool** = Writing tool
-* **+Sem/Txtlávlla...)** = Text (girji, lávlla...)
-* **+Sem/VehVehicle** = Vehicle
-* **+Sem/WpnWeapon** = Weapon
-* **+Sem/Wthrground** = The Weather or the state of ground
+* **+Sem/State-sick** = Illness
+* **+Sem/Substnc** = Substance, like Air and Water
+* **+Sem/Sur** = Surname
+* **+Sem/Symbol** = Symbol
+* **+Sem/Time** = Time
+* **+Sem/Tool** = Prototypical tool for repairing things
+* **+Sem/Tool-catch** = Tool used for catching (e.g. fish)
+* **+Sem/Tool-clean** = Tool used for cleaning
+* **+Sem/Tool-it** = Tool used in IT
+* **+Sem/Tool-measr** = Tool used for measuring
+* **+Sem/Tool-music** = Music instrument
+* **+Sem/Tool-write** = Writing tool
+* **+Sem/Txt** = Text (girji, lávlla...)
+* **+Sem/Veh** = Vehicle
+* **+Sem/Wpn** = Weapon
+* **+Sem/Wthr** = The Weather or the state of ground
 
 
 
@@ -2489,20 +2489,20 @@ source and target part-of-speech.
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
- * %{аы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
- * %{еы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
- * %{оы%}  Stem-final vowel variation when stress falls on non-final vowel
- * %{ӧы%}  Stem-final vowel variation when stress falls on non-final vowel
- * %{яы%}  Stem-final vowel variation when stress falls on non-final vowel preceded by ь
- * %{еоыӧØ%}   PxSg3 final
- * %{ыØ%}   PxSg3 onset
+* %{аы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
+* %{еы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
+* %{оы%}  Stem-final vowel variation when stress falls on non-final vowel
+* %{ӧы%}  Stem-final vowel variation when stress falls on non-final vowel
+* %{яы%}  Stem-final vowel variation when stress falls on non-final vowel preceded by ь
+* %{еоыӧØ%}   PxSg3 final
+* %{ыØ%}   PxSg3 onset
 
- * %{ьØ%}   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
+* %{ьØ%}   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
 
 
-* {aä}harmony for vowel harmony
-* {oö}harmony for vowel harmony
-* {uü}harmony for vowel harmony
+* {aä} for vowel harmony
+* {oö} for vowel harmony
+* {uü} for vowel harmony
 * **е1** = 
 * **а1** = 
 * **и1** = 
@@ -2510,21 +2510,21 @@ symbols in the lexicon files:
 * **ӱ1** = 
 * **я1** = 
 
-* **Е1lative** = lative
+* **Е1** = lative
 * **Е2** = 
 * **А2** = 
-* **Ы1archi-vowel** = stem-onset archi-vowel
-* **Ы2=** =
+* **Ы1** = stem-onset archi-vowel
+* **Ы2** =
 * **з2** = for возаш : воч 
- * к2   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
- * н2   шинч- шич# "sit down/сесть"
- * т2   лект- лек# "leave/ уходить"
+* к2   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+* н2   шинч- шич# "sit down/сесть"
+* т2   лект- лек# "leave/ уходить"
 * **%>** = 
 * **+TEST** = 
 
 And following triggers to control variation
- * %^V2IMPRT	 for -ем verbs in й
- * %^END       	 for -ам verb final, i.e. Imprf
+* %^V2IMPRT	 for -ем verbs in й
+* %^END       	 for -ам verb final, i.e. Imprf
 
 * **{front}** 
 * **{back}** 
@@ -2542,11 +2542,11 @@ And following triggers to control variation
 * %- 
 
 
- * %^VoTrigger   for use with acronyms after hyphen о у ё ю О У Ё Ю
- * %^VeTrigger   for use with acronyms after hyphen а е и э я А Е И Э Я
- * %^VOTrigger   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
- * %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
- * %^Obstruent   for use with acronyms after hyphen С|Ф|Ъ|Ь
+* %^VoTrigger   for use with acronyms after hyphen о у ё ю О У Ё Ю
+* %^VeTrigger   for use with acronyms after hyphen а е и э я А Е И Э Я
+* %^VOTrigger   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+* %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+* %^Obstruent   for use with acronyms after hyphen С|Ф|Ъ|Ь
 
 ### Symbols that need to be escaped on the lower side (towards twolc):
 
@@ -2556,10 +2556,10 @@ And following triggers to control variation
 * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
 
 
-* **+Cmpnouns** = nouns
-* **+Cmp/Hyphnouns** = nouns
-* **+Cmp/SoftHyphnouns** = nouns
-* **+Cmp/SplitRnouns** = nouns
+* **+Cmp** = nouns
+* **+Cmp/Hyph** = nouns
+* **+Cmp/SoftHyph** = nouns
+* **+Cmp/SplitR** = nouns
 
 
 
@@ -2568,23 +2568,23 @@ We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
 
-|  @P.NeedNoun.ON@nominalised | (Dis)allow compounds with verbs unless nominalised
-|  @D.NeedNoun.ON@nominalised | (Dis)allow compounds with verbs unless nominalised
-|  @C.NeedNoun@nominalised | (Dis)allow compounds with verbs unless nominalised
+|  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+|  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+|  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
 
 For languages that allow compounding, the following flag diacritics are needed
 to control position-based compounding restrictions for nominals. Their use is
 handled automatically if combined with +CmpN/xxx tags. If not used, they will
 do no harm.
 
-|  @P.CmpFrst.FALSE@first | Require that words tagged as such only appear first
-|  @D.CmpPref.TRUE@ENDLEX | Block such words from entering ENDLEX
-|  @P.CmpPref.FALSE@compounds | Block these words from making further compounds
-|  @D.CmpLast.TRUE@R | Block such words from entering R
-|  @D.CmpNone.TRUE@compounding | Combines with the next tag to prohibit compounding
-|  @U.CmpNone.FALSE@compounding | Combines with the prev tag to prohibit compounding
-|  @P.CmpOnly.TRUE@R | Sets a flag to indicate that the word has passed R
-|  @D.CmpOnly.FALSE@root. | Disallow words coming directly from root.
+|  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
+|  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
+|  @P.CmpPref.FALSE@ | Block these words from making further compounds
+|  @D.CmpLast.TRUE@ | Block such words from entering R
+|  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
+|  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
+|  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
+|  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
 
 
 Use the following flag diacritics to control downcasing of derived proper
@@ -2592,8 +2592,8 @@ nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to u
 these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
 
-|  @U.Cap.Obl@deatnulasj. | Allowing downcasing of derived names: deatnulasj.
-|  @U.Cap.Opt@deatnulasj. | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
 
 
@@ -2602,35 +2602,35 @@ given the proper use of these flags.
 
 ## The Root lexicon
 
-@U.Cap.Opt@deatnulasj. Here it all starts
+@U.Cap.Opt@ Here it all starts
 
 The word forms in Meadow Mari language start from the lexeme roots of 
 
 the following basic word classes: 
- * adjectives  ;	    
-   adverbs  ;		    
-   conjunctions  ;	    
-   dependents   ;	    
-   interjections   ;   
-   nouns   ;		    
-   numbers   ;    
-   particles   ;	    
-   postpositions	;   
-   pronouns    ;	    
-   pronouns_not_from_xml ;	    
-   propernouns    ;    
-   propernouns-toponyms    ;    
-   verbs   ;		    
-   verbs_not_from_xml ;    
-   Abbreviation	;   
-   Acronym		;	    
-   Numeral		;	    
-   Punctuation	;	   
-   Symbols     ;	   
- * Exceptions ;  
-   NUM-COLL_  ;  
-   urj-Cyrl-ProperNouns ;   s
-   ProperNoun-mhr ;   specifically Mari names
+* adjectives  ;	    
+  adverbs  ;		    
+  conjunctions  ;	    
+  dependents   ;	    
+  interjections   ;   
+  nouns   ;		    
+  numbers   ;    
+  particles   ;	    
+  postpositions	;   
+  pronouns    ;	    
+  pronouns_not_from_xml ;	    
+  propernouns    ;    
+  propernouns-toponyms    ;    
+  verbs   ;		    
+  verbs_not_from_xml ;    
+  Abbreviation	;   
+  Acronym		;	    
+  Numeral		;	    
+  Punctuation	;	   
+  Symbols     ;	   
+* Exceptions ;  
+  NUM-COLL_  ;  
+  urj-Cyrl-ProperNouns ;   s
+  ProperNoun-mhr ;   specifically Mari names
 
 
 
@@ -2638,31 +2638,31 @@ Continuation lexica
 
 Here comes a set of ragbag continuation lexica.
 
- * LEXICON ADP_   TODO: why +WORK?
- * LEXICON CONJ_  TODO: why +WORK? All CONJ_ should be identified as either CC or CS or both, work in progress
+* LEXICON ADP_   TODO: why +WORK?
+* LEXICON CONJ_  TODO: why +WORK? All CONJ_ should be identified as either CC or CS or both, work in progress
 
- * LEXICON CC_  conjunctinos
+* LEXICON CC_  conjunctinos
 
- * LEXICON CS_  subjunctions
+* LEXICON CS_  subjunctions
 
-* **LEXICON DESCR_something** = descriptive something
+* **LEXICON DESCR_** = descriptive something
 
- * LEXICON DESCR-AUD_  these are audible, others may be visible or otherwise sensed, but for now just calling them Interj+Descr should suffice
+* LEXICON DESCR-AUD_  these are audible, others may be visible or otherwise sensed, but for now just calling them Interj+Descr should suffice
 
- * LEXICON AD-A  also adverbs
+* LEXICON AD-A  also adverbs
 
- * LEXICON INTERJ_  interjections
+* LEXICON INTERJ_  interjections
 
- * LEXICON Puh-a/e    XXX do not know
+* LEXICON Puh-a/e    XXX do not know
 
- * LEXICON Puh    XXX do not know
+* LEXICON Puh    XXX do not know
 
- * LEXICON PCLE_  particles, check these
+* LEXICON PCLE_  particles, check these
 
- * LEXICON X  for N attributes
+* LEXICON X  for N attributes
 
 
-* **LEXICON ENDLEXsymbol.** = and here it ends with the ^END symbol.
+* **LEXICON ENDLEX** = and here it ends with the ^END symbol.
 
 
 
@@ -2680,12 +2680,12 @@ Here comes a set of ragbag continuation lexica.
 
 
 
- * LEXICON K  
+* LEXICON K  
 
 
 
 
- * LEXICON K-imprt 
+* LEXICON K-imprt 
 
 
 
@@ -2705,26 +2705,16 @@ take Px and those that do not.
 Also here: some adverbs that take possessive suffixes, like ӱстембалне *on the table* > ӱстембалнем *on my table*
 
 
- * LEXICON N_   redirects to N-ava_01
+* LEXICON N_   redirects to N-ava_01
 
 
- * LEXICON N-continuation   comes from Proper nouns
+* LEXICON N-continuation   comes from Proper nouns
 
 
- * LEXICON N-ava_01  obl because of pronouns
+* LEXICON N-ava_01  obl because of pronouns
 
- * LEXICON   N-ava_01_obl  to obl only
- * LEXICON   N-ava_01_obl_without-hyphens  to obl only
-
-
-
-
-
-
-
-
-
- * LEXICON   N-ava_01_obl_with-hyphens  to obl only, also ООО-влак
+* LEXICON   N-ava_01_obl  to obl only
+* LEXICON   N-ava_01_obl_without-hyphens  to obl only
 
 
 
@@ -2732,7 +2722,17 @@ Also here: some adverbs that take possessive suffixes, like ӱстембалне
 
 
 
- * LEXICON N-OLD-ORTH-SG-NOM_  
+
+
+* LEXICON   N-ava_01_obl_with-hyphens  to obl only, also ООО-влак
+
+
+
+
+
+
+
+* LEXICON N-OLD-ORTH-SG-NOM_  
 
 
 
@@ -2749,428 +2749,428 @@ DECLENSION
 ### Case suffixes
 Each case-number-person has its own lexicon.
 
- * LEXICON N-SG-NOM  
+* LEXICON N-SG-NOM  
 
- * LEXICON N-SG-GEN 
+* LEXICON N-SG-GEN 
 
- * LEXICON N-SG-DAT 
+* LEXICON N-SG-DAT 
 
- * LEXICON N-SG-ACC 
+* LEXICON N-SG-ACC 
 
- * LEXICON N-SG-CMPR 
+* LEXICON N-SG-CMPR 
 
- * LEXICON N-SG-COM 
+* LEXICON N-SG-COM 
 
- * LEXICON N-SG-INE 
-
-
-
- * LEXICON N-SG-ILL 
-
- * LEXICON N-SG-LAT 
-
- * LEXICON N-SG-ABE 
-
- * LEXICON N-LOCPL-ILL 
-
- * LEXICON N-LOCPL-INE 
-
- * LEXICON N-LOCPL-LAT 
-
- * LEXICON N-LOCPL-NOM  
+* LEXICON N-SG-INE 
 
 
 
+* LEXICON N-SG-ILL 
+
+* LEXICON N-SG-LAT 
+
+* LEXICON N-SG-ABE 
+
+* LEXICON N-LOCPL-ILL 
+
+* LEXICON N-LOCPL-INE 
+
+* LEXICON N-LOCPL-LAT 
+
+* LEXICON N-LOCPL-NOM  
 
 
- * LEXICON N-PL-NOM 
 
- * LEXICON N-PL-GEN 
 
- * LEXICON N-PL-DAT 
 
- * LEXICON N-PL-ACC 
+* LEXICON N-PL-NOM 
 
- * LEXICON N-PL-CMPR 
+* LEXICON N-PL-GEN 
 
- * LEXICON N-PL-COM 
+* LEXICON N-PL-DAT 
 
- * LEXICON N-PL-INE 
+* LEXICON N-PL-ACC 
 
- * LEXICON N-PL-ILL 
+* LEXICON N-PL-CMPR 
 
- * LEXICON N-PL-LAT 
+* LEXICON N-PL-COM 
 
- * LEXICON N-PL-ABE 
+* LEXICON N-PL-INE 
+
+* LEXICON N-PL-ILL 
+
+* LEXICON N-PL-LAT 
+
+* LEXICON N-PL-ABE 
 
 ### Sg Sg1
 Here starts the Px stuff
 
 
- * LEXICON N-SG-PxSg1-NOM 
+* LEXICON N-SG-PxSg1-NOM 
 
- * LEXICON N-SG-PxSg1-GEN 
+* LEXICON N-SG-PxSg1-GEN 
 
- * LEXICON N-SG-PxSg1-DAT 
+* LEXICON N-SG-PxSg1-DAT 
 
- * LEXICON N-SG-PxSg1-ACC 
+* LEXICON N-SG-PxSg1-ACC 
 
- * LEXICON N-SG-PxSg1-CMPR 
+* LEXICON N-SG-PxSg1-CMPR 
 
- * LEXICON N-SG-PxSg1-COM 
+* LEXICON N-SG-PxSg1-COM 
 
- * LEXICON N-SG-PxSg1-INE 
+* LEXICON N-SG-PxSg1-INE 
 
- * LEXICON N-SG-PxSg1-ILL 
+* LEXICON N-SG-PxSg1-ILL 
 
- * LEXICON N-SG-PxSg1-LAT 
+* LEXICON N-SG-PxSg1-LAT 
 
- * LEXICON N-SG-PxSg1-ABE 
+* LEXICON N-SG-PxSg1-ABE 
 
 ### Pl Sg1
- * LEXICON N-PL-PxSg1-NOM 
+* LEXICON N-PL-PxSg1-NOM 
 
- * LEXICON N-PL-PxSg1-NOM_NB-first 
+* LEXICON N-PL-PxSg1-NOM_NB-first 
 
- * LEXICON N-PL-PxSg1-GEN 
+* LEXICON N-PL-PxSg1-GEN 
 
- * LEXICON N-PL-PxSg1-GEN_NB-first 
+* LEXICON N-PL-PxSg1-GEN_NB-first 
 
- * LEXICON N-PL-PxSg1-DAT 
+* LEXICON N-PL-PxSg1-DAT 
 
- * LEXICON N-PL-PxSg1-DAT_NB-first 
+* LEXICON N-PL-PxSg1-DAT_NB-first 
 
- * LEXICON N-PL-PxSg1-ACC 
+* LEXICON N-PL-PxSg1-ACC 
 
- * LEXICON N-PL-PxSg1-ACC_NB-first 
+* LEXICON N-PL-PxSg1-ACC_NB-first 
 
- * LEXICON N-PL-PxSg1-CMPR  
+* LEXICON N-PL-PxSg1-CMPR  
 
- * LEXICON N-PL-PxSg1-CMPR_NB-first  
+* LEXICON N-PL-PxSg1-CMPR_NB-first  
 
- * LEXICON N-PL-PxSg1-COM 
+* LEXICON N-PL-PxSg1-COM 
 
- * LEXICON N-PL-PxSg1-COM_NB-first 
+* LEXICON N-PL-PxSg1-COM_NB-first 
 
- * LEXICON N-PL-PxSg1-INE 
+* LEXICON N-PL-PxSg1-INE 
 
- * LEXICON N-PL-PxSg1-INE_NB-first 
+* LEXICON N-PL-PxSg1-INE_NB-first 
 
- * LEXICON N-PL-PxSg1-ILL 
+* LEXICON N-PL-PxSg1-ILL 
 
- * LEXICON N-PL-PxSg1-ILL_NB-first 
+* LEXICON N-PL-PxSg1-ILL_NB-first 
 
- * LEXICON N-PL-PxSg1-LAT 
+* LEXICON N-PL-PxSg1-LAT 
 
- * LEXICON N-PL-PxSg1-LAT_NB-first 
+* LEXICON N-PL-PxSg1-LAT_NB-first 
 
- * LEXICON N-PL-PxSg1-ABE 
+* LEXICON N-PL-PxSg1-ABE 
 
- * LEXICON N-PL-PxSg1-ABE_NB-first 
+* LEXICON N-PL-PxSg1-ABE_NB-first 
 
 ### Sg Sg2
- * LEXICON N-SG-PxSg2-NOM 
+* LEXICON N-SG-PxSg2-NOM 
 
- * LEXICON N-SG-PxSg2-GEN 
+* LEXICON N-SG-PxSg2-GEN 
 
- * LEXICON N-SG-PxSg2-DAT 
+* LEXICON N-SG-PxSg2-DAT 
 
- * LEXICON N-SG-PxSg2-ACC 
+* LEXICON N-SG-PxSg2-ACC 
 
- * LEXICON N-SG-PxSg2-CMPR 
+* LEXICON N-SG-PxSg2-CMPR 
 
- * LEXICON N-SG-PxSg2-COM 
+* LEXICON N-SG-PxSg2-COM 
 
- * LEXICON N-SG-PxSg2-INE 
+* LEXICON N-SG-PxSg2-INE 
 
- * LEXICON N-SG-PxSg2-ILL 
+* LEXICON N-SG-PxSg2-ILL 
 
- * LEXICON N-SG-PxSg2-LAT 
+* LEXICON N-SG-PxSg2-LAT 
 
- * LEXICON N-SG-PxSg2-ABE 
+* LEXICON N-SG-PxSg2-ABE 
 
 ### Pl Sg2
- * LEXICON N-PL-PxSg2-NOM 
- * LEXICON N-PL-PxSg2-NOM_NB-first 
+* LEXICON N-PL-PxSg2-NOM 
+* LEXICON N-PL-PxSg2-NOM_NB-first 
 
- * LEXICON N-PL-PxSg2-GEN 
+* LEXICON N-PL-PxSg2-GEN 
 
- * LEXICON N-PL-PxSg2-GEN_NB-first 
+* LEXICON N-PL-PxSg2-GEN_NB-first 
 
- * LEXICON N-PL-PxSg2-DAT 
+* LEXICON N-PL-PxSg2-DAT 
 
- * LEXICON N-PL-PxSg2-DAT_NB-first 
+* LEXICON N-PL-PxSg2-DAT_NB-first 
 
- * LEXICON N-PL-PxSg2-ACC 
+* LEXICON N-PL-PxSg2-ACC 
 
- * LEXICON N-PL-PxSg2-ACC_NB-first 
+* LEXICON N-PL-PxSg2-ACC_NB-first 
 
- * LEXICON N-PL-PxSg2-CMPR 
+* LEXICON N-PL-PxSg2-CMPR 
 
- * LEXICON N-PL-PxSg2-CMPR_NB-first 
+* LEXICON N-PL-PxSg2-CMPR_NB-first 
 
- * LEXICON N-PL-PxSg2-COM 
+* LEXICON N-PL-PxSg2-COM 
 
- * LEXICON N-PL-PxSg2-COM_NB-first 
+* LEXICON N-PL-PxSg2-COM_NB-first 
 
- * LEXICON N-PL-PxSg2-INE 
+* LEXICON N-PL-PxSg2-INE 
 
- * LEXICON N-PL-PxSg2-INE_NB-first 
+* LEXICON N-PL-PxSg2-INE_NB-first 
 
- * LEXICON N-PL-PxSg2-ILL 
+* LEXICON N-PL-PxSg2-ILL 
 
- * LEXICON N-PL-PxSg2-ILL_NB-first 
+* LEXICON N-PL-PxSg2-ILL_NB-first 
 
 
 
 
 
 ### Sg Sg3
- * LEXICON N-SG-PxSg3-NOM 
+* LEXICON N-SG-PxSg3-NOM 
 
- * LEXICON N-SG-PxSg3-GEN 
+* LEXICON N-SG-PxSg3-GEN 
 
- * LEXICON N-SG-PxSg3-DAT 
+* LEXICON N-SG-PxSg3-DAT 
 
- * LEXICON N-SG-PxSg3-ACC 
+* LEXICON N-SG-PxSg3-ACC 
 
- * LEXICON N-SG-PxSg3-CMPR 
+* LEXICON N-SG-PxSg3-CMPR 
 
- * LEXICON N-SG-PxSg3-COM 
+* LEXICON N-SG-PxSg3-COM 
 
- * LEXICON N-SG-PxSg3-INE 
+* LEXICON N-SG-PxSg3-INE 
 
- * LEXICON N-SG-PxSg3-ILL 
+* LEXICON N-SG-PxSg3-ILL 
 
- * LEXICON N-SG-PxSg3-LAT 
+* LEXICON N-SG-PxSg3-LAT 
 
 
- * LEXICON N-SG-PxSg3-ABE 
+* LEXICON N-SG-PxSg3-ABE 
 
 ### Pl Sg3
- * LEXICON N-PL-PxSg3-NOM 
+* LEXICON N-PL-PxSg3-NOM 
 
- * LEXICON N-PL-PxSg3-NOM_NB-first 
+* LEXICON N-PL-PxSg3-NOM_NB-first 
 
- * LEXICON N-PL-PxSg3-GEN 
+* LEXICON N-PL-PxSg3-GEN 
 
- * LEXICON N-PL-PxSg3-GEN_NB-first 
+* LEXICON N-PL-PxSg3-GEN_NB-first 
 
- * LEXICON N-PL-PxSg3-DAT 
+* LEXICON N-PL-PxSg3-DAT 
 
- * LEXICON N-PL-PxSg3-DAT_NB-first 
+* LEXICON N-PL-PxSg3-DAT_NB-first 
 
- * LEXICON N-PL-PxSg3-ACC 
+* LEXICON N-PL-PxSg3-ACC 
 
- * LEXICON N-PL-PxSg3-ACC_NB-first 
+* LEXICON N-PL-PxSg3-ACC_NB-first 
 
- * LEXICON N-PL-PxSg3-CMPR 
+* LEXICON N-PL-PxSg3-CMPR 
 
- * LEXICON N-PL-PxSg3-CMPR_NB-first 
+* LEXICON N-PL-PxSg3-CMPR_NB-first 
 
- * LEXICON N-PL-PxSg3-COM 
+* LEXICON N-PL-PxSg3-COM 
 
- * LEXICON N-PL-PxSg3-COM_NB-first 
+* LEXICON N-PL-PxSg3-COM_NB-first 
 
- * LEXICON N-PL-PxSg3-INE 
+* LEXICON N-PL-PxSg3-INE 
 
- * LEXICON N-PL-PxSg3-INE_NB-first 
+* LEXICON N-PL-PxSg3-INE_NB-first 
 
- * LEXICON N-PL-PxSg3-ILL 
+* LEXICON N-PL-PxSg3-ILL 
 
- * LEXICON N-PL-PxSg3-ILL_NB-first 
+* LEXICON N-PL-PxSg3-ILL_NB-first 
 
- * LEXICON N-PL-PxSg3-LAT 
+* LEXICON N-PL-PxSg3-LAT 
 
- * LEXICON N-PL-PxSg3-LAT_NB-first 
+* LEXICON N-PL-PxSg3-LAT_NB-first 
 
- * LEXICON N-PL-PxSg3-ABE 
+* LEXICON N-PL-PxSg3-ABE 
 
- * LEXICON N-PL-PxSg3-ABE_NB-first 
+* LEXICON N-PL-PxSg3-ABE_NB-first 
 
 ### Sg Pl1
- * LEXICON N-SG-PxPl1-NOM 
+* LEXICON N-SG-PxPl1-NOM 
 
- * LEXICON N-SG-PxPl1-GEN 
+* LEXICON N-SG-PxPl1-GEN 
 
- * LEXICON N-SG-PxPl1-DAT 
+* LEXICON N-SG-PxPl1-DAT 
 
- * LEXICON N-SG-PxPl1-ACC 
+* LEXICON N-SG-PxPl1-ACC 
 
- * LEXICON N-SG-PxPl1-CMPR 
+* LEXICON N-SG-PxPl1-CMPR 
 
- * LEXICON N-SG-PxPl1-COM 
+* LEXICON N-SG-PxPl1-COM 
 
- * LEXICON N-SG-PxPl1-INE 
+* LEXICON N-SG-PxPl1-INE 
 
- * LEXICON N-SG-PxPl1-ILL 
+* LEXICON N-SG-PxPl1-ILL 
 
- * LEXICON N-SG-PxPl1-LAT 
+* LEXICON N-SG-PxPl1-LAT 
 
- * LEXICON N-SG-PxPl1-ABE 
+* LEXICON N-SG-PxPl1-ABE 
 
 ### Pl Pl1
- * LEXICON N-PL-PxPl1-NOM 
+* LEXICON N-PL-PxPl1-NOM 
 
- * LEXICON N-PL-PxPl1-NOM_NB-first 
+* LEXICON N-PL-PxPl1-NOM_NB-first 
 
 
- * LEXICON N-PL-PxPl1-GEN 
+* LEXICON N-PL-PxPl1-GEN 
 
- * LEXICON N-PL-PxPl1-GEN_NB-first 
+* LEXICON N-PL-PxPl1-GEN_NB-first 
 
- * LEXICON N-PL-PxPl1-DAT 
+* LEXICON N-PL-PxPl1-DAT 
 
- * LEXICON N-PL-PxPl1-DAT_NB-first 
+* LEXICON N-PL-PxPl1-DAT_NB-first 
 
- * LEXICON N-PL-PxPl1-ACC 
+* LEXICON N-PL-PxPl1-ACC 
 
- * LEXICON N-PL-PxPl1-ACC_NB-first 
+* LEXICON N-PL-PxPl1-ACC_NB-first 
 
- * LEXICON N-PL-PxPl1-CMPR 
+* LEXICON N-PL-PxPl1-CMPR 
 
- * LEXICON N-PL-PxPl1-CMPR_NB-first 
+* LEXICON N-PL-PxPl1-CMPR_NB-first 
 
- * LEXICON N-PL-PxPl1-COM 
+* LEXICON N-PL-PxPl1-COM 
 
- * LEXICON N-PL-PxPl1-COM_NB-first 
+* LEXICON N-PL-PxPl1-COM_NB-first 
 
- * LEXICON N-PL-PxPl1-INE 
+* LEXICON N-PL-PxPl1-INE 
 
- * LEXICON N-PL-PxPl1-INE_NB-first 
+* LEXICON N-PL-PxPl1-INE_NB-first 
 
- * LEXICON N-PL-PxPl1-ILL 
+* LEXICON N-PL-PxPl1-ILL 
 
- * LEXICON N-PL-PxPl1-ILL_NB-first 
+* LEXICON N-PL-PxPl1-ILL_NB-first 
 
- * LEXICON N-PL-PxPl1-LAT 
+* LEXICON N-PL-PxPl1-LAT 
 
- * LEXICON N-PL-PxPl1-LAT_NB-first 
+* LEXICON N-PL-PxPl1-LAT_NB-first 
 
- * LEXICON N-PL-PxPl1-ABE 
+* LEXICON N-PL-PxPl1-ABE 
 
- * LEXICON N-PL-PxPl1-ABE_NB-first 
+* LEXICON N-PL-PxPl1-ABE_NB-first 
 
 ### Sg Pl2
- * LEXICON N-SG-PxPl2-NOM 
+* LEXICON N-SG-PxPl2-NOM 
 
- * LEXICON N-SG-PxPl2-GEN 
+* LEXICON N-SG-PxPl2-GEN 
 
- * LEXICON N-SG-PxPl2-DAT 
+* LEXICON N-SG-PxPl2-DAT 
 
- * LEXICON N-SG-PxPl2-ACC 
+* LEXICON N-SG-PxPl2-ACC 
 
- * LEXICON N-SG-PxPl2-CMPR 
+* LEXICON N-SG-PxPl2-CMPR 
 
- * LEXICON N-SG-PxPl2-COM 
+* LEXICON N-SG-PxPl2-COM 
 
- * LEXICON N-SG-PxPl2-INE 
+* LEXICON N-SG-PxPl2-INE 
 
 
- * LEXICON N-SG-PxPl2-LAT 
+* LEXICON N-SG-PxPl2-LAT 
 
- * LEXICON N-SG-PxPl2-ABE 
+* LEXICON N-SG-PxPl2-ABE 
 
- * LEXICON N-PL-PxPl2-NOM 
+* LEXICON N-PL-PxPl2-NOM 
 
- * LEXICON N-PL-PxPl2-NOM_NB-first 
+* LEXICON N-PL-PxPl2-NOM_NB-first 
 
- * LEXICON N-PL-PxPl2-GEN 
+* LEXICON N-PL-PxPl2-GEN 
 
- * LEXICON N-PL-PxPl2-GEN_NB-first 
+* LEXICON N-PL-PxPl2-GEN_NB-first 
 
- * LEXICON N-PL-PxPl2-DAT 
+* LEXICON N-PL-PxPl2-DAT 
 
- * LEXICON N-PL-PxPl2-DAT_NB-first 
+* LEXICON N-PL-PxPl2-DAT_NB-first 
 
- * LEXICON N-PL-PxPl2-ACC 
+* LEXICON N-PL-PxPl2-ACC 
 
- * LEXICON N-PL-PxPl2-ACC_NB-first 
+* LEXICON N-PL-PxPl2-ACC_NB-first 
 
- * LEXICON N-PL-PxPl2-CMPR 
+* LEXICON N-PL-PxPl2-CMPR 
 
- * LEXICON N-PL-PxPl2-CMPR_NB-first 
+* LEXICON N-PL-PxPl2-CMPR_NB-first 
 
- * LEXICON N-PL-PxPl2-COM 
+* LEXICON N-PL-PxPl2-COM 
 
- * LEXICON N-PL-PxPl2-COM_NB-first 
+* LEXICON N-PL-PxPl2-COM_NB-first 
 
- * LEXICON N-PL-PxPl2-INE 
+* LEXICON N-PL-PxPl2-INE 
 
- * LEXICON N-PL-PxPl2-INE_NB-first 
+* LEXICON N-PL-PxPl2-INE_NB-first 
 
- * LEXICON N-PL-PxPl2-ILL 
+* LEXICON N-PL-PxPl2-ILL 
 
- * LEXICON N-PL-PxPl2-ILL_NB-first 
+* LEXICON N-PL-PxPl2-ILL_NB-first 
 
- * LEXICON N-PL-PxPl2-LAT 
+* LEXICON N-PL-PxPl2-LAT 
 
- * LEXICON N-PL-PxPl2-LAT_NB-first 
+* LEXICON N-PL-PxPl2-LAT_NB-first 
 
- * LEXICON N-PL-PxPl2-ABE 
+* LEXICON N-PL-PxPl2-ABE 
 
- * LEXICON N-PL-PxPl2-ABE_NB-first 
+* LEXICON N-PL-PxPl2-ABE_NB-first 
 
 ### Sg Pl3
- * LEXICON N-SG-PxPl3-NOM 
+* LEXICON N-SG-PxPl3-NOM 
 
- * LEXICON N-SG-PxPl3-GEN 
+* LEXICON N-SG-PxPl3-GEN 
 
- * LEXICON N-SG-PxPl3-DAT 
+* LEXICON N-SG-PxPl3-DAT 
 
- * LEXICON N-SG-PxPl3-ACC 
+* LEXICON N-SG-PxPl3-ACC 
 
- * LEXICON N-SG-PxPl3-CMPR 
+* LEXICON N-SG-PxPl3-CMPR 
 
- * LEXICON N-SG-PxPl3-COM 
+* LEXICON N-SG-PxPl3-COM 
 
- * LEXICON N-SG-PxPl3-INE 
+* LEXICON N-SG-PxPl3-INE 
 
- * LEXICON N-SG-PxPl3-ILL 
+* LEXICON N-SG-PxPl3-ILL 
 
- * LEXICON N-SG-PxPl3-LAT 
+* LEXICON N-SG-PxPl3-LAT 
 
- * LEXICON N-SG-PxPl3-ABE 
+* LEXICON N-SG-PxPl3-ABE 
 
- * LEXICON N-PL-PxPl3-NOM 
+* LEXICON N-PL-PxPl3-NOM 
 
- * LEXICON N-PL-PxPl3-NOM_NB-first 
+* LEXICON N-PL-PxPl3-NOM_NB-first 
 
- * LEXICON N-PL-PxPl3-GEN 
+* LEXICON N-PL-PxPl3-GEN 
 
- * LEXICON N-PL-PxPl3-GEN_NB-first 
+* LEXICON N-PL-PxPl3-GEN_NB-first 
 
- * LEXICON N-PL-PxPl3-DAT 
+* LEXICON N-PL-PxPl3-DAT 
 
- * LEXICON N-PL-PxPl3-DAT_NB-first 
+* LEXICON N-PL-PxPl3-DAT_NB-first 
 
- * LEXICON N-PL-PxPl3-ACC 
+* LEXICON N-PL-PxPl3-ACC 
 
- * LEXICON N-PL-PxPl3-ACC_NB-first 
+* LEXICON N-PL-PxPl3-ACC_NB-first 
 
- * LEXICON N-PL-PxPl3-CMPR 
+* LEXICON N-PL-PxPl3-CMPR 
 
- * LEXICON N-PL-PxPl3-CMPR_NB-first 
+* LEXICON N-PL-PxPl3-CMPR_NB-first 
 
- * LEXICON N-PL-PxPl3-COM 
+* LEXICON N-PL-PxPl3-COM 
 
- * LEXICON N-PL-PxPl3-COM_NB-first 
+* LEXICON N-PL-PxPl3-COM_NB-first 
 
- * LEXICON N-PL-PxPl3-INE 
+* LEXICON N-PL-PxPl3-INE 
 
- * LEXICON N-PL-PxPl3-INE_NB-first 
+* LEXICON N-PL-PxPl3-INE_NB-first 
 
- * LEXICON N-PL-PxPl3-ILL 
+* LEXICON N-PL-PxPl3-ILL 
 
- * LEXICON N-PL-PxPl3-ILL_NB-first 
+* LEXICON N-PL-PxPl3-ILL_NB-first 
 
- * LEXICON N-PL-PxPl3-LAT 
+* LEXICON N-PL-PxPl3-LAT 
 
- * LEXICON N-PL-PxPl3-LAT_NB-first 
+* LEXICON N-PL-PxPl3-LAT_NB-first 
 
- * LEXICON N-PL-PxPl3-ABE 
+* LEXICON N-PL-PxPl3-ABE 
 
- * LEXICON N-PL-PxPl3-ABE_NB-first 
+* LEXICON N-PL-PxPl3-ABE_NB-first 
 
 
 
@@ -3203,17 +3203,17 @@ Meadow Mari adjectives
 LEXICON A underscore
 
 
- * LEXICON A-a/e  
+* LEXICON A-a/e  
 
 
 
- * LEXICON A/S-a/e   redirect to A underscore
+* LEXICON A/S-a/e   redirect to A underscore
 
- * LEXICON A/S-VS  redirect to A underscore
+* LEXICON A/S-VS  redirect to A underscore
 
- * LEXICON A-VS  redirect to A underscore
+* LEXICON A-VS  redirect to A underscore
 
- * LEXICON A/S  redirect to A underscore
+* LEXICON A/S  redirect to A underscore
 
 
 
@@ -3225,50 +3225,50 @@ LEXICON A underscore
 
 ## Lexica directed from root.lexc
 
- * LEXICON pronouns_not_from_xml 
+* LEXICON pronouns_not_from_xml 
 
 
- * LEXICON MYJ 
+* LEXICON MYJ 
 
- * LEXICON TYJ 
+* LEXICON TYJ 
 
- * LEXICON TUDO 
+* LEXICON TUDO 
 
- * LEXICON TIDE  
+* LEXICON TIDE  
 
 
- * LEXICON SHKE  
+* LEXICON SHKE  
 
 
 
 ## Pronoun lexica from xml
 
- * LEXICON Pimp  
+* LEXICON Pimp  
 
- * LEXICON Pmuu 
+* LEXICON Pmuu 
 
- * LEXICON PRON-IR_ 
+* LEXICON PRON-IR_ 
 
- * LEXICON PRON_ 
+* LEXICON PRON_ 
 
- * LEXICON PronRes 
-
-
- * LEXICON PronI 
-
- * LEXICON PronIR 
+* LEXICON PronRes 
 
 
+* LEXICON PronI 
 
- * LEXICON PronInd 
+* LEXICON PronIR 
 
- * LEXICON PRON-INDEF 
 
- * LEXICON KAZHNE 
 
- * LEXICON PronDem 
+* LEXICON PronInd 
 
- * LEXICON PronRef 
+* LEXICON PRON-INDEF 
+
+* LEXICON KAZHNE 
+
+* LEXICON PronDem 
+
+* LEXICON PronRef 
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/pronouns.lexc)</small>
@@ -3281,9 +3281,9 @@ Meadow Mari verb inflection.
 
 Some of these are directed directly from root.lexc
 
-   LEXICON verbs_not_from_xml   
+  LEXICON verbs_not_from_xml   
 
- LEXICON negverb  TODO: fix
+LEXICON negverb  TODO: fix
 
 
 
@@ -3301,32 +3301,32 @@ We divide the verbs in two, -am and -em
 
 ### The -am class
 
- LEXICON V_am-N  divides V_am in Mood and infinites
+LEXICON V_am-N  divides V_am in Mood and infinites
 
- LEXICON V_am  divides V_am in Mood and infinites
-
-
+LEXICON V_am  divides V_am in Mood and infinites
 
 
- LEXICON Vam-Mood  divides in Ind, Imprt, Des
 
- LEXICON Vam-Ind  gives all the Ind tenses
 
- LEXICON Vam-Imp   for imperative, Повелительное наклонение:
+LEXICON Vam-Mood  divides in Ind, Imprt, Des
 
- LEXICON Vam-Des   for desiderative, Желательное наклонение:
+LEXICON Vam-Ind  gives all the Ind tenses
+
+LEXICON Vam-Imp   for imperative, Повелительное наклонение:
+
+LEXICON Vam-Des   for desiderative, Желательное наклонение:
 
 
 ### The -em class
 First four lexica: V_em with Gerund, the rest without, all going to V_em_ALL to get derivation affixes.
 
- LEXICON V_em  divides V_em in Mood and infinites
+LEXICON V_em  divides V_em in Mood and infinites
 
 
- LEXICON V_em-1SYLL-j  allow for literary norm until 1970 (Alhoniemi 1985: 105-106) кайше, кайшаш
-  +Err/Orth: non-finites ;  until 1972 reform
+LEXICON V_em-1SYLL-j  allow for literary norm until 1970 (Alhoniemi 1985: 105-106) кайше, кайшаш
+ +Err/Orth: non-finites ;  until 1972 reform
 
- LEXICON V_em-1SYLL  single syll V_em verbs, do not include bare-stem gerunds in their paradigms
+LEXICON V_em-1SYLL  single syll V_em verbs, do not include bare-stem gerunds in their paradigms
 
 Optional derivation:  All verbs going to V_em_INFL
 
@@ -3334,17 +3334,17 @@ Optional derivation:  All verbs going to V_em_INFL
 
 
 
- LEXICON Vem-Mood  divides in Ind, Imprt, Des
+LEXICON Vem-Mood  divides in Ind, Imprt, Des
 
- LEXICON Vem-Ind   gives all the Ind tenses
+LEXICON Vem-Ind   gives all the Ind tenses
 
- * LEXICON Vem-Imp  for imperative, Повелительное наклонение:
+* LEXICON Vem-Imp  for imperative, Повелительное наклонение:
 
- * LEXICON Vem-Des  for desiderative, Желательное наклонение:
+* LEXICON Vem-Des  for desiderative, Желательное наклонение:
 
 
 
- LEXICON non-finites  contains Mutual endings
+LEXICON non-finites  contains Mutual endings
 
 
 
@@ -3376,47 +3376,47 @@ These need work 2012-09-21
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/verbs.lexc)</small># East Mari Numeral inflection
 
- * LEXICON QNT_  
+* LEXICON QNT_  
 
- * LEXICON KvMurt 
+* LEXICON KvMurt 
 
- * LEXICON KvK  cardinal numerals
+* LEXICON KvK  cardinal numerals
 
- * LEXICON KvK_ATTR  cardinal numerals in noun phrase scope
-
-
- * LEXICON KvKoll 
+* LEXICON KvK_ATTR  cardinal numerals in noun phrase scope
 
 
- * LEXICON NUM-COLL_ 
+* LEXICON KvKoll 
 
 
-
-
- * LEXICON KvInd 
+* LEXICON NUM-COLL_ 
 
 
 
 
- * LEXICON Kv-a/e  
+* LEXICON KvInd 
+
+
+
+
+* LEXICON Kv-a/e  
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/numbers.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/numbers.lexc)</small># Proper noun inflection
 
 Meadow Mari proper nouns inflect in the same cases as regular
 nouns, but with a colon (':') as separator. (???)
 
- * LEXICON PROP-OLD-ORTH-SG-NOM_  
+* LEXICON PROP-OLD-ORTH-SG-NOM_  
 
 
- * LEXICON PROP_  
- *  : N-ava_01 ;  decline like common nouns
-  *  : ENDLEX ;  in attributive position ?SHOULD THIS HAVE an +Attr tag?
+* LEXICON PROP_  
+*  : N-ava_01 ;  decline like common nouns
+ *  : ENDLEX ;  in attributive position ?SHOULD THIS HAVE an +Attr tag?
 
- * LEXICON PROP-PLC_  
- *  : N-ava_01 ;  decline like common nouns
+* LEXICON PROP-PLC_  
+*  : N-ava_01 ;  decline like common nouns
 
- * LEXICON LEXC_PROP-PLC_  
- *  +N+Prop+Sem/Plc: N-ava_01 ;  decline like common nouns
+* LEXICON LEXC_PROP-PLC_  
+*  +N+Prop+Sem/Plc: N-ava_01 ;  decline like common nouns
 
 
 ## Male given name for deriving patronyms 
@@ -3425,119 +3425,119 @@ nouns, but with a colon (':') as separator. (???)
 
 Check whether +Orth/Colloq is orthographically wrong
 
- * LEXICON PropNameMaleDer-J-0Evich 
+* LEXICON PropNameMaleDer-J-0Evich 
 
 
- * LEXICON PropNameMaleDer-IJ-Y0Evich 
+* LEXICON PropNameMaleDer-IJ-Y0Evich 
 
- * LEXICON PropNameMaleDer-IJ-I0Evich 
+* LEXICON PropNameMaleDer-IJ-I0Evich 
 
- * LEXICON PropNameMaleDer-Y-0Evich 
+* LEXICON PropNameMaleDer-Y-0Evich 
 
 Вили:Вил
- * LEXICON PropNameMaleDer-I-YEvich 
+* LEXICON PropNameMaleDer-I-YEvich 
 
 
- * LEXICON PropNameMaleDer-Ovich 
+* LEXICON PropNameMaleDer-Ovich 
 
 
 ## Russian type Surnames 
 
 
 
- * LEXICON Deriv-RUS-V_SURMAL  Абдеев:Абдеев
+* LEXICON Deriv-RUS-V_SURMAL  Абдеев:Абдеев
 
 
- * LEXICON Deriv-RUS-IJ_SURMAL  Багрий:Багр
+* LEXICON Deriv-RUS-IJ_SURMAL  Багрий:Багр
 
 
- * LEXICON Deriv-RUS-KIJ_SURMAL  Аморский:Аморск
+* LEXICON Deriv-RUS-KIJ_SURMAL  Аморский:Аморск
 
- * LEXICON Deriv-RUS-OJ_SURMAL 
+* LEXICON Deriv-RUS-OJ_SURMAL 
 
- * LEXICON Deriv-RUS-YJ_SURMAL 
+* LEXICON Deriv-RUS-YJ_SURMAL 
 
- * LEXICON Deriv-RUS-AN_SURMAL 
+* LEXICON Deriv-RUS-AN_SURMAL 
 
- * LEXICON Deriv-RUS-IN_SURMAL 
-
-
- * LEXICON PROP_KAL_SURMAL 
-
- * LEXICON PROP_KUDO_SURFEM 
-
- * LEXICON CYRL-CONS_SUR 
-
- * LEXICON PropSur-kal 
-
- * LEXICON CYRL-T_SUR 
-
- * LEXICON PropSur-kit 
-
- * LEXICON CYRL-L_SUR 
-
- * LEXICON CYRL-K_SUR 
-
- * LEXICON PropSur-lak 
-
- * LEXICON CYRL-SIBILANT_SUR 
-
- * LEXICON PropSur-osh 
-
- * LEXICON CYRL-VOW_SUR 
-
- * LEXICON CYRL-A_SUR 
+* LEXICON Deriv-RUS-IN_SURMAL 
 
 
- * LEXICON PROP_KIT_SUR 
+* LEXICON PROP_KAL_SURMAL 
 
- * LEXICON PROP_KUDO_SUR 
+* LEXICON PROP_KUDO_SURFEM 
 
- * LEXICON PROP_KAL_MAL 
+* LEXICON CYRL-CONS_SUR 
 
- * LEXICON PROP_LAK_MAL 
+* LEXICON PropSur-kal 
 
- * LEXICON PROP_KIT_MAL 
+* LEXICON CYRL-T_SUR 
 
- * LEXICON PROP_OSH_MAL 
+* LEXICON PropSur-kit 
 
- * LEXICON PROP_KUDO_MAL 
+* LEXICON CYRL-L_SUR 
 
- * LEXICON LEXC_PROP_KUDO_MAL 
+* LEXICON CYRL-K_SUR 
+
+* LEXICON PropSur-lak 
+
+* LEXICON CYRL-SIBILANT_SUR 
+
+* LEXICON PropSur-osh 
+
+* LEXICON CYRL-VOW_SUR 
+
+* LEXICON CYRL-A_SUR 
+
+
+* LEXICON PROP_KIT_SUR 
+
+* LEXICON PROP_KUDO_SUR 
+
+* LEXICON PROP_KAL_MAL 
+
+* LEXICON PROP_LAK_MAL 
+
+* LEXICON PROP_KIT_MAL 
+
+* LEXICON PROP_OSH_MAL 
+
+* LEXICON PROP_KUDO_MAL 
+
+* LEXICON LEXC_PROP_KUDO_MAL 
 
 
 
- * LEXICON PROP_OSH_PATRMAL 
+* LEXICON PROP_OSH_PATRMAL 
 
- * LEXICON PROP_KUDO_PATRFEM 
+* LEXICON PROP_KUDO_PATRFEM 
 
 
 ## Female Given names 
 
 
- * LEXICON PROP_KAL_FEM 
+* LEXICON PROP_KAL_FEM 
 
 
- * LEXICON PROP_KIT_FEM 
+* LEXICON PROP_KIT_FEM 
 
- * LEXICON PROP_OSH_FEM 
-
-
+* LEXICON PROP_OSH_FEM 
 
 
- * LEXICON PROP_KUDO_FEM 
 
- * LEXICON LEXC_PROP_KUDO_FEM 
+
+* LEXICON PROP_KUDO_FEM 
+
+* LEXICON LEXC_PROP_KUDO_FEM 
 
 
 PLACE NAMES FROM TEMPLATE 
 
- * LEXICON PROP-PLC_KAL 
+* LEXICON PROP-PLC_KAL 
 
- * LEXICON PROP-PLC_KIT 
+* LEXICON PROP-PLC_KIT 
 
 
- * LEXICON PROP-PLC_KUDO 
+* LEXICON PROP-PLC_KUDO 
 
 
 
@@ -3560,71 +3560,71 @@ We define our symbols (**Alphabet**), some **Sets**, and then the **Rules**
 
 
 ## Letters of the alphabet
- * а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
- * А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
+* а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
+* А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
 
 other symbols
- *    %- 
+*    %- 
 
 Archiphonemes for vowels, Giellatekno style
- *   Е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
- *  Ы2:е     Variation in еоыӧØ
- *   А1:а    
- *   Е2:е А2:а   
+*   Е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
+*  Ы2:е     Variation in еоыӧØ
+*   А1:а    
+*   Е2:е А2:а   
 
 Archiphonemes for vowels, Apertium style
- * %{аы%}:а  Stem-final vowel variation when stress falls on non-final vowel
- * %{аы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
- * %{еы%}:е  Stem-final vowel variation when stress falls on non-final vowel
- * %{еы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
- * %{оы%}:о  Stem-final vowel variation when stress falls on non-final vowel
- * %{оы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
- * %{ӧы%}:ӧ  Stem-final vowel variation when stress falls on non-final vowel
- * %{ӧы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{аы%}:а  Stem-final vowel variation when stress falls on non-final vowel
+* %{аы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{еы%}:е  Stem-final vowel variation when stress falls on non-final vowel
+* %{еы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{оы%}:о  Stem-final vowel variation when stress falls on non-final vowel
+* %{оы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{ӧы%}:ӧ  Stem-final vowel variation when stress falls on non-final vowel
+* %{ӧы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
 
- * %{яы%}:я  Stem-final vowel variation when stress falls on non-final vowel
- * %{яы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{яы%}:я  Stem-final vowel variation when stress falls on non-final vowel
+* %{яы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
 
- * %{еоыӧØ%}:е   PxSg3 final
- * %{еоыӧØ%}:о   PxSg3 final
- * %{еоыӧØ%}:ӧ   PxSg3 final
- * %{еоыӧØ%}:0   PxSg3 final
- * %{еоыӧØ%}:ы   PxSg3 final
- * %{ыØ%}:ы   PxSg3 onset
- * %{ыØ%}:0   PxSg3 onset
+* %{еоыӧØ%}:е   PxSg3 final
+* %{еоыӧØ%}:о   PxSg3 final
+* %{еоыӧØ%}:ӧ   PxSg3 final
+* %{еоыӧØ%}:0   PxSg3 final
+* %{еоыӧØ%}:ы   PxSg3 final
+* %{ыØ%}:ы   PxSg3 onset
+* %{ыØ%}:0   PxSg3 onset
 
- * %{ьØ%}:0   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
+* %{ьØ%}:0   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
 
 
- *  Е1:е  for lative
+*  Е1:е  for lative
 
 
 ### Arcihphonemes for consonants
 
- * з2:з   for з:ч, thus  возаш - воч but колхоз (*колхоч)
- * з2:ч   for native stems
- * к2:0   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
- * к2:к   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
- * н2:0   шинч- шич# "sit down/сесть"
- * н2:н   шинч- шич# "sit down/сесть"
- * т2:0   лект- лек# "leave/ уходить"
- * т2:т   лект- лек# "leave/ уходить"
+* з2:з   for з:ч, thus  возаш - воч but колхоз (*колхоч)
+* з2:ч   for native stems
+* к2:0   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+* к2:к   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+* н2:0   шинч- шич# "sit down/сесть"
+* н2:н   шинч- шич# "sit down/сесть"
+* т2:0   лект- лек# "leave/ уходить"
+* т2:т   лект- лек# "leave/ уходить"
 
 
 
- * %^V2IMPRT:0	 for -ем verbs in й
- * %^END:0		   for -ам verb final, i.e. Imprf
+* %^V2IMPRT:0	 for -ем verbs in й
+* %^END:0		   for -ам verb final, i.e. Imprf
 
- * %^VoTrigger:0   for use with acronyms after hyphen о у ё ю О У Ё Ю
- * %^VeTrigger:0   for use with acronyms after hyphen а е и э я А Е И Э Я
- * %^VOTrigger:0   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
- * %^Sonorant:0    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
- * %^Obstruent:0  for use with acronyms after hyphen С|Ф|Ъ|Ь
- * %^FrontObstr:0  for use with acronyms after hyphen 
+* %^VoTrigger:0   for use with acronyms after hyphen о у ё ю О У Ё Ю
+* %^VeTrigger:0   for use with acronyms after hyphen а е и э я А Е И Э Я
+* %^VOTrigger:0   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+* %^Sonorant:0    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+* %^Obstruent:0  for use with acronyms after hyphen С|Ф|Ъ|Ь
+* %^FrontObstr:0  for use with acronyms after hyphen 
 
 
 
- *  %>    
+*  %>    
 
 
 
@@ -3632,26 +3632,26 @@ Archiphonemes for vowels, Apertium style
 
 ## Sets
 
- * Vo =   о у ё ю О У Ё Ю ;    
- * VO =   ӧ ӱ Ӧ Ӱ;               
- * Ve =   а е и э я А Е И Э Я ;   
- * Vow =  Vo VO Ve ы Ы ;    
+* Vo =   о у ё ю О У Ё Ю ;    
+* VO =   ӧ ӱ Ӧ Ӱ;               
+* Ve =   а е и э я А Е И Э Я ;   
+* Vow =  Vo VO Ve ы Ы ;    
 
- * Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
-        з2 к2 н2 т2 ;   
+* Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
+       з2 к2 н2 т2 ;   
 
- * CnsAll =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
-        з2 к2 н2 т2 ;   
+* CnsAll =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
+       з2 к2 н2 т2 ;   
 
- * CnsNoj =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш щ   
-           Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш Щ;     
+* CnsNoj =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш щ   
+          Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш Щ;     
 
- * Cst =  б в г д ж з к п с т ф х ц ч ш щ       
-        Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш Щ;      
+* Cst =  б в г д ж з к п с т ф х ц ч ш щ       
+       Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш Щ;      
 
- * Ltrs = Vow Cns  ъ ь Ъ Ь ;    
+* Ltrs = Vow Cns  ъ ь Ъ Ь ;    
 
- * all =  Ltrs  %- ;     
+* all =  Ltrs  %- ;     
 
 
 
@@ -3995,13 +3995,13 @@ VERBS
 
 ## The initial lexica
 
-* **LEXICON Numerallexica**  initial lexica
+* **LEXICON Numeral**  initial lexica
 
 
 
 
 
-* **LEXICON ARABICnumerals** arabic numerals
+* **LEXICON ARABIC** arabic numerals
 
 
 
@@ -4010,74 +4010,74 @@ VERBS
 
 
 
-* **LEXICON ARABICLOOP**@CODE@****
+* **LEXICON ARABICLOOP**
 
 
-* **LEXICON ARABICLOOPORD_Backordinals** ordinals
+* **LEXICON ARABICLOOPORD_Back** ordinals
 
-* **LEXICON ARABICLOOPORD_Frontordinals** ordinals
+* **LEXICON ARABICLOOPORD_Front** ordinals
 
-* **LEXICON ARABICLOOPORD_FrontRoundordinals** ordinals
+* **LEXICON ARABICLOOPORD_FrontRound** ordinals
 
 
-* **LEXICON ARABICDELIMITERORD_Backordinals** ordinals
+* **LEXICON ARABICDELIMITERORD_Back** ordinals
 
-* **LEXICON ARABICDELIMITERORD_Frontordinals** ordinals
+* **LEXICON ARABICDELIMITERORD_Front** ordinals
 
-* **LEXICON ARABICDELIMITERORD_FrontRoundordinals** ordinals
+* **LEXICON ARABICDELIMITERORD_FrontRound** ordinals
 
 
 
 The Roman numerals !
 ------------------ !
 
-* **LEXICON ROMANnumerals**  roman numerals
+* **LEXICON ROMAN**  roman numerals
 
-* **LEXICON ROM-THOUSAND**@CODE@****
+* **LEXICON ROM-THOUSAND**
 
-* **LEXICON ROM-THOUSAND-TAG**@CODE@****
+* **LEXICON ROM-THOUSAND-TAG**
 
-* **LEXICON ROM-HUNDRED**@CODE@****
+* **LEXICON ROM-HUNDRED**
 
-* **LEXICON ROM-HUNDRED-TAG**@CODE@****
+* **LEXICON ROM-HUNDRED-TAG**
 
-* **LEXICON ROM-TEN**@CODE@****
+* **LEXICON ROM-TEN**
 
-* **LEXICON ROM-TEN-TAG**@CODE@****
+* **LEXICON ROM-TEN-TAG**
 
-* **LEXICON ROM-ONE**@CODE@****
+* **LEXICON ROM-ONE**
 
-* **LEXICON ROM-ONE-TAG**@CODE@****
-
-
-* **LEXICON ROM-SPLIT**@CODE@****
+* **LEXICON ROM-ONE-TAG**
 
 
-
-* **LEXICON 2ROMAN**@CODE@****
-
-* **LEXICON 2ROM-THOUSAND**@CODE@****
-
-* **LEXICON 2ROM-THOUSAND-TAG**@CODE@****
-
-* **LEXICON 2ROM-HUNDRED**@CODE@****
-
-* **LEXICON 2ROM-HUNDRED-TAG**@CODE@****
-
-* **LEXICON 2ROM-TEN**@CODE@****
-
-* **LEXICON 2ROM-TEN-TAG**@CODE@****
-
-* **LEXICON 2ROM-ONE**@CODE@****
-
-* **LEXICON 2ROM-ONE-TAG**@CODE@****
-
-* **LEXICON ROMNUMTAG**@CODE@****
+* **LEXICON ROM-SPLIT**
 
 
-* **LEXICON ARABICCASEORD_Back+Ex/A?** ordinals Is this then becoming +Ex/A?
-* **LEXICON ARABICCASEORD_Frontordinals** ordinals
-* **LEXICON ARABICCASEORD_FrontRoundordinals** ordinals
+
+* **LEXICON 2ROMAN**
+
+* **LEXICON 2ROM-THOUSAND**
+
+* **LEXICON 2ROM-THOUSAND-TAG**
+
+* **LEXICON 2ROM-HUNDRED**
+
+* **LEXICON 2ROM-HUNDRED-TAG**
+
+* **LEXICON 2ROM-TEN**
+
+* **LEXICON 2ROM-TEN-TAG**
+
+* **LEXICON 2ROM-ONE**
+
+* **LEXICON 2ROM-ONE-TAG**
+
+* **LEXICON ROMNUMTAG**
+
+
+* **LEXICON ARABICCASEORD_Back** ordinals Is this then becoming +Ex/A?
+* **LEXICON ARABICCASEORD_Front** ordinals
+* **LEXICON ARABICCASEORD_FrontRound** ordinals
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/stems/numerals.lexc)</small>Eastern Mari acronym file
@@ -4114,12 +4114,12 @@ for text-to-speech systems.
 
 For example:
 
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
+* s.:syntynyt # ;  
+* os.:omaa% sukua # ;  
+* v.:vuosi # ;  
+* v.:vuonna # ;  
+* esim.:esimerkki # ; 
+* esim.:esimerkiksi # ; 
 
 
 * * *

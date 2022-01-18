@@ -6,7 +6,7 @@ This file consists of three parts:
 1. A set of lexica for minor parts of speech
 1. A set of unfinished lexica, to be either deleted or expanded.
 
-# Declaration of Multichar_Symbols@CODE@
+# Declaration of Multichar_Symbols
 
 ## Analysis symbols
 
@@ -14,62 +14,62 @@ The morphological analyses of the wordforms of Eastern Mari language are
 presented in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
-* **+WORKnouns** = nouns
+* **+WORK** = nouns
 
- * %^VoTrigger   for use with acronyms after hyphen
- * %^VeTrigger   for use with acronyms after hyphen
- * %^VOTrigger   for use with acronyms after hyphen
- * %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
- * %^Obstruent   for use with acronyms after hyphen С|Ф|Ъ|Ь
- * %^FrontObstr  for use with acronyms after hyphen С|Ф|Ъ|Ь
+* %^VoTrigger   for use with acronyms after hyphen
+* %^VeTrigger   for use with acronyms after hyphen
+* %^VOTrigger   for use with acronyms after hyphen
+* %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+* %^Obstruent   for use with acronyms after hyphen С|Ф|Ъ|Ь
+* %^FrontObstr  for use with acronyms after hyphen С|Ф|Ъ|Ь
 
 
-* **%^ENDword** = twolc tag to mark end of word
+* **%^END** = twolc tag to mark end of word
 
 ### The parts-of-speech are:
 
-* **+Nnouns** = nouns
-* **+Aadjectives** = adjectives
-* **+Adpadpositions** = adpositions
-* **+Advadverbs** = adverbs
-* **+Vverbs** = verbs
-* **+Pronpronouns** = pronouns
-* **+CSsubjunctions** = subjunctions
-* **+CCconjunctions** = conjunctions
-* **+Interjinterjections** = interjections
-* **+Pcleparticles** = particles
-* **+Numnumerals** = numerals
-* **+Descrideophones** = descriptive ideophones
+* **+N** = nouns
+* **+A** = adjectives
+* **+Adp** = adpositions
+* **+Adv** = adverbs
+* **+V** = verbs
+* **+Pron** = pronouns
+* **+CS** = subjunctions
+* **+CC** = conjunctions
+* **+Interj** = interjections
+* **+Pcle** = particles
+* **+Num** = numerals
+* **+Descr** = descriptive ideophones
 
 
 ### POS subtags
 The parts of speech are further split up into:
-* **+Popostpositions** = postpositions
-* **+Prprepositons** = prepositons
+* **+Po** = postpositions
+* **+Pr** = prepositons
 
-* **+Propnoun** = Proper noun
-* **+Perspronoun** = Personal pronoun
-* **+Dempronoun** = Demonstrative pronoun
-* **+Interrpronoun** = Interrogative pronoun
-* **+Reflpronoun** = Reflexive pronoun
-* **+Reciprpronoun** = Reciprocal pronoun
-* **+Relpronoun** = Relative pronoun
-* **+Indefpronoun** = Indefinite pronoun
-* **+Coll-ын-** = Collective numerals -ын-
-* **+AssocColl-нь-** = Collective associative numerals with obligatory possessive suffixes -нь-
+* **+Prop** = Proper noun
+* **+Pers** = Personal pronoun
+* **+Dem** = Demonstrative pronoun
+* **+Interr** = Interrogative pronoun
+* **+Refl** = Reflexive pronoun
+* **+Recipr** = Reciprocal pronoun
+* **+Rel** = Relative pronoun
+* **+Indef** = Indefinite pronoun
+* **+Coll** = Collective numerals -ын-
+* **+AssocColl** = Collective associative numerals with obligatory possessive suffixes -нь-
 
-* **+Patrfsts.** = patronym, look at this in other cyr fsts.
-* **+Auxverb** = Auxiliary verb
-* **+Depfst.** = ( pair verbs that do not occur independently get this marker.) /was +Depend, but +Dep used in fst.
+* **+Patr** = patronym, look at this in other cyr fsts.
+* **+Aux** = Auxiliary verb
+* **+Dep** = ( pair verbs that do not occur independently get this marker.) /was +Depend, but +Dep used in fst.
 
 
 Have a look at these:
 
 * **+Foc/Poss** = 
-* **+Prfperfective** = perfective
-* **+Arabnumerals** = arabic numerals
-* **+Qntquantifiers** = quantifiers
-* **+Romnumerals** = roman numerals
+* **+Prf** = perfective
+* **+Arab** = arabic numerals
+* **+Qnt** = quantifiers
+* **+Rom** = roman numerals
 * **+Weak** = weak (?) form 
 
 
@@ -78,23 +78,23 @@ The nominals are inflected in the following numbers
 * **+Sg** = 
 * **+Pl** = 
 * **+AssocPl** = 
-* **+LocPlcase?** = location, better witho LocusPl to avoid Loc case?
+* **+LocPl** = location, better witho LocusPl to avoid Loc case?
 
 The nominals are inflected in the following Case and Number
 
-* **+Nomnominative** = nominative
-* **+Gengenitive** = genitive
-* **+Accaccusative** = accusative
-* **+Comcomitative** = comitative
-* **+Illillative** = illative
-* **+Ineinessive** = inessive
-* **+Latlative** = lative
-* **+Datdative** = dative
-* **+Cmprcase** = comparative case
-* **+Abeabessive** = abessive
-* **+Vocvocative** = vocative
-* **+Attrform** = attributive form
-* **+Instr=** =
+* **+Nom** = nominative
+* **+Gen** = genitive
+* **+Acc** = accusative
+* **+Com** = comitative
+* **+Ill** = illative
+* **+Ine** = inessive
+* **+Lat** = lative
+* **+Dat** = dative
+* **+Cmpr** = comparative case
+* **+Abe** = abessive
+* **+Voc** = vocative
+* **+Attr** = attributive form
+* **+Instr** =
 
 
 The possession is marked as such:
@@ -107,21 +107,21 @@ The possession is marked as such:
 * **+PxPl3** = 
 
 Suffix ordering tags:
-* **+So/CPmarking** = Suffix ordering: Case + Possessive Person marking
-* **+So/PCmarking** = Suffix ordering: Possessive Person + Case marking
-* **+So/NCPmarking** = Suffix ordering: Number + Case + Possessive Person marking
-* **+So/NPCmarking** = Suffix ordering: Number + Possessive Person + Case marking
-* **+So/NPmarking** = Suffix ordering: Number + Possessive Person marking
-* **+So/PNmarking** = Suffix ordering: Possessive Person + Number marking
-* **+So/PNCmarking** = Suffix ordering: Possessive Person + Number + Case marking
+* **+So/CP** = Suffix ordering: Case + Possessive Person marking
+* **+So/PC** = Suffix ordering: Possessive Person + Case marking
+* **+So/NCP** = Suffix ordering: Number + Case + Possessive Person marking
+* **+So/NPC** = Suffix ordering: Number + Possessive Person + Case marking
+* **+So/NP** = Suffix ordering: Number + Possessive Person marking
+* **+So/PN** = Suffix ordering: Possessive Person + Number marking
+* **+So/PNC** = Suffix ordering: Possessive Person + Number + Case marking
 
 The comparative forms are:
-* **+CompCmp)** = comparative (not: not Cmp)
-* **+Superlsuperlative** = superlative
+* **+Comp** = comparative (not: not Cmp)
+* **+Superl** = superlative
 
 Numerals are classified under:
 
-* **+Cardskip+Card?)** = (hmm, skip+Card?)
+* **+Card** = (hmm, skip+Card?)
 * **+Ord** = 
 
 
@@ -131,16 +131,16 @@ Note the attributive tag, in defferent contexts
 
 Verb moods are:
 
-* **+Indindicative** = indicative
-* **+Condconditional** = conditional
-* **+Imprtimperative** = imperative
-* **+Desdesiderative** = desiderative
+* **+Ind** = indicative
+* **+Cond** = conditional
+* **+Imprt** = imperative
+* **+Des** = desiderative
 
 Verb tenses are:
 
-* **+Prspresent** = present
-* **+Prt1observation** = 1st preterite, direct observation
-* **+Prt2conclusion** = 2nd preterite, indirect narrative, conclusion
+* **+Prs** = present
+* **+Prt1** = 1st preterite, direct observation
+* **+Prt2** = 2nd preterite, indirect narrative, conclusion
 
 Verb personal forms are: (also used with personal pronouns)
 
@@ -151,93 +151,93 @@ Verb personal forms are: (also used with personal pronouns)
 * **+Pl2** = 
 * **+Pl3** = 
 
-* **+Extуло** = form уло
+* **+Ext** = form уло
 * **+Indep** = forms огым, огыт, ите 
 
 Other verb forms are
 
-* **+InfInfinitive** = Infinitive
-* **+GerGerund** = Gerund
-* **+Negverb** = Negation verb
-* **+ConNegexpression** = Invariant main verb in negation expression
-* **+PrcParticiple** = Participle
-* **+Necinfinitive** = Necessive infinitive
-* **+Futparticiple** = Future participle
-* **+Negparticiple** = Negative participle
-* **+Imprfthis** = Imperfective (?) -- XXX check this
-* **+ActActive** = Active
-* **+PassPassive** = Passive
+* **+Inf** = Infinitive
+* **+Ger** = Gerund
+* **+Neg** = Negation verb
+* **+ConNeg** = Invariant main verb in negation expression
+* **+Prc** = Participle
+* **+Nec** = Necessive infinitive
+* **+Fut** = Future participle
+* **+Neg** = Negative participle
+* **+Imprf** = Imperfective (?) -- XXX check this
+* **+Act** = Active
+* **+Pass** = Passive
 
 
 Question and Focus particles:
 * **+Qst** = 
 * **+Foc** = 
 
-* **+Foc/atparticla** = -at focus particla
-* **+Foc/akparticle** = -ak focus particle
-* **+Foc/ysparticle** = -ys focus particle
-* **+Foc/janparticle** = -jan focus particle
-* **+Foc/japarticle** = -ja focus particle
+* **+Foc/at** = -at focus particla
+* **+Foc/ak** = -ak focus particle
+* **+Foc/ys** = -ys focus particle
+* **+Foc/jan** = -jan focus particle
+* **+Foc/ja** = -ja focus particle
 
 ### Tags distinguishing different versions of the same lemma (before POS)
-* +v1@CODE@
-* +v2@CODE@
-* +v3@CODE@
-* +v4@CODE@
-* +v5@CODE@
-* +v6@CODE@
-* +v7@CODE@
-* +v8@CODE@
-* +v9@CODE@
-* +v10@CODE@
-* +v11@CODE@
-* +v12@CODE@
-* +v13@CODE@
-* +v14@CODE@
-* +v15@CODE@
-* +v16@CODE@
-* +v17@CODE@
-* +v18@CODE@
-* +v19@CODE@
-* +v20@CODE@
+* +v1
+* +v2
+* +v3
+* +v4
+* +v5
+* +v6
+* +v7
+* +v8
+* +v9
+* +v10
+* +v11
+* +v12
+* +v13
+* +v14
+* +v15
+* +v16
+* +v17
+* +v18
+* +v19
+* +v20
 
 ### Derivations
 
-* **+Ex/NPOS** = for derivation from N to anoter POS
-* **+Ex/VPOS** = for derivation from V  to anoter POS
-* **+Ex/APOS** = for derivation from A to anoter POS
-* **+Ex/TVtransitivity** = change to other transitivity
-* **+EX/IVtransitivity** = change to other transitivity
+* **+Ex/N** = for derivation from N to anoter POS
+* **+Ex/V** = for derivation from V  to anoter POS
+* **+Ex/A** = for derivation from A to anoter POS
+* **+Ex/TV** = change to other transitivity
+* **+EX/IV** = change to other transitivity
 
-* **+Derforms** = This allows for Ex/... forms
-* **+Der/NomNominalization** =  Derivation V > N: Nominalization
-* **+Der/NomNegnominalization** = Derivation V > N: Negative nominalization
-* **+Der/Privadjective** =  Derivation N > A: Privative adjective
-* **+Der/Posshead** =   Derivation N > A: Possessive adjective, orig. genitive form without a head
+* **+Der** = This allows for Ex/... forms
+* **+Der/Nom** =  Derivation V > N: Nominalization
+* **+Der/NomNeg** = Derivation V > N: Negative nominalization
+* **+Der/Priv** =  Derivation N > A: Privative adjective
+* **+Der/Poss** =   Derivation N > A: Possessive adjective, orig. genitive form without a head
 * **+Der/Pur** =   Derivation N > A: 
-* **+Der/Reladjective** =  Derivation N > A: Relational adjective
-* **+Der/CausCausative** = Derivation V > V: Causative
-* **+Der/ReflReflexive** = Derivation V > V: Reflexive
-* **+Der/MWNetc.)** = Modifier without noun (better: +A+Sg+Nom etc.)
+* **+Der/Rel** =  Derivation N > A: Relational adjective
+* **+Der/Caus** = Derivation V > V: Causative
+* **+Der/Refl** = Derivation V > V: Reflexive
+* **+Der/MWN** = Modifier without noun (better: +A+Sg+Nom etc.)
 
 All non-positional derivations should be preceded by this tag, to make it possible
 to target regular expressions at all derivations in a language-independent way:
 just specify +Der|+Der1 .. +Der5 and you are set.
 
-* +Der@CODE@
+* +Der
 
 
 Abbreviated words are classified with:
-* **+ABBRperiod** = for abbreviations that (may) contain period
-* **+Symbol©** = independent symbols in the text stream, like £, €, ©
-* **+ACRacronyms** = acronyms
+* **+ABBR** = for abbreviations that (may) contain period
+* **+Symbol** = independent symbols in the text stream, like £, €, ©
+* **+ACR** = acronyms
 
 Special symbols are classified with:
 
-* **+CLBsymbols** = clause and sentence boundary symbols
-* **+PUNCTmarks** = other punctuation marks
-* **+LEFTsymbols** = paired symbols
-* **+RIGHTsymbols** = paired symbols
+* **+CLB** = clause and sentence boundary symbols
+* **+PUNCT** = other punctuation marks
+* **+LEFT** = paired symbols
+* **+RIGHT** = paired symbols
 
 The verbs are syntactically split according to transitivity:
 * **+TV** = 
@@ -255,9 +255,9 @@ These are especially for verbs. Note that this is **not**
 a semantic distinction, we talk about paradigms deviating
 here and there in the inflection pattern.
 
-* **+Hom1-ам)** = First pattern (let us say -ам)
-* **+Hom2-ем)** = Second pattern (let us say -ем)
-* **+Hom3more?)** = Third pattern (if it should exist + even more?)
+* **+Hom1** = First pattern (let us say -ам)
+* **+Hom2** = Second pattern (let us say -ем)
+* **+Hom3** = Third pattern (if it should exist + even more?)
 * **+Hom4** = 
 * **+Hom5** = 
 * **+Hom6** = 
@@ -266,119 +266,119 @@ here and there in the inflection pattern.
 
 The Usage extents are marked using following tags:
 
-* **+Use/Margmarginal** marginal
-* **+Use/-PLXPLX-speller** Excluded in PLX-speller
-* **+Use/SpellNoSuggspeller** recognized but not suggested in speller
-* **+Use/Circ^C^)** circular paths (old ^C^)
-* **+Use/CircN^N^)** circular paths for the numerals (old ^N^)
-* **+Use/NGisme-ped.fst** not-generate, for ped generation isme-ped.fst
+* **+Use/Marg** marginal
+* **+Use/-PLX** Excluded in PLX-speller
+* **+Use/SpellNoSugg** recognized but not suggested in speller
+* **+Use/Circ** circular paths (old ^C^)
+* **+Use/CircN** circular paths for the numerals (old ^N^)
+* **+Use/NG** not-generate, for ped generation isme-ped.fst
 * **+Use/MT** Generate for MT only, for restricting analyses needed 
 for MT generation not to pop up elsewhere
-* **+Use/NGminipdicts** Not for miniparadigm in VD dicts
-* **+Use/Disambdisambiguator** means that the following is only used in the analyser feeding the disambiguator
-* **+Use/GCanalyser** only retained in the HFST Grammar Checker disambiguation analyser
-* **+Use/-PMatchhfst-pmatch** Do not include in fsts made for hfst-pmatch
-* **+MWESplitMWE** Split point for MWE
+* **+Use/NGminip** Not for miniparadigm in VD dicts
+* **+Use/Disamb** means that the following is only used in the analyser feeding the disambiguator
+* **+Use/GC** only retained in the HFST Grammar Checker disambiguation analyser
+* **+Use/-PMatch** Do not include in fsts made for hfst-pmatch
+* **+MWESplit** Split point for MWE
 
-* **+Err/Orthspeller)** = orthographical error (analysed, not accepted in speller)
-* **+Use/-Spellspeller** = accepted in normative FST but not in speller
-* **+Use/Testпашаш** =  Dealing with lative form 2012-10-27 аваеш, пашаш
+* **+Err/Orth** = orthographical error (analysed, not accepted in speller)
+* **+Use/-Spell** = accepted in normative FST but not in speller
+* **+Use/Test** =  Dealing with lative form 2012-10-27 аваеш, пашаш
 
 
 ### Semantic tags
 
-* **+Sem/ActActivity** = Activity
-* **+Sem/AmountAmount** = Amount
-* **+Sem/AniAnimate** = Animate
-* **+Sem/AniprodProduct** = Animal Product
-* **+Sem/BodyBodypart** = Bodypart
-* **+Sem/Body-abstrjierbmi** = siellu, vuoig?a, jierbmi
-* **+Sem/BuildBuilding** = Building
-* **+Sem/Build-partcloset** = Part of Bulding, like the closet
-* **+Sem/CatCategory** = Category
-* **+Sem/ClthClothes** = Clothes
-* **+Sem/Clth-jewlJewelery** = Jewelery
-* **+Sem/Clth-partsávdnji...** = part of clothes, boallu, sávdnji...
-* **+Sem/CtainContainer** = Container
-* **+Sem/Ctain-abstraccount** = Abstract container like bank account
-* **+Sem/Ctain-clth**@CODE@****
-* **+Sem/CurrMoney** = Currency like dollár, Not Money
-* **+Sem/DanceDance** = Dance
-* **+Sem/DirGPS-kursa** = Direction like GPS-kursa
-* **+Sem/Domainactions)** = Domain like politics, reindeerherding (a system of actions)
-* **+Sem/DrinkDrink** = Drink
-* **+Sem/DummytagDummytag** = Dummytag
-* **+Sem/Eduevent** = Educational event
-* **+Sem/EventEvent** = Event
-* **+Sem/FeatÁrvu** = Feature, like Árvu
-* **+Sem/Feat-physfárda** = Physiological feature, ivdni, fárda
-* **+Sem/Feat-psychfeauture** = Psychological feauture
-* **+Sem/Feat-measrfeauture** = Psychological feauture
-* **+Sem/Femname** = Female name
-* **+Sem/FoodFood** = Food
-* **+Sem/Food-medMedicine** = Medicine
-* **+Sem/FurnFurniture** = Furniture
-* **+Sem/GameGame** = Game
-* **+Sem/Geomobject** = Geometrical object
-* **+Sem/GroupGroup** = Animal or Human Group
-* **+Sem/HumHuman** = Human
-* **+Sem/Hum-abstrabstract** = Human abstract
-* **+Sem/IdeolIdeology** = Ideology
-* **+Sem/LangLanguage** = Language
-* **+Sem/Malname** = Male name
-* **+Sem/Matthings** = Material for producing things
-* **+Sem/MeasrMeasure** = Measure
-* **+Sem/MoneyCurr(ency)** = Has to do with money, like wages, not Curr(ency)
-* **+Sem/ObjObject** = Object
-* **+Sem/Obj-cloCloth** = Cloth
-* **+Sem/Obj-cognCloth** = Cloth
-* **+Sem/Obj-elapparatus** = (Electrical) machine or apparatus
-* **+Sem/Obj-lingit** = Object with something written on it
-* **+Sem/Obj-ropeobject** = flexible ropelike object
-* **+Sem/Obj-surfcobject** = Surface object
-* **+Sem/OrgOrganisation** = Organisation
-* **+Sem/Partbealli** = Feature, oassi, bealli
-* **+Sem/Perc-cognperception** = Cognative perception
-* **+Sem/Perc-emoperception** = Emotional perception
-* **+Sem/Perc-physperception** = Physical perception
-* **+Sem/Perc-psychperception** = Physical perception
-* **+Sem/PlantPlant** = Plant
-* **+Sem/Plant-partpart** = Plant part
-* **+Sem/PlcPlace** = Place
-* **+Sem/Plc-abstrplace** = Abstract place
-* **+Sem/Plc-elevatePlace** = Place
-* **+Sem/Plc-linePlace** = Place
-* **+Sem/Plc-waterPlace** = Place
-* **+Sem/Posjob)** = Position (as in social position job)
-* **+Sem/ProcessProcess** = Process
-* **+Sem/ProdProduct** = Product
-* **+Sem/Prod-audioproduct** = Audio product
-* **+Sem/Prod-cognproduct** = Cognition product
-* **+Sem/Prod-lingproduct** = Linguistic product
-* **+Sem/Prod-visproduct** = Visual product
-* **+Sem/RelRelation** = Relation
-* **+Sem/RouteRoute** = Name of a Route
-* **+Sem/Ruleconvention** = Rule or convention
-* **+Sem/Semconconcept** = Semantic concept
+* **+Sem/Act** = Activity
+* **+Sem/Amount** = Amount
+* **+Sem/Ani** = Animate
+* **+Sem/Aniprod** = Animal Product
+* **+Sem/Body** = Bodypart
+* **+Sem/Body-abstr** = siellu, vuoig?a, jierbmi
+* **+Sem/Build** = Building
+* **+Sem/Build-part** = Part of Bulding, like the closet
+* **+Sem/Cat** = Category
+* **+Sem/Clth** = Clothes
+* **+Sem/Clth-jewl** = Jewelery
+* **+Sem/Clth-part** = part of clothes, boallu, sávdnji...
+* **+Sem/Ctain** = Container
+* **+Sem/Ctain-abstr** = Abstract container like bank account
+* **+Sem/Ctain-clth**
+* **+Sem/Curr** = Currency like dollár, Not Money
+* **+Sem/Dance** = Dance
+* **+Sem/Dir** = Direction like GPS-kursa
+* **+Sem/Domain** = Domain like politics, reindeerherding (a system of actions)
+* **+Sem/Drink** = Drink
+* **+Sem/Dummytag** = Dummytag
+* **+Sem/Edu** = Educational event
+* **+Sem/Event** = Event
+* **+Sem/Feat** = Feature, like Árvu
+* **+Sem/Feat-phys** = Physiological feature, ivdni, fárda
+* **+Sem/Feat-psych** = Psychological feauture
+* **+Sem/Feat-measr** = Psychological feauture
+* **+Sem/Fem** = Female name
+* **+Sem/Food** = Food
+* **+Sem/Food-med** = Medicine
+* **+Sem/Furn** = Furniture
+* **+Sem/Game** = Game
+* **+Sem/Geom** = Geometrical object
+* **+Sem/Group** = Animal or Human Group
+* **+Sem/Hum** = Human
+* **+Sem/Hum-abstr** = Human abstract
+* **+Sem/Ideol** = Ideology
+* **+Sem/Lang** = Language
+* **+Sem/Mal** = Male name
+* **+Sem/Mat** = Material for producing things
+* **+Sem/Measr** = Measure
+* **+Sem/Money** = Has to do with money, like wages, not Curr(ency)
+* **+Sem/Obj** = Object
+* **+Sem/Obj-clo** = Cloth
+* **+Sem/Obj-cogn** = Cloth
+* **+Sem/Obj-el** = (Electrical) machine or apparatus
+* **+Sem/Obj-ling** = Object with something written on it
+* **+Sem/Obj-rope** = flexible ropelike object
+* **+Sem/Obj-surfc** = Surface object
+* **+Sem/Org** = Organisation
+* **+Sem/Part** = Feature, oassi, bealli
+* **+Sem/Perc-cogn** = Cognative perception
+* **+Sem/Perc-emo** = Emotional perception
+* **+Sem/Perc-phys** = Physical perception
+* **+Sem/Perc-psych** = Physical perception
+* **+Sem/Plant** = Plant
+* **+Sem/Plant-part** = Plant part
+* **+Sem/Plc** = Place
+* **+Sem/Plc-abstr** = Abstract place
+* **+Sem/Plc-elevate** = Place
+* **+Sem/Plc-line** = Place
+* **+Sem/Plc-water** = Place
+* **+Sem/Pos** = Position (as in social position job)
+* **+Sem/Process** = Process
+* **+Sem/Prod** = Product
+* **+Sem/Prod-audio** = Audio product
+* **+Sem/Prod-cogn** = Cognition product
+* **+Sem/Prod-ling** = Linguistic product
+* **+Sem/Prod-vis** = Visual product
+* **+Sem/Rel** = Relation
+* **+Sem/Route** = Name of a Route
+* **+Sem/Rule** = Rule or convention
+* **+Sem/Semcon** = Semantic concept
 * **+Sem/Sign** = Sign (e.g. numbers, punctuation) 
-* **+Sem/SportSport** = Sport
+* **+Sem/Sport** = Sport
 * **+Sem/State** = 
-* **+Sem/State-sickIllness** = Illness
-* **+Sem/SubstncWater** = Substance, like Air and Water
-* **+Sem/SurSurname** = Surname
-* **+Sem/SymbolSymbol** = Symbol
-* **+Sem/TimeTime** = Time
-* **+Sem/Toolthings** = Prototypical tool for repairing things
-* **+Sem/Tool-catchfish)** = Tool used for catching (e.g. fish)
-* **+Sem/Tool-cleancleaning** = Tool used for cleaning
-* **+Sem/Tool-itIT** = Tool used in IT
-* **+Sem/Tool-measrmeasuring** = Tool used for measuring
-* **+Sem/Tool-musicinstrument** = Music instrument
-* **+Sem/Tool-writetool** = Writing tool
-* **+Sem/Txtlávlla...)** = Text (girji, lávlla...)
-* **+Sem/VehVehicle** = Vehicle
-* **+Sem/WpnWeapon** = Weapon
-* **+Sem/Wthrground** = The Weather or the state of ground
+* **+Sem/State-sick** = Illness
+* **+Sem/Substnc** = Substance, like Air and Water
+* **+Sem/Sur** = Surname
+* **+Sem/Symbol** = Symbol
+* **+Sem/Time** = Time
+* **+Sem/Tool** = Prototypical tool for repairing things
+* **+Sem/Tool-catch** = Tool used for catching (e.g. fish)
+* **+Sem/Tool-clean** = Tool used for cleaning
+* **+Sem/Tool-it** = Tool used in IT
+* **+Sem/Tool-measr** = Tool used for measuring
+* **+Sem/Tool-music** = Music instrument
+* **+Sem/Tool-write** = Writing tool
+* **+Sem/Txt** = Text (girji, lávlla...)
+* **+Sem/Veh** = Vehicle
+* **+Sem/Wpn** = Weapon
+* **+Sem/Wthr** = The Weather or the state of ground
 
 
 
@@ -525,20 +525,20 @@ source and target part-of-speech.
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
- * %{аы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
- * %{еы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
- * %{оы%}  Stem-final vowel variation when stress falls on non-final vowel
- * %{ӧы%}  Stem-final vowel variation when stress falls on non-final vowel
- * %{яы%}  Stem-final vowel variation when stress falls on non-final vowel preceded by ь
- * %{еоыӧØ%}   PxSg3 final
- * %{ыØ%}   PxSg3 onset
+* %{аы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
+* %{еы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
+* %{оы%}  Stem-final vowel variation when stress falls on non-final vowel
+* %{ӧы%}  Stem-final vowel variation when stress falls on non-final vowel
+* %{яы%}  Stem-final vowel variation when stress falls on non-final vowel preceded by ь
+* %{еоыӧØ%}   PxSg3 final
+* %{ыØ%}   PxSg3 onset
 
- * %{ьØ%}   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
+* %{ьØ%}   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
 
 
-* {aä}harmony for vowel harmony
-* {oö}harmony for vowel harmony
-* {uü}harmony for vowel harmony
+* {aä} for vowel harmony
+* {oö} for vowel harmony
+* {uü} for vowel harmony
 * **е1** = 
 * **а1** = 
 * **и1** = 
@@ -546,21 +546,21 @@ symbols in the lexicon files:
 * **ӱ1** = 
 * **я1** = 
 
-* **Е1lative** = lative
+* **Е1** = lative
 * **Е2** = 
 * **А2** = 
-* **Ы1archi-vowel** = stem-onset archi-vowel
-* **Ы2=** =
+* **Ы1** = stem-onset archi-vowel
+* **Ы2** =
 * **з2** = for возаш : воч 
- * к2   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
- * н2   шинч- шич# "sit down/сесть"
- * т2   лект- лек# "leave/ уходить"
+* к2   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+* н2   шинч- шич# "sit down/сесть"
+* т2   лект- лек# "leave/ уходить"
 * **%>** = 
 * **+TEST** = 
 
 And following triggers to control variation
- * %^V2IMPRT	 for -ем verbs in й
- * %^END       	 for -ам verb final, i.e. Imprf
+* %^V2IMPRT	 for -ем verbs in й
+* %^END       	 for -ам verb final, i.e. Imprf
 
 * **{front}** 
 * **{back}** 
@@ -578,11 +578,11 @@ And following triggers to control variation
 * %- 
 
 
- * %^VoTrigger   for use with acronyms after hyphen о у ё ю О У Ё Ю
- * %^VeTrigger   for use with acronyms after hyphen а е и э я А Е И Э Я
- * %^VOTrigger   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
- * %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
- * %^Obstruent   for use with acronyms after hyphen С|Ф|Ъ|Ь
+* %^VoTrigger   for use with acronyms after hyphen о у ё ю О У Ё Ю
+* %^VeTrigger   for use with acronyms after hyphen а е и э я А Е И Э Я
+* %^VOTrigger   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+* %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+* %^Obstruent   for use with acronyms after hyphen С|Ф|Ъ|Ь
 
 ### Symbols that need to be escaped on the lower side (towards twolc):
 
@@ -592,10 +592,10 @@ And following triggers to control variation
 * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
 
 
-* **+Cmpnouns** = nouns
-* **+Cmp/Hyphnouns** = nouns
-* **+Cmp/SoftHyphnouns** = nouns
-* **+Cmp/SplitRnouns** = nouns
+* **+Cmp** = nouns
+* **+Cmp/Hyph** = nouns
+* **+Cmp/SoftHyph** = nouns
+* **+Cmp/SplitR** = nouns
 
 
 
@@ -604,23 +604,23 @@ We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
 
-|  @P.NeedNoun.ON@nominalised | (Dis)allow compounds with verbs unless nominalised
-|  @D.NeedNoun.ON@nominalised | (Dis)allow compounds with verbs unless nominalised
-|  @C.NeedNoun@nominalised | (Dis)allow compounds with verbs unless nominalised
+|  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+|  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+|  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
 
 For languages that allow compounding, the following flag diacritics are needed
 to control position-based compounding restrictions for nominals. Their use is
 handled automatically if combined with +CmpN/xxx tags. If not used, they will
 do no harm.
 
-|  @P.CmpFrst.FALSE@first | Require that words tagged as such only appear first
-|  @D.CmpPref.TRUE@ENDLEX | Block such words from entering ENDLEX
-|  @P.CmpPref.FALSE@compounds | Block these words from making further compounds
-|  @D.CmpLast.TRUE@R | Block such words from entering R
-|  @D.CmpNone.TRUE@compounding | Combines with the next tag to prohibit compounding
-|  @U.CmpNone.FALSE@compounding | Combines with the prev tag to prohibit compounding
-|  @P.CmpOnly.TRUE@R | Sets a flag to indicate that the word has passed R
-|  @D.CmpOnly.FALSE@root. | Disallow words coming directly from root.
+|  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
+|  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
+|  @P.CmpPref.FALSE@ | Block these words from making further compounds
+|  @D.CmpLast.TRUE@ | Block such words from entering R
+|  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
+|  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
+|  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
+|  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
 
 
 Use the following flag diacritics to control downcasing of derived proper
@@ -628,8 +628,8 @@ nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to u
 these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
 
-|  @U.Cap.Obl@deatnulasj. | Allowing downcasing of derived names: deatnulasj.
-|  @U.Cap.Opt@deatnulasj. | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
 
 
@@ -638,35 +638,35 @@ given the proper use of these flags.
 
 ## The Root lexicon
 
-@U.Cap.Opt@deatnulasj. Here it all starts
+@U.Cap.Opt@ Here it all starts
 
 The word forms in Meadow Mari language start from the lexeme roots of 
 
 the following basic word classes: 
- * adjectives  ;	    
-   adverbs  ;		    
-   conjunctions  ;	    
-   dependents   ;	    
-   interjections   ;   
-   nouns   ;		    
-   numbers   ;    
-   particles   ;	    
-   postpositions	;   
-   pronouns    ;	    
-   pronouns_not_from_xml ;	    
-   propernouns    ;    
-   propernouns-toponyms    ;    
-   verbs   ;		    
-   verbs_not_from_xml ;    
-   Abbreviation	;   
-   Acronym		;	    
-   Numeral		;	    
-   Punctuation	;	   
-   Symbols     ;	   
- * Exceptions ;  
-   NUM-COLL_  ;  
-   urj-Cyrl-ProperNouns ;   s
-   ProperNoun-mhr ;   specifically Mari names
+* adjectives  ;	    
+  adverbs  ;		    
+  conjunctions  ;	    
+  dependents   ;	    
+  interjections   ;   
+  nouns   ;		    
+  numbers   ;    
+  particles   ;	    
+  postpositions	;   
+  pronouns    ;	    
+  pronouns_not_from_xml ;	    
+  propernouns    ;    
+  propernouns-toponyms    ;    
+  verbs   ;		    
+  verbs_not_from_xml ;    
+  Abbreviation	;   
+  Acronym		;	    
+  Numeral		;	    
+  Punctuation	;	   
+  Symbols     ;	   
+* Exceptions ;  
+  NUM-COLL_  ;  
+  urj-Cyrl-ProperNouns ;   s
+  ProperNoun-mhr ;   specifically Mari names
 
 
 
@@ -674,31 +674,31 @@ Continuation lexica
 
 Here comes a set of ragbag continuation lexica.
 
- * LEXICON ADP_   TODO: why +WORK?
- * LEXICON CONJ_  TODO: why +WORK? All CONJ_ should be identified as either CC or CS or both, work in progress
+* LEXICON ADP_   TODO: why +WORK?
+* LEXICON CONJ_  TODO: why +WORK? All CONJ_ should be identified as either CC or CS or both, work in progress
 
- * LEXICON CC_  conjunctinos
+* LEXICON CC_  conjunctinos
 
- * LEXICON CS_  subjunctions
+* LEXICON CS_  subjunctions
 
-* **LEXICON DESCR_something** = descriptive something
+* **LEXICON DESCR_** = descriptive something
 
- * LEXICON DESCR-AUD_  these are audible, others may be visible or otherwise sensed, but for now just calling them Interj+Descr should suffice
+* LEXICON DESCR-AUD_  these are audible, others may be visible or otherwise sensed, but for now just calling them Interj+Descr should suffice
 
- * LEXICON AD-A  also adverbs
+* LEXICON AD-A  also adverbs
 
- * LEXICON INTERJ_  interjections
+* LEXICON INTERJ_  interjections
 
- * LEXICON Puh-a/e    XXX do not know
+* LEXICON Puh-a/e    XXX do not know
 
- * LEXICON Puh    XXX do not know
+* LEXICON Puh    XXX do not know
 
- * LEXICON PCLE_  particles, check these
+* LEXICON PCLE_  particles, check these
 
- * LEXICON X  for N attributes
+* LEXICON X  for N attributes
 
 
-* **LEXICON ENDLEXsymbol.** = and here it ends with the ^END symbol.
+* **LEXICON ENDLEX** = and here it ends with the ^END symbol.
 
 
 

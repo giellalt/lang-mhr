@@ -2,12 +2,12 @@
 
 
 
- * LEXICON K  
+* LEXICON K  
 
 
 
 
- * LEXICON K-imprt 
+* LEXICON K-imprt 
 
 
 

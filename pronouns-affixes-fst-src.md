@@ -2,50 +2,50 @@
 
 ## Lexica directed from root.lexc
 
- * LEXICON pronouns_not_from_xml 
+* LEXICON pronouns_not_from_xml 
 
 
- * LEXICON MYJ 
+* LEXICON MYJ 
 
- * LEXICON TYJ 
+* LEXICON TYJ 
 
- * LEXICON TUDO 
+* LEXICON TUDO 
 
- * LEXICON TIDE  
+* LEXICON TIDE  
 
 
- * LEXICON SHKE  
+* LEXICON SHKE  
 
 
 
 ## Pronoun lexica from xml
 
- * LEXICON Pimp  
+* LEXICON Pimp  
 
- * LEXICON Pmuu 
+* LEXICON Pmuu 
 
- * LEXICON PRON-IR_ 
+* LEXICON PRON-IR_ 
 
- * LEXICON PRON_ 
+* LEXICON PRON_ 
 
- * LEXICON PronRes 
-
-
- * LEXICON PronI 
-
- * LEXICON PronIR 
+* LEXICON PronRes 
 
 
+* LEXICON PronI 
 
- * LEXICON PronInd 
+* LEXICON PronIR 
 
- * LEXICON PRON-INDEF 
 
- * LEXICON KAZHNE 
 
- * LEXICON PronDem 
+* LEXICON PronInd 
 
- * LEXICON PronRef 
+* LEXICON PRON-INDEF 
+
+* LEXICON KAZHNE 
+
+* LEXICON PronDem 
+
+* LEXICON PronRef 
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/pronouns.lexc)</small>
