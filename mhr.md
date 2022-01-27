@@ -1,4 +1,452 @@
 
+
+
+
+This is the Eastern Mari disambiguation file. It chooses
+the correct morphological analyses in any given sentence context.
+
+The file first defines sentence delimiters and tags and sets.
+Thereafter come the rules, each rule is listed below.
+
+
+# Sentence delimiters
+
+The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
+
+
+
+
+The **Tags** section lists all the tags inherited from the fst, and defines them for
+use in the syntactic analysis.
+The tags are documented in the root.lexc file, and here only listed for reference.
+
+The next section, **Sets**, contains sets defined
+on the basis of the tags listed here, those set names are not visible in the output.
+
+
+
+
+
+## Tags
+
+
+
+### Beginning and end of sentence
+
+BOS
+EOS
+
+### Clause boundary
+
+
+### Parts of speech tags
+
+N
+V
+A
+Adv
+CC
+CS
+Interj
+Pron
+Num
+Pcle
+Clt
+Po
+
+WORD is the set of all POS
+
+### Verbal tense and mood tags
+Prs
+Prt1
+Prt2
+Fut
+Imprt
+Ind
+Cond
+Des
+
+### Other verbal tags
+Act
+ConNeg
+FutPrc
+Ger
+Inf
+Nec
+Neg
+NegPrc
+Pass
+Prc
+PrfPrc
+
+Verbal person-number tags
+Sg1
+Sg2
+Sg3
+Pl1
+Pl2
+Pl3
+
+### Numeral tags
+
+Sg
+Pl
+
+### Case tags
+
+Nom
+Gen
+Abl
+Dat
+Com
+Cns
+Acc
+Ins
+Ine
+Ill
+Cmpr (case)
+
+
+
+### Other nominal tags
+
+Pers
+Refl
+Rel
+Interr
+Recipr
+Dem
+ABBR
+
+### Adjective comparison tags
+
+Pos (?)
+Superl
+Comp
+
+### Possessive suffix tags
+
+PxSg1
+PxSg2
+PxSg3
+PxPl1
+PxPl2
+PxPl3
+
+### Numeral tags
+
+Card
+Coll
+Ord
+Temp (?)
+
+
+### Particles
+Qst
+Foc
+
+### Punctuation marks
+
+CLB
+PUCT
+LEFT
+RIGHT
+COMMA
+
+### Derivation tags
+Der/MWN
+Der/sa
+Der/Pur
+Der/Caus
+Der/Nom
+
+### Tags for internal testing
+CmpTest
+Err
+
+
+## Sets
+
+* **CASE** = all cases
+* **OBLCASE** = All cases except Nom
+* **VFIN** = All moods
+
+
+
+
+
+
+
+
+
+Der/Date
+Der/Year
+Der/Hum
+Der/Lang
+Der/Domain
+Der/Feat-phys
+Der/Clth
+Der/Body
+Der/Act
+
+Sem/Ani
+Sem/Fem
+Sem/Group
+Sem/Mal
+Sem/Measr
+Sem/Money
+Sem/Obj
+Sem/Obj-el
+Sem/Org
+Sem/Perc-emo
+Sem/Plc
+Sem/Sign
+Sem/State-sick
+Sem/Sur
+Sem/Time
+Sem/Txt
+
+
+
+
+# Rule section
+
+
+## Early, word-internal rules
+
+* **CmpTst** remove CmpTst if not 1 N
+* **CmpTst2** Select CmpTst in all other cases
+***NoFocPossNoun** remove Foc/Poss if PxSg3
+
+### CC or Pcle
+* **teveteve1** gives CC if two теве
+* **teveteve1** gives CC if two теве
+* **onlyteve** gives Pcle if two теве
+
+* **PcleNotCC** Lauseen alussa on Pcle
+
+* **CCnotInterj**
+
+* **Posna** деч посна
+
+* **ikNum** ик is never A
+
+### Particles
+
+***InterrQ** if question mark anywhere to the right
+
+***Interr** removes Rel if question mark to the right somewhere
+
+
+### Verbs
+
+Existential ulo
+
+
+Infinitives
+
+
+
+* **Ind** selects Ind if no Ind to the right or to the left
+
+* **1SgAgr** selects (Ind Sg1) if Pron1Sg to the right or to the left
+
+* **1SgAgr** selects (Ind Sg1) if (Pron1Sg Nom) to the right or to the left
+
+* **2SgAgr** selects (Ind Sg2) if Pron2Sg to the right or to the left
+
+* **IndAfterInf** selects Ind if Inf to the left
+
+* **NotImpWhenInd**
+
+* **NotImpWhenWords1**
+
+* **NotImpWhenWords2**
+
+
+
+
+
+### Adjectives
+
+
+
+
+
+***RemAdjBeforeProp** removes A if Prop to the left
+
+***AdjBeforeMo** selects A if Interr to the right
+
+* **AdjBeforeAN** selects A if N or A to the right
+
+* **RemN** removes N if N to the right
+
+* **AdjAfterNbeforeEOS** selects A if N to the left and EOS to the right (predicative position)
+
+*_AdjBeforeConjAdj_ selects A if conjuction and A to the right ;
+
+* **AdjNotAdv** removes Adv if N to the right
+
+* **AdjNotPron** removes Pron Pers if N to the right
+
+***AdjNotN** removes N if Pron Pers anywhere to the left
+
+* **RemAdj1** removes A if no N or A follows
+
+***RemAdj2** removes A if no N or Pron in a clause
+
+
+
+### Nouns
+
+* **lym** nalash "to take a name" = "to be given a title"
+
+
+***RemNomIfPronLeft** removes Nom if Pron Nom anywhere to the left
+
+***RemNomIfPronRight** removes Nom if Pron Nom anywhere to the right
+
+***NomBeforeConjNom** selects N Nom if conjoined with N Nom
+
+***NafterDem** selects N if Dem to the left (demonstratives tend to be sole modifiers) 
+
+***NotANoun**
+
+***NafterAbeforeEOS**
+
+***RemNafterAdv** removes N if adverb to the left
+
+### Derivations
+
+
+* **RemDerMWN1** removes Der/MWN if N is an option
+
+* **RemDerMWN2** removes Der/MWN if N to the right
+
+* **Dersa** if noun follows
+
+* **SelDerMWN** select Der/MWN if no noun follows
+
+### Cases
+
+* **RemNomNif12left** removes Nom with N if there is a verb with 1st or 2nd agreement to the lef
+
+* **RemNomNif12right** removes Nom with N if there is a verb with 1st or 2nd agreement to the right
+
+
+* **AccNeedsVerb** prefers Nom (TODO: does this make sense? SASHA: it does but there was a typo, -1* instead of 1* in the third clause of the condition)
+
+
+
+
+### Proper nouns
+
+
+### Numerals
+
+* **IkNumN** ik is num before N Sg
+* **IkNumAN** ik is num before A N Sg
+
+* **KumNumAN** ik is num before A N Sg
+
+### Pronouns
+* **NotImp** in most тиде cases
+
+
+* **NotInterr** if Rel
+
+* **Dem** if noun follows
+
+* **уке**
+
+### Conjunctions
+
+
+
+### Postpositions
+
+
+
+
+
+* **PoNeedsGen** removes postposition if the word to the left is not Gen or Nom
+
+
+## Adverbs
+
+
+
+
+
+
+* **molan** awaiting rules for dative verbs subcategorising for mo Dat
+
+
+
+
+
+
+Phrases
+
+
+
+
+## Verbs
+
+### Finite verb or Gerundium
+
+***RemGer** removes Ger Gen if there is no verb to the right 
+
+* **FinNotGer** removes Ger if there is a Ind Prt2 Sg3 in the clause
+
+* **GerNotFin**  Ger if there is a Ind next
+
+* **GerNotFin**  Ger if there is a Ger da Ger VFin
+
+
+
+
+
+
+### First or third person
+
+* **Sg1NotSg3** removes Prt1 Sg3 when Pers Sg1 Nom in same clause
+
+* **Sg3NotSg1** removes Prt1 Sg1 when there is no Pers Sg1 Nom in same clause
+- This definitely is too strong, it precludes zero Sg1 subjects
+
+### ConNeg or not
+* **NoConNeg1** No ConNeg if no Neg to the left
+* **NoConNeg2** No ConNeg if another ConNeg to the left
+
+### да
+
+* **da1** Adv initially
+
+* **da2** CC elsewhere
+
+### и
+* **iNotAbbr**
+
+### Interjection
+
+* **NoExclNoInterj**
+
+### Predicative
+
+**AifVövny** selects A if вӧвны somewhere to the left
+
+### Conjunctions
+
+* **NotPcle**
+
+* **NoErrOrth**
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-mhr/blob/main/../src/cg3/disambiguator.cg3)</small>
 S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
 
 Sámi language technology project 2003-2018, University of Tromsø #
@@ -1049,454 +1497,31 @@ The analysis give double analysis because of optional semtags. We go for the one
 
 * * *
 <small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mhr/blob/main/../src/cg3/functions.cg3)</small>
+S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
 
+Sámi language technology project 2003-2014, University of Tromsø # 
 
 
-This is the Eastern Mari disambiguation file. It chooses
-the correct morphological analyses in any given sentence context.
 
-The file first defines sentence delimiters and tags and sets.
-Thereafter come the rules, each rule is listed below.
 
+## For Korp:
 
-# Sentence delimiters
+Here we remove special tags for MT
 
-The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
 
+###  **smeRemove** removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
 
 
+Here we remove semantic tags for all other words than
+proper nouns.  
 
-The **Tags** section lists all the tags inherited from the fst, and defines them for
-use in the syntactic analysis.
-The tags are documented in the root.lexc file, and here only listed for reference.
 
-The next section, **Sets**, contains sets defined
-on the basis of the tags listed here, those set names are not visible in the output.
-
-
-
-
-
-## Tags
-
-
-
-### Beginning and end of sentence
-
-BOS
-EOS
-
-### Clause boundary
-
-
-### Parts of speech tags
-
-N
-V
-A
-Adv
-CC
-CS
-Interj
-Pron
-Num
-Pcle
-Clt
-Po
-
-WORD is the set of all POS
-
-### Verbal tense and mood tags
-Prs
-Prt1
-Prt2
-Fut
-Imprt
-Ind
-Cond
-Des
-
-### Other verbal tags
-Act
-ConNeg
-FutPrc
-Ger
-Inf
-Nec
-Neg
-NegPrc
-Pass
-Prc
-PrfPrc
-
-Verbal person-number tags
-Sg1
-Sg2
-Sg3
-Pl1
-Pl2
-Pl3
-
-### Numeral tags
-
-Sg
-Pl
-
-### Case tags
-
-Nom
-Gen
-Abl
-Dat
-Com
-Cns
-Acc
-Ins
-Ine
-Ill
-Cmpr (case)
-
-
-
-### Other nominal tags
-
-Pers
-Refl
-Rel
-Interr
-Recipr
-Dem
-ABBR
-
-### Adjective comparison tags
-
-Pos (?)
-Superl
-Comp
-
-### Possessive suffix tags
-
-PxSg1
-PxSg2
-PxSg3
-PxPl1
-PxPl2
-PxPl3
-
-### Numeral tags
-
-Card
-Coll
-Ord
-Temp (?)
-
-
-### Particles
-Qst
-Foc
-
-### Punctuation marks
-
-CLB
-PUCT
-LEFT
-RIGHT
-COMMA
-
-### Derivation tags
-Der/MWN
-Der/sa
-Der/Pur
-Der/Caus
-Der/Nom
-
-### Tags for internal testing
-CmpTest
-Err
-
-
-## Sets
-
-* **CASE** = all cases
-* **OBLCASE** = All cases except Nom
-* **VFIN** = All moods
-
-
-
-
-
-
-
-
-
-Der/Date
-Der/Year
-Der/Hum
-Der/Lang
-Der/Domain
-Der/Feat-phys
-Der/Clth
-Der/Body
-Der/Act
-
-Sem/Ani
-Sem/Fem
-Sem/Group
-Sem/Mal
-Sem/Measr
-Sem/Money
-Sem/Obj
-Sem/Obj-el
-Sem/Org
-Sem/Perc-emo
-Sem/Plc
-Sem/Sign
-Sem/State-sick
-Sem/Sur
-Sem/Time
-Sem/Txt
-
-
-
-
-# Rule section
-
-
-## Early, word-internal rules
-
-* **CmpTst** remove CmpTst if not 1 N
-* **CmpTst2** Select CmpTst in all other cases
-***NoFocPossNoun** remove Foc/Poss if PxSg3
-
-### CC or Pcle
-* **teveteve1** gives CC if two теве
-* **teveteve1** gives CC if two теве
-* **onlyteve** gives Pcle if two теве
-
-* **PcleNotCC** Lauseen alussa on Pcle
-
-* **CCnotInterj**
-
-* **Posna** деч посна
-
-* **ikNum** ик is never A
-
-### Particles
-
-***InterrQ** if question mark anywhere to the right
-
-***Interr** removes Rel if question mark to the right somewhere
-
-
-### Verbs
-
-Existential ulo
-
-
-Infinitives
-
-
-
-* **Ind** selects Ind if no Ind to the right or to the left
-
-* **1SgAgr** selects (Ind Sg1) if Pron1Sg to the right or to the left
-
-* **1SgAgr** selects (Ind Sg1) if (Pron1Sg Nom) to the right or to the left
-
-* **2SgAgr** selects (Ind Sg2) if Pron2Sg to the right or to the left
-
-* **IndAfterInf** selects Ind if Inf to the left
-
-* **NotImpWhenInd**
-
-* **NotImpWhenWords1**
-
-* **NotImpWhenWords2**
-
-
-
-
-
-### Adjectives
-
-
-
-
-
-***RemAdjBeforeProp** removes A if Prop to the left
-
-***AdjBeforeMo** selects A if Interr to the right
-
-* **AdjBeforeAN** selects A if N or A to the right
-
-* **RemN** removes N if N to the right
-
-* **AdjAfterNbeforeEOS** selects A if N to the left and EOS to the right (predicative position)
-
-*_AdjBeforeConjAdj_ selects A if conjuction and A to the right ;
-
-* **AdjNotAdv** removes Adv if N to the right
-
-* **AdjNotPron** removes Pron Pers if N to the right
-
-***AdjNotN** removes N if Pron Pers anywhere to the left
-
-* **RemAdj1** removes A if no N or A follows
-
-***RemAdj2** removes A if no N or Pron in a clause
-
-
-
-### Nouns
-
-* **lym** nalash "to take a name" = "to be given a title"
-
-
-***RemNomIfPronLeft** removes Nom if Pron Nom anywhere to the left
-
-***RemNomIfPronRight** removes Nom if Pron Nom anywhere to the right
-
-***NomBeforeConjNom** selects N Nom if conjoined with N Nom
-
-***NafterDem** selects N if Dem to the left (demonstratives tend to be sole modifiers) 
-
-***NotANoun**
-
-***NafterAbeforeEOS**
-
-***RemNafterAdv** removes N if adverb to the left
-
-### Derivations
-
-
-* **RemDerMWN1** removes Der/MWN if N is an option
-
-* **RemDerMWN2** removes Der/MWN if N to the right
-
-* **Dersa** if noun follows
-
-* **SelDerMWN** select Der/MWN if no noun follows
-
-### Cases
-
-* **RemNomNif12left** removes Nom with N if there is a verb with 1st or 2nd agreement to the lef
-
-* **RemNomNif12right** removes Nom with N if there is a verb with 1st or 2nd agreement to the right
-
-
-* **AccNeedsVerb** prefers Nom (TODO: does this make sense? SASHA: it does but there was a typo, -1* instead of 1* in the third clause of the condition)
-
-
-
-
-### Proper nouns
-
-
-### Numerals
-
-* **IkNumN** ik is num before N Sg
-* **IkNumAN** ik is num before A N Sg
-
-* **KumNumAN** ik is num before A N Sg
-
-### Pronouns
-* **NotImp** in most тиде cases
-
-
-* **NotInterr** if Rel
-
-* **Dem** if noun follows
-
-* **уке**
-
-### Conjunctions
-
-
-
-### Postpositions
-
-
-
-
-
-* **PoNeedsGen** removes postposition if the word to the left is not Gen or Nom
-
-
-## Adverbs
-
-
-
-
-
-
-* **molan** awaiting rules for dative verbs subcategorising for mo Dat
-
-
-
-
-
-
-Phrases
-
-
-
-
-## Verbs
-
-### Finite verb or Gerundium
-
-***RemGer** removes Ger Gen if there is no verb to the right 
-
-* **FinNotGer** removes Ger if there is a Ind Prt2 Sg3 in the clause
-
-* **GerNotFin**  Ger if there is a Ind next
-
-* **GerNotFin**  Ger if there is a Ger da Ger VFin
-
-
-
-
-
-
-### First or third person
-
-* **Sg1NotSg3** removes Prt1 Sg3 when Pers Sg1 Nom in same clause
-
-* **Sg3NotSg1** removes Prt1 Sg1 when there is no Pers Sg1 Nom in same clause
-- This definitely is too strong, it precludes zero Sg1 subjects
-
-### ConNeg or not
-* **NoConNeg1** No ConNeg if no Neg to the left
-* **NoConNeg2** No ConNeg if another ConNeg to the left
-
-### да
-
-* **da1** Adv initially
-
-* **da2** CC elsewhere
-
-### и
-* **iNotAbbr**
-
-### Interjection
-
-* **NoExclNoInterj**
-
-### Predicative
-
-**AifVövny** selects A if вӧвны somewhere to the left
-
-### Conjunctions
-
-* **NotPcle**
-
-* **NoErrOrth**
 
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-mhr/blob/main/../src/cg3/disambiguator.cg3)</small>
+<small>This (part of) documentation was generated from [../src/cg3/korp.cg3](http://github.com/giellalt/lang-mhr/blob/main/../src/cg3/korp.cg3)</small>
 # C O M M O N  S Á M I  D E P E N D E N C Y   G R A M M A R
 
 This dep file is for sma, sme, smj, sje.
@@ -1937,32 +1962,362 @@ Correction rules
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/dependency.cg3](http://github.com/giellalt/lang-mhr/blob/main/../src/cg3/dependency.cg3)</small>
-S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
+<small>This (part of) documentation was generated from [../src/cg3/dependency.cg3](http://github.com/giellalt/lang-mhr/blob/main/../src/cg3/dependency.cg3)</small># Eastern Mari twol file
 
-Sámi language technology project 2003-2014, University of Tromsø # 
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mhr/blob/main/src/fst/phonology.twolc) 
 
+This file contains rules for morphophonological alternations, such as
+vowel harmony, stem vowel changes, palatalisation, etc.
 
-
-
-## For Korp:
-
-Here we remove special tags for MT
+We define our symbols (**Alphabet**), some **Sets**, and then the **Rules**
 
 
-###  **smeRemove** removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
+## Letters of the alphabet
+* а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
+* А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
+
+other symbols
+*    %- 
+
+Archiphonemes for vowels, Giellatekno style
+*   Е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
+*  Ы2:е     Variation in еоыӧØ
+*   А1:а    
+*   Е2:е А2:а   
+
+Archiphonemes for vowels, Apertium style
+* %{аы%}:а  Stem-final vowel variation when stress falls on non-final vowel
+* %{аы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{еы%}:е  Stem-final vowel variation when stress falls on non-final vowel
+* %{еы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{оы%}:о  Stem-final vowel variation when stress falls on non-final vowel
+* %{оы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{ӧы%}:ӧ  Stem-final vowel variation when stress falls on non-final vowel
+* %{ӧы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+
+* %{яы%}:я  Stem-final vowel variation when stress falls on non-final vowel
+* %{яы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+
+* %{еоыӧØ%}:е   PxSg3 final
+* %{еоыӧØ%}:о   PxSg3 final
+* %{еоыӧØ%}:ӧ   PxSg3 final
+* %{еоыӧØ%}:0   PxSg3 final
+* %{еоыӧØ%}:ы   PxSg3 final
+* %{ыØ%}:ы   PxSg3 onset
+* %{ыØ%}:0   PxSg3 onset
+
+* %{ьØ%}:0   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
 
 
-Here we remove semantic tags for all other words than
-proper nouns.  
+*  Е1:е  for lative
+
+
+### Arcihphonemes for consonants
+
+* з2:з   for з:ч, thus  возаш - воч but колхоз (*колхоч)
+* з2:ч   for native stems
+* к2:0   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+* к2:к   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+* н2:0   шинч- шич# "sit down/сесть"
+* н2:н   шинч- шич# "sit down/сесть"
+* т2:0   лект- лек# "leave/ уходить"
+* т2:т   лект- лек# "leave/ уходить"
+
+
+
+* %^V2IMPRT:0	 for -ем verbs in й
+* %^END:0		   for -ам verb final, i.e. Imprf
+
+* %^VoTrigger:0   for use with acronyms after hyphen о у ё ю О У Ё Ю
+* %^VeTrigger:0   for use with acronyms after hyphen а е и э я А Е И Э Я
+* %^VOTrigger:0   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+* %^Sonorant:0    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+* %^Obstruent:0  for use with acronyms after hyphen С|Ф|Ъ|Ь
+* %^FrontObstr:0  for use with acronyms after hyphen 
+
+
+
+*  %>    
 
 
 
 
+
+## Sets
+
+* Vo =   о у ё ю О У Ё Ю ;    
+* VO =   ӧ ӱ Ӧ Ӱ;               
+* Ve =   а е и э я А Е И Э Я ;   
+* Vow =  Vo VO Ve ы Ы ;    
+
+* Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
+       з2 к2 н2 т2 ;   
+
+* CnsAll =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
+       з2 к2 н2 т2 ;   
+
+* CnsNoj =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш щ   
+          Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш Щ;     
+
+* Cst =  б в г д ж з к п с т ф х ц ч ш щ       
+       Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш Щ;      
+
+* Ltrs = Vow Cns  ъ ь Ъ Ь ;    
+
+* all =  Ltrs  %- ;     
+
+
+
+
+
+
+
+## Rules
+
+**Punctuation bullet as such** This rule prevents deleting of BULLET when it forms a token. BULLET as stress mark is deleted as before.
+
+
+
+**Palatal mark loss before vowel** 
+имне+N+Sg+Nom+Foc/Ат
+* *имнь%{еы%}%>А2т*
+* *имн00%>ят*
+витнь>Ы2^END
+
+**Onset vowel loss in suffix after stem vowel**  
+
+**Onset vowel Е2 realized in suffix е**  
+
+
+**Onset vowel Е2 realized in suffix э**  
+
+**Onset vowel Е2 realized in suffix ZERO**  
+
+**Onset vowel Ы1 realized in suffix**  
+
+
+**suffix-final vowel loss after stem-final vowel**  
+пуаш+V+Imprt+Sg2
+* *пу>Ы2%^END*
+* *пу>00*
+
+кияш+V+Imprt+Sg2
+* *кий%>Ы2%^END*
+* *ки0%>е0*
+
+
+**suffix-final vowel loss after stem-final vowel**  
+
+**suffix-final vowel realized as -Round in word-final position е **  
+
+
+шылаш+V+Imprt+Sg3
+шыл%>жЫ2%^END
+шыл%>же0
+
+
+**suffix-final vowel realized as +Back +Round in word-final position о **  
+
+
+* *фрукт>Ы1штЫ2^END*
+* *фрукт>ышто0*
+
+
+
+**suffix-final vowel realized as +Front +Round in word-final position ӧ **  
+шӱртняш+V+ConNeg:
+* *шӱртнь%>Ы2%^END*
+* *шӱртнь%>ӧ0*
+
+**remove ʼ mod let apostrophe**
+
+**%{ьØ%}:ь**
+толам+V+Ind+Prt1+Sg1
+* *тол%>%{ьØ%}ым*
+* *тол%>ьым*
+
+
+**suffix-final vowel realized after stem-final consonant**  
+
+**stem-final vowel realized as -Round in word-final position**  
+
+**stem-final vowel realized as +Back +Round in word-final position**  
+
+**stem-final vowel realized as +Front +Round in word-final position**  
+
+
+**suffix-final vowel realized %{аы%}:ы **  
+
+**stem-final vowel realized %{аы%}:а**  
+**stem-final vowel realized %{аы%}:а**  
+
+
+
+**Stem-final non-stressed vowel loss**
+
+* *а•льф{аы}>А2т*
+* *а0льф0>ат*
+
+**Stem-final non-stressed %{еы%} loss**
+* *киска•лʼь%{еы%}>А2т*
+* *киска•л000>ят*
+* *пятибо•рь%{еы%}>А2т*
+* *пятибо•рье>ат*
+
+
+
+**suffix-final vowel realized %{еы%}:ы **  
+имне+N+Sg+PxSg3+Nom horse/hevonen
+* *имнʼь%{еы%}%>жЫ2*
+* *имн0ьы%>же*
+
+
+**suffix-final vowel realized Ы2:ы **  
+пӧрт+N+Sg+Ine+Foc/ys
+пӧрт%>Ы1штЫ2%>Ы1с%^END
+пӧрт%>ышты%>0с0
+
+
+**stem-final vowel realized %{еы%}:е**  
+
+
+**suffix-final vowel realized %{ӧы%}:ы **  
+
+**stem-final vowel realized %{ӧы%}:ӧ**  
+
+**suffix-final vowel realized %{оы%}:ы **  
+
+**stem-final vowel realized %{оы%}:о**  
+
+**suffix-final vowel realized %{яы%}:ы **  
+
+**stem-final vowel realized %{яы%}:я**  
+
+* *башнь%{яы%}*
+* *башн0я*
+
+**stem-internal glide realized in  0:й %{яы%}:ы **
+
+* *а0%{яы%}%>Ы1м*
+* *айы%>0м*
+
+
+
+
+**Clitics in At and Ak take onset glide = a**  
+
+**Clitics in At and Ak take onset glide = ja**  
+когыльо+N+Sg+Nom+Foc/Ат
+* *когыль%{оы%}%>А2т*
+* *когыл00%>ят*
+толаш+V+Ind+Prt1+Sg3+Foc/Ат
+* *тол>{ьØ}Ы2>А2т*
+* *тол>00>ят*
+имне+N+Sg+Nom+Foc/Ат
+* *и•мнʼь%{еы%}>А2т*
+* *и0мн000>ят*
+
+
+**Clitics in At and Ak take ZERO**
+
+
+**й Deletion in front of я Suffix and others**  
+
+* *кий>А2ш*
+* *ки0>яш*
+
+**й Deletion in front of я Suffix and others**
+
+**й Deletion in front of я Suffix and others**
+
+* *кай>А2*
+* *ка0>я*
+
+* *кутыр>А2*
+* *кутыр>а*
+
+
+
+**Onset consonant devoicing ж:ш **
+* *авалтымаш%>жы%>ла*
+* *авалтымаш%>шы%>ла*
+
+**Onset consonant devoicing з:с **
+
+**Stem-final consonant loss т**
+
+
+**Stem-final consonant loss к**
+
+
+**Stem-final consonant loss н**
+
+
+
+
+
+* *колхоз*
+* *колхоз*
+
+* *воз2^END*
+* *воч0*
+
+* *воз2>аш*
+* *воз>аш*
+
+* *камвоз2>аш*
+* *камвоз>аш*
+
+* *воз2>са*
+* *воч>са*
+
+**Stem-final consonant variation з2:з**
+
+
+
+**Stem-final consonant variation з2:з**
+
+
+
+
+**Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш **
+йӧратымаш+N+Sg+Ine
+* *йӧратымаш%>тЫ2*
+* *йӧратымаш%>те*
+
+
+**Disallow Sg+Ill in кЫ2 everywhere except after stem-final ш **
+авалтымаш+N+Sg+Ine
+* *авалтымаш%>кЫ2*
+* *авалтымаш%>ке*
+
+
+**Disallow PxSg3 in ыж no where except after ш **
+* *йолташ%>ыж#*
+* *йолташ%>ыж#*
+* ★*олма%>ыж#* (is not standard language)
+* ★*олма%>ыж#* (is not standard language)
+
+**Disallow PxSg3 in ыж no where except after ш **
+
+
+**Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs **                                                                                                                                                                           
+
+
+
+
+* *и•мнʼь%{еы%}>A2т*
+* *и0мн000>ят*
+
+* *и* `•` (Eng. м н ʼ ь %{еы%} > A2 т)
+* *и* `0` (Eng. м н 0 0 0 > я т)
+
+* *а*
+* *б*
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/korp.cg3](http://github.com/giellalt/lang-mhr/blob/main/../src/cg3/korp.cg3)</small>
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/phonology.twolc)</small>
 # Morphology
 This file consists of three parts:
 1. Multichar Symbols declaration
@@ -2676,7 +3031,285 @@ Here comes a set of ragbag continuation lexica.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/symbols.lexc)</small># Eastern Mari Clitics
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/symbols.lexc)</small># Proper noun inflection
+
+Meadow Mari proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator. (???)
+
+* LEXICON PROP-OLD-ORTH-SG-NOM_  
+
+
+* LEXICON PROP_  
+*  : N-ava_01 ;  decline like common nouns
+ *  : ENDLEX ;  in attributive position ?SHOULD THIS HAVE an +Attr tag?
+
+* LEXICON PROP-PLC_  
+*  : N-ava_01 ;  decline like common nouns
+
+* LEXICON LEXC_PROP-PLC_  
+*  +N+Prop+Sem/Plc: N-ava_01 ;  decline like common nouns
+
+
+## Male given name for deriving patronyms 
+
+
+
+Check whether +Orth/Colloq is orthographically wrong
+
+* LEXICON PropNameMaleDer-J-0Evich 
+
+
+* LEXICON PropNameMaleDer-IJ-Y0Evich 
+
+* LEXICON PropNameMaleDer-IJ-I0Evich 
+
+* LEXICON PropNameMaleDer-Y-0Evich 
+
+Вили:Вил
+* LEXICON PropNameMaleDer-I-YEvich 
+
+
+* LEXICON PropNameMaleDer-Ovich 
+
+
+## Russian type Surnames 
+
+
+
+* LEXICON Deriv-RUS-V_SURMAL  Абдеев:Абдеев
+
+
+* LEXICON Deriv-RUS-IJ_SURMAL  Багрий:Багр
+
+
+* LEXICON Deriv-RUS-KIJ_SURMAL  Аморский:Аморск
+
+* LEXICON Deriv-RUS-OJ_SURMAL 
+
+* LEXICON Deriv-RUS-YJ_SURMAL 
+
+* LEXICON Deriv-RUS-AN_SURMAL 
+
+* LEXICON Deriv-RUS-IN_SURMAL 
+
+
+* LEXICON PROP_KAL_SURMAL 
+
+* LEXICON PROP_KUDO_SURFEM 
+
+* LEXICON CYRL-CONS_SUR 
+
+* LEXICON PropSur-kal 
+
+* LEXICON CYRL-T_SUR 
+
+* LEXICON PropSur-kit 
+
+* LEXICON CYRL-L_SUR 
+
+* LEXICON CYRL-K_SUR 
+
+* LEXICON PropSur-lak 
+
+* LEXICON CYRL-SIBILANT_SUR 
+
+* LEXICON PropSur-osh 
+
+* LEXICON CYRL-VOW_SUR 
+
+* LEXICON CYRL-A_SUR 
+
+
+* LEXICON PROP_KIT_SUR 
+
+* LEXICON PROP_KUDO_SUR 
+
+* LEXICON PROP_KAL_MAL 
+
+* LEXICON PROP_LAK_MAL 
+
+* LEXICON PROP_KIT_MAL 
+
+* LEXICON PROP_OSH_MAL 
+
+* LEXICON PROP_KUDO_MAL 
+
+* LEXICON LEXC_PROP_KUDO_MAL 
+
+
+
+* LEXICON PROP_OSH_PATRMAL 
+
+* LEXICON PROP_KUDO_PATRFEM 
+
+
+## Female Given names 
+
+
+* LEXICON PROP_KAL_FEM 
+
+
+* LEXICON PROP_KIT_FEM 
+
+* LEXICON PROP_OSH_FEM 
+
+
+
+
+* LEXICON PROP_KUDO_FEM 
+
+* LEXICON LEXC_PROP_KUDO_FEM 
+
+
+PLACE NAMES FROM TEMPLATE 
+
+* LEXICON PROP-PLC_KAL 
+
+* LEXICON PROP-PLC_KIT 
+
+
+* LEXICON PROP-PLC_KUDO 
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/propernouns.lexc)</small># East Mari Numeral inflection
+
+* LEXICON QNT_  
+
+* LEXICON KvMurt 
+
+* LEXICON KvK  cardinal numerals
+
+* LEXICON KvK_ATTR  cardinal numerals in noun phrase scope
+
+
+* LEXICON KvKoll 
+
+
+* LEXICON NUM-COLL_ 
+
+
+
+
+* LEXICON KvInd 
+
+
+
+
+* LEXICON Kv-a/e  
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/numbers.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/numbers.lexc)</small>
+Meadow Mari verb inflection.
+
+
+# Verbal continuation lexica
+
+## Auxiliary verbs
+
+Some of these are directed directly from root.lexc
+
+  LEXICON verbs_not_from_xml   
+
+LEXICON negverb  TODO: fix
+
+
+
+
+
+
+
+
+
+
+
+## Regular verbs
+
+We divide the verbs in two, -am and -em
+
+### The -am class
+
+LEXICON V_am-N  divides V_am in Mood and infinites
+
+LEXICON V_am  divides V_am in Mood and infinites
+
+
+
+
+LEXICON Vam-Mood  divides in Ind, Imprt, Des
+
+LEXICON Vam-Ind  gives all the Ind tenses
+
+LEXICON Vam-Imp   for imperative, Повелительное наклонение:
+
+LEXICON Vam-Des   for desiderative, Желательное наклонение:
+
+
+### The -em class
+First four lexica: V_em with Gerund, the rest without, all going to V_em_ALL to get derivation affixes.
+
+LEXICON V_em  divides V_em in Mood and infinites
+
+
+LEXICON V_em-1SYLL-j  allow for literary norm until 1970 (Alhoniemi 1985: 105-106) кайше, кайшаш
+ +Err/Orth: non-finites ;  until 1972 reform
+
+LEXICON V_em-1SYLL  single syll V_em verbs, do not include bare-stem gerunds in their paradigms
+
+Optional derivation:  All verbs going to V_em_INFL
+
+
+
+
+
+LEXICON Vem-Mood  divides in Ind, Imprt, Des
+
+LEXICON Vem-Ind   gives all the Ind tenses
+
+* LEXICON Vem-Imp  for imperative, Повелительное наклонение:
+
+* LEXICON Vem-Des  for desiderative, Желательное наклонение:
+
+
+
+LEXICON non-finites  contains Mutual endings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Special verbs
+V_am, возаш : воч
+
+These need work 2012-09-21
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/verbs.lexc)</small># Eastern Mari Clitics
 
 
 
@@ -2690,7 +3323,37 @@ Here comes a set of ragbag continuation lexica.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/clitics.lexc)</small># Noun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/clitics.lexc)</small>Adjective inflection
+
+Meadow Mari adjectives
+
+
+
+
+
+
+LEXICON A underscore
+
+
+* LEXICON A-a/e  
+
+
+
+* LEXICON A/S-a/e   redirect to A underscore
+
+* LEXICON A/S-VS  redirect to A underscore
+
+* LEXICON A-VS  redirect to A underscore
+
+* LEXICON A/S  redirect to A underscore
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/adjectives.lexc)</small># Noun inflection
 Meadow Mari noun inflection
 
 ## a final lexica
@@ -3191,37 +3854,7 @@ Here starts the Px stuff
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/nouns.lexc)</small>Adjective inflection
-
-Meadow Mari adjectives
-
-
-
-
-
-
-LEXICON A underscore
-
-
-* LEXICON A-a/e  
-
-
-
-* LEXICON A/S-a/e   redirect to A underscore
-
-* LEXICON A/S-VS  redirect to A underscore
-
-* LEXICON A-VS  redirect to A underscore
-
-* LEXICON A/S  redirect to A underscore
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/adjectives.lexc)</small># Eastern Mari pronoun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/nouns.lexc)</small># Eastern Mari pronoun inflection
 
 ## Lexica directed from root.lexc
 
@@ -3271,640 +3904,7 @@ LEXICON A underscore
 * LEXICON PronRef 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/pronouns.lexc)</small>
-Meadow Mari verb inflection.
-
-
-# Verbal continuation lexica
-
-## Auxiliary verbs
-
-Some of these are directed directly from root.lexc
-
-  LEXICON verbs_not_from_xml   
-
-LEXICON negverb  TODO: fix
-
-
-
-
-
-
-
-
-
-
-
-## Regular verbs
-
-We divide the verbs in two, -am and -em
-
-### The -am class
-
-LEXICON V_am-N  divides V_am in Mood and infinites
-
-LEXICON V_am  divides V_am in Mood and infinites
-
-
-
-
-LEXICON Vam-Mood  divides in Ind, Imprt, Des
-
-LEXICON Vam-Ind  gives all the Ind tenses
-
-LEXICON Vam-Imp   for imperative, Повелительное наклонение:
-
-LEXICON Vam-Des   for desiderative, Желательное наклонение:
-
-
-### The -em class
-First four lexica: V_em with Gerund, the rest without, all going to V_em_ALL to get derivation affixes.
-
-LEXICON V_em  divides V_em in Mood and infinites
-
-
-LEXICON V_em-1SYLL-j  allow for literary norm until 1970 (Alhoniemi 1985: 105-106) кайше, кайшаш
- +Err/Orth: non-finites ;  until 1972 reform
-
-LEXICON V_em-1SYLL  single syll V_em verbs, do not include bare-stem gerunds in their paradigms
-
-Optional derivation:  All verbs going to V_em_INFL
-
-
-
-
-
-LEXICON Vem-Mood  divides in Ind, Imprt, Des
-
-LEXICON Vem-Ind   gives all the Ind tenses
-
-* LEXICON Vem-Imp  for imperative, Повелительное наклонение:
-
-* LEXICON Vem-Des  for desiderative, Желательное наклонение:
-
-
-
-LEXICON non-finites  contains Mutual endings
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Special verbs
-V_am, возаш : воч
-
-These need work 2012-09-21
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/verbs.lexc)</small># East Mari Numeral inflection
-
-* LEXICON QNT_  
-
-* LEXICON KvMurt 
-
-* LEXICON KvK  cardinal numerals
-
-* LEXICON KvK_ATTR  cardinal numerals in noun phrase scope
-
-
-* LEXICON KvKoll 
-
-
-* LEXICON NUM-COLL_ 
-
-
-
-
-* LEXICON KvInd 
-
-
-
-
-* LEXICON Kv-a/e  
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/numbers.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/numbers.lexc)</small># Proper noun inflection
-
-Meadow Mari proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator. (???)
-
-* LEXICON PROP-OLD-ORTH-SG-NOM_  
-
-
-* LEXICON PROP_  
-*  : N-ava_01 ;  decline like common nouns
- *  : ENDLEX ;  in attributive position ?SHOULD THIS HAVE an +Attr tag?
-
-* LEXICON PROP-PLC_  
-*  : N-ava_01 ;  decline like common nouns
-
-* LEXICON LEXC_PROP-PLC_  
-*  +N+Prop+Sem/Plc: N-ava_01 ;  decline like common nouns
-
-
-## Male given name for deriving patronyms 
-
-
-
-Check whether +Orth/Colloq is orthographically wrong
-
-* LEXICON PropNameMaleDer-J-0Evich 
-
-
-* LEXICON PropNameMaleDer-IJ-Y0Evich 
-
-* LEXICON PropNameMaleDer-IJ-I0Evich 
-
-* LEXICON PropNameMaleDer-Y-0Evich 
-
-Вили:Вил
-* LEXICON PropNameMaleDer-I-YEvich 
-
-
-* LEXICON PropNameMaleDer-Ovich 
-
-
-## Russian type Surnames 
-
-
-
-* LEXICON Deriv-RUS-V_SURMAL  Абдеев:Абдеев
-
-
-* LEXICON Deriv-RUS-IJ_SURMAL  Багрий:Багр
-
-
-* LEXICON Deriv-RUS-KIJ_SURMAL  Аморский:Аморск
-
-* LEXICON Deriv-RUS-OJ_SURMAL 
-
-* LEXICON Deriv-RUS-YJ_SURMAL 
-
-* LEXICON Deriv-RUS-AN_SURMAL 
-
-* LEXICON Deriv-RUS-IN_SURMAL 
-
-
-* LEXICON PROP_KAL_SURMAL 
-
-* LEXICON PROP_KUDO_SURFEM 
-
-* LEXICON CYRL-CONS_SUR 
-
-* LEXICON PropSur-kal 
-
-* LEXICON CYRL-T_SUR 
-
-* LEXICON PropSur-kit 
-
-* LEXICON CYRL-L_SUR 
-
-* LEXICON CYRL-K_SUR 
-
-* LEXICON PropSur-lak 
-
-* LEXICON CYRL-SIBILANT_SUR 
-
-* LEXICON PropSur-osh 
-
-* LEXICON CYRL-VOW_SUR 
-
-* LEXICON CYRL-A_SUR 
-
-
-* LEXICON PROP_KIT_SUR 
-
-* LEXICON PROP_KUDO_SUR 
-
-* LEXICON PROP_KAL_MAL 
-
-* LEXICON PROP_LAK_MAL 
-
-* LEXICON PROP_KIT_MAL 
-
-* LEXICON PROP_OSH_MAL 
-
-* LEXICON PROP_KUDO_MAL 
-
-* LEXICON LEXC_PROP_KUDO_MAL 
-
-
-
-* LEXICON PROP_OSH_PATRMAL 
-
-* LEXICON PROP_KUDO_PATRFEM 
-
-
-## Female Given names 
-
-
-* LEXICON PROP_KAL_FEM 
-
-
-* LEXICON PROP_KIT_FEM 
-
-* LEXICON PROP_OSH_FEM 
-
-
-
-
-* LEXICON PROP_KUDO_FEM 
-
-* LEXICON LEXC_PROP_KUDO_FEM 
-
-
-PLACE NAMES FROM TEMPLATE 
-
-* LEXICON PROP-PLC_KAL 
-
-* LEXICON PROP-PLC_KIT 
-
-
-* LEXICON PROP-PLC_KUDO 
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/propernouns.lexc)</small># Eastern Mari twol file
-
-This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mhr/blob/main/src/fst/phonology.twolc) 
-
-This file contains rules for morphophonological alternations, such as
-vowel harmony, stem vowel changes, palatalisation, etc.
-
-We define our symbols (**Alphabet**), some **Sets**, and then the **Rules**
-
-
-## Letters of the alphabet
-* а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
-* А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
-
-other symbols
-*    %- 
-
-Archiphonemes for vowels, Giellatekno style
-*   Е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
-*  Ы2:е     Variation in еоыӧØ
-*   А1:а    
-*   Е2:е А2:а   
-
-Archiphonemes for vowels, Apertium style
-* %{аы%}:а  Stem-final vowel variation when stress falls on non-final vowel
-* %{аы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
-* %{еы%}:е  Stem-final vowel variation when stress falls on non-final vowel
-* %{еы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
-* %{оы%}:о  Stem-final vowel variation when stress falls on non-final vowel
-* %{оы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
-* %{ӧы%}:ӧ  Stem-final vowel variation when stress falls on non-final vowel
-* %{ӧы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
-
-* %{яы%}:я  Stem-final vowel variation when stress falls on non-final vowel
-* %{яы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
-
-* %{еоыӧØ%}:е   PxSg3 final
-* %{еоыӧØ%}:о   PxSg3 final
-* %{еоыӧØ%}:ӧ   PxSg3 final
-* %{еоыӧØ%}:0   PxSg3 final
-* %{еоыӧØ%}:ы   PxSg3 final
-* %{ыØ%}:ы   PxSg3 onset
-* %{ыØ%}:0   PxSg3 onset
-
-* %{ьØ%}:0   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
-
-
-*  Е1:е  for lative
-
-
-### Arcihphonemes for consonants
-
-* з2:з   for з:ч, thus  возаш - воч but колхоз (*колхоч)
-* з2:ч   for native stems
-* к2:0   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
-* к2:к   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
-* н2:0   шинч- шич# "sit down/сесть"
-* н2:н   шинч- шич# "sit down/сесть"
-* т2:0   лект- лек# "leave/ уходить"
-* т2:т   лект- лек# "leave/ уходить"
-
-
-
-* %^V2IMPRT:0	 for -ем verbs in й
-* %^END:0		   for -ам verb final, i.e. Imprf
-
-* %^VoTrigger:0   for use with acronyms after hyphen о у ё ю О У Ё Ю
-* %^VeTrigger:0   for use with acronyms after hyphen а е и э я А Е И Э Я
-* %^VOTrigger:0   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
-* %^Sonorant:0    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
-* %^Obstruent:0  for use with acronyms after hyphen С|Ф|Ъ|Ь
-* %^FrontObstr:0  for use with acronyms after hyphen 
-
-
-
-*  %>    
-
-
-
-
-
-## Sets
-
-* Vo =   о у ё ю О У Ё Ю ;    
-* VO =   ӧ ӱ Ӧ Ӱ;               
-* Ve =   а е и э я А Е И Э Я ;   
-* Vow =  Vo VO Ve ы Ы ;    
-
-* Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
-       з2 к2 н2 т2 ;   
-
-* CnsAll =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
-       з2 к2 н2 т2 ;   
-
-* CnsNoj =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш щ   
-          Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш Щ;     
-
-* Cst =  б в г д ж з к п с т ф х ц ч ш щ       
-       Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш Щ;      
-
-* Ltrs = Vow Cns  ъ ь Ъ Ь ;    
-
-* all =  Ltrs  %- ;     
-
-
-
-
-
-
-
-## Rules
-
-**Punctuation bullet as such** This rule prevents deleting of BULLET when it forms a token. BULLET as stress mark is deleted as before.
-
-
-
-**Palatal mark loss before vowel** 
-имне+N+Sg+Nom+Foc/Ат
-* *имнь%{еы%}%>А2т*
-* *имн00%>ят*
-витнь>Ы2^END
-
-**Onset vowel loss in suffix after stem vowel**  
-
-**Onset vowel Е2 realized in suffix е**  
-
-
-**Onset vowel Е2 realized in suffix э**  
-
-**Onset vowel Е2 realized in suffix ZERO**  
-
-**Onset vowel Ы1 realized in suffix**  
-
-
-**suffix-final vowel loss after stem-final vowel**  
-пуаш+V+Imprt+Sg2
-* *пу>Ы2%^END*
-* *пу>00*
-
-кияш+V+Imprt+Sg2
-* *кий%>Ы2%^END*
-* *ки0%>е0*
-
-
-**suffix-final vowel loss after stem-final vowel**  
-
-**suffix-final vowel realized as -Round in word-final position е **  
-
-
-шылаш+V+Imprt+Sg3
-шыл%>жЫ2%^END
-шыл%>же0
-
-
-**suffix-final vowel realized as +Back +Round in word-final position о **  
-
-
-* *фрукт>Ы1штЫ2^END*
-* *фрукт>ышто0*
-
-
-
-**suffix-final vowel realized as +Front +Round in word-final position ӧ **  
-шӱртняш+V+ConNeg:
-* *шӱртнь%>Ы2%^END*
-* *шӱртнь%>ӧ0*
-
-**remove ʼ mod let apostrophe**
-
-**%{ьØ%}:ь**
-толам+V+Ind+Prt1+Sg1
-* *тол%>%{ьØ%}ым*
-* *тол%>ьым*
-
-
-**suffix-final vowel realized after stem-final consonant**  
-
-**stem-final vowel realized as -Round in word-final position**  
-
-**stem-final vowel realized as +Back +Round in word-final position**  
-
-**stem-final vowel realized as +Front +Round in word-final position**  
-
-
-**suffix-final vowel realized %{аы%}:ы **  
-
-**stem-final vowel realized %{аы%}:а**  
-**stem-final vowel realized %{аы%}:а**  
-
-
-
-**Stem-final non-stressed vowel loss**
-
-* *а•льф{аы}>А2т*
-* *а0льф0>ат*
-
-**Stem-final non-stressed %{еы%} loss**
-* *киска•лʼь%{еы%}>А2т*
-* *киска•л000>ят*
-* *пятибо•рь%{еы%}>А2т*
-* *пятибо•рье>ат*
-
-
-
-**suffix-final vowel realized %{еы%}:ы **  
-имне+N+Sg+PxSg3+Nom horse/hevonen
-* *имнʼь%{еы%}%>жЫ2*
-* *имн0ьы%>же*
-
-
-**suffix-final vowel realized Ы2:ы **  
-пӧрт+N+Sg+Ine+Foc/ys
-пӧрт%>Ы1штЫ2%>Ы1с%^END
-пӧрт%>ышты%>0с0
-
-
-**stem-final vowel realized %{еы%}:е**  
-
-
-**suffix-final vowel realized %{ӧы%}:ы **  
-
-**stem-final vowel realized %{ӧы%}:ӧ**  
-
-**suffix-final vowel realized %{оы%}:ы **  
-
-**stem-final vowel realized %{оы%}:о**  
-
-**suffix-final vowel realized %{яы%}:ы **  
-
-**stem-final vowel realized %{яы%}:я**  
-
-* *башнь%{яы%}*
-* *башн0я*
-
-**stem-internal glide realized in  0:й %{яы%}:ы **
-
-* *а0%{яы%}%>Ы1м*
-* *айы%>0м*
-
-
-
-
-**Clitics in At and Ak take onset glide = a**  
-
-**Clitics in At and Ak take onset glide = ja**  
-когыльо+N+Sg+Nom+Foc/Ат
-* *когыль%{оы%}%>А2т*
-* *когыл00%>ят*
-толаш+V+Ind+Prt1+Sg3+Foc/Ат
-* *тол>{ьØ}Ы2>А2т*
-* *тол>00>ят*
-имне+N+Sg+Nom+Foc/Ат
-* *и•мнʼь%{еы%}>А2т*
-* *и0мн000>ят*
-
-
-**Clitics in At and Ak take ZERO**
-
-
-**й Deletion in front of я Suffix and others**  
-
-* *кий>А2ш*
-* *ки0>яш*
-
-**й Deletion in front of я Suffix and others**
-
-**й Deletion in front of я Suffix and others**
-
-* *кай>А2*
-* *ка0>я*
-
-* *кутыр>А2*
-* *кутыр>а*
-
-
-
-**Onset consonant devoicing ж:ш **
-* *авалтымаш%>жы%>ла*
-* *авалтымаш%>шы%>ла*
-
-**Onset consonant devoicing з:с **
-
-**Stem-final consonant loss т**
-
-
-**Stem-final consonant loss к**
-
-
-**Stem-final consonant loss н**
-
-
-
-
-
-* *колхоз*
-* *колхоз*
-
-* *воз2^END*
-* *воч0*
-
-* *воз2>аш*
-* *воз>аш*
-
-* *камвоз2>аш*
-* *камвоз>аш*
-
-* *воз2>са*
-* *воч>са*
-
-**Stem-final consonant variation з2:з**
-
-
-
-**Stem-final consonant variation з2:з**
-
-
-
-
-**Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш **
-йӧратымаш+N+Sg+Ine
-* *йӧратымаш%>тЫ2*
-* *йӧратымаш%>те*
-
-
-**Disallow Sg+Ill in кЫ2 everywhere except after stem-final ш **
-авалтымаш+N+Sg+Ine
-* *авалтымаш%>кЫ2*
-* *авалтымаш%>ке*
-
-
-**Disallow PxSg3 in ыж no where except after ш **
-* *йолташ%>ыж#*
-* *йолташ%>ыж#*
-* ★*олма%>ыж#* (is not standard language)
-* ★*олма%>ыж#* (is not standard language)
-
-**Disallow PxSg3 in ыж no where except after ш **
-
-
-**Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs **                                                                                                                                                                           
-
-
-
-
-* *и•мнʼь%{еы%}>A2т*
-* *и0мн000>ят*
-
-* *и* `•` (Eng. м н ʼ ь %{еы%} > A2 т)
-* *и* `0` (Eng. м н 0 0 0 > я т)
-
-* *а*
-* *б*
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/phonology.twolc)</small>Divvun & Giellatekno - open source grammars for Sámi and other languages
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/pronouns.lexc)</small>Divvun & Giellatekno - open source grammars for Sámi and other languages
 
 
 
@@ -3941,52 +3941,6 @@ such compounds)
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/compounding.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/compounding.lexc)</small>
-# The Meadow and Eastern Mari proper noun lexicon
-
-
-
-
-MARI-LIKE NAMES
-
-PLACE NAMES
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/mhr-propernouns.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/stems/mhr-propernouns.lexc)</small>
-
-
-NOUNS
-
-KIN TERMS
-
-
-
-
-
-
-
-
-
-
-Single-syllable nouns in У Ӱ Ю
-
-VERBS
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/stems/exceptions.lexc)</small>
 # Meadow & Eastern Mari numerals 
 
 
@@ -4107,6 +4061,52 @@ These are also generated by the Acrogenerator
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/stems/acronyms.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/stems/acronyms.lexc)</small>
+# The Meadow and Eastern Mari proper noun lexicon
+
+
+
+
+MARI-LIKE NAMES
+
+PLACE NAMES
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/mhr-propernouns.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/stems/mhr-propernouns.lexc)</small>
+
+
+NOUNS
+
+KIN TERMS
+
+
+
+
+
+
+
+
+
+
+Single-syllable nouns in У Ӱ Ю
+
+VERBS
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/stems/exceptions.lexc)</small>
 
 
 We describe here how abbreviations are in Eastern Mari are read out, e.g.
