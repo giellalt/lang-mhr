@@ -23,7 +23,6 @@ presented in this system in terms of the following symbols.
 * %^Obstruent   for use with acronyms after hyphen С|Ф|Ъ|Ь
 * %^FrontObstr  for use with acronyms after hyphen С|Ф|Ъ|Ь
 
-
 * **%^END** = twolc tag to mark end of word
 
 ### The parts-of-speech are:
@@ -40,7 +39,6 @@ presented in this system in terms of the following symbols.
 * **+Pcle** = particles
 * **+Num** = numerals
 * **+Descr** = descriptive ideophones
-
 
 ### POS subtags
 The parts of speech are further split up into:
@@ -62,7 +60,6 @@ The parts of speech are further split up into:
 * **+Aux** = Auxiliary verb
 * **+Dep** = ( pair verbs that do not occur independently get this marker.) /was +Depend, but +Dep used in fst.
 
-
 Have a look at these:
 
 * **+Foc/Poss** = 
@@ -71,7 +68,6 @@ Have a look at these:
 * **+Qnt** = quantifiers
 * **+Rom** = roman numerals
 * **+Weak** = weak (?) form 
-
 
 The nominals are inflected in the following numbers
 
@@ -95,7 +91,6 @@ The nominals are inflected in the following Case and Number
 * **+Voc** = vocative
 * **+Attr** = attributive form
 * **+Instr** =
-
 
 The possession is marked as such:
 
@@ -123,7 +118,6 @@ Numerals are classified under:
 
 * **+Card** = (hmm, skip+Card?)
 * **+Ord** = 
-
 
 Note the attributive tag, in defferent contexts
 
@@ -167,7 +161,6 @@ Other verb forms are
 * **+Imprf** = Imperfective (?) -- XXX check this
 * **+Act** = Active
 * **+Pass** = Passive
-
 
 Question and Focus particles:
 * **+Qst** = 
@@ -226,7 +219,6 @@ just specify +Der|+Der1 .. +Der5 and you are set.
 
 * +Der
 
-
 Abbreviated words are classified with:
 * **+ABBR** = for abbreviations that (may) contain period
 * **+Symbol** = independent symbols in the text stream, like £, €, ©
@@ -283,7 +275,6 @@ for MT generation not to pop up elsewhere
 * **+Err/Orth** = orthographical error (analysed, not accepted in speller)
 * **+Use/-Spell** = accepted in normative FST but not in speller
 * **+Use/Test** =  Dealing with lative form 2012-10-27 аваеш, пашаш
-
 
 ### Semantic tags
 
@@ -379,8 +370,6 @@ for MT generation not to pop up elsewhere
 * **+Sem/Veh** = Vehicle
 * **+Sem/Wpn** = Weapon
 * **+Sem/Wthr** = The Weather or the state of ground
-
-
 
 Multiple Semantic tags:
 
@@ -508,9 +497,7 @@ Multiple Semantic tags:
 * **+Sem/Substnc_Wthr** = 
 * **+Sem/Time_Wthr** = 
 
-
 Semantics are classified with
-
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
@@ -534,7 +521,6 @@ symbols in the lexicon files:
 * %{ыØ%}   PxSg3 onset
 
 * %{ьØ%}   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
-
 
 * {aä} for vowel harmony
 * {oö} for vowel harmony
@@ -577,7 +563,6 @@ And following triggers to control variation
 * **Z2** = 
 * %- 
 
-
 * %^VoTrigger   for use with acronyms after hyphen о у ё ю О У Ё Ю
 * %^VeTrigger   for use with acronyms after hyphen а е и э я А Е И Э Я
 * %^VOTrigger   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
@@ -591,13 +576,10 @@ And following triggers to control variation
 * > (escaped with square brackets, to avoid collision with > as morpheme boundary)
 * < (escaped with square brackets, to avoid collision with < as morpheme boundary)
 
-
 * **+Cmp** = nouns
 * **+Cmp/Hyph** = nouns
 * **+Cmp/SoftHyph** = nouns
 * **+Cmp/SplitR** = nouns
-
-
 
 ## Flag diacritics
 We have manually optimised the structure of our lexicon using following
@@ -622,7 +604,6 @@ do no harm.
 |  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
 |  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
 
-
 Use the following flag diacritics to control downcasing of derived proper
 nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
 these flags. There exists a ready-made regex that will do the actual down-casing
@@ -630,11 +611,6 @@ given the proper use of these flags.
 
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
-
-
-
-
-
 
 ## The Root lexicon
 
@@ -668,8 +644,6 @@ the following basic word classes:
   urj-Cyrl-ProperNouns ;   s
   ProperNoun-mhr ;   specifically Mari names
 
-
-
 Continuation lexica 
 
 Here comes a set of ragbag continuation lexica.
@@ -697,11 +671,11 @@ Here comes a set of ragbag continuation lexica.
 
 * LEXICON X  for N attributes
 
-
 * **LEXICON ENDLEX** = and here it ends with the ^END symbol.
 
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/root.lexc)</small>
+
+---
+

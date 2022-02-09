@@ -32,16 +32,6 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 Pmatch documentation:
 https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
 
-
-
-
-
-
-
-
-
-
-
 Apart from what's in our morphology, there are
 1) unknown word-like forms, and
 2) unmatched strings
@@ -61,7 +51,6 @@ so far:
 
 TODO: Could use something like this, but built-in's don't include šžđčŋ:
 
-
 ## Unknown handling
 Unknowns are tagged ?? and treated specially with `hfst-tokenise`
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
@@ -69,10 +58,11 @@ remove empty analyses from other readings. Empty readings are also
 legal in CG, they get a default baseform equal to the wordform, but
 no tag to check, so it's safer to let hfst-tokenise handle them.
 
-
 Needs hfst-tokenise to output things differently depending on the tag they get
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript](http://github.com/giellalt/lang-mhr/blob/main/../tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript)</small>
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript](https://github.com/giellalt/lang-mhr/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript)</small>
+
+---
+

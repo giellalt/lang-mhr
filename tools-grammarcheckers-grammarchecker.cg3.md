@@ -1,20 +1,9 @@
 
 M E A D O W   M A R I   G R A M M A R   C H E C K E R
 
-
-
-
-
-
-
-
-
 # DELIMITERS
 
 The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
-
-
-
 
 The **Tags** section lists all the tags inherited from the fst, and defines them for
 use in the syntactic analysis.
@@ -23,13 +12,7 @@ The tags are documented in the root.lexc file, and here only listed for referenc
 The next section, **Sets**, contains sets defined
 on the basis of the tags listed here, those set names are not visible in the output.
 
-
-
-
-
 ## Tags
-
-
 
 ### Beginning and end of sentence
 
@@ -37,7 +20,6 @@ BOS
 EOS
 
 ### Clause boundary
-
 
 ### Parts of speech tags
 
@@ -97,7 +79,6 @@ Sg3
 Pl1
 Pl2
 Pl3
-
 
 ### Numeral tags
 
@@ -160,7 +141,6 @@ Der/sa
 Qst
 Foc
 
-
 ### Tags for internal testing
 CmpTest
 Err
@@ -171,54 +151,27 @@ Err
 * **OBLCASE** = All cases except Nom
 * **VFIN** = All moods
 
-
-
-
-
-
-
-
-
-
-
 Grammarchecker rules begin here 
-
-
 
 ## Grammarchecker sets
 
-
-
-
 ## Grammarchecker rules
-
-
-
 
 ### Speller rules
 
-
-
 ### Agreement rules
-
-
 
 ### Negation verb rules
 
-
-
 ### Postposition rules
-
-
-
-
 
 ###  NP internal rules
 
-
 ###  Punctuation rules
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-mhr/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>
+
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-mhr/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
+
+---
+

@@ -1,29 +1,13 @@
 
 # Meadow & Eastern Mari numerals 
 
-
-
-
-
 ## The initial lexica
 
 * **LEXICON Numeral**  initial lexica
 
-
-
-
-
 * **LEXICON ARABIC** arabic numerals
 
-
-
-
-
-
-
-
 * **LEXICON ARABICLOOP**
-
 
 * **LEXICON ARABICLOOPORD_Back** ordinals
 
@@ -31,14 +15,11 @@
 
 * **LEXICON ARABICLOOPORD_FrontRound** ordinals
 
-
 * **LEXICON ARABICDELIMITERORD_Back** ordinals
 
 * **LEXICON ARABICDELIMITERORD_Front** ordinals
 
 * **LEXICON ARABICDELIMITERORD_FrontRound** ordinals
-
-
 
 The Roman numerals !
 ------------------ !
@@ -61,10 +42,7 @@ The Roman numerals !
 
 * **LEXICON ROM-ONE-TAG**
 
-
 * **LEXICON ROM-SPLIT**
-
-
 
 * **LEXICON 2ROMAN**
 
@@ -86,10 +64,13 @@ The Roman numerals !
 
 * **LEXICON ROMNUMTAG**
 
-
 * **LEXICON ARABICCASEORD_Back** ordinals Is this then becoming +Ex/A?
 * **LEXICON ARABICCASEORD_Front** ordinals
 * **LEXICON ARABICCASEORD_FrontRound** ordinals
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/stems/numerals.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/numerals.lexc)</small>
+
+---
+

@@ -7,7 +7,6 @@ vowel harmony, stem vowel changes, palatalisation, etc.
 
 We define our symbols (**Alphabet**), some **Sets**, and then the **Rules**
 
-
 ## Letters of the alphabet
 * а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
 * А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
@@ -44,9 +43,7 @@ Archiphonemes for vowels, Apertium style
 
 * %{ьØ%}:0   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
 
-
 *  Е1:е  for lative
-
 
 ### Arcihphonemes for consonants
 
@@ -59,8 +56,6 @@ Archiphonemes for vowels, Apertium style
 * т2:0   лект- лек# "leave/ уходить"
 * т2:т   лект- лек# "leave/ уходить"
 
-
-
 * %^V2IMPRT:0	 for -ем verbs in й
 * %^END:0		   for -ам verb final, i.e. Imprf
 
@@ -71,13 +66,7 @@ Archiphonemes for vowels, Apertium style
 * %^Obstruent:0  for use with acronyms after hyphen С|Ф|Ъ|Ь
 * %^FrontObstr:0  for use with acronyms after hyphen 
 
-
-
 *  %>    
-
-
-
-
 
 ## Sets
 
@@ -102,17 +91,9 @@ Archiphonemes for vowels, Apertium style
 
 * all =  Ltrs  %- ;     
 
-
-
-
-
-
-
 ## Rules
 
 **Punctuation bullet as such** This rule prevents deleting of BULLET when it forms a token. BULLET as stress mark is deleted as before.
-
-
 
 **Palatal mark loss before vowel** 
 имне+N+Sg+Nom+Foc/Ат
@@ -124,13 +105,11 @@ Archiphonemes for vowels, Apertium style
 
 **Onset vowel Е2 realized in suffix е**  
 
-
 **Onset vowel Е2 realized in suffix э**  
 
 **Onset vowel Е2 realized in suffix ZERO**  
 
 **Onset vowel Ы1 realized in suffix**  
-
 
 **suffix-final vowel loss after stem-final vowel**  
 пуаш+V+Imprt+Sg2
@@ -141,24 +120,18 @@ Archiphonemes for vowels, Apertium style
 * *кий%>Ы2%^END*
 * *ки0%>е0*
 
-
 **suffix-final vowel loss after stem-final vowel**  
 
 **suffix-final vowel realized as -Round in word-final position е **  
-
 
 шылаш+V+Imprt+Sg3
 шыл%>жЫ2%^END
 шыл%>же0
 
-
 **suffix-final vowel realized as +Back +Round in word-final position о **  
-
 
 * *фрукт>Ы1штЫ2^END*
 * *фрукт>ышто0*
-
-
 
 **suffix-final vowel realized as +Front +Round in word-final position ӧ **  
 шӱртняш+V+ConNeg:
@@ -172,7 +145,6 @@ Archiphonemes for vowels, Apertium style
 * *тол%>%{ьØ%}ым*
 * *тол%>ьым*
 
-
 **suffix-final vowel realized after stem-final consonant**  
 
 **stem-final vowel realized as -Round in word-final position**  
@@ -181,13 +153,10 @@ Archiphonemes for vowels, Apertium style
 
 **stem-final vowel realized as +Front +Round in word-final position**  
 
-
 **suffix-final vowel realized %{аы%}:ы **  
 
 **stem-final vowel realized %{аы%}:а**  
 **stem-final vowel realized %{аы%}:а**  
-
-
 
 **Stem-final non-stressed vowel loss**
 
@@ -200,22 +169,17 @@ Archiphonemes for vowels, Apertium style
 * *пятибо•рь%{еы%}>А2т*
 * *пятибо•рье>ат*
 
-
-
 **suffix-final vowel realized %{еы%}:ы **  
 имне+N+Sg+PxSg3+Nom horse/hevonen
 * *имнʼь%{еы%}%>жЫ2*
 * *имн0ьы%>же*
-
 
 **suffix-final vowel realized Ы2:ы **  
 пӧрт+N+Sg+Ine+Foc/ys
 пӧрт%>Ы1штЫ2%>Ы1с%^END
 пӧрт%>ышты%>0с0
 
-
 **stem-final vowel realized %{еы%}:е**  
-
 
 **suffix-final vowel realized %{ӧы%}:ы **  
 
@@ -237,9 +201,6 @@ Archiphonemes for vowels, Apertium style
 * *а0%{яы%}%>Ы1м*
 * *айы%>0м*
 
-
-
-
 **Clitics in At and Ak take onset glide = a**  
 
 **Clitics in At and Ak take onset glide = ja**  
@@ -253,9 +214,7 @@ Archiphonemes for vowels, Apertium style
 * *и•мнʼь%{еы%}>А2т*
 * *и0мн000>ят*
 
-
 **Clitics in At and Ak take ZERO**
-
 
 **й Deletion in front of я Suffix and others**  
 
@@ -272,8 +231,6 @@ Archiphonemes for vowels, Apertium style
 * *кутыр>А2*
 * *кутыр>а*
 
-
-
 **Onset consonant devoicing ж:ш **
 * *авалтымаш%>жы%>ла*
 * *авалтымаш%>шы%>ла*
@@ -282,15 +239,9 @@ Archiphonemes for vowels, Apertium style
 
 **Stem-final consonant loss т**
 
-
 **Stem-final consonant loss к**
 
-
 **Stem-final consonant loss н**
-
-
-
-
 
 * *колхоз*
 * *колхоз*
@@ -309,25 +260,18 @@ Archiphonemes for vowels, Apertium style
 
 **Stem-final consonant variation з2:з**
 
-
-
 **Stem-final consonant variation з2:з**
-
-
-
 
 **Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш **
 йӧратымаш+N+Sg+Ine
 * *йӧратымаш%>тЫ2*
 * *йӧратымаш%>те*
 
-
 **Disallow Sg+Ill in кЫ2 everywhere except after stem-final ш **
 авалтымаш+N+Sg+Ine
 * *авалтымаш%>кЫ2*
 * *авалтымаш%>ке*
 
-
 **Disallow PxSg3 in ыж no where except after ш **
 * *йолташ%>ыж#*
 * *йолташ%>ыж#*
@@ -335,12 +279,8 @@ Archiphonemes for vowels, Apertium style
 * ★*олма%>ыж#* (is not standard language)
 
 **Disallow PxSg3 in ыж no where except after ш **
-
 
 **Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs **                                                                                                                                                                           
-
-
-
 
 * *и•мнʼь%{еы%}>A2т*
 * *и0мн000>ят*
@@ -351,6 +291,9 @@ Archiphonemes for vowels, Apertium style
 * *а*
 * *б*
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/phonology.twolc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/phonology.twolc)</small>
+
+---
+

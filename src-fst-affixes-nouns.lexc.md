@@ -3,56 +3,26 @@ Meadow Mari noun inflection
 
 ## a final lexica
 
-
-
-
 Some Postpositions in Mari take possessive suffixes. For now, am allowing all an all, but
 we should revisit this in the lexicon eventually - classifying postpositions into those that
 take Px and those that do not.
 
 Also here: some adverbs that take possessive suffixes, like ӱстембалне *on the table* > ӱстембалнем *on my table*
 
-
 * LEXICON N_   redirects to N-ava_01
 
-
 * LEXICON N-continuation   comes from Proper nouns
-
 
 * LEXICON N-ava_01  obl because of pronouns
 
 * LEXICON   N-ava_01_obl  to obl only
 * LEXICON   N-ava_01_obl_without-hyphens  to obl only
 
-
-
-
-
-
-
-
-
 * LEXICON   N-ava_01_obl_with-hyphens  to obl only, also ООО-влак
-
-
-
-
-
-
 
 * LEXICON N-OLD-ORTH-SG-NOM_  
 
-
-
-
-
-
-
-
-
-
 DECLENSION 
-
 
 ### Case suffixes
 Each case-number-person has its own lexicon.
@@ -71,8 +41,6 @@ Each case-number-person has its own lexicon.
 
 * LEXICON N-SG-INE 
 
-
-
 * LEXICON N-SG-ILL 
 
 * LEXICON N-SG-LAT 
@@ -86,10 +54,6 @@ Each case-number-person has its own lexicon.
 * LEXICON N-LOCPL-LAT 
 
 * LEXICON N-LOCPL-NOM  
-
-
-
-
 
 * LEXICON N-PL-NOM 
 
@@ -113,7 +77,6 @@ Each case-number-person has its own lexicon.
 
 ### Sg Sg1
 Here starts the Px stuff
-
 
 * LEXICON N-SG-PxSg1-NOM 
 
@@ -229,10 +192,6 @@ Here starts the Px stuff
 
 * LEXICON N-PL-PxSg2-ILL_NB-first 
 
-
-
-
-
 ### Sg Sg3
 * LEXICON N-SG-PxSg3-NOM 
 
@@ -251,7 +210,6 @@ Here starts the Px stuff
 * LEXICON N-SG-PxSg3-ILL 
 
 * LEXICON N-SG-PxSg3-LAT 
-
 
 * LEXICON N-SG-PxSg3-ABE 
 
@@ -322,7 +280,6 @@ Here starts the Px stuff
 
 * LEXICON N-PL-PxPl1-NOM_NB-first 
 
-
 * LEXICON N-PL-PxPl1-GEN 
 
 * LEXICON N-PL-PxPl1-GEN_NB-first 
@@ -373,7 +330,6 @@ Here starts the Px stuff
 * LEXICON N-SG-PxPl2-COM 
 
 * LEXICON N-SG-PxPl2-INE 
-
 
 * LEXICON N-SG-PxPl2-LAT 
 
@@ -480,23 +436,9 @@ Here starts the Px stuff
 
 * LEXICON N-PL-PxPl3-ABE_NB-first 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mhr/blob/main/../src/fst/affixes/nouns.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/affixes/nouns.lexc)</small>
+
+---
+

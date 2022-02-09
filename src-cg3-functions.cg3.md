@@ -5,75 +5,13 @@ Sámi language technology project 2003-2018, University of Tromsø #
 
 This file adds syntactic functions. It is common for all the Saami
 
-
-
-
-
-
-
-
-
-
-
-
-
 LEFT RIGHT because of apertium
-
-
 
 * Sets for POS sub-categories
 
-
-
-
-
 * Sets for Semantic tags
 
-
-
-
-
-
-
-
-
-
-
-
-
 * Sets for Morphosyntactic properties
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Syntactic tags
 
@@ -178,139 +116,17 @@ LEFT RIGHT because of apertium
 * @CMPND
 * @X : The function is unknown, e.g. because of that the word is unknown
 
-
-
-
-
-
-
-
-
-
-
 Tag sets
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * Sets for verbs
-
 
 ** V is all readings with a V tag in them, REAL-V should
 be the ones without an N tag following the V.
 The REAL-V set thus awaits a fix to the preprocess V ... N bug.
 
-
-
 * The set COPULAS is for predicative constructions
 
-
-
-
-
-
-
 * NP sets defined according to their morphosyntactic features
-
-
-
-
-
-
 
 * The PRE-NP-HEAD family of sets
 
@@ -318,98 +134,30 @@ These sets model noun phrases (NPs). The idea is to first define whatever can
 occur in front of the head of the NP, and thereafter negate that with the
 expression __WORD - premodifiers__.
 
-
-
-
-
-
-
-
-
-
-
-
 The set __NOT-NPMOD__ is used to find barriers between NPs.
 Typical usage: ... (*1 N BARRIER NPT-NPMOD) ...
 meaning: Scan to the first noun, ignoring anything that can be
 part of the noun phrase of that noun (i.e., "scan to the next NP head")
 
-
-
-
-
-
 * Miscellaneous sets
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * Border sets and their complements
 
-
-
-
-
-
-
-
-
-
-
 ADLVCASE
-
-
-
 
 * Syntactic sets
 
-
-
-
-
 These were the set types.
-
-
-
-
 
 Numeral outside the sentence
 
-
-
-
 HABITIVE MAPPING
-
-
-
-
-
 
 * __hab1__ hab aux leat
 
 * __hab_numo1__ hab copula comma comma N+Nom
 
 * __hab_numo2__ copula nu mo/go hab
-
 
 * __leahab__ copula nu mo/go hab
 
@@ -423,12 +171,7 @@ HABITIVE MAPPING
 
 * __hab3__ (<hab> @ADVL>) for hab-actor and hab-case; if leat to the right, and Nom to the right of leat. Lots of restrictions.
 
-
-
-
-
 * __hab_main__ (<hab> @ADVL>) for hab-actor and hab-case; if leat to the right, and Nom to the right of leat. Lots of restrictions.
-
 
 * __habInf__ hab lea inf
 
@@ -437,8 +180,6 @@ HABITIVE MAPPING
 * __habAdvl__ Ii han ovttasge du sogas leat dat namma.
 
 * __hab4__ hab cc hab leat
-
-
 
 * __hab6__ lea go hab -- leago hab
 
@@ -454,7 +195,6 @@ HABITIVE MAPPING
 * __habDain__ (<hab> @ADVL>) for (Pron Dem Pl Loc) if leat followed by Nom to the right
 * __habDain2__ 
 
-
 * __habRel__ # before relative clause
 
 * __habEllipse__ Buot gánddain lea dreassa, nieiddain fas gákti.
@@ -463,39 +203,11 @@ HABITIVE MAPPING
 
 * __habGenQst__ (<hab> @<ADVL) hab for Gen; in a question sentence. Gen is located sentence initially and SUBJ is found to the right. To the right of SUBJ is copulas
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * __n<titel1__ (@N<) for ("jr") or ("sr"); if first one to the left is Prop
-
-
 
 * __n<titel2__ (@N<) for INITIAL; if first one to the left is a noun, or if to the left of you is a single letter which is part of a noun conjunction ''bustávas e ja f gáibiduvvo''
 
-
 * __n<:com__ (@N<) for (Sg Com); if first one to the left is Coll
-
-
-
-
-
-
-
-
-
 
 * __>nAttr__ (@>N) for Attr; if there is a noun to your right
 
@@ -503,45 +215,21 @@ HABITIVE MAPPING
 
 * __n>Indef__ (Pron Indef Com); if eará is to the right
 
-
 * __>nNum__ (@>N) for numerals if; there is a noun to your right. You are not allowed to be (Sg Nom), (Sg Acc) or (Sem/Date)
-
-
-
-
-
 
 * __noun>n__ (@>N) for Gen; if there is a noun to your right. Restrictions: Not if you are: a time related word. Not if you are OKTA with Pl Loc to your right. Not if CC is to your right followed by another Gen and then Po. Not if you are HUMAN and to your right is Actio Nom folloed by a noun.
 
-
-
-
-
-
-
-
-
-
 * __>nTime__ (@>N) for Gen TIME-N; if timenoun to your right. Restrictions: Not if you are a OKTA Nom with Pl Loc to your right. Not if CC followed by Gen, followed by Po to your right. Not if COMMA to your right
-
-
-
 
 * __>ntittel__ (@>N) for (Sg Nom TIME-N) or (Nom Der/NomAg); if to your right is Sem/Mal, Sem/Fem, Sem/Sur
 
 * __>nplc__ (@>N) for (Sg Nom Prop Sem/Plc), if to your right is Sem/Plc
 
-
 * __>nALU__ (@>N) for Sg Acc numerals; when a measure-noun to the right
-
-
 
 * __>NTime__ (@>N) for Gen; if you are TIME-N with BOC to your left, and PREGEN to your right
 
-
-
 * __n<:Refl__ (@N<) for (Refl Nom); if to the left is (N Nom), or if first one to the left is a finite mainverb with a (N Nom) to the left
-
 
 * __>pron1__ (@>Pron) for GRADE-ADV, DUSSE, BUOT if; first one to the right is Pron
 
@@ -559,80 +247,17 @@ HABITIVE MAPPING
 
 * __adv>advl__ (@>ADVL) 
 
-
-
-
-
-
 * __BOSvoc__ (@VOC) for HUMAN Nom; if sentence initial. To the right is comma. No nom-cased HUMAN followed by comma or CC is allowed to the right. There should not be a relative clause to the right, because then you are likely to be SUBJ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * __voc__ (@VOC) for Nom HUMAN; if comma to the left and an second person verb or pronoun to the left. To the right is the end of the sentence
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * __Particle<subj __ (@PCLE)
-
 
 * __spred<obj__ (@SPRED<OBJ) for Acc; the object of an SPRPED. Not to be mistaken with OPRED. If SPRED is to the left, and copulas is to the left of it. Nom or Hab are found sentence initially.
 
-
-
-
-
-
 * __Hab<subj__ (<ext> @<SUBJ) for Nom; if copulas, goallut or jápmit is FMAINV and habitive or human Loc is found to the left. OR: if Ill or @Pron< followed by HAB are found to the left.
 
-
-
 * __Hab<subj__ (<ext> @<SUBJ) with relative clause in between
-
 
 * __Hab>Advlcase<subj__ (<ext> @<SUBJ) for Nom; it allows adverbials with Ill/Loc/Com/Ess to be found inbetween HAB and <ext>.
 
@@ -642,19 +267,15 @@ HABITIVE MAPPING
 
 * __<extSubj__ (<ext> @<SUBJ) for sma Nom; if some kind of adverb to the left, N Loc, time related word or Po to the left of it. 
 
-
 * __<extSubjA__ (<ext> @<SUBJ) for A - TEST WITHOUT THIS ONE
 
 * __<extSubj__ (<ext> @<SUBJ) for Nom; if leat to the left and sentenceboundary
-
-
 
 * __<extSubj__ (<ext> @<SUBJ) for Nom, but not for Pers. To the left boahtit or heaŋgát as MAINV, and futher to the left is some kind of place related word, or time related word
 
 * __loc<extSubj__ (<ext> @<SUBJ) for Nom
 
 * __<spred__ (@<SPRED) for Nom; if Nom to the left, copulas to the left of Nom, and a time related word to the left of it.
-
 
 * __<extQst1__ (<ext> @<SUBJ) for Nom; in an existential sentence. To your left is hab, some kind of place or time-word or Po. This is a Qst-sentence so the qst-pcle is attached to leat or following leat
 
@@ -664,17 +285,9 @@ HABITIVE MAPPING
 
 * __extQst3>__ (<ext> @SUBJ>) for Nom; if habitive first one to the left, followed by copulas.
 
-
 * __<extsubjcoor__ (<ext> @<SUBJ) for Nom. Coordination
 
 * Sem/Year
-
-
-
-
-
-
-
 
 * __<spredQst__ (@<SPRED) for Nom; in a typically question sentence; You are not allowed to be Pers or human. The special part is that Nom is not allowed to your right
 
@@ -712,45 +325,20 @@ HABITIVE MAPPING
 
 * __spredšaddat>__ (@SPRED>)
 
-
 * __r492>__ (@SPRED>) for Interr Gen; consisting only of negations. You are not allowed to be MII. You are not allowed to have an adjective or noun to yor right. You are not allowed to have a verb to your right; the exception beeing an aux.
 
-
-
 * __AdjSpredSg>__ (@SPRED>) for A Sg Nom; if copulas to the right, but not if A or @<SPRED are found to the right of copulas
-
-
-
-
 
 * __Spred>SubjInf__ (@SPRED>) for Nom; if copulas to the right, and the subject of copulas is an Inf to the right
 
 * __spredCoord__ (@<SPRED) coordination for Nom; only if there already is a SPRED to the left of CNP. Not if there is some kind of comparison involved.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * __subj>Sgnr1__ (@SUBJ>) for Nom Sg, including Indef Nom if; VFIN + Sg3 or Pl3 to the right (VFIN not allowed to the left)
-
-
-
 
 * __subj>Du__ (@SUBJ>) for dual nominatives, including Coll Nom. VFIN + Du3 to the right.
 * __subj>Pl__ (@SUBJ>) for plural nominatives, including Coll and Sem/Group. VFIN + Pl3 to the right.
 
 * __subj>Pl__ (@SUBJ>) for plural nominatives
-
 
 * __subj>Sg__ (@SUBJ>) for Nom Sg; if VFIN + Sg3 to the right.
 
@@ -762,128 +350,27 @@ HABITIVE MAPPING
 
 * __copPl3<subj__ (@<SUBJ) for Nom Pl; you don't to be a noun, only Nom Pl. To the left is copulas and first one to the right is @<SPRED
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * __-fsubj>__ (@-FSUBJ>) for HUMAN Gen; in a NP-clause. To your right is Actio Nom followed by a noun
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * __f<advl__ (@-F<ADVL) for infinite adverbials
 
-
-
-
-
-
 * __f<advl__ (@-F<ADVL) for infinite adverbials
-
-
-
-
-
-
-
-
 
 * __s-boundary=advl>__ (@ADVL>) for ADVL that resemble s-boundaries. Mainverb to the right.
 
-
-
-
-
 * __diibmuadvl>__ (@ADVL>) for (diibmu Nom) if first one to the right is Num
 
-
 * __-fsubj__ (@-FSUBJ>) for HUMAN Acc after DADJAT verbs
-
-
 
 * __-fobj>__ (@-FOBJ>) for Acc if front of abessive, gerundium, actio locative, perfectum participle or infinitive. First one to the right not allowed to be Acc though
 
 * __-fobj>__ (@-FOBJ>) for Acc if human with ADVL-case to the left and transitive infinitive OBJ to the right. First one to the right not allowed to be Acc though
 
-
-
-
-
-
-
-
-
-
-
 * __advl>mainV__ (@ADVL>) if; finite mainverb not found to the left, but the finite mainverb is found to the right.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * __V<advl__ (@<ADVL) if; finite mainverb found to the left. Not if a comma is found immediately to the left and a finite mainverb is located somewhere to the right of this comma.
 
-
-
-
-
 * __advl>v__ (@ADVL>) if; you are ADVL, time-noun or Sem/Route and there is a finite verb to the right in the clause, or if to your right is: de followed by a finite verb. OR: if you are a time-nound and to your right is: go or sentenceboundary followed by a finite verb
-
-
 
 * __<advlPoPr__ (@<ADVL) for Po or Pr; if mainverb to the left.
 * __advlPoPr>__ (@<ADVL) for Po or Pr; if mainverb to the right.
@@ -894,39 +381,25 @@ HABITIVE MAPPING
 
 * __<advlEOS__ (@<ADVL) for Po or Pr or Loc; if you are found at the very end of a sentence. A mainverb is needed to the left though.
 
-
 * __<advlGen__ (@<ADVL) for (N Gen) if mainverb to the left and no noun to the right
-
 
 * __<opredgohcodit__ (@<OPRED) for Ess
 
-
 * __advlEss>__ (@<ADVL) for weather and time Ess, if FMAINV to the left.
 
-
-
-
 * __comma<advlEOS__ (@<ADVL) for Adv if; mainverb is to the left. Comma to the left and mainverb to the right in the same clause is not allowed
-
 
 * __advl>inbetween__ (@ADVL>) for Adv; if inbetween two sentenceboundaries where no mainverb is present.
 
 * __comma<advlEOS__ (@<ADVL) for Adv if; comma found to the left and the finite mainverb to the left of comma. To the right is the end of the sentence.
 
-
-
 * __BOSadvl>__ (@ADVL>) if; you are N Loc or N Ill and found sentence initially and there is a main verb somewhere to the right. No barrier for the mainverb; based on the thought that first one to your right is probably a sentenceboundary.
 
 * __cleanupILL<advl__ (@<ADVL) for N Ill if; there are no boundarysymbols to your left, if you arent already @N< OR @APP-N<, and no mainverb is to yor left.
 
-
-
 * __cleanupPo__ (@ADVL) for Po: This rule tags all Po:s as ADVL if they haven't gotten a tag somewhere along the way.
 
 * __cleanupPr__ (@ADVL) for Po: This rule tags all Pr:s as ADVL if they haven't gotten a tag somewhere along the way.
-
-
-
 
 * __-fsubj>asAcc__ (@-FSUBJ>) for HUMAN Acc; if there is a verb @-F<OBJ to your left
 
@@ -940,20 +413,11 @@ HABITIVE MAPPING
 
 * __f<subj__ (@-F<SUBJ) for Nom if; (V @-F<OBJ) to the left.
 
-
-
-
-
-
-
 * __<opredAAcc__ (@<OPRED) for A Acc; if an other accusative to the left, and a transtive verb to the left of it. OR: if a transitive verb to the left, and an accusative to the left of it.
 
 * __TV<obj__ (@<OBJ) for Acc; if there is a transitive mainverb to the left in the clause. Not for Rel. Not if you are a numeral followed by a measure-noun
 
-
-
 !sma object
-
 
 * __<advlMeasr__ (@<ADVL) for (Num Acc); if finite IV-mainverb to the left, measure-noun to the right
 
@@ -963,18 +427,11 @@ HABITIVE MAPPING
 
 * __advlMeasr>__ (@ADVL>) for Num Acc;
 
-
 * __Obj>__ (@OBJ>) for Acc; if there is a finite mainverb to the right in the clause. A really simple rule with no other restrictions..
 
 * __s-boun<obj__ (@<OBJ) for Acc; if sentenceboundary to your left and a transitive mainverb to the left futher to the left
 
 * __<objIV__ (@<OBJ) for Acc; if there is an intransitive mainverb in the clause. Not for Rel or Num. Not if you are a numeral followed by a measure-noun
-
-
-
-
-
-
 
 * __<advlEss__ (@<ADVL) for ESS-ADVL if; FMAINV to the left
 
@@ -988,64 +445,30 @@ HABITIVE MAPPING
 
 * __onlyV<opred2__ (@<OPRED) for (N Ess) if;
 
-
-
-
-
-
-
-
-
-
-
 SUBJ MAPPING - leftovers
 
 * __subj>ifV__ (@SUBJ>) for NP-HEAD-NOM, DUPRON or (Num Nom) if; a finite mainverb is found to the right. This is a cleanup rule for subjects
 
 * __hnoun>ifV__ (@SUBJ>) for NP-HEAD-NOM, DUPRON if. The counterpart of subj>ifV. You are HNOUN if there is a finite verb to your right, but NOT if there is a finite verb after a relative clause
 
-
 OBJ MAPPING - leftovers
 
 <logo> MAPPING for MT - experimental
 
-
 HNOUN MAPPING
-
-
-
-
-
-
-
-
 
 * __@<ADVLcoor__ (@<ADVL) for ADVLCASEAdv if @CNP to the left and ADVL to the left of it
 
-
-
-
 ! __missingX__ adds @X to all missings
 
-
-
-
-
 ! __therestX__ adds @X to all what is left, often errouneus disambiguated forms
-
-
-
-
-
 
 ## For Apertium:
 The analysis give double analysis because of optional semtags. We go for the one with semtag.
 
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mhr/blob/main/../src/cg3/functions.cg3)</small>
+
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/functions.cg3)</small>
+
+---
+
