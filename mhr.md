@@ -3,6 +3,157 @@
 All documents in one file
 
 
+# C O M M O N  S Á M I  D E P E N D E N C Y   G R A M M A R
+
+This dep file is for sma, sme, smj, sje.
+
+# DELIMITERS
+
+Sentence delimiters are the following: <.> <!> <?> <...> <¶>
+
+# TAGS AND SETS
+
+N
+V
+A
+Adv
+CC
+CS
+Inf
+Sup
+Neg
+Num
+Po
+Pr
+
+Pcle
+Prop
+
+Pron
+IV
+TV
+COMMA
+DASH
+CITATION to keep colouring we add a "
+HYPHEN
+QMARK
+PUNCT
+LEFT
+RIGHT
+CLB
+Ind
+Pot
+Impr
+ImprtII
+Cond
+ConNeg
+Caus causative eus
+VGen
+Interj
+ABBR
+ACR
+Prs
+Prt
+Cmpnd
+RCmpnd
+PrfPrc
+PrsPrc
+Actor
+Actio
+Ger
+Indef
+Nom
+Acc
+Ill
+Com
+Gen
+Ess
+
+IM For fao
+
+## POS sub-categories
+
+## Syntactic tags and sets
+
+### Syntactic tags in input to this file
+
+### Syntactic tags added in this file
+
+* @FMV : finite main verb
+- oaidná: Son oaidná ollislaš gova. - She sees the whole picture
+* infinite main verb
+* @FAUX : finite auxiliary verb
+- ferte: Son ferte oaidnit ollislaš gova. - She must see the whole picture. 
+* @FMVdic : finite main verb introducing direct speech
+* @IMVdic : infinite main verb introducing direct speech
+* @FS-IMV : infinite main verb of subclause 
+* @FS-IAUX : infinite auxiliary verb in subclause
+* @FS-N<IAUX : infinite auxiliary verb of a relative subclause
+* @FS-N<IMV : infinite main verb of a relative subclause
+* @FS-OBJ : finite verb in subclause functioning as object
+* @FS-OBJ> : finite verb in subclause functioning as object
+* @FS-<OBJ : finite verb in subclause functioning as object
+* @FS-SUBJ : finite verb in subclause functioning as subject
+* @FS-SUBJ> : finite verb in subclause functioning as subject
+* @FS-<SUBJ : finite verb in subclause functioning as subject
+* @FS-ADVL> : finite verb in subclause functioning as adverbial to the left of the main clause
+* @FS-<ADVL : finite verb in subclause functioning as adverbial to the right of the main clause
+* @S< : a clause modifying a sentence to the right of it
+* @FS-ADVL : finite verb in subclause ...
+* @-FS-<ADVL : infinite subclause - eus
+* @-FS-ADVL> : infinite subclause - eus
+* @FS-N< : relative clause to N
+* @FS->N : relative clause to N to the left side of it - eus
+* @FS-VFIN< : finite verb in sentence, statement
+- eai: Idja ii leat šat, eai ge sii dárbbaš lámppá dahje beaivváža čuovgga, dasgo Hearrá Ipmil lea sin čuovga. - The night is not anymore, they do not need the lamp- or day- light either, because God the Lord is their light.
+* @FS-<APP : finite subclause functioning as an apposition
+* @ICL-ADVL : non-finite subclause ...
+* @ICL-AUX< : "right" argument of auxiliary (?)
+* @ICL-OBJ : infinitival clause object
+* @ICL-SUBJ : infinitival clause subject
+* @ICL-P< : infinitival clause complement of preprosition
+* @IAUX : non-finite auxiliary
+* <mv> : main verb. A temporarily tag omitted in the end of the file.
+* <aux> : auxilary verb. A temporarily tag omitted in the end of the file.
+
+### fao syntags
+
+* @>V
+
+### kal syntags
+
+* @INS :
+* @<INS :
+* @INS> :
+
+### eus syntags
+
+* @FS-SPRED : finite verb in subclause functioning as a subject predicate - eus, but not sure if in use
+
+### Syntactic set definitions
+
+# Dep grammar
+
+Correction rules
+
+* **muitalit**
+
+* **XX**
+
+* **XX**
+
+* **XX**
+
+* **faoSumId=Rel**
+
+## The finite verb
+
+# Mapping rules
+
+**lgRemove** removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
+
+* * *
+<small>This (part of) documentation was generated from [src/cg3/dependency.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/dependency.cg3)</small>
 
 This is the Eastern Mari disambiguation file. It chooses
 the correct morphological analyses in any given sentence context.
@@ -244,8 +395,6 @@ Infinitives
 
 * **RemN** removes N if N to the right
 
-* **AdjAfterNbeforeEOS** selects A if N to the left and EOS to the right (predicative position)
-
 *_AdjBeforeConjAdj_ selects A if conjuction and A to the right ;
 
 * **AdjNotAdv** removes Adv if N to the right
@@ -371,12 +520,7 @@ Phrases
 * **NoErrOrth**
 
 * * *
-
 <small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/disambiguator.cg3)</small>
-
----
-
-
 S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
 
 Sámi language technology project 2003-2018, University of Tromsø #
@@ -494,7 +638,7 @@ LEFT RIGHT because of apertium
 * @CMPND
 * @X : The function is unknown, e.g. because of that the word is unknown
 
-Tag sets
+!!Tag sets
 
 * Sets for verbs
 
@@ -527,9 +671,9 @@ ADLVCASE
 
 These were the set types.
 
-Numeral outside the sentence
+!!Numeral outside the sentence
 
-HABITIVE MAPPING
+!!HABITIVE MAPPING
 
 * __hab1__ hab aux leat
 
@@ -823,17 +967,17 @@ HABITIVE MAPPING
 
 * __onlyV<opred2__ (@<OPRED) for (N Ess) if;
 
-SUBJ MAPPING - leftovers
+!!SUBJ MAPPING - leftovers
 
 * __subj>ifV__ (@SUBJ>) for NP-HEAD-NOM, DUPRON or (Num Nom) if; a finite mainverb is found to the right. This is a cleanup rule for subjects
 
 * __hnoun>ifV__ (@SUBJ>) for NP-HEAD-NOM, DUPRON if. The counterpart of subj>ifV. You are HNOUN if there is a finite verb to your right, but NOT if there is a finite verb after a relative clause
 
-OBJ MAPPING - leftovers
+!!OBJ MAPPING - leftovers
 
-<logo> MAPPING for MT - experimental
+!!<logo> MAPPING for MT - experimental
 
-HNOUN MAPPING
+!!HNOUN MAPPING
 
 * __@<ADVLcoor__ (@<ADVL) for ADVLCASEAdv if @CNP to the left and ADVL to the left of it
 
@@ -845,169 +989,7 @@ HNOUN MAPPING
 The analysis give double analysis because of optional semtags. We go for the one with semtag.
 
 * * *
-
 <small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/functions.cg3)</small>
-
----
-
-
-# C O M M O N  S Á M I  D E P E N D E N C Y   G R A M M A R
-
-This dep file is for sma, sme, smj, sje.
-
-# DELIMITERS
-
-Sentence delimiters are the following: <.> <!> <?> <...> <¶>
-
-# TAGS AND SETS
-
-N
-V
-A
-Adv
-CC
-CS
-Inf
-Sup
-Neg
-Num
-Po
-Pr
-
-Pcle
-Prop
-
-Pron
-IV
-TV
-COMMA
-DASH
-CITATION to keep colouring we add a "
-HYPHEN
-QMARK
-PUNCT
-LEFT
-RIGHT
-CLB
-Ind
-Pot
-Impr
-ImprtII
-Cond
-ConNeg
-Caus causative eus
-VGen
-Interj
-ABBR
-ACR
-Prs
-Prt
-Cmpnd
-RCmpnd
-PrfPrc
-PrsPrc
-Actor
-Actio
-Ger
-Indef
-Nom
-Acc
-Ill
-Com
-Gen
-Ess
-
-IM For fao
-
-## POS sub-categories
-
-## Syntactic tags and sets
-
-### Syntactic tags in input to this file
-
-### Syntactic tags added in this file
-
-* @FMV : finite main verb
-- oaidná: Son oaidná ollislaš gova. - She sees the whole picture
-* infinite main verb
-* @FAUX : finite auxiliary verb
-- ferte: Son ferte oaidnit ollislaš gova. - She must see the whole picture. 
-* @FMVdic : finite main verb introducing direct speech
-* @IMVdic : infinite main verb introducing direct speech
-* @FS-IMV : infinite main verb of subclause 
-* @FS-IAUX : infinite auxiliary verb in subclause
-* @FS-N<IAUX : infinite auxiliary verb of a relative subclause
-* @FS-N<IMV : infinite main verb of a relative subclause
-* @FS-OBJ : finite verb in subclause functioning as object
-* @FS-OBJ> : finite verb in subclause functioning as object
-* @FS-<OBJ : finite verb in subclause functioning as object
-* @FS-SUBJ : finite verb in subclause functioning as subject
-* @FS-SUBJ> : finite verb in subclause functioning as subject
-* @FS-<SUBJ : finite verb in subclause functioning as subject
-* @FS-ADVL> : finite verb in subclause functioning as adverbial to the left of the main clause
-* @FS-<ADVL : finite verb in subclause functioning as adverbial to the right of the main clause
-* @FS-ACC>> : finite verb in subclause, object of speechact verb
-* @S< : a clause modifying a sentence to the right of it
-* @FS-ADVL : finite verb in subclause ...
-* @-FS-<ADVL : infinite subclause - eus
-* @-FS-ADVL> : infinite subclause - eus
-* @FS-N< : relative clause to N
-* @FS->N : relative clause to N to the left side of it - eus
-* @FS-VFIN< : finite verb in sentence, statement
-- eai: Idja ii leat šat, eai ge sii dárbbaš lámppá dahje beaivváža čuovgga, dasgo Hearrá Ipmil lea sin čuovga. - The night is not anymore, they do not need the lamp- or day- light either, because God the Lord is their light.
-* @FS-<APP : finite subclause functioning as an apposition
-* @ICL-ADVL : non-finite subclause ...
-* @ICL-AUX< : "right" argument of auxiliary (?)
-* @ICL-OBJ : infinitival clause object
-* @ICL-SUBJ : infinitival clause subject
-* @ICL-P< : infinitival clause complement of preprosition
-* @IAUX : non-finite auxiliary
-* <mv> : main verb. A temporarily tag omitted in the end of the file.
-* <aux> : auxilary verb. A temporarily tag omitted in the end of the file.
-
-### fao syntags
-
-* @>V
-
-### kal syntags
-
-* @INS :
-* @<INS :
-* @INS> :
-
-### eus syntags
-
-* @FS-SPRED : finite verb in subclause functioning as a subject predicate - eus, but not sure if in use
-
-### Syntactic set definitions
-
-# Dep grammar
-
-Correction rules
-
-* **muitalit**
-
-* **XX**
-
-* **XX**
-
-* **XX**
-
-* **faoSumId=Rel**
-
-## The finite verb
-
-# Mapping rules
-
-**lgRemove** removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/cg3/dependency.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/dependency.cg3)</small>
-
----
-
-
 S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
 
 Sámi language technology project 2003-2014, University of Tromsø # 
@@ -1022,435 +1004,37 @@ Here we remove semantic tags for all other words than
 proper nouns.  
 
 * * *
+<small>This (part of) documentation was generated from [src/cg3/korp.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/korp.cg3)</small>Adjective inflection
 
-<small>This (part of) documentation was generated from [src/cg3/korp.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/korp.cg3)</small>
+Meadow Mari adjectives
 
----
+LEXICON A underscore
 
-Divvun & Giellatekno - open source grammars for Sámi and other languages
+* LEXICON A-a/e  
 
-A special lexicon for handling proper noun compounding without hyphens
-as that would allow compounding with words explicitly coded to disallow
-such compounds)
+* LEXICON A/S-a/e   redirect to A underscore
+
+* LEXICON A/S-VS  redirect to A underscore
+
+* LEXICON A-VS  redirect to A underscore
+
+* LEXICON A/S  redirect to A underscore
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/compounding.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/compounding.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/affixes/adjectives.lexc)</small>
 
 ---
 
-# Eastern Mari twol file
+# Eastern Mari Clitics
 
-This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mhr/blob/main/src/fst/phonology.twolc) 
+* LEXICON K  
 
-This file contains rules for morphophonological alternations, such as
-vowel harmony, stem vowel changes, palatalisation, etc.
-
-We define our symbols (**Alphabet**), some **Sets**, and then the **Rules**
-
-## Letters of the alphabet
-* а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
-* А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
-
-other symbols
-*    %- 
-
-Archiphonemes for vowels, Giellatekno style
-*   Е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
-*  Ы2:е     Variation in еоыӧØ
-*   А1:а    
-*   Е2:е А2:а   
-
-Archiphonemes for vowels, Apertium style
-* %{аы%}:а  Stem-final vowel variation when stress falls on non-final vowel
-* %{аы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
-* %{еы%}:е  Stem-final vowel variation when stress falls on non-final vowel
-* %{еы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
-* %{оы%}:о  Stem-final vowel variation when stress falls on non-final vowel
-* %{оы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
-* %{ӧы%}:ӧ  Stem-final vowel variation when stress falls on non-final vowel
-* %{ӧы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
-
-* %{яы%}:я  Stem-final vowel variation when stress falls on non-final vowel
-* %{яы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
-
-* %{еоыӧØ%}:е   PxSg3 final
-* %{еоыӧØ%}:о   PxSg3 final
-* %{еоыӧØ%}:ӧ   PxSg3 final
-* %{еоыӧØ%}:0   PxSg3 final
-* %{еоыӧØ%}:ы   PxSg3 final
-* %{ыØ%}:ы   PxSg3 onset
-* %{ыØ%}:0   PxSg3 onset
-
-* %{ьØ%}:0   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
-
-*  Е1:е  for lative
-
-### Arcihphonemes for consonants
-
-* з2:з   for з:ч, thus  возаш - воч but колхоз (*колхоч)
-* з2:ч   for native stems
-* к2:0   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
-* к2:к   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
-* н2:0   шинч- шич# "sit down/сесть"
-* н2:н   шинч- шич# "sit down/сесть"
-* т2:0   лект- лек# "leave/ уходить"
-* т2:т   лект- лек# "leave/ уходить"
-
-* %^V2IMPRT:0	 for -ем verbs in й
-* %^END:0		   for -ам verb final, i.e. Imprf
-
-* %^VoTrigger:0   for use with acronyms after hyphen о у ё ю О У Ё Ю
-* %^VeTrigger:0   for use with acronyms after hyphen а е и э я А Е И Э Я
-* %^VOTrigger:0   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
-* %^Sonorant:0    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
-* %^Obstruent:0  for use with acronyms after hyphen С|Ф|Ъ|Ь
-* %^FrontObstr:0  for use with acronyms after hyphen 
-
-*  %>    
-
-## Sets
-
-* Vo =   о у ё ю О У Ё Ю ;    
-* VO =   ӧ ӱ Ӧ Ӱ;               
-* Ve =   а е и э я А Е И Э Я ;   
-* Vow =  Vo VO Ve ы Ы ;    
-
-* Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
-       з2 к2 н2 т2 ;   
-
-* CnsAll =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
-       з2 к2 н2 т2 ;   
-
-* CnsNoj =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш щ   
-          Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш Щ;     
-
-* Cst =  б в г д ж з к п с т ф х ц ч ш щ       
-       Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш Щ;      
-
-* Ltrs = Vow Cns  ъ ь Ъ Ь ;    
-
-* all =  Ltrs  %- ;     
-
-## Rules
-
-**Punctuation bullet as such** This rule prevents deleting of BULLET when it forms a token. BULLET as stress mark is deleted as before.
-
-**Palatal mark loss before vowel** 
-имне+N+Sg+Nom+Foc/Ат
-* *имнь%{еы%}%>А2т*
-* *имн00%>ят*
-витнь>Ы2^END
-
-**Onset vowel loss in suffix after stem vowel**  
-
-**Onset vowel Е2 realized in suffix е**  
-
-**Onset vowel Е2 realized in suffix э**  
-
-**Onset vowel Е2 realized in suffix ZERO**  
-
-**Onset vowel Ы1 realized in suffix**  
-
-**suffix-final vowel loss after stem-final vowel**  
-пуаш+V+Imprt+Sg2
-* *пу>Ы2%^END*
-* *пу>00*
-
-кияш+V+Imprt+Sg2
-* *кий%>Ы2%^END*
-* *ки0%>е0*
-
-**suffix-final vowel loss after stem-final vowel**  
-
-**suffix-final vowel realized as -Round in word-final position е **  
-
-шылаш+V+Imprt+Sg3
-шыл%>жЫ2%^END
-шыл%>же0
-
-**suffix-final vowel realized as +Back +Round in word-final position о **  
-
-* *фрукт>Ы1штЫ2^END*
-* *фрукт>ышто0*
-
-**suffix-final vowel realized as +Front +Round in word-final position ӧ **  
-шӱртняш+V+ConNeg:
-* *шӱртнь%>Ы2%^END*
-* *шӱртнь%>ӧ0*
-
-**remove ʼ mod let apostrophe**
-
-**%{ьØ%}:ь**
-толам+V+Ind+Prt1+Sg1
-* *тол%>%{ьØ%}ым*
-* *тол%>ьым*
-
-**suffix-final vowel realized after stem-final consonant**  
-
-**stem-final vowel realized as -Round in word-final position**  
-
-**stem-final vowel realized as +Back +Round in word-final position**  
-
-**stem-final vowel realized as +Front +Round in word-final position**  
-
-**suffix-final vowel realized %{аы%}:ы **  
-
-**stem-final vowel realized %{аы%}:а**  
-**stem-final vowel realized %{аы%}:а**  
-
-**Stem-final non-stressed vowel loss**
-
-* *а•льф{аы}>А2т*
-* *а0льф0>ат*
-
-**Stem-final non-stressed %{еы%} loss**
-* *киска•лʼь%{еы%}>А2т*
-* *киска•л000>ят*
-* *пятибо•рь%{еы%}>А2т*
-* *пятибо•рье>ат*
-
-**suffix-final vowel realized %{еы%}:ы **  
-имне+N+Sg+PxSg3+Nom horse/hevonen
-* *имнʼь%{еы%}%>жЫ2*
-* *имн0ьы%>же*
-
-**suffix-final vowel realized Ы2:ы **  
-пӧрт+N+Sg+Ine+Foc/ys
-пӧрт%>Ы1штЫ2%>Ы1с%^END
-пӧрт%>ышты%>0с0
-
-**stem-final vowel realized %{еы%}:е**  
-
-**suffix-final vowel realized %{ӧы%}:ы **  
-
-**stem-final vowel realized %{ӧы%}:ӧ**  
-
-**suffix-final vowel realized %{оы%}:ы **  
-
-**stem-final vowel realized %{оы%}:о**  
-
-**suffix-final vowel realized %{яы%}:ы **  
-
-**stem-final vowel realized %{яы%}:я**  
-
-* *башнь%{яы%}*
-* *башн0я*
-
-**stem-internal glide realized in  0:й %{яы%}:ы **
-
-* *а0%{яы%}%>Ы1м*
-* *айы%>0м*
-
-**Clitics in At and Ak take onset glide = a**  
-
-**Clitics in At and Ak take onset glide = ja**  
-когыльо+N+Sg+Nom+Foc/Ат
-* *когыль%{оы%}%>А2т*
-* *когыл00%>ят*
-толаш+V+Ind+Prt1+Sg3+Foc/Ат
-* *тол>{ьØ}Ы2>А2т*
-* *тол>00>ят*
-имне+N+Sg+Nom+Foc/Ат
-* *и•мнʼь%{еы%}>А2т*
-* *и0мн000>ят*
-
-**Clitics in At and Ak take ZERO**
-
-**й Deletion in front of я Suffix and others**  
-
-* *кий>А2ш*
-* *ки0>яш*
-
-**й Deletion in front of я Suffix and others**
-
-**й Deletion in front of я Suffix and others**
-
-* *кай>А2*
-* *ка0>я*
-
-* *кутыр>А2*
-* *кутыр>а*
-
-**Onset consonant devoicing ж:ш **
-* *авалтымаш%>жы%>ла*
-* *авалтымаш%>шы%>ла*
-
-**Onset consonant devoicing з:с **
-
-**Stem-final consonant loss т**
-
-**Stem-final consonant loss к**
-
-**Stem-final consonant loss н**
-
-* *колхоз*
-* *колхоз*
-
-* *воз2^END*
-* *воч0*
-
-* *воз2>аш*
-* *воз>аш*
-
-* *камвоз2>аш*
-* *камвоз>аш*
-
-* *воз2>са*
-* *воч>са*
-
-**Stem-final consonant variation з2:з**
-
-**Stem-final consonant variation з2:з**
-
-**Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш **
-йӧратымаш+N+Sg+Ine
-* *йӧратымаш%>тЫ2*
-* *йӧратымаш%>те*
-
-**Disallow Sg+Ill in кЫ2 everywhere except after stem-final ш **
-авалтымаш+N+Sg+Ine
-* *авалтымаш%>кЫ2*
-* *авалтымаш%>ке*
-
-**Disallow PxSg3 in ыж no where except after ш **
-* *йолташ%>ыж#*
-* *йолташ%>ыж#*
-* ★*олма%>ыж#* (is not standard language)
-* ★*олма%>ыж#* (is not standard language)
-
-**Disallow PxSg3 in ыж no where except after ш **
-
-**Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs **                                                                                                                                                                           
-
-* *и•мнʼь%{еы%}>A2т*
-* *и0мн000>ят*
-
-* *и* `•` (Eng. м н ʼ ь %{еы%} > A2 т)
-* *и* `0` (Eng. м н 0 0 0 > я т)
-
-* *а*
-* *б*
+* LEXICON K-imprt 
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/phonology.twolc)</small>
-
----
-
-
-# The Meadow and Eastern Mari proper noun lexicon
-
-MARI-LIKE NAMES
-
-PLACE NAMES
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/mhr-propernouns.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/mhr-propernouns.lexc)</small>
-
----
-
-Eastern Mari acronym file
-
-Here is the list of lexicalised Sem/Org acronym proper nouns 
-These are also generated by the Acrogenerator
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/acronyms.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/acronyms.lexc)</small>
-
----
-
-
-
-NOUNS
-
-KIN TERMS
-
-Single-syllable nouns in У Ӱ Ю
-
-VERBS
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/exceptions.lexc)</small>
-
----
-
-
-# Meadow & Eastern Mari numerals 
-
-## The initial lexica
-
-* **LEXICON Numeral**  initial lexica
-
-* **LEXICON ARABIC** arabic numerals
-
-* **LEXICON ARABICLOOP**
-
-* **LEXICON ARABICLOOPORD_Back** ordinals
-
-* **LEXICON ARABICLOOPORD_Front** ordinals
-
-* **LEXICON ARABICLOOPORD_FrontRound** ordinals
-
-* **LEXICON ARABICDELIMITERORD_Back** ordinals
-
-* **LEXICON ARABICDELIMITERORD_Front** ordinals
-
-* **LEXICON ARABICDELIMITERORD_FrontRound** ordinals
-
-The Roman numerals !
------------------- !
-
-* **LEXICON ROMAN**  roman numerals
-
-* **LEXICON ROM-THOUSAND**
-
-* **LEXICON ROM-THOUSAND-TAG**
-
-* **LEXICON ROM-HUNDRED**
-
-* **LEXICON ROM-HUNDRED-TAG**
-
-* **LEXICON ROM-TEN**
-
-* **LEXICON ROM-TEN-TAG**
-
-* **LEXICON ROM-ONE**
-
-* **LEXICON ROM-ONE-TAG**
-
-* **LEXICON ROM-SPLIT**
-
-* **LEXICON 2ROMAN**
-
-* **LEXICON 2ROM-THOUSAND**
-
-* **LEXICON 2ROM-THOUSAND-TAG**
-
-* **LEXICON 2ROM-HUNDRED**
-
-* **LEXICON 2ROM-HUNDRED-TAG**
-
-* **LEXICON 2ROM-TEN**
-
-* **LEXICON 2ROM-TEN-TAG**
-
-* **LEXICON 2ROM-ONE**
-
-* **LEXICON 2ROM-ONE-TAG**
-
-* **LEXICON ROMNUMTAG**
-
-* **LEXICON ARABICCASEORD_Back** ordinals Is this then becoming +Ex/A?
-* **LEXICON ARABICCASEORD_Front** ordinals
-* **LEXICON ARABICCASEORD_FrontRound** ordinals
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/numerals.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/clitics.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/affixes/clitics.lexc)</small>
 
 ---
 
@@ -1970,18 +1554,6 @@ Here starts the Px stuff
 
 ---
 
-# Eastern Mari Clitics
-
-* LEXICON K  
-
-* LEXICON K-imprt 
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/clitics.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/affixes/clitics.lexc)</small>
-
----
-
 # Proper noun inflection
 
 Meadow Mari proper nouns inflect in the same cases as regular
@@ -2104,25 +1676,12 @@ PLACE NAMES FROM TEMPLATE
 
 ---
 
-Adjective inflection
 
-Meadow Mari adjectives
-
-LEXICON A underscore
-
-* LEXICON A-a/e  
-
-* LEXICON A/S-a/e   redirect to A underscore
-
-* LEXICON A/S-VS  redirect to A underscore
-
-* LEXICON A-VS  redirect to A underscore
-
-* LEXICON A/S  redirect to A underscore
+# Symbol affixes
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/affixes/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/affixes/symbols.lexc)</small>
 
 ---
 
@@ -2190,12 +1749,314 @@ These need work 2012-09-21
 
 ---
 
+Divvun & Giellatekno - open source grammars for Sámi and other languages
 
-# Symbol affixes
+A special lexicon for handling proper noun compounding without hyphens
+as that would allow compounding with words explicitly coded to disallow
+such compounds)
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/compounding.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/compounding.lexc)</small>
+
+---
+
+# Eastern Mari twol file
+
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mhr/blob/main/src/fst/phonology.twolc) 
+
+This file contains rules for morphophonological alternations, such as
+vowel harmony, stem vowel changes, palatalisation, etc.
+
+We define our symbols (**Alphabet**), some **Sets**, and then the **Rules**
+
+## Letters of the alphabet
+* а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
+* А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
+
+other symbols
+*    %- 
+
+Archiphonemes for vowels, Giellatekno style
+*   Е1:е а1:а и1:и у1:у ӱ1:ӱ я1:я   
+*  Ы2:е     Variation in еоыӧØ
+*   А1:а    
+*   Е2:е А2:а   
+
+Archiphonemes for vowels, Apertium style
+* %{аы%}:а  Stem-final vowel variation when stress falls on non-final vowel
+* %{аы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{еы%}:е  Stem-final vowel variation when stress falls on non-final vowel
+* %{еы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{оы%}:о  Stem-final vowel variation when stress falls on non-final vowel
+* %{оы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+* %{ӧы%}:ӧ  Stem-final vowel variation when stress falls on non-final vowel
+* %{ӧы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+
+* %{яы%}:я  Stem-final vowel variation when stress falls on non-final vowel
+* %{яы%}:ы  Stem-final vowel variation when stress falls on non-final vowel
+
+* %{еоыӧØ%}:е   PxSg3 final
+* %{еоыӧØ%}:о   PxSg3 final
+* %{еоыӧØ%}:ӧ   PxSg3 final
+* %{еоыӧØ%}:0   PxSg3 final
+* %{еоыӧØ%}:ы   PxSg3 final
+* %{ыØ%}:ы   PxSg3 onset
+* %{ыØ%}:0   PxSg3 onset
+
+* %{ьØ%}:0   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
+
+*  Е1:е  for lative
+
+### Arcihphonemes for consonants
+
+* з2:з   for з:ч, thus  возаш - воч but колхоз (*колхоч)
+* з2:ч   for native stems
+* к2:0   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+* к2:к   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+* н2:0   шинч- шич# "sit down/сесть"
+* н2:н   шинч- шич# "sit down/сесть"
+* т2:0   лект- лек# "leave/ уходить"
+* т2:т   лект- лек# "leave/ уходить"
+
+* %^V2IMPRT:0	 for -ем verbs in й
+* %^END:0		   for -ам verb final, i.e. Imprf
+
+* %^VoTrigger:0   for use with acronyms after hyphen о у ё ю О У Ё Ю
+* %^VeTrigger:0   for use with acronyms after hyphen а е и э я А Е И Э Я
+* %^VOTrigger:0   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+* %^Sonorant:0    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+* %^Obstruent:0  for use with acronyms after hyphen С|Ф|Ъ|Ь
+* %^FrontObstr:0  for use with acronyms after hyphen 
+
+*  %>    
+
+## Sets
+
+* Vo =   о у ё ю О У Ё Ю ;    
+* VO =   ӧ ӱ Ӧ Ӱ;               
+* Ve =   а е и э я А Е И Э Я ;   
+* Vow =  Vo VO Ve ы Ы ;    
+
+* Cns =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
+       з2 к2 н2 т2 ;   
+
+* CnsAll =  б в г д ж з й к л м н ҥ п р с т ф х ц ч ш щ  
+       з2 к2 н2 т2 ;   
+
+* CnsNoj =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш щ   
+          Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш Щ;     
+
+* Cst =  б в г д ж з к п с т ф х ц ч ш щ       
+       Б В Г Д Ж З К П С Т Ф Х Ц Ч Ш Щ;      
+
+* Ltrs = Vow Cns  ъ ь Ъ Ь ;    
+
+* all =  Ltrs  %- ;     
+
+## Rules
+
+**Punctuation bullet as such** This rule prevents deleting of BULLET when it forms a token. BULLET as stress mark is deleted as before.
+
+**Palatal mark loss before vowel** 
+имне+N+Sg+Nom+Foc/Ат
+* *имнь%{еы%}%>А2т*
+* *имн00%>ят*
+витнь>Ы2^END
+
+**Onset vowel loss in suffix after stem vowel**  
+
+**Onset vowel Е2 realized in suffix е**  
+
+**Onset vowel Е2 realized in suffix э**  
+
+**Onset vowel Е2 realized in suffix ZERO**  
+
+**Onset vowel Ы1 realized in suffix**  
+
+**suffix-final vowel loss after stem-final vowel**  
+пуаш+V+Imprt+Sg2
+* *пу>Ы2%^END*
+* *пу>00*
+
+кияш+V+Imprt+Sg2
+* *кий%>Ы2%^END*
+* *ки0%>е0*
+
+**suffix-final vowel loss after stem-final vowel**  
+
+**suffix-final vowel realized as -Round in word-final position е **  
+
+шылаш+V+Imprt+Sg3
+шыл%>жЫ2%^END
+шыл%>же0
+
+**suffix-final vowel realized as +Back +Round in word-final position о **  
+
+* *фрукт>Ы1штЫ2^END*
+* *фрукт>ышто0*
+
+**suffix-final vowel realized as +Front +Round in word-final position ӧ **  
+шӱртняш+V+ConNeg:
+* *шӱртнь%>Ы2%^END*
+* *шӱртнь%>ӧ0*
+
+**remove ʼ mod let apostrophe**
+
+**%{ьØ%}:ь**
+толам+V+Ind+Prt1+Sg1
+* *тол%>%{ьØ%}ым*
+* *тол%>ьым*
+
+**suffix-final vowel realized after stem-final consonant**  
+
+**stem-final vowel realized as -Round in word-final position**  
+
+**stem-final vowel realized as +Back +Round in word-final position**  
+
+**stem-final vowel realized as +Front +Round in word-final position**  
+
+**suffix-final vowel realized %{аы%}:ы **  
+
+**stem-final vowel realized %{аы%}:а**  
+**stem-final vowel realized %{аы%}:а**  
+
+**Stem-final non-stressed vowel loss**
+
+* *а•льф{аы}>А2т*
+* *а0льф0>ат*
+
+**Stem-final non-stressed %{еы%} loss**
+* *киска•лʼь%{еы%}>А2т*
+* *киска•л000>ят*
+* *пятибо•рь%{еы%}>А2т*
+* *пятибо•рье>ат*
+
+**suffix-final vowel realized %{еы%}:ы **  
+имне+N+Sg+PxSg3+Nom horse/hevonen
+* *имнʼь%{еы%}%>жЫ2*
+* *имн0ьы%>же*
+
+**suffix-final vowel realized Ы2:ы **  
+пӧрт+N+Sg+Ine+Foc/ys
+пӧрт%>Ы1штЫ2%>Ы1с%^END
+пӧрт%>ышты%>0с0
+
+**stem-final vowel realized %{еы%}:е**  
+
+**suffix-final vowel realized %{ӧы%}:ы **  
+
+**stem-final vowel realized %{ӧы%}:ӧ**  
+
+**suffix-final vowel realized %{оы%}:ы **  
+
+**stem-final vowel realized %{оы%}:о**  
+
+**suffix-final vowel realized %{яы%}:ы **  
+
+**stem-final vowel realized %{яы%}:я**  
+
+* *башнь%{яы%}*
+* *башн0я*
+
+**stem-internal glide realized in  0:й %{яы%}:ы **
+
+* *а0%{яы%}%>Ы1м*
+* *айы%>0м*
+
+**Clitics in At and Ak take onset glide = a**  
+
+**Clitics in At and Ak take onset glide = ja**  
+когыльо+N+Sg+Nom+Foc/Ат
+* *когыль%{оы%}%>А2т*
+* *когыл00%>ят*
+толаш+V+Ind+Prt1+Sg3+Foc/Ат
+* *тол>{ьØ}Ы2>А2т*
+* *тол>00>ят*
+имне+N+Sg+Nom+Foc/Ат
+* *и•мнʼь%{еы%}>А2т*
+* *и0мн000>ят*
+
+**Clitics in At and Ak take ZERO**
+
+**й Deletion in front of я Suffix and others**  
+
+* *кий>А2ш*
+* *ки0>яш*
+
+**й Deletion in front of я Suffix and others**
+
+**й Deletion in front of я Suffix and others**
+
+* *кай>А2*
+* *ка0>я*
+
+* *кутыр>А2*
+* *кутыр>а*
+
+**Onset consonant devoicing ж:ш **
+* *авалтымаш%>жы%>ла*
+* *авалтымаш%>шы%>ла*
+
+**Onset consonant devoicing з:с **
+
+**Stem-final consonant loss т**
+
+**Stem-final consonant loss к**
+
+**Stem-final consonant loss н**
+
+* *колхоз*
+* *колхоз*
+
+* *воз2^END*
+* *воч0*
+
+* *воз2>аш*
+* *воз>аш*
+
+* *камвоз2>аш*
+* *камвоз>аш*
+
+* *воз2>са*
+* *воч>са*
+
+**Stem-final consonant variation з2:з**
+
+**Stem-final consonant variation з2:з**
+
+**Disallow Sg+Ine in тЫ2 everywhere except after stem-final ш **
+йӧратымаш+N+Sg+Ine
+* *йӧратымаш%>тЫ2*
+* *йӧратымаш%>те*
+
+**Disallow Sg+Ill in кЫ2 everywhere except after stem-final ш **
+авалтымаш+N+Sg+Ine
+* *авалтымаш%>кЫ2*
+* *авалтымаш%>ке*
+
+**Disallow PxSg3 in ыж no where except after ш **
+* *йолташ%>ыж#*
+* *йолташ%>ыж#*
+* ★*олма%>ыж#* (is not standard language)
+* ★*олма%>ыж#* (is not standard language)
+
+**Disallow PxSg3 in ыж no where except after ш **
+
+**Disallow %^V2IMPRT й-final Imprt+Sg2 single-syllable -em verbs **                                                                                                                                                                           
+
+* *и•мнʼь%{еы%}>A2т*
+* *и0мн000>ят*
+
+* *и* `•` (Eng. м н ʼ ь %{еы%} > A2 т)
+* *и* `0` (Eng. м н 0 0 0 > я т)
+
+* *а*
+* *б*
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/phonology.twolc)</small>
 
 ---
 
@@ -2880,6 +2741,122 @@ Here comes a set of ragbag continuation lexica.
 
 ---
 
+Eastern Mari acronym file
+
+Here is the list of lexicalised Sem/Org acronym proper nouns 
+These are also generated by the Acrogenerator
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/acronyms.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/acronyms.lexc)</small>
+
+---
+
+
+
+NOUNS
+
+KIN TERMS
+
+Single-syllable nouns in У Ӱ Ю
+
+VERBS
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/exceptions.lexc)</small>
+
+---
+
+
+# The Meadow and Eastern Mari proper noun lexicon
+
+MARI-LIKE NAMES
+
+PLACE NAMES
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/mhr-propernouns.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/mhr-propernouns.lexc)</small>
+
+---
+
+
+# Meadow & Eastern Mari numerals 
+
+## The initial lexica
+
+* **LEXICON Numeral**  initial lexica
+
+* **LEXICON ARABIC** arabic numerals
+
+* **LEXICON ARABICLOOP**
+
+* **LEXICON ARABICLOOPORD_Back** ordinals
+
+* **LEXICON ARABICLOOPORD_Front** ordinals
+
+* **LEXICON ARABICLOOPORD_FrontRound** ordinals
+
+* **LEXICON ARABICDELIMITERORD_Back** ordinals
+
+* **LEXICON ARABICDELIMITERORD_Front** ordinals
+
+* **LEXICON ARABICDELIMITERORD_FrontRound** ordinals
+
+The Roman numerals !
+------------------ !
+
+* **LEXICON ROMAN**  roman numerals
+
+* **LEXICON ROM-THOUSAND**
+
+* **LEXICON ROM-THOUSAND-TAG**
+
+* **LEXICON ROM-HUNDRED**
+
+* **LEXICON ROM-HUNDRED-TAG**
+
+* **LEXICON ROM-TEN**
+
+* **LEXICON ROM-TEN-TAG**
+
+* **LEXICON ROM-ONE**
+
+* **LEXICON ROM-ONE-TAG**
+
+* **LEXICON ROM-SPLIT**
+
+* **LEXICON 2ROMAN**
+
+* **LEXICON 2ROM-THOUSAND**
+
+* **LEXICON 2ROM-THOUSAND-TAG**
+
+* **LEXICON 2ROM-HUNDRED**
+
+* **LEXICON 2ROM-HUNDRED-TAG**
+
+* **LEXICON 2ROM-TEN**
+
+* **LEXICON 2ROM-TEN-TAG**
+
+* **LEXICON 2ROM-ONE**
+
+* **LEXICON 2ROM-ONE-TAG**
+
+* **LEXICON ROMNUMTAG**
+
+* **LEXICON ARABICCASEORD_Back** ordinals Is this then becoming +Ex/A?
+* **LEXICON ARABICCASEORD_Front** ordinals
+* **LEXICON ARABICCASEORD_FrontRound** ordinals
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/numerals.lexc)</small>
+
+---
+
 
 
 retroflex plosive, voiceless			t`  ʈ	    0288, 648 (` = ASCII 096)
@@ -3239,82 +3216,7 @@ Grammarchecker rules begin here
 ###  Punctuation rules
 
 * * *
-
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-mhr/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
-
----
-
-# Grammar checker tokenisation for mhr
-
-Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
-Then just:
-```
-$ make
-$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-More usage examples:
-```
-$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
-
-Characters which have analyses in the lexicon, but can appear without spaces
-before/after, that is, with no context conditions, and adjacent to words:
-* Punct contains ASCII punctuation marks
-* The symbol after m-dash is soft-hyphen `U+00AD`
-* The symbol following {•} is byte-order-mark / zero-width no-break space
-`U+FEFF`.
-
-Whitespace contains ASCII white space and
-the List contains some unicode white space characters
-* En Quad U+2000 to Zero-Width Joiner U+200d'
-* Narrow No-Break Space U+202F
-* Medium Mathematical Space U+205F
-* Word joiner U+2060
-
-Apart from what's in our morphology, there are
-1) unknown word-like forms, and
-2) unmatched strings
-We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
-* lower-case ASCII
-* upper-case ASCII
-* some cyrillic
-* select extended latin symbols
-* mhr specific alphabest
-ASCII digits
-* select symbols
-
-* Combining diacritics as individual symbols,
-* various symbols from Private area (probably Microsoft),
-so far:
-* U+F0B7 for "x in box"
-
-TODO: Could use something like this, but built-in's don't include šžđčŋ:
-
-Simply give an empty reading when something is unknown:
-hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
-remove empty analyses from other readings. Empty readings are also
-legal in CG, they get a default baseform equal to the wordform, but
-no tag to check, so it's safer to let hfst-tokenise handle them.
-
-Finally we mark as a token any sequence making up a:
-* known word in context
-* unknown (OOV) token in context
-* sequence of word and punctuation
-* URL in context
-
-* * *
-
-<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-mhr/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
-
----
-
-# Tokeniser for mhr
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-mhr/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small># Tokeniser for mhr
 
 Usage:
 ```
@@ -3326,7 +3228,7 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 ```
 
 Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
+<https://github.com/hfst/hfst/wiki/HfstPmatch>
 
 Characters which have analyses in the lexicon, but can appear without spaces
 before/after, that is, with no context conditions, and adjacent to words:
@@ -3445,6 +3347,76 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript](https://github.com/giellalt/lang-mhr/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript)</small>
+
+---
+
+# Grammar checker tokenisation for mhr
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+Then just:
+```
+$ make
+$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+More usage examples:
+```
+$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+Pmatch documentation:
+<https://github.com/hfst/hfst/wiki/HfstPmatch>
+
+Characters which have analyses in the lexicon, but can appear without spaces
+before/after, that is, with no context conditions, and adjacent to words:
+* Punct contains ASCII punctuation marks
+* The symbol after m-dash is soft-hyphen `U+00AD`
+* The symbol following {•} is byte-order-mark / zero-width no-break space
+`U+FEFF`.
+
+Whitespace contains ASCII white space and
+the List contains some unicode white space characters
+* En Quad U+2000 to Zero-Width Joiner U+200d'
+* Narrow No-Break Space U+202F
+* Medium Mathematical Space U+205F
+* Word joiner U+2060
+
+Apart from what's in our morphology, there are
+1) unknown word-like forms, and
+2) unmatched strings
+We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
+* lower-case ASCII
+* upper-case ASCII
+* some cyrillic
+* select extended latin symbols
+* mhr specific alphabest
+ASCII digits
+* select symbols
+
+* Combining diacritics as individual symbols,
+* various symbols from Private area (probably Microsoft),
+so far:
+* U+F0B7 for "x in box"
+
+TODO: Could use something like this, but built-in's don't include šžđčŋ:
+
+Simply give an empty reading when something is unknown:
+hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
+remove empty analyses from other readings. Empty readings are also
+legal in CG, they get a default baseform equal to the wordform, but
+no tag to check, so it's safer to let hfst-tokenise handle them.
+
+Finally we mark as a token any sequence making up a:
+* known word in context
+* unknown (OOV) token in context
+* sequence of word and punctuation
+* URL in context
+
+* * *
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-mhr/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
 
 ---
 

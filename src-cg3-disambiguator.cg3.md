@@ -240,8 +240,6 @@ Infinitives
 
 * **RemN** removes N if N to the right
 
-* **AdjAfterNbeforeEOS** selects A if N to the left and EOS to the right (predicative position)
-
 *_AdjBeforeConjAdj_ selects A if conjuction and A to the right ;
 
 * **AdjNotAdv** removes Adv if N to the right
@@ -367,8 +365,4 @@ Phrases
 * **NoErrOrth**
 
 * * *
-
 <small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/disambiguator.cg3)</small>
-
----
-
