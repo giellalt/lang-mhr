@@ -2,7 +2,7 @@ The Eastern Mari (Meadow and Eastern Mari) morphology and tools
 ==========================================
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mhr)](https://github.com/giellalt/lang-mhr/issues)
-[![Build Status](https://github.com/giellalt/lang-mhr/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mhr/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-mhr/main/badge.svg)](https://github.com/giellalt/lang-mhr/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-mhr)](https://github.com/giellalt/lang-mhr/blob/main/LICENSE)
 
 This repository contains finite state source files for the Eastern Mari language,
