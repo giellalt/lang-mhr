@@ -4,6 +4,8 @@ The Eastern Mari (Meadow and Eastern Mari) morphology and tools
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mhr)](https://github.com/giellalt/lang-mhr/issues)
 [![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-mhr/main/badge.svg)](https://github.com/giellalt/lang-mhr/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-mhr)](https://github.com/giellalt/lang-mhr/blob/main/LICENSE)
+[![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-mhr?platform=desktop&channel=nightly)
+[![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-mhr?platform=mbile&channel=nightly)
 
 This repository contains finite state source files for the Eastern Mari language,
 for building morphological analysers, proofing tools
