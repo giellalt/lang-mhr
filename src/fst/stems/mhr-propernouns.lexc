@@ -4255,7 +4255,7 @@ LEXICON ProperNoun-mhr
 ! but as it is not clear how diminutive forms should be handled there, leaving them here
 ! for now.
 
-
+Авиафар:Авиафар LEXC_PROP_KUDO_MAL "" ;
 
 Айно:Айно LEXC_PROP_KUDO_FEM "Z" ;
 Йоулупукки:Йоулупукки LEXC_PROP_KUDO_MAL "Z" ;
@@ -4308,3 +4308,4 @@ LEXICON ProperNoun-mhr
 Красноуфимск:Красноуфимск LEXC_PROP-PLC_ "" ;
 
 Марийская% правда:Марийская% правда LEXC_PROP-PLC_ "" ;
+
