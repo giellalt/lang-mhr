@@ -2705,6 +2705,7 @@ the following basic word classes:
   NUM-COLL_  ;  
   urj-Cyrl-ProperNouns ;   s
   ProperNoun-mhr ;   specifically Mari names
+  N_NEWWORDS ;   new nouns to be added
 
 Continuation lexica 
 
@@ -2762,10 +2763,6 @@ Single-syllable nouns in У Ӱ Ю
 
 VERBS
 
-NOUNS
-
-PROPER NAMES
-
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/exceptions.lexc)</small>
@@ -2782,6 +2779,20 @@ PLACE NAMES
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/stems/mhr-propernouns.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/mhr-propernouns.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+автор:автор N_ "(eng) /(fin) /(rus) " ;
+
+ADD NOUNS BELOW
+
+PROPER NAMES
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
 
 ---
 

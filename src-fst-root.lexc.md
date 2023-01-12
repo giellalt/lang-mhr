@@ -643,6 +643,7 @@ the following basic word classes:
   NUM-COLL_  ;  
   urj-Cyrl-ProperNouns ;   s
   ProperNoun-mhr ;   specifically Mari names
+  N_NEWWORDS ;   new nouns to be added
 
 Continuation lexica 
 

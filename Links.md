@@ -21,6 +21,7 @@
             * [acronyms.lexc](src-fst-stems-acronyms.lexc.html) ([src](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/acronyms.lexc))
             * [exceptions.lexc](src-fst-stems-exceptions.lexc.html) ([src](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/exceptions.lexc))
             * [mhr-propernouns.lexc](src-fst-stems-mhr-propernouns.lexc.html) ([src](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/mhr-propernouns.lexc))
+            * [nouns_newwords.lexc](src-fst-stems-nouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/nouns_newwords.lexc))
             * [numerals.lexc](src-fst-stems-numerals.lexc.html) ([src](https://github.com/giellalt/lang-mhr/blob/main/src/fst/stems/numerals.lexc))
     * `phonetics/`
         * [txt2ipa.xfscript](src-phonetics-txt2ipa.xfscript.html) ([src](https://github.com/giellalt/lang-mhr/blob/main/src/phonetics/txt2ipa.xfscript))
