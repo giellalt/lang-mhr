@@ -701,6 +701,7 @@ Exceptions ;  !!= * @CODE@
 NUM-COLL_  ;  !!=   @CODE@
 urj-Cyrl-ProperNouns ;  !!=   @CODE@ s
 ProperNoun-mhr ;  !!=   @CODE@ specifically Mari names
+N_NEWWORDS ;  !!=   @CODE@ new nouns to be added
 
 ! wordToNumeral	; !This has been moved to GTLANG/src/transcriptions/numbers.lexc
 

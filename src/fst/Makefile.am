@@ -32,6 +32,7 @@ GT_LEXC_ROOT=$(srcdir)/root.lexc
 GT_LEXC_SRCS_L1_L2=\
 			 stems/abbreviations.lexc \
 			 stems/acronyms.lexc      \
+			 stems/nouns_newwords.lexc      \
 			 stems/numbers.lexc      \
 			 stems/numerals.lexc      \
 			 stems/exceptions.lexc    \

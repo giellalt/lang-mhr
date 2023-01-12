@@ -1,0 +1,25 @@
+!! This is where new words are added as lexc entries before they are 
+!! added to the xml source files.
+!! автор:автор N_ "(eng) /(fin) /(rus) " ;
+
+
+LEXICON N_NEWWORDS
+!test+N:test N_ "(eng) /(fin) /(rus) " ;
+!! ADD NOUNS BELOW
+веельзевул+N:веельзевул N_ ;
+пенгыд+N:пенгыд N_ ;
+динарий+N:динарий N_ ;
+лампыпӱкен+N:лампыпӱкен N_ ;
+диавол+N:диавол N_ ;
+смоква+N: смоква N_ ;
+равви+N:равви N_ ;
+благословит+N:благословит N_ ;
+жертвенник+N:жертвенник N_ ;
+пресвитер+N:пресвитер N_ ;
+старец+N:старец N_ ;
+эллин+N:эллин N_ ;
+кесарий+N:кесарий N_ ;
+
+!! PROPER NAMES
+Воанергес+N:Воанергес N_ ;
+
