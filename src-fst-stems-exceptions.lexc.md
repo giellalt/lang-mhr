@@ -8,6 +8,8 @@ Single-syllable nouns in У Ӱ Ю
 
 VERBS
 
+NOUNS
+
 PROPER NAMES
 
 * * *
