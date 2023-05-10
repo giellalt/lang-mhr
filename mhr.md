@@ -257,6 +257,7 @@ Interr
 Recipr
 Dem
 ABBR
+ACR
 
 ### Adjective comparison tags
 
