@@ -4,17 +4,17 @@ LEXICON QNT_  !!= * @CODE@
 +Qnt: # ;
 
 LEXICON KvMurt !!= * @CODE@
-+Num: N-ava_01 ;
+: N-ava_01 ;
 
 LEXICON KvK !!= * @CODE@ cardinal numerals
-+Num: N-ava_01 ;
+: N-ava_01 ;
 
 LEXICON KvK_ATTR !!= * @CODE@ cardinal numerals in noun phrase scope
-+Num+Attr: # ;
++Attr: # ;
 
 
 LEXICON KvKoll !!= * @CODE@
-+Num: # ;
+: # ;
 
 
 LEXICON NUM-COLL_ !!= * @CODE@

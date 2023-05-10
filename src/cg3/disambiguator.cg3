@@ -140,6 +140,7 @@ LIST Interr = Interr ; #!! Interr
 LIST Recipr = Recipr ; #!! Recipr
 LIST Dem = Dem ;	#!! Dem
 LIST ABBR = ABBR ;	  #!! ABBR
+LIST ACR = ACR ; #!! ACR
 LIST Pron1Sg = "мый" "Мый" ; #SASHA ADDED 3-07-2017
 LIST Pron2Sg = "тый" "Тый" ; #SASHA ADDED 3-07-2017
 LIST Attr = Attr ;
@@ -342,6 +343,7 @@ REMOVE:NotImpWhenWords2 Imprt IF (-1 WORD LINK *-1 BOS BARRIER Imprt);
 #REMOVE:ninfl N-ATTR IF (NOT 1 A OR N + Nom OR ("улаш"));
 #REMOVE:ninfl N-ATTR IF (NOT 1 A OR N + Nom);
 REMOVE:ninfl N-ATTR IF (NOT 1 A OR N OR ("улаш"));
+REMOVE:WhenPoNext N-ATTR IF (1 Po);
 REMOVE:noninfl N + Sg + Nom IF (0 N-ATTR)(1 N-INFL);
 
 
@@ -626,3 +628,10 @@ LIST Hom6 = Hom6 ;
 
 LIST HOM = Hom1 Hom2 Hom3 Hom5 Hom5 Hom6 ;	
 SUBSTITUTE HOM (*) TARGET HOM ;	
+
+REMOVE:NoAttrWhenNSgNom Attr IF (0 (N Sg Nom));
+   # 20230510
+
+REMOVE:NoAcrWhenNSgNom ACR IF (0 (N Sg) OR (N Pl));
+   # 20230510
+   
