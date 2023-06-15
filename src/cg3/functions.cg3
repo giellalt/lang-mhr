@@ -188,7 +188,7 @@ LIST Sem/Sport = Sem/Fruit_Sport Sem/Obj-play_Sport Sem/Sport ;
 LIST Sem/State = Sem/Act_State Sem/Ani_State Sem/Body_Plc_State Sem/Body_State Sem/Domain_State-sick Sem/Feat-phys_Food_State Sem/Group_State Sem/Hum_State Sem/Obj_State Sem/Org_State Sem/Perc-emo_State Sem/Plc-abstr_Rel_State Sem/Plc-abstr_State Sem/Plc_State Sem/Route_State Sem/Semcon_State Sem/State Sem/State-sick Sem/State-sick_Substnc Sem/State_Veh ;
 LIST Sem/State-sick = Sem/Domain_State-sick Sem/State-sick Sem/State-sick_Substnc ;
 LIST Sem/Substnc = Sem/Ani_Substnc Sem/Aniprod_Substnc Sem/Aniprod_Substnc_Wthr Sem/Drink_Plc_Substnc Sem/Food_Substnc Sem/Part_Substnc Sem/Plc_Substnc Sem/Plc_Substnc_Wthr Sem/Prod-audio_Substnc Sem/State-sick_Substnc Sem/Substnc Sem/Substnc_Wthr ;
-LIST Sem/Sur = Sem/Sur (ant cog) ;
+LIST Sem/Sur = Sem/Sur cog ;
 LIST Sem/Symbol = Sem/Obj_Symbol Sem/Symbol ;
 LIST Sem/Time = Sem/Act_Time Sem/Ani_Hum_Time Sem/Ani_Time Sem/Body_Group_Hum_Time Sem/Body_Time Sem/Event_Time Sem/Food_Time Sem/Furn_Time Sem/Group_Hum_Time Sem/Hum_Lang_Time Sem/Measr_Obj_Time Sem/Measr_Plc_Time Sem/Measr_Time Sem/Plant_Time_Wthr Sem/Plc_Time Sem/Plc_Time_Wthr Sem/Time Sem/Time-clock Sem/Time_Wthr  ;
 LIST Sem/Time-clock =  Sem/Time-clock ;
@@ -385,7 +385,7 @@ LIST Der/vuollai = Der/vuollai ;
 LIST Der/vuolde = Der/vuolde ;
 LIST <sma> = <sma> ←sma→ ;
 
-#!! ## Syntactic tags
+#!! !!Syntactic tags
 # --------------
 
 LIST @+FAUXV = @+FAUXV ;  	#!! * @+FAUXV : finite auxiliary verb 
@@ -1242,7 +1242,7 @@ MAP:pcle (@PCLE) TARGET Pcle ;
 MAP:interj (@INTERJ) TARGET Interj ;
 MAP:>P (@>P) TARGET Gen (1 Year_Date LINK 1 Sem/Time LINK 1C Po) ;
 MAP:>P (@>P) TARGET Gen (1 Year_Date LINK 1C Po) ;
-MAP:>P (@>P) TARGET Gen (*1C Po)(NEGATE *-1 @>P BARRIER Po OR SV-BOUNDARY) ;
+MAP:>P (@>P) TARGET Gen (*1C Po BARRIER NOT-NPMOD)(NEGATE *-1 @>P BARRIER Po OR SV-BOUNDARY) ;
 MAP:>Pcoor (@>P) TARGET Gen (1 CC LINK *1 @>P BARRIER NOT-NPMOD) ;
 MAP:>P (@>P) TARGET Gen - TIME-N (NEGATE -1 Pr)(1 Pr LINK 1 Gen) ;
 	#$ Sápmelaččat guđet orrot Norgga bealde Deanu, geavahit seammá gávtti go sápmelaččat Suoma bealde Deanu.
@@ -1258,7 +1258,7 @@ MAP:p<coor (@P<) TARGET Gen (-1 CRD OR COMMA LINK -1 @P<)(NEGATE 1 Gen) ;
 
 LIST JAHKI = "jahke" "jahki" ;
 
-MAP:num< (@Num<) TARGET N OR ("miljovdna")(0 Sg + Gen + (<sme>))(*-1 NUM + Sg + Nom OR NUM + Sg + Acc BARRIER NOT-NPMOD OR Gen OR MEASUREADJS LINK NOT -1 JAHKI)(NEGATE 1 Sg + Gen LINK NOT 0 Sem/Time LINK NOT 1 N)(NEGATE 1 Gen LINK NOT 0 Sem/Time) ; #
+MAP:num< (@Num<) TARGET N OR ("miljovdna")(0 Sg + Gen + (<sme>))(*-1 NUM + Sg + Nom OR NUM + Sg + Acc OR ("máŋga") OR ("galle") BARRIER NOT-NPMOD OR Gen OR MEASUREADJS LINK NOT -1 JAHKI)(NEGATE 1 Sg + Gen LINK NOT 0 Sem/Time LINK NOT 1 N)(NEGATE 1 Gen LINK NOT 0 Sem/Time) ; #
 	#$ Juohke jagi konfirmerejuvvojit sullii 40 000 nuora Norgga girkus.
 	#$ Min ráhkis Ánne deavdá 10 jagi golggotmánu 10. beaivvi.
 	#% Sámi ofelaččat lea fálaldat, mas njeallje sámi nuora logaldallet sámiid birra.
@@ -1323,7 +1323,7 @@ MAP:>nAttr (@>A) TARGET (Indef Attr) (*1 A - Gen OR Ord - Gen BARRIER NOT-NPMOD 
 	#$ Dattetge ii leat muitaluvvon makkárge namahan veara geavahanriiddu birra dálolaččaid ja boazodoalu gaskkas.
 
 #!! * __>nAttr__ (@>N) for Attr; if there is a noun to your right
-MAP:>nAttr (@>N) TARGET Attr (*1 N BARRIER Num OR A - Attr OR Pr OR Ord)  ;
+MAP:>nAttr (@>N) TARGET Attr (*1 N BARRIER Num OR A - Attr OR Pr OR Ord)(NOT 0 ("máŋga") OR ("galle"))  ;
 MAP:>nAttr (@>N) TARGET Ord + Ess (1 N + Ess OR Superl)  ;
 MAP:>nAttr (@>N) TARGET ("nubbi") + Ess (1 ("jođiheaddji"))  ;
 	#% Ledjego hilbadat mánát?
@@ -1342,7 +1342,7 @@ MAP:n>Indef (@>N) TARGET Indef + Nom  (1 N + Nom) (0 <sma>) ;
 
 #!! * __>nNum__ (@>N) for numerals if; there is a noun to your right. You are not allowed to be (Sg Nom), (Sg Acc) or (Sem/Date)
 MAP:>nNum (@>N) TARGET Num + (Sg Nom) - Year_Date (0 <sma> LINK *1 N BARRIER NOT-A OR MEASUREADJS OR Num)  ;
-MAP:>nNum (@>N) TARGET Num - (Sg Nom) - Year_Date OR ("moanat") (*1 N BARRIER NOT-A OR MEASUREADJS OR Num)(NOT 0 Loc OR Ill)   ;
+MAP:>nNum (@>N) TARGET Num - (Sg Nom) - Year_Date OR ("moanat") OR ("máŋga") OR ("galle") (*1 N BARRIER NOT-A OR MEASUREADJS OR Num)(NOT 0 Loc OR Ill)   ;
 	#$ Juos mearriduvvo meahcceeatnamiid nuppástuvvan geavaheapmi golmma ja dušše golmma stivrralahtu doarjagiin ja olles uhcitlohku vuođđudallá oainnus sámi kultuvrra, boazodoalu, meahcásteami, ealáhusdoaimmaheami ja servodateallima destii mii lea árvvoštallojuvvon Sámedikki válddahusaid vuođul, de sáhttá uhcitlohku ovtta oli stivrračoahkkima áigge gáibidit ášši Sámedikki gieđahallamii.
 
 MAP:>n>sasj (@>A) TARGET Num (1 MEASUREADJS)(2 N);
@@ -2707,7 +2707,7 @@ MAP:leftoversX (@X) TARGET WORD ;
 
 
 
-#!! ## For Apertium:
+#!! !!For Apertium:
 #!! The analysis give double analysis because of optional semtags. We go for the one with semtag.
 
 SELECT SEMTAGS + N ;
