@@ -13,7 +13,7 @@ LEFT RIGHT because of apertium
 
 * Sets for Morphosyntactic properties
 
-## Syntactic tags
+!!Syntactic tags
 
 * @+FAUXV : finite auxiliary verb 
 ** ferte: Son ferte oaidnit ollislaš gova. - She must see the whole picture.
@@ -463,7 +463,7 @@ These were the set types.
 
 ! __therestX__ adds @X to all what is left, often errouneus disambiguated forms
 
-## For Apertium:
+!!For Apertium:
 The analysis give double analysis because of optional semtags. We go for the one with semtag.
 
 * * *
