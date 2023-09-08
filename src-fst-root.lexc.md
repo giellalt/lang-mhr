@@ -270,6 +270,8 @@ for MT generation not to pop up elsewhere
 * **+Use/Disamb** means that the following is only used in the analyser feeding the disambiguator
 * **+Use/GC** only retained in the HFST Grammar Checker disambiguation analyser
 * **+Use/-PMatch** Do not include in fsts made for hfst-pmatch
+* **+Use/TTS** – **only** retained in the HFST Text-To-Speech disambiguation tokeniser
+* **+Use/-TTS** – **never** retained in the HFST Text-To-Speech disambiguation tokeniser
 * **+MWESplit** Split point for MWE
 
 * **+Err/Orth** = orthographical error (analysed, not accepted in speller)
