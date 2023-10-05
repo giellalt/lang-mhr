@@ -4,19 +4,21 @@
 # hacks. The script is language specific.
 
 # POS tags changes:
-[ "+Ex/Adv"  <- "+Adv" ,
-  "+Ex/N"    <- "+N"   ,
-  "+Ex/A"    <- "+A"   ,
-  "+Ex/Attr" <- "+Attr",
-  "+Ex/V"    <- "+V"   ||
+[ "+Ex/Adv" <- "+Adv" ,
+  "+Ex/N"   <- "+N"   ,
+  "+Ex/A"   <- "+A"   ,
+  "+Ex/V"   <- "+V"   ||
 # change always and only when followed by a derivation:
   _ \[ "+Cmp" ]*
-       [ "+Der"
-       | "+Der1"
-       | "+Der2"
-       | "+Der3"
-       | "+Der4"
-       | "+Der5"
+       [ "+Der/Caus"
+       | "+Der/MWN"
+       | "+Der/Nom"
+       | "+Der/NomNeg"
+       | "+Der/Pur"
+       | "+Der/Poss"
+       | "+Der/Priv"
+       | "+Der/Refl"
+       | "+Der/Rel"
        ]
 ] .o.
 
@@ -24,7 +26,7 @@
 [ "+Ex/TV" <- "+TV" ,
   "+Ex/IV" <- "+IV" ||
 # change only within the same stem, and only when followed by
-# a verbal derivation:
+# a derivation:
   _ \[ "+Cmp" ]*
        [ "+TV"
        | "+IV"
