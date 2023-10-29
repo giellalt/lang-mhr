@@ -726,6 +726,8 @@ These were the set types.
 
 * __habGenQst__ (<hab> @<ADVL) hab for Gen; in a question sentence. Gen is located sentence initially and SUBJ is found to the right. To the right of SUBJ is copulas
 
+* __habRefl__ # with inf
+
 * __n<titel1__ (@N<) for ("jr") or ("sr"); if first one to the left is Prop
 
 * __n<titel2__ (@N<) for INITIAL; if first one to the left is a noun, or if to the left of you is a single letter which is part of a noun conjunction ''bustávas e ja f gáibiduvvo''
