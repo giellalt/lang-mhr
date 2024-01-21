@@ -58,7 +58,7 @@ These need work 2012-09-21
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/affixes/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/affixes/verbs.lexc)</small>
 
 ---
 

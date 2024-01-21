@@ -6,7 +6,7 @@ such compounds)
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/compounding.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/compounding.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/compounding.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/compounding.lexc)</small>
 
 ---
 
