@@ -1,6 +1,10 @@
-# Eastern Mari description 
+# Eastern Mari language model documentation
 
-All documents in one file
+All doc-comment documentation in one large file.
+
+---
+
+# src-cg3-dependency.cg3.md 
 
 
 # C O M M O N  S Á M I  D E P E N D E N C Y   G R A M M A R
@@ -153,7 +157,14 @@ Correction rules
 **lgRemove** removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
 
 * * *
+
 <small>This (part of) documentation was generated from [src/cg3/dependency.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/dependency.cg3)</small>
+
+---
+
+# src-cg3-disambiguator.cg3.md 
+
+
 
 This is the Eastern Mari disambiguation file. It chooses
 the correct morphological analyses in any given sentence context.
@@ -521,7 +532,14 @@ Phrases
 * **NoErrOrth**
 
 * * *
+
 <small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/disambiguator.cg3)</small>
+
+---
+
+# src-cg3-functions.cg3.md 
+
+
 S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
 
 Sámi language technology project 2003-2018, University of Tromsø #
@@ -992,7 +1010,14 @@ These were the set types.
 The analysis give double analysis because of optional semtags. We go for the one with semtag.
 
 * * *
+
 <small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/functions.cg3)</small>
+
+---
+
+# src-cg3-korp.cg3.md 
+
+
 S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
 
 Sámi language technology project 2003-2014, University of Tromsø # 
@@ -1007,7 +1032,14 @@ Here we remove semantic tags for all other words than
 proper nouns.  
 
 * * *
-<small>This (part of) documentation was generated from [src/cg3/korp.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/korp.cg3)</small>Adjective inflection
+
+<small>This (part of) documentation was generated from [src/cg3/korp.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/korp.cg3)</small>
+
+---
+
+# src-fst-morphology-affixes-adjectives.lexc.md 
+
+Adjective inflection
 
 Meadow Mari adjectives
 
@@ -1029,6 +1061,8 @@ LEXICON A underscore
 
 ---
 
+# src-fst-morphology-affixes-clitics.lexc.md 
+
 # Eastern Mari Clitics
 
 * LEXICON K  
@@ -1040,6 +1074,8 @@ LEXICON A underscore
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/clitics.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/affixes/clitics.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-nouns.lexc.md 
 
 # Noun inflection
 Meadow Mari noun inflection
@@ -1485,6 +1521,8 @@ Here starts the Px stuff
 
 ---
 
+# src-fst-morphology-affixes-numbers.lexc.md 
+
 # East Mari Numeral inflection
 
 * LEXICON QNT_  
@@ -1508,6 +1546,8 @@ Here starts the Px stuff
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/numbers.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/affixes/numbers.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-pronouns.lexc.md 
 
 # Eastern Mari pronoun inflection
 
@@ -1556,6 +1596,8 @@ Here starts the Px stuff
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/pronouns.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/affixes/pronouns.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-propernouns.lexc.md 
 
 # Proper noun inflection
 
@@ -1679,6 +1721,8 @@ PLACE NAMES FROM TEMPLATE
 
 ---
 
+# src-fst-morphology-affixes-symbols.lexc.md 
+
 
 # Symbol affixes
 
@@ -1687,6 +1731,8 @@ PLACE NAMES FROM TEMPLATE
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/symbols.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/affixes/symbols.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-verbs.lexc.md 
 
 
 Meadow Mari verb inflection.
@@ -1752,6 +1798,8 @@ These need work 2012-09-21
 
 ---
 
+# src-fst-morphology-compounding.lexc.md 
+
 Divvun & Giellatekno - open source grammars for Sámi and other languages
 
 A special lexicon for handling proper noun compounding without hyphens
@@ -1763,6 +1811,8 @@ such compounds)
 <small>This (part of) documentation was generated from [src/fst/morphology/compounding.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/compounding.lexc)</small>
 
 ---
+
+# src-fst-morphology-phonology.twolc.md 
 
 # Eastern Mari twol file
 
@@ -2062,6 +2112,8 @@ Archiphonemes for vowels, Apertium style
 <small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/phonology.twolc)</small>
 
 ---
+
+# src-fst-morphology-root.lexc.md 
 
 
 # Morphology
@@ -2747,6 +2799,8 @@ Here comes a set of ragbag continuation lexica.
 
 ---
 
+# src-fst-morphology-stems-acronyms.lexc.md 
+
 Eastern Mari acronym file
 
 Here is the list of lexicalised Sem/Org acronym proper nouns 
@@ -2757,6 +2811,8 @@ These are also generated by the Acrogenerator
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/acronyms.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/stems/acronyms.lexc)</small>
 
 ---
+
+# src-fst-morphology-stems-exceptions.lexc.md 
 
 
 
@@ -2774,6 +2830,8 @@ VERBS
 
 ---
 
+# src-fst-morphology-stems-mhr-propernouns.lexc.md 
+
 
 # The Meadow and Eastern Mari proper noun lexicon
 
@@ -2786,6 +2844,8 @@ PLACE NAMES
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/mhr-propernouns.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/stems/mhr-propernouns.lexc)</small>
 
 ---
+
+# src-fst-morphology-stems-nouns_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
@@ -2800,6 +2860,8 @@ PROPER NAMES
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/stems/nouns_newwords.lexc)</small>
 
 ---
+
+# src-fst-morphology-stems-numerals.lexc.md 
 
 
 # Meadow & Eastern Mari numerals 
@@ -2876,6 +2938,8 @@ The Roman numerals !
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
 
 ---
+
+# src-fst-phonetics-txt2ipa.xfscript.md 
 
 
 
@@ -3044,6 +3108,8 @@ retracted tongue root			_q
 
 ---
 
+# src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
+
 
 
 We describe here how abbreviations are in Eastern Mari are read out, e.g.
@@ -3063,6 +3129,8 @@ For example:
 <small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 
 ---
+
+# tools-grammarcheckers-grammarchecker.cg3.md 
 
 
 M E A D O W   M A R I   G R A M M A R   C H E C K E R
@@ -3236,7 +3304,14 @@ Grammarchecker rules begin here
 ###  Punctuation rules
 
 * * *
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-mhr/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small># Tokeniser for mhr
+
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-mhr/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
+
+---
+
+# tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
+
+# Tokeniser for mhr
 
 Usage:
 ```
@@ -3301,6 +3376,8 @@ Finally we mark as a token any sequence making up a:
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-mhr/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
 
 ---
+
+# tools-tokenisers-tokeniser-disamb-gt-desc.thirties.pmscript.md 
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
@@ -3369,6 +3446,8 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript](https://github.com/giellalt/lang-mhr/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript)</small>
 
 ---
+
+# tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
 
 # Grammar checker tokenisation for mhr
 
@@ -3440,6 +3519,8 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
+# tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
+
 # TTS tokenisation for smj
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
@@ -3501,6 +3582,3 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-tts-cggt-desc.pmscript](https://github.com/giellalt/lang-mhr/blob/main/tools/tokenisers/tokeniser-tts-cggt-desc.pmscript)</small>
-
----
-

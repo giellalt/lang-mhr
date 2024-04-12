@@ -679,6 +679,3 @@ Here comes a set of ragbag continuation lexica.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-mhr/blob/main/src/fst/morphology/root.lexc)</small>
-
----
-
