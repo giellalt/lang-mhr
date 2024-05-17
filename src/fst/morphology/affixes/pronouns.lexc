@@ -169,30 +169,30 @@ LEXICON PRON_ !!= * @CODE@
 !+Pron: K ;
 
 LEXICON PronRes !!= * @CODE@
-+Pron+Recipr+Acc:%>м K_at ;
-+Pron+Recipr+Dat:%>лан K_at ;
-+Pron+Recipr+Gen:%>н K_at ;
-+Pron+Recipr+Der/Poss:%>н N-ava_01_obl ;
-+Pron+Recipr+Nom: K_at ;
-+Pron+Recipr+Nom+PxSg3:%>ж ENDLEX ;
-+Pron+Recipr+Acc+PxPl1:%>нам K_at ;
-+Pron+Recipr+Dat+PxPl1:%>налан K_at ;
-+Pron+Recipr+Dat+PxPl1+Use/NG:%>ланна K_at ;
-+Pron+Recipr+Gen+PxPl1:%>нан K_at ;
-+Pron+Recipr+PxPl1+Der/Poss:%>нан N-ava_01_obl ;
-+Pron+Recipr+Nom+PxPl1:%>на K_at ;
-+Pron+Recipr+Acc+PxPl2:%>дам K_at ;
-+Pron+Recipr+Dat+PxPl2:%>далан K_at ;
-+Pron+Recipr+Dat+PxPl2+Use/NG:%>ланда K_at ;
-+Pron+Recipr+Gen+PxPl2:%>дан K_at ;
-+Pron+Recipr+PxPl2+Der/Poss:%>дан N-ava_01_obl ;
-+Pron+Recipr+Nom+PxPl2:%>да K_at ;
-+Pron+Recipr+Acc+PxPl3:%>Ы1штым K_at ;
-+Pron+Recipr+Dat+PxPl3:%>Ы1штлан K_at ;
-+Pron+Recipr+Dat+PxPl3+Use/NG:%>ланышт K_at ;
-+Pron+Recipr+Gen+PxPl3:%>Ы1штын K_at ;
-+Pron+Recipr+PxPl3+Der/Poss:%>Ы1штын N-ava_01_obl ;
-+Pron+Recipr+Nom+PxPl3:%>Ы1шт K_at ;
++Recipr+Acc:%>м K_at ;
++Recipr+Dat:%>лан K_at ;
++Recipr+Gen:%>н K_at ;
++Recipr+Der/Poss:%>н N-ava_01_obl ;
++Recipr+Nom: K_at ;
++Recipr+Nom+PxSg3:%>ж ENDLEX ;
++Recipr+Acc+PxPl1:%>нам K_at ;
++Recipr+Dat+PxPl1:%>налан K_at ;
++Recipr+Dat+PxPl1+Use/NG:%>ланна K_at ;
++Recipr+Gen+PxPl1:%>нан K_at ;
++Recipr+PxPl1+Der/Poss:%>нан N-ava_01_obl ;
++Recipr+Nom+PxPl1:%>на K_at ;
++Recipr+Acc+PxPl2:%>дам K_at ;
++Recipr+Dat+PxPl2:%>далан K_at ;
++Recipr+Dat+PxPl2+Use/NG:%>ланда K_at ;
++Recipr+Gen+PxPl2:%>дан K_at ;
++Recipr+PxPl2+Der/Poss:%>дан N-ava_01_obl ;
++Recipr+Nom+PxPl2:%>да K_at ;
++Recipr+Acc+PxPl3:%>Ы1штым K_at ;
++Recipr+Dat+PxPl3:%>Ы1штлан K_at ;
++Recipr+Dat+PxPl3+Use/NG:%>ланышт K_at ;
++Recipr+Gen+PxPl3:%>Ы1штын K_at ;
++Recipr+PxPl3+Der/Poss:%>Ы1штын N-ava_01_obl ;
++Recipr+Nom+PxPl3:%>Ы1шт K_at ;
 
 
 LEXICON PronI !!= * @CODE@
@@ -211,7 +211,7 @@ LEXICON PRON-INTERR/REL_
 
 
 LEXICON PronInd !!= * @CODE@
-+Pron+Ind: K_at  ;
++Ind: K_at  ;
 
 LEXICON PRON-INDEF !!= * @CODE@
 +Indef+Acc:%>Ы1м K_at ;
@@ -260,8 +260,8 @@ LEXICON KAZHNE !!= * @CODE@
 +Dat+PxPl3+So/PC:кажныштлан K_at ;
 
 LEXICON PronDem !!= * @CODE@
-+Pron+Dem: # ;
++Dem: # ;
 
 LEXICON PronRef !!= * @CODE@
-+Pron+Refl: # ;
++Refl: # ;
 
