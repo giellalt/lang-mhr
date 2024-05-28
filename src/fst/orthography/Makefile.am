@@ -34,3 +34,4 @@ standard-to-thirties.compose.hfst: thirties-to-standard.compose.hfst
 
 # General build rules included from here:
 include $(top_srcdir)/../giella-core/am-shared/src-orthography-dir-include.am
+include $(top_srcdir)/../giella-core/am-shared/devtest-include.am
