@@ -74,15 +74,13 @@ Check whether +Orth/Colloq is orthographically wrong
 
 * LEXICON CYRL-A_SUR 
 
-* LEXICON PROP_KIT_SUR 
+* LEXICON PROP_KAL_SUR 
 
 * LEXICON PROP_KUDO_SUR 
 
 * LEXICON PROP_KAL_MAL 
 
 * LEXICON PROP_LAK_MAL 
-
-* LEXICON PROP_KIT_MAL 
 
 * LEXICON PROP_OSH_MAL 
 
@@ -98,8 +96,6 @@ Check whether +Orth/Colloq is orthographically wrong
 
 * LEXICON PROP_KAL_FEM 
 
-* LEXICON PROP_KIT_FEM 
-
 * LEXICON PROP_OSH_FEM 
 
 * LEXICON PROP_KUDO_FEM 
@@ -107,12 +103,6 @@ Check whether +Orth/Colloq is orthographically wrong
 * LEXICON LEXC_PROP_KUDO_FEM 
 
 PLACE NAMES FROM TEMPLATE 
-
-* LEXICON PROP-PLC_KAL 
-
-* LEXICON PROP-PLC_KIT 
-
-* LEXICON PROP-PLC_KUDO 
 
 * * *
 

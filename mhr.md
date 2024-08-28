@@ -542,7 +542,7 @@ Phrases
 
 S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
 
-Sámi language technology project 2003-2018, University of Tromsø #
+Sámi language technology project 2003-2024, University of Tromsø #
 
 This file adds syntactic functions. It is common for all the Saami
 
@@ -990,7 +990,7 @@ These were the set types.
 
 !!SUBJ MAPPING - leftovers
 
-* __subj>ifV__ (@SUBJ>) for NP-HEAD-NOM, DUPRON or (Num Nom) if; a finite mainverb is found to the right. This is a cleanup rule for subjects
+* __subj>ifV__ (@SUBJ>) for NP-HEAD-NOM, DUPRON or  Num + Nom  if; a finite mainverb is found to the right. This is a cleanup rule for subjects
 
 * __hnoun>ifV__ (@SUBJ>) for NP-HEAD-NOM, DUPRON if. The counterpart of subj>ifV. You are HNOUN if there is a finite verb to your right, but NOT if there is a finite verb after a relative clause
 
@@ -1675,15 +1675,13 @@ Check whether +Orth/Colloq is orthographically wrong
 
 * LEXICON CYRL-A_SUR 
 
-* LEXICON PROP_KIT_SUR 
+* LEXICON PROP_KAL_SUR 
 
 * LEXICON PROP_KUDO_SUR 
 
 * LEXICON PROP_KAL_MAL 
 
 * LEXICON PROP_LAK_MAL 
-
-* LEXICON PROP_KIT_MAL 
 
 * LEXICON PROP_OSH_MAL 
 
@@ -1699,8 +1697,6 @@ Check whether +Orth/Colloq is orthographically wrong
 
 * LEXICON PROP_KAL_FEM 
 
-* LEXICON PROP_KIT_FEM 
-
 * LEXICON PROP_OSH_FEM 
 
 * LEXICON PROP_KUDO_FEM 
@@ -1708,12 +1704,6 @@ Check whether +Orth/Colloq is orthographically wrong
 * LEXICON LEXC_PROP_KUDO_FEM 
 
 PLACE NAMES FROM TEMPLATE 
-
-* LEXICON PROP-PLC_KAL 
-
-* LEXICON PROP-PLC_KIT 
-
-* LEXICON PROP-PLC_KUDO 
 
 * * *
 
