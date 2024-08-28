@@ -6,7 +6,7 @@
 # ==================================================================== #
 # ====================================================================
 
-#!!  Sámi language technology project 2003-2018, University of Tromsø #
+#!!  Sámi language technology project 2003-2024, University of Tromsø #
 
 #!! This file adds syntactic functions. It is common for all the Saami
 ##! languages, so far for sma, sme, smj, sje.
@@ -951,7 +951,7 @@ SET NOT-INITIAL-CC = WORD - INITIAL - CC ;
 #!! * Border sets and their complements
 # ---------------------------------
 
-SET CP = (Pron Interr) OR (Pron Rel) OR MO ;
+SET CP = (Pron Interr) OR  Rel OR MO ;
 
 LIST BOUNDARYSYMBOLS =  "\;" ":" "-" "–" ;
 
@@ -1089,7 +1089,7 @@ MAP:hab3 (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE - Attr
 #(NEGATE 0 HAB-ACTOR-NOT-HUMAN LINK *1 HUMAN OR A + Nom BARRIER (N Nom))
 (NEGATE 0 (Sem/Ani_Group) LINK *1 Sem/Ani BARRIER (N Nom))
 (NEGATE 0 (Sem/Group_Hum) LINK *1 Sem/Hum BARRIER (N Nom))
-(NEGATE 0 N OR Pers OR Indef LINK *-1 HAB-ACTOR + HAB-CASE BARRIER NOT-NPMOD-ACC OR CC)
+(NEGATE 0 N OR Pers OR Indef LINK *-1 HAB-ACTOR + HAB-CASE BARRIER NOT-NPMOD-ACC OR CC OR COMMA)
 (NEGATE -1 Num LINK -1 Num)
 (NEGATE -1 Num LINK -1 Dem LINK -1 Num)
 (*1 LEAT + HAB-V-TAGS BARRIER NOT-ADV-PCLE LINK *1 Nom BARRIER S-BOUNDARY)
@@ -1305,7 +1305,7 @@ MAP:n<titel2 (@N<) TARGET INITIAL ((-1 N) OR (-1 CC LINK -1 INITIAL LINK -1 N))(
 MAP:n<:com (@N<) TARGET (Sg Com)(-1 Coll) ;
 	#$ Mun oidnen Ándde-guovtto Ristiinnáin.
 
-MAP:n< (@N<) TARGET (Num Nom) ((-1 JAHKI OR ("diibmu") OR ("dii" Adv) OR ("árvosátni") OR Sem/Route OR (".*geaidnu"r)) OR (-1 Sem/Sur LINK 2 (":"))) ;
+MAP:n< (@N<) TARGET  Num + Nom  ((-1 JAHKI OR ("diibmu") OR ("dii" Adv) OR ("árvosátni") OR Sem/Route OR (".*geaidnu"r)) OR (-1 Sem/Sur LINK 2 (":"))) ;
 MAP:>nSplitR (@>N) TARGET Cmp/SplitR ;
 MAP:govus< (@N<) TARGET Arab (0 Nom OR Gen LINK -1 GOVUS) ;
 	#$ Dát sulastahttá govvosis 3 govviduvvon gurut beali dili.
@@ -1408,7 +1408,7 @@ MAP:>nTime (@>N) TARGET TIME-N + Gen (*1 TIME-N BARRIER NOT-NPMOD OR A OR CC)(NE
 	#% Akten biejjien njoktjen ...
 	
 MAP:>n (@>A) TARGET TIME-N + Gen (1 Ord LINK 1 TIME-N)(NEGATE 0 OKTA + Nom LINK *1 (N Pl Loc) BARRIER NOT-NPMOD)(NEGATE 0 Gen LINK 1 CC LINK 1 Gen LINK 1 Po) ;
-MAP:>n (@>N) TARGET $$CASE (0 Dem OR Num + Acc OR OKTA OR ("buorre" A) LINK *1 $$CASE + N BARRIER NOT-NPMOD) ;
+MAP:>n (@>N) TARGET $$CASE (0 Dem OR Num + Acc OR OKTA OR ("buorre" A) OR ("gaajhkesh") OR ("gaajhke") LINK *1 $$CASE + N BARRIER NOT-NPMOD) ;
 	#$ Pluppe tjuara dam rovnegs tjoevkem vuartasjidh guktie buelieminie.
 
 MAP:>nTimeGenPo (@>N) TARGET TIME-N + Gen (1 Gen LINK 1 Po) ;
@@ -1516,7 +1516,7 @@ MAP:BOSvoc (@VOC) TARGET HUMAN + Nom IF (-1 BOS OR REAL-CLB)(1 COMMA LINK NEGATE
 	#$ Ustiban, in mun daga dutnje vearrut.
 
 
-MAP:app<n (@APP-N<) TARGET (Num Nom) IF (-1 (Prop Sem/Sur Nom) LINK -1 ("\("))(1 COMMA LINK 1 ("s") LINK 1 CARDINALS LINK 1 ("\)"));
+MAP:app<n (@APP-N<) TARGET  Num + Nom  IF (-1 (Prop Sem/Sur Nom) LINK -1 ("\("))(1 COMMA LINK 1 ("s") LINK 1 CARDINALS LINK 1 ("\)"));
 	#$ (Simonsen 1959, s. 45)
 
 MAP:app<n (@APP-N<) TARGET ("samas.no") (-1 Sem/Org)  ;
@@ -1529,7 +1529,7 @@ MAP:r287 (@APP-N<) TARGET (N Nom) IF (*-1 COMMA BARRIER APP-BOUNDARY OR CC LINK 
 MAP:r288 (@APP-Pron<) TARGET (N Nom) IF (*-1 COMMA BARRIER APP-BOUNDARY OR CC LINK -1 (Pron Nom))(1 EOS) ;
 MAP:r289 (@APP-Pron<) TARGET (N Nom) IF (*-1 COMMA BARRIER APP-BOUNDARY OR CC LINK -1 (Pron Nom))(1 COMMA LINK 1 S-BOUNDARY) ;
 	#$ Mon lean Will Turner, Sáppatbátti Turnera bárdni!
-MAP:app-pron< (@APP-Pron<) TARGET $$CASE - Gen (0 N LINK -1 $$CASE + Pers)(1 VFIN) ;
+MAP:app-pron< (@APP-Pron<) TARGET $$CASE - Gen (0 N LINK NOT 0 (<sma>) LINK -1 $$CASE + Pers)(1 VFIN) ;
 	#$ Ja moai boazodoalloáirasat áigguime vaikko guovttá joatkit barggu.
 
 MAP:r290 (@APP-N<) TARGET (N Acc) - TIME-N IF (*-1 (N Acc) - @>N OR (A Acc) - @>N BARRIER APP-BOUNDARY OR CC OR (N Nom) LINK NEGATE *-1 COMMA BARRIER APP-BOUNDARY OR CC)(1 EOS) ;
@@ -1776,7 +1776,7 @@ MAP:<extQst2 (<ext> @<SUBJ) TARGET Nom - NOT-EXT (*-1 LEAT + HAB-V-TAGS BARRIER 
 	#$ Ledje muhtin čiegusvuođat, nu ahte in dieđe juste mo sii dahke, muhto geavahedje goit gunaid spárttuid vuostá ja bihka eksema vuostá.
 
 #!! * __extQst3>__ (<ext> @SUBJ>) for Nom; if habitive first one to the left, followed by copulas.
-MAP:extQst3> (<ext> @SUBJ>) TARGET Nom IF (1 <hab> LINK 1 COPULAS)(NEGATE 1 (Pron Rel))(NEGATE 1 <hab> LINK 1 COPULAS LINK 1 FMAINV) ;
+MAP:extQst3> (<ext> @SUBJ>) TARGET Nom IF (1 <hab> LINK 1 COPULAS)(NEGATE 1  Rel)(NEGATE 1 <hab> LINK 1 COPULAS LINK 1 FMAINV) ;
 	#$ Mii dus lea?
 	#$ Man uhccán osku dus lea!
 	#$ Sii muitalit oahpaheaddjái makkár barggut sis leat siiddas.
@@ -1793,8 +1793,8 @@ MAP:<extsubjcoor (<ext> @<SUBJ) TARGET Nom - NOT-EXT - Pron (*-1 (CC @CNP) OR Ne
 
 #!! * Sem/Year
 MAP:Year (@N<) TARGET (Sem/Year Nom) (-1 (Sem/Sur Nom)) ;
-MAP:Year (@N<) TARGET (Sem/Year Nom) (-1 COMMA LINK *-1 (Sem/Sur Nom) BARRIER WORD - (Num Nom)) ;
-MAP:Year (@Num<) TARGET (Num Nom) (*-1 (":") BARRIER WORD - Num LINK -1 (Sem/Year Nom) LINK *-1 (Sem/Sur Nom) BARRIER WORD - (Num Nom)) ;
+MAP:Year (@N<) TARGET (Sem/Year Nom) (-1 COMMA LINK *-1 (Sem/Sur Nom) BARRIER WORD -  Num + Nom ) ;
+MAP:Year (@Num<) TARGET  Num + Nom  (*-1 (":") BARRIER WORD - Num LINK -1 (Sem/Year Nom) LINK *-1 (Sem/Sur Nom) BARRIER WORD -  Num + Nom ) ;
 MAP:Sur (@<ADVL) TARGET Sem/Sur + Nom (-1 (":") OR LEFT OR (";") LINK 2 Sem/Year + Nom) ;
 	#$ Nu lea ášši (Magga 2001; Johansen 1992).
 	#$ Oaivevearbbat ja koloratiivavearbbat gávdnojit maid davvisámegiela sátnegirjjiin (Sammallahti 1989, 1993; Vest 1995).
@@ -2034,8 +2034,8 @@ MAP:subjCoorTEST (@SUBJ>) TARGET Nom IF ((1 CC OR COMMA LINK *1 @SUBJ> - Rel BAR
 
 MAP:subjCoorTEST (@<SUBJ) TARGET Nom IF ((1 CC OR COMMA LINK *1 @<SUBJ BARRIER NOT-NPMOD) OR (*-1 CC BARRIER NOT-NPMOD OR CC LINK -1 @<SUBJ)) ;
 
-MAP:subj>Num (@SUBJ>) TARGET (Num Nom) (*1 (N Sg Gen) BARRIER NOT-A LINK *1 VFIN + Pl3 BARRIER NOT-ADV-PCLE) ;
-MAP:<subjNum (@<SUBJ) TARGET (Num Nom) (*1 (N Sg Gen) BARRIER NOT-A)(*-1 VFIN + Pl3 BARRIER Nom OR S-BOUNDARY) ;
+MAP:subj>Num (@SUBJ>) TARGET  Num + Nom  (*1 (N Sg Gen) BARRIER NOT-A LINK *1 VFIN + Pl3 BARRIER NOT-ADV-PCLE) ;
+MAP:<subjNum (@<SUBJ) TARGET  Num + Nom  (*1 (N Sg Gen) BARRIER NOT-A)(*-1 VFIN + Pl3 BARRIER Nom OR S-BOUNDARY) ;
 
 #MAP:subj>Coor2 (@SUBJ>) TARGET Nom (*-1 CC BARRIER NOT-NPMOD LINK -1 @SUBJ>)(*1 VFIN + Pl3 OR VFIN + Du3 BARRIER NOT-ADV-PCLE) ;
 #MAP:<subjCoor1 (@<SUBJ) TARGET Nom IF (1 CC LINK *1 Nom BARRIER NOT-NPMOD)(*-1 VFIN + Pl3 OR VFIN + Du3 BARRIER NOT-ADV-PCLE LINK NEGATE *-1 Nom BARRIER NOT-ADV-PCLE) ;
@@ -2648,10 +2648,10 @@ MAP:Superlheadliner (@HNOUN) TARGET Superl (NEGATE 0 VFIN)(*-1 BOS BARRIER WORD)
 
 
 #!! !!SUBJ MAPPING - leftovers
-MAP:<subj (@<SUBJ) TARGET NP-HEAD-NOM - A OR DUPRON + Nom OR (Num Nom) (*-1 FMAINV BARRIER (":") OR S-BOUNDARY) ;
-
-#!! * __subj>ifV__ (@SUBJ>) for NP-HEAD-NOM, DUPRON or (Num Nom) if; a finite mainverb is found to the right. This is a cleanup rule for subjects
-MAP:subj>ifV (@SUBJ>) TARGET NP-HEAD-NOM - A OR DUPRON + Nom OR (Num Nom) (*1 FMAINV BARRIER (":"))(NEGATE *1 @SUBJ> + (Pron Rel) BARRIER FMAINV OR FAUXV LINK NEGATE *2 FMAINV BARRIER EOS) ;
+MAP:<subj (@<SUBJ) TARGET NP-HEAD-NOM - A OR DUPRON + Nom OR  Num + Nom  (*-1 FMAINV + VFIN OR FAUXV + VFIN BARRIER (":") OR S-BOUNDARY) ;
+ 
+#!! * __subj>ifV__ (@SUBJ>) for NP-HEAD-NOM, DUPRON or  Num + Nom  if; a finite mainverb is found to the right. This is a cleanup rule for subjects
+MAP:subj>ifV (@SUBJ>) TARGET NP-HEAD-NOM - A OR DUPRON + Nom OR  Num + Nom  (*1 FMAINV + VFIN BARRIER (":"))(NEGATE *1 @SUBJ> +  Rel BARRIER FMAINV OR FAUXV LINK NEGATE *2 FMAINV BARRIER EOS) ;
 	#$ Lean ieš oaidnán dange.
 	#$ Mii Sámedikki nuoraidpolitihkalaš lávdegottis (SNPL) áigut čalmmustahttit árbevirolaš ja ođđaáigásaš sámi ealáhusaid.
 	#% Ávdugasat sii geat moraštit.
@@ -2677,11 +2677,11 @@ ADD:logo1 (<logo>) TARGET Pers + Pl3 (0 Gen OR Acc LINK *-1 VFIN + Pl3) ;
 
 #!! !!HNOUN MAPPING
 
-MAP:hnounNom (@HNOUN) TARGET NP-HEAD-NOM - A OR (Num Nom) 
+MAP:hnounNom (@HNOUN) TARGET NP-HEAD-NOM - A OR  Num + Nom  
 (NEGATE *0 V BARRIER (":"))(NEGATE *-1 PUNCT BARRIER (":") LINK -1 WORD) 
 ;
 
-MAP:hnounNom (@HNOUN) TARGET A OR (Num Nom) (*-1 BOS BARRIER WORD)(*1 EOS BARRIER WORD) ;
+MAP:hnounNom (@HNOUN) TARGET A OR  Num + Nom  (*-1 BOS BARRIER WORD)(*1 EOS BARRIER WORD) ;
 
 
 MAP:HNOUN<advl (@<SPRED) TARGET Sem/Adr (-1 (":") LINK -1 Nom) ;
