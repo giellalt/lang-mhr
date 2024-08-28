@@ -161,7 +161,7 @@ LEXICON CYRL-A_SUR !!= * @CODE@
 ! +Sem/Sur: N-ava_01 ;
 ! +Sem/Sur: ENDLEX ;
 
-LEXICON PROP_KIT_SUR !!= * @CODE@
+LEXICON PROP_KAL_SUR !!= * @CODE@
  +Sem/Sur: N-ava_01 ;
  +Sem/Sur: ENDLEX ;
 
@@ -177,9 +177,9 @@ LEXICON PROP_LAK_MAL !!= * @CODE@
  +Sem/Mal: N-ava_01 ;
  +Sem/Mal: ENDLEX ;
 
-LEXICON PROP_KIT_MAL !!= * @CODE@
- +Sem/Mal: N-ava_01 ;
- +Sem/Mal: ENDLEX ;
+!LEXICON PROP_KIT_MAL !!= * @CODE@
+! +Sem/Mal: N-ava_01 ;
+! +Sem/Mal: ENDLEX ;
 
 LEXICON PROP_OSH_MAL !!= * @CODE@
  +Sem/Mal: N-ava_01 ;
@@ -214,9 +214,9 @@ LEXICON PROP_KAL_FEM !!= * @CODE@
 !LEXICON PROP_LAK_FEM
 ! +Sem/Fem: N-ava_01 ;
 
-LEXICON PROP_KIT_FEM !!= * @CODE@
- +Sem/Fem: N-ava_01 ;
- +Sem/Fem: ENDLEX ;
+!LEXICON PROP_KIT_FEM !!= * @CODE@
+! +Sem/Fem: N-ava_01 ;
+! +Sem/Fem: ENDLEX ;
 
 LEXICON PROP_OSH_FEM !!= * @CODE@
  +Sem/Fem: N-ava_01 ;
@@ -242,20 +242,20 @@ LEXICON LEXC_PROP_KUDO_FEM !!= * @CODE@
 
 !! PLACE NAMES FROM TEMPLATE 
 
-LEXICON PROP-PLC_KAL !!= * @CODE@
- +Sem/Plc: N-ava_01 ;
- +Sem/Plc: ENDLEX ;
+!LEXICON PROP-PLC_KAL !!= * @CODE@
+! +Sem/Plc: N-ava_01 ;
+! +Sem/Plc: ENDLEX ;
 
-LEXICON PROP-PLC_KIT !!= * @CODE@
- +Sem/Plc: N-ava_01 ;
- +Sem/Plc: ENDLEX ;
+!LEXICON PROP-PLC_KIT !!= * @CODE@
+! +Sem/Plc: N-ava_01 ;
+! +Sem/Plc: ENDLEX ;
 
 !LEXICON PROP-PLC_OSH
 ! +Sem/Plc: N-ava_01 ;
 
-LEXICON PROP-PLC_KUDO !!= * @CODE@
- +Sem/Plc: N-ava_01 ;
- +Sem/Plc: ENDLEX ;
+!LEXICON PROP-PLC_KUDO !!= * @CODE@
+! +Sem/Plc: N-ava_01 ;
+! +Sem/Plc: ENDLEX ;
 
 
 
