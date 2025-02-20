@@ -7,15 +7,15 @@ All doc-comment documentation in one large file.
 # src-cg3-dependency.cg3.md 
 
 
-# C O M M O N  S Á M I  D E P E N D E N C Y   G R A M M A R
+!!!C O M M O N  S Á M I  D E P E N D E N C Y   G R A M M A R
 
 This dep file is for sma, sme, smj, sje.
 
-# DELIMITERS
+!!!DELIMITERS
 
 Sentence delimiters are the following: <.> <!> <?> <...> <¶>
 
-# TAGS AND SETS
+!!!TAGS AND SETS
 
 N
 V
@@ -75,19 +75,19 @@ Ess
 
 IM For fao
 
-## POS sub-categories
+!!POS sub-categories
 
-## Syntactic tags and sets
+!!Syntactic tags and sets
 
-### Syntactic tags in input to this file
+!Syntactic tags in input to this file
 
-### Syntactic tags added in this file
+!Syntactic tags added in this file
 
 * @FMV : finite main verb
-- oaidná: Son oaidná ollislaš gova. - She sees the whole picture
+** oaidná: Son oaidná ollislaš gova. - She sees the whole picture
 * infinite main verb
 * @FAUX : finite auxiliary verb
-- ferte: Son ferte oaidnit ollislaš gova. - She must see the whole picture. 
+** ferte: Son ferte oaidnit ollislaš gova. - She must see the whole picture. 
 * @FMVdic : finite main verb introducing direct speech
 * @IMVdic : infinite main verb introducing direct speech
 * @FS-IMV : infinite main verb of subclause 
@@ -109,7 +109,7 @@ IM For fao
 * @FS-N< : relative clause to N
 * @FS->N : relative clause to N to the left side of it - eus
 * @FS-VFIN< : finite verb in sentence, statement
-- eai: Idja ii leat šat, eai ge sii dárbbaš lámppá dahje beaivváža čuovgga, dasgo Hearrá Ipmil lea sin čuovga. - The night is not anymore, they do not need the lamp- or day- light either, because God the Lord is their light.
+** eai: Idja ii leat šat, eai ge sii dárbbaš lámppá dahje beaivváža čuovgga, dasgo Hearrá Ipmil lea sin čuovga. - The night is not anymore, they do not need the lamp- or day- light either, because God the Lord is their light.
 * @FS-<APP : finite subclause functioning as an apposition
 * @ICL-ADVL : non-finite subclause ...
 * @ICL-AUX< : "right" argument of auxiliary (?)
@@ -120,41 +120,41 @@ IM For fao
 * <mv> : main verb. A temporarily tag omitted in the end of the file.
 * <aux> : auxilary verb. A temporarily tag omitted in the end of the file.
 
-### fao syntags
+!fao syntags
 
 * @>V
 
-### kal syntags
+!kal syntags
 
 * @INS :
 * @<INS :
 * @INS> :
 
-### eus syntags
+!eus syntags
 
 * @FS-SPRED : finite verb in subclause functioning as a subject predicate - eus, but not sure if in use
 
-### Syntactic set definitions
+!Syntactic set definitions
 
-# Dep grammar
+!!!Dep grammar
 
 Correction rules
 
-* **muitalit**
+* __muitalit__
 
-* **XX**
+* __XX__
 
-* **XX**
+* __XX__
 
-* **XX**
+* __XX__
 
-* **faoSumId=Rel**
+* __faoSumId=Rel__
 
-## The finite verb
+!!The finite verb
 
-# Mapping rules
+!!!Mapping rules
 
-**lgRemove** removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
+!! __lgRemove__ removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
 
 * * *
 
@@ -1022,11 +1022,11 @@ S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
 
 Sámi language technology project 2003-2014, University of Tromsø # 
 
-## For Korp:
+!!For Korp:
 
 Here we remove special tags for MT
 
-###  **smeRemove** removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
+! __smeRemove__ removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
 
 Here we remove semantic tags for all other words than
 proper nouns.  
