@@ -11,7 +11,7 @@ SUBDIRS=. test
 
 #############################################
 #### Add language-specific sources here: ####
-GT_CG_LOCAL_SRCS=korp.cg3
+GT_CG_LOCAL_SRCS=
 
 #############################################################
 #### Add language-specific targets to be installed here: ####
