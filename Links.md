@@ -3,7 +3,6 @@
         * [dependency.cg3](src-cg3-dependency.cg3.html) ([src](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/dependency.cg3))
         * [disambiguator.cg3](src-cg3-disambiguator.cg3.html) ([src](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/disambiguator.cg3))
         * [functions.cg3](src-cg3-functions.cg3.html) ([src](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/functions.cg3))
-        * [korp.cg3](src-cg3-korp.cg3.html) ([src](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/korp.cg3))
     * `fst/`
         * `morphology/`
             * `affixes/`

@@ -1009,19 +1009,6 @@ These were the set types.
 !!For Apertium:
 The analysis give double analysis because of optional semtags. We go for the one with semtag.
 
-* * *
-
-<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/functions.cg3)</small>
-
----
-
-# src-cg3-korp.cg3.md 
-
-
-S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
-
-Sámi language technology project 2003-2014, University of Tromsø # 
-
 !!For Korp:
 
 Here we remove special tags for MT
@@ -1033,7 +1020,7 @@ proper nouns.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/cg3/korp.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/korp.cg3)</small>
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mhr/blob/main/src/cg3/functions.cg3)</small>
 
 ---
 
