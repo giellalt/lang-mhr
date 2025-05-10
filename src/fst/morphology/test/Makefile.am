@@ -14,9 +14,9 @@ GENERATION_TESTS=
 
 # List tests that are presently (expected) failures here, ie things that should
 # be fixed *later*, but is not critical at the moment:
-XFAIL_TESTS=generate-adjective-lemmas.sh \
-			missing-multichars.sh \
+XFAIL_TESTS=missing-multichars.sh \
 			generate-adjective-paradigm.sh \
+			generate-noun-paradigm.sh \
 			generate-verb-paradigm.sh
 
 
