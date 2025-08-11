@@ -2323,7 +2323,7 @@ Special symbols are classified with:
 * **+CLB** = clause and sentence boundary symbols
 * **+PUNCT** = other punctuation marks
 * **+LEFT** = paired symbols
-* **+RIGHT** = paired symbols
+* **+RIGHT +MIDDLE** = paired symbols
 
 The verbs are syntactically split according to transitivity:
 * **+TV** = 
