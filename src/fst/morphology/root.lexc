@@ -256,7 +256,7 @@ Multichar_Symbols  !!≈ # Declaration of @CODE@
 +CLB           !!≈ * **@CODE@** = clause and sentence boundary symbols
 +PUNCT         !!≈ * **@CODE@** = other punctuation marks
 +LEFT          !!≈ * **@CODE@** = paired symbols
-+RIGHT         !!≈ * **@CODE@** = paired symbols
++RIGHT +MIDDLE !!≈ * **@CODE@** = paired symbols
 
 !! The verbs are syntactically split according to transitivity:
 +TV       !!≈ * **@CODE@** = 
