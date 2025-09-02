@@ -6,7 +6,7 @@
 # ==================================================================== #
 # ====================================================================
 
-#!!  Sámi language technology project 2003-2024, University of Tromsø #
+#!!  Sámi language technology project 2003-2025, University of Tromsø #
 
 #!! This file adds syntactic functions. It is common for all the Saami
 ##! languages, so far for sma, sme, smj, sje.
@@ -1856,6 +1856,7 @@ MAP:leftCop<spred (@<SPRED) TARGET Nom - Pers IF (
 (0 Coll OR Sem/Group LINK *-1 COPULAS + FMAINV BARRIER NOT-NPMODADV))
 (NEGATE 1 Nom - Rel - Sem/Year)
 (NEGATE *1 Nom - Rel - Num BARRIER NOT-A OR COMMA OR LEFT)(NEGATE 0 Gen OR Attr OR ("buorre") LINK 1 N)(NEGATE 1 Ess LINK NEGATE *-2 SUBJ BARRIER S-BOUNDARY) (NEGATE 0 HUMAN LINK *-1 ("orrut") BARRIER NOT-NPMODADV OR S-BOUNDARY) (NEGATE 0 Num LINK 1 HUMAN LINK *-1 ("orrut") BARRIER NOT-NPMODADV OR S-BOUNDARY)(NEGATE 0 Nom LINK *1 (A Nom) BARRIER NOT-ADV) 
+(NEGATE *1 COPULAS BARRIER NOT-ADV-PCLE LINK *1 Nom BARRIER NOT-NPMOD)
 ;
 	#$ Čállit lea buoret go lohkat.
 	#$ Soai leat goappašagat nu jallat.
@@ -1863,6 +1864,7 @@ MAP:leftCop<spred (@<SPRED) TARGET Nom - Pers IF (
 	#$ Ja dalle livččii Vibeke Larsenii vejolaš sámegillii ovdanbuktit ođđajagisártnis.
 	#$ Son lei Norgga Boazosápmelaččaid riikkasearvvi jođiheaddji 1965-73.
 	#% Mánnáguoddi-spagáin leat spahká-oaivvit sakka guhkibut.
+	#% Daelie tsåahka lea 05.30, jih mijjien {feeleme} lea 06.00.
 
 #!! * __<spredLocEXPERIMENT__ (@<SPRED) for material Loc; if you are to the right of copulas, and the Nom to the left of copulas is not a hab-actor
 MAP:<spredLocEXPERIMENT (@<SPRED) TARGET (N Loc) + Sem/Mat IF (*-1 COPULAS + FMAINV BARRIER NOT-ADV-PCLE LINK *-1 Nom BARRIER VFIN-NOT-NEG LINK NEGATE 0 HAB-ACTOR)(NOT 1 Der/PassL) ;
@@ -1879,11 +1881,12 @@ MAP:NumTime<spred (@<SPRED) TARGET (A Nom) IF (-1 TIME-N LINK -1 Num LINK *-1 CO
 	#$ Sápmelaččaid historjá álbmogin lea duháhiid jagiid boaris.
 
 #!! * __<spredSg__ (@<SPRED) for Sg Nom
-MAP:<spredSg (@<SPRED) TARGET (Sg Nom) IF (*-1 @CNP OR (Neg Foc/ge) BARRIER REAL-V - COPULAS OR S-BOUNDARY LINK *-1 @<SPRED BARRIER WORD) ;
+MAP:<spredSg (@<SPRED) TARGET (Sg Nom) IF (*-1 @CNP OR (Neg Foc/ge) BARRIER REAL-V - COPULAS OR S-BOUNDARY LINK *-1 @<SPRED BARRIER WORD) (NEGATE *1 COPULAS BARRIER NOT-ADV-PCLE LINK *1 Nom BARRIER NOT-NPMOD);
 	#$ Son lea mu oabbá, ja 10 jagi boaris.
 	#$ Son oinnii buot dan mii lea ráhkistan ja gudnejahttin veara.
 	#$ Munnje lei dehálaš ahte áiggošin leat bahánihkkán.
 	#$ Mus ii leat biila iige mopeda.
+	#% Daelie tsåahka lea 05.30, jih mijjien {feeleme} lea 06.00.
 
 #!! * __<spredPg__ (@<SPRED) for Pl Nom
 MAP:<spredPl (@<SPRED) TARGET (Pl Nom) IF ((*-1 COPULAS BARRIER NOT-NPMODADV LINK *-1 (Pl Nom) OR PLPRON + Nom OR DUPRON + Nom BARRIER NOT-ADV-PCLE) OR (*-1 COPULAS BARRIER NOT-NPMODADV LINK -1 Nom LINK *-1 CC BARRIER NOT-NPMOD LINK -1 Nom) OR (*-1 COPULAS BARRIER NOT-NPMODADV LINK *-1 FAUXV BARRIER NOT-ADV-PCLE LINK *-1 (Pl Nom) OR PLPRON + Nom OR DUPRON + Nom BARRIER NOT-ADV-PCLE)) ;
@@ -1908,6 +1911,9 @@ MAP:spredSgMII> (@SPRED>) TARGET MII + (Sg Nom) IF (*1 (Sg Nom) BARRIER NOT-NPMO
 
 #!! * __spredšaddat>__ (@SPRED>)
 MAP:spredSgMII> (@SPRED>) TARGET Ess IF (1 ("šaddat") + FMAINV) ;
+
+#!! * __spredsjidtedh>__ (@SPRED>)
+MAP:spredMII> (@SPRED>) TARGET Ess OR (A Nom) IF (1 ("sjïdtedh")) ;
 
 
 #!! * __r492>__ (@SPRED>) for Interr Gen; consisting only of negations. You are not allowed to be MII. You are not allowed to have an adjective or noun to yor right. You are not allowed to have a verb to your right; the exception beeing an aux.
@@ -2337,13 +2343,14 @@ MAP:V<advl-ine (@<ADVL-ine) TARGET ADVLCASEAdv OR Sem/Year  (0 Loc OR Adv OR Po 
 
 
 #!! * __V<advl__ (@<ADVL) if; finite mainverb found to the left. Not if a comma is found immediately to the left and a finite mainverb is located somewhere to the right of this comma.
-MAP:V<advl (@<ADVL) TARGET ADVLCASEAdv - MO - Rel - MOD-ADV - Attr OR TIME-N + Gen OR Gen-Sem/Route OR Sem/Date OR Sem/Year (*-1 FMAINV BARRIER SV-BOUNDARY - (":"))(NEGATE -1 COMMA LINK *1 FMAINV BARRIER S-BOUNDARY)(NEGATE 0 Gen LINK 1 (@>P)) ;
+MAP:V<advl (@<ADVL) TARGET ADVLCASEAdv - MO - Rel - MOD-ADV - Attr OR TIME-N + Gen OR Gen-Sem/Route OR Sem/Date OR Sem/Year (*-1 FMAINV BARRIER SV-BOUNDARY - (":"))(NEGATE *-1 COMMA BARRIER NOT-ADV-PCLE - ADVLCASE LINK *1 FMAINV BARRIER S-BOUNDARY)(NEGATE 0 Gen LINK 1 (@>P)) ;
 	#$ Giellatekno álggahuvvui 1.8.2001 prošeaktan ráhkadit sámegiela grammatihkalaš analysa.
 	#$ Dán filmma leat Kárášjoga nuorat oaidnán, eaige šat vuolgge sirkusii.
 	#$ Eanet dieđuid gávnnat dáppe: www.denkulturelleskolesekken.no
 	#% Vare livččet jogo galmmas dahje liekkas.
 	#% Goh saabate sjïdti, dellie synagogese tjaangi jih almetjidie øøhpehti.
 	#% Doppe mánát ohppet giela lunddolaččat árgabeaivvi bargguid ja stoahkama bokte.
+	#% Måanta Daen biejjien Manne jih Janne vuelkebe Afrikese, eejehtimmesne {Daelie} tsåahka lea 05.30, jih mijjien feeleme lea 06.00.
 
 MAP:V<advl (@<ADVL) TARGET ("diibmu") OR ("dii" Adv)  (1 Arab)(*-1 FMAINV BARRIER SV-BOUNDARY - (":"))(NEGATE -1 COMMA LINK *1 FMAINV BARRIER S-BOUNDARY)   ;
 
@@ -2531,8 +2538,9 @@ MAP:<opredAAcc (@<OPRED) TARGET (A Acc) IF ((*-1 Acc BARRIER NOT-ADV-PCLE LINK *
 	#$ Gáhkuid son ráhkada hui buriid.
 
 #!! * __TV<obj__ (@<OBJ) for Acc; if there is a transitive mainverb to the left in the clause. Not for Rel. Not if you are a numeral followed by a measure-noun
-MAP:TV<obj (@<OBJ) TARGET Acc - Rel - Interr (*-1 FMAINV + TV BARRIER SV-BOUNDARY)(NEGATE -1 COMMA LINK *2 TRANS-V + FMAINV BARRIER SV-BOUNDARY)(NEGATE 0 Num LINK 1 MEASR-N) ;
+MAP:TV<obj (@<OBJ) TARGET Acc - Rel - Interr (*-1 FMAINV + TV BARRIER SV-BOUNDARY OR IV)(NEGATE -1 COMMA LINK *2 TRANS-V + FMAINV BARRIER SV-BOUNDARY)(NEGATE 0 Num LINK 1 MEASR-N) ;
 	#$ Stueng háliidii ge oažžut johtui buoret oktavuođa sámi ja Bolivia eamiálbmot nuoraid gaskkas, go nuorat leat eamiálbmogiid boahtteáigi, mahkáš nuoraid lonuhanprográmma.
+	#% Daelie manna gærjam Afrikan bïjre lohkeme, Janne lea dam lohkeme.
 
 
 
@@ -2638,8 +2646,9 @@ MAP:>advl (@<ADVL) TARGET Arab IF (*-1 FMAINV BARRIER S-BOUNDARY) ;
 	#$ Stáhtabušeahta rámmat leat lassánan 5 % .
 
 #!!	* __NInfheadliner__	
-MAP:NInfheadliner (@HNOUN) TARGET Nom (NEGATE 0 VFIN)(1 Inf LINK NEGATE *1 WORD) ;	
+MAP:NInfheadliner (@HNOUN) TARGET Nom (NEGATE 0 VFIN)(1 Inf LINK NEGATE *1 WORD)(NEGATE *-1 VFIN) ;	
 	#$ Áigi soabadit.
+	#% Mijjeh sijhtebe provnh sjidtedh.
 
 #!!	* __Superlheadliner__	
 MAP:Superlheadliner (@HNOUN) TARGET Superl (NEGATE 0 VFIN)(*-1 BOS BARRIER WORD)(1 Rel LINK 1 VFIN LINK NEGATE *1 VFIN) ;	
@@ -2789,6 +2798,7 @@ SUBSTITUTE:apertium-unhide-derivtags SUB:1  (ex_iv) (iv) TARGET (ex_iv) ;
 #SUBSTITUTE:apertium-change-order (Num Sem/Year Sg) (Num Sg) TARGET (Num Sem/Year Sg) ;
 #SUBSTITUTE:apertium-change-order (Sem/Year Num Sg) (num sg) TARGET (Sem/Year Num Sg) ;
 
+
 #!! !!For Korp:
 
 #!! Here we remove special tags for MT
@@ -2812,7 +2822,7 @@ SUBSTITUTE:fkvRemove (<fkv>) (*) TARGET (<fkv>) ;
 
 #!! Here we remove semantic tags for all other words than
 #!! proper nouns.  
-#
+
 SUBSTITUTE (<vdic>) (*) TARGET (<vdic>) ;
 SUBSTITUTE (<logo>) (*) TARGET (<logo>) ;
 SUBSTITUTE (<ind>) (*) TARGET (<ind>) ;

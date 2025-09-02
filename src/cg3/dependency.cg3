@@ -1,5 +1,5 @@
 # Divvun & Giellatekno - open source grammars for Sámi and other languages
-# Copyright © 2000-2016 The University of Tromsø & the Norwegian Sámi Parliament
+# Copyright © 2000-2025 The University of Tromsø & the Norwegian Sámi Parliament
 # http://giellatekno.uit.no & http://divvun.no
 #
 # This program is free software; you can redistribute and/or modify
@@ -791,9 +791,10 @@ SUBSTITUTE (@FAUX) (@FS-VFIN<) TARGET V (0 (Neg Ind) LINK *-1 @FS-VFIN< BARRIER 
 
 
 # in relative clauses:
-SUBSTITUTE:SubV=FS-Nmv (@FMV) (@FS-N<) TARGET V (*-1 Rel BARRIER VFIN OR COMMA) ;
+SUBSTITUTE:SubV=FS-Nmv (@FMV) (@FS-N<) TARGET V (*-1 Rel BARRIER VFIN OR COMMA OR Inf OR Ger) ;
 	## Ökonomihke tsiehkieh hov mieriedieh mejtie buektiehtibie daejtie ulmide illedh.
 	#$ - Maid don dainna dieđuin, vástidii Liná ja áiggui vázzát viidáseappot.
+	#$ Almetjh gieh dasenie barkeminie {lea} tryjjes.
 
 SUBSTITUTE:SubV=FSN-IMV (@IMV) (@FS-N<IMV) TARGET V (*-1 (<aux>) BARRIER @MV LINK *-1 Rel BARRIER COMMA OR CS OR @V) ;
 SUBSTITUTE:SubV=FSN-IMV (@IMV) (@FS-N<IMV) TARGET V (0 PrfPrc LINK *-1 Rel BARRIER @MV OR COMMA OR CS OR @V) ; # no copula
@@ -911,6 +912,7 @@ SETPARENT:SetAttrToLeftNum @Num< OR @APP-Num< TO (*-1 Num BARRIER @CLAUSE) ;
 # If there is no antecedent, then the mainv is the parent:
 SETPARENT:SetFS-NtoMV @FS-N< TO (*-1 (<mv>) BARRIER CS OR ADVL-COMP) ; ##BARRIER?
 	## Ökonomihke tsiehkieh hov mieriedieh mejtie buektiehtibie daejtie ulmide illedh.
+	#$ Almethj gieh daesnie barkeminie lea tryjjes.
 
 # the antecedent is N or Pron:
 SETPARENT:SetFS-NtoN @FS-N< TO (*-1 Rel OR ("gos") OR ("gosa") OR COMMA BARRIER @V LINK **-1 N OR Pron OR A OR Indef OR Num BARRIER @V LINK NOT 0 @HNOUN OR @APP-N< OR (Attr)) ;
@@ -1098,6 +1100,8 @@ SETPARENT:FMVToRoot @CVP (NONE p (*)) TO (@0 (*));
 
 ### coordinator
 SETPARENT:SetCNPToWord @CNP TO (*-1 WORD) ;
+SETPARENT:SetCNPToWordBegS @CNP (-1 BOS) TO (*1 VFIN) ;
+	## Jïh dam manne edtjem åestedh.
 SETPARENT:SetCVPToWord @CVP + CC TO (*-1 VFIN) ;
 SETPARENT:SetCVPToWord @CVP + CC TO (-1 BOS LINK 3 CS LINK -1 WORD) ;
 SETPARENT:SetCVPToWord @CVP + CC TO (1 CS) ;
@@ -1135,17 +1139,18 @@ SUBSTITUTE:faoctjHead (@IOBJ>) (<ctjHead> @IOBJ>) TARGET @IOBJ> (NEGATE *-1 @CNP
 
 
 # coordination - not verbs
-SETPARENT:Coord $$COORD TO (*-1 COMMA OR @CNP BARRIER @V OR S-BOUNDARY OR $$COORD LINK *-1 $$COORD + <ctjHead>);
+SETPARENT:Coord $$COORD TO (*-1 COMMA OR @CNP BARRIER @V OR S-BOUNDARY OR $$COORD LINK *-1 $$COORD + <ctjHead> BARRIER COORD);
 	## Maahtoe jïh skuvle lea dellie mubpie vihkeles tsiehkiem daennie orre våaroemisnie.
+	#$ Måanta Daen biejjien Manne jih Janne vuelkebe Afrikese, eejehtimmesne Daelie {tsåahka} lea 05.30, jih mijjien feeleme lea 06.00.
 
-# coordinatin of @>N
+# coordination of @>N
 SETPARENT:>NCoord @>N TO (*-1 COMMA OR CC BARRIER @CLAUSE LINK *-1C @>N + <ctjHead> BARRIER @CLAUSE);
 	## Dát leat luohtehahtti ja duohta sánit .
 	#$ Niegadan su birra go oainnán David Beckham ja Manchester United!
 SETPARENT:Not>NCoord @>N TO (1 (N @>N));
 	## Dát lea Dávveda bártni ja Abrahama bártni sohka.
 
-### verbcoordination
+### verb coordination
 
 # verbcoordination - mainclauses
 #SUBSTITUTE:ctjHead (V) (<ctjHead> V) TARGET VFIN (NEGATE *-1 CC OR COMMA BARRIER CS OR ADVL-COMP OR MCL-CONJ LINK *-1 VFIN BARRIER CS OR ADVL-COMP)(0 @MCLV)(NEGATE 0 Neg LINK 1 ("ge"))(*1 COMMA OR CC BARRIER Rel OR CS OR (":") LINK **1 VFIN LINK 0 @MCLV) ; # Added (CS @CVP) barrier (next line) tt.
@@ -1154,7 +1159,7 @@ SUBSTITUTE:ctjHead (V) (<ctjHead> V) TARGET VFIN (NEGATE *-1 CC OR COMMA BARRIER
 SUBSTITUTE:ctjHead (V) (<ctjHead> V) TARGET VFIN (NEGATE *-1 CC OR COMMA BARRIER CS OR ADVL-COMP LINK *-1 VFIN BARRIER CS OR ADVL-COMP)(0 @MCLV)(NEGATE 0 Neg LINK 1 ("ge"))(*1 Rel BARRIER @V LINK *1 COMMA OR @CVP BARRIER Rel OR CS LINK *1 @SUBJ> BARRIER @V LINK **1 VFIN LINK 0 @MCLV) ; # a relative clause in between
 	## Lea vuosttaš CD maid Sámi Jienat almmuha ja CD galgá leat válmmas geassemánu 10. beaivvi 2005.
 
-# verbcoordination - subclauses
+# verb coordination - subclauses
 SUBSTITUTE:ctjHead (V) (<ctjHead> V) TARGET VFIN (NEGATE *-1 CC OR COMMA BARRIER CS OR ADVL-COMP OR Rel LINK *-1 VFIN BARRIER CS OR ADVL-COMP)(0 @SCLV)(NEGATE *-1 CS BARRIER @V OR ADVL-COMP LINK *1 @SCLV LINK *1 ADVL-COMP BARRIER @V) (NEGATE 0 Neg LINK 1 ("ge"))(*1 COMMA OR CC LINK *1 VFIN BARRIER ADVL-COMP OR CS OR Rel LINK 0 @SCLV) ;
 	## Go bassat lihtiid dahje málestit siiddas, de sáhttit seammás guldalit radio.
 
