@@ -1,7 +1,7 @@
 
 S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
 
-Sámi language technology project 2003-2024, University of Tromsø #
+Sámi language technology project 2003-2025, University of Tromsø #
 
 This file adds syntactic functions. It is common for all the Saami
 
@@ -326,6 +326,8 @@ These were the set types.
 * __spredSgMII>__ (@SPRED>)
 
 * __spredšaddat>__ (@SPRED>)
+
+* __spredsjidtedh>__ (@SPRED>)
 
 * __r492>__ (@SPRED>) for Interr Gen; consisting only of negations. You are not allowed to be MII. You are not allowed to have an adjective or noun to yor right. You are not allowed to have a verb to your right; the exception beeing an aux.
 
