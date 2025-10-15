@@ -1142,6 +1142,9 @@ SUBSTITUTE:faoctjHead (@IOBJ>) (<ctjHead> @IOBJ>) TARGET @IOBJ> (NEGATE *-1 @CNP
 SETPARENT:Coord $$COORD TO (*-1 COMMA OR @CNP BARRIER @V OR S-BOUNDARY OR $$COORD LINK *-1 $$COORD + <ctjHead> BARRIER COORD);
 	## Maahtoe jïh skuvle lea dellie mubpie vihkeles tsiehkiem daennie orre våaroemisnie.
 	#$ Måanta Daen biejjien Manne jih Janne vuelkebe Afrikese, eejehtimmesne Daelie {tsåahka} lea 05.30, jih mijjien feeleme lea 06.00.
+	# three (nominal) coordinates
+SETPARENT:Coord $$COORD TO (*-1 COMMA OR @CNP BARRIER @V OR S-BOUNDARY OR $$COORD LINK *-1 $$COORD BARRIER COORD LINK *-1 COMMA OR @CNP BARRIER @V OR S-BOUNDARY LINK *-1 $$COORD + <ctjHead> BARRIER COORD);
+	## Isak Marc Hætta, Æjsa jïh altese gåmma Inger Anne lægan eadtjohke gosse miehtjien bïjre soptsesteminie.
 
 # coordination of @>N
 SETPARENT:>NCoord @>N TO (*-1 COMMA OR CC BARRIER @CLAUSE LINK *-1C @>N + <ctjHead> BARRIER @CLAUSE);
