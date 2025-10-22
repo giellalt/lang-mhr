@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-mhr)](https://github.com/giellalt/lang-mhr/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mhr)](https://github.com/giellalt/lang-mhr/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-mhr?label=CI)](https://builds.giellalt.org/pipelines/lang-mhr/builds/latest)
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the [Eastern Mari language model](http://github.com/giellalt/lang-mhr). 
 
