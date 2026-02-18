@@ -32,12 +32,12 @@ Multichar_Symbols  !!≈ # Declaration of @CODE@
 ! Tag for hmm work in progress.
 +WORK !!≈ * **@CODE@** = nouns
 
-%^VoTrigger  !!= * @CODE@ for use with acronyms after hyphen
-%^VeTrigger  !!= * @CODE@ for use with acronyms after hyphen
-%^VOTrigger  !!= * @CODE@ for use with acronyms after hyphen
-%^Sonorant   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
-%^Obstruent  !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
-%^FrontObstr !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
+%^VoTrigger  !!= * **@CODE@** for use with acronyms after hyphen
+%^VeTrigger  !!= * **@CODE@** for use with acronyms after hyphen
+%^VOTrigger  !!= * **@CODE@** for use with acronyms after hyphen
+%^Sonorant   !!= * **@CODE@** for use with acronyms after hyphen Л,М,Н,Р,Ҥ
+%^Obstruent  !!= * **@CODE@** for use with acronyms after hyphen С,Ф,Ъ,Ь
+%^FrontObstr !!= * **@CODE@** for use with acronyms after hyphen С,Ф,Ъ,Ь
 
 
 %^END !!≈ * **@CODE@** = twolc tag to mark end of word
@@ -557,20 +557,20 @@ Multichar_Symbols  !!≈ # Declaration of @CODE@
 ! ---------------
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
-%{аы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
-%{еы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
-%{оы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
-%{ӧы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel
-%{яы%} !!= * @CODE@ Stem-final vowel variation when stress falls on non-final vowel preceded by ь
-%{еоыӧØ%}  !!= * @CODE@ PxSg3 final
-%{ыØ%}  !!= * @CODE@ PxSg3 onset
+%{аы%} !!= * **@CODE@** Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
+%{еы%} !!= * **@CODE@** Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
+%{оы%} !!= * **@CODE@** Stem-final vowel variation when stress falls on non-final vowel
+%{ӧы%} !!= * **@CODE@** Stem-final vowel variation when stress falls on non-final vowel
+%{яы%} !!= * **@CODE@** Stem-final vowel variation when stress falls on non-final vowel preceded by ь
+%{еоыӧØ%}  !!= * **@CODE@** PxSg3 final
+%{ыØ%}  !!= * **@CODE@** PxSg3 onset
 
-%{ьØ%}  !!= * @CODE@ for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
+%{ьØ%}  !!= * **@CODE@** for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
 
 
-{aä}       !!≈ * @CODE@ for vowel harmony
-{oö}       !!≈ * @CODE@ for vowel harmony
-{uü}       !!≈ * @CODE@ for vowel harmony
+{aä}       !!≈ * **@CODE@** for vowel harmony
+{oö}       !!≈ * **@CODE@** for vowel harmony
+{uü}       !!≈ * **@CODE@** for vowel harmony
 е1 	        !!≈ * **@CODE@** = 
 а1 	        !!≈ * **@CODE@** = 
 и1 	        !!≈ * **@CODE@** = 
@@ -585,15 +585,15 @@ Multichar_Symbols  !!≈ # Declaration of @CODE@
 Ы1 	     !!≈ * **@CODE@** = stem-onset archi-vowel
 Ы2	     !!≈ * **@CODE@** =
 з2	     !!≈ * **@CODE@** = for возаш : воч 
-к2  !!= * @CODE@ кочк- коч# "eat/есть" мушк- муш "wash/мыть"
-н2  !!= * @CODE@ шинч- шич# "sit down/сесть"
-т2  !!= * @CODE@ лект- лек# "leave/ уходить"
+к2  !!= * **@CODE@** кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+н2  !!= * **@CODE@** шинч- шич# "sit down/сесть"
+т2  !!= * **@CODE@** лект- лек# "leave/ уходить"
 %>	     !!≈ * **@CODE@** = 
 +TEST    !!≈ * **@CODE@** = 
 
 !! And following triggers to control variation
-%^V2IMPRT	!!= * @CODE@ for -ем verbs in й
-%^END       	!!= * @CODE@ for -ам verb final, i.e. Imprf
+%^V2IMPRT	!!= * **@CODE@** for -ем verbs in й
+%^END       	!!= * **@CODE@** for -ам verb final, i.e. Imprf
 
 {front}    !!≈ * **@CODE@** 
 {back}     !!≈ * **@CODE@** 
@@ -608,14 +608,14 @@ X8      !!≈ * **@CODE@** =
 X9      !!≈ * **@CODE@** = 
 Z1      !!≈ * **@CODE@** = 
 Z2      !!≈ * **@CODE@** = 
-%-      !!≈ * @CODE@ 
+%-      !!≈ * **@CODE@** 
 
 
-%^VoTrigger  !!= * @CODE@ for use with acronyms after hyphen о у ё ю О У Ё Ю
-%^VeTrigger  !!= * @CODE@ for use with acronyms after hyphen а е и э я А Е И Э Я
-%^VOTrigger  !!= * @CODE@ for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
-%^Sonorant   !!= * @CODE@ for use with acronyms after hyphen Л|М|Н|Р|Ҥ
-%^Obstruent  !!= * @CODE@ for use with acronyms after hyphen С|Ф|Ъ|Ь
+%^VoTrigger  !!= * **@CODE@** for use with acronyms after hyphen о у ё ю О У Ё Ю
+%^VeTrigger  !!= * **@CODE@** for use with acronyms after hyphen а е и э я А Е И Э Я
+%^VOTrigger  !!= * **@CODE@** for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+%^Sonorant   !!= * **@CODE@** for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+%^Obstruent  !!= * **@CODE@** for use with acronyms after hyphen С|Ф|Ъ|Ь
 
 !! ### Symbols that need to be escaped on the lower side (towards twolc):
 
