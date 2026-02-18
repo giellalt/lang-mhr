@@ -16,12 +16,12 @@ presented in this system in terms of the following symbols.
 
 * **+WORK** = nouns
 
-* %^VoTrigger   for use with acronyms after hyphen
-* %^VeTrigger   for use with acronyms after hyphen
-* %^VOTrigger   for use with acronyms after hyphen
-* %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
-* %^Obstruent   for use with acronyms after hyphen С|Ф|Ъ|Ь
-* %^FrontObstr  for use with acronyms after hyphen С|Ф|Ъ|Ь
+* **%^VoTrigger  ** for use with acronyms after hyphen
+* **%^VeTrigger  ** for use with acronyms after hyphen
+* **%^VOTrigger  ** for use with acronyms after hyphen
+* **%^Sonorant   ** for use with acronyms after hyphen Л,М,Н,Р,Ҥ
+* **%^Obstruent  ** for use with acronyms after hyphen С,Ф,Ъ,Ь
+* **%^FrontObstr ** for use with acronyms after hyphen С,Ф,Ъ,Ь
 
 * **%^END** = twolc tag to mark end of word
 
@@ -514,19 +514,19 @@ source and target part-of-speech.
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
-* %{аы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
-* %{еы%}  Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
-* %{оы%}  Stem-final vowel variation when stress falls on non-final vowel
-* %{ӧы%}  Stem-final vowel variation when stress falls on non-final vowel
-* %{яы%}  Stem-final vowel variation when stress falls on non-final vowel preceded by ь
-* %{еоыӧØ%}   PxSg3 final
-* %{ыØ%}   PxSg3 onset
+* **%{аы%} ** Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
+* **%{еы%} ** Stem-final vowel variation when stress falls on non-final vowel word-final е and presuffix ы 
+* **%{оы%} ** Stem-final vowel variation when stress falls on non-final vowel
+* **%{ӧы%} ** Stem-final vowel variation when stress falls on non-final vowel
+* **%{яы%} ** Stem-final vowel variation when stress falls on non-final vowel preceded by ь
+* **%{еоыӧØ%}  ** PxSg3 final
+* **%{ыØ%}  ** PxSg3 onset
 
-* %{ьØ%}   for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
+* **%{ьØ%}  ** for -ам verbs Prt1 Sg1, Sg2, Sg3, Pl3 л н
 
-* {aä} for vowel harmony
-* {oö} for vowel harmony
-* {uü} for vowel harmony
+* **{aä}** for vowel harmony
+* **{oö}** for vowel harmony
+* **{uü}** for vowel harmony
 * **е1** = 
 * **а1** = 
 * **и1** = 
@@ -540,15 +540,15 @@ symbols in the lexicon files:
 * **Ы1** = stem-onset archi-vowel
 * **Ы2** =
 * **з2** = for возаш : воч 
-* к2   кочк- коч# "eat/есть" мушк- муш "wash/мыть"
-* н2   шинч- шич# "sit down/сесть"
-* т2   лект- лек# "leave/ уходить"
+* **к2  ** кочк- коч# "eat/есть" мушк- муш "wash/мыть"
+* **н2  ** шинч- шич# "sit down/сесть"
+* **т2  ** лект- лек# "leave/ уходить"
 * **%>** = 
 * **+TEST** = 
 
 And following triggers to control variation
-* %^V2IMPRT	 for -ем verbs in й
-* %^END       	 for -ам verb final, i.e. Imprf
+* **%^V2IMPRT	** for -ем verbs in й
+* **%^END       	** for -ам verb final, i.e. Imprf
 
 * **{front}** 
 * **{back}** 
@@ -563,13 +563,13 @@ And following triggers to control variation
 * **X9** = 
 * **Z1** = 
 * **Z2** = 
-* %- 
+* **%-** 
 
-* %^VoTrigger   for use with acronyms after hyphen о у ё ю О У Ё Ю
-* %^VeTrigger   for use with acronyms after hyphen а е и э я А Е И Э Я
-* %^VOTrigger   for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
-* %^Sonorant    for use with acronyms after hyphen Л|М|Н|Р|Ҥ
-* %^Obstruent   for use with acronyms after hyphen С|Ф|Ъ|Ь
+* **%^VoTrigger  ** for use with acronyms after hyphen о у ё ю О У Ё Ю
+* **%^VeTrigger  ** for use with acronyms after hyphen а е и э я А Е И Э Я
+* **%^VOTrigger  ** for use with acronyms after hyphen ӧ ӱ Ӧ Ӱ
+* **%^Sonorant   ** for use with acronyms after hyphen Л|М|Н|Р|Ҥ
+* **%^Obstruent  ** for use with acronyms after hyphen С|Ф|Ъ|Ь
 
 ### Symbols that need to be escaped on the lower side (towards twolc):
 
