@@ -1,7 +1,7 @@
 
 S Y N T A C T I C   F U N C T I O N S   F O R   S Á M I
 
-Sámi language technology project 2003-2025, University of Tromsø #
+Sámi language technology project 2003-2026, University of Tromsø #
 
 This file adds syntactic functions. It is common for all the Saami
 
@@ -217,6 +217,8 @@ These were the set types.
 
 * __n>Indef__ (Pron Indef Com); if eará is to the right
 
+* __n>Refl__ ; if there is a noun to the right
+
 * __>nNum__ (@>N) for numerals if; there is a noun to your right. You are not allowed to be (Sg Nom), (Sg Acc) or (Sem/Date)
 
 * __noun>n__ (@>N) for Gen; if there is a noun to your right. Restrictions: Not if you are: a time related word. Not if you are OKTA with Pl Loc to your right. Not if CC is to your right followed by another Gen and then Po. Not if you are HUMAN and to your right is Actio Nom folloed by a noun.
@@ -289,6 +291,8 @@ These were the set types.
 
 * __<extsubjcoor__ (<ext> @<SUBJ) for Nom. Coordination
 
+* __<smaSecSubj__ (@SUBJ>) for Nom. i <sma> in a second main or subclause where the copula is dropped
+
 * Sem/Year
 
 * __<spredQst__ (@<SPRED) for Nom; in a typically question sentence; You are not allowed to be Pers or human. The special part is that Nom is not allowed to your right
@@ -331,7 +335,9 @@ These were the set types.
 
 * __r492>__ (@SPRED>) for Interr Gen; consisting only of negations. You are not allowed to be MII. You are not allowed to have an adjective or noun to yor right. You are not allowed to have a verb to your right; the exception beeing an aux.
 
-* __AdjSpredSg>__ (@SPRED>) for A Sg Nom; if copulas to the right, but not if A or @<SPRED are found to the right of copulas
+* __AdjSpredSg>__ (@SPRED>) for A Sg Nom; if copulas to the right, but not if A or @<SPRED are found to the right of copulas. For sma there is a copula-less version of this.
+
+* __AdjSpredSg__ (@<SPRED) for South Sámi in the case of copula drop; A Sg Nom; if there is a subject to the left
 
 * __Spred>SubjInf__ (@SPRED>) for Nom; if copulas to the right, and the subject of copulas is an Inf to the right
 
@@ -468,7 +474,7 @@ These were the set types.
 ! __therestX__ adds @X to all what is left, often errouneus disambiguated forms
 
 !!For Apertium:
-The analysis give double analysis because of optional semtags. We go for the one with semtag.
+The analysis gives double analysis because of optional semtags. We go for the one with semtag.
 
 !!For Korp:
 
