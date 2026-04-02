@@ -20,6 +20,7 @@ Center location data taken from [Glottolog](https://glottolog.org/). Area extent
 
 This page documents the work on the [Eastern Mari language model](http://github.com/giellalt/lang-mhr). 
 
+
 It is currently being developed by a work group consisting of
 Jeremy Bradley (LMU Munich/University of Vienna), Jorma Luutonen (University of Turku),
 Jack Rueter (Helsinki), Alexandra Simonenko (FWO/University of Ghent),
