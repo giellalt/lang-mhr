@@ -439,7 +439,7 @@ REPONAME = $(shell  grep '__REPO__' $(top_srcdir)/.gut/delta.toml | cut -d'"' -f
 # " reset syntax colouring - gets confused by the single double quote in the previous line
 
 # no regenerations while debugging
-doc_DATA = $(INDEX) $(LINKS) $(ALLINONE_MD_PAGE) lemmacount.json maturity.json spellersuggs.json
+doc_DATA = $(INDEX) $(LINKS) $(ALLINONE_MD_PAGE) lemmacount.json maturity.json spellersuggs.json typossize.json
 DOCC2MDWIKI = $(GTCORE)/scripts/doccomments2ghpages.awk
 DOCC2MDWIKI_CG3 = $(GTCORE)/scripts/doccomments2ghpages-vislcg.awk
 GRAPHPLOTTER = $(GTCORE)/scripts/plot-speller-progress.R
@@ -926,7 +926,7 @@ uninstall-am: uninstall-docDATA
 .PRECIOUS: Makefile
 
 
-.PHONY: generate-markdown regenerate-markdown
+.PHONY: generate-markdown regenerate-markdown FORCE
 
 regenerate-markdown: generate-markdown
 
@@ -953,15 +953,18 @@ regenerate-markdown: generate-markdown
 
 # Generate endpoint json file for shield.io lemma count badge.
 # Only to be stored in the gh-pages branch, ignored in main.
-$(srcdir)/lemmacount.json:
+$(srcdir)/lemmacount.json: FORCE
 	$(AM_V_GEN)$(GTCORE)/scripts/make-lemmacount.json.sh $(abs_top_srcdir) > $@
 
 # Generate a maturity.json file as endpoint for the maturity badge.
-$(srcdir)/maturity.json:
+$(srcdir)/maturity.json: FORCE
 	$(AM_V_GEN)$(GTCORE)/scripts/make-maturity.json.sh $(REPONAME) > $@
 
-$(srcdir)/spellersuggs.json:
+$(srcdir)/spellersuggs.json: FORCE
 	$(AM_V_GEN)$(GTCORE)/scripts/make-spellerbadge-json.sh $(srcdir)/typosreport/report.json > $@
+
+$(srcdir)/typossize.json: FORCE
+	$(AM_V_GEN)$(GTCORE)/scripts/make-typossize-json.sh $(srcdir)/typosreport/report.json > $@
 
 # Convert source filenames to extracted documentation filenames, VPATH safe:
 # ../../../src/fst/morphology/stems/adverbs.lexc => src-fst-morphology-stems-adverbs.lexc.md
