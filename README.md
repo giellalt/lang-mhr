@@ -1,8 +1,8 @@
 The Eastern Mari (Meadow and Eastern Mari) morphology and tools
 ==========================================
 
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mhr%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html)
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mhr%2Fgh-pages%2Flemmacount.json)
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mhr%2Fgh-pages%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mhr%2Fgh-pages%2Fbadgedata%2Ffst-lemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mhr)](https://github.com/giellalt/lang-mhr/issues)
 [![License](https://img.shields.io/github/license/giellalt/lang-mhr)](https://github.com/giellalt/lang-mhr/blob/main/LICENSE)
 [![Doc Build Status](https://github.com/giellalt/lang-mhr/workflows/Docs/badge.svg)](https://github.com/giellalt/lang-mhr/actions)
