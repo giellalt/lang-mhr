@@ -439,7 +439,13 @@ REPONAME = $(shell  grep '__REPO__' $(top_srcdir)/.gut/delta.toml | cut -d'"' -f
 # " reset syntax colouring - gets confused by the single double quote in the previous line
 
 # no regenerations while debugging
-doc_DATA = $(INDEX) $(LINKS) $(ALLINONE_MD_PAGE) lemmacount.json maturity.json spellersuggs.json typossize.json
+doc_DATA = $(INDEX) $(LINKS) $(ALLINONE_MD_PAGE) \
+	badgedata/fst-lemmacount.json \
+	badgedata/fst-maturity.json \
+	badgedata/fst-version.json \
+	badgedata/speller-suggestions.json \
+	badgedata/speller-version.json
+
 DOCC2MDWIKI = $(GTCORE)/scripts/doccomments2ghpages.awk
 DOCC2MDWIKI_CG3 = $(GTCORE)/scripts/doccomments2ghpages-vislcg.awk
 GRAPHPLOTTER = $(GTCORE)/scripts/plot-speller-progress.R
@@ -953,18 +959,26 @@ regenerate-markdown: generate-markdown
 
 # Generate endpoint json file for shield.io lemma count badge.
 # Only to be stored in the gh-pages branch, ignored in main.
-$(srcdir)/lemmacount.json: FORCE
+$(srcdir)/badgedata/fst-lemmacount.json: FORCE
+	@mkdir -p $(srcdir)/badgedata
 	$(AM_V_GEN)$(GTCORE)/scripts/make-lemmacount.json.sh $(abs_top_srcdir) > $@
 
 # Generate a maturity.json file as endpoint for the maturity badge.
-$(srcdir)/maturity.json: FORCE
+$(srcdir)/badgedata/fst-maturity.json: FORCE
+	@mkdir -p $(srcdir)/badgedata
 	$(AM_V_GEN)$(GTCORE)/scripts/make-maturity.json.sh $(REPONAME) > $@
 
-$(srcdir)/spellersuggs.json: FORCE
+$(srcdir)/badgedata/fst-version.json: FORCE
+	@mkdir -p $(srcdir)/badgedata
+	$(AM_V_GEN)$(GTCORE)/scripts/make-version-json.sh $(abs_top_srcdir) FST > $@
+
+$(srcdir)/badgedata/speller-suggestions.json: FORCE
+	@mkdir -p $(srcdir)/badgedata
 	$(AM_V_GEN)$(GTCORE)/scripts/make-spellerbadge-json.sh $(srcdir)/typosreport/report.json > $@
 
-$(srcdir)/typossize.json: FORCE
-	$(AM_V_GEN)$(GTCORE)/scripts/make-typossize-json.sh $(srcdir)/typosreport/report.json > $@
+$(srcdir)/badgedata/speller-version.json: FORCE
+	@mkdir -p $(srcdir)/badgedata
+	$(AM_V_GEN)$(GTCORE)/scripts/make-version-json.sh $(abs_top_srcdir) SPELLER > $@
 
 # Convert source filenames to extracted documentation filenames, VPATH safe:
 # ../../../src/fst/morphology/stems/adverbs.lexc => src-fst-morphology-stems-adverbs.lexc.md
