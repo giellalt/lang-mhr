@@ -2158,7 +2158,7 @@ MAP:-fsubj> (@-FSUBJ>) TARGET HUMAN + Gen (1 (Actio Nom) LINK 1 N) ;
 
 
 	# Adverbials - ADVL
-LIST MOVE-VERBS-sme = "báhcit" "beassat" "boahtit" "čuoigat" "fárret" "fierrat" "gahččat" "girdit" "johtit" "sihkkelastit" "sirdit" "vázzát" "vázzit" "viehkat" "viehkalit" "vuodjit" "vuojehit" "vuolgit" "vuolggahit"  ;
+LIST MOVE-VERBS-sme = "báhcit" "beassat" "boahtit" "čuoigat" "fárret" "fierrat" "gahččat" "girdit" "johtit" "sihkkelastit" "sirdit" "vázzát" "vázzit" "viehkat" "viehkalit" "vuodjit" "vuojehit" "vuolgit" "vuolggahit" "vuoddját"  ;
 
 LIST ELA-VERBS-NOT-PLC-sme = "árbet" "bálkestit" "báidnit" "beassat" "čiehkádit" "čoaggit" "čohkket" "diŋgot" "duvdit" "earránit" "fuollat" "gáibidit" "geassádit" "goaikut" "jearrat" "jorgalit" "logaldallat"  "nákkáhallat" "njammat" "njoammut" "oastit" "oažžut" "rivvet" "sierranit" "suoladit" "suorggidit" "váldit" "válljet" "vuovdit"  ;
 
@@ -2862,12 +2862,12 @@ SUBSTITUTE:apertium-unhide-derivtags SUB:1  (ex_iv) (iv) TARGET (ex_iv) ;
 
 #!! Here we remove special tags for MT
 
-SUBSTITUTE (@ADVL-ela>) (@ADVL>) TARGET (@ADVL-ela>) ;
-SUBSTITUTE (@ADVL-ine>) (@ADVL>) TARGET (@ADVL-ine>) ;
-SUBSTITUTE (@<ADVL-ine) (@<ADVL) TARGET (@<ADVL-ine) ;
-SUBSTITUTE (@<ADVL-ela) (@<ADVL) TARGET (@<ADVL-ela) ;
-SUBSTITUTE (@-F<ADVL-ine) (@-F<ADVL) TARGET (@-F<ADVL-ine) ;
-SUBSTITUTE (@-F<ADVL-ela) (@-F<ADVL) TARGET (@-F<ADVL-ela) ;
+#SUBSTITUTE (@ADVL-ela>) (@ADVL>) TARGET (@ADVL-ela>) ;
+#SUBSTITUTE (@ADVL-ine>) (@ADVL>) TARGET (@ADVL-ine>) ;
+#SUBSTITUTE (@<ADVL-ine) (@<ADVL) TARGET (@<ADVL-ine) ;
+#SUBSTITUTE (@<ADVL-ela) (@<ADVL) TARGET (@<ADVL-ela) ;
+#SUBSTITUTE (@-F<ADVL-ine) (@-F<ADVL) TARGET (@-F<ADVL-ine) ;
+#SUBSTITUTE (@-F<ADVL-ela) (@-F<ADVL) TARGET (@-F<ADVL-ela) ;
 
 #!! ! __smeRemove__ removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
 
